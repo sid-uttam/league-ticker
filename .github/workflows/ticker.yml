@@ -1,0 +1,70 @@
+name: League ticker
+
+# One long run that keeps checking the leagues: every 10 minutes while a gameweek is live,
+# every 30 minutes otherwise. The engine lives in a private repository; each round fetches its
+# latest version with a read-only key (secret ENGINE_KEY), so updates apply on their own.
+# Before GitHub's 6-hour limit it starts a fresh run, so the ticker never stops.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "*/30 * * * *"  # backup only: restarts the loop if it ever stops
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: ticker
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install the picture maker
+        run: pip install -q "playwright==1.48.0" || echo "Couldn't install Playwright; award pictures will be skipped."
+      - name: Set up the engine key
+        env:
+          ENGINE_KEY: ${{ secrets.ENGINE_KEY }}
+        run: |
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$ENGINE_KEY" > ~/.ssh/engine && chmod 600 ~/.ssh/engine
+          ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null
+      - name: Keep checking the leagues
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          GIT_SSH_COMMAND: ssh -i ~/.ssh/engine -o IdentitiesOnly=yes
+        run: |
+          git config user.name "micromanager-bot"
+          git config user.email "micromanager-bot@users.noreply.github.com"
+          start=$(date +%s)
+          while true; do
+            git pull -q --rebase origin main || echo "Couldn't pull the pages; using what's here."
+            if [ -d engine/.git ]; then
+              git -C engine pull -q --ff-only || echo "Couldn't update the engine; using the version here."
+            else
+              git clone -q --depth 1 git@github.com:sid-uttam/league-ticker-engine.git engine || echo "Couldn't fetch the engine."
+            fi
+            if [ -f engine/run.py ]; then
+              rm -rf micromanager leagues && cp -r engine/micromanager engine/leagues engine/run.py engine/config.json .
+              python run.py || echo "This check failed; trying again next round."
+            fi
+            git add docs state
+            if ! git diff --cached --quiet; then
+              git commit -q -m "Ticker update"
+              (git pull -q --rebase origin main && git push -q) || echo "Couldn't save this round; will retry."
+            fi
+            phase=$(python -c "import json;print(json.load(open('state/state.json')).get('phase',''))" 2>/dev/null || true)
+            if [ "$phase" = "live" ]; then wait=600; else wait=1800; fi
+            elapsed=$(( $(date +%s) - start ))
+            if [ $(( elapsed + wait )) -gt 19800 ]; then break; fi  # leave room before the 6-hour limit
+            echo "Next check in $(( wait / 60 )) minutes."
+            sleep $wait
+          done
+          gh workflow run ticker.yml --ref main  # hand over to a fresh run

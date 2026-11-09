@@ -1,0 +1,9 @@
+__pycache__/
+# The engine is fetched from the private repository at run time and never committed here.
+engine/
+micromanager/
+leagues/
+run.py
+config.json
+tests/
+BRIEF.md
