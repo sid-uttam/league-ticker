@@ -1,6 +1,105 @@
 {
  "stories": [
   {
+   "key": "w10",
+   "kind": "wrap",
+   "tag": "Wrap",
+   "head": "GW10 wrap: Dominic wins the week with 75",
+   "body": "Manager of the week: Dominic · 75\nCaptain call: Hishaan's Barry · 32\nTransfer of the week: Tonna's Vuskovic · 12\nThe one that got away: Ayodele sold Ødegaard · 11\nBench of shame: Cherag · 24 left on the bench\nClimber of the week: Hishaan · up 5 to 9th\nWooden spoon: Sasha · 30",
+   "stat": "Top: 1 Ayodele · 2 Cherag · 3 Sid",
+   "score": 95,
+   "who": [
+    75187
+   ],
+   "ts": "2026-11-09T15:02:45Z",
+   "gw": 10
+  },
+  {
+   "key": "w10:cap-blank:67",
+   "kind": "wrap",
+   "tag": "Captains",
+   "head": "Armband agony: Cherag's Rayan returns 2",
+   "body": "The captain didn't turn up this week.",
+   "stat": "2 pts",
+   "score": 45,
+   "who": [
+    3219276
+   ],
+   "ts": "2026-11-09T15:02:45Z",
+   "gw": 10
+  },
+  {
+   "key": "w10:cap-blank:40",
+   "kind": "wrap",
+   "tag": "Captains",
+   "head": "Armband agony: Lavesh's Rogers returns 2",
+   "body": "The captain didn't turn up this week.",
+   "stat": "2 pts",
+   "score": 45,
+   "who": [
+    6619523
+   ],
+   "ts": "2026-11-09T15:02:45Z",
+   "gw": 10
+  },
+  {
+   "key": "w10:cap-blank:106",
+   "kind": "wrap",
+   "tag": "Captains",
+   "head": "Armband agony: Sasha's Thiago returns -2",
+   "body": "The captain didn't turn up this week.",
+   "stat": "-2 pts",
+   "score": 45,
+   "who": [
+    5706920
+   ],
+   "ts": "2026-11-09T15:02:45Z",
+   "gw": 10
+  },
+  {
+   "key": "news:391:Unspecified injury - 75% chance of playing",
+   "kind": "news",
+   "tag": "News",
+   "head": "Injury watch: Gvardiol",
+   "body": "Unspecified injury - 75% chance of playing. 10 of you own him.",
+   "stat": "75% to play",
+   "score": 45,
+   "who": [
+    363548,
+    383423,
+    1092588,
+    1541394,
+    3375627,
+    3506595,
+    4125292,
+    4922092,
+    5028423,
+    5873092
+   ],
+   "ts": "2026-11-09T15:02:45Z",
+   "gw": 10
+  },
+  {
+   "key": "news:173:Calf injury - 50% chance of playing",
+   "kind": "news",
+   "tag": "News",
+   "head": "Injury watch: Thomas",
+   "body": "Calf injury - 50% chance of playing. 7 of you own him.",
+   "stat": "50% to play",
+   "score": 42,
+   "who": [
+    363548,
+    1378937,
+    3359227,
+    4125292,
+    4841175,
+    5489583,
+    7471754
+   ],
+   "ts": "2026-11-09T15:02:45Z",
+   "gw": 10
+  },
+  {
    "key": "l10:ret:426:1:1",
    "kind": "live",
    "tag": "Live",
@@ -1496,11 +1595,18 @@
   "l10:ret:428:0:1",
   "l10:shuffle:2026-11-08T17",
   "d10:bought:166:1:1",
-  "l10:ret:426:1:1"
+  "l10:ret:426:1:1",
+  "w10",
+  "w10:cap-blank:67",
+  "w10:cap-blank:40",
+  "w10:cap-blank:106",
+  "news:391:Unspecified injury - 75% chance of playing",
+  "news:173:Calf injury - 50% chance of playing"
  ],
  "done": [
   "deadline:10",
   "deadline:9",
+  "wrap:10",
   "wrap:9"
  ],
  "snap": {
@@ -2750,8 +2856,8 @@
    "7471754": 6,
    "1378937": 7,
    "5489583": 8,
-   "3506595": 9,
    "4125292": 9,
+   "3506595": 9,
    "962024": 11,
    "363548": 12,
    "4922092": 13,
@@ -2781,8 +2887,8 @@
    "7471754": "silver",
    "1378937": "silver",
    "5489583": "silver",
-   "3506595": null,
    "4125292": null,
+   "3506595": null,
    "962024": null,
    "363548": null,
    "4922092": null,
@@ -2804,103 +2910,10 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-09T14:49:35Z",
+ "updated": "2026-11-09T15:02:45Z",
  "hist": {
-  "key": "10:live",
+  "key": "10:between",
   "data": {
-   "3219276": {
-    "past": 20,
-    "cur": [
-     [
-      1,
-      68,
-      0,
-      0,
-      0
-     ],
-     [
-      2,
-      110,
-      0,
-      0,
-      11
-     ],
-     [
-      3,
-      46,
-      0,
-      0,
-      7
-     ],
-     [
-      4,
-      103,
-      1,
-      0,
-      15
-     ],
-     [
-      5,
-      58,
-      0,
-      0,
-      14
-     ],
-     [
-      6,
-      84,
-      1,
-      0,
-      4
-     ],
-     [
-      7,
-      61,
-      0,
-      0,
-      14
-     ],
-     [
-      8,
-      57,
-      3,
-      0,
-      6
-     ],
-     [
-      9,
-      54,
-      1,
-      0,
-      18
-     ],
-     [
-      10,
-      0,
-      1,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "bboost",
-      1
-     ],
-     [
-      "wildcard",
-      3
-     ],
-     [
-      "3xc",
-      4
-     ],
-     [
-      "freehit",
-      5
-     ]
-    ]
-   },
    "1092588": {
     "past": 7,
     "cur": [
@@ -2969,10 +2982,10 @@
      ],
      [
       10,
-      0,
+      61,
       1,
       0,
-      0
+      17
      ]
     ],
     "chips": [
@@ -2987,6 +3000,99 @@
      [
       "3xc",
       7
+     ]
+    ]
+   },
+   "3219276": {
+    "past": 20,
+    "cur": [
+     [
+      1,
+      68,
+      0,
+      0,
+      0
+     ],
+     [
+      2,
+      110,
+      0,
+      0,
+      11
+     ],
+     [
+      3,
+      46,
+      0,
+      0,
+      7
+     ],
+     [
+      4,
+      103,
+      1,
+      0,
+      15
+     ],
+     [
+      5,
+      58,
+      0,
+      0,
+      14
+     ],
+     [
+      6,
+      84,
+      1,
+      0,
+      4
+     ],
+     [
+      7,
+      61,
+      0,
+      0,
+      14
+     ],
+     [
+      8,
+      57,
+      3,
+      0,
+      6
+     ],
+     [
+      9,
+      54,
+      1,
+      0,
+      18
+     ],
+     [
+      10,
+      51,
+      1,
+      0,
+      24
+     ]
+    ],
+    "chips": [
+     [
+      "bboost",
+      1
+     ],
+     [
+      "wildcard",
+      3
+     ],
+     [
+      "3xc",
+      4
+     ],
+     [
+      "freehit",
+      5
      ]
     ]
    },
@@ -3058,10 +3164,10 @@
      ],
      [
       10,
-      0,
+      60,
       1,
       0,
-      0
+      12
      ]
     ],
     "chips": [
@@ -3147,10 +3253,10 @@
      ],
      [
       10,
-      0,
+      67,
       1,
       0,
-      0
+      14
      ]
     ],
     "chips": [
@@ -3232,10 +3338,10 @@
      ],
      [
       10,
-      0,
+      65,
       1,
       0,
-      0
+      15
      ]
     ],
     "chips": [
@@ -3325,102 +3431,13 @@
      ],
      [
       10,
-      0,
+      70,
       2,
       0,
-      0
+      3
      ]
     ],
     "chips": []
-   },
-   "5489583": {
-    "past": 8,
-    "cur": [
-     [
-      1,
-      61,
-      0,
-      0,
-      7
-     ],
-     [
-      2,
-      92,
-      0,
-      0,
-      15
-     ],
-     [
-      3,
-      65,
-      2,
-      0,
-      13
-     ],
-     [
-      4,
-      69,
-      0,
-      0,
-      9
-     ],
-     [
-      5,
-      63,
-      1,
-      0,
-      15
-     ],
-     [
-      6,
-      69,
-      0,
-      0,
-      7
-     ],
-     [
-      7,
-      79,
-      0,
-      0,
-      10
-     ],
-     [
-      8,
-      39,
-      1,
-      0,
-      10
-     ],
-     [
-      9,
-      50,
-      2,
-      0,
-      11
-     ],
-     [
-      10,
-      0,
-      1,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "3xc",
-      3
-     ],
-     [
-      "freehit",
-      4
-     ],
-     [
-      "wildcard",
-      6
-     ]
-    ]
    },
    "1378937": {
     "past": 16,
@@ -3490,10 +3507,10 @@
      ],
      [
       10,
-      0,
+      67,
       1,
       0,
-      0
+      11
      ]
     ],
     "chips": [
@@ -3504,6 +3521,95 @@
      [
       "3xc",
       3
+     ],
+     [
+      "wildcard",
+      6
+     ]
+    ]
+   },
+   "5489583": {
+    "past": 8,
+    "cur": [
+     [
+      1,
+      61,
+      0,
+      0,
+      7
+     ],
+     [
+      2,
+      92,
+      0,
+      0,
+      15
+     ],
+     [
+      3,
+      65,
+      2,
+      0,
+      13
+     ],
+     [
+      4,
+      69,
+      0,
+      0,
+      9
+     ],
+     [
+      5,
+      63,
+      1,
+      0,
+      15
+     ],
+     [
+      6,
+      69,
+      0,
+      0,
+      7
+     ],
+     [
+      7,
+      79,
+      0,
+      0,
+      10
+     ],
+     [
+      8,
+      39,
+      1,
+      0,
+      10
+     ],
+     [
+      9,
+      50,
+      2,
+      0,
+      11
+     ],
+     [
+      10,
+      57,
+      1,
+      0,
+      10
+     ]
+    ],
+    "chips": [
+     [
+      "3xc",
+      3
+     ],
+     [
+      "freehit",
+      4
      ],
      [
       "wildcard",
@@ -3579,10 +3685,10 @@
      ],
      [
       10,
-      0,
+      51,
       1,
       0,
-      0
+      10
      ]
     ],
     "chips": [
@@ -3600,266 +3706,84 @@
      ]
     ]
    },
-   "4922092": {
+   "3506595": {
     "past": 8,
-    "cur": [
-     [
-      1,
-      68,
-      0,
-      0,
-      0
-     ],
-     [
-      2,
-      71,
-      0,
-      0,
-      2
-     ],
-     [
-      3,
-      68,
-      2,
-      0,
-      13
-     ],
-     [
-      4,
-      79,
-      1,
-      0,
-      23
-     ],
-     [
-      5,
-      53,
-      0,
-      0,
-      16
-     ],
-     [
-      6,
-      68,
-      2,
-      0,
-      13
-     ],
-     [
-      7,
-      63,
-      1,
-      0,
-      5
-     ],
-     [
-      8,
-      54,
-      1,
-      0,
-      3
-     ],
-     [
-      9,
-      58,
-      0,
-      0,
-      23
-     ],
-     [
-      10,
-      0,
-      1,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "bboost",
-      1
-     ],
-     [
-      "freehit",
-      9
-     ]
-    ]
-   },
-   "363548": {
-    "past": 8,
-    "cur": [
-     [
-      1,
-      66,
-      0,
-      0,
-      0
-     ],
-     [
-      2,
-      115,
-      0,
-      0,
-      15
-     ],
-     [
-      3,
-      57,
-      0,
-      0,
-      14
-     ],
-     [
-      4,
-      85,
-      1,
-      0,
-      5
-     ],
-     [
-      5,
-      30,
-      2,
-      0,
-      16
-     ],
-     [
-      6,
-      55,
-      1,
-      0,
-      5
-     ],
-     [
-      7,
-      72,
-      0,
-      0,
-      5
-     ],
-     [
-      8,
-      44,
-      0,
-      0,
-      5
-     ],
-     [
-      9,
-      56,
-      1,
-      0,
-      15
-     ],
-     [
-      10,
-      0,
-      1,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "bboost",
-      1
-     ],
-     [
-      "freehit",
-      3
-     ],
-     [
-      "wildcard",
-      7
-     ]
-    ]
-   },
-   "3359227": {
-    "past": 16,
     "cur": [
      [
       1,
       48,
       0,
       0,
-      8
+      11
      ],
      [
       2,
-      88,
+      96,
+      0,
+      0,
+      5
+     ],
+     [
+      3,
+      70,
+      1,
+      0,
+      10
+     ],
+     [
+      4,
+      76,
+      2,
+      0,
+      8
+     ],
+     [
+      5,
+      53,
       0,
       0,
       2
      ],
      [
-      3,
-      74,
-      2,
-      0,
-      9
-     ],
-     [
-      4,
-      46,
-      1,
-      0,
-      4
-     ],
-     [
-      5,
-      47,
-      0,
-      0,
-      0
-     ],
-     [
       6,
-      65,
-      0,
+      55,
+      2,
       0,
       7
      ],
      [
       7,
-      80,
+      57,
       0,
       0,
-      5
+      4
      ],
      [
       8,
-      59,
+      37,
       1,
       0,
-      3
+      9
      ],
      [
       9,
-      60,
-      1,
+      68,
+      2,
       0,
-      3
+      9
      ],
      [
       10,
+      74,
       0,
-      1,
       0,
-      0
+      1
      ]
     ],
     "chips": [
      [
       "3xc",
-      3
-     ],
-     [
-      "freehit",
-      5
-     ],
-     [
-      "wildcard",
-      6
+      2
      ]
     ]
    },
@@ -3931,92 +3855,274 @@
      ],
      [
       10,
-      0,
+      64,
       1,
       0,
-      0
+      9
      ]
     ],
     "chips": []
    },
-   "3506595": {
+   "363548": {
     "past": 8,
     "cur": [
      [
       1,
-      48,
+      66,
       0,
       0,
-      11
+      0
      ],
      [
       2,
-      96,
+      115,
+      0,
+      0,
+      15
+     ],
+     [
+      3,
+      57,
+      0,
+      0,
+      14
+     ],
+     [
+      4,
+      85,
+      1,
+      0,
+      5
+     ],
+     [
+      5,
+      30,
+      2,
+      0,
+      16
+     ],
+     [
+      6,
+      55,
+      1,
+      0,
+      5
+     ],
+     [
+      7,
+      72,
       0,
       0,
       5
      ],
      [
-      3,
-      70,
+      8,
+      44,
+      0,
+      0,
+      5
+     ],
+     [
+      9,
+      56,
       1,
       0,
-      10
+      15
+     ],
+     [
+      10,
+      50,
+      1,
+      0,
+      4
+     ]
+    ],
+    "chips": [
+     [
+      "bboost",
+      1
+     ],
+     [
+      "freehit",
+      3
+     ],
+     [
+      "wildcard",
+      7
+     ]
+    ]
+   },
+   "4922092": {
+    "past": 8,
+    "cur": [
+     [
+      1,
+      68,
+      0,
+      0,
+      0
+     ],
+     [
+      2,
+      71,
+      0,
+      0,
+      2
+     ],
+     [
+      3,
+      68,
+      2,
+      0,
+      13
      ],
      [
       4,
-      76,
-      2,
+      79,
+      1,
       0,
-      8
+      23
      ],
      [
       5,
       53,
       0,
       0,
-      2
+      16
      ],
      [
       6,
-      55,
+      68,
       2,
+      0,
+      13
+     ],
+     [
+      7,
+      63,
+      1,
+      0,
+      5
+     ],
+     [
+      8,
+      54,
+      1,
+      0,
+      3
+     ],
+     [
+      9,
+      58,
+      0,
+      0,
+      23
+     ],
+     [
+      10,
+      47,
+      1,
+      0,
+      7
+     ]
+    ],
+    "chips": [
+     [
+      "bboost",
+      1
+     ],
+     [
+      "freehit",
+      9
+     ]
+    ]
+   },
+   "3359227": {
+    "past": 16,
+    "cur": [
+     [
+      1,
+      48,
+      0,
+      0,
+      8
+     ],
+     [
+      2,
+      88,
+      0,
+      0,
+      2
+     ],
+     [
+      3,
+      74,
+      2,
+      0,
+      9
+     ],
+     [
+      4,
+      46,
+      1,
+      0,
+      4
+     ],
+     [
+      5,
+      47,
+      0,
+      0,
+      0
+     ],
+     [
+      6,
+      65,
+      0,
       0,
       7
      ],
      [
       7,
-      57,
+      80,
       0,
       0,
-      4
+      5
      ],
      [
       8,
-      37,
+      59,
       1,
       0,
-      9
+      3
      ],
      [
       9,
-      68,
-      2,
+      60,
+      1,
       0,
-      9
+      3
      ],
      [
       10,
+      59,
+      1,
       0,
-      0,
-      0,
-      0
+      3
      ]
     ],
     "chips": [
      [
       "3xc",
-      2
+      3
+     ],
+     [
+      "freehit",
+      5
+     ],
+     [
+      "wildcard",
+      6
      ]
     ]
    },
@@ -4088,10 +4194,10 @@
      ],
      [
       10,
-      0,
+      61,
       1,
       0,
-      0
+      8
      ]
     ],
     "chips": [
@@ -4169,10 +4275,10 @@
      ],
      [
       10,
+      60,
       0,
       0,
-      0,
-      0
+      11
      ]
     ],
     "chips": [
@@ -4183,87 +4289,6 @@
      [
       "wildcard",
       6
-     ]
-    ]
-   },
-   "6341709": {
-    "past": 13,
-    "cur": [
-     [
-      1,
-      62,
-      0,
-      0,
-      8
-     ],
-     [
-      2,
-      87,
-      0,
-      0,
-      4
-     ],
-     [
-      3,
-      47,
-      2,
-      0,
-      4
-     ],
-     [
-      4,
-      70,
-      1,
-      0,
-      3
-     ],
-     [
-      5,
-      57,
-      0,
-      0,
-      10
-     ],
-     [
-      6,
-      46,
-      0,
-      0,
-      7
-     ],
-     [
-      7,
-      70,
-      2,
-      0,
-      4
-     ],
-     [
-      8,
-      62,
-      1,
-      0,
-      1
-     ],
-     [
-      9,
-      50,
-      1,
-      0,
-      6
-     ],
-     [
-      10,
-      0,
-      1,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "wildcard",
-      5
      ]
     ]
    },
@@ -4335,10 +4360,10 @@
      ],
      [
       10,
-      0,
+      63,
       2,
       0,
-      0
+      5
      ]
     ],
     "chips": []
@@ -4411,10 +4436,10 @@
      ],
      [
       10,
-      0,
+      75,
       1,
       0,
-      0
+      9
      ]
     ],
     "chips": [
@@ -4433,6 +4458,168 @@
      [
       "freehit",
       6
+     ]
+    ]
+   },
+   "4841175": {
+    "past": 2,
+    "cur": [
+     [
+      1,
+      48,
+      0,
+      0,
+      0
+     ],
+     [
+      2,
+      87,
+      0,
+      0,
+      1
+     ],
+     [
+      3,
+      51,
+      0,
+      0,
+      5
+     ],
+     [
+      4,
+      61,
+      0,
+      0,
+      26
+     ],
+     [
+      5,
+      57,
+      3,
+      0,
+      24
+     ],
+     [
+      6,
+      61,
+      0,
+      0,
+      14
+     ],
+     [
+      7,
+      67,
+      0,
+      0,
+      14
+     ],
+     [
+      8,
+      43,
+      0,
+      0,
+      15
+     ],
+     [
+      9,
+      56,
+      3,
+      0,
+      20
+     ],
+     [
+      10,
+      74,
+      0,
+      0,
+      7
+     ]
+    ],
+    "chips": [
+     [
+      "wildcard",
+      4
+     ]
+    ]
+   },
+   "6341709": {
+    "past": 13,
+    "cur": [
+     [
+      1,
+      62,
+      0,
+      0,
+      8
+     ],
+     [
+      2,
+      87,
+      0,
+      0,
+      4
+     ],
+     [
+      3,
+      47,
+      2,
+      0,
+      4
+     ],
+     [
+      4,
+      70,
+      1,
+      0,
+      3
+     ],
+     [
+      5,
+      57,
+      0,
+      0,
+      10
+     ],
+     [
+      6,
+      46,
+      0,
+      0,
+      7
+     ],
+     [
+      7,
+      70,
+      2,
+      0,
+      4
+     ],
+     [
+      8,
+      62,
+      1,
+      0,
+      1
+     ],
+     [
+      9,
+      50,
+      1,
+      0,
+      6
+     ],
+     [
+      10,
+      52,
+      1,
+      0,
+      1
+     ]
+    ],
+    "chips": [
+     [
+      "wildcard",
+      5
      ]
     ]
    },
@@ -4504,10 +4691,10 @@
      ],
      [
       10,
-      0,
+      66,
       1,
       0,
-      0
+      17
      ]
     ],
     "chips": [
@@ -4589,187 +4776,13 @@
      ],
      [
       10,
+      48,
       0,
       0,
-      0,
-      0
+      10
      ]
     ],
     "chips": []
-   },
-   "4841175": {
-    "past": 2,
-    "cur": [
-     [
-      1,
-      48,
-      0,
-      0,
-      0
-     ],
-     [
-      2,
-      87,
-      0,
-      0,
-      1
-     ],
-     [
-      3,
-      51,
-      0,
-      0,
-      5
-     ],
-     [
-      4,
-      61,
-      0,
-      0,
-      26
-     ],
-     [
-      5,
-      57,
-      3,
-      0,
-      24
-     ],
-     [
-      6,
-      61,
-      0,
-      0,
-      14
-     ],
-     [
-      7,
-      67,
-      0,
-      0,
-      14
-     ],
-     [
-      8,
-      43,
-      0,
-      0,
-      15
-     ],
-     [
-      9,
-      56,
-      3,
-      0,
-      20
-     ],
-     [
-      10,
-      0,
-      0,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "wildcard",
-      4
-     ]
-    ]
-   },
-   "1474501": {
-    "past": 1,
-    "cur": [
-     [
-      1,
-      62,
-      0,
-      0,
-      0
-     ],
-     [
-      2,
-      93,
-      2,
-      4,
-      13
-     ],
-     [
-      3,
-      53,
-      0,
-      0,
-      5
-     ],
-     [
-      4,
-      81,
-      1,
-      0,
-      26
-     ],
-     [
-      5,
-      35,
-      1,
-      0,
-      14
-     ],
-     [
-      6,
-      48,
-      0,
-      0,
-      22
-     ],
-     [
-      7,
-      74,
-      1,
-      0,
-      14
-     ],
-     [
-      8,
-      35,
-      1,
-      0,
-      12
-     ],
-     [
-      9,
-      44,
-      2,
-      4,
-      19
-     ],
-     [
-      10,
-      0,
-      1,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "bboost",
-      1
-     ],
-     [
-      "wildcard",
-      3
-     ],
-     [
-      "freehit",
-      6
-     ],
-     [
-      "3xc",
-      7
-     ]
-    ]
    },
    "5028423": {
     "past": 3,
@@ -4839,13 +4852,106 @@
      ],
      [
       10,
+      62,
       0,
       0,
-      0,
-      0
+      4
      ]
     ],
     "chips": []
+   },
+   "1474501": {
+    "past": 1,
+    "cur": [
+     [
+      1,
+      62,
+      0,
+      0,
+      0
+     ],
+     [
+      2,
+      93,
+      2,
+      4,
+      13
+     ],
+     [
+      3,
+      53,
+      0,
+      0,
+      5
+     ],
+     [
+      4,
+      81,
+      1,
+      0,
+      26
+     ],
+     [
+      5,
+      35,
+      1,
+      0,
+      14
+     ],
+     [
+      6,
+      48,
+      0,
+      0,
+      22
+     ],
+     [
+      7,
+      74,
+      1,
+      0,
+      14
+     ],
+     [
+      8,
+      35,
+      1,
+      0,
+      12
+     ],
+     [
+      9,
+      44,
+      2,
+      4,
+      19
+     ],
+     [
+      10,
+      61,
+      1,
+      0,
+      7
+     ]
+    ],
+    "chips": [
+     [
+      "bboost",
+      1
+     ],
+     [
+      "wildcard",
+      3
+     ],
+     [
+      "freehit",
+      6
+     ],
+     [
+      "3xc",
+      7
+     ]
+    ]
    },
    "383423": {
     "past": 14,
@@ -4915,105 +5021,16 @@
      ],
      [
       10,
-      0,
+      58,
       2,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "wildcard",
-      3
-     ]
-    ]
-   },
-   "3375627": {
-    "past": 8,
-    "cur": [
-     [
-      1,
-      78,
-      0,
-      0,
-      2
-     ],
-     [
-      2,
-      63,
-      1,
-      0,
-      6
-     ],
-     [
-      3,
-      60,
-      0,
-      0,
-      9
-     ],
-     [
-      4,
-      56,
-      2,
-      0,
-      21
-     ],
-     [
-      5,
-      54,
-      0,
-      0,
-      19
-     ],
-     [
-      6,
-      52,
-      0,
       0,
       8
-     ],
-     [
-      7,
-      53,
-      2,
-      4,
-      0
-     ],
-     [
-      8,
-      49,
-      3,
-      8,
-      9
-     ],
-     [
-      9,
-      56,
-      1,
-      0,
-      3
-     ],
-     [
-      10,
-      0,
-      1,
-      0,
-      0
      ]
     ],
     "chips": [
      [
-      "freehit",
-      5
-     ],
-     [
       "wildcard",
-      6
-     ],
-     [
-      "bboost",
-      7
+      3
      ]
     ]
    },
@@ -5085,15 +5102,104 @@
      ],
      [
       10,
+      63,
       0,
       0,
-      0,
-      0
+      10
      ]
     ],
     "chips": [
      [
       "3xc",
+      7
+     ]
+    ]
+   },
+   "3375627": {
+    "past": 8,
+    "cur": [
+     [
+      1,
+      78,
+      0,
+      0,
+      2
+     ],
+     [
+      2,
+      63,
+      1,
+      0,
+      6
+     ],
+     [
+      3,
+      60,
+      0,
+      0,
+      9
+     ],
+     [
+      4,
+      56,
+      2,
+      0,
+      21
+     ],
+     [
+      5,
+      54,
+      0,
+      0,
+      19
+     ],
+     [
+      6,
+      52,
+      0,
+      0,
+      8
+     ],
+     [
+      7,
+      53,
+      2,
+      4,
+      0
+     ],
+     [
+      8,
+      49,
+      3,
+      8,
+      9
+     ],
+     [
+      9,
+      56,
+      1,
+      0,
+      3
+     ],
+     [
+      10,
+      45,
+      1,
+      0,
+      4
+     ]
+    ],
+    "chips": [
+     [
+      "freehit",
+      5
+     ],
+     [
+      "wildcard",
+      6
+     ],
+     [
+      "bboost",
       7
      ]
     ]
@@ -5166,10 +5272,10 @@
      ],
      [
       10,
-      0,
+      52,
       1,
       0,
-      0
+      5
      ]
     ],
     "chips": [
@@ -5247,7 +5353,7 @@
      ],
      [
       10,
-      0,
+      30,
       0,
       0,
       0
@@ -5270,7 +5376,7 @@
    "GW10 live: Barry's armband drags Hishaan up as Haaland stays silent. Hishaan is the live story: Barry has 32 captain points, and nobody else in the league owns him, so Hishaan has climbed from 14th to 7th. Cherag still leads Ayodele by 10 points, but the top spot now turns on Rayan against Haaland. Haaland has 0 points so far, yet 21 managers are waiting on him, Ayodele included. Dominic's 34 gameweek points are the other eye-catcher, while Isaiah sits 26th on 529 points.",
    "GW10 live: Hishaan's Barry armband lifts the mid-table. Hishaan is the live story: Barry has 32 captain points, and nobody else in the league owns him, so Hishaan has climbed from 14th to 6th. Cherag still leads Ayodele, 646 to 641, and the top spot turns on Rayan against Haaland. Haaland has 0 points so far, yet 21 managers are waiting on him, Ayodele included. Dominic's 22 gameweek points are the other eye-catcher, while Isaiah slips to 25th."
   ],
-  "ts": "2026-11-08T18:29:47Z",
+  "ts": "2026-11-09T15:02:45Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -5381,17 +5487,17 @@
     ]
    }
   ],
-  "key": "10:live",
+  "key": "10:between",
   "usage": {
    "10": {
-    "in": 1536514,
-    "out": 383017,
-    "calls": 121,
-    "refreshes": 21,
+    "in": 1570551,
+    "out": 386315,
+    "calls": 125,
+    "refreshes": 22,
     "desks": 31,
     "desk_in": 743088,
     "desk_out": 246195,
-    "plots": 7
+    "plots": 8
    }
   },
   "desks": [
@@ -6260,54 +6366,11 @@
   "desk_last_ok": "2026-11-09T12:14:59Z",
   "plots": [
    {
-    "id": "underdog:573491",
-    "title": "Nihal Climbs To 4th",
-    "status": "Building",
-    "text": "Nihal has risen from 26th in GW1 to 4th, the biggest climb in the league. The rise has paused, with 4th held for 2 weeks.",
-    "next": "Could Nihal push into the top 3, or does the climb stall here?",
-    "who": [
-     573491
-    ],
-    "kind": "underdog",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-09T13:57:01Z",
-    "question": "How high can Nihal go?",
-    "line": [
-     [
-      "GW1",
-      "26th"
-     ],
-     [
-      "GW3",
-      "22nd"
-     ],
-     [
-      "GW5",
-      "16th"
-     ],
-     [
-      "GW7",
-      "7th"
-     ],
-     [
-      "GW9",
-      "4th"
-     ],
-     [
-      "GW10",
-      "4th"
-     ]
-    ],
-    "since": 10,
-    "streak": null
-   },
-   {
     "id": "title",
-    "title": "Ayodele Edges Back Ahead",
+    "title": "Ayodele Edges Ahead",
     "status": "Twist",
-    "text": "Ayodele now leads Cherag 700 to 692 after Cherag held the top spot in GW9. The lead has changed hands 4 times this season, and Sid sits 29 points back in third.",
-    "next": "Could Cherag strike back, or can Ayodele hold on to the crown?",
+    "text": "Ayodele moved ahead of Cherag this week, leading 700 to 692 after Cherag had been ahead by 2 in GW9. The lead has changed hands 4 times this season, and Sid sits 29 points back in third.",
+    "next": "Could Cherag hit back straight away, or can Sid close the 29-point gap?",
     "who": [
      1092588,
      3219276
@@ -6315,7 +6378,7 @@
     "kind": "title race",
     "episode": 2,
     "gw": 10,
-    "ts": "2026-11-09T13:57:01Z",
+    "ts": "2026-11-09T15:02:45Z",
     "question": "Who can hold the crown?",
     "line": [
      [
@@ -6342,8 +6405,8 @@
     "id": "chase:3506595",
     "title": "Hishaan Draws Level",
     "status": "Heating up",
-    "text": "Hishaan has closed the gap on Bhavik from 47 points in GW7 to level on points this week. The chase has moved from distance to a dead heat.",
-    "next": "Could Hishaan go ahead of Bhavik, or will Bhavik pull clear again?",
+    "text": "Hishaan has closed the gap on Bhavik from 47 points in GW7 to 23 in GW9, and the 2 are now level. The chase has gone from distant to neck and neck in 4 weeks.",
+    "next": "Could Hishaan go ahead of Bhavik next week, or will Bhavik pull clear again?",
     "who": [
      3506595,
      4125292
@@ -6351,7 +6414,7 @@
     "kind": "chaser",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T13:57:01Z",
+    "ts": "2026-11-09T15:02:45Z",
     "question": "Can Hishaan catch Bhavik?",
     "line": [
      [
@@ -6376,17 +6439,17 @@
    },
    {
     "id": "slump:383423",
-    "title": "Tobi Still Searching",
+    "title": "Tobi's Stubborn Slump",
     "status": "Building",
-    "text": "Tobi has finished below the league average for 6 weeks in a row. After a low of 37 in GW9, the 58 points in GW10 offer a sign of recovery.",
-    "next": "Could Tobi string together a run of strong weeks to break the pattern?",
+    "text": "Tobi has finished below the league average for 6 weeks in a row, with 58 points this week after a low of 37 in GW9. The run shows no sign of ending yet.",
+    "next": "Could a good week be enough to break the run, or will the slump drag on?",
     "who": [
      383423
     ],
     "kind": "slump",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T13:57:01Z",
+    "ts": "2026-11-09T15:02:45Z",
     "question": "Can Tobi snap out of it?",
     "line": [
      [
@@ -6415,17 +6478,17 @@
    },
    {
     "id": "fall:5873092",
-    "title": "Justin Edges Back Up",
+    "title": "Justin's Slide Continues",
     "status": "Building",
-    "text": "Justin has dropped from 7th in GW6 to 17th, bottoming out at 18th in GW9. A one-place rise this week hints that the slide may be easing.",
-    "next": "Could Justin climb back towards the top 10, or slide further?",
+    "text": "Justin has dropped from 7th in GW6 to 17th now, falling to 18th in GW9 before climbing back one place this week. He has not been higher than 7th since GW6.",
+    "next": "Could Justin start winning back places, or will the slide carry on?",
     "who": [
      5873092
     ],
     "kind": "fall",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T13:57:01Z",
+    "ts": "2026-11-09T15:02:45Z",
     "question": "Can Justin stop the slide?",
     "line": [
      [
@@ -6453,8 +6516,8 @@
     "streak": null
    }
   ],
-  "plots_ts": "2026-11-09T13:57:01Z",
-  "plots_key": "10:live",
+  "plots_ts": "2026-11-09T15:02:45Z",
+  "plots_key": "10:between",
   "verdict_tries": {
    "10:2": 1,
    "10:3": 1,
@@ -6549,15 +6612,6 @@
     "event_total": 57
    },
    {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 9,
-    "last_rank": 14,
-    "total": 634,
-    "event_total": 74
-   },
-   {
     "entry": 4125292,
     "player_name": "Bhavik Desai",
     "entry_name": "Shawshank Relegation",
@@ -6565,6 +6619,15 @@
     "last_rank": 9,
     "total": 634,
     "event_total": 51
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 9,
+    "last_rank": 14,
+    "total": 634,
+    "event_total": 74
    },
    {
     "entry": 962024,
@@ -6773,7 +6836,7 @@
    "5706920": 414
   }
  },
- "phase": "live",
+ "phase": "between",
  "picks_xi": {
   "9": {
    "3219276": [
@@ -10968,6 +11031,472 @@
      55
     ]
    ]
+  },
+  "10": {
+   "1092588": [
+    411,
+    [
+     1,
+     391,
+     31,
+     115,
+     40,
+     68,
+     127,
+     367,
+     411,
+     79,
+     166
+    ]
+   ],
+   "3219276": [
+    67,
+    [
+     1,
+     115,
+     31,
+     8,
+     427,
+     154,
+     40,
+     67,
+     346,
+     166,
+     411
+    ]
+   ],
+   "3323262": [
+    411,
+    [
+     1,
+     115,
+     8,
+     112,
+     453,
+     40,
+     124,
+     94,
+     166,
+     411,
+     379
+    ]
+   ],
+   "573491": [
+    411,
+    [
+     1,
+     31,
+     8,
+     566,
+     115,
+     40,
+     154,
+     124,
+     411,
+     166,
+     79
+    ]
+   ],
+   "1541394": [
+    411,
+    [
+     1,
+     8,
+     115,
+     391,
+     31,
+     40,
+     68,
+     124,
+     411,
+     79,
+     166
+    ]
+   ],
+   "7471754": [
+    411,
+    [
+     109,
+     31,
+     504,
+     112,
+     94,
+     426,
+     427,
+     68,
+     79,
+     166,
+     411
+    ]
+   ],
+   "1378937": [
+    411,
+    [
+     1,
+     334,
+     229,
+     8,
+     53,
+     154,
+     124,
+     480,
+     79,
+     411,
+     166
+    ]
+   ],
+   "5489583": [
+    411,
+    [
+     1,
+     31,
+     229,
+     115,
+     8,
+     68,
+     124,
+     40,
+     94,
+     411,
+     79
+    ]
+   ],
+   "4125292": [
+    411,
+    [
+     496,
+     115,
+     391,
+     8,
+     40,
+     428,
+     68,
+     124,
+     401,
+     411,
+     166
+    ]
+   ],
+   "3506595": [
+    249,
+    [
+     1,
+     112,
+     8,
+     362,
+     237,
+     40,
+     68,
+     154,
+     166,
+     411,
+     249
+    ]
+   ],
+   "962024": [
+    411,
+    [
+     496,
+     8,
+     115,
+     449,
+     40,
+     15,
+     427,
+     124,
+     411,
+     79,
+     379
+    ]
+   ],
+   "363548": [
+    411,
+    [
+     1,
+     8,
+     391,
+     115,
+     68,
+     154,
+     40,
+     124,
+     79,
+     411,
+     569
+    ]
+   ],
+   "4922092": [
+    411,
+    [
+     109,
+     8,
+     391,
+     115,
+     68,
+     40,
+     627,
+     124,
+     13,
+     464,
+     411
+    ]
+   ],
+   "3359227": [
+    79,
+    [
+     1,
+     31,
+     115,
+     305,
+     154,
+     268,
+     427,
+     400,
+     166,
+     411,
+     79
+    ]
+   ],
+   "7273369": [
+    411,
+    [
+     1,
+     8,
+     566,
+     115,
+     40,
+     124,
+     427,
+     154,
+     166,
+     79,
+     411
+    ]
+   ],
+   "1457736": [
+    411,
+    [
+     250,
+     8,
+     31,
+     449,
+     399,
+     40,
+     154,
+     94,
+     124,
+     411,
+     166
+    ]
+   ],
+   "5873092": [
+    411,
+    [
+     1,
+     356,
+     391,
+     8,
+     124,
+     40,
+     368,
+     15,
+     411,
+     166,
+     346
+    ]
+   ],
+   "75187": [
+    411,
+    [
+     385,
+     8,
+     31,
+     504,
+     334,
+     68,
+     40,
+     156,
+     411,
+     379,
+     166
+    ]
+   ],
+   "4841175": [
+    411,
+    [
+     109,
+     332,
+     8,
+     31,
+     68,
+     154,
+     399,
+     124,
+     379,
+     411,
+     79
+    ]
+   ],
+   "6341709": [
+    411,
+    [
+     1,
+     4,
+     579,
+     279,
+     175,
+     40,
+     68,
+     13,
+     124,
+     138,
+     411
+    ]
+   ],
+   "6619523": [
+    40,
+    [
+     109,
+     115,
+     31,
+     8,
+     68,
+     40,
+     15,
+     399,
+     154,
+     79,
+     411
+    ]
+   ],
+   "3552160": [
+    379,
+    [
+     1,
+     61,
+     387,
+     229,
+     480,
+     368,
+     557,
+     427,
+     40,
+     379,
+     346
+    ]
+   ],
+   "5028423": [
+    411,
+    [
+     1,
+     8,
+     87,
+     391,
+     115,
+     124,
+     627,
+     399,
+     68,
+     411,
+     166
+    ]
+   ],
+   "1474501": [
+    115,
+    [
+     109,
+     87,
+     31,
+     115,
+     8,
+     154,
+     124,
+     68,
+     411,
+     379,
+     346
+    ]
+   ],
+   "383423": [
+    411,
+    [
+     57,
+     330,
+     391,
+     8,
+     40,
+     427,
+     124,
+     15,
+     68,
+     411,
+     166
+    ]
+   ],
+   "8316989": [
+    399,
+    [
+     1,
+     8,
+     330,
+     229,
+     368,
+     399,
+     40,
+     124,
+     599,
+     411,
+     138
+    ]
+   ],
+   "3375627": [
+    411,
+    [
+     226,
+     4,
+     391,
+     229,
+     15,
+     94,
+     40,
+     129,
+     346,
+     79,
+     411
+    ]
+   ],
+   "3591460": [
+    411,
+    [
+     226,
+     115,
+     87,
+     8,
+     40,
+     124,
+     428,
+     94,
+     166,
+     346,
+     411
+    ]
+   ],
+   "5706920": [
+    106,
+    [
+     226,
+     356,
+     388,
+     229,
+     481,
+     480,
+     366,
+     40,
+     400,
+     106,
+     25
+    ]
+   ]
   }
  },
  "awards_hist": {
@@ -11796,8 +12325,8 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Ayodele Edges Back Ahead",
-    "text": "Ayodele now leads Cherag 700 to 692 after Cherag held the top spot in GW9. The lead has changed hands 4 times this season, and Sid sits 29 points back in third."
+    "title": "Ayodele Edges Ahead",
+    "text": "Ayodele moved ahead of Cherag this week, leading 700 to 692 after Cherag had been ahead by 2 in GW9. The lead has changed hands 4 times this season, and Sid sits 29 points back in third."
    }
   ],
   "gamble:3506595:10": [
@@ -11851,7 +12380,7 @@
     "gw": 10,
     "day": "2026-11-09",
     "title": "Hishaan Draws Level",
-    "text": "Hishaan has closed the gap on Bhavik from 47 points in GW7 to level on points this week. The chase has moved from distance to a dead heat."
+    "text": "Hishaan has closed the gap on Bhavik from 47 points in GW7 to 23 in GW9, and the 2 are now level. The chase has gone from distant to neck and neck in 4 weeks."
    }
   ],
   "hot:1378937": [
@@ -11866,16 +12395,16 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Tobi Still Searching",
-    "text": "Tobi has finished below the league average for 6 weeks in a row. After a low of 37 in GW9, the 58 points in GW10 offer a sign of recovery."
+    "title": "Tobi's Stubborn Slump",
+    "text": "Tobi has finished below the league average for 6 weeks in a row, with 58 points this week after a low of 37 in GW9. The run shows no sign of ending yet."
    }
   ],
   "fall:5873092": [
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Justin Edges Back Up",
-    "text": "Justin has dropped from 7th in GW6 to 17th, bottoming out at 18th in GW9. A one-place rise this week hints that the slide may be easing."
+    "title": "Justin's Slide Continues",
+    "text": "Justin has dropped from 7th in GW6 to 17th now, falling to 18th in GW9 before climbing back one place this week. He has not been higher than 7th since GW6."
    }
   ]
  },
@@ -13229,7 +13758,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-09T14:49:35Z",
+  "ts": "2026-11-09T15:02:45Z",
   "issues": []
  }
 }
