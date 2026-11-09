@@ -8856,21 +8856,21 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-09T13:46:41Z",
+ "updated": "2026-11-09T13:57:33Z",
  "ai": {
   "briefings": {},
   "key": "10:live",
   "ts": "2026-11-08T18:30:29Z",
   "usage": {
    "10": {
-    "in": 997007,
-    "out": 251743,
-    "calls": 88,
+    "in": 999931,
+    "out": 253682,
+    "calls": 90,
     "refreshes": 11,
     "desks": 27,
     "desk_in": 625206,
     "desk_out": 209103,
-    "plots": 6
+    "plots": 7
    }
   },
   "desks": [
@@ -9711,90 +9711,18 @@
   "desk_last_ok": "2026-11-09T12:15:57Z",
   "plots": [
    {
-    "id": "title",
-    "title": "Nikhil's One-Point Lead",
-    "status": "Heating up",
-    "text": "Nikhil leads Matt by just 1 point, 723 to 722, after holding a 24-point cushion last week. Deepak sits 15 points further back, and the crown has changed hands 3 times this season.",
-    "next": "Matt could overtake at the top if the margin keeps shrinking, with Deepak lurking 15 points back.",
-    "who": [
-     2321301,
-     3029346
-    ],
-    "kind": "title race",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-09T12:28:27Z",
-    "question": "Who can hold the crown?",
-    "line": [
-     [
-      "GW7",
-      "Ravin"
-     ],
-     [
-      "GW8",
-      "Nikhil"
-     ],
-     [
-      "GW9",
-      "Nikhil"
-     ],
-     [
-      "GW10",
-      "Nikhil"
-     ]
-    ],
-    "since": 10,
-    "streak": null
-   },
-   {
-    "id": "rivalry:4922092-5682768",
-    "title": "Vanessa Hits Back",
-    "status": "Twist",
-    "text": "Vanessa has flipped back in front of Ravi Mahtani, 5 points clear after trailing by 7 in GW9. The pair have swapped places 7 times this season.",
-    "next": "Ravi Mahtani could strike back and reclaim the lead if he closes the 5-point gap.",
-    "who": [
-     5682768,
-     4922092
-    ],
-    "kind": "rivalry",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-09T12:28:27Z",
-    "question": "Vanessa v Ravi Mahtani: who blinks first?",
-    "line": [
-     [
-      "GW7",
-      "Vanessa +12"
-     ],
-     [
-      "GW8",
-      "Ravi +4"
-     ],
-     [
-      "GW9",
-      "Ravi +7"
-     ],
-     [
-      "GW10",
-      "Vanessa +5"
-     ]
-    ],
-    "since": 10,
-    "streak": null
-   },
-   {
     "id": "slump:6051923",
-    "title": "Alia's Long Struggle",
+    "title": "Alia Edges Upward",
     "status": "Building",
-    "text": "Alia has now been below the league average for 6 weeks in a row. A 50-point week in GW10, up from 42, is the first real sign of a fightback.",
-    "next": "A strong run of above-average scores could end the slump, while another poor week would deepen it.",
+    "text": "Alia has now finished 6 gameweeks in a row below the league average. This week's 50 points is a step up from 42, though the run of weeks below average continues.",
+    "next": "Could Alia string together a stronger week and begin to climb out of the slump?",
     "who": [
      6051923
     ],
     "kind": "slump",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T12:28:27Z",
+    "ts": "2026-11-09T13:57:33Z",
     "question": "Can Alia snap out of it?",
     "line": [
      [
@@ -9823,10 +9751,10 @@
    },
    {
     "id": "chase:4487775",
-    "title": "Prem Closes In",
+    "title": "Prem Closes the Gap",
     "status": "Heating up",
-    "text": "Prem has cut Rohan's lead from 34 points in GW7 to just 5 in GW10. The gap is now small enough that a single big week could change everything.",
-    "next": "Prem could draw level or pull ahead of Rohan if the closing pace holds.",
+    "text": "Prem is now 5 points behind Rohan, down from 21 just one gameweek ago. The gap has shrunk every week since GW7, when Rohan was 34 points clear.",
+    "next": "Could Prem overtake Rohan in the next gameweek and seize the chase?",
     "who": [
      4487775,
      3344797
@@ -9834,7 +9762,7 @@
     "kind": "chaser",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T12:28:27Z",
+    "ts": "2026-11-09T13:57:33Z",
     "question": "Can Prem catch Rohan?",
     "line": [
      [
@@ -9856,27 +9784,9 @@
     ],
     "since": 10,
     "streak": null
-   },
-   {
-    "id": "award:captain:3344797",
-    "title": "Rohan's Captaincy Crown",
-    "status": "Building",
-    "text": "Rohan has won Captain of the Week 5 times this season, keeping the award firmly in his hands. The question is whether any rival can take up the chase.",
-    "next": "A rival captain could go on a run and start threatening Rohan's haul of wins.",
-    "who": [
-     3344797
-    ],
-    "kind": "repeat glory",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-09T12:28:27Z",
-    "question": "Can anyone match Rohan?",
-    "line": [],
-    "since": 10,
-    "streak": null
    }
   ],
-  "plots_ts": "2026-11-09T12:28:27Z",
+  "plots_ts": "2026-11-09T13:57:33Z",
   "plots_key": "10:live",
   "verdict_tries": {
    "10:2": 1,
@@ -9888,9 +9798,10 @@
    "2": 1,
    "3": 1,
    "4": 1,
-   "5": 1
+   "5": 1,
+   "6": 1
   },
-  "plots_v": 5,
+  "plots_v": 6,
   "_replaced_ts": "2026-11-09T10:15:30Z",
   "plots_sig": "ee851c74a979"
  },
@@ -9931,8 +9842,8 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Prem Closes In",
-    "text": "Prem has cut Rohan's lead from 34 points in GW7 to just 5 in GW10. The gap is now small enough that a single big week could change everything."
+    "title": "Prem Closes the Gap",
+    "text": "Prem is now 5 points behind Rohan, down from 21 just one gameweek ago. The gap has shrunk every week since GW7, when Rohan was 34 points clear."
    }
   ],
   "chase:3029346": [
@@ -9947,8 +9858,8 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Alia's Long Struggle",
-    "text": "Alia has now been below the league average for 6 weeks in a row. A 50-point week in GW10, up from 42, is the first real sign of a fightback."
+    "title": "Alia Edges Upward",
+    "text": "Alia has now finished 6 gameweeks in a row below the league average. This week's 50 points is a step up from 42, though the run of weeks below average continues."
    }
   ],
   "award:captain:3344797": [
@@ -10892,7 +10803,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-09T13:46:41Z",
+  "ts": "2026-11-09T13:57:33Z",
   "issues": []
  }
 }
