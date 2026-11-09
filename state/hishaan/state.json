@@ -2361,15 +2361,6 @@
     "event_total": 62
    },
    {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 15,
-    "last_rank": 21,
-    "total": 634,
-    "event_total": 74
-   },
-   {
     "entry": 5682768,
     "player_name": "Vanessa Jethwani",
     "entry_name": "super squad",
@@ -2377,6 +2368,15 @@
     "last_rank": 14,
     "total": 634,
     "event_total": 59
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 15,
+    "last_rank": 21,
+    "total": 634,
+    "event_total": 74
    },
    {
     "entry": 4922092,
@@ -9374,8 +9374,8 @@
    "5474293": 12,
    "75778": 13,
    "6892917": 14,
-   "3506595": 15,
    "5682768": 15,
+   "3506595": 15,
    "4922092": 17,
    "2465483": 18,
    "2934546": 18,
@@ -9402,8 +9402,8 @@
    "5474293": null,
    "75778": null,
    "6892917": null,
-   "3506595": null,
    "5682768": null,
+   "3506595": null,
    "4922092": null,
    "2465483": null,
    "2934546": null,
@@ -9416,7 +9416,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-09T20:25:59Z",
+ "updated": "2026-11-09T20:59:16Z",
  "ai": {
   "briefings": {
    "2321301": "You're top on 723 after a 73, but Matt's 96 leaves you just 1 point clear. Watch Barcola and your Freehit chip as the next deadline approaches.",
@@ -9445,17 +9445,178 @@
   "ts": "2026-11-09T14:51:36Z",
   "usage": {
    "10": {
-    "in": 1065836,
-    "out": 271268,
-    "calls": 98,
+    "in": 1096032,
+    "out": 278929,
+    "calls": 100,
     "refreshes": 12,
-    "desks": 28,
-    "desk_in": 655440,
-    "desk_out": 216335,
+    "desks": 29,
+    "desk_in": 685636,
+    "desk_out": 223996,
     "plots": 9
    }
   },
   "desks": [
+   {
+    "headline": "Matt's Bench Boost haul nearly topples Nikhil at the top",
+    "text": "Matt's **96-point Bench Boost** was the week's best score, lifting him from 5th to 2nd and leaving him **1 point** behind Nikhil. Nikhil held on, but Matt's chip makes the top spot a real fight. Before kick-off we said Palmer could flip the Tin Pot; he managed just 2.",
+    "you": {
+     "2321301": "Matt outscored you by 23 points, but a single point kept you on top.",
+     "3029346": "Your **Bench Boost** returned 25 points and won you Manager of the Week, moving you from 5th to 2nd.",
+     "735721": "Matt beat you by 23 points, leaving you 14 behind him now.",
+     "1921902": "Your Konsa and N.Jackson swap gained 19 points, but the slide from 1st to 4th hurts.",
+     "2687116": "Your Isak armband fetched 16 points, the best score on your team this week.",
+     "3344797": "Chandru beat you by 16 points, leaving you 22 behind him in 6th.",
+     "4487775": "Your Calafiori armband fetched 12 points, lifting you clear of Rohan this week.",
+     "1655993": "Selling Cherki for Rice cost you 6 points, as Cherki went on to score 9.",
+     "1036311": "2 places up, from 11th to 9th, with N.Jackson as your best scorer.",
+     "3072827": "Your Evanilson armband fetched 18 points, lifting you 2 places up the table.",
+     "3350483": "Barry's 16 points were your best, but you slid from 9th to 11th.",
+     "5474293": "Marcel's 15-point gain over you dropped you from 10th to 12th.",
+     "75778": "Your 74 points were the week's second-best score, lifting you 3 places.",
+     "6892917": "Evanilson's armband carried you up, but Tzolakis's 6 points sat on your bench.",
+     "3506595": "Your Barry armband fetched 32 points, the biggest captain haul of the week.",
+     "5682768": "Hishaan beat you by 15 points, though you still sit level on total with him.",
+     "4922092": "Your 47 points earned the Wooden Spoon, 16 below the league average.",
+     "2465483": "You beat Ravi Mahtani by 16 points, with Isak's armband the differential win.",
+     "2934546": "Selling Cherki after he scored 9 points stung, though you beat Pishu.",
+     "6279027": "Your N.Jackson armband fetched 22 points, but Naresh outscored you by 6.",
+     "865376": "Benching Konsa cost you 8 points, dropping you from 19th to 21st.",
+     "7043406": "Bench Disaster: 26 points sat on your bench while Konsa's armband got you 16.",
+     "6159011": "Rajiv beat you by 10 points, leaving you in the Tin Pot spots.",
+     "3314780": "Your Bench Boost returned a poor 15 points, though you beat Alia by 14.",
+     "6051923": "Ravi Bhojwani beat you by 14 points, leaving you 16 behind him.",
+     "6476662": "Your Wirtz haul of 13 points was your best, with Alia beaten by 5."
+    },
+    "ts": "2026-11-09T20:59:16Z",
+    "gw": 10,
+    "moment": "gameweek_over",
+    "sig": "91:f:1-0|92:f:2-0|93:f:1-3|94:f:3-1|95:f:1-1|96:f:1-2|97:f:1-0|98:f:4-4|99:f:3-1|100:f:1-0",
+    "ranks": {
+     "2321301": 1,
+     "3029346": 2,
+     "735721": 3,
+     "1921902": 4,
+     "2687116": 5,
+     "3344797": 6,
+     "4487775": 7,
+     "1655993": 8,
+     "1036311": 9,
+     "3072827": 10,
+     "3350483": 11,
+     "5474293": 12,
+     "75778": 13,
+     "6892917": 14,
+     "5682768": 15,
+     "3506595": 15,
+     "4922092": 17,
+     "2465483": 18,
+     "2934546": 18,
+     "6279027": 20,
+     "865376": 21,
+     "7043406": 22,
+     "6159011": 23,
+     "3314780": 24,
+     "6051923": 25,
+     "6476662": 26
+    },
+    "totals": {
+     "2321301": 723,
+     "3029346": 722,
+     "735721": 708,
+     "1921902": 707,
+     "2687116": 696,
+     "3344797": 674,
+     "4487775": 669,
+     "1655993": 667,
+     "1036311": 658,
+     "3072827": 654,
+     "3350483": 653,
+     "5474293": 652,
+     "75778": 647,
+     "6892917": 636,
+     "5682768": 634,
+     "3506595": 634,
+     "4922092": 629,
+     "2465483": 628,
+     "2934546": 628,
+     "6279027": 619,
+     "865376": 618,
+     "7043406": 613,
+     "6159011": 612,
+     "3314780": 600,
+     "6051923": 584,
+     "6476662": 560
+    },
+    "ga": {
+     "15": [
+      1,
+      0
+     ],
+     "552": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "592": [
+      0,
+      1
+     ],
+     "366": [
+      1,
+      1
+     ],
+     "627": [
+      0,
+      1
+     ],
+     "379": [
+      1,
+      0
+     ],
+     "124": [
+      1,
+      0
+     ],
+     "127": [
+      1,
+      0
+     ],
+     "399": [
+      1,
+      0
+     ],
+     "166": [
+      1,
+      1
+     ],
+     "426": [
+      1,
+      1
+     ],
+     "480": [
+      0,
+      1
+     ],
+     "233": [
+      0,
+      1
+     ],
+     "236": [
+      1,
+      0
+     ],
+     "249": [
+      2,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-09T20:59:16Z",
+    "v": 5,
+    "deadline": "2026-11-21T11:00:00Z"
+   },
    {
     "headline": "Matt's 96-point Bench Boost hauls him to the top 2",
     "text": "Matt's **96-point Bench Boost** was the week's best score, hauling him from 5th to 2nd and **1** behind Nikhil at the top. Ravin's slide from 1st to 4th shows how fast the table turns. Before kick-off we said Palmer's blank could flip the Tin Pot, and he managed just 2.",
@@ -10099,166 +10260,6 @@
     "you_full_ts": "2026-11-09T09:29:57Z",
     "v": 2,
     "deadline": "2026-11-21T11:00:00Z"
-   },
-   {
-    "headline": "Haaland's blank for 15 armbands costs Matt top spot by one",
-    "text": "Nikhil holds top on **723**, one ahead of Matt, after Haaland's **4** for 15 armbands cost Matt dearly. Pishu's N.Jackson armband paid **22**, lifting him out of the Tin Pot. Before kick-off we said Palmer's blank could flip the Tin Pot, and he managed just 2.",
-    "you": {
-     "2321301": "Barcola's assist for your new signing lifted you, and you still hold top on **723**, one ahead of Matt.",
-     "3029346": "Passing Deepak and Ravin today, your Bench Boost hauled **96**, but Haaland's 4 leaves you one behind Nikhil.",
-     "735721": "Matt passed you today, but you hold third, **1** ahead of Ravin and **14** behind Matt.",
-     "1921902": "Matt passed you today, leaving Deepak **1** ahead and Chandru **11** behind in the last Gold spot.",
-     "2687116": "Benching Gomez backfired as he scored, and you're **11** behind Ravin in the last Gold spot.",
-     "3344797": "Chandru is **22** above you, but Prem is only **5** behind, so your Silver spot is under pressure.",
-     "4487775": "You dropped to 8th today before climbing back to 7th, with Rohan **5** ahead and Sunny **2** behind.",
-     "1655993": "Passing Aashiv today puts you **2** behind Prem, with Amit **9** behind you in the Silver spots.",
-     "1036311": "Passing Aashiv today keeps you **9** behind Sunny and **4** ahead of Sunil, with Ravin sharing your Jackson assist.",
-     "3072827": "Evanilson's **18** under your armband, plus passing Aashiv and Sahil, lifts you to **4** behind Amit.",
-     "3350483": "Benching Ouattara backfired as he set one up, and Sunil is **1** ahead with Sahil **1** behind.",
-     "5474293": "Sunil has passed you today, leaving Aashiv **1** ahead and Marcel **5** behind in the Silver spots.",
-     "75778": "You were as high as 12th today and now sit 13th, with Sahil **5** ahead and Poonam **11** behind.",
-     "6892917": "Evanilson's **18** under your armband carried you past Hishaan, Vanessa and Ravi Mahtani today, with Marcel **11** ahead.",
-     "3506595": "Barry's **32** is yours alone, the best captain haul in your group, though Poonam passed you today.",
-     "5682768": "B.Fernandes's goal and assist are yours alone, worth **10** points, and Hishaan is level with you above.",
-     "4922092": "Your Barcola assist is shared only with Nikhil, but Poonam has passed you, leaving Vanessa **5** above.",
-     "2465483": "You have passed Lakshay today, but Ravi Mahtani is **1** above you and Naresh level just below.",
-     "2934546": "Groß's **10** points as your new signing lifted you past Lakshay and Rajiv, with Inesh level above.",
-     "865376": "Palmer's flop under your armband is yours alone, though Poonam, Naresh and Inesh have passed you today.",
-     "6279027": "N.Jackson's **22** under your armband is yours alone, and Lakshay is level with you on **618**.",
-     "7043406": "Naresh and Pishu passed you today, leaving Pishu **9** above and Vinesh just **1** behind.",
-     "6159011": "Rajiv is **1** above you in the Tin Pot, and Ravi Bhojwani sits **8** behind; the fight is tight.",
-     "3314780": "Your Bench Boost returned **64**, but Matt's **96** won that showdown, and Vinesh sits **8** above you.",
-     "6051923": "Schade is on the pitch with 3 managers having benched him, and Ravi Bhojwani sits **16** above you.",
-     "6476662": "Wirtz's goal and assist are shared only with Matt, a useful differential, though Alia is **24** above you."
-    },
-    "ts": "2026-11-08T18:53:45Z",
-    "gw": 10,
-    "moment": "gameweek_over",
-    "sig": "91:f:1-0|92:f:2-0|93:f:1-3|94:f:3-1|95:f:1-1|96:f:1-2|97:f:1-0|98:f:4-4|99:f:3-1|100:f:1-0",
-    "ranks": {
-     "2321301": 1,
-     "3029346": 2,
-     "735721": 3,
-     "1921902": 4,
-     "2687116": 5,
-     "3344797": 6,
-     "4487775": 7,
-     "1655993": 8,
-     "1036311": 9,
-     "3072827": 10,
-     "3350483": 11,
-     "5474293": 12,
-     "75778": 13,
-     "6892917": 14,
-     "5682768": 15,
-     "3506595": 15,
-     "4922092": 17,
-     "2465483": 18,
-     "2934546": 18,
-     "6279027": 20,
-     "865376": 20,
-     "7043406": 22,
-     "6159011": 23,
-     "3314780": 24,
-     "6051923": 25,
-     "6476662": 26
-    },
-    "totals": {
-     "2321301": 723,
-     "3029346": 722,
-     "735721": 708,
-     "1921902": 707,
-     "2687116": 696,
-     "3344797": 674,
-     "4487775": 669,
-     "1655993": 667,
-     "1036311": 658,
-     "3072827": 654,
-     "3350483": 653,
-     "5474293": 652,
-     "75778": 647,
-     "6892917": 636,
-     "5682768": 634,
-     "3506595": 634,
-     "4922092": 629,
-     "2465483": 628,
-     "2934546": 628,
-     "6279027": 618,
-     "865376": 618,
-     "7043406": 609,
-     "6159011": 608,
-     "3314780": 600,
-     "6051923": 584,
-     "6476662": 560
-    },
-    "ga": {
-     "15": [
-      1,
-      0
-     ],
-     "552": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "592": [
-      0,
-      1
-     ],
-     "366": [
-      1,
-      1
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      1,
-      0
-     ],
-     "124": [
-      1,
-      0
-     ],
-     "127": [
-      1,
-      0
-     ],
-     "399": [
-      1,
-      0
-     ],
-     "166": [
-      1,
-      1
-     ],
-     "426": [
-      1,
-      1
-     ],
-     "480": [
-      0,
-      1
-     ],
-     "233": [
-      0,
-      1
-     ],
-     "236": [
-      1,
-      0
-     ],
-     "249": [
-      2,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-08T18:53:45Z",
-    "deadline": "2026-11-21T11:00:00Z"
    }
   ],
   "desk_day": {
@@ -10292,7 +10293,7 @@
     "6476662": 26
    }
   },
-  "desk_last_ok": "2026-11-09T15:40:37Z",
+  "desk_last_ok": "2026-11-09T20:59:16Z",
   "plots": [
    {
     "id": "title",
@@ -10467,7 +10468,8 @@
    "10:3": 1,
    "10:4": 3,
    "10:t:ee851c74a979": 1,
-   "10:t:427e172f7adf": 1
+   "10:t:427e172f7adf": 1,
+   "10:5": 1
   },
   "plots_v_tries": {
    "2": 1,
@@ -11509,7 +11511,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-09T20:25:59Z",
+  "ts": "2026-11-09T20:59:16Z",
   "issues": []
  },
  "pwatch": {
