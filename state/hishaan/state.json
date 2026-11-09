@@ -31,7 +31,7 @@
   }
  },
  "hist": {
-  "key": "10:live",
+  "key": "10:between",
   "data": {
    "2321301": {
     "past": 5,
@@ -101,10 +101,10 @@
      ],
      [
       10,
-      44,
+      73,
       1,
       0,
-      3
+      12
      ]
     ],
     "chips": [
@@ -119,6 +119,95 @@
      [
       "3xc",
       7
+     ]
+    ]
+   },
+   "3029346": {
+    "past": 5,
+    "cur": [
+     [
+      1,
+      54,
+      0,
+      0,
+      10
+     ],
+     [
+      2,
+      108,
+      0,
+      0,
+      16
+     ],
+     [
+      3,
+      57,
+      2,
+      0,
+      14
+     ],
+     [
+      4,
+      94,
+      2,
+      4,
+      8
+     ],
+     [
+      5,
+      48,
+      1,
+      0,
+      10
+     ],
+     [
+      6,
+      75,
+      0,
+      0,
+      8
+     ],
+     [
+      7,
+      67,
+      2,
+      0,
+      7
+     ],
+     [
+      8,
+      55,
+      1,
+      0,
+      9
+     ],
+     [
+      9,
+      72,
+      0,
+      0,
+      25
+     ],
+     [
+      10,
+      96,
+      0,
+      0,
+      0
+     ]
+    ],
+    "chips": [
+     [
+      "3xc",
+      3
+     ],
+     [
+      "wildcard",
+      9
+     ],
+     [
+      "bboost",
+      10
      ]
     ]
    },
@@ -190,7 +279,7 @@
      ],
      [
       10,
-      42,
+      73,
       1,
       0,
       17
@@ -279,7 +368,7 @@
      ],
      [
       10,
-      26,
+      57,
       2,
       0,
       19
@@ -293,95 +382,6 @@
      [
       "freehit",
       9
-     ]
-    ]
-   },
-   "3029346": {
-    "past": 5,
-    "cur": [
-     [
-      1,
-      54,
-      0,
-      0,
-      10
-     ],
-     [
-      2,
-      108,
-      0,
-      0,
-      16
-     ],
-     [
-      3,
-      57,
-      2,
-      0,
-      14
-     ],
-     [
-      4,
-      94,
-      2,
-      4,
-      8
-     ],
-     [
-      5,
-      48,
-      1,
-      0,
-      10
-     ],
-     [
-      6,
-      75,
-      0,
-      0,
-      8
-     ],
-     [
-      7,
-      67,
-      2,
-      0,
-      7
-     ],
-     [
-      8,
-      55,
-      1,
-      0,
-      9
-     ],
-     [
-      9,
-      72,
-      0,
-      0,
-      25
-     ],
-     [
-      10,
-      35,
-      0,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "3xc",
-      3
-     ],
-     [
-      "wildcard",
-      9
-     ],
-     [
-      "bboost",
-      10
      ]
     ]
    },
@@ -453,10 +453,10 @@
      ],
      [
       10,
-      29,
+      67,
       2,
       0,
-      7
+      23
      ]
     ],
     "chips": [
@@ -542,10 +542,10 @@
      ],
      [
       10,
-      20,
+      51,
       0,
       0,
-      12
+      11
      ]
     ],
     "chips": [
@@ -627,102 +627,13 @@
      ],
      [
       10,
-      38,
+      67,
       1,
       0,
       1
      ]
     ],
     "chips": []
-   },
-   "3350483": {
-    "past": 9,
-    "cur": [
-     [
-      1,
-      73,
-      0,
-      0,
-      0
-     ],
-     [
-      2,
-      118,
-      0,
-      0,
-      17
-     ],
-     [
-      3,
-      44,
-      0,
-      0,
-      11
-     ],
-     [
-      4,
-      97,
-      1,
-      0,
-      17
-     ],
-     [
-      5,
-      38,
-      0,
-      0,
-      20
-     ],
-     [
-      6,
-      68,
-      0,
-      0,
-      16
-     ],
-     [
-      7,
-      70,
-      4,
-      0,
-      9
-     ],
-     [
-      8,
-      34,
-      0,
-      0,
-      0
-     ],
-     [
-      9,
-      54,
-      2,
-      0,
-      10
-     ],
-     [
-      10,
-      34,
-      0,
-      0,
-      2
-     ]
-    ],
-    "chips": [
-     [
-      "bboost",
-      1
-     ],
-     [
-      "wildcard",
-      3
-     ],
-     [
-      "3xc",
-      4
-     ]
-    ]
    },
    "1655993": {
     "past": 15,
@@ -792,10 +703,10 @@
      ],
      [
       10,
-      25,
+      63,
       1,
       0,
-      8
+      12
      ]
     ],
     "chips": [
@@ -881,96 +792,15 @@
      ],
      [
       10,
-      32,
+      69,
       1,
       0,
-      5
+      4
      ]
     ],
     "chips": [
      [
       "3xc",
-      3
-     ]
-    ]
-   },
-   "5474293": {
-    "past": 14,
-    "cur": [
-     [
-      1,
-      46,
-      0,
-      0,
-      2
-     ],
-     [
-      2,
-      107,
-      0,
-      0,
-      4
-     ],
-     [
-      3,
-      57,
-      0,
-      0,
-      1
-     ],
-     [
-      4,
-      86,
-      2,
-      0,
-      7
-     ],
-     [
-      5,
-      52,
-      1,
-      0,
-      10
-     ],
-     [
-      6,
-      67,
-      0,
-      0,
-      3
-     ],
-     [
-      7,
-      72,
-      2,
-      0,
-      10
-     ],
-     [
-      8,
-      46,
-      1,
-      0,
-      1
-     ],
-     [
-      9,
-      60,
-      1,
-      0,
-      10
-     ],
-     [
-      10,
-      24,
-      0,
-      0,
-      4
-     ]
-    ],
-    "chips": [
-     [
-      "wildcard",
       3
      ]
     ]
@@ -1043,7 +873,7 @@
      ],
      [
       10,
-      28,
+      68,
       1,
       0,
       12
@@ -1060,84 +890,173 @@
      ]
     ]
    },
-   "3506595": {
-    "past": 8,
+   "3350483": {
+    "past": 9,
     "cur": [
      [
       1,
-      48,
+      73,
+      0,
+      0,
+      0
+     ],
+     [
+      2,
+      118,
+      0,
+      0,
+      17
+     ],
+     [
+      3,
+      44,
       0,
       0,
       11
      ],
      [
-      2,
-      96,
+      4,
+      97,
+      1,
       0,
-      0,
-      5
+      17
      ],
      [
-      3,
+      5,
+      38,
+      0,
+      0,
+      20
+     ],
+     [
+      6,
+      68,
+      0,
+      0,
+      16
+     ],
+     [
+      7,
       70,
-      1,
+      4,
+      0,
+      9
+     ],
+     [
+      8,
+      34,
+      0,
+      0,
+      0
+     ],
+     [
+      9,
+      54,
+      2,
       0,
       10
      ],
      [
-      4,
-      76,
-      2,
+      10,
+      57,
       0,
-      8
+      0,
+      6
+     ]
+    ],
+    "chips": [
+     [
+      "bboost",
+      1
      ],
      [
-      5,
-      53,
+      "wildcard",
+      3
+     ],
+     [
+      "3xc",
+      4
+     ]
+    ]
+   },
+   "5474293": {
+    "past": 14,
+    "cur": [
+     [
+      1,
+      46,
       0,
       0,
       2
      ],
      [
-      6,
-      55,
       2,
-      0,
-      7
-     ],
-     [
-      7,
-      57,
+      107,
       0,
       0,
       4
      ],
      [
-      8,
-      37,
+      3,
+      57,
+      0,
+      0,
+      1
+     ],
+     [
+      4,
+      86,
+      2,
+      0,
+      7
+     ],
+     [
+      5,
+      52,
       1,
       0,
-      9
+      10
+     ],
+     [
+      6,
+      67,
+      0,
+      0,
+      3
+     ],
+     [
+      7,
+      72,
+      2,
+      0,
+      10
+     ],
+     [
+      8,
+      46,
+      1,
+      0,
+      1
      ],
      [
       9,
-      68,
-      2,
+      60,
+      1,
       0,
-      9
+      10
      ],
      [
       10,
-      52,
+      59,
       0,
       0,
-      0
+      4
      ]
     ],
     "chips": [
      [
-      "3xc",
-      2
+      "wildcard",
+      3
      ]
     ]
    },
@@ -1209,7 +1128,7 @@
      ],
      [
       10,
-      39,
+      74,
       2,
       0,
       11
@@ -1231,6 +1150,172 @@
      [
       "3xc",
       7
+     ]
+    ]
+   },
+   "6892917": {
+    "past": 8,
+    "cur": [
+     [
+      1,
+      48,
+      0,
+      0,
+      0
+     ],
+     [
+      2,
+      106,
+      0,
+      0,
+      26
+     ],
+     [
+      3,
+      20,
+      2,
+      0,
+      15
+     ],
+     [
+      4,
+      94,
+      0,
+      0,
+      15
+     ],
+     [
+      5,
+      52,
+      0,
+      0,
+      12
+     ],
+     [
+      6,
+      82,
+      0,
+      0,
+      10
+     ],
+     [
+      7,
+      59,
+      1,
+      0,
+      12
+     ],
+     [
+      8,
+      39,
+      0,
+      0,
+      6
+     ],
+     [
+      9,
+      74,
+      4,
+      0,
+      17
+     ],
+     [
+      10,
+      62,
+      0,
+      0,
+      11
+     ]
+    ],
+    "chips": [
+     [
+      "bboost",
+      1
+     ],
+     [
+      "wildcard",
+      4
+     ]
+    ]
+   },
+   "3506595": {
+    "past": 8,
+    "cur": [
+     [
+      1,
+      48,
+      0,
+      0,
+      11
+     ],
+     [
+      2,
+      96,
+      0,
+      0,
+      5
+     ],
+     [
+      3,
+      70,
+      1,
+      0,
+      10
+     ],
+     [
+      4,
+      76,
+      2,
+      0,
+      8
+     ],
+     [
+      5,
+      53,
+      0,
+      0,
+      2
+     ],
+     [
+      6,
+      55,
+      2,
+      0,
+      7
+     ],
+     [
+      7,
+      57,
+      0,
+      0,
+      4
+     ],
+     [
+      8,
+      37,
+      1,
+      0,
+      9
+     ],
+     [
+      9,
+      68,
+      2,
+      0,
+      9
+     ],
+     [
+      10,
+      74,
+      0,
+      0,
+      1
+     ]
+    ],
+    "chips": [
+     [
+      "3xc",
+      2
      ]
     ]
    },
@@ -1302,7 +1387,7 @@
      ],
      [
       10,
-      32,
+      59,
       0,
       0,
       7
@@ -1383,10 +1468,10 @@
      ],
      [
       10,
-      15,
+      47,
       1,
       0,
-      6
+      7
      ]
     ],
     "chips": [
@@ -1397,87 +1482,6 @@
      [
       "freehit",
       9
-     ]
-    ]
-   },
-   "865376": {
-    "past": 19,
-    "cur": [
-     [
-      1,
-      63,
-      0,
-      0,
-      15
-     ],
-     [
-      2,
-      81,
-      0,
-      0,
-      16
-     ],
-     [
-      3,
-      45,
-      2,
-      0,
-      10
-     ],
-     [
-      4,
-      89,
-      1,
-      0,
-      8
-     ],
-     [
-      5,
-      54,
-      2,
-      4,
-      10
-     ],
-     [
-      6,
-      73,
-      0,
-      0,
-      18
-     ],
-     [
-      7,
-      55,
-      0,
-      0,
-      17
-     ],
-     [
-      8,
-      47,
-      0,
-      0,
-      5
-     ],
-     [
-      9,
-      58,
-      1,
-      0,
-      28
-     ],
-     [
-      10,
-      36,
-      3,
-      0,
-      11
-     ]
-    ],
-    "chips": [
-     [
-      "wildcard",
-      6
      ]
     ]
    },
@@ -1549,10 +1553,10 @@
      ],
      [
       10,
-      27,
+      63,
       1,
       0,
-      4
+      5
      ]
     ],
     "chips": [
@@ -1567,180 +1571,6 @@
      [
       "wildcard",
       6
-     ]
-    ]
-   },
-   "6892917": {
-    "past": 8,
-    "cur": [
-     [
-      1,
-      48,
-      0,
-      0,
-      0
-     ],
-     [
-      2,
-      106,
-      0,
-      0,
-      26
-     ],
-     [
-      3,
-      20,
-      2,
-      0,
-      15
-     ],
-     [
-      4,
-      94,
-      0,
-      0,
-      15
-     ],
-     [
-      5,
-      52,
-      0,
-      0,
-      12
-     ],
-     [
-      6,
-      82,
-      0,
-      0,
-      10
-     ],
-     [
-      7,
-      59,
-      1,
-      0,
-      12
-     ],
-     [
-      8,
-      39,
-      0,
-      0,
-      6
-     ],
-     [
-      9,
-      74,
-      4,
-      0,
-      17
-     ],
-     [
-      10,
-      18,
-      0,
-      0,
-      11
-     ]
-    ],
-    "chips": [
-     [
-      "bboost",
-      1
-     ],
-     [
-      "wildcard",
-      4
-     ]
-    ]
-   },
-   "7043406": {
-    "past": 12,
-    "cur": [
-     [
-      1,
-      47,
-      0,
-      0,
-      6
-     ],
-     [
-      2,
-      79,
-      1,
-      0,
-      17
-     ],
-     [
-      3,
-      45,
-      0,
-      0,
-      14
-     ],
-     [
-      4,
-      91,
-      1,
-      0,
-      20
-     ],
-     [
-      5,
-      66,
-      1,
-      0,
-      12
-     ],
-     [
-      6,
-      52,
-      1,
-      0,
-      29
-     ],
-     [
-      7,
-      71,
-      1,
-      0,
-      17
-     ],
-     [
-      8,
-      64,
-      2,
-      4,
-      0
-     ],
-     [
-      9,
-      45,
-      2,
-      4,
-      16
-     ],
-     [
-      10,
-      34,
-      2,
-      4,
-      16
-     ]
-    ],
-    "chips": [
-     [
-      "wildcard",
-      3
-     ],
-     [
-      "3xc",
-      7
-     ],
-     [
-      "bboost",
-      8
      ]
     ]
    },
@@ -1812,10 +1642,10 @@
      ],
      [
       10,
-      12,
+      64,
       2,
       0,
-      6
+      5
      ]
     ],
     "chips": []
@@ -1888,10 +1718,10 @@
      ],
      [
       10,
-      14,
+      58,
       1,
       0,
-      0
+      3
      ]
     ],
     "chips": [
@@ -1902,6 +1732,176 @@
      [
       "wildcard",
       9
+     ]
+    ]
+   },
+   "865376": {
+    "past": 19,
+    "cur": [
+     [
+      1,
+      63,
+      0,
+      0,
+      15
+     ],
+     [
+      2,
+      81,
+      0,
+      0,
+      16
+     ],
+     [
+      3,
+      45,
+      2,
+      0,
+      10
+     ],
+     [
+      4,
+      89,
+      1,
+      0,
+      8
+     ],
+     [
+      5,
+      54,
+      2,
+      4,
+      10
+     ],
+     [
+      6,
+      73,
+      0,
+      0,
+      18
+     ],
+     [
+      7,
+      55,
+      0,
+      0,
+      17
+     ],
+     [
+      8,
+      47,
+      0,
+      0,
+      5
+     ],
+     [
+      9,
+      58,
+      1,
+      0,
+      28
+     ],
+     [
+      10,
+      57,
+      3,
+      0,
+      19
+     ]
+    ],
+    "chips": [
+     [
+      "wildcard",
+      6
+     ]
+    ]
+   },
+   "7043406": {
+    "past": 12,
+    "cur": [
+     [
+      1,
+      47,
+      0,
+      0,
+      6
+     ],
+     [
+      2,
+      79,
+      1,
+      0,
+      17
+     ],
+     [
+      3,
+      45,
+      0,
+      0,
+      14
+     ],
+     [
+      4,
+      91,
+      1,
+      0,
+      20
+     ],
+     [
+      5,
+      66,
+      1,
+      0,
+      12
+     ],
+     [
+      6,
+      52,
+      1,
+      0,
+      29
+     ],
+     [
+      7,
+      71,
+      1,
+      0,
+      17
+     ],
+     [
+      8,
+      64,
+      2,
+      4,
+      0
+     ],
+     [
+      9,
+      45,
+      2,
+      4,
+      16
+     ],
+     [
+      10,
+      65,
+      2,
+      4,
+      26
+     ]
+    ],
+    "chips": [
+     [
+      "wildcard",
+      3
+     ],
+     [
+      "3xc",
+      7
+     ],
+     [
+      "bboost",
+      8
      ]
     ]
    },
@@ -1973,7 +1973,7 @@
      ],
      [
       10,
-      16,
+      55,
       1,
       0,
       2
@@ -2058,7 +2058,7 @@
      ],
      [
       10,
-      26,
+      64,
       1,
       0,
       0
@@ -2139,10 +2139,10 @@
      ],
      [
       10,
-      24,
+      50,
       0,
       0,
-      6
+      8
      ]
     ],
     "chips": [
@@ -2220,7 +2220,7 @@
      ],
      [
       10,
-      20,
+      55,
       0,
       0,
       4
@@ -2361,15 +2361,6 @@
     "event_total": 62
    },
    {
-    "entry": 5682768,
-    "player_name": "Vanessa Jethwani",
-    "entry_name": "super squad",
-    "rank": 15,
-    "last_rank": 14,
-    "total": 634,
-    "event_total": 59
-   },
-   {
     "entry": 3506595,
     "player_name": "Hishaan Mahtani",
     "entry_name": "Jacquet Potato",
@@ -2377,6 +2368,15 @@
     "last_rank": 21,
     "total": 634,
     "event_total": 74
+   },
+   {
+    "entry": 5682768,
+    "player_name": "Vanessa Jethwani",
+    "entry_name": "super squad",
+    "rank": 15,
+    "last_rank": 14,
+    "total": 634,
+    "event_total": 59
    },
    {
     "entry": 4922092,
@@ -6232,6 +6232,424 @@
      491
     ]
    ]
+  },
+  "10": {
+   "2321301": [
+    8,
+    [
+     1,
+     566,
+     8,
+     31,
+     115,
+     627,
+     40,
+     154,
+     411,
+     249,
+     166
+    ]
+   ],
+   "3029346": [
+    411,
+    [
+     496,
+     115,
+     112,
+     4,
+     68,
+     40,
+     124,
+     366,
+     411,
+     166,
+     379
+    ]
+   ],
+   "735721": [
+    411,
+    [
+     1,
+     31,
+     8,
+     115,
+     124,
+     40,
+     154,
+     237,
+     411,
+     166,
+     249
+    ]
+   ],
+   "1921902": [
+    40,
+    [
+     1,
+     334,
+     8,
+     391,
+     362,
+     124,
+     154,
+     40,
+     346,
+     411,
+     166
+    ]
+   ],
+   "2687116": [
+    379,
+    [
+     496,
+     8,
+     31,
+     391,
+     115,
+     15,
+     68,
+     154,
+     379,
+     166,
+     411
+    ]
+   ],
+   "3344797": [
+    411,
+    [
+     109,
+     8,
+     31,
+     115,
+     427,
+     40,
+     154,
+     124,
+     68,
+     346,
+     411
+    ]
+   ],
+   "4487775": [
+    8,
+    [
+     1,
+     503,
+     8,
+     362,
+     31,
+     124,
+     399,
+     40,
+     427,
+     166,
+     411
+    ]
+   ],
+   "1655993": [
+    411,
+    [
+     1,
+     112,
+     115,
+     31,
+     13,
+     68,
+     124,
+     40,
+     79,
+     411,
+     379
+    ]
+   ],
+   "1036311": [
+    411,
+    [
+     109,
+     8,
+     115,
+     31,
+     40,
+     236,
+     124,
+     154,
+     480,
+     166,
+     411
+    ]
+   ],
+   "3072827": [
+    79,
+    [
+     1,
+     391,
+     112,
+     115,
+     40,
+     124,
+     154,
+     427,
+     79,
+     411,
+     249
+    ]
+   ],
+   "3350483": [
+    411,
+    [
+     1,
+     391,
+     115,
+     8,
+     40,
+     154,
+     124,
+     68,
+     411,
+     249,
+     346
+    ]
+   ],
+   "5474293": [
+    411,
+    [
+     1,
+     8,
+     31,
+     115,
+     154,
+     124,
+     40,
+     68,
+     86,
+     411,
+     166
+    ]
+   ],
+   "75778": [
+    411,
+    [
+     109,
+     31,
+     115,
+     566,
+     8,
+     334,
+     124,
+     15,
+     154,
+     411,
+     379
+    ]
+   ],
+   "6892917": [
+    79,
+    [
+     350,
+     31,
+     8,
+     115,
+     53,
+     40,
+     512,
+     154,
+     124,
+     411,
+     79
+    ]
+   ],
+   "3506595": [
+    249,
+    [
+     1,
+     112,
+     8,
+     362,
+     237,
+     40,
+     68,
+     154,
+     166,
+     411,
+     249
+    ]
+   ],
+   "5682768": [
+    411,
+    [
+     109,
+     8,
+     391,
+     330,
+     15,
+     426,
+     261,
+     154,
+     79,
+     346,
+     411
+    ]
+   ],
+   "4922092": [
+    411,
+    [
+     109,
+     8,
+     391,
+     115,
+     68,
+     40,
+     627,
+     124,
+     13,
+     464,
+     411
+    ]
+   ],
+   "2465483": [
+    379,
+    [
+     572,
+     31,
+     230,
+     8,
+     40,
+     400,
+     68,
+     432,
+     411,
+     166,
+     379
+    ]
+   ],
+   "2934546": [
+    411,
+    [
+     109,
+     362,
+     31,
+     115,
+     40,
+     154,
+     68,
+     124,
+     379,
+     166,
+     411
+    ]
+   ],
+   "6279027": [
+    166,
+    [
+     1,
+     115,
+     229,
+     112,
+     156,
+     53,
+     40,
+     68,
+     411,
+     166,
+     379
+    ]
+   ],
+   "865376": [
+    154,
+    [
+     1,
+     449,
+     8,
+     391,
+     115,
+     40,
+     453,
+     154,
+     79,
+     411,
+     249
+    ]
+   ],
+   "7043406": [
+    31,
+    [
+     1,
+     8,
+     31,
+     115,
+     453,
+     154,
+     68,
+     400,
+     166,
+     79,
+     411
+    ]
+   ],
+   "6159011": [
+    411,
+    [
+     1,
+     115,
+     8,
+     60,
+     53,
+     124,
+     94,
+     40,
+     68,
+     411,
+     166
+    ]
+   ],
+   "3314780": [
+    411,
+    [
+     226,
+     259,
+     388,
+     60,
+     15,
+     367,
+     124,
+     40,
+     79,
+     411,
+     138
+    ]
+   ],
+   "6051923": [
+    411,
+    [
+     250,
+     229,
+     391,
+     8,
+     40,
+     399,
+     68,
+     124,
+     411,
+     79,
+     138
+    ]
+   ],
+   "6476662": [
+    411,
+    [
+     412,
+     4,
+     229,
+     60,
+     8,
+     53,
+     427,
+     366,
+     166,
+     411,
+     138
+    ]
+   ]
   }
  },
  "awards_hist": {
@@ -6994,6 +7412,140 @@
  },
  "stories": [
   {
+   "key": "w10",
+   "kind": "wrap",
+   "tag": "Wrap",
+   "head": "GW10 wrap: Matt wins the week with 96",
+   "body": "Matt's Bench Boost produced 96 points, the best score of the gameweek. Nikhil still tops the table at 723.",
+   "stat": "Top: 1 Nikhil · 2 Matt · 3 Deepak",
+   "score": 95,
+   "who": [
+    3029346
+   ],
+   "ts": "2026-11-09T14:51:36Z",
+   "gw": 10,
+   "plain": {
+    "head": "GW10 wrap: Matt wins the week with 96",
+    "body": "Manager of the week: Matt · 96\nCaptain call: Hishaan's Barry · 32\nTransfer of the week: Deepak's Barry · 16\nThe one that got away: Chandru sold Cherki · 9\nBench of shame: Rajiv · 26 left on the bench\nClimber of the week: Hishaan · up 6 to 15th\nWooden spoon: Ravi Mahtani · 47"
+   },
+   "ai": true
+  },
+  {
+   "key": "w10:cap-blank:40",
+   "kind": "wrap",
+   "tag": "Captains",
+   "head": "Armband agony: Ravin's Rogers returns 2",
+   "body": "The captain didn't turn up this week.",
+   "stat": "2 pts",
+   "score": 45,
+   "who": [
+    1921902
+   ],
+   "ts": "2026-11-09T14:51:36Z",
+   "gw": 10
+  },
+  {
+   "key": "w10:cap-blank:154",
+   "kind": "wrap",
+   "tag": "Captains",
+   "head": "Armband agony: Lakshay's Palmer returns 2",
+   "body": "The captain didn't turn up this week.",
+   "stat": "2 pts",
+   "score": 45,
+   "who": [
+    865376
+   ],
+   "ts": "2026-11-09T14:51:36Z",
+   "gw": 10
+  },
+  {
+   "key": "w10:hit:7043406",
+   "kind": "wrap",
+   "tag": "Transfers",
+   "head": "The -4 pays off for Rajiv",
+   "body": "Rajiv's Evanilson and Konsa returned 25 points despite the 4-point hit.",
+   "stat": "25 for -4",
+   "score": 40,
+   "who": [
+    7043406
+   ],
+   "ts": "2026-11-09T14:51:36Z",
+   "gw": 10,
+   "plain": {
+    "head": "The -4 pays off for Rajiv",
+    "body": "Evanilson and Konsa returned 25 points."
+   },
+   "ai": true
+  },
+  {
+   "key": "w10:zones",
+   "kind": "wrap",
+   "tag": "Table",
+   "head": "Matt breaks into the Gold spots",
+   "body": "Matt moves into the Gold spots while Chandru drops out of them.",
+   "stat": "GW10 table zones",
+   "score": 80,
+   "who": [
+    2687116,
+    3029346
+   ],
+   "ts": "2026-11-09T14:51:36Z",
+   "gw": 10,
+   "plain": {
+    "head": "Matt breaks into the Gold spots",
+    "body": "Into the Gold spots: Matt\nOut of the Gold spots: Chandru"
+   },
+   "ai": true
+  },
+  {
+   "key": "news:391:Unspecified injury - 75% chance of playing",
+   "kind": "news",
+   "tag": "News",
+   "head": "Injury watch: Gvardiol",
+   "body": "Gvardiol is 75% to play with an unspecified injury, and 9 of you own him.",
+   "stat": "75% to play",
+   "score": 44,
+   "who": [
+    865376,
+    1921902,
+    2687116,
+    3072827,
+    3350483,
+    3506595,
+    4922092,
+    5682768,
+    6051923
+   ],
+   "ts": "2026-11-09T14:51:36Z",
+   "gw": 10,
+   "plain": {
+    "head": "Injury watch: Gvardiol",
+    "body": "Unspecified injury - 75% chance of playing. 9 of you own him."
+   },
+   "ai": true
+  },
+  {
+   "key": "news:173:Calf injury - 50% chance of playing",
+   "kind": "news",
+   "tag": "News",
+   "head": "Injury watch: Thomas",
+   "body": "Thomas has a calf injury and is 50% to play, with 3 of you owning him.",
+   "stat": "50% to play",
+   "score": 38,
+   "who": [
+    735721,
+    2465483,
+    6051923
+   ],
+   "ts": "2026-11-09T14:51:36Z",
+   "gw": 10,
+   "plain": {
+    "head": "Injury watch: Thomas",
+    "body": "Calf injury - 50% chance of playing. 3 of you own him."
+   },
+   "ai": true
+  },
+  {
    "key": "l10:ret:426:1:1",
    "kind": "live",
    "tag": "Live",
@@ -7749,10 +8301,18 @@
   "l10:cap-haul:166",
   "d10:bought:166:1:1",
   "l10:ret:166:1:1",
-  "l10:ret:426:1:1"
+  "l10:ret:426:1:1",
+  "w10",
+  "w10:cap-blank:40",
+  "w10:cap-blank:154",
+  "w10:hit:7043406",
+  "w10:zones",
+  "news:391:Unspecified injury - 75% chance of playing",
+  "news:173:Calf injury - 50% chance of playing"
  ],
  "done": [
-  "deadline:10"
+  "deadline:10",
+  "wrap:10"
  ],
  "snap": {
   "gw": 10,
@@ -8814,15 +9374,15 @@
    "5474293": 12,
    "75778": 13,
    "6892917": 14,
-   "5682768": 15,
    "3506595": 15,
+   "5682768": 15,
    "4922092": 17,
    "2465483": 18,
    "2934546": 18,
    "6279027": 20,
    "865376": 21,
-   "7043406": 23,
-   "6159011": 22,
+   "7043406": 22,
+   "6159011": 23,
    "3314780": 24,
    "6051923": 25,
    "6476662": 26
@@ -8842,8 +9402,8 @@
    "5474293": null,
    "75778": null,
    "6892917": null,
-   "5682768": null,
    "3506595": null,
+   "5682768": null,
    "4922092": null,
    "2465483": null,
    "2934546": null,
@@ -8856,21 +9416,43 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-09T14:39:15Z",
+ "updated": "2026-11-09T14:51:36Z",
  "ai": {
-  "briefings": {},
-  "key": "10:live",
-  "ts": "2026-11-08T18:30:29Z",
+  "briefings": {
+   "2321301": "You're top on 723 after a 73, but Matt's 96 leaves you just 1 point clear. Watch Barcola and your Freehit chip as the next deadline approaches.",
+   "3029346": "Your 96 Bench Boost has you 1 behind Nikhil in 2nd. Your Bench Boost is spent, so Freehit is your last chip; watch Haaland's 4 captain points and keep chasing the top.",
+   "735721": "You sit 3rd on 708, 14 behind Matt. Your Freehit is still available and Barry is your latest signing; watch the gap above you closely.",
+   "2687116": "You're 5th on 696 after a 67, 27 behind the leader. Your Isak captain scored 16; your Freehit is still unused, so plan a push before the deadline.",
+   "3344797": "You're 6th on 674 after a 51, with Chandru 22 ahead. Your Wildcard and Freehit are both unused; watch Prem's 5 points behind you.",
+   "1655993": "You're 8th on 667 after a 63, 2 behind Prem. Your Bench Boost is the only chip left; watch Amit closing in 9 points behind.",
+   "1036311": "You're 9th on 658 after a 69, 9 behind Sunny. Your Bench Boost, Wildcard and Freehit are all unused, so watch Sunil just 4 points ahead.",
+   "3072827": "You're 10th on 654 after a 68 and your Evanilson captain scored 18. Watch Aashiv nipping at your heels 1 point behind.",
+   "3350483": "You're 11th on 653 after a 57, just 1 behind Sunil. Your Freehit is your last chip; watch Sahil breathing down your neck.",
+   "75778": "You're 13th on 647 after a 74 and climbing. You have no chips left, so keep Silva and Isak on form.",
+   "6892917": "You're 14th on 636 after a 62, with Evanilson's 18 as captain. Your 3xc and Freehit are still available; watch Hishaan 2 points behind.",
+   "3506595": "You're 15th on 634 after a 74, with Barry's 32 captain haul leading the way. Your Bench Boost, Wildcard and Freehit remain; watch Vanessa level on points.",
+   "5682768": "You're level on 634 with Hishaan after a 59. Your Bench Boost, Wildcard and Freehit are all available; watch Ravi Mahtani 5 behind.",
+   "4922092": "You've dropped to 17th on 629 after a 47, the week's grimmest return. Your 3xc and Wildcard are still available; watch Inesh just 1 point behind.",
+   "2465483": "You're 18th on 628 after a 63 with Isak's 16 captain points. Only Bench Boost remains; watch Naresh level on points.",
+   "6279027": "You're 20th on 619 after a 58, with N.Jackson's 22 captain points the highlight. Your Bench Boost and Freehit remain; watch Lakshay 1 point behind.",
+   "865376": "You're 21st on 618 after a 57, with Palmer's 4 disappointing. You have Freehit, Bench Boost and 3xc still unused; watch Rajiv 5 behind.",
+   "7043406": "You're 22nd on 613 after a 65, with Konsa's 16 captain points and the -4 paying off. Your Freehit is the only chip left; watch Vinesh 1 behind.",
+   "6159011": "You're 23rd on 612 after a 55. You have 3xc and Bench Boost left; watch Ravi Bhojwani 12 behind.",
+   "3314780": "You're 24th on 600 after a 64 with Bench Boost used this week. Your 3xc, Wildcard and Freehit are still in play; watch Alia 16 points back.",
+   "6051923": "You're 25th on 584 after a 50 and the Ice Cold tag still applies. Your 3xc, Bench Boost and Freehit remain; watch Bella 24 behind."
+  },
+  "key": "10:between",
+  "ts": "2026-11-09T14:51:36Z",
   "usage": {
    "10": {
-    "in": 999931,
-    "out": 253682,
-    "calls": 90,
-    "refreshes": 11,
+    "in": 1032461,
+    "out": 262176,
+    "calls": 94,
+    "refreshes": 12,
     "desks": 27,
     "desk_in": 625206,
     "desk_out": 209103,
-    "plots": 7
+    "plots": 8
    }
   },
   "desks": [
@@ -9712,17 +10294,17 @@
   "plots": [
    {
     "id": "slump:6051923",
-    "title": "Alia Edges Upward",
+    "title": "Alia Edges Towards Recovery",
     "status": "Building",
-    "text": "Alia has now finished 6 gameweeks in a row below the league average. This week's 50 points is a step up from 42, though the run of weeks below average continues.",
-    "next": "Could Alia string together a stronger week and begin to climb out of the slump?",
+    "text": "Alia has now been below the league average for 6 weeks in a row. Their 50 points this week is up from 42, but the slump is not over yet.",
+    "next": "Could Alia's rise continue and finally pull them above the league average?",
     "who": [
      6051923
     ],
     "kind": "slump",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T13:57:33Z",
+    "ts": "2026-11-09T14:51:36Z",
     "question": "Can Alia snap out of it?",
     "line": [
      [
@@ -9750,44 +10332,26 @@
     "streak": 6
    },
    {
-    "id": "chase:4487775",
-    "title": "Prem Closes the Gap",
-    "status": "Heating up",
-    "text": "Prem is now 5 points behind Rohan, down from 21 just one gameweek ago. The gap has shrunk every week since GW7, when Rohan was 34 points clear.",
-    "next": "Could Prem overtake Rohan in the next gameweek and seize the chase?",
+    "id": "award:captain:3344797",
+    "title": "Rohan's Captaincy Crown",
+    "status": "Building",
+    "text": "Rohan has won Captain of the Week 5 times this season, setting a high bar for the rest of the league. The question is whether anyone can match that run.",
+    "next": "Could Rohan add another win, or will someone start a rival run?",
     "who": [
-     4487775,
      3344797
     ],
-    "kind": "chaser",
+    "kind": "repeat glory",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T13:57:33Z",
-    "question": "Can Prem catch Rohan?",
-    "line": [
-     [
-      "GW7",
-      "Rohan +34"
-     ],
-     [
-      "GW8",
-      "Rohan +27"
-     ],
-     [
-      "GW9",
-      "Rohan +21"
-     ],
-     [
-      "GW10",
-      "Rohan +5"
-     ]
-    ],
+    "ts": "2026-11-09T14:51:36Z",
+    "question": "Can anyone match Rohan?",
+    "line": [],
     "since": 10,
     "streak": null
    }
   ],
-  "plots_ts": "2026-11-09T13:57:33Z",
-  "plots_key": "10:live",
+  "plots_ts": "2026-11-09T14:51:36Z",
+  "plots_key": "10:between",
   "verdict_tries": {
    "10:2": 1,
    "10:3": 1,
@@ -9803,7 +10367,33 @@
   },
   "plots_v": 6,
   "_replaced_ts": "2026-11-09T10:15:30Z",
-  "plots_sig": "ee851c74a979"
+  "plots_sig": "427e172f7adf",
+  "group": {
+   "text": "*Matt's Bench Boost steals the week*\nMatt hauled 96 and sits just 1 behind Nikhil at the top.\nRavin's armband flopped, Rogers returned just 2, and Ravin slid from 1st to 4th.\nRavi Mahtani slumped to 47, the grimmest week of the lot.",
+   "ts": "2026-11-09T14:51:36Z",
+   "gw": 10
+  },
+  "storylines": [
+   {
+    "title": "The summit squeeze",
+    "text": "Nikhil leads Matt by just 1 point at the top, with Deepak 14 further back.",
+    "who": [
+     2321301,
+     3029346,
+     735721
+    ]
+   },
+   {
+    "title": "Bench Boost bragging",
+    "text": "Matt's 96-point Bench Boost is the week's best haul and it lifts him into contention.",
+    "who": [
+     3029346
+    ]
+   }
+  ],
+  "plots_sig_tries": {
+   "427e172f7adf": 1
+  }
  },
  "plot_log": {
   "gamble:3506595:10": [
@@ -9858,8 +10448,8 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Alia Edges Upward",
-    "text": "Alia has now finished 6 gameweeks in a row below the league average. This week's 50 points is a step up from 42, though the run of weeks below average continues."
+    "title": "Alia Edges Towards Recovery",
+    "text": "Alia has now been below the league average for 6 weeks in a row. Their 50 points this week is up from 42, but the slump is not over yet."
    }
   ],
   "award:captain:3344797": [
@@ -9867,7 +10457,7 @@
     "gw": 10,
     "day": "2026-11-09",
     "title": "Rohan's Captaincy Crown",
-    "text": "Rohan has won Captain of the Week 5 times this season, keeping the award firmly in his hands. The question is whether any rival can take up the chase."
+    "text": "Rohan has won Captain of the Week 5 times this season, setting a high bar for the rest of the league. The question is whether anyone can match that run."
    }
   ]
  },
@@ -9886,7 +10476,7 @@
    "spoon": "share/gw10-9f4729fb83a8-spoon.png"
   }
  },
- "phase": "live",
+ "phase": "between",
  "preview": {
   "gw": 10,
   "haul": 10,
@@ -10424,7 +11014,7 @@
       "Manzambi": 2,
       "Schade": 1
      },
-     "rank": 22
+     "rank": 23
     }
    },
    "3314780": {
@@ -10803,7 +11393,9 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-09T14:39:15Z",
-  "issues": []
+  "ts": "2026-11-09T14:51:36Z",
+  "issues": [
+   "desk written from older totals (1 managers changed since)"
+  ]
  }
 }
