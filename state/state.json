@@ -2910,7 +2910,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-09T20:56:21Z",
+ "updated": "2026-11-09T21:30:08Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -13810,7 +13810,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-09T20:56:21Z",
+  "ts": "2026-11-09T21:30:08Z",
   "issues": []
  },
  "pwatch": {
@@ -13856,7 +13856,7 @@
    "229": "a|None|",
    "53": "a|100|",
    "251": "a|None|",
-   "268": "d|75|Groin injury - 75% chance of playing",
+   "268": "a|100|",
    "572": "a|None|",
    "138": "a|None|",
    "428": "a|None|",
@@ -13925,7 +13925,8 @@
    "55": "u|0|Has joined Al Hilal permanently"
   },
   "changed": {
-   "356": "2026-11-09T18:17:11Z"
+   "356": "2026-11-09T18:17:11Z",
+   "268": "2026-11-09T21:30:08Z"
   },
   "price": {
    "1": 6.2,
@@ -14077,6 +14078,14 @@
     "status": "d",
     "chance": 75,
     "news": "Unspecified injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-09T21:30:08Z",
+    "el": 268,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
    }
   ]
  }

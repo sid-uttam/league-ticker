@@ -9936,15 +9936,6 @@
     "event_total": 62
    },
    {
-    "entry": 107315,
-    "player_name": "Sahej Jhamvar",
-    "entry_name": "sage",
-    "rank": 21,
-    "last_rank": 21,
-    "total": 672,
-    "event_total": 65
-   },
-   {
     "entry": 780469,
     "player_name": "Sahil Thorve",
     "entry_name": "NotAnIsakScience",
@@ -9952,6 +9943,15 @@
     "last_rank": 42,
     "total": 672,
     "event_total": 82
+   },
+   {
+    "entry": 107315,
+    "player_name": "Sahej Jhamvar",
+    "entry_name": "sage",
+    "rank": 21,
+    "last_rank": 21,
+    "total": 672,
+    "event_total": 65
    },
    {
     "entry": 1662734,
@@ -10161,15 +10161,6 @@
     "event_total": 61
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 38,
-    "total": 649,
-    "event_total": 55
-   },
-   {
     "entry": 2868149,
     "player_name": "Akash Singh",
     "entry_name": "The Gerrardians",
@@ -10177,6 +10168,15 @@
     "last_rank": 37,
     "total": 649,
     "event_total": 54
+   },
+   {
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 45,
+    "last_rank": 38,
+    "total": 649,
+    "event_total": 55
    },
    {
     "entry": 10821,
@@ -10395,15 +10395,6 @@
     "event_total": 53
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
-    "rank": 72,
-    "last_rank": 73,
-    "total": 626,
-    "event_total": 65
-   },
-   {
     "entry": 10615,
     "player_name": "Maanas Gupta",
     "entry_name": "Infinity Inc",
@@ -10411,6 +10402,15 @@
     "last_rank": 67,
     "total": 626,
     "event_total": 55
+   },
+   {
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
+    "rank": 72,
+    "last_rank": 73,
+    "total": 626,
+    "event_total": 65
    },
    {
     "entry": 3404613,
@@ -10548,15 +10548,6 @@
     "event_total": 62
    },
    {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 89,
-    "last_rank": 80,
-    "total": 604,
-    "event_total": 50
-   },
-   {
     "entry": 2037953,
     "player_name": "Umang Khurana",
     "entry_name": "XI Marauders",
@@ -10564,6 +10555,15 @@
     "last_rank": 96,
     "total": 604,
     "event_total": 69
+   },
+   {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 89,
+    "last_rank": 80,
+    "total": 604,
+    "event_total": 50
    },
    {
     "entry": 686561,
@@ -55086,8 +55086,8 @@
    "1305406": 17,
    "2554077": 19,
    "5685525": 19,
-   "107315": 19,
    "780469": 19,
+   "107315": 19,
    "1662734": 23,
    "3323262": 23,
    "3234577": 25,
@@ -55111,8 +55111,8 @@
    "4558790": 43,
    "4134138": 44,
    "5640988": 45,
-   "3566356": 45,
    "2868149": 45,
+   "3566356": 45,
    "10821": 48,
    "4683090": 48,
    "3239284": 48,
@@ -55137,8 +55137,8 @@
    "4314690": 69,
    "2922453": 70,
    "3086063": 70,
-   "4592187": 72,
    "10615": 72,
+   "4592187": 72,
    "3404613": 74,
    "1737924": 75,
    "6830291": 76,
@@ -55154,8 +55154,8 @@
    "11673": 86,
    "4905114": 87,
    "3389995": 87,
-   "2723973": 89,
    "2037953": 89,
+   "2723973": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 92,
@@ -55201,8 +55201,8 @@
    "1305406": "silver",
    "2554077": "silver",
    "5685525": "silver",
-   "107315": "silver",
    "780469": "silver",
+   "107315": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "3234577": "silver",
@@ -55226,8 +55226,8 @@
    "4558790": null,
    "4134138": null,
    "5640988": null,
-   "3566356": null,
    "2868149": null,
+   "3566356": null,
    "10821": null,
    "4683090": null,
    "3239284": null,
@@ -55252,8 +55252,8 @@
    "4314690": null,
    "2922453": null,
    "3086063": null,
-   "4592187": null,
    "10615": null,
+   "4592187": null,
    "3404613": null,
    "1737924": null,
    "6830291": null,
@@ -55269,8 +55269,8 @@
    "11673": null,
    "4905114": null,
    "3389995": null,
-   "2723973": null,
    "2037953": null,
+   "2723973": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-09T20:57:13Z",
+ "updated": "2026-11-09T21:30:29Z",
  "ai": {
   "briefings": {
    "5949580": "You hold top spot on 734, 18 clear of Neol, and your 70 was solid. Neol is the threat right behind you, so watch the Free Hit timing and keep Haaland in perspective.",
@@ -57097,7 +57097,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-09T20:57:13Z",
+  "ts": "2026-11-09T21:30:29Z",
   "issues": []
  },
  "phase": "between",
@@ -57233,7 +57233,7 @@
    "282": "a|None|",
    "586": "a|100|",
    "572": "a|None|",
-   "268": "d|75|Groin injury - 75% chance of playing",
+   "268": "a|100|",
    "569": "a|None|",
    "332": "a|None|",
    "321": "a|None|",
@@ -57314,7 +57314,8 @@
    "327": "a|None|"
   },
   "changed": {
-   "356": "2026-11-09T18:17:30Z"
+   "356": "2026-11-09T18:17:30Z",
+   "268": "2026-11-09T21:30:29Z"
   },
   "price": {
    "1": 6.2,
@@ -57504,6 +57505,14 @@
     "status": "d",
     "chance": 75,
     "news": "Unspecified injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-09T21:30:29Z",
+    "el": 268,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
    }
   ]
  }

@@ -9416,7 +9416,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-09T20:59:16Z",
+ "updated": "2026-11-09T21:31:12Z",
  "ai": {
   "briefings": {
    "2321301": "You're top on 723 after a 73, but Matt's 96 leaves you just 1 point clear. Watch Barcola and your Freehit chip as the next deadline approaches.",
@@ -11511,7 +11511,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-09T20:59:16Z",
+  "ts": "2026-11-09T21:31:12Z",
   "issues": []
  },
  "pwatch": {
@@ -11529,7 +11529,7 @@
    "166": "a|None|",
    "497": "a|None|",
    "124": "a|None|",
-   "268": "d|75|Groin injury - 75% chance of playing",
+   "268": "a|100|",
    "305": "a|None|",
    "496": "a|None|",
    "112": "a|100|",
@@ -11607,7 +11607,9 @@
    "481": "a|100|",
    "469": "a|100|"
   },
-  "changed": {},
+  "changed": {
+   "268": "2026-11-09T21:31:12Z"
+  },
   "price": {
    "1": 6.2,
    "566": 5.1,
@@ -11731,6 +11733,15 @@
    "10": "10:down",
    "138": "10:down"
   },
-  "log": []
+  "log": [
+   {
+    "ts": "2026-11-09T21:31:12Z",
+    "el": 268,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   }
+  ]
  }
 }
