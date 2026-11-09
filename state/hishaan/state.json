@@ -2361,15 +2361,6 @@
     "event_total": 62
    },
    {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 15,
-    "last_rank": 21,
-    "total": 634,
-    "event_total": 74
-   },
-   {
     "entry": 5682768,
     "player_name": "Vanessa Jethwani",
     "entry_name": "super squad",
@@ -2377,6 +2368,15 @@
     "last_rank": 14,
     "total": 634,
     "event_total": 59
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 15,
+    "last_rank": 21,
+    "total": 634,
+    "event_total": 74
    },
    {
     "entry": 4922092,
@@ -9374,8 +9374,8 @@
    "5474293": 12,
    "75778": 13,
    "6892917": 14,
-   "3506595": 15,
    "5682768": 15,
+   "3506595": 15,
    "4922092": 17,
    "2465483": 18,
    "2934546": 18,
@@ -9402,8 +9402,8 @@
    "5474293": null,
    "75778": null,
    "6892917": null,
-   "3506595": null,
    "5682768": null,
+   "3506595": null,
    "4922092": null,
    "2465483": null,
    "2934546": null,
@@ -9416,7 +9416,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-09T15:40:37Z",
+ "updated": "2026-11-09T16:12:45Z",
  "ai": {
   "briefings": {
    "2321301": "You're top on 723 after a 73, but Matt's 96 leaves you just 1 point clear. Watch Barcola and your Freehit chip as the next deadline approaches.",
@@ -9445,14 +9445,14 @@
   "ts": "2026-11-09T14:51:36Z",
   "usage": {
    "10": {
-    "in": 1062695,
-    "out": 269408,
-    "calls": 96,
+    "in": 1065836,
+    "out": 271268,
+    "calls": 98,
     "refreshes": 12,
     "desks": 28,
     "desk_in": 655440,
     "desk_out": 216335,
-    "plots": 8
+    "plots": 9
    }
   },
   "desks": [
@@ -10295,18 +10295,54 @@
   "desk_last_ok": "2026-11-09T15:40:37Z",
   "plots": [
    {
+    "id": "title",
+    "title": "Nikhil Clings to Narrow Lead",
+    "status": "Heating up",
+    "text": "Nikhil leads Matt by just 1 point, 723 to 722, after a 24-point cushion a week ago. Deepak sits 15 back, and the lead has changed hands 3 times this season.",
+    "next": "Matt could overhaul Nikhil again, with Deepak lurking 15 points behind.",
+    "who": [
+     2321301,
+     3029346
+    ],
+    "kind": "title race",
+    "episode": 1,
+    "gw": 10,
+    "ts": "2026-11-09T16:12:45Z",
+    "question": "Who can hold the crown?",
+    "line": [
+     [
+      "GW7",
+      "Ravin"
+     ],
+     [
+      "GW8",
+      "Nikhil"
+     ],
+     [
+      "GW9",
+      "Nikhil"
+     ],
+     [
+      "GW10",
+      "Nikhil"
+     ]
+    ],
+    "since": 10,
+    "streak": null
+   },
+   {
     "id": "slump:6051923",
-    "title": "Alia Edges Towards Recovery",
+    "title": "Alia Still Searching",
     "status": "Building",
-    "text": "Alia has now been below the league average for 6 weeks in a row. Their 50 points this week is up from 42, but the slump is not over yet.",
-    "next": "Could Alia's rise continue and finally pull them above the league average?",
+    "text": "Alia has now finished below the league average for 6 weeks in a row. A 50-point week in GW10 is up on 42, but the streak keeps going.",
+    "next": "Could a strong run finally end the slump, or does it stretch further?",
     "who": [
      6051923
     ],
     "kind": "slump",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T14:51:36Z",
+    "ts": "2026-11-09T16:12:45Z",
     "question": "Can Alia snap out of it?",
     "line": [
      [
@@ -10337,22 +10373,94 @@
     "id": "award:captain:3344797",
     "title": "Rohan's Captaincy Crown",
     "status": "Building",
-    "text": "Rohan has won Captain of the Week 5 times this season, setting a high bar for the rest of the league. The question is whether anyone can match that run.",
-    "next": "Could Rohan add another win, or will someone start a rival run?",
+    "text": "Rohan has won Captain of the Week 5 times this season, setting the bar for everyone else. The rest of the league is still chasing that record.",
+    "next": "Could someone else finally break Rohan's grip on the captaincy award?",
     "who": [
      3344797
     ],
     "kind": "repeat glory",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T14:51:36Z",
+    "ts": "2026-11-09T16:12:45Z",
     "question": "Can anyone match Rohan?",
     "line": [],
     "since": 10,
     "streak": null
+   },
+   {
+    "id": "rivalry:4922092-5682768",
+    "title": "Vanessa Edges Back Ahead",
+    "status": "Twist",
+    "text": "Vanessa has swapped places with Ravi Mahtani 7 times this season and now leads by 5. A week ago Ravi was 7 points clear, so the tide has turned again.",
+    "next": "Ravi Mahtani could hit back, and this rivalry shows no sign of settling.",
+    "who": [
+     5682768,
+     4922092
+    ],
+    "kind": "rivalry",
+    "episode": 1,
+    "gw": 10,
+    "ts": "2026-11-09T16:12:45Z",
+    "question": "Vanessa v Ravi Mahtani: who blinks first?",
+    "line": [
+     [
+      "GW7",
+      "Vanessa +12"
+     ],
+     [
+      "GW8",
+      "Ravi +4"
+     ],
+     [
+      "GW9",
+      "Ravi +7"
+     ],
+     [
+      "GW10",
+      "Vanessa +5"
+     ]
+    ],
+    "since": 10,
+    "streak": null
+   },
+   {
+    "id": "chase:4487775",
+    "title": "Prem Closes the Gap",
+    "status": "Heating up",
+    "text": "Prem is now just 5 behind Rohan, down from 34 back in GW7. The gap has shrunk every week, and the chase is getting serious.",
+    "next": "Could Prem overtake Rohan before the season runs out?",
+    "who": [
+     4487775,
+     3344797
+    ],
+    "kind": "chaser",
+    "episode": 1,
+    "gw": 10,
+    "ts": "2026-11-09T16:12:45Z",
+    "question": "Can Prem catch Rohan?",
+    "line": [
+     [
+      "GW7",
+      "Rohan +34"
+     ],
+     [
+      "GW8",
+      "Rohan +27"
+     ],
+     [
+      "GW9",
+      "Rohan +21"
+     ],
+     [
+      "GW10",
+      "Rohan +5"
+     ]
+    ],
+    "since": 10,
+    "streak": null
    }
   ],
-  "plots_ts": "2026-11-09T14:51:36Z",
+  "plots_ts": "2026-11-09T16:12:45Z",
   "plots_key": "10:between",
   "verdict_tries": {
    "10:2": 1,
@@ -10366,9 +10474,10 @@
    "3": 1,
    "4": 1,
    "5": 1,
-   "6": 1
+   "6": 1,
+   "7": 1
   },
-  "plots_v": 6,
+  "plots_v": 7,
   "plots_sig": "427e172f7adf",
   "group": {
    "text": "*Matt's Bench Boost steals the week*\nMatt hauled 96 and sits just 1 behind Nikhil at the top.\nRavin's armband flopped, Rogers returned just 2, and Ravin slid from 1st to 4th.\nRavi Mahtani slumped to 47, the grimmest week of the lot.",
@@ -10410,16 +10519,18 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Nikhil's One-Point Lead",
-    "text": "Nikhil leads Matt by just 1 point, 723 to 722, after holding a 24-point cushion last week. Deepak sits 15 points further back, and the crown has changed hands 3 times this season."
+    "title": "Nikhil Clings to Narrow Lead",
+    "text": "Nikhil leads Matt by just 1 point, 723 to 722, after a 24-point cushion a week ago. Deepak sits 15 back, and the lead has changed hands 3 times this season.",
+    "next": "Matt could overhaul Nikhil again, with Deepak lurking 15 points behind."
    }
   ],
   "rivalry:4922092-5682768": [
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Vanessa Hits Back",
-    "text": "Vanessa has flipped back in front of Ravi Mahtani, 5 points clear after trailing by 7 in GW9. The pair have swapped places 7 times this season."
+    "title": "Vanessa Edges Back Ahead",
+    "text": "Vanessa has swapped places with Ravi Mahtani 7 times this season and now leads by 5. A week ago Ravi was 7 points clear, so the tide has turned again.",
+    "next": "Ravi Mahtani could hit back, and this rivalry shows no sign of settling."
    }
   ],
   "gold": [
@@ -10435,7 +10546,8 @@
     "gw": 10,
     "day": "2026-11-09",
     "title": "Prem Closes the Gap",
-    "text": "Prem is now 5 points behind Rohan, down from 21 just one gameweek ago. The gap has shrunk every week since GW7, when Rohan was 34 points clear."
+    "text": "Prem is now just 5 behind Rohan, down from 34 back in GW7. The gap has shrunk every week, and the chase is getting serious.",
+    "next": "Could Prem overtake Rohan before the season runs out?"
    }
   ],
   "chase:3029346": [
@@ -10450,8 +10562,9 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Alia Edges Towards Recovery",
-    "text": "Alia has now been below the league average for 6 weeks in a row. Their 50 points this week is up from 42, but the slump is not over yet."
+    "title": "Alia Still Searching",
+    "text": "Alia has now finished below the league average for 6 weeks in a row. A 50-point week in GW10 is up on 42, but the streak keeps going.",
+    "next": "Could a strong run finally end the slump, or does it stretch further?"
    }
   ],
   "award:captain:3344797": [
@@ -10459,7 +10572,8 @@
     "gw": 10,
     "day": "2026-11-09",
     "title": "Rohan's Captaincy Crown",
-    "text": "Rohan has won Captain of the Week 5 times this season, setting a high bar for the rest of the league. The question is whether anyone can match that run."
+    "text": "Rohan has won Captain of the Week 5 times this season, setting the bar for everyone else. The rest of the league is still chasing that record.",
+    "next": "Could someone else finally break Rohan's grip on the captaincy award?"
    }
   ]
  },
@@ -11395,7 +11509,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-09T15:40:37Z",
+  "ts": "2026-11-09T16:12:45Z",
   "issues": []
  },
  "pwatch": {

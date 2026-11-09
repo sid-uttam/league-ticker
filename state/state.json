@@ -2856,8 +2856,8 @@
    "7471754": 6,
    "1378937": 7,
    "5489583": 8,
-   "4125292": 9,
    "3506595": 9,
+   "4125292": 9,
    "962024": 11,
    "363548": 12,
    "4922092": 13,
@@ -2887,8 +2887,8 @@
    "7471754": "silver",
    "1378937": "silver",
    "5489583": "silver",
-   "4125292": null,
    "3506595": null,
+   "4125292": null,
    "962024": null,
    "363548": null,
    "4922092": null,
@@ -2910,7 +2910,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-09T15:37:53Z",
+ "updated": "2026-11-09T16:11:24Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -5490,14 +5490,14 @@
   "key": "10:between",
   "usage": {
    "10": {
-    "in": 1570551,
-    "out": 386315,
-    "calls": 125,
+    "in": 1573614,
+    "out": 388668,
+    "calls": 127,
     "refreshes": 22,
     "desks": 31,
     "desk_in": 743088,
     "desk_out": 246195,
-    "plots": 8
+    "plots": 9
    }
   },
   "desks": [
@@ -6367,10 +6367,10 @@
   "plots": [
    {
     "id": "title",
-    "title": "Ayodele Edges Ahead",
+    "title": "Ayodele Edges Back Ahead",
     "status": "Twist",
-    "text": "Ayodele moved ahead of Cherag this week, leading 700 to 692 after Cherag had been ahead by 2 in GW9. The lead has changed hands 4 times this season, and Sid sits 29 points back in third.",
-    "next": "Could Cherag hit back straight away, or can Sid close the 29-point gap?",
+    "text": "Ayodele has retaken the lead at 700 points, 8 ahead of Cherag on 692, after Cherag held the top spot for GW5 to GW9. The crown has changed hands 4 times this season, and Sid sits 29 points off the leader in third.",
+    "next": "Could Cherag strike back, or can Ayodele stay top for a second week?",
     "who": [
      1092588,
      3219276
@@ -6378,7 +6378,7 @@
     "kind": "title race",
     "episode": 2,
     "gw": 10,
-    "ts": "2026-11-09T15:02:45Z",
+    "ts": "2026-11-09T16:11:24Z",
     "question": "Who can hold the crown?",
     "line": [
      [
@@ -6402,36 +6402,43 @@
     "streak": null
    },
    {
-    "id": "chase:3506595",
-    "title": "Hishaan Draws Level",
-    "status": "Heating up",
-    "text": "Hishaan has closed the gap on Bhavik from 47 points in GW7 to 23 in GW9, and the 2 are now level. The chase has gone from distant to neck and neck in 4 weeks.",
-    "next": "Could Hishaan go ahead of Bhavik next week, or will Bhavik pull clear again?",
+    "id": "underdog:573491",
+    "title": "Nihal Holds 4th",
+    "status": "Building",
+    "text": "Nihal has climbed from 26th in GW1 to 4th, a rise of 22 places, and has held that spot for 2 weeks. The climb has been steady since GW5, when Nihal was 16th.",
+    "next": "Could Nihal push into the top 3, or will the climb stall here?",
     "who": [
-     3506595,
-     4125292
+     573491
     ],
-    "kind": "chaser",
+    "kind": "underdog",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T15:02:45Z",
-    "question": "Can Hishaan catch Bhavik?",
+    "ts": "2026-11-09T16:11:24Z",
+    "question": "How high can Nihal go?",
     "line": [
      [
-      "GW7",
-      "Bhavik +47"
+      "GW1",
+      "26th"
      ],
      [
-      "GW8",
-      "Bhavik +46"
+      "GW3",
+      "22nd"
+     ],
+     [
+      "GW5",
+      "16th"
+     ],
+     [
+      "GW7",
+      "7th"
      ],
      [
       "GW9",
-      "Bhavik +23"
+      "4th"
      ],
      [
       "GW10",
-      "level"
+      "4th"
      ]
     ],
     "since": 10,
@@ -6439,17 +6446,17 @@
    },
    {
     "id": "slump:383423",
-    "title": "Tobi's Stubborn Slump",
+    "title": "Tobi's Long Slump",
     "status": "Building",
-    "text": "Tobi has finished below the league average for 6 weeks in a row, with 58 points this week after a low of 37 in GW9. The run shows no sign of ending yet.",
-    "next": "Could a good week be enough to break the run, or will the slump drag on?",
+    "text": "Tobi has now been below the league average for 6 weeks in a row, with a low of 37 points in GW9. A 58-point GW10 is a sign of life, but the run is still going.",
+    "next": "Could a 58-point week be the start of a way out of the slump?",
     "who": [
      383423
     ],
     "kind": "slump",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T15:02:45Z",
+    "ts": "2026-11-09T16:11:24Z",
     "question": "Can Tobi snap out of it?",
     "line": [
      [
@@ -6480,15 +6487,15 @@
     "id": "fall:5873092",
     "title": "Justin's Slide Continues",
     "status": "Building",
-    "text": "Justin has dropped from 7th in GW6 to 17th now, falling to 18th in GW9 before climbing back one place this week. He has not been higher than 7th since GW6.",
-    "next": "Could Justin start winning back places, or will the slide carry on?",
+    "text": "Justin has dropped from 7th in GW6 to 17th, having bottomed out at 18th in GW9. A single place back in GW10 is the first hint of a turn.",
+    "next": "Could Justin claw back towards the top 10, or slide further?",
     "who": [
      5873092
     ],
     "kind": "fall",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T15:02:45Z",
+    "ts": "2026-11-09T16:11:24Z",
     "question": "Can Justin stop the slide?",
     "line": [
      [
@@ -6514,9 +6521,48 @@
     ],
     "since": 10,
     "streak": null
+   },
+   {
+    "id": "hot:1378937",
+    "title": "Edd Keeps Rolling",
+    "status": "Building",
+    "text": "Edd has been above the league average for 6 weeks in a row, dipping to 49 points in GW8 before returning to 67 in GW10. The streak has survived a wobble and is still intact.",
+    "next": "Could Edd reach a 7th straight week above average, or will the run end?",
+    "who": [
+     1378937
+    ],
+    "kind": "hot streak",
+    "episode": 1,
+    "gw": 10,
+    "ts": "2026-11-09T16:11:24Z",
+    "question": "How long can Edd stay hot?",
+    "line": [
+     [
+      "GW6",
+      "62 pts"
+     ],
+     [
+      "GW7",
+      "68 pts"
+     ],
+     [
+      "GW8",
+      "49 pts"
+     ],
+     [
+      "GW9",
+      "61 pts"
+     ],
+     [
+      "GW10",
+      "67 pts"
+     ]
+    ],
+    "since": 10,
+    "streak": 6
    }
   ],
-  "plots_ts": "2026-11-09T15:02:45Z",
+  "plots_ts": "2026-11-09T16:11:24Z",
   "plots_key": "10:between",
   "verdict_tries": {
    "10:2": 1,
@@ -6529,9 +6575,10 @@
    "3": 1,
    "4": 1,
    "5": 1,
-   "6": 1
+   "6": 1,
+   "7": 1
   },
-  "plots_v": 6,
+  "plots_v": 7,
   "_replaced_ts": "2026-11-09T10:14:41Z",
   "plots_sig": "b09a97969469"
  },
@@ -6612,15 +6659,6 @@
     "event_total": 57
    },
    {
-    "entry": 4125292,
-    "player_name": "Bhavik Desai",
-    "entry_name": "Shawshank Relegation",
-    "rank": 9,
-    "last_rank": 9,
-    "total": 634,
-    "event_total": 51
-   },
-   {
     "entry": 3506595,
     "player_name": "Hishaan Mahtani",
     "entry_name": "Jacquet Potato",
@@ -6628,6 +6666,15 @@
     "last_rank": 14,
     "total": 634,
     "event_total": 74
+   },
+   {
+    "entry": 4125292,
+    "player_name": "Bhavik Desai",
+    "entry_name": "Shawshank Relegation",
+    "rank": 9,
+    "last_rank": 9,
+    "total": 634,
+    "event_total": 51
    },
    {
     "entry": 962024,
@@ -12325,8 +12372,9 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Ayodele Edges Ahead",
-    "text": "Ayodele moved ahead of Cherag this week, leading 700 to 692 after Cherag had been ahead by 2 in GW9. The lead has changed hands 4 times this season, and Sid sits 29 points back in third."
+    "title": "Ayodele Edges Back Ahead",
+    "text": "Ayodele has retaken the lead at 700 points, 8 ahead of Cherag on 692, after Cherag held the top spot for GW5 to GW9. The crown has changed hands 4 times this season, and Sid sits 29 points off the leader in third.",
+    "next": "Could Cherag strike back, or can Ayodele stay top for a second week?"
    }
   ],
   "gamble:3506595:10": [
@@ -12371,8 +12419,9 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Nihal Climbs To 4th",
-    "text": "Nihal has risen from 26th in GW1 to 4th, the biggest climb in the league. The rise has paused, with 4th held for 2 weeks."
+    "title": "Nihal Holds 4th",
+    "text": "Nihal has climbed from 26th in GW1 to 4th, a rise of 22 places, and has held that spot for 2 weeks. The climb has been steady since GW5, when Nihal was 16th.",
+    "next": "Could Nihal push into the top 3, or will the climb stall here?"
    }
   ],
   "chase:3506595": [
@@ -12388,15 +12437,17 @@
     "gw": 10,
     "day": "2026-11-09",
     "title": "Edd Keeps Rolling",
-    "text": "Edd has been above the league average for 6 gameweeks in a row, scoring 67 points in GW10. The run is still going strong."
+    "text": "Edd has been above the league average for 6 weeks in a row, dipping to 49 points in GW8 before returning to 67 in GW10. The streak has survived a wobble and is still intact.",
+    "next": "Could Edd reach a 7th straight week above average, or will the run end?"
    }
   ],
   "slump:383423": [
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Tobi's Stubborn Slump",
-    "text": "Tobi has finished below the league average for 6 weeks in a row, with 58 points this week after a low of 37 in GW9. The run shows no sign of ending yet."
+    "title": "Tobi's Long Slump",
+    "text": "Tobi has now been below the league average for 6 weeks in a row, with a low of 37 points in GW9. A 58-point GW10 is a sign of life, but the run is still going.",
+    "next": "Could a 58-point week be the start of a way out of the slump?"
    }
   ],
   "fall:5873092": [
@@ -12404,7 +12455,8 @@
     "gw": 10,
     "day": "2026-11-09",
     "title": "Justin's Slide Continues",
-    "text": "Justin has dropped from 7th in GW6 to 17th now, falling to 18th in GW9 before climbing back one place this week. He has not been higher than 7th since GW6."
+    "text": "Justin has dropped from 7th in GW6 to 17th, having bottomed out at 18th in GW9. A single place back in GW10 is the first hint of a turn.",
+    "next": "Could Justin claw back towards the top 10, or slide further?"
    }
   ]
  },
@@ -13758,7 +13810,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-09T15:37:53Z",
+  "ts": "2026-11-09T16:11:24Z",
   "issues": []
  },
  "pwatch": {

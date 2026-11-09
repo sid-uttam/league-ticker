@@ -9783,15 +9783,6 @@
     "event_total": 73
    },
    {
-    "entry": 13978,
-    "player_name": "Yash Bhatia",
-    "entry_name": "YB",
-    "rank": 4,
-    "last_rank": 3,
-    "total": 702,
-    "event_total": 56
-   },
-   {
     "entry": 1325491,
     "player_name": "akshat awasthi",
     "entry_name": "Nirvana11",
@@ -9799,6 +9790,15 @@
     "last_rank": 7,
     "total": 702,
     "event_total": 72
+   },
+   {
+    "entry": 13978,
+    "player_name": "Yash Bhatia",
+    "entry_name": "YB",
+    "rank": 4,
+    "last_rank": 3,
+    "total": 702,
+    "event_total": 56
    },
    {
     "entry": 3991082,
@@ -9936,15 +9936,6 @@
     "event_total": 62
    },
    {
-    "entry": 107315,
-    "player_name": "Sahej Jhamvar",
-    "entry_name": "sage",
-    "rank": 21,
-    "last_rank": 21,
-    "total": 672,
-    "event_total": 65
-   },
-   {
     "entry": 780469,
     "player_name": "Sahil Thorve",
     "entry_name": "NotAnIsakScience",
@@ -9952,6 +9943,15 @@
     "last_rank": 42,
     "total": 672,
     "event_total": 82
+   },
+   {
+    "entry": 107315,
+    "player_name": "Sahej Jhamvar",
+    "entry_name": "sage",
+    "rank": 21,
+    "last_rank": 21,
+    "total": 672,
+    "event_total": 65
    },
    {
     "entry": 1662734,
@@ -10080,15 +10080,6 @@
     "event_total": 67
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 37,
-    "last_rank": 47,
-    "total": 654,
-    "event_total": 67
-   },
-   {
     "entry": 6543092,
     "player_name": "Eli K",
     "entry_name": "Liverpool X  FC",
@@ -10096,6 +10087,15 @@
     "last_rank": 32,
     "total": 654,
     "event_total": 57
+   },
+   {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 37,
+    "last_rank": 47,
+    "total": 654,
+    "event_total": 67
    },
    {
     "entry": 1425044,
@@ -10152,15 +10152,6 @@
     "event_total": 77
    },
    {
-    "entry": 2868149,
-    "player_name": "Akash Singh",
-    "entry_name": "The Gerrardians",
-    "rank": 45,
-    "last_rank": 37,
-    "total": 649,
-    "event_total": 54
-   },
-   {
     "entry": 3566356,
     "player_name": "Jackey Boro",
     "entry_name": "Jackey's Team",
@@ -10177,6 +10168,15 @@
     "last_rank": 45,
     "total": 649,
     "event_total": 61
+   },
+   {
+    "entry": 2868149,
+    "player_name": "Akash Singh",
+    "entry_name": "The Gerrardians",
+    "rank": 45,
+    "last_rank": 37,
+    "total": 649,
+    "event_total": 54
    },
    {
     "entry": 10821,
@@ -10530,15 +10530,6 @@
     "event_total": 57
    },
    {
-    "entry": 3389995,
-    "player_name": "Stephen Menezes",
-    "entry_name": "Goal Diggers",
-    "rank": 87,
-    "last_rank": 89,
-    "total": 605,
-    "event_total": 62
-   },
-   {
     "entry": 4905114,
     "player_name": "Anuj Joglekar",
     "entry_name": "Summer Tzolstis",
@@ -10548,13 +10539,13 @@
     "event_total": 69
    },
    {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
-    "rank": 89,
-    "last_rank": 96,
-    "total": 604,
-    "event_total": 69
+    "entry": 3389995,
+    "player_name": "Stephen Menezes",
+    "entry_name": "Goal Diggers",
+    "rank": 87,
+    "last_rank": 89,
+    "total": 605,
+    "event_total": 62
    },
    {
     "entry": 2723973,
@@ -10564,6 +10555,15 @@
     "last_rank": 80,
     "total": 604,
     "event_total": 50
+   },
+   {
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
+    "rank": 89,
+    "last_rank": 96,
+    "total": 604,
+    "event_total": 69
    },
    {
     "entry": 686561,
@@ -55069,8 +55069,8 @@
    "5949580": 1,
    "305234": 2,
    "136653": 3,
-   "13978": 4,
    "1325491": 4,
+   "13978": 4,
    "3991082": 6,
    "4722308": 6,
    "2429776": 8,
@@ -55086,8 +55086,8 @@
    "1305406": 17,
    "2554077": 19,
    "5685525": 19,
-   "107315": 19,
    "780469": 19,
+   "107315": 19,
    "1662734": 23,
    "3323262": 23,
    "3234577": 25,
@@ -55102,17 +55102,17 @@
    "257074": 33,
    "480904": 35,
    "698784": 36,
-   "4151180": 37,
    "6543092": 37,
+   "4151180": 37,
    "1425044": 37,
    "675013": 40,
    "32831": 41,
    "263779": 41,
    "4558790": 43,
    "4134138": 44,
-   "2868149": 45,
    "3566356": 45,
    "5640988": 45,
+   "2868149": 45,
    "10821": 48,
    "4683090": 48,
    "3239284": 48,
@@ -55152,10 +55152,10 @@
    "4811914": 83,
    "699330": 83,
    "11673": 86,
-   "3389995": 87,
    "4905114": 87,
-   "2037953": 89,
+   "3389995": 87,
    "2723973": 89,
+   "2037953": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 92,
@@ -55184,8 +55184,8 @@
    "5949580": "gold",
    "305234": "gold",
    "136653": "gold",
-   "13978": "gold",
    "1325491": "gold",
+   "13978": "gold",
    "3991082": "gold",
    "4722308": "gold",
    "2429776": "gold",
@@ -55201,8 +55201,8 @@
    "1305406": "silver",
    "2554077": "silver",
    "5685525": "silver",
-   "107315": "silver",
    "780469": "silver",
+   "107315": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "3234577": "silver",
@@ -55217,17 +55217,17 @@
    "257074": null,
    "480904": null,
    "698784": null,
-   "4151180": null,
    "6543092": null,
+   "4151180": null,
    "1425044": null,
    "675013": null,
    "32831": null,
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "2868149": null,
    "3566356": null,
    "5640988": null,
+   "2868149": null,
    "10821": null,
    "4683090": null,
    "3239284": null,
@@ -55267,10 +55267,10 @@
    "4811914": null,
    "699330": null,
    "11673": null,
-   "3389995": null,
    "4905114": null,
-   "2037953": null,
+   "3389995": null,
    "2723973": null,
+   "2037953": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-09T15:38:15Z",
+ "updated": "2026-11-09T16:11:55Z",
  "ai": {
   "briefings": {
    "5949580": "You hold top spot on 734, 18 clear of Neol, and your 70 was solid. Neol is the threat right behind you, so watch the Free Hit timing and keep Haaland in perspective.",
@@ -55328,14 +55328,14 @@
   "ts": "2026-11-09T15:03:42Z",
   "usage": {
    "10": {
-    "in": 326669,
-    "out": 55482,
-    "calls": 24,
+    "in": 330468,
+    "out": 57932,
+    "calls": 26,
     "refreshes": 3,
     "desks": 2,
     "desk_in": 237956,
     "desk_out": 44672,
-    "plots": 1
+    "plots": 2
    }
   },
   "verdict_tries": {
@@ -56314,7 +56314,8 @@
   },
   "desk_last_ok": "2026-11-09T15:38:15Z",
   "plots_v_tries": {
-   "6": 2
+   "6": 2,
+   "7": 1
   },
   "column": {
    "headline": "Rajat holds firm as the Haaland armband backfires",
@@ -56407,10 +56408,10 @@
   "plots": [
    {
     "id": "title",
-    "title": "Rajat's lead holds, barely",
-    "status": "Heating up",
-    "text": "Rajat Arora leads on 734, 18 points clear of Neol on 716, and Aryan Khamankar is 27 back in third. The gap was 25 in GW6 and has narrowed, with the lead changing hands 4 times this season.",
-    "next": "Neol could close the gap again, or Rajat could stretch his lead further.",
+    "title": "Rajat Holds, Neol Presses",
+    "status": "Building",
+    "text": "Rajat Arora leads Neol by 18 points at 734, after 4 weeks at the top and 4 changes of leader this season. Aryan Khamankar sits 27 back in third, so the gap to the chasers still matters.",
+    "next": "If Neol closes the 18-point gap, the lead could change hands again soon.",
     "who": [
      5949580,
      305234
@@ -56418,7 +56419,7 @@
     "kind": "title race",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T15:03:42Z",
+    "ts": "2026-11-09T16:11:55Z",
     "question": "Can anyone stop Rajat Arora?",
     "line": [
      [
@@ -56444,16 +56445,17 @@
    {
     "id": "underdog:4722308",
     "title": "Biswadeep's remarkable climb",
-    "status": "Heating up",
+    "status": "Building",
     "text": "Biswadeep is up to 6th of 113, after starting GW1 at 85th and climbing 79 places since. Rank 11 in GW9 to 6 in GW10 shows the momentum is still building.",
-    "next": "Biswadeep could break into the top 5 if the climb continues.",
+    "next": "",
+    "kept": true,
     "who": [
      4722308
     ],
     "kind": "underdog",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T15:03:42Z",
+    "ts": "2026-11-09T16:11:55Z",
     "question": "How high can Biswadeep go?",
     "line": [
      [
@@ -56485,36 +56487,36 @@
     "streak": null
    },
    {
-    "id": "chase:18991",
-    "title": "Arshad closes in fast",
+    "id": "chase:3991082",
+    "title": "Sukrut Closes In",
     "status": "Heating up",
-    "text": "Arshad has cut Adrian's lead from 48 in GW7 to 39, then 24, and now just 2. Adrian is still ahead, but the chase has never been closer.",
-    "next": "Arshad could draw level or pass Adrian if the momentum continues.",
+    "text": "Sukrut has cut Yash Bhatia's lead from 60 to just 3 points over the last 4 gameweeks. The chase is now within touching distance.",
+    "next": "If the momentum holds, Sukrut could overtake Yash Bhatia next gameweek.",
     "who": [
-     18991,
-     1312692
+     3991082,
+     13978
     ],
     "kind": "chaser",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T15:03:42Z",
-    "question": "Can Arshad catch Adrian?",
+    "ts": "2026-11-09T16:11:55Z",
+    "question": "Can Sukrut catch Yash Bhatia?",
     "line": [
      [
       "GW7",
-      "Adrian +48"
+      "Yash +60"
      ],
      [
       "GW8",
-      "Adrian +39"
+      "Yash +37"
      ],
      [
       "GW9",
-      "Adrian +24"
+      "Yash +18"
      ],
      [
       "GW10",
-      "Adrian +2"
+      "Yash +3"
      ]
     ],
     "since": 10,
@@ -56522,10 +56524,10 @@
    },
    {
     "id": "gold",
-    "title": "Prathap edges Cherag out",
+    "title": "Prathap Clings On",
     "status": "Heating up",
-    "text": "Prathap holds the last big-prize place of 9, with Cherag just 2 points behind. Cherag spent 4 of the last 5 weeks in the zone, but Prathap has only spent 1.",
-    "next": "Cherag could win back the place, or Prathap could extend the lead.",
+    "text": "Prathap holds the last big-prize place, with Cherag first out just 2 behind. Cherag spent 4 of the last 5 gameweeks inside the zone, while Prathap spent only 1.",
+    "next": "Cherag could win back the last big-prize place if the form continues.",
     "who": [
      1273065,
      3219276
@@ -56533,7 +56535,7 @@
     "kind": "zone line",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T15:03:42Z",
+    "ts": "2026-11-09T16:11:55Z",
     "question": "Who holds the last big-prize place?",
     "line": [
      [
@@ -56557,11 +56559,47 @@
     "streak": null
    },
    {
+    "id": "paid-line",
+    "title": "Mayuresh Edges Nanik",
+    "status": "Heating up",
+    "text": "Mayuresh holds the last paid place, worth ₹1,500, with Nanik just 1 point behind. The line is razor thin and could shift with any result.",
+    "next": "Nanik could snatch the final paid place back with a single good week.",
+    "who": [
+     249619,
+     1541394
+    ],
+    "kind": "zone line",
+    "episode": 1,
+    "gw": 10,
+    "ts": "2026-11-09T16:11:55Z",
+    "question": "Who grabs the last paid place?",
+    "line": [
+     [
+      "GW7",
+      "Mayuresh +29"
+     ],
+     [
+      "GW8",
+      "Mayuresh +16"
+     ],
+     [
+      "GW9",
+      "Mayuresh +9"
+     ],
+     [
+      "GW10",
+      "Mayuresh +1"
+     ]
+    ],
+    "since": 10,
+    "streak": null
+   },
+   {
     "id": "champions",
-    "title": "Former champions circle the top",
+    "title": "Cherag Leads Champions",
     "status": "Building",
-    "text": "Cherag is the best-placed former champion, in 10th, with 2 titles already. Kunaal has the most titles of the group with 4 but sits 56th, while Zorawar and Bhavin are 36th and 33rd.",
-    "next": "Cherag could climb further and bring a third title to the league.",
+    "text": "Cherag, a 2-time champion, is the best-placed former champion at 10th. Kunaal has 4 titles but sits 56th, so the old winners are spread widely.",
+    "next": "If Cherag keeps climbing, a former champion could be in the title hunt.",
     "who": [
      119217,
      3219276,
@@ -56571,7 +56609,7 @@
     "kind": "former champions",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-09T15:03:42Z",
+    "ts": "2026-11-09T16:11:55Z",
     "question": "Can a former champion win it again?",
     "line": [
      [
@@ -56599,9 +56637,9 @@
     "streak": null
    }
   ],
-  "plots_ts": "2026-11-09T15:03:42Z",
+  "plots_ts": "2026-11-09T16:11:55Z",
   "plots_key": "10:between",
-  "plots_v": 6,
+  "plots_v": 7,
   "plots_sig": "e5cff3fe9540"
  },
  "share": {
@@ -56621,7 +56659,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-09T15:38:15Z",
+  "ts": "2026-11-09T16:11:55Z",
   "issues": []
  },
  "phase": "between",
@@ -56630,8 +56668,9 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Rajat's lead holds, barely",
-    "text": "Rajat Arora leads on 734, 18 points clear of Neol on 716, and Aryan Khamankar is 27 back in third. The gap was 25 in GW6 and has narrowed, with the lead changing hands 4 times this season."
+    "title": "Rajat Holds, Neol Presses",
+    "text": "Rajat Arora leads Neol by 18 points at 734, after 4 weeks at the top and 4 changes of leader this season. Aryan Khamankar sits 27 back in third, so the gap to the chasers still matters.",
+    "next": "If Neol closes the 18-point gap, the lead could change hands again soon."
    }
   ],
   "underdog:4722308": [
@@ -56639,7 +56678,8 @@
     "gw": 10,
     "day": "2026-11-09",
     "title": "Biswadeep's remarkable climb",
-    "text": "Biswadeep is up to 6th of 113, after starting GW1 at 85th and climbing 79 places since. Rank 11 in GW9 to 6 in GW10 shows the momentum is still building."
+    "text": "Biswadeep is up to 6th of 113, after starting GW1 at 85th and climbing 79 places since. Rank 11 in GW9 to 6 in GW10 shows the momentum is still building.",
+    "next": ""
    }
   ],
   "chase:18991": [
@@ -56654,16 +56694,36 @@
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Prathap edges Cherag out",
-    "text": "Prathap holds the last big-prize place of 9, with Cherag just 2 points behind. Cherag spent 4 of the last 5 weeks in the zone, but Prathap has only spent 1."
+    "title": "Prathap Clings On",
+    "text": "Prathap holds the last big-prize place, with Cherag first out just 2 behind. Cherag spent 4 of the last 5 gameweeks inside the zone, while Prathap spent only 1.",
+    "next": "Cherag could win back the last big-prize place if the form continues."
    }
   ],
   "champions": [
    {
     "gw": 10,
     "day": "2026-11-09",
-    "title": "Former champions circle the top",
-    "text": "Cherag is the best-placed former champion, in 10th, with 2 titles already. Kunaal has the most titles of the group with 4 but sits 56th, while Zorawar and Bhavin are 36th and 33rd."
+    "title": "Cherag Leads Champions",
+    "text": "Cherag, a 2-time champion, is the best-placed former champion at 10th. Kunaal has 4 titles but sits 56th, so the old winners are spread widely.",
+    "next": "If Cherag keeps climbing, a former champion could be in the title hunt."
+   }
+  ],
+  "chase:3991082": [
+   {
+    "gw": 10,
+    "day": "2026-11-09",
+    "title": "Sukrut Closes In",
+    "text": "Sukrut has cut Yash Bhatia's lead from 60 to just 3 points over the last 4 gameweeks. The chase is now within touching distance.",
+    "next": "If the momentum holds, Sukrut could overtake Yash Bhatia next gameweek."
+   }
+  ],
+  "paid-line": [
+   {
+    "gw": 10,
+    "day": "2026-11-09",
+    "title": "Mayuresh Edges Nanik",
+    "text": "Mayuresh holds the last paid place, worth ₹1,500, with Nanik just 1 point behind. The line is razor thin and could shift with any result.",
+    "next": "Nanik could snatch the final paid place back with a single good week."
    }
   ]
  },
