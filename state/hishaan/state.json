@@ -7680,7 +7680,7 @@
    "kind": "live",
    "tag": "Table",
    "head": "Ravi Bhojwani drops into the Tin Pot",
-   "body": "Down to 24th..",
+   "body": "Down to 24th.",
    "stat": "24th (live)",
    "score": 60,
    "who": [
@@ -7876,7 +7876,7 @@
    "kind": "live",
    "tag": "Table",
    "head": "Rajiv drops into the Tin Pot",
-   "body": "Down to 22nd..",
+   "body": "Down to 22nd.",
    "stat": "22nd (live)",
    "score": 60,
    "who": [
@@ -9416,7 +9416,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-10T13:21:13Z",
+ "updated": "2026-11-10T13:54:05Z",
  "ai": {
   "briefings": {
    "2321301": "You're top on 723 after a 73, but Matt's 96 leaves you just 1 point clear. Watch Barcola and your Freehit chip as the next deadline approaches.",
@@ -10505,6 +10505,214 @@
   ],
   "plots_sig_tries": {
    "427e172f7adf": 1
+  },
+  "gaffer_draft": {
+   "gw": 10,
+   "tries": 1,
+   "ts": "2026-11-10T13:54:05Z",
+   "model": "claude-sonnet-5-5",
+   "piece": {
+    "headline": "HAALAND BLANKS as 15 armbands go down with him",
+    "standfirst": "Matt scored 96 and sits 1 point behind Nikhil. 15 managers backed Haaland with the armband and got 4 each.",
+    "big_picture": "Matt's 96 points, including a Bench Boost worth 25 points, took him from 5th to 2nd. Nikhil is alone in 1st on 723 points, 1 point clear. Ravin dropped from 1st to 4th.",
+    "decision_of_the_week": "Hishaan captained Barry instead of Haaland. It returned 32 points with the armband against 4, a swing of 28 points. Nobody else dared. That is nerve, and the receipts are in.",
+    "one_to_watch": "Nikhil leads Matt by 1 point at the top. If either captain blanks next week, the lead could change hands. Matt scored 96 this week and Nikhil 73.",
+    "winners": [
+     {
+      "name": "Matt",
+      "verdict": "96 points, 33 above the average, with a Bench Boost worth 25 points. Up 3 places to 2nd. Good timing on the chip, and the bench delivered."
+     },
+     {
+      "name": "Hishaan",
+      "verdict": "Captained Barry, the only manager to do so, and got 32 points with the armband. Up 6 places to 15th. Pure nerve, fully paid."
+     },
+     {
+      "name": "Marcel",
+      "verdict": "74 points, 11 above the average. Silva and Isak in added 9 points on the swap. Up 3 places to 13th. Quiet, sensible, effective."
+     }
+    ],
+    "losers": [
+     {
+      "name": "Ravi Mahtani",
+      "verdict": "47 points, the lowest in the league and 16 below the average. Down 4 places to 17th. One to put behind him."
+     },
+     {
+      "name": "Alia",
+      "verdict": "50 points, 13 below the average. A tough week with no single howler to point at. Next gameweek is a fresh page."
+     },
+     {
+      "name": "Rohan",
+      "verdict": "51 points, 12 below the average, with 11 points left on the bench. The Haaland armband gave 4 points. Not the week to be loyal."
+     }
+    ]
+   },
+   "ratings": [
+    {
+     "name": "Matt",
+     "rating": 10,
+     "line": "Biggest score in the league, a Bench Boost that worked, and a jump to 2nd.",
+     "plain": false
+    },
+    {
+     "name": "Hishaan",
+     "rating": 9,
+     "line": "Backed Barry when nobody else would. He will be insufferable all week.",
+     "plain": false
+    },
+    {
+     "name": "Marcel",
+     "rating": 7,
+     "line": "Silva and Isak in paid off, with a climb of 3 places.",
+     "plain": false
+    },
+    {
+     "name": "Nikhil",
+     "rating": 7,
+     "line": "73 points was enough to stay top, though 12 points sat unused on the bench.",
+     "plain": false
+    },
+    {
+     "name": "Amit",
+     "rating": 7,
+     "line": "N.Jackson in added 11 points on the swap, and 9th place is the reward.",
+     "plain": false
+    },
+    {
+     "name": "Sunil",
+     "rating": 7,
+     "line": "Evanilson as captain gave 18 points. 12 more stayed on the bench.",
+     "plain": false
+    },
+    {
+     "name": "Prem",
+     "rating": 7,
+     "line": "Steady 67 points, 4 above the average. Nothing silly, nothing brilliant.",
+     "plain": false
+    },
+    {
+     "name": "Deepak",
+     "rating": 6,
+     "line": "Barry in brought 14 points on the swap, but 17 points were left on the bench.",
+     "plain": false
+    },
+    {
+     "name": "Chandru",
+     "rating": 6,
+     "line": "23 points on the bench is the story here. Isak as captain gave 16.",
+     "plain": false
+    },
+    {
+     "name": "Rajiv",
+     "rating": 6,
+     "line": "65 points, 2 above the league average.",
+     "plain": true
+    },
+    {
+     "name": "Naresh",
+     "rating": 6,
+     "line": "Isak and Groß in added 9 points on the swap. A tidy, forgettable week.",
+     "plain": false
+    },
+    {
+     "name": "Inesh",
+     "rating": 6,
+     "line": "Right on the league average. Isak in and as captain gave 16 points.",
+     "plain": false
+    },
+    {
+     "name": "Poonam",
+     "rating": 6,
+     "line": "Evanilson captain gave 18 points. 11 points left on the bench cost a better week.",
+     "plain": false
+    },
+    {
+     "name": "Ravi Bhojwani",
+     "rating": 5,
+     "line": "Played the Bench Boost and finished 1 point above average. Not the chip return he wanted.",
+     "plain": false
+    },
+    {
+     "name": "Pishu",
+     "rating": 5,
+     "line": "N.Jackson as the lone captain gave 22 points. The other 58 points came from elsewhere.",
+     "plain": false
+    },
+    {
+     "name": "Sunny",
+     "rating": 4,
+     "line": "Rice in cost 6 points on the swap, and 12 more sat on the bench.",
+     "plain": false
+    },
+    {
+     "name": "Sahil",
+     "rating": 4,
+     "line": "4 below the average, and down 2 places to 12th.",
+     "plain": false
+    },
+    {
+     "name": "Vanessa",
+     "rating": 4,
+     "line": "59 points, 4 below the average. A flat week.",
+     "plain": false
+    },
+    {
+     "name": "Aashiv",
+     "rating": 4,
+     "line": "Slipped 2 places to 11th on 57 points.",
+     "plain": false
+    },
+    {
+     "name": "Bella",
+     "rating": 4,
+     "line": "55 points, 8 below the average. Nothing to build on.",
+     "plain": false
+    },
+    {
+     "name": "Vinesh",
+     "rating": 4,
+     "line": "Also 55 points, 8 below the average. A quiet, unhappy week.",
+     "plain": false
+    },
+    {
+     "name": "Lakshay",
+     "rating": 3,
+     "line": "Rayan, Raya and Barry in added 15 points, yet 19 sat on the bench. Down to 21st.",
+     "plain": false
+    },
+    {
+     "name": "Ravin",
+     "rating": 3,
+     "line": "Konsa and N.Jackson in gained 19 points, but 19 more were left on the bench. Top spot lost.",
+     "plain": false
+    },
+    {
+     "name": "Rohan",
+     "rating": 3,
+     "line": "Captained Haaland and 11 points stayed on the bench. A grim combination.",
+     "plain": false
+    },
+    {
+     "name": "Alia",
+     "rating": 3,
+     "line": "No single disaster, just 13 points below the average.",
+     "plain": false
+    },
+    {
+     "name": "Ravi Mahtani",
+     "rating": 2,
+     "line": "The lowest score of the week, and 4 places lost.",
+     "plain": false
+    }
+   ],
+   "problems": [
+    "rating Rajiv: numbers not in their reasons ['11']: Konsa as captain gave 16 points, but 26 points sat on the bench. Wrong 11."
+   ],
+   "usage": {
+    "in": 6285,
+    "out": 2899,
+    "calls": 1
+   },
+   "unknown_names": []
   }
  },
  "plot_log": {
@@ -11510,16 +11718,9 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-10T13:21:13Z",
+  "ts": "2026-11-10T13:54:05Z",
   "issues": [],
-  "page": [
-   "line for Prem: \"Calafiori's 12-point armband lifted you 16 ahead of Rohan this week.\" has a gap of 16; the gaps between Prem / Rohan are 5",
-   "line for Rajiv: \"Your 26-point bench was the week's bench disaster, with Konsa's armband scoring 16.\" says Konsa scored 16; he scored 8"
-  ],
-  "wording": [
-   "wording (double full stop): ...ajiv drops into the Tin Pot  Down to 22nd..      Tabl...",
-   "wording (double full stop): ...wani drops into the Tin Pot  Down to 24th..      Tabl..."
-  ]
+  "page": []
  },
  "pwatch": {
   "seen": {
