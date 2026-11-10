@@ -9416,7 +9416,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-10T10:42:32Z",
+ "updated": "2026-11-10T11:13:55Z",
  "ai": {
   "briefings": {
    "2321301": "You're top on 723 after a 73, but Matt's 96 leaves you just 1 point clear. Watch Barcola and your Freehit chip as the next deadline approaches.",
@@ -11512,7 +11512,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-10T10:42:32Z",
+  "ts": "2026-11-10T11:13:55Z",
   "issues": []
  },
  "pwatch": {
@@ -11732,7 +11732,8 @@
    "464": "10:down",
    "453": "10:down",
    "10": "10:down",
-   "138": "10:down"
+   "138": "10:down",
+   "173": "10:down"
   },
   "log": [
    {
@@ -11749,6 +11750,12 @@
     "kind": "price",
     "change": -0.1,
     "price": 6.2
+   },
+   {
+    "ts": "2026-11-10T11:13:55Z",
+    "el": 173,
+    "kind": "surge",
+    "net": -25043
    }
   ]
  }
