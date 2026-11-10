@@ -2910,7 +2910,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-10T15:44:09Z",
+ "updated": "2026-11-10T15:47:50Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -6995,6 +6995,469 @@
    "7": 1,
    "8": 1,
    "9": 1
+  },
+  "gaffer_candidate": {
+   "gw": 10,
+   "v": 3,
+   "ts": "2026-11-10T15:47:50Z",
+   "model": "claude-sonnet-5-5",
+   "draft": true,
+   "piece": {
+    "headline": "Ayodele back on top as Cherag's bench bites",
+    "standfirst": "",
+    "big_picture": "4th lead change this season. Ayodele sold Ødegaard, who then scored 11, and still went top. Cherag's bench handed over the lead. A leader who gets there on the other's mistakes needs a cleaner week next time.",
+    "decision_of_the_week": "Hishaan went with Barry over Haaland. 7 others also went elsewhere, none got near this. The armband returned 32 against 4 for Haaland's backers. Brave call, paid off.",
+    "one_to_watch": "Ayodele leads Cherag by 8. Cherag held top spot from GW5 to GW9. If the bench stops bleeding, that gap could vanish quickly.",
+    "winners": [
+     {
+      "name": "Dominic",
+      "verdict": "Started Trafford, who nobody else here owned. Climbed from 24th to 17th in a month. A quiet rebuild just got loud."
+     },
+     {
+      "name": "Hishaan",
+      "verdict": "Backed Barry with the armband while 21 others queued for Haaland. Bold and right. Nerve, with a dash of luck."
+     },
+     {
+      "name": "Maanav",
+      "verdict": "Started Justin, whom nobody else owned, and climbed again. Still in the bottom half, but moving the right way."
+     }
+    ],
+    "losers": [
+     {
+      "name": "Cherag",
+      "verdict": "Led 3 weeks running, then handed it back. That bench will be remembered for a long time."
+     },
+     {
+      "name": "Ravi",
+      "verdict": "Worst week of the season so far. The Free Fall award says the rest, and 13th is a long way from 8th."
+     }
+    ]
+   },
+   "ratings": [
+    {
+     "name": "Dominic",
+     "rating": 9,
+     "points": 75,
+     "line": "75 points, 16 above the league average.",
+     "plain": true
+    },
+    {
+     "name": "Hishaan",
+     "rating": 9,
+     "points": 74,
+     "line": "74 points, 15 above the league average.",
+     "plain": true
+    },
+    {
+     "name": "Maanav",
+     "rating": 8,
+     "points": 74,
+     "line": "4 weeks climbing out of the basement. Justin, started by nobody else, helped.",
+     "plain": false
+    },
+    {
+     "name": "Tonna",
+     "rating": 8,
+     "points": 70,
+     "line": "70 points, 11 above the league average.",
+     "plain": true
+    },
+    {
+     "name": "Raushan",
+     "rating": 8,
+     "points": 59,
+     "line": "Evanilson captain, picked alone, delivered 18. Brave and rewarded.",
+     "plain": false
+    },
+    {
+     "name": "Simon",
+     "rating": 7,
+     "points": 64,
+     "line": "Isak arrived and the week turned useful. A tidy, sensible climb.",
+     "plain": false
+    },
+    {
+     "name": "Justin",
+     "rating": 7,
+     "points": 63,
+     "line": "Rogers and Jackson in, and a first hint that the slide is over.",
+     "plain": false
+    },
+    {
+     "name": "Dinesh",
+     "rating": 7,
+     "points": 61,
+     "line": "De Cuyper as captain was a gamble that worked. Still trying to escape the bottom end.",
+     "plain": false
+    },
+    {
+     "name": "Edd",
+     "rating": 6,
+     "points": 67,
+     "line": "6 weeks above average. The streak survived a wobble in GW8 and keeps rolling.",
+     "plain": false
+    },
+    {
+     "name": "Nihal",
+     "rating": 6,
+     "points": 67,
+     "line": "Another above-average week, but the bench kept the climb on hold.",
+     "plain": false
+    },
+    {
+     "name": "Isaiah",
+     "rating": 6,
+     "points": 62,
+     "line": "62 points, 3 above the league average.",
+     "plain": true
+    },
+    {
+     "name": "Tobi",
+     "rating": 6,
+     "points": 58,
+     "line": "58 points, 1 below the league average.",
+     "plain": true
+    },
+    {
+     "name": "Lavesh",
+     "rating": 5,
+     "points": 66,
+     "line": "Evanilson arrived, yet the bench swallowed the profit. 17 points watching from the sidelines.",
+     "plain": false
+    },
+    {
+     "name": "Will",
+     "rating": 5,
+     "points": 61,
+     "line": "61 points, 2 above the league average.",
+     "plain": true
+    },
+    {
+     "name": "Naishadh",
+     "rating": 5,
+     "points": 60,
+     "line": "60 points, 1 above the league average.",
+     "plain": true
+    },
+    {
+     "name": "Sid",
+     "rating": 5,
+     "points": 60,
+     "line": "60 points, 1 above the league average.",
+     "plain": true
+    },
+    {
+     "name": "Omar",
+     "rating": 5,
+     "points": 57,
+     "line": "57 points, 2 below the league average.",
+     "plain": true
+    },
+    {
+     "name": "Iain",
+     "rating": 5,
+     "points": 52,
+     "line": "Jackson arrived and delivered nothing. 7 below average is a rough return.",
+     "plain": false
+    },
+    {
+     "name": "Nanik",
+     "rating": 4,
+     "points": 65,
+     "line": "15 points idle on the bench. Gold chase deserves better selection.",
+     "plain": false
+    },
+    {
+     "name": "Ayodele",
+     "rating": 4,
+     "points": 61,
+     "line": "Top spot with a Transfer Flop on the CV. The Ødegaard sale still stings.",
+     "plain": false
+    },
+    {
+     "name": "Tomisin",
+     "rating": 4,
+     "points": 52,
+     "line": "52 points, 7 below the league average.",
+     "plain": true
+    },
+    {
+     "name": "Bhavik",
+     "rating": 4,
+     "points": 51,
+     "line": "51 points, 8 below the league average.",
+     "plain": true
+    },
+    {
+     "name": "Ahmad",
+     "rating": 3,
+     "points": 50,
+     "line": "50 points, 9 below the league average.",
+     "plain": true
+    },
+    {
+     "name": "Ravi",
+     "rating": 3,
+     "points": 47,
+     "line": "Worst week of the season, and a drop to 13th.",
+     "plain": false
+    },
+    {
+     "name": "IB",
+     "rating": 3,
+     "points": 45,
+     "line": "Wooden Spoon this week. Elvin is within reach above.",
+     "plain": false
+    },
+    {
+     "name": "Cherag",
+     "rating": 2,
+     "points": 51,
+     "line": "51 points, 8 below the league average.",
+     "plain": true
+    }
+   ],
+   "editor": [
+    {
+     "item": "winners:0",
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "Started Trafford, who nobody else here owned, and climbed from 24th to 17th in 4 weeks. A quiet rebuild that just became a loud week.",
+     "after": "Started Trafford, who nobody else here owned. Climbed from 24th to 17th in a month. A quiet rebuild just got loud."
+    },
+    {
+     "item": "losers:2",
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "Slid from 8th to 13th over 3 weeks. Worst week of the season so far, and the Free Fall award tells the same story.",
+     "after": "Worst week of the season so far. The Free Fall award says the rest, and 13th is a long way from 8th."
+    },
+    {
+     "item": "rating:Maanav",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "4 weeks of climbing from the basement. Justin's 9 points helped.",
+     "after": "4 weeks climbing out of the basement. Justin, started by nobody else, helped."
+    },
+    {
+     "item": "rating:Nihal",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "5th straight week above average, but the bench held back a bigger climb.",
+     "after": "Another above-average week, but the bench kept the climb on hold."
+    },
+    {
+     "item": "rating:Isaiah",
+     "reason": "true: numbers not in the sheet ['5']",
+     "before": "A modest week, but any step out of the bottom 5 counts.",
+     "after": null,
+     "still": "numbers: 2 numbers, at most 1"
+    },
+    {
+     "item": "rating:Lavesh",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Evanilson came in but the bench ate the gains. Frustrating.",
+     "after": "Evanilson arrived, yet the bench swallowed the profit. 17 points watching from the sidelines."
+    },
+    {
+     "item": "rating:Nanik",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "15 points sat on the bench. A strong week left unspent.",
+     "after": "15 points idle on the bench. Gold chase deserves better selection."
+    },
+    {
+     "item": "rating:Bhavik",
+     "reason": "numbers: 3 numbers, at most 1",
+     "before": "4 weeks below average now. A slide from 4th to 9th.",
+     "after": null,
+     "still": "numbers: 2 numbers, at most 1"
+    },
+    {
+     "item": "rating:Cherag",
+     "reason": "true: numbers not in the sheet ['20']; numbers: 2 numbers, at most 1",
+     "before": "Bench Disaster cost the lead. 20-4 points left sitting out.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "losers:0",
+     "reason": "fresh: repeats 11 from standfirst; say something new",
+     "before": "Led for 3 straight weeks, then left the lead on the bench. Picked the wrong 11 at the worst moment. That one will sting all week.",
+     "after": "Led 3 weeks running, then handed it back. That bench will be remembered for a long time."
+    },
+    {
+     "item": "headline",
+     "reason": "fresh: 'Ayodele retakes the crown' echoes prior 'Ayodele hits back' framing; crown changes are repetitive",
+     "before": "Ayodele retakes the crown as Cherag's bench bites",
+     "after": "Ayodele back on top as Cherag's bench bites"
+    },
+    {
+     "item": "standfirst",
+     "reason": "true: says Haaland let 21 captain pickers down, but 21 is correct; however 'picked the wrong 11' fine. No failure needed",
+     "before": "Ayodele is back on top by 8 after Cherag picked the wrong 11, while Haaland let 21 captain pickers down again.",
+     "after": null,
+     "still": "numbers: 3 numbers, at most 2"
+    },
+    {
+     "item": "big_picture",
+     "reason": "true: 'The crown has changed hands 4 times' is supported, but 'this one came by default' is an unsupported claim about Cherag's week being worse than Ayodele's,",
+     "before": "The crown has changed hands 4 times this season, and this one came by default. Ayodele sold Ødegaard, wasted bench points and still took top spot, because Cherag's week was worse. A leader who wins by surviving is a shaky one.",
+     "after": "4th lead change this season. Ayodele sold Ødegaard, who then scored 11, and still went top. Cherag's bench handed over the lead. A leader who gets there on the other's mistakes needs a cleaner week next time."
+    },
+    {
+     "item": "decision_of_the_week",
+     "reason": "true: 'Nobody else did' is false; SHEET says 8 managers went elsewhere, so Hishaan was not alone",
+     "before": "Hishaan went with Barry over Haaland. Nobody else did. The armband returned 32 against 4 for Haaland's backers, a 28-point swing. Brave call, and it paid off in full.",
+     "after": "Hishaan went with Barry over Haaland. 7 others also went elsewhere, none got near this. The armband returned 32 against 4 for Haaland's backers. Brave call, paid off."
+    },
+    {
+     "item": "one_to_watch",
+     "reason": "true: 'Cherag has been top for most of the season' is not supported; SHEET shows Cherag top only GW5 to GW9",
+     "before": "Ayodele leads Cherag by 8 in the title race. Cherag has been top for most of the season. If the bench stops bleeding, that gap could vanish quickly. If Ayodele's transfers keep misfiring, it could be gone by Sunday.",
+     "after": "Ayodele leads Cherag by 8. Cherag held top spot from GW5 to GW9. If the bench stops bleeding, that gap could vanish quickly."
+    },
+    {
+     "item": "winners:1",
+     "reason": "true: 'the league queued for Haaland' overstates; 21 of 29 captained Haaland, but 'lonely' is unsupported as the only rebel is one of 8",
+     "before": "Backed Barry while the league queued for Haaland. Bold, lonely and right. This was nerve, with a dash of luck.",
+     "after": "Backed Barry with the armband while 21 others queued for Haaland. Bold and right. Nerve, with a dash of luck."
+    },
+    {
+     "item": "winners:2",
+     "reason": "true: '3 weeks of steady movement' and 'start of a proper recovery' are unsupported; SHEET shows only Justin's slide slowing, not a recovery, and his Justin 9-p",
+     "before": "Started Justin's 9-pointer alone, then climbed again. 3 weeks of steady movement now. This is the start of a proper recovery, not a blip.",
+     "after": "Started Justin, whom nobody else owned, and climbed again. Still in the bottom half, but moving the right way."
+    },
+    {
+     "item": "losers:1",
+     "reason": "true: 'Bottom of the pile again' and 'one decent week could shift things' are fine, but 'Elvin above' is supported; minor pass, no fail needed on this item",
+     "before": "Bottom of the pile again. Still, only 7 points separate IB from Elvin above, so one decent week could shift things.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "rating:Dominic",
+     "reason": "true: 'Trafford was the secret ingredient' is supported; but 'nobody else had him' is supported; passes",
+     "before": "Trafford was the secret ingredient. Nobody else had him, and the table shows it.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "rating:Hishaan",
+     "reason": "true: 'The league will be hearing about this for weeks' is a forward-looking claim SHEET does not show",
+     "before": "Barry, alone, with the armband. The league will be hearing about this for weeks.",
+     "after": null,
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "rating:Tonna",
+     "reason": "true: 'Tavernier and Vuskovic made it look easy' is supported; '5 weeks above average' supported; passes",
+     "before": "5 weeks above average, and Tavernier and Vuskovic made it look easy.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "rating:Edd",
+     "reason": "fun: reads as stats sheet filler with no sting beyond 'bench still leaks' which is weak",
+     "before": "6 weeks above average. The streak lives on, though the bench still leaks.",
+     "after": "6 weeks above average. The streak survived a wobble in GW8 and keeps rolling."
+    },
+    {
+     "item": "rating:Tobi",
+     "reason": "true: 'transfers helped' is supported; passes",
+     "before": "6 weeks below average. Transfers helped, yet the slump rolls on.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "rating:Will",
+     "reason": "true: 'stuck in 15th' is supported by 12th to 15th trend, but 'while others moved' is fine; passes",
+     "before": "Steady, unspectacular, and stuck in 15th while others moved.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "rating:Naishadh",
+     "reason": "true: 'kept a decent week from becoming a good one' is an unsupported verdict; 11 benched points is supported, passes",
+     "before": "11 benched points kept a decent week from becoming a good one.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "rating:Sid",
+     "reason": "true: '21 behind Cherag' supported; passes",
+     "before": "Third place but 21 behind Cherag. The chase needs a proper week.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "rating:Omar",
+     "reason": "true: 'Evanilson did not stop the drift' is supported by transfer in; passes",
+     "before": "Third week below average, and Evanilson did not stop the drift.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "rating:Iain",
+     "reason": "fresh: 'the points did not follow' is a stock phrase",
+     "before": "Jackson arrived, but the points did not follow.",
+     "after": "Jackson arrived and delivered nothing. 7 below average is a rough return."
+    },
+    {
+     "item": "rating:Ayodele",
+     "reason": "true: 'Lucky' is an unsupported claim; the Transfer Flop and Ødegaard sale are supported",
+     "before": "Top spot with a Transfer Flop on the CV. Lucky, and the Ødegaard sale still hurts.",
+     "after": "Top spot with a Transfer Flop on the CV. The Ødegaard sale still stings."
+    },
+    {
+     "item": "rating:Tomisin",
+     "reason": "true: 'Araujo was a lone pick that did little' is supported; passes",
+     "before": "Araujo was a lone pick that did little. Down to 20th.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "rating:Ahmad",
+     "reason": "true: 'Falling down the middle of the table' is supported; 'Rogers did not help' supported; passes",
+     "before": "Rogers did not help. Falling down the middle of the table.",
+     "after": null,
+     "still": "empty"
+    },
+    {
+     "item": "rating:Ravi",
+     "reason": "fresh: 'Time to stop the slide' echoes Justin and Tobi slide framing; stock phrase",
+     "before": "Worst week of the season. Time to stop the slide.",
+     "after": "Worst week of the season, and a drop to 13th."
+    },
+    {
+     "item": "rating:IB",
+     "reason": "kind: IB is marked go_easy, and 'Wooden Spoon again' with 'closable' gap is savage-leaning; also 'again' is unsupported as a repeat award",
+     "before": "Wooden Spoon again. Elvin is only 7 points ahead, so the gap is closable.",
+     "after": "Wooden Spoon this week. Elvin is within reach above."
+    }
+   ],
+   "usage": {
+    "in": 31730,
+    "out": 3704,
+    "calls": 3
+   },
+   "sent_back": 33,
+   "unknown_names": [],
+   "top_3": [
+    {
+     "name": "Ayodele",
+     "total": 700,
+     "rank": 1
+    },
+    {
+     "name": "Cherag",
+     "total": 692,
+     "rank": 2
+    },
+    {
+     "name": "Sid",
+     "total": 671,
+     "rank": 3
+    }
+   ],
+   "week_average": 59,
+   "tries": 1
   }
  },
  "league": {
@@ -14225,7 +14688,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-10T15:44:09Z",
+  "ts": "2026-11-10T15:47:50Z",
   "issues": [],
   "page": []
  },

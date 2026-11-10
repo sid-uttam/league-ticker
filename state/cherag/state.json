@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-10T15:44:29Z",
+ "updated": "2026-11-10T15:48:40Z",
  "ai": {
   "briefings": {
    "5949580": "You remain top on 734, 18 clear of Neol after a solid 70. Neol is the nearest threat, so keep an eye on whether they follow your moves.",
@@ -58601,7 +58601,9 @@
    "3": 1,
    "4": 1,
    "5": 1,
-   "6": 1
+   "6": 1,
+   "7": 1,
+   "8": 1
   }
  },
  "share": {
@@ -58621,7 +58623,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-10T15:44:29Z",
+  "ts": "2026-11-10T15:48:40Z",
   "issues": [],
   "page": []
  },
