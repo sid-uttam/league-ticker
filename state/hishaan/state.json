@@ -9416,7 +9416,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-10T14:35:26Z",
+ "updated": "2026-11-10T15:13:47Z",
  "ai": {
   "briefings": {
    "2321301": "You're top on 723 after a 73, but Matt's 96 leaves you just 1 point clear. Watch Barcola and your Freehit chip as the next deadline approaches.",
@@ -10513,37 +10513,37 @@
    "model": "claude-sonnet-5-5",
    "draft": true,
    "piece": {
-    "headline": "{'text': 'One point. That is all that separates Nikhil from Matt', 'reason': 'fresh'}",
-    "standfirst": "{'text': 'Nikhil survives a Haaland blank by the thinnest of margins, with Matt closing fast and Ravin tumbling out of the top spot.', 'reason': 'fresh'}",
-    "big_picture": "{'text': \"One point. That is the whole gap between Nikhil and Matt. Nikhil kept top spot with a decent week, Matt arrived from 5th with the week's best score. Ravin led last week and now sits 4th. Deepak is lurking in 3rd.\", 'reason': 'fresh'}",
-    "decision_of_the_week": "{'text': 'Hishaan put the armband on Barry instead of Haaland. Barry gave 32 with the armband, Haaland gave 4. Nobody else dared to join him.', 'reason': 'true'}",
+    "headline": "One point. That is all that separates Nikhil from Matt",
+    "standfirst": "Nikhil survives a Haaland blank by the thinnest of margins, with Matt closing fast and Ravin tumbling out of the top spot.",
+    "big_picture": "One point. That is the whole gap between Nikhil and Matt. Nikhil kept top spot with a decent week, Matt arrived from 5th with the week's best score. Ravin led last week and now sits 4th. Deepak is lurking in 3rd.",
+    "decision_of_the_week": "Hishaan put the armband on Barry instead of Haaland. Barry gave 32 with the armband, Haaland gave 4. Nobody else dared to join him.",
     "one_to_watch": "",
     "winners": [
      {
       "name": "Matt",
-      "verdict": "{'text': \"Matt's bench did the heavy lifting and dragged him from 5th to 2nd. Nikhil can hear him breathing.\", 'reason': 'numbers'}"
+      "verdict": "Matt's bench did the heavy lifting and dragged him from 5th to 2nd. Nikhil can hear him breathing."
      },
      {
       "name": "Hishaan",
-      "verdict": "{'text': 'The only manager to captain Barry, and it paid 32 with the armband. Lone wolf, full reward.', 'reason': 'fine'}"
+      "verdict": "The only manager to captain Barry, and it paid 32 with the armband. Lone wolf, full reward."
      },
      {
       "name": "Marcel",
-      "verdict": "{'text': 'Silva and Isak came in and both transfers earned their place. Up to 13th, and the bench was the only blemish.', 'reason': 'true'}"
+      "verdict": "Silva and Isak came in and both transfers earned their place. Up to 13th, and the bench was the only blemish."
      }
     ],
     "losers": [
      {
       "name": "Ravi Mahtani",
-      "verdict": "{'text': 'Lowest score in the whole league. Down to 17th, and the week had no redeeming moment.', 'reason': 'important'}"
+      "verdict": "Lowest score in the whole league. Down to 17th, and the week had no redeeming moment."
      },
      {
       "name": "Alia",
-      "verdict": "{'text': 'A rough week, well short of the league average. Gentle sympathy, Alia, and the group chat will go easy.', 'reason': 'true'}"
+      "verdict": "A rough week, well short of the league average. Gentle sympathy, Alia, and the group chat will go easy."
      },
      {
       "name": "Rohan",
-      "verdict": "{'text': 'Captained Haaland, got a blank for the armband, then watched 11 more points sit on the bench.', 'reason': 'true'}"
+      "verdict": "Captained Haaland, got a blank for the armband, then watched 11 more points sit on the bench."
      }
     ]
    },
@@ -10552,14 +10552,14 @@
      "name": "Matt",
      "rating": 10,
      "points": 96,
-     "line": "{'text': 'Bench Boost landed perfectly. The best score of the week, and a seat at the top table.', 'reason': 'fresh'}",
+     "line": "Bench Boost landed perfectly. The best score of the week, and a seat at the top table.",
      "plain": false
     },
     {
      "name": "Hishaan",
      "rating": 9,
      "points": 74,
-     "line": "{'text': 'Only manager brave enough to captain Barry. The group chat owes him an apology.', 'reason': 'fresh'}",
+     "line": "Only manager brave enough to captain Barry. The group chat owes him an apology.",
      "plain": false
     },
     {
@@ -10573,7 +10573,7 @@
      "name": "Nikhil",
      "rating": 7,
      "points": 73,
-     "line": "{'text': 'Held on to top spot, though 12 points sat unused on the bench.', 'reason': 'true'}",
+     "line": "Held on to top spot, though 12 points sat unused on the bench.",
      "plain": false
     },
     {
@@ -10601,21 +10601,21 @@
      "name": "Deepak",
      "rating": 6,
      "points": 73,
-     "line": "{'text': 'Barry came in and delivered. Then 17 points stayed on the bench. Selection headache.', 'reason': 'fresh'}",
+     "line": "Barry came in and delivered. Then 17 points stayed on the bench. Selection headache.",
      "plain": false
     },
     {
      "name": "Chandru",
      "rating": 6,
      "points": 67,
-     "line": "{'text': 'Isak captaincy worked. Leaving 23 on the bench did not.', 'reason': 'true'}",
+     "line": "Isak captaincy worked. Leaving 23 on the bench did not.",
      "plain": false
     },
     {
      "name": "Rajiv",
      "rating": 6,
      "points": 65,
-     "line": "{'text': 'Lone Konsa captain pick came off. The bench cost him more.', 'reason': 'true'}",
+     "line": "Lone Konsa captain pick came off. The bench cost him more.",
      "plain": false
     },
     {
@@ -10629,7 +10629,7 @@
      "name": "Inesh",
      "rating": 6,
      "points": 63,
-     "line": "{'text': 'Isak armband returned 16. A week that kept him exactly level with the crowd.', 'reason': 'important'}",
+     "line": "Isak armband returned 16. A week that kept him exactly level with the crowd.",
      "plain": false
     },
     {
@@ -10643,21 +10643,21 @@
      "name": "Ravi Bhojwani",
      "rating": 5,
      "points": 64,
-     "line": "{'text': 'Played the Bench Boost and still finished barely above average. Big chip, small bang.', 'reason': 'true'}",
+     "line": "Played the Bench Boost and still finished barely above average. Big chip, small bang.",
      "plain": false
     },
     {
      "name": "Pishu",
      "rating": 5,
      "points": 58,
-     "line": "{'text': 'N.Jackson as a lone captain punt came off. The week stayed below average.', 'reason': 'true'}",
+     "line": "N.Jackson as a lone captain punt came off. The week stayed below average.",
      "plain": false
     },
     {
      "name": "Sunny",
      "rating": 4,
      "points": 63,
-     "line": "{'text': 'Rice arrived with a points hit and the transfer did not pay for itself.', 'reason': 'true'}",
+     "line": "Rice arrived with a points hit and the transfer did not pay for itself.",
      "plain": false
     },
     {
@@ -10706,7 +10706,7 @@
      "name": "Ravin",
      "rating": 3,
      "points": 57,
-     "line": "{'text': 'Great transfers, then the top spot slipped away with 19 left on the bench.', 'reason': 'true'}",
+     "line": "Great transfers, then the top spot slipped away with 19 left on the bench.",
      "plain": false
     },
     {
@@ -10720,14 +10720,14 @@
      "name": "Alia",
      "rating": 3,
      "points": 50,
-     "line": "{'text': 'Tough week below the average. These happen, and there is a long season left.', 'reason': 'kind'}",
+     "line": "Tough week below the average. These happen, and there is a long season left.",
      "plain": false
     },
     {
      "name": "Ravi Mahtani",
      "rating": 2,
      "points": 47,
-     "line": "{'text': 'Bottom of the league this week. The slide to 17th came with it.', 'reason': 'fun'}",
+     "line": "Bottom of the league this week. The slide to 17th came with it.",
      "plain": false
     }
    ],
@@ -11934,7 +11934,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-10T14:35:26Z",
+  "ts": "2026-11-10T15:13:47Z",
   "issues": [],
   "page": []
  },
@@ -12156,7 +12156,8 @@
    "453": "10:down",
    "10": "10:down",
    "138": "10:down",
-   "173": "10:down"
+   "173": "10:down",
+   "334": "10:up"
   },
   "log": [
    {
@@ -12179,6 +12180,12 @@
     "el": 173,
     "kind": "surge",
     "net": -25043
+   },
+   {
+    "ts": "2026-11-10T15:13:47Z",
+    "el": 334,
+    "kind": "surge",
+    "net": 25049
    }
   ]
  }

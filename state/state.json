@@ -2856,8 +2856,8 @@
    "7471754": 6,
    "1378937": 7,
    "5489583": 8,
-   "4125292": 9,
    "3506595": 9,
+   "4125292": 9,
    "962024": 11,
    "363548": 12,
    "4922092": 13,
@@ -2887,8 +2887,8 @@
    "7471754": "silver",
    "1378937": "silver",
    "5489583": "silver",
-   "4125292": null,
    "3506595": null,
+   "4125292": null,
    "962024": null,
    "363548": null,
    "4922092": null,
@@ -2910,7 +2910,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-10T14:24:48Z",
+ "updated": "2026-11-10T15:10:39Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -6600,19 +6600,19 @@
    "model": "claude-sonnet-5-5",
    "draft": true,
    "piece": {
-    "headline": "{'text': 'AYODELE TAKES THE TOP AS CHERAG LEAVES 24 ON THE BENCH', 'reason': 'fixed'}",
-    "standfirst": "{'text': \"Ayodele takes top spot, and Cherag's bench is the reason it happened. Haaland blanked on the armband for most of the league.\", 'reason': 'fixed numbers'}",
-    "big_picture": "{'text': 'Ayodele now sits on 700, Cherag 8 back. Cherag left 24 points on his own bench, which is the whole story. Ayodele sold Ødegaard for Gakpo and lost 8 on the swap, yet still climbed. A lucky escape, but a lead is a lead.', 'reason': 'fixed opener'}",
-    "decision_of_the_week": "{'text': 'Hishaan ignored the 21 Haaland armbands and picked Barry. It returned 32 against 4. Lonely at first, loud now.', 'reason': 'fixed'}",
-    "one_to_watch": "{'text': 'Title race first: Ayodele leads Cherag by 8. Behind that, Tobi and Dinesh are 4 apart on the Tin Pot line, and Nihal and Nanik 7 apart on the Gold line.', 'reason': 'fixed'}",
+    "headline": "AYODELE TAKES THE TOP AS CHERAG LEAVES 24 ON THE BENCH",
+    "standfirst": "Ayodele takes top spot, and Cherag's bench is the reason it happened. Haaland blanked on the armband for most of the league.",
+    "big_picture": "Ayodele now sits on 700, Cherag 8 back. Cherag left 24 points on his own bench, which is the whole story. Ayodele sold Ødegaard for Gakpo and lost 8 on the swap, yet still climbed. A lucky escape, but a lead is a lead.",
+    "decision_of_the_week": "Hishaan ignored the 21 Haaland armbands and picked Barry. It returned 32 against 4. Lonely at first, loud now.",
+    "one_to_watch": "Title race first: Ayodele leads Cherag by 8. Behind that, Tobi and Dinesh are 4 apart on the Tin Pot line, and Nihal and Nanik 7 apart on the Gold line.",
     "winners": [
      {
       "name": "Dominic",
-      "verdict": "{'text': 'Brought in N.Jackson and it paid. Top score of the week, and no argument from anyone.', 'reason': 'fixed'}"
+      "verdict": "Brought in N.Jackson and it paid. Top score of the week, and no argument from anyone."
      },
      {
       "name": "Hishaan",
-      "verdict": "{'text': 'Went solo on Barry and the armband paid 32. Nobody else saw it coming. Now 9th.', 'reason': 'fixed'}"
+      "verdict": "Went solo on Barry and the armband paid 32. Nobody else saw it coming. Now 9th."
      },
      {
       "name": "Maanav",
@@ -6622,15 +6622,15 @@
     "losers": [
      {
       "name": "IB",
-      "verdict": "{'text': 'Bottom of the week and the Wooden Spoon is theirs. One bad week, and a long season to fix it.', 'reason': 'fixed'}"
+      "verdict": "Bottom of the week and the Wooden Spoon is theirs. One bad week, and a long season to fix it."
      },
      {
       "name": "Ravi",
-      "verdict": "{'text': 'Well below the average and down to 13th. The slide is real, and it needs stopping.', 'reason': 'fixed'}"
+      "verdict": "Well below the average and down to 13th. The slide is real, and it needs stopping."
      },
      {
       "name": "Cherag",
-      "verdict": "{'text': 'Left 24 points on the bench and lost the lead. That was a selection shocker, not bad luck.', 'reason': 'fixed'}"
+      "verdict": "Left 24 points on the bench and lost the lead. That was a selection shocker, not bad luck."
      }
     ]
    },
@@ -6646,7 +6646,7 @@
      "name": "Hishaan",
      "rating": 9,
      "points": 74,
-     "line": "{'text': \"The only one to captain Barry, and he cashed in. The group chat won't hear the end.\", 'reason': 'fixed'}",
+     "line": "The only one to captain Barry, and he cashed in. The group chat won't hear the end.",
      "plain": false
     },
     {
@@ -6674,14 +6674,14 @@
      "name": "Simon",
      "rating": 7,
      "points": 64,
-     "line": "{'text': 'Isak came in and did the job. Quietly better than most.', 'reason': 'fixed'}",
+     "line": "Isak came in and did the job. Quietly better than most.",
      "plain": false
     },
     {
      "name": "Justin",
      "rating": 7,
      "points": 63,
-     "line": "{'text': 'Brought in N.Jackson and Rogers, and both paid off. Sharp work in the market.', 'reason': 'fixed'}",
+     "line": "Brought in N.Jackson and Rogers, and both paid off. Sharp work in the market.",
      "plain": false
     },
     {
@@ -6709,28 +6709,28 @@
      "name": "Isaiah",
      "rating": 6,
      "points": 62,
-     "line": "{'text': 'Just above the average without a single transfer worth mentioning. Safe hands, zero risk.', 'reason': 'fixed'}",
+     "line": "Just above the average without a single transfer worth mentioning. Safe hands, zero risk.",
      "plain": false
     },
     {
      "name": "Will",
      "rating": 6,
      "points": 61,
-     "line": "{'text': 'Just above the average, with no blushes and no fireworks. A shrug of a week.', 'reason': 'fixed'}",
+     "line": "Just above the average, with no blushes and no fireworks. A shrug of a week.",
      "plain": false
     },
     {
      "name": "Raushan",
      "rating": 6,
      "points": 59,
-     "line": "{'text': 'Backed Evanilson alone and he gave 18. Still slipped down the table. Harsh.', 'reason': 'fixed'}",
+     "line": "Backed Evanilson alone and he gave 18. Still slipped down the table. Harsh.",
      "plain": false
     },
     {
      "name": "Tobi",
      "rating": 6,
      "points": 58,
-     "line": "{'text': 'Tavernier and N.Jackson came in, and he still finished under the average. Bought the hype, missed the points.', 'reason': 'fixed'}",
+     "line": "Tavernier and N.Jackson came in, and he still finished under the average. Bought the hype, missed the points.",
      "plain": false
     },
     {
@@ -6744,14 +6744,14 @@
      "name": "Ayodele",
      "rating": 5,
      "points": 61,
-     "line": "{'text': 'Sold Ødegaard for Gakpo and still took top spot. The luck was on his side.', 'reason': 'fixed'}",
+     "line": "Sold Ødegaard for Gakpo and still took top spot. The luck was on his side.",
      "plain": false
     },
     {
      "name": "Naishadh",
      "rating": 5,
      "points": 60,
-     "line": "{'text': \"Left 11 on the bench. Those were points he picked, then didn't use.\", 'reason': 'fixed'}",
+     "line": "Left 11 on the bench. Those were points he picked, then didn't use.",
      "plain": false
     },
     {
@@ -6772,7 +6772,7 @@
      "name": "Iain",
      "rating": 4,
      "points": 52,
-     "line": "{'text': 'Bought N.Jackson, same as Dominic. Dominic won the week and Iain got the leftovers.', 'reason': 'fixed'}",
+     "line": "Bought N.Jackson, same as Dominic. Dominic won the week and Iain got the leftovers.",
      "plain": false
     },
     {
@@ -6786,7 +6786,7 @@
      "name": "Tomisin",
      "rating": 3,
      "points": 52,
-     "line": "{'text': 'Slid to 20th. The ideas well looks dry.', 'reason': 'fixed'}",
+     "line": "Slid to 20th. The ideas well looks dry.",
      "plain": false
     },
     {
@@ -6807,14 +6807,14 @@
      "name": "Ravi",
      "rating": 2,
      "points": 47,
-     "line": "{'text': \"Down to 13th. Free Fall is now a habit he'd like to break.\", 'reason': 'fixed'}",
+     "line": "Down to 13th. Free Fall is now a habit he'd like to break.",
      "plain": false
     },
     {
      "name": "IB",
      "rating": 2,
      "points": 45,
-     "line": "{'text': \"Bottom of the week, but it's one result. The next week is a clean slate.\", 'reason': 'fixed'}",
+     "line": "Bottom of the week, but it's one result. The next week is a clean slate.",
      "plain": false
     }
    ],
@@ -7074,15 +7074,6 @@
     "event_total": 57
    },
    {
-    "entry": 4125292,
-    "player_name": "Bhavik Desai",
-    "entry_name": "Shawshank Relegation",
-    "rank": 9,
-    "last_rank": 9,
-    "total": 634,
-    "event_total": 51
-   },
-   {
     "entry": 3506595,
     "player_name": "Hishaan Mahtani",
     "entry_name": "Jacquet Potato",
@@ -7090,6 +7081,15 @@
     "last_rank": 14,
     "total": 634,
     "event_total": 74
+   },
+   {
+    "entry": 4125292,
+    "player_name": "Bhavik Desai",
+    "entry_name": "Shawshank Relegation",
+    "rank": 9,
+    "last_rank": 9,
+    "total": 634,
+    "event_total": 51
    },
    {
     "entry": 962024,
@@ -14225,7 +14225,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-10T14:24:48Z",
+  "ts": "2026-11-10T15:10:39Z",
   "issues": [],
   "page": []
  },
@@ -14485,7 +14485,8 @@
    "388": "10:down",
    "366": "10:up",
    "106": "10:down",
-   "173": "10:down"
+   "173": "10:down",
+   "334": "10:up"
   },
   "log": [
    {
@@ -14516,6 +14517,12 @@
     "el": 173,
     "kind": "surge",
     "net": -25043
+   },
+   {
+    "ts": "2026-11-10T15:10:39Z",
+    "el": 334,
+    "kind": "surge",
+    "net": 25049
    }
   ]
  }
