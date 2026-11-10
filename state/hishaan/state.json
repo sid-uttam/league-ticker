@@ -2361,15 +2361,6 @@
     "event_total": 62
    },
    {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 15,
-    "last_rank": 21,
-    "total": 634,
-    "event_total": 74
-   },
-   {
     "entry": 5682768,
     "player_name": "Vanessa Jethwani",
     "entry_name": "super squad",
@@ -2377,6 +2368,15 @@
     "last_rank": 14,
     "total": 634,
     "event_total": 59
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 15,
+    "last_rank": 21,
+    "total": 634,
+    "event_total": 74
    },
    {
     "entry": 4922092,
@@ -9374,8 +9374,8 @@
    "5474293": 12,
    "75778": 13,
    "6892917": 14,
-   "3506595": 15,
    "5682768": 15,
+   "3506595": 15,
    "4922092": 17,
    "2465483": 18,
    "2934546": 18,
@@ -9402,8 +9402,8 @@
    "5474293": null,
    "75778": null,
    "6892917": null,
-   "3506595": null,
    "5682768": null,
+   "3506595": null,
    "4922092": null,
    "2465483": null,
    "2934546": null,
@@ -9416,7 +9416,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-10T17:30:06Z",
+ "updated": "2026-11-10T18:01:47Z",
  "ai": {
   "briefings": {
    "2321301": "You're top on 723 after a 73, but Matt's 96 leaves you just 1 point clear. Watch Barcola and your Freehit chip as the next deadline approaches.",
@@ -10508,396 +10508,282 @@
   },
   "gaffer_draft": {
    "gw": 10,
-   "v": 2,
-   "ts": "2026-11-10T14:35:26Z",
+   "v": 3,
+   "ts": "2026-11-10T17:30:06Z",
    "model": "claude-sonnet-5-5",
    "draft": true,
    "piece": {
-    "headline": "One point. That is all that separates Nikhil from Matt",
-    "standfirst": "Nikhil survives a Haaland blank by the thinnest of margins, with Matt closing fast and Ravin tumbling out of the top spot.",
-    "big_picture": "One point. That is the whole gap between Nikhil and Matt. Nikhil kept top spot with a decent week, Matt arrived from 5th with the week's best score. Ravin led last week and now sits 4th. Deepak is lurking in 3rd.",
-    "decision_of_the_week": "Hishaan put the armband on Barry instead of Haaland. Barry gave 32 with the armband, Haaland gave 4. Nobody else dared to join him.",
-    "one_to_watch": "",
+    "headline": "MATT'S BENCH BOOST BITES, NIKHIL HANGS ON BY ONE",
+    "standfirst": "Matt's chip turned a title chase into a one-point scrap, and Haaland's blank hurt 15 captains.",
+    "big_picture": "Nikhil was 24 clear a week ago. Now he leads by a single point, with the lead changed hands 3 times this season. This is no longer a procession. Matt has the momentum, Nikhil has the nerve test.",
+    "decision_of_the_week": "Hishaan ignored the crowd and put the armband on Barry. It brought 32 against the 4 that Haaland's captains got. A 28-point swing, and the bravest call of the week.",
+    "one_to_watch": "Nikhil against Matt, with just 1 point between them. Nikhil has led for 3 weeks, but Matt has the form. If either of them backs the wrong captain, the lead could flip again.",
     "winners": [
      {
       "name": "Matt",
-      "verdict": "Matt's bench did the heavy lifting and dragged him from 5th to 2nd. Nikhil can hear him breathing."
+      "verdict": "3 weeks above average, and the climb from 7th is now a proper charge. Not a one-week fluke. Nikhil will be checking his mirrors."
      },
      {
       "name": "Hishaan",
-      "verdict": "The only manager to captain Barry, and it paid 32 with the armband. Lone wolf, full reward."
+      "verdict": "The only manager brave enough to back Barry with the armband. Brave, lucky or both? The league will say lucky. Hishaan will say visionary."
      },
      {
-      "name": "Marcel",
-      "verdict": "Silva and Isak came in and both transfers earned their place. Up to 13th, and the bench was the only blemish."
+      "name": "Inesh",
+      "verdict": "Tzolakis, started by nobody else, quietly paid off. Isak in as a signing, too. Sensible week, and sometimes sensible is the cheeky move."
      }
     ],
     "losers": [
      {
       "name": "Ravi Mahtani",
-      "verdict": "Lowest score in the whole league. Down to 17th, and the week had no redeeming moment."
-     },
-     {
-      "name": "Alia",
-      "verdict": "A rough week, well short of the league average. Gentle sympathy, Alia, and the group chat will go easy."
+      "verdict": "Worst week of the season, and the Wooden Spoon to show for it. Vanessa has snatched the bragging rights back. The tide keeps turning."
      },
      {
       "name": "Rohan",
-      "verdict": "Captained Haaland, got a blank for the armband, then watched 11 more points sit on the bench."
+      "verdict": "5th-time Captain of the Week winner, yet this time the armband went to Haaland too. The man who knows captaincy got it wrong."
      }
     ]
    },
    "ratings": [
     {
      "name": "Matt",
-     "rating": 10,
+     "rating": 9,
      "points": 96,
-     "line": "Bench Boost landed perfectly. The best score of the week, and a seat at the top table.",
+     "line": "Justin, started by nobody else, was a nice extra on top of a Bench Boost.",
      "plain": false
     },
     {
      "name": "Hishaan",
      "rating": 9,
      "points": 74,
-     "line": "Only manager brave enough to captain Barry. The group chat owes him an apology.",
+     "line": "Backed Barry alone. Brave, bold and vindicated. Insufferable until at least Tuesday.",
+     "plain": false
+    },
+    {
+     "name": "Inesh",
+     "rating": 8,
+     "points": 63,
+     "line": "Tzolakis for 6 points. A goalkeeper nobody else fancied came good.",
      "plain": false
     },
     {
      "name": "Marcel",
      "rating": 7,
      "points": 74,
-     "line": "Silva and Isak did the job. Quiet, smart climb up the table.",
-     "plain": false
-    },
-    {
-     "name": "Nikhil",
-     "rating": 7,
-     "points": 73,
-     "line": "Held on to top spot, though 12 points sat unused on the bench.",
+     "line": "Silva and Isak in, and a climb back to 13th. Transfers did the job.",
      "plain": false
     },
     {
      "name": "Amit",
      "rating": 7,
      "points": 69,
-     "line": "N.Jackson came in and delivered. A smart move that nudged him up.",
+     "line": "Dewsbury-Hall was a lone punt that came off. Nice bit of independent thinking.",
      "plain": false
     },
     {
      "name": "Sunil",
      "rating": 7,
      "points": 68,
-     "line": "Evanilson as captain was a solid shout. Shame about the bench.",
+     "line": "Evanilson at captain was a sound call. 12 benched points stop it being a great one.",
+     "plain": false
+    },
+    {
+     "name": "Chandru",
+     "rating": 7,
+     "points": 67,
+     "line": "23 points benched. Fix that and the top is in reach again.",
      "plain": false
     },
     {
      "name": "Prem",
      "rating": 7,
      "points": 67,
-     "line": "Above average without any fuss. Solid, if unspectacular.",
-     "plain": false
-    },
-    {
-     "name": "Deepak",
-     "rating": 6,
-     "points": 73,
-     "line": "Barry came in and delivered. Then 17 points stayed on the bench. Selection headache.",
-     "plain": false
-    },
-    {
-     "name": "Chandru",
-     "rating": 6,
-     "points": 67,
-     "line": "Isak captaincy worked. Leaving 23 on the bench did not.",
+     "line": "Quiet, steady, and still creeping up on Rohan. Watch this space.",
      "plain": false
     },
     {
      "name": "Rajiv",
-     "rating": 6,
+     "rating": 7,
      "points": 65,
-     "line": "Lone Konsa captain pick came off. The bench cost him more.",
+     "line": "Konsa captain, alone. The idea was fine. The bench ruined it.",
+     "plain": false
+    },
+    {
+     "name": "Nikhil",
+     "rating": 6,
+     "points": 73,
+     "line": "5 weeks above average. Still only one point of cushion at the top.",
      "plain": false
     },
     {
      "name": "Naresh",
      "rating": 6,
      "points": 64,
-     "line": "Isak and Groß came in and the week ticked along nicely.",
-     "plain": false
-    },
-    {
-     "name": "Inesh",
-     "rating": 6,
-     "points": 63,
-     "line": "Isak armband returned 16. A week that kept him exactly level with the crowd.",
+     "line": "Isak and Groß in, and a third straight week above average. Sneaky progress.",
      "plain": false
     },
     {
      "name": "Poonam",
      "rating": 6,
      "points": 62,
-     "line": "Evanilson did his bit. A slightly below-average week all the same.",
+     "line": "Evanilson captain brought 18. Slightly under average, but a respectable shout.",
+     "plain": false
+    },
+    {
+     "name": "Pishu",
+     "rating": 6,
+     "points": 58,
+     "line": "N.Jackson as sole captain returned 22. Lone-wolf captaincy at its best.",
+     "plain": false
+    },
+    {
+     "name": "Deepak",
+     "rating": 5,
+     "points": 73,
+     "line": "Barry in, 17 benched. A big week left some points behind.",
      "plain": false
     },
     {
      "name": "Ravi Bhojwani",
      "rating": 5,
      "points": 64,
-     "line": "Played the Bench Boost and still finished barely above average. Big chip, small bang.",
-     "plain": false
-    },
-    {
-     "name": "Pishu",
-     "rating": 5,
-     "points": 58,
-     "line": "N.Jackson as a lone captain punt came off. The week stayed below average.",
-     "plain": false
-    },
-    {
-     "name": "Sunny",
-     "rating": 4,
-     "points": 63,
-     "line": "Rice arrived with a points hit and the transfer did not pay for itself.",
+     "line": "Bench Boost played, still 24th in the table. Chip came too late to rescue anything.",
      "plain": false
     },
     {
      "name": "Sahil",
      "rating": 4,
      "points": 59,
-     "line": "59 points, 4 below the league average.",
-     "plain": true
+     "line": "Down to 12th. A drift downwards that needs arresting before it becomes a habit.",
+     "plain": false
     },
     {
      "name": "Vanessa",
      "rating": 4,
      "points": 59,
-     "line": "Slightly below par, and the table shows it.",
+     "line": "B.Fernandes came good, and nobody else owns him. Cheers for the lone ranger.",
      "plain": false
     },
     {
      "name": "Aashiv",
      "rating": 4,
      "points": 57,
-     "line": "Slid 2 places down the table after a quiet week.",
+     "line": "Third week below average. The slide from the top 6 is now a habit.",
      "plain": false
     },
     {
      "name": "Bella",
      "rating": 4,
      "points": 55,
-     "line": "A below-average week with little to shout about.",
+     "line": "8 under average with nothing to hide behind. A week to forget.",
      "plain": false
     },
     {
-     "name": "Vinesh",
-     "rating": 4,
-     "points": 55,
-     "line": "Well short of the average. Better luck next time.",
+     "name": "Sunny",
+     "rating": 3,
+     "points": 63,
+     "line": "Rice cost a hit, and the hit won the Transfer Flop. A pricey lesson.",
      "plain": false
     },
     {
      "name": "Lakshay",
      "rating": 3,
      "points": 57,
-     "line": "57 points, 6 below the league average.",
-     "plain": true
-    },
-    {
-     "name": "Ravin",
-     "rating": 3,
-     "points": 57,
-     "line": "Great transfers, then the top spot slipped away with 19 left on the bench.",
+     "line": "Rayan, Raya and Barry in. 19 on the bench. A busy week, to little effect.",
      "plain": false
     },
     {
-     "name": "Rohan",
+     "name": "Vinesh",
      "rating": 3,
-     "points": 51,
-     "line": "Haaland blanked and the bench hurt as well. A tough week.",
+     "points": 55,
+     "line": "Another week near the foot of the table. Getting comfortable down there.",
      "plain": false
     },
     {
      "name": "Alia",
      "rating": 3,
      "points": 50,
-     "line": "Tough week below the average. These happen, and there is a long season left.",
+     "line": "6th week below average. Better than last week, but the streak lives on.",
+     "plain": false
+    },
+    {
+     "name": "Ravin",
+     "rating": 2,
+     "points": 57,
+     "line": "Transfer Genius and 4th place in one week. Football can be cruel.",
+     "plain": false
+    },
+    {
+     "name": "Rohan",
+     "rating": 2,
+     "points": 51,
+     "line": "4 weeks ago Rohan was third. The captaincy king needs a new trick.",
      "plain": false
     },
     {
      "name": "Ravi Mahtani",
      "rating": 2,
      "points": 47,
-     "line": "Bottom of the league this week. The slide to 17th came with it.",
+     "line": "Worst week of the season, and the Wooden Spoon to prove it. Vanessa will be delighted.",
      "plain": false
     }
    ],
    "editor": [
     {
-     "item": "winners:0",
-     "reason": "numbers: 3 numbers, at most 2",
-     "before": "Bench Boost, 96 points, and a jump from 5th to 2nd. That is nerve and timing, and he now breathes down Nikhil's neck.",
-     "after": "{'text': \"Matt's bench did the heavy lifting and dragged him from 5th to 2nd. Nikhil can hear him breathing.\", 'reason': 'numbers'}"
-    },
-    {
-     "item": "rating:Ravi Bhojwani",
-     "reason": "true: numbers not in the sheet ['15']",
-     "before": "Bench Boost brought 15 points, but it wasn't enough to impress.",
-     "after": "{'text': 'Played the Bench Boost and still finished barely above average. Big chip, small bang.', 'reason': 'true'}"
-    },
-    {
-     "item": "rating:Lakshay",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "3 signings in, 19 points on the bench. Back-to-front planning.",
-     "after": null,
-     "still": "numbers: 2 numbers, at most 1"
-    },
-    {
-     "item": "headline",
-     "reason": "fresh: 'MATT BOOSTS' echoes recent headlines about Matt's Bench Boost haul.",
-     "before": "MATT BOOSTS HIS WAY TO THE DOORSTEP",
-     "after": "{'text': 'One point. That is all that separates Nikhil from Matt', 'reason': 'fresh'}"
-    },
-    {
-     "item": "standfirst",
-     "reason": "fresh: Repeats the 'Bench Boost' framing of recent headlines without a new angle.",
-     "before": "Matt's Bench Boost made him Manager of the Week, Haaland let 15 captains down, and Nikhil is now just 1 point clear.",
-     "after": "{'text': 'Nikhil survives a Haaland blank by the thinnest of margins, with Matt closing fast and Ravin tumbling out of the top spot.', 'reason': 'fresh'}"
-    },
-    {
-     "item": "big_picture",
-     "reason": "fresh: 'title race' sprint line is generic; the 1-point gap is the real story.",
-     "before": "Matt's Bench Boost made him Manager of the Week and put him right behind Nikhil. Nikhil is alone in 1st, but only 1 point clear. Ravin dropped from the top to 4th. The title race is now a 2-horse sprint.",
-     "after": "{'text': \"One point. That is the whole gap between Nikhil and Matt. Nikhil kept top spot with a decent week, Matt arrived from 5th with the week's best score. Ravin led last week and now sits 4th. Deepak is lurking in 3rd.\", 'reason': 'fresh'}"
-    },
-    {
-     "item": "decision_of_the_week",
-     "reason": "true: Says he 'was proved right' and 'went his own way' with 15 queueing; 32 vs 4 is supported but 'queued up' is loose.",
-     "before": "Hishaan captained Barry instead of Haaland. That swung 28 points: 32 with the armband against 4. While 15 managers queued up for Haaland, he went his own way and was proved right.",
-     "after": "{'text': 'Hishaan put the armband on Barry instead of Haaland. Barry gave 32 with the armband, Haaland gave 4. Nobody else dared to join him.', 'reason': 'true'}"
-    },
-    {
-     "item": "one_to_watch",
-     "reason": "true: 'One bad captain pick could decide it' is a prediction the sheet doesn't support.",
-     "before": "Nikhil leads Matt by just 1 point. If Matt's form carries on, the top spot could change hands next week. One bad captain pick could decide it.",
-     "after": null,
-     "still": "clean: a prediction with \"will\" (use could / if)"
-    },
-    {
-     "item": "winners:1",
-     "reason": "true: 'Pure nerve' is opinion, but 'climb of 6 places' is supported; no false claim, so likely fine. Minor.",
-     "before": "The only manager to captain Barry, and it paid 32 points with the armband. Pure nerve, and a climb of 6 places.",
-     "after": "{'text': 'The only manager to captain Barry, and it paid 32 with the armband. Lone wolf, full reward.', 'reason': 'fine'}"
-    },
-    {
-     "item": "winners:2",
-     "reason": "true: Says transfers 'paid off' and 'lifted him to 13th', but 13th is only a climb of 3 places; 'lifted' overstates.",
-     "before": "Silva and Isak came in and the transfers paid off. A tidy, sensible week that lifted him to 13th.",
-     "after": "{'text': 'Silva and Isak came in and both transfers earned their place. Up to 13th, and the bench was the only blemish.', 'reason': 'true'}"
-    },
-    {
-     "item": "losers:0",
-     "reason": "important: Misses that he was the league's lowest scorer, which is the obvious story; the point is mentioned but the framing is generic.",
-     "before": "The lowest score of the week, and down 4 places to 17th. A rough one with no real silver lining.",
-     "after": "{'text': 'Lowest score in the whole league. Down to 17th, and the week had no redeeming moment.', 'reason': 'important'}"
-    },
-    {
-     "item": "losers:1",
-     "reason": "true: 'Bounce-back time' is a future claim the sheet does not support; also 'It happens to everyone' is filler.",
-     "before": "Tough week, and 13 below the league average. It happens to everyone. Bounce-back time.",
-     "after": "{'text': 'A rough week, well short of the league average. Gentle sympathy, Alia, and the group chat will go easy.', 'reason': 'true'}"
-    },
-    {
      "item": "losers:2",
-     "reason": "true: 'Backed Haaland with the armband and it blanked' is supported, but 'a week to forget' is opinion; no fail on fact.",
-     "before": "He backed Haaland with the armband and it blanked. Another 11 points sat on the bench. A week to forget.",
-     "after": "{'text': 'Captained Haaland, got a blank for the armband, then watched 11 more points sit on the bench.', 'reason': 'true'}"
-    },
-    {
-     "item": "rating:Matt",
-     "reason": "fresh: 'The rest of the league is now chasing him' is a stock phrase.",
-     "before": "Bench Boost landed perfectly. The rest of the league is now chasing him.",
-     "after": "{'text': 'Bench Boost landed perfectly. The best score of the week, and a seat at the top table.', 'reason': 'fresh'}"
-    },
-    {
-     "item": "rating:Hishaan",
-     "reason": "fresh: 'He'll never let you forget it' is a stock joke.",
-     "before": "Nobody else backed Barry. He'll never let you forget it.",
-     "after": "{'text': 'Only manager brave enough to captain Barry. The group chat owes him an apology.', 'reason': 'fresh'}"
-    },
-    {
-     "item": "rating:Nikhil",
-     "reason": "true: 'Held on to top spot' is fine, but 12 points on the bench is supported; no real fault.",
-     "before": "Held on to top spot, though 12 points sat on the bench.",
-     "after": "{'text': 'Held on to top spot, though 12 points sat unused on the bench.', 'reason': 'true'}"
-    },
-    {
-     "item": "rating:Deepak",
-     "reason": "fresh: 'Costly selection' and 'rotted on the bench' are stock phrasing.",
-     "before": "Barry arrived, but 17 points rotted on the bench. Costly selection.",
-     "after": "{'text': 'Barry came in and delivered. Then 17 points stayed on the bench. Selection headache.', 'reason': 'fresh'}"
-    },
-    {
-     "item": "rating:Chandru",
-     "reason": "true: 'Leaving 23 on the bench did not' is supported; fine.",
-     "before": "Isak captaincy worked. Leaving 23 on the bench did not.",
-     "after": "{'text': 'Isak captaincy worked. Leaving 23 on the bench did not.', 'reason': 'true'}"
-    },
-    {
-     "item": "rating:Rajiv",
-     "reason": "true: 'Captain Konsa was a lone brave pick' is supported (only one to pick him), but 'bench cost him dearly' is fine.",
-     "before": "Captain Konsa was a lone brave pick. The bench cost him dearly.",
-     "after": "{'text': 'Lone Konsa captain pick came off. The bench cost him more.', 'reason': 'true'}"
-    },
-    {
-     "item": "rating:Inesh",
-     "reason": "important: Misses the story that Isak armband scored 16 and his level week is the point; mild.",
-     "before": "Isak armband was fine. Exactly level with the league average.",
-     "after": "{'text': 'Isak armband returned 16. A week that kept him exactly level with the crowd.', 'reason': 'important'}"
-    },
-    {
-     "item": "rating:Pishu",
-     "reason": "true: 'The rest let him down' implies more than the sheet shows about others' performance.",
-     "before": "N.Jackson was a lone punt that came off. The rest let him down.",
-     "after": "{'text': 'N.Jackson as a lone captain punt came off. The week stayed below average.', 'reason': 'true'}"
-    },
-    {
-     "item": "rating:Sunny",
-     "reason": "true: 'Rice cost a hit, and the week never really recovered' - 'never really recovered' is a claim about the future/past not on the sheet.",
-     "before": "Rice cost a hit, and the week never really recovered.",
-     "after": "{'text': 'Rice arrived with a points hit and the transfer did not pay for itself.', 'reason': 'true'}"
-    },
-    {
-     "item": "rating:Sahil",
-     "reason": "true: 'Needs a better plan next week' is future advice, fine; no fail. Remove.",
-     "before": "Slipped back 2 places. Needs a better plan next week.",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Konsa and N.Jackson arrived and delivered. Then 19 points sat on the bench. Won the transfer award and lost the top spot.",
      "after": null,
-     "still": "numbers: 2 numbers, at most 1"
+     "still": "fresh: copies an example or an earlier line"
     },
     {
-     "item": "rating:Ravin",
-     "reason": "true: 'Great transfers, then the top spot slipped away' is supported; fine.",
-     "before": "Great transfers, then the top spot slipped away.",
-     "after": "{'text': 'Great transfers, then the top spot slipped away with 19 left on the bench.', 'reason': 'true'}"
+     "item": "rating:Aashiv",
+     "reason": "numbers: 3 numbers, at most 1",
+     "before": "3 weeks below average, sliding from 6th to 11th. Time to stop the rot.",
+     "after": "Third week below average. The slide from the top 6 is now a habit."
+    },
+    {
+     "item": "rating:Vinesh",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "8 below average, still 23rd. The bottom end is getting comfortable.",
+     "after": "Another week near the foot of the table. Getting comfortable down there."
     },
     {
      "item": "rating:Alia",
-     "reason": "kind: 'Bad week, but plenty of time to recover' is fine but Alia is go_easy; tone is acceptable, no fail.",
-     "before": "Bad week, but plenty of time to recover.",
-     "after": "{'text': 'Tough week below the average. These happen, and there is a long season left.', 'reason': 'kind'}"
+     "reason": "true: numbers not in the sheet ['42']; numbers: 3 numbers, at most 1",
+     "before": "6 weeks below average, but 50 beats 42. Baby steps count.",
+     "after": "6th week below average. Better than last week, but the streak lives on."
+    },
+    {
+     "item": "rating:Rohan",
+     "reason": "numbers: 3 numbers, at most 1",
+     "before": "Slipping from 3rd to 6th over 4 weeks. The captaincy king needs a new trick.",
+     "after": "4 weeks ago Rohan was third. The captaincy king needs a new trick."
+    },
+    {
+     "item": "rating:Matt",
+     "reason": "fresh: \"cherry on a Bench Boost cake\" is a stock phrase.",
+     "before": "Justin, started by nobody else, was the cherry on a Bench Boost cake.",
+     "after": "Justin, started by nobody else, was a nice extra on top of a Bench Boost."
+    },
+    {
+     "item": "rating:Nikhil",
+     "reason": "kind: \"Harsh\" is a verdict on the lead, not savage; not a failure.",
+     "before": "5 weeks above average, and still the lead is down to a point. Harsh.",
+     "after": "5 weeks above average. Still only one point of cushion at the top."
     },
     {
      "item": "rating:Ravi Mahtani",
-     "reason": "fun: Pure stats-sheet line with no verdict or sting.",
-     "before": "Worst score in the league and a drop of 4 places.",
-     "after": "{'text': 'Bottom of the league this week. The slide to 17th came with it.', 'reason': 'fun'}"
+     "reason": "fun: \"17th and sinking\" reads as stats filler with no joke or sting.",
+     "before": "Worst week of the season, and the table shows it. 17th and sinking.",
+     "after": "Worst week of the season, and the Wooden Spoon to prove it. Vanessa will be delighted."
     }
    ],
    "usage": {
-    "in": 20586,
-    "out": 3951,
+    "in": 29355,
+    "out": 2340,
     "calls": 3
    },
-   "sent_back": 26,
+   "sent_back": 8,
    "unknown_names": [],
    "top_3": [
     {
@@ -10917,7 +10803,14 @@
     }
    ],
    "week_average": 63,
-   "tries": 1
+   "tries": 1,
+   "wsig": "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
+   "wtries": 3,
+   "wtried": [
+    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)"
+   ],
+   "sig": "427e172f7adf",
+   "resigned": false
   },
   "gaffer_backfill_tries": {
    "1": 1,
@@ -12238,7 +12131,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-10T17:30:06Z",
+  "ts": "2026-11-10T18:01:47Z",
   "issues": [],
   "page": []
  },
