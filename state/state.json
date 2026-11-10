@@ -2856,8 +2856,8 @@
    "7471754": 6,
    "1378937": 7,
    "5489583": 8,
-   "3506595": 9,
    "4125292": 9,
+   "3506595": 9,
    "962024": 11,
    "363548": 12,
    "4922092": 13,
@@ -2887,8 +2887,8 @@
    "7471754": "silver",
    "1378937": "silver",
    "5489583": "silver",
-   "3506595": null,
    "4125292": null,
+   "3506595": null,
    "962024": null,
    "363548": null,
    "4922092": null,
@@ -2910,7 +2910,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-10T12:47:00Z",
+ "updated": "2026-11-10T13:18:23Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -5481,17 +5481,183 @@
   "key": "10:between",
   "usage": {
    "10": {
-    "in": 1636278,
-    "out": 402910,
-    "calls": 131,
+    "in": 1666553,
+    "out": 410353,
+    "calls": 133,
     "refreshes": 23,
-    "desks": 32,
-    "desk_in": 773649,
-    "desk_out": 254345,
+    "desks": 33,
+    "desk_in": 803924,
+    "desk_out": 261788,
     "plots": 9
    }
   },
   "desks": [
+   {
+    "headline": "Dominic wins the week as Ayodele tops the table",
+    "text": "**Dominic** won the week on 75, while **Ayodele** finished top on 700, 8 clear of Cherag after Haaland blanked on 21 armbands. Hishaan's **Barry** haul of 32 lifted him 5 places to 9th. We said Tonna could pass Omar if Rogers blanked, and he did.",
+    "you": {
+     "1092588": "Selling Ødegaard for Gakpo was your Transfer Flop, costing 8 points, though top spot held.",
+     "3219276": "Your bench sat on 24 points and cost you the top spot, leaving you 8 behind Ayodele.",
+     "3323262": "You beat Cherag by 9 points, leaving Nihal just 1 behind you now.",
+     "573491": "You outscored Sid by 7 points, leaving them just 1 ahead of you.",
+     "1541394": "Tonna outscored you by 5 points, leaving you 7 behind Nihal.",
+     "7471754": "Transfer Genius: swapping Hughes and Kadıoğlu for Tavernier and Vuskovic gained 15 points.",
+     "1378937": "You outscored Omar by 10 points, but Konsa's 8 sat on your bench.",
+     "5489583": "Edd outscored you by 10 points, leaving you 6 behind them.",
+     "4125292": "Hishaan outscored you by 23 points, leaving you level on 634.",
+     "3506595": "Captain Barry hauled 32 points, lifting you 5 places up the table.",
+     "962024": "You beat Ahmad by 14 points, but Hishaan's surge keeps you 3 behind.",
+     "363548": "Simon outscored you by 14 points, dropping you to 12th.",
+     "4922092": "Free Fall: 3 places down after Raushan outscored you by 12 points.",
+     "3359227": "Your solo Evanilson armband returned 18 points, but you still slid to 14th.",
+     "7273369": "Benching Verbruggen cost you 6 points, though you held 15th place.",
+     "1457736": "Dominic beat you by 15 points, with Verbruggen's 6 left on your bench.",
+     "5873092": "Dominic outscored you by 12 points, but you finished level with them.",
+     "4841175": "Your 74-point week hauled you up 3 places to 19th.",
+     "6341709": "Free Fall: 3 places down, after Maanav's 22-point surge pushed you back.",
+     "6619523": "Benching Delap cost you 13 points, though you still beat Saurabh by 18.",
+     "5028423": "You outscored Saurabh by 14 points, and sit 1 ahead of Dinesh.",
+     "1474501": "Your lone De Cuyper armband returned 12 points, keeping you 1 behind Isaiah.",
+     "383423": "Elvin outscored you by 5 points, while Ajayi's 6 sat on your bench.",
+     "3375627": "Wooden Spoon: your 45 was the week's lowest score, 14 below the league average.",
+     "3591460": "You beat Sasha by 22 points, but IB stays 33 ahead of you."
+    },
+    "ts": "2026-11-10T13:18:23Z",
+    "gw": 10,
+    "moment": "gameweek_over",
+    "sig": "91:f:1-0|92:f:2-0|93:f:1-3|94:f:3-1|95:f:1-1|96:f:1-2|97:f:1-0|98:f:4-4|99:f:3-1|100:f:1-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "3323262": 3,
+     "573491": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "1378937": 7,
+     "5489583": 8,
+     "4125292": 9,
+     "3506595": 9,
+     "962024": 11,
+     "363548": 12,
+     "4922092": 13,
+     "3359227": 14,
+     "7273369": 15,
+     "1457736": 16,
+     "5873092": 17,
+     "75187": 17,
+     "4841175": 19,
+     "6341709": 20,
+     "6619523": 21,
+     "3552160": 22,
+     "5028423": 23,
+     "1474501": 24,
+     "383423": 25,
+     "8316989": 26,
+     "3375627": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 700,
+     "3219276": 692,
+     "3323262": 671,
+     "573491": 670,
+     "1541394": 663,
+     "7471754": 658,
+     "1378937": 650,
+     "5489583": 644,
+     "4125292": 634,
+     "3506595": 634,
+     "962024": 631,
+     "363548": 630,
+     "4922092": 629,
+     "3359227": 626,
+     "7273369": 619,
+     "1457736": 615,
+     "5873092": 612,
+     "75187": 612,
+     "4841175": 605,
+     "6341709": 603,
+     "6619523": 600,
+     "3552160": 581,
+     "5028423": 579,
+     "1474501": 578,
+     "383423": 574,
+     "8316989": 561,
+     "3375627": 554,
+     "3591460": 521,
+     "5706920": 444
+    },
+    "ga": {
+     "15": [
+      1,
+      0
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "366": [
+      1,
+      1
+     ],
+     "368": [
+      0,
+      1
+     ],
+     "627": [
+      0,
+      1
+     ],
+     "379": [
+      1,
+      0
+     ],
+     "124": [
+      1,
+      0
+     ],
+     "127": [
+      1,
+      0
+     ],
+     "399": [
+      1,
+      0
+     ],
+     "166": [
+      1,
+      1
+     ],
+     "167": [
+      2,
+      0
+     ],
+     "426": [
+      1,
+      1
+     ],
+     "428": [
+      0,
+      1
+     ],
+     "480": [
+      0,
+      1
+     ],
+     "504": [
+      0,
+      1
+     ],
+     "249": [
+      2,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-10T13:18:23Z",
+    "v": 6,
+    "deadline": "2026-11-21T11:00:00Z"
+   },
    {
     "headline": "Haaland blanks on 21 armbands as Dominic wins the week",
     "text": "**Haaland** blanked on 21 armbands, scoring just 4 points, while **Dominic** took the week's best score of 75. **Ayodele** moved to top on 700, 8 clear of Cherag, who slipped to 2nd. We said Bhavik could pass Ravi, and he did.",
@@ -6153,175 +6319,10 @@
      ]
     },
     "you_full_ts": "2026-11-08T17:44:58Z"
-   },
-   {
-    "headline": "Ayodele holds top spot as Cherag's Rayan flops",
-    "text": "Ayodele sits on top with **694 points**, **9 clear** of Cherag, whose armband Rayan has managed just 4 points. MUN v AVL is live at 2-3, with B.Fernandes's goal owned only by Tonna, and Cherag could close in if benched Mbeumo, dropped by Ayodele and Omar, starts firing.",
-    "you": {
-     "1092588": "Passing Cherag today has kept you on top, with **9 clear** of him to protect.",
-     "3219276": "Ayodele's climb past you today leaves you **9 behind** him, with Rayan on just 4 points.",
-     "3323262": "Cherag is 20 above you, and Nihal sits **1 behind** you with a solid day on the board.",
-     "573491": "3 of you benched Schade and he's on the pitch, so that call is paying off for now, but Sid is **1 ahead**.",
-     "1541394": "Cherki's goal lands on your bench, a decision from earlier that still stings, with **Nihal 7 ahead** of you.",
-     "7471754": "You have passed Omar, Edd and Hishaan today, and Fernandes's goal is yours alone with Nanik 10 above.",
-     "5489583": "You passed Edd today, but Tonna's move leaves you **3 behind** him, with Edd 1 back.",
-     "363548": "Passing Hishaan today is a nice touch, but Edd is **13 above** you and Cherki's goal stings.",
-     "962024": "Isak's goal from your new signing helps, and you have passed Ravi, Hishaan and Bhavik today.",
-     "4922092": "You have passed Hishaan today, but Simon's move leaves you **1 behind** him.",
-     "3506595": "Barry's solo captaincy hauled **32 points**, but Tonna, Ahmad and Simon have all passed you today.",
-     "4125292": "Simon has passed you today, and Cunha's assist is yours and Iain's alone, with Hishaan **1 ahead**.",
-     "3359227": "You have passed Naishadh today, and Evanilson's solo armband hauled **18 points** for you.",
-     "7273369": "3 passes today have you climbing past Naishadh, Dominic and Justin, with **Raushan 8 ahead** of you.",
-     "1457736": "Raushan and Will have passed you today, and Dominic is **3 behind** you.",
-     "75187": "You passed Tomisin today, but Will's move leaves you **3 behind** Naishadh.",
-     "5873092": "Will has passed you, leaving you level with Dominic, with Maanav **1 behind** you.",
-     "4841175": "You have passed Lavesh and Tomisin today, and Justin is **1 ahead** of you.",
-     "6619523": "Maanav's pass leaves you **5 behind** him, and Rogers managing 4 points as your armband stings.",
-     "6341709": "Will, Dominic and Maanav have all passed you today, and Dinesh is **22 behind** you.",
-     "1474501": "Passing Saurabh, Isaiah and Tobi today lifts you out of the Tin Pot, with **Tomisin 22 ahead** of you.",
-     "5028423": "Dinesh has passed you, but you have overtaken Tobi, and Saurabh is **3 ahead** of you.",
-     "383423": "Dinesh and Isaiah have both passed you today, leaving Elvin **7 behind** you.",
-     "8316989": "Dinesh's pass leaves you **7 behind** Tobi, though Cherki's 18-point armband keeps you ticking.",
-     "3375627": "Dinesh has passed you, leaving Elvin **6 ahead** of you.",
-     "3591460": "IB is **40 above** you, and Cunha's assist is yours and Bhavik's alone."
-    },
-    "ts": "2026-11-08T17:44:58Z",
-    "gw": 10,
-    "moment": "matches_on",
-    "sig": "91:f:1-0|92:f:2-0|93:f:1-3|94:f:3-1|95:f:1-1|96:f:1-2|97:f:1-0|98:i:2-3|99:f:3-1|100:f:1-0",
-    "ranks": {
-     "1092588": 1,
-     "3219276": 2,
-     "3323262": 3,
-     "573491": 4,
-     "1541394": 5,
-     "7471754": 6,
-     "5489583": 7,
-     "1378937": 8,
-     "363548": 9,
-     "962024": 9,
-     "4922092": 11,
-     "3506595": 12,
-     "4125292": 13,
-     "3359227": 14,
-     "7273369": 15,
-     "1457736": 16,
-     "5873092": 17,
-     "75187": 17,
-     "4841175": 19,
-     "6619523": 20,
-     "6341709": 20,
-     "1474501": 22,
-     "3552160": 23,
-     "5028423": 24,
-     "383423": 25,
-     "8316989": 26,
-     "3375627": 27,
-     "3591460": 28,
-     "5706920": 29
-    },
-    "totals": {
-     "1092588": 694,
-     "3219276": 685,
-     "3323262": 665,
-     "573491": 664,
-     "1541394": 657,
-     "7471754": 647,
-     "5489583": 644,
-     "1378937": 643,
-     "363548": 630,
-     "962024": 630,
-     "4922092": 629,
-     "3506595": 628,
-     "4125292": 627,
-     "3359227": 620,
-     "7273369": 612,
-     "1457736": 609,
-     "5873092": 606,
-     "75187": 606,
-     "4841175": 605,
-     "6619523": 600,
-     "6341709": 600,
-     "1474501": 578,
-     "3552160": 576,
-     "5028423": 573,
-     "383423": 567,
-     "8316989": 560,
-     "3375627": 554,
-     "3591460": 514,
-     "5706920": 441
-    },
-    "ga": {
-     "15": [
-      1,
-      0
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "366": [
-      1,
-      1
-     ],
-     "368": [
-      0,
-      1
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      1,
-      0
-     ],
-     "124": [
-      1,
-      0
-     ],
-     "127": [
-      1,
-      0
-     ],
-     "399": [
-      1,
-      0
-     ],
-     "166": [
-      1,
-      0
-     ],
-     "167": [
-      2,
-      0
-     ],
-     "426": [
-      1,
-      0
-     ],
-     "428": [
-      0,
-      1
-     ],
-     "480": [
-      0,
-      1
-     ],
-     "504": [
-      0,
-      1
-     ],
-     "249": [
-      2,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-08T17:44:58Z"
    }
   ],
   "desk_day": {
-   "date": "2026-11-09",
+   "date": "2026-11-10",
    "ranks": {
     "1092588": 1,
     "3219276": 2,
@@ -6331,8 +6332,8 @@
     "7471754": 6,
     "1378937": 7,
     "5489583": 8,
-    "3506595": 9,
     "4125292": 9,
+    "3506595": 9,
     "962024": 11,
     "363548": 12,
     "4922092": 13,
@@ -6344,9 +6345,9 @@
     "4841175": 19,
     "6341709": 20,
     "6619523": 21,
-    "5028423": 22,
-    "1474501": 23,
-    "3552160": 24,
+    "3552160": 22,
+    "5028423": 23,
+    "1474501": 24,
     "383423": 25,
     "8316989": 26,
     "3375627": 27,
@@ -6354,7 +6355,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-09T20:56:21Z",
+  "desk_last_ok": "2026-11-10T13:18:23Z",
   "plots": [
    {
     "id": "title",
@@ -6560,7 +6561,8 @@
    "10:3": 1,
    "10:4": 2,
    "10:t:b09a97969469": 1,
-   "10:5": 1
+   "10:5": 1,
+   "10:6": 1
   },
   "plots_v_tries": {
    "2": 1,
@@ -6669,15 +6671,6 @@
     "event_total": 57
    },
    {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 9,
-    "last_rank": 14,
-    "total": 634,
-    "event_total": 74
-   },
-   {
     "entry": 4125292,
     "player_name": "Bhavik Desai",
     "entry_name": "Shawshank Relegation",
@@ -6685,6 +6678,15 @@
     "last_rank": 9,
     "total": 634,
     "event_total": 51
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 9,
+    "last_rank": 14,
+    "total": 634,
+    "event_total": 74
    },
    {
     "entry": 962024,
@@ -13820,8 +13822,18 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-10T12:47:00Z",
-  "issues": []
+  "ts": "2026-11-10T13:18:23Z",
+  "issues": [],
+  "page": [],
+  "wording": [
+   "wording (double full stop): ...nesh drops into the Tin Pot  Down to 25th..      Simo...",
+   "wording (double full stop): ...IB drops into the Tin Pot  Down to 25th..      IB c...",
+   "wording (double full stop): ...aiah drops into the Tin Pot  Down to 25th..      Tabl...",
+   "wording (double full stop): ...IB drops into the Tin Pot  Down to 26th..      Dine...",
+   "wording (double full stop): ...Tobi drops into the Tin Pot  Down to 25th..      Tabl...",
+   "wording (two names, one verb): ...climbs out of the Tin Pot  Up to 22nd. Saurabh and Elvin goes down inst...",
+   "wording (two names, one verb): ...climbs out of the Tin Pot  Up to 23rd. Saurabh and Elvin goes down inst..."
+  ]
  },
  "pwatch": {
   "seen": {
