@@ -9439,7 +9439,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-10T22:46:03Z",
+ "updated": "2026-11-10T23:17:17Z",
  "ai": {
   "briefings": {
    "2321301": "You still top the table, 1 point clear of Matt, with a safe 73-point week behind you. Matt's Bench Boost is the threat, so watch your Calafiori armband and the Barcola signing.",
@@ -12190,7 +12190,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-10T22:46:03Z",
+  "ts": "2026-11-10T23:17:17Z",
   "issues": [],
   "page": []
  },
@@ -12415,7 +12415,8 @@
    "138": "10:down",
    "173": "10:down",
    "334": "10:up",
-   "127": "10:up"
+   "127": "10:up",
+   "286": "10:down"
   },
   "log": [
    {
@@ -12458,6 +12459,12 @@
     "el": 127,
     "kind": "surge",
     "net": 25032
+   },
+   {
+    "ts": "2026-11-10T23:17:17Z",
+    "el": 286,
+    "kind": "surge",
+    "net": -25042
    }
   ]
  }
