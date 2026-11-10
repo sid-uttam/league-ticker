@@ -9783,15 +9783,6 @@
     "event_total": 73
    },
    {
-    "entry": 1325491,
-    "player_name": "akshat awasthi",
-    "entry_name": "Nirvana11",
-    "rank": 4,
-    "last_rank": 7,
-    "total": 702,
-    "event_total": 72
-   },
-   {
     "entry": 13978,
     "player_name": "Yash Bhatia",
     "entry_name": "YB",
@@ -9799,6 +9790,15 @@
     "last_rank": 3,
     "total": 702,
     "event_total": 56
+   },
+   {
+    "entry": 1325491,
+    "player_name": "akshat awasthi",
+    "entry_name": "Nirvana11",
+    "rank": 4,
+    "last_rank": 7,
+    "total": 702,
+    "event_total": 72
    },
    {
     "entry": 3991082,
@@ -10080,15 +10080,6 @@
     "event_total": 67
    },
    {
-    "entry": 6543092,
-    "player_name": "Eli K",
-    "entry_name": "Liverpool X  FC",
-    "rank": 37,
-    "last_rank": 32,
-    "total": 654,
-    "event_total": 57
-   },
-   {
     "entry": 4151180,
     "player_name": "kashish dadwal",
     "entry_name": "Palmer's Angels",
@@ -10096,6 +10087,15 @@
     "last_rank": 47,
     "total": 654,
     "event_total": 67
+   },
+   {
+    "entry": 6543092,
+    "player_name": "Eli K",
+    "entry_name": "Liverpool X  FC",
+    "rank": 37,
+    "last_rank": 32,
+    "total": 654,
+    "event_total": 57
    },
    {
     "entry": 1425044,
@@ -10152,6 +10152,15 @@
     "event_total": 77
    },
    {
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 45,
+    "last_rank": 38,
+    "total": 649,
+    "event_total": 55
+   },
+   {
     "entry": 2868149,
     "player_name": "Akash Singh",
     "entry_name": "The Gerrardians",
@@ -10170,13 +10179,13 @@
     "event_total": 61
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 38,
-    "total": 649,
-    "event_total": 55
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 48,
+    "last_rank": 49,
+    "total": 648,
+    "event_total": 63
    },
    {
     "entry": 4683090,
@@ -10186,15 +10195,6 @@
     "last_rank": 60,
     "total": 648,
     "event_total": 74
-   },
-   {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 48,
-    "last_rank": 49,
-    "total": 648,
-    "event_total": 63
    },
    {
     "entry": 3239284,
@@ -10251,15 +10251,6 @@
     "event_total": 65
    },
    {
-    "entry": 119217,
-    "player_name": "Kunaal Dadwal",
-    "entry_name": "Chutzpah",
-    "rank": 56,
-    "last_rank": 56,
-    "total": 642,
-    "event_total": 65
-   },
-   {
     "entry": 3654448,
     "player_name": "Abhimanyu Pathania",
     "entry_name": "FPLXV",
@@ -10267,6 +10258,15 @@
     "last_rank": 42,
     "total": 642,
     "event_total": 52
+   },
+   {
+    "entry": 119217,
+    "player_name": "Kunaal Dadwal",
+    "entry_name": "Chutzpah",
+    "rank": 56,
+    "last_rank": 56,
+    "total": 642,
+    "event_total": 65
    },
    {
     "entry": 2932096,
@@ -10530,15 +10530,6 @@
     "event_total": 57
    },
    {
-    "entry": 4905114,
-    "player_name": "Anuj Joglekar",
-    "entry_name": "Summer Tzolstis",
-    "rank": 87,
-    "last_rank": 95,
-    "total": 605,
-    "event_total": 69
-   },
-   {
     "entry": 3389995,
     "player_name": "Stephen Menezes",
     "entry_name": "Goal Diggers",
@@ -10548,13 +10539,13 @@
     "event_total": 62
    },
    {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 89,
-    "last_rank": 80,
-    "total": 604,
-    "event_total": 50
+    "entry": 4905114,
+    "player_name": "Anuj Joglekar",
+    "entry_name": "Summer Tzolstis",
+    "rank": 87,
+    "last_rank": 95,
+    "total": 605,
+    "event_total": 69
    },
    {
     "entry": 2037953,
@@ -10564,6 +10555,15 @@
     "last_rank": 96,
     "total": 604,
     "event_total": 69
+   },
+   {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 89,
+    "last_rank": 80,
+    "total": 604,
+    "event_total": 50
    },
    {
     "entry": 686561,
@@ -55069,8 +55069,8 @@
    "5949580": 1,
    "305234": 2,
    "136653": 3,
-   "1325491": 4,
    "13978": 4,
+   "1325491": 4,
    "3991082": 6,
    "4722308": 6,
    "2429776": 8,
@@ -55102,27 +55102,27 @@
    "257074": 33,
    "480904": 35,
    "698784": 36,
-   "6543092": 37,
    "4151180": 37,
+   "6543092": 37,
    "1425044": 37,
    "675013": 40,
    "32831": 41,
    "263779": 41,
    "4558790": 43,
    "4134138": 44,
+   "3566356": 45,
    "2868149": 45,
    "5640988": 45,
-   "3566356": 45,
-   "4683090": 48,
    "10821": 48,
+   "4683090": 48,
    "3239284": 48,
    "248721": 51,
    "48343": 52,
    "13951": 53,
    "6034028": 53,
    "2119331": 55,
-   "119217": 56,
    "3654448": 56,
+   "119217": 56,
    "2932096": 58,
    "1443362": 58,
    "26707": 60,
@@ -55152,10 +55152,10 @@
    "4811914": 83,
    "699330": 83,
    "11673": 86,
-   "4905114": 87,
    "3389995": 87,
-   "2723973": 89,
+   "4905114": 87,
    "2037953": 89,
+   "2723973": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 92,
@@ -55184,8 +55184,8 @@
    "5949580": "gold",
    "305234": "gold",
    "136653": "gold",
-   "1325491": "gold",
    "13978": "gold",
+   "1325491": "gold",
    "3991082": "gold",
    "4722308": "gold",
    "2429776": "gold",
@@ -55217,27 +55217,27 @@
    "257074": null,
    "480904": null,
    "698784": null,
-   "6543092": null,
    "4151180": null,
+   "6543092": null,
    "1425044": null,
    "675013": null,
    "32831": null,
    "263779": null,
    "4558790": null,
    "4134138": null,
+   "3566356": null,
    "2868149": null,
    "5640988": null,
-   "3566356": null,
-   "4683090": null,
    "10821": null,
+   "4683090": null,
    "3239284": null,
    "248721": null,
    "48343": null,
    "13951": null,
    "6034028": null,
    "2119331": null,
-   "119217": null,
    "3654448": null,
+   "119217": null,
    "2932096": null,
    "1443362": null,
    "26707": null,
@@ -55267,10 +55267,10 @@
    "4811914": null,
    "699330": null,
    "11673": null,
-   "4905114": null,
    "3389995": null,
-   "2723973": null,
+   "4905114": null,
    "2037953": null,
+   "2723973": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-10T13:52:48Z",
+ "updated": "2026-11-10T14:31:16Z",
  "ai": {
   "briefings": {
    "5949580": "You remain top on 734, 18 clear of Neol after a solid 70. Neol is the nearest threat, so keep an eye on whether they follow your moves.",
@@ -57508,41 +57508,42 @@
   "plots_sig": "e5cff3fe9540",
   "gaffer_draft": {
    "gw": 10,
-   "tries": 1,
-   "ts": "2026-11-10T13:52:48Z",
+   "v": 2,
+   "ts": "2026-11-10T14:31:16Z",
    "model": "claude-sonnet-5-5",
+   "draft": true,
    "piece": {
-    "headline": "RAJAT stretches lead while Haaland no-shows",
-    "standfirst": "Haaland scored 2 for 76 captains. Kartik took the week with 83 points. Rajat Arora is now 18 points clear.",
-    "big_picture": "76 of 113 managers captained Haaland. He scored 2, so 4 each with the armband. Rajat Arora was one of them and still stretched his lead to 18 points over Neol, up from 16 points before the week.",
-    "decision_of_the_week": "Swapnil picked the wrong 11 and left 26 points on the bench, the most in the league. He still scored 72 points. Imagine if the right 11 had played. The receipts are in.",
-    "one_to_watch": "Prathap is inside the Big prizes and Cherag has just dropped out, with only 2 between them. Whoever scores more next week could take the spot. Rajat Arora leads Neol by 18 points.",
+    "headline": "Jackson makes Kartik king of the week while the herd sulks",
+    "standfirst": "Haaland let down 76 armbands. Kartik won the week, and Rajat Arora stays top.",
+    "big_picture": "Rajat Arora stretched the lead to 18 over Neol. The captaincy herd, 76 strong, backed Haaland and got 4 each. Kartik won the week with a Jackson armband. Up top, the table barely moved.",
+    "decision_of_the_week": "Swapnil left 26 points on the bench. The wrong XI cost him a monster week, and he still moved up 5 places. Imagine the rest.",
+    "one_to_watch": "Prathap and Cherag are 2 points apart on the Big prizes line. One good captain pick could decide who sits above it next week. Neither can afford another bench blunder.",
     "winners": [
      {
       "name": "Kartik",
-      "verdict": "83 points, the best score of the week. Brought in N.Jackson and made him captain for 22 points. That's skill, with a bit of nerve."
+      "verdict": "Brought in Jackson, then gave him the armband. He returned 22 points. That is nerve and timing, and it won him the week."
      },
      {
       "name": "Sahil",
-      "verdict": "82 points after bringing in Vuskovic. Up 23 places to 19th. One smart transfer did a lot of work. Skill."
+      "verdict": "Signed Vuskovic the week he scored 12 and jumped 23 places. Good timing, and the Arnav sale next door makes it sweeter."
      },
      {
       "name": "Sidharth",
-      "verdict": "81 points with Gabriel as captain, who gave 16 points. Up 26 places to 41st, the biggest climb in the league. Good call."
+      "verdict": "Put the armband on Gabriel and it paid 16. Up 26 places is the biggest leap in the league. Sensible, and it worked."
      }
     ],
     "losers": [
      {
       "name": "Janit",
-      "verdict": "42 points, 20 below the league average. The lowest score of the week. Everyone has one of these. Onwards."
+      "verdict": "A rough week, and the lowest score in the league. Nothing silly to point to. Shake it off and go again."
      },
      {
       "name": "Vivek",
-      "verdict": "44 points, with 13 left on the bench. Down 16 places to 92nd. A rough week, and the bench didn't help."
+      "verdict": "Left 13 points on the bench, and 92nd is where that left him. The wrong 11, picked with confidence."
      },
      {
       "name": "Hardik",
-      "verdict": "46 points, 16 below the league average. Down 23 places to 52nd, the biggest drop in this list. Painful."
+      "verdict": "Down 23 places in one week is a proper tumble. Quiet picks, loud consequences. Time to rebuild."
      }
     ]
    },
@@ -57550,680 +57551,1053 @@
     {
      "name": "Kartik",
      "rating": 10,
-     "line": "Best score of the week, and the captain pick paid 22 points.",
+     "points": 83,
+     "line": "One clean idea: bring Jackson in, give him the armband, collect 22.",
      "plain": false
     },
     {
      "name": "Sahil",
      "rating": 9,
-     "line": "Vuskovic arrived and the climb followed: 23 places in one week.",
+     "points": 82,
+     "line": "Vuskovic walked in and the table fell away. A 23-place climb.",
      "plain": false
     },
     {
      "name": "Sidharth",
      "rating": 9,
-     "line": "Gabriel's armband paid 16 points, and 26 places came with it.",
+     "points": 81,
+     "line": "Gabriel got the armband and repaid it. The league's biggest riser, no fuss.",
      "plain": false
     },
     {
      "name": "Tanmay",
      "rating": 9,
-     "line": "Isak as captain gave 16 points, and 15 places came with him.",
+     "points": 81,
+     "line": "Isak's armband paid, but 15 points idle on the bench is untidy.",
      "plain": false
     },
     {
      "name": "Apoorvo",
      "rating": 9,
-     "line": "80 points, 18 above the league average.",
-     "plain": true
+     "points": 80,
+     "line": "Jackson's armband matched the best in the league. Every fresh signing fitted nicely.",
+     "plain": false
     },
     {
      "name": "Prathap",
      "rating": 9,
-     "line": "Reed and Gabriel came in, and Gabriel's armband gave 16 points. Now 9th.",
+     "points": 80,
+     "line": "Reed and Gabriel arrived together. Both worked, and the Big prizes door opened.",
      "plain": false
     },
     {
      "name": "Arshad",
      "rating": 9,
-     "line": "Gabriel gave 16 points as captain. Up 17 places despite 11 points left on the bench.",
+     "points": 79,
+     "line": "Gabriel captain did the heavy lifting, though 11 points sat on the bench.",
      "plain": false
     },
     {
      "name": "Anurag",
      "rating": 9,
-     "line": "Quiet, solid, 77 points. Up 9 places to 15th without any fuss.",
+     "points": 77,
+     "line": "Quiet, tidy, effective. Crept up the table without anyone noticing.",
      "plain": false
     },
     {
      "name": "Rishab",
      "rating": 9,
-     "line": "11 points' worth of transfers, Isak as captain for 16 points, and up 20 places.",
+     "points": 77,
+     "line": "Loaded up on Isak and McGinn, then climbed 20 places. Busy week, well spent.",
      "plain": false
     },
     {
      "name": "Vishva",
      "rating": 9,
-     "line": "77 points, 15 above average. Up 10 places even with 12 points benched.",
+     "points": 77,
+     "line": "Climbed 10 places, with a bench that was only mildly annoying.",
      "plain": false
     },
     {
      "name": "Karan Singh",
      "rating": 9,
-     "line": "Ødegaard came in and Isak captained for 16 points. Up 7 places to 14th.",
+     "points": 76,
+     "line": "Added Ødegaard and backed Isak with the armband. Tidy work.",
      "plain": false
     },
     {
      "name": "Adit",
      "rating": 9,
-     "line": "Only manager to captain Evanilson, and he gave 18 points. Brave and correct.",
+     "points": 75,
+     "line": "Lone Evanilson captain. Nobody else dared, and he pocketed 18 for it.",
      "plain": false
     },
     {
      "name": "Avin",
      "rating": 9,
-     "line": "74 points, 12 above average. Up 9 places to 76th. No drama needed.",
+     "points": 74,
+     "line": "Nothing flash, just steady points. The table moved for him.",
      "plain": false
     },
     {
      "name": "SHARAN",
      "rating": 9,
-     "line": "Triple Captain played, Evanilson and Van Hecke came in. Up 12 places to 48th.",
+     "points": 74,
+     "line": "Triple Captain played, and a big week of transfers to go with it. Bold.",
      "plain": false
     },
     {
      "name": "Aryan Khamankar",
      "rating": 9,
-     "line": "Isak captain for 16 points. Up 2 places to 3rd, a steady week at the top.",
+     "points": 73,
+     "line": "Isak armband kept him on the podium. Solid, and he never wobbled.",
      "plain": false
     },
     {
      "name": "Akshat",
      "rating": 9,
-     "line": "Isak's armband gave 16 points. Up 3 places to 4th.",
+     "points": 72,
+     "line": "Sitting 4th with a safe Isak armband. The leaders should keep checking the mirrors.",
      "plain": false
     },
     {
      "name": "Shantanu",
      "rating": 9,
-     "line": "Lone captain of Ødegaard, who returned 22 points. The best rebel pick of the week.",
+     "points": 72,
+     "line": "Lone Ødegaard captain. 22 points for a call nobody else made.",
      "plain": false
     },
     {
      "name": "Biswadeep",
      "rating": 8,
-     "line": "79 points and into the Big prizes, despite 19 points left on the bench.",
+     "points": 79,
+     "line": "Into the Big prizes, with a hefty chunk of points left sitting on the bench.",
      "plain": false
     },
     {
      "name": "Sukrut",
      "rating": 8,
-     "line": "71 points, 9 above average. Up 3 places to 6th.",
+     "points": 71,
+     "line": "Quietly nudging up the table. Closer to the leaders than anyone is mentioning.",
      "plain": false
     },
     {
      "name": "Shahaan",
      "rating": 8,
-     "line": "Only manager to captain B.Fernandes, who gave 20 points. Up 6 places to 33rd.",
+     "points": 68,
+     "line": "Lone Fernandes captain returned 20. A cheeky punt that paid off.",
      "plain": false
     },
     {
      "name": "Swapnil",
      "rating": 7,
-     "line": "72 points is a good score. 26 points left on the bench is the story.",
+     "points": 72,
+     "line": "A cracking week, undone by a bench that could have been the starting team.",
      "plain": false
     },
     {
      "name": "Anuj",
      "rating": 7,
-     "line": "N.Jackson came in and 69 points followed. Up 8 places to 87th.",
+     "points": 69,
+     "line": "Jackson in, but no armband on him. Half a plan.",
      "plain": false
     },
     {
      "name": "Karan P Nanda",
      "rating": 7,
-     "line": "Free Hit played, 69 points scored. Up 5 places to 76th.",
+     "points": 69,
+     "line": "Free Hit played, and a modest gain followed. Not much return on a big chip.",
      "plain": false
     },
     {
      "name": "Umang",
      "rating": 7,
-     "line": "69 points, 7 above average. Up 7 places to 89th.",
+     "points": 69,
+     "line": "Dependable week, 7 places up. No drama needed.",
      "plain": false
     },
     {
      "name": "Kashish",
      "rating": 7,
-     "line": "67 points, 5 above average. Up 9 places to 37th.",
+     "points": 67,
+     "line": "9 places up with no fuss at all. Sensible, tidy, rewarded.",
      "plain": false
     },
     {
      "name": "Sikander",
      "rating": 7,
-     "line": "N.Jackson arrived with a transfer gain of 11 points. 67 points overall.",
+     "points": 67,
+     "line": "11 points of transfers brought Jackson in. Respectable, though not a hit.",
      "plain": false
     },
     {
      "name": "Zorawar",
      "rating": 7,
-     "line": "67 points, 5 above average. Up 4 places to 36th.",
+     "points": 67,
+     "line": "A small climb and a small smile. Safe hands all round.",
      "plain": false
     },
     {
      "name": "Sahej",
      "rating": 7,
-     "line": "N.Jackson came in. 65 points, 3 above average, and up 2 places to 19th.",
+     "points": 65,
+     "line": "Jackson arrived too, but the Rogers armband misfired. Right striker, wrong captain.",
      "plain": false
     },
     {
      "name": "Vidur",
      "rating": 7,
-     "line": "Groß as captain gave 20 points. 64 points overall, 2 above average.",
+     "points": 64,
+     "line": "Groß captain delivered 20. A good call that deserved more support.",
      "plain": false
     },
     {
      "name": "Rajat Arora",
      "rating": 6,
-     "line": "70 points, 8 above average, with 21 points left on the bench. Still top.",
+     "points": 70,
+     "line": "Stretched the lead, yet 21 points idle on the bench stung.",
      "plain": false
     },
     {
      "name": "Neol",
      "rating": 6,
-     "line": "68 points, 6 above the league average.",
-     "plain": true
+     "points": 68,
+     "line": "Quiet week, and the gap to the top grew. Pressure is not working yet.",
+     "plain": false
     },
     {
      "name": "Raj",
      "rating": 6,
-     "line": "68 points, 6 above average. 11 points sat on the bench.",
+     "points": 68,
+     "line": "Above average, but a bench full of points left him frustrated.",
      "plain": false
     },
     {
      "name": "Mohit",
      "rating": 6,
-     "line": "De Cuyper came in. Up 8 places to 81st, with 10 points benched.",
+     "points": 67,
+     "line": "A decent climb of 8 places. Not dazzling, but nobody's complaining.",
      "plain": false
     },
     {
      "name": "Nihal",
      "rating": 6,
-     "line": "67 points, 5 above average. 14 points benched. Up 2 places to 25th.",
+     "points": 67,
+     "line": "The bench ate 14 points. Frustrating.",
      "plain": false
     },
     {
      "name": "Rahil",
      "rating": 6,
-     "line": "67 points, 5 above average. Up 7 places to 63rd despite 11 points benched.",
+     "points": 67,
+     "line": "Wasteful bench, yet he still climbed 7 places. Lucky escape.",
      "plain": false
     },
     {
      "name": "Utkarsh",
      "rating": 6,
-     "line": "Gabriel came in. 67 points, 5 above average.",
+     "points": 67,
+     "line": "Gabriel came in, but the Haaland armband probably hurt. Mixed week.",
      "plain": false
     },
     {
      "name": "Aryan Apte",
      "rating": 6,
-     "line": "66 points, 4 above average. A tidy, unremarkable week.",
+     "points": 66,
+     "line": "A tidy week with little to shout about. Slightly above par.",
      "plain": false
     },
     {
      "name": "Kunal",
      "rating": 6,
-     "line": "66 points, 4 above average. Up 2 places to 58th, with 10 points benched.",
+     "points": 66,
+     "line": "Small climb, small bench problem. A week to forget quickly.",
      "plain": false
     },
     {
      "name": "Ajay",
      "rating": 6,
-     "line": "Van Hecke and Barry came in. 65 points, with 11 points left on the bench.",
+     "points": 65,
+     "line": "Van Hecke and Barry came in. Busy, not clever.",
      "plain": false
     },
     {
      "name": "Kshiteesh",
      "rating": 6,
-     "line": "65 points, 3 above average. Nothing more to say.",
+     "points": 65,
+     "line": "Just above average and no story attached. Steady, if forgettable.",
      "plain": false
     },
     {
      "name": "Kunaal",
      "rating": 6,
-     "line": "Konsa arrived, and 65 points followed. Solid, 3 above the league average.",
+     "points": 65,
+     "line": "Konsa came in and the week stayed tidy. Solid, if unspectacular.",
      "plain": false
     },
     {
      "name": "Nishit",
      "rating": 6,
-     "line": "Quiet 65 points, 3 above the league average. Nothing to see.",
+     "points": 65,
+     "line": "Above average without a single headline. Quietly does the job.",
      "plain": false
     },
     {
      "name": "Udit",
      "rating": 6,
-     "line": "Wildcard played. Isak's armband gave 16 points, but 19 points sat benched.",
+     "points": 65,
+     "line": "Wildcard played, Isak armband paid off, yet the bench swallowed a small fortune.",
      "plain": false
     },
     {
      "name": "Vinil",
      "rating": 6,
-     "line": "Steady 65 points, 3 above the league average. No drama.",
+     "points": 65,
+     "line": "No fuss, no transfers worth mentioning. Just a steady shift.",
      "plain": false
     },
     {
      "name": "Ram",
      "rating": 6,
-     "line": "Tavernier and Evanilson came in. 63 points, 1 above the league average.",
+     "points": 63,
+     "line": "Tavernier and Evanilson arrived. The payoff was thin, so far.",
      "plain": false
     },
     {
      "name": "Kabeerr",
      "rating": 6,
-     "line": "Isak as captain gave 16 points. Exactly the league average overall, 62 points.",
+     "points": 62,
+     "line": "Isak captain delivered handsomely. Everything else was just standing around.",
      "plain": false
     },
     {
      "name": "Aniket",
      "rating": 6,
-     "line": "Jackson joined, 61 points followed. Climbed 2 places to 83rd.",
+     "points": 61,
+     "line": "Jackson signed, 2 places climbed. A modest reward for a busy week.",
      "plain": false
     },
     {
      "name": "Dinesh",
      "rating": 6,
-     "line": "De Cuyper arrived. 61 points, just 1 below the league average.",
+     "points": 61,
+     "line": "De Cuyper came in and barely moved the needle. Patience required.",
      "plain": false
     },
     {
      "name": "Nehal",
      "rating": 6,
-     "line": "Isak joined and captained for 16 points. Still slipped 5 places to 35th.",
+     "points": 61,
+     "line": "Bought Isak, captained Isak, still slid down the table. Cruel.",
      "plain": false
     },
     {
      "name": "Sanket Nahata",
      "rating": 6,
-     "line": "Groß wore the armband and delivered 20 points. Total still 2 below the league average.",
+     "points": 60,
+     "line": "Groß armband came good. The rest of the squad let him down.",
      "plain": false
     },
     {
      "name": "Manav",
      "rating": 5,
-     "line": "Gakpo cost 6 points in transfers. Climbed 7 places to 37th, with 16 benched.",
+     "points": 65,
+     "line": "Gakpo arrived, and the bench wasted a big chunk. Climbed anyway.",
      "plain": false
     },
     {
      "name": "Nanik",
      "rating": 5,
-     "line": "Good score of 65 points, undermined by 15 points left on the bench.",
+     "points": 65,
+     "line": "15 points sat on the pine. That's a decent week thrown away.",
      "plain": false
     },
     {
      "name": "Zishan",
      "rating": 5,
-     "line": "Decent 65 points, though 11 points sat on the bench.",
+     "points": 65,
+     "line": "Good score, yet the bench held back a better one.",
      "plain": false
     },
     {
      "name": "Sahilk",
      "rating": 5,
-     "line": "Slipped 3 places to 27th. 11 points benched did not help.",
+     "points": 64,
+     "line": "Selection hurt: 11 points sat idle.",
      "plain": false
     },
     {
      "name": "Krishnaji",
      "rating": 5,
-     "line": "Barry and Rogers cost 11 points in transfers. Fell 3 places to 60th.",
+     "points": 63,
+     "line": "Barry and Rogers in, and the table still slipped. Patience, boss.",
      "plain": false
     },
     {
      "name": "Kaushik",
      "rating": 5,
-     "line": "14 points benched and a 5-place fall to 25th. Average week, poor selection.",
+     "points": 62,
+     "line": "Painful reading: 14 points idle on the bench.",
      "plain": false
     },
     {
      "name": "Mudit",
      "rating": 5,
-     "line": "Bang on the league average with 62 points. Perfectly middling.",
+     "points": 62,
+     "line": "Dead average. Neither heroes nor villains this week.",
      "plain": false
     },
     {
      "name": "Sagar",
      "rating": 5,
-     "line": "62 points, exactly the league average. Neither hot nor cold.",
+     "points": 62,
+     "line": "Bang on par. The league's most perfectly ordinary week.",
      "plain": false
     },
     {
      "name": "Stephen",
      "rating": 5,
-     "line": "Isak arrived. Up 2 places to 87th, with 11 points benched.",
+     "points": 62,
+     "line": "Isak arrived, 2 places gained. Benched points kept it from being better.",
      "plain": false
     },
     {
      "name": "Chander",
      "rating": 5,
-     "line": "Evanilson came in. 61 points, 1 below the league average.",
+     "points": 61,
+     "line": "Evanilson signed up and the return was ordinary. Still waiting.",
      "plain": false
     },
     {
      "name": "Sundar",
      "rating": 5,
-     "line": "Triple Captain played. Only 61 points came back, 1 below the league average.",
+     "points": 61,
+     "line": "Triple Captain chip spent and barely a ripple. Ouch.",
      "plain": false
     },
     {
      "name": "Rohan",
      "rating": 5,
-     "line": "Isak's armband gave 16 points. The other picks left 55 points, 7 below average.",
+     "points": 55,
+     "line": "Isak captain scored well. The other players did not turn up.",
      "plain": false
     },
     {
      "name": "Sanket Khandekar",
      "rating": 4,
-     "line": "20 points left on the bench. That is the whole story.",
+     "points": 62,
+     "line": "20 points benched. That's a whole other week left unused.",
      "plain": false
     },
     {
      "name": "Soham",
      "rating": 4,
-     "line": "Average 62 points, with 10 points stranded on the bench.",
+     "points": 62,
+     "line": "Average score, with a bench that quietly argued otherwise.",
      "plain": false
     },
     {
      "name": "Aditya",
      "rating": 4,
-     "line": "Kostoulas and Rogers cost 11 points in transfers. Dropped 4 places to 97th.",
+     "points": 61,
+     "line": "Kostoulas and Rogers in, 4 places gone. That transfer hit stung.",
      "plain": false
     },
     {
      "name": "Shahan",
      "rating": 4,
-     "line": "Dropped 3 places to 63rd on 61 points. Quiet, forgettable week.",
+     "points": 61,
+     "line": "Slipped 3 places with nothing to blame. Just a soft week.",
      "plain": false
     },
     {
      "name": "Abhishek Thard",
      "rating": 4,
-     "line": "De Cuyper came in. 15 benched points kept the week at 60.",
+     "points": 60,
+     "line": "De Cuyper came in. 15 benched points made it a wasted effort.",
      "plain": false
     },
     {
      "name": "Clawin",
      "rating": 4,
-     "line": "Down 3 places to 13th. 11 points on the bench hurt.",
+     "points": 60,
+     "line": "Selection regrets pile up as the bench hoarded 11.",
      "plain": false
     },
     {
      "name": "Rahul",
      "rating": 4,
-     "line": "60 points, 2 below average. Fell 3 places to 43rd.",
+     "points": 60,
+     "line": "Bench cost him, table punished him. A week to bin.",
      "plain": false
     },
     {
      "name": "Sajeet",
      "rating": 4,
-     "line": "Tavernier arrived at a cost of 6 points. Down 2 places to 66th.",
+     "points": 60,
+     "line": "Tavernier arrived at a cost, and 2 places went. Not a bargain.",
      "plain": false
     },
     {
      "name": "Sid",
      "rating": 4,
-     "line": "Tumbled 7 places to 23rd. 12 points left on the bench.",
+     "points": 60,
+     "line": "7 places lost is a heavy fall. The bench didn't help.",
      "plain": false
     },
     {
      "name": "Sandeepan",
      "rating": 4,
-     "line": "Fell 6 places to 63rd. 14 points sat on the bench.",
+     "points": 59,
+     "line": "Down 6 places because the lineup choices backfired.",
      "plain": false
     },
     {
      "name": "Suraj",
      "rating": 4,
-     "line": "Slid 9 places to 58th on 59 points. A rough one.",
+     "points": 59,
+     "line": "9 places down with no excuses available. Brutal slide.",
      "plain": false
     },
     {
      "name": "Adwait",
      "rating": 4,
-     "line": "Isak came in, 58 points came out. Down 7 places to 66th.",
+     "points": 58,
+     "line": "Bought Isak, then watched 7 places slip away. Rough.",
      "plain": false
     },
     {
      "name": "Bhavin",
      "rating": 4,
-     "line": "58 points, 4 below average. Dropped 5 places to 33rd.",
+     "points": 58,
+     "line": "5 places down on a quiet, forgettable showing. Needs a reaction.",
      "plain": false
     },
     {
      "name": "Krishna",
      "rating": 4,
-     "line": "19 points on the bench. A 58-point week that should have been better.",
+     "points": 58,
+     "line": "The bench is the whole story, 19 points wasted. It hurts.",
      "plain": false
     },
     {
      "name": "Monty",
      "rating": 4,
-     "line": "Kostoulas and Isak came in. Down 6 places to 98th regardless.",
+     "points": 58,
+     "line": "Kostoulas and Isak in, yet a deep slide followed. Bad timing.",
      "plain": false
     },
     {
      "name": "Adrian",
      "rating": 4,
-     "line": "Biggest fall here: 11 places to 27th. 57 points, 5 below average.",
+     "points": 57,
+     "line": "11 places lost, the biggest drop here. A proper wobble.",
      "plain": false
     },
     {
      "name": "Amar",
      "rating": 4,
-     "line": "57 points, 5 below average. Down 5 places to 40th.",
+     "points": 57,
+     "line": "Needs a reset after a quiet slide of 5.",
      "plain": false
     },
     {
      "name": "Varun",
      "rating": 4,
-     "line": "Evanilson arrived. 12 benched points and down 2 places to 105th.",
+     "points": 57,
+     "line": "Evanilson came in, but the bench and the table both bit back.",
      "plain": false
     },
     {
      "name": "Shrivar",
      "rating": 4,
-     "line": "Isak arrived, 55 points followed. Slid 9 places to 61st.",
+     "points": 55,
+     "line": "Isak arrived and the table shoved him back down. Bad welcome.",
      "plain": false
     },
     {
      "name": "Sourabh",
      "rating": 4,
-     "line": "Van Hecke joined for 4 points in transfers. Down 2 places to 108th.",
+     "points": 55,
+     "line": "Van Hecke came in, the points stayed out. Defensive investment unpaid.",
      "plain": false
     },
     {
      "name": "Ketan",
      "rating": 4,
-     "line": "54 points, 8 below average. Sank 4 places to 82nd.",
+     "points": 54,
+     "line": "Slid down the table with no transfer to blame. Pure form.",
      "plain": false
     },
     {
      "name": "Rajat Bhalla",
      "rating": 3,
-     "line": "18 points sat on the bench. Down 4 places to 75th.",
+     "points": 61,
+     "line": "18 left on the bench. The wrong 11 started again.",
      "plain": false
     },
     {
      "name": "Saeel",
      "rating": 3,
-     "line": "17 benched points hurt. Dropped 3 places to 16th.",
+     "points": 61,
+     "line": "17 points idle on the bench. Irritating.",
      "plain": false
     },
     {
      "name": "Hitesh",
      "rating": 3,
-     "line": "Left 15 points on the bench. Down 3 places to 17th.",
+     "points": 60,
+     "line": "15 points watched from the bench. Somebody check the team sheet.",
      "plain": false
     },
     {
      "name": "Manu",
      "rating": 3,
-     "line": "23 points wasted on the bench. Fell 3 places to 69th.",
+     "points": 59,
+     "line": "23 points on the bench: a second team's worth of regret.",
      "plain": false
     },
     {
      "name": "Avinash",
      "rating": 3,
-     "line": "Palmer cost 7 points in transfers. Another 14 sat on the bench.",
+     "points": 58,
+     "line": "Palmer cost a 4-point hit per head. The return never showed.",
      "plain": false
     },
     {
      "name": "Abhishek Yerra",
      "rating": 3,
-     "line": "25 points on the bench is the biggest pile of waste around.",
+     "points": 57,
+     "line": "The better XI sat right on his bench, worth 25 points.",
      "plain": false
     },
     {
      "name": "Eli",
      "rating": 3,
-     "line": "Lost 5 places to 37th. 11 points stayed on the bench.",
+     "points": 57,
+     "line": "Quiet week, and the table noticed. Falling, not crashing.",
      "plain": false
     },
     {
      "name": "Mayuresh",
      "rating": 3,
-     "line": "Dropped 9 places to 30th, with 12 points on the bench.",
+     "points": 57,
+     "line": "9 places gone in one week. That's a proper tumble.",
      "plain": false
     },
     {
      "name": "Yash Gawai",
      "rating": 3,
-     "line": "Dewsbury-Hall came in. 17 benched points and 3 places lost to 86th.",
+     "points": 57,
+     "line": "Dewsbury-Hall signed, 17 benched. The reshuffle never got going.",
      "plain": false
     },
     {
      "name": "Aleston",
      "rating": 3,
-     "line": "Evanilson cost 9 points in transfers. Down 6 places to 41st.",
+     "points": 56,
+     "line": "Evanilson turned up and so did the bench regrets. Mixed bag.",
      "plain": false
     },
     {
      "name": "Neil",
      "rating": 3,
-     "line": "56 points, 6 below average. 19 more sat unused on the bench.",
+     "points": 56,
+     "line": "19 on the bench. He picked wrong and knows it.",
      "plain": false
     },
     {
      "name": "Pranav",
      "rating": 3,
-     "line": "Wildcard played, 56 points back. Down 3 places to 91st.",
+     "points": 56,
+     "line": "Wildcard played, table position lost. The fresh squad needs time.",
      "plain": false
     },
     {
      "name": "Quseem",
      "rating": 3,
-     "line": "Tarkowski and Evanilson arrived. Down 5 places to 11th.",
+     "points": 56,
+     "line": "Tarkowski and Evanilson arrived, but the fall came with them.",
      "plain": false
     },
     {
      "name": "Yash Bhatia",
      "rating": 3,
-     "line": "3 signings cost 17 points in transfers. Another 19 sat on the bench.",
+     "points": 56,
+     "line": "Busy transfers, and the bench still stole 19. Not clever.",
      "plain": false
     },
     {
      "name": "Jackey",
      "rating": 3,
-     "line": "Groß cost 9 points in transfers. Down 7 places to 45th.",
+     "points": 55,
+     "line": "Groß in, 7 places out. Not the start he planned.",
      "plain": false
     },
     {
      "name": "Maanas",
      "rating": 3,
-     "line": "Nothing to cheer on 55 points. Down 5 places to 72nd.",
+     "points": 55,
+     "line": "Slipped quietly with nothing flashy to blame. Just dull.",
      "plain": false
     },
     {
      "name": "Akash",
      "rating": 3,
-     "line": "Down 8 places to 45th. 54 points was never going to cut it.",
+     "points": 54,
+     "line": "8 places dropped. No chips, no moves, just a slide.",
      "plain": false
     },
     {
      "name": "Abu",
      "rating": 3,
-     "line": "Tavernier and Isak came in. Down 10 places to 92nd.",
+     "points": 53,
+     "line": "Tavernier and Isak came in, 10 places went out. Awful trade.",
      "plain": false
     },
     {
      "name": "Pratik",
      "rating": 3,
-     "line": "Isak captained for 16 points. The rest of the team let him down.",
+     "points": 53,
+     "line": "Skipper Isak hauled 16. The rest of the squad wandered off.",
      "plain": false
     },
     {
      "name": "S.M.",
      "rating": 3,
-     "line": "Lost 10 places to 70th on 53 points.",
+     "points": 53,
+     "line": "10 places dropped without a single move to explain it.",
      "plain": false
     },
     {
      "name": "Tanish",
      "rating": 3,
-     "line": "53 points, 9 below average. A week to forget.",
+     "points": 53,
+     "line": "Nothing to blame, nobody to thank. The squad simply fizzled.",
      "plain": false
     },
     {
      "name": "Abhimanyu",
      "rating": 3,
-     "line": "Konsa cost 8 points in transfers. Down 14 places to 56th.",
+     "points": 52,
+     "line": "Konsa joined and 14 places left. Costly defender.",
      "plain": false
     },
     {
      "name": "M",
      "rating": 2,
-     "line": "19 points left on the bench. Down 3 places to 94th.",
+     "points": 56,
+     "line": "The bench hoarded 19. Another week of picking wrong.",
      "plain": false
     },
     {
      "name": "Cherag",
      "rating": 2,
-     "line": "24 benched points hurt. Still, 10th place survives, down 6 places.",
+     "points": 51,
+     "line": "Still 10th despite a bench full of points. Imagine if he'd picked right.",
      "plain": false
     },
     {
      "name": "Arnav",
      "rating": 2,
-     "line": "De Cuyper arrived at a cost of 6 points. Down 10 places to 89th.",
+     "points": 50,
+     "line": "Sold Vuskovic, who then scored 12. That one stings.",
      "plain": false
     },
     {
      "name": "Hardik",
      "rating": 2,
-     "line": "Biggest tumble in the league: 23 places to 52nd.",
+     "points": 46,
+     "line": "A drop of 23 places in one week. A collapse, not a dip.",
      "plain": false
     },
     {
      "name": "Vivek",
      "rating": 2,
-     "line": "Fell 16 places to 92nd. 13 points sat on the bench.",
+     "points": 44,
+     "line": "Slid to 92nd with a bench hoarding points. Rough.",
      "plain": false
     },
     {
      "name": "Janit",
      "rating": 1,
-     "line": "42 points, 20 below average. The lowest score in the league.",
+     "points": 42,
+     "line": "Lowest score of the week. One to forget and move on.",
      "plain": false
     }
    ],
-   "problems": [
-    "rating Apoorvo: numbers not in their reasons ['2']: N.Jackson captain, 22 points. Best armband of the week, shared with 2 others.",
-    "rating Neol: numbers not in their reasons ['18', '2']: 68 points, 6 above average. Stays 2nd, but 18 points behind."
+   "editor": [
+    {
+     "item": "standfirst",
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "76 managers put the armband on Haaland and got 4 points each. Kartik's 83 won the week, and Rajat Arora stays top.",
+     "after": "Haaland let down 76 armbands. Kartik won the week, and Rajat Arora stays top."
+    },
+    {
+     "item": "rating:Sahil",
+     "reason": "true: numbers not in the sheet ['3']",
+     "before": "Vuskovic arrived just in time. Best climb in the top 3, by some distance.",
+     "after": "Vuskovic walked in and the table fell away. A 23-place climb."
+    },
+    {
+     "item": "rating:Apoorvo",
+     "reason": "true: numbers not in the sheet ['3']",
+     "before": "Jackson's armband matched the best in the league. 3 fresh signings all fit.",
+     "after": "Jackson's armband matched the best in the league. Every fresh signing fitted nicely."
+    },
+    {
+     "item": "rating:Rishab",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "11 points of transfers, Isak armband, 20 places gained. A busy week well spent.",
+     "after": "Loaded up on Isak and McGinn, then climbed 20 places. Busy week, well spent."
+    },
+    {
+     "item": "rating:Karan Singh",
+     "reason": "true: numbers not in the sheet ['15']",
+     "before": "Added Ødegaard, backed Isak, and slipped into the top 15. Tidy work.",
+     "after": "Added Ødegaard and backed Isak with the armband. Tidy work."
+    },
+    {
+     "item": "rating:Akshat",
+     "reason": "fresh: \"isak armband...\" already opens 2 other lines",
+     "before": "Isak armband again. 4th place holds, and the top is within reach.",
+     "after": "Sitting 4th with a safe Isak armband. The leaders should keep checking the mirrors."
+    },
+    {
+     "item": "rating:Swapnil",
+     "reason": "true: numbers not in the sheet ['11']",
+     "before": "Great week undone by a bench that could have been a first 11.",
+     "after": "A cracking week, undone by a bench that could have been the starting team."
+    },
+    {
+     "item": "rating:Mohit",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "8 places up, though 10 points went unused. Decent, not dazzling.",
+     "after": "A decent climb of 8 places. Not dazzling, but nobody's complaining."
+    },
+    {
+     "item": "rating:Nihal",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Climbed 2 places, but the bench ate 14 points. Frustrating.",
+     "after": "The bench ate 14 points. Frustrating."
+    },
+    {
+     "item": "rating:Rahil",
+     "reason": "fresh: \"places up...\" already opens 2 other lines",
+     "before": "7 places up despite a wasteful bench. Lucky to have escaped.",
+     "after": "Wasteful bench, yet he still climbed 7 places. Lucky escape."
+    },
+    {
+     "item": "rating:Ajay",
+     "reason": "fresh: \"points of...\" already opens 2 other lines",
+     "before": "18 points of transfers, and bench waste to match. Busy, not clever.",
+     "after": "Van Hecke and Barry came in. Busy, not clever."
+    },
+    {
+     "item": "rating:Sahilk",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "11 points benched and 3 places lost. Selection hurt here.",
+     "after": "Selection hurt: 11 points sat idle."
+    },
+    {
+     "item": "rating:Kaushik",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "14 benched points explain the 5-place tumble. Painful reading.",
+     "after": "Painful reading: 14 points idle on the bench."
+    },
+    {
+     "item": "rating:Clawin",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "11 benched points and 3 places lost. Selection regrets pile up.",
+     "after": "Selection regrets pile up as the bench hoarded 11."
+    },
+    {
+     "item": "rating:Sandeepan",
+     "reason": "numbers: 2 numbers, at most 1; fresh: \"benched points...\" already opens 2 other lines",
+     "before": "14 benched points and a 6-place drop. Lineup choices backfired.",
+     "after": "Down 6 places because the lineup choices backfired."
+    },
+    {
+     "item": "rating:Adwait",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Isak joined, the bench wasted 12, 7 places vanished. Rough.",
+     "after": "Bought Isak, then watched 7 places slip away. Rough."
+    },
+    {
+     "item": "rating:Krishna",
+     "reason": "fresh: \"points benched...\" already opens 2 other lines",
+     "before": "19 points benched. That's the whole story and it hurts.",
+     "after": "The bench is the whole story, 19 points wasted. It hurts."
+    },
+    {
+     "item": "rating:Amar",
+     "reason": "fresh: \"places down...\" already opens 2 other lines",
+     "before": "5 places down on a below-par week. Needs a reset.",
+     "after": "Needs a reset after a quiet slide of 5."
+    },
+    {
+     "item": "rating:Saeel",
+     "reason": "true: numbers not in the sheet ['20']; numbers: 2 numbers, at most 1",
+     "before": "17 idle on the bench. Still a top-20 side, but irritated.",
+     "after": "17 points idle on the bench. Irritating."
+    },
+    {
+     "item": "rating:Manu",
+     "reason": "true: numbers not in the sheet ['20']; numbers: 2 numbers, at most 1",
+     "before": "20-3 on the bench is a second team's worth of regret.",
+     "after": "23 points on the bench: a second team's worth of regret."
+    },
+    {
+     "item": "rating:Abhishek Yerra",
+     "reason": "true: numbers not in the sheet ['20']; numbers: 2 numbers, at most 1; fresh: \"benched points...\" already opens 2 other lines",
+     "before": "20-5 benched points. The best XI was sitting right there.",
+     "after": "The better XI sat right on his bench, worth 25 points."
+    },
+    {
+     "item": "rating:Yash Bhatia",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "17 transfers deep and the bench still stole 19. Busy, not clever.",
+     "after": "Busy transfers, and the bench still stole 19. Not clever."
+    },
+    {
+     "item": "rating:Maanas",
+     "reason": "fresh: \"places down...\" already opens 2 other lines",
+     "before": "5 places down with nothing flashy to blame. Just dull.",
+     "after": "Slipped quietly with nothing flashy to blame. Just dull."
+    },
+    {
+     "item": "rating:Pratik",
+     "reason": "fresh: \"isak captain...\" already opens 2 other lines",
+     "before": "Isak captain hauled 16. The rest of the squad wandered off.",
+     "after": "Skipper Isak hauled 16. The rest of the squad wandered off."
+    },
+    {
+     "item": "rating:M",
+     "reason": "fresh: \"benched points...\" already opens 2 other lines",
+     "before": "19 benched points. Another week of picking the wrong players.",
+     "after": "The bench hoarded 19. Another week of picking wrong."
+    },
+    {
+     "item": "rating:Cherag",
+     "reason": "true: numbers not in the sheet ['20', '4']; numbers: 3 numbers, at most 1",
+     "before": "20-4 benched and still in the top 10. Imagine if he'd picked right.",
+     "after": "Still 10th despite a bench full of points. Imagine if he'd picked right."
+    },
+    {
+     "item": "rating:Arnav",
+     "reason": "fresh: \"de cuyper...\" already opens 2 other lines",
+     "before": "De Cuyper cost a hit and 10 places. Poor value.",
+     "after": "Sold Vuskovic, who then scored 12. That one stings."
+    },
+    {
+     "item": "rating:Hardik",
+     "reason": "true: numbers not in the sheet ['20', '3']; numbers: 2 numbers, at most 1",
+     "before": "20-3 places in one week. That's a collapse, not a dip.",
+     "after": "A drop of 23 places in one week. A collapse, not a dip."
+    },
+    {
+     "item": "rating:Vivek",
+     "reason": "numbers: 2 numbers, at most 1; fresh: \"places lost...\" already opens 2 other lines",
+     "before": "16 places lost, and 13 points sat on the bench.",
+     "after": "Slid to 92nd with a bench hoarding points. Rough."
+    },
+    {
+     "item": "headline",
+     "reason": "fresh: 'blanks' and 'lands' are stock phrasing; but mainly 'Kartik's Jackson bet' is supported, so fresh only if repeating 'Haaland blanks' from already_said",
+     "before": "Haaland blanks as Kartik's Jackson bet lands",
+     "after": "Jackson makes Kartik king of the week while the herd sulks"
+    },
+    {
+     "item": "big_picture",
+     "reason": "fresh: Opening 'Haaland scored 2' echoes the already-said 'Haaland blanks' stories; repetitive angle",
+     "before": "Haaland scored 2, and 76 of 113 managers wore that decision. Rajat Arora still came out of it with the lead stretched to 18 over Neol. The captaincy herd hurt everyone equally, so the table barely moved at the top.",
+     "after": "Rajat Arora stretched the lead to 18 over Neol. The captaincy herd, 76 strong, backed Haaland and got 4 each. Kartik won the week with a Jackson armband. Up top, the table barely moved."
+    },
+    {
+     "item": "decision_of_the_week",
+     "reason": "true: 'Imagine the rest' is fine, but 'more than most managers' captains scored' is unsupported by SHEET",
+     "before": "Swapnil left 26 points on the bench. That is more than most managers' captains scored. The wrong 11 cost him a monster week, and he still moved up 5 places. Imagine the rest.",
+     "after": "Swapnil left 26 points on the bench. The wrong XI cost him a monster week, and he still moved up 5 places. Imagine the rest."
+    },
+    {
+     "item": "rating:Arshad",
+     "reason": "true: 'Bench points stopped it being perfect' is vague; SHEET shows only 11 benched points, not enough to claim this",
+     "before": "Gabriel captain did the heavy lifting. Bench points stopped it being perfect.",
+     "after": "Gabriel captain did the heavy lifting, though 11 points sat on the bench."
+    },
+    {
+     "item": "rating:Vishva",
+     "reason": "kind: a stern word for a manager with only 12 benched points is harsher than the sheet warrants",
+     "before": "Climbed 10 places despite a bench that deserved a stern word.",
+     "after": "Climbed 10 places, with a bench that was only mildly annoying."
+    },
+    {
+     "item": "rating:Janit",
+     "reason": "kind: go_easy manager not present in ITEMS; ignore",
+     "before": "Bottom of the pile this week. The group chat is circling.",
+     "after": "Lowest score of the week. One to forget and move on."
+    },
+    {
+     "item": "rating:Kartik",
+     "reason": "fresh: opens with 'Jackson' repeating the headline's joke",
+     "before": "Jackson in, Jackson captained, Jackson delivered. A week built on one clean idea.",
+     "after": "One clean idea: bring Jackson in, give him the armband, collect 22."
+    },
+    {
+     "item": "rating:Tanmay",
+     "reason": "fresh: 'landed... still left a pile' is generic rather than sharp",
+     "before": "Isak armband landed. Still left a pile of points sitting on the bench.",
+     "after": "Isak's armband paid, but 15 points idle on the bench is untidy."
+    },
+    {
+     "item": "rating:Shantanu",
+     "reason": "true: 'the herd never made' call is supported, but '22 points' fine; passes",
+     "before": "Lone Ødegaard captain. 22 points for a call the herd never made.",
+     "after": "Lone Ødegaard captain. 22 points for a call nobody else made."
+    },
+    {
+     "item": "rating:Sahej",
+     "reason": "true: 'Rogers captain pick is on the record' is fine; but Sahej's armband is Rogers, supported",
+     "before": "Jackson arrived too, but the armband misfired. A Rogers captain pick is on the record.",
+     "after": "Jackson arrived too, but the Rogers armband misfired. Right striker, wrong captain."
+    },
+    {
+     "item": "rating:Rajat Arora",
+     "reason": "true: 'Leader got lucky' is an unsupported claim about luck",
+     "before": "Stretched the lead, yet 21 points on the bench stung. Leader got lucky.",
+     "after": "Stretched the lead, yet 21 points idle on the bench stung."
+    }
    ],
    "usage": {
-    "in": 20935,
-    "out": 5179,
-    "calls": 3
+    "in": 60280,
+    "out": 10662,
+    "calls": 6
    },
-   "unknown_names": []
+   "sent_back": 81,
+   "unknown_names": [],
+   "top_3": [
+    {
+     "name": "Rajat Arora",
+     "total": 734,
+     "rank": 1
+    },
+    {
+     "name": "Neol",
+     "total": 716,
+     "rank": 2
+    },
+    {
+     "name": "Aryan Khamankar",
+     "total": 707,
+     "rank": 3
+    }
+   ],
+   "week_average": 62,
+   "tries": 1
+  },
+  "gaffer_backfill_tries": {
+   "1": 1,
+   "2": 1
   }
  },
  "share": {
@@ -58243,7 +58617,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-10T13:52:48Z",
+  "ts": "2026-11-10T14:31:16Z",
   "issues": [],
   "page": []
  },

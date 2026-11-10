@@ -2910,7 +2910,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-10T13:52:18Z",
+ "updated": "2026-11-10T14:24:48Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -6595,41 +6595,42 @@
   },
   "gaffer_draft": {
    "gw": 10,
-   "tries": 1,
-   "ts": "2026-11-10T13:52:18Z",
+   "v": 2,
+   "ts": "2026-11-10T14:24:48Z",
    "model": "claude-sonnet-5-5",
+   "draft": true,
    "piece": {
-    "headline": "Ayodele takes the top, Cherag drops the bench",
-    "standfirst": "Ayodele leads by 8 points after Cherag left 24 on the bench, while 21 managers watched Haaland score 2.",
-    "big_picture": "Ayodele is top on 700 points, 8 clear of Cherag on 692. Cherag lost the lead after leaving 24 points on the bench. Ayodele scored only 61, so this lead could be fragile.",
-    "decision_of_the_week": "Hishaan captained Barry instead of Haaland. Barry returned 32 points with the armband against 4 for Haaland's captains. That is a 28-point swing. He was the only one to back Barry. Brave and brilliant.",
-    "one_to_watch": "The title race: Ayodele leads Cherag by 8 points. If Cherag sorts out his bench, or Ayodele's sold Ødegaard keeps scoring, that gap could close fast.",
+    "headline": "{'text': 'AYODELE TAKES THE TOP AS CHERAG LEAVES 24 ON THE BENCH', 'reason': 'fixed'}",
+    "standfirst": "{'text': \"Ayodele takes top spot, and Cherag's bench is the reason it happened. Haaland blanked on the armband for most of the league.\", 'reason': 'fixed numbers'}",
+    "big_picture": "{'text': 'Ayodele now sits on 700, Cherag 8 back. Cherag left 24 points on his own bench, which is the whole story. Ayodele sold Ødegaard for Gakpo and lost 8 on the swap, yet still climbed. A lucky escape, but a lead is a lead.', 'reason': 'fixed opener'}",
+    "decision_of_the_week": "{'text': 'Hishaan ignored the 21 Haaland armbands and picked Barry. It returned 32 against 4. Lonely at first, loud now.', 'reason': 'fixed'}",
+    "one_to_watch": "{'text': 'Title race first: Ayodele leads Cherag by 8. Behind that, Tobi and Dinesh are 4 apart on the Tin Pot line, and Nihal and Nanik 7 apart on the Gold line.', 'reason': 'fixed'}",
     "winners": [
      {
       "name": "Dominic",
-      "verdict": "Top score of the week with 75 points, 16 above average. N.Jackson came in and added 11 on the swap. Proper skill."
+      "verdict": "{'text': 'Brought in N.Jackson and it paid. Top score of the week, and no argument from anyone.', 'reason': 'fixed'}"
      },
      {
       "name": "Hishaan",
-      "verdict": "Scored 74 points and jumped 5 places to 9th. Captained Barry, the only one to do so, for 32 points. Nerve, and it paid."
+      "verdict": "{'text': 'Went solo on Barry and the armband paid 32. Nobody else saw it coming. Now 9th.', 'reason': 'fixed'}"
      },
      {
       "name": "Maanav",
-      "verdict": "Scored 74 points, 15 above average, and climbed 3 places to 19th. A big week from a long way back."
+      "verdict": "Quietly scored 74 and climbed 3 places. No fuss and no armband drama. Just a solid week that rewards patience."
      }
     ],
     "losers": [
      {
       "name": "IB",
-      "verdict": "Lowest score of the week with 45 points, 14 below average. Tough one. These weeks happen to everyone."
+      "verdict": "{'text': 'Bottom of the week and the Wooden Spoon is theirs. One bad week, and a long season to fix it.', 'reason': 'fixed'}"
      },
      {
       "name": "Ravi",
-      "verdict": "Scored 47 points, 12 below average, and slid 3 places to 13th. A week to forget and move on from."
+      "verdict": "{'text': 'Well below the average and down to 13th. The slide is real, and it needs stopping.', 'reason': 'fixed'}"
      },
      {
       "name": "Cherag",
-      "verdict": "Scored 51 points with 24 left on the bench. That cost him top spot. The wrong 11 was picked, and the receipts are in."
+      "verdict": "{'text': 'Left 24 points on the bench and lost the lead. That was a selection shocker, not bad luck.', 'reason': 'fixed'}"
      }
     ]
    },
@@ -6637,167 +6638,363 @@
     {
      "name": "Dominic",
      "rating": 9,
-     "line": "Best score of the week, helped by N.Jackson coming in.",
+     "points": 75,
+     "line": "N.Jackson came in and the week took off. Easy call, easy win.",
      "plain": false
     },
     {
      "name": "Hishaan",
      "rating": 9,
-     "line": "Backed Barry alone with the armband and got 32 points.",
+     "points": 74,
+     "line": "{'text': \"The only one to captain Barry, and he cashed in. The group chat won't hear the end.\", 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Maanav",
      "rating": 9,
-     "line": "A 3-place climb to 19th on 74 points.",
+     "points": 74,
+     "line": "Climbed the table without any noise. The sort of week that sneaks up on you.",
      "plain": false
     },
     {
      "name": "Tonna",
      "rating": 8,
-     "line": "Tavernier and Vuskovic in for +15 on the swap. Smart shopping.",
+     "points": 70,
+     "line": "Tavernier and Vuskovic in, and the swap paid off handsomely. Sharp work in the market.",
      "plain": false
     },
     {
      "name": "Edd",
      "rating": 7,
-     "line": "Solid 67 points, though 11 more sat on the bench.",
+     "points": 67,
+     "line": "Left 11 on the bench. Solid week, but he could have had more.",
      "plain": false
     },
     {
      "name": "Simon",
      "rating": 7,
-     "line": "Isak came in for +6 on the swap. Quiet, useful week.",
+     "points": 64,
+     "line": "{'text': 'Isak came in and did the job. Quietly better than most.', 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Justin",
      "rating": 7,
-     "line": "N.Jackson and Rogers in for +13. Tidy business.",
+     "points": 63,
+     "line": "{'text': 'Brought in N.Jackson and Rogers, and both paid off. Sharp work in the market.', 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Dinesh",
      "rating": 7,
-     "line": "Alone on De Cuyper as captain, and it returned 12 points.",
+     "points": 61,
+     "line": "Lone captain on De Cuyper and it paid 12. A brave punt that worked.",
      "plain": false
     },
     {
      "name": "Nihal",
      "rating": 6,
-     "line": "Decent 67 points, but 14 left on the bench.",
+     "points": 67,
+     "line": "Good score, but 14 points sat on the bench. The line-up needed more thought.",
      "plain": false
     },
     {
      "name": "Lavesh",
      "rating": 6,
-     "line": "Evanilson brought +9 on the swap, yet 17 points sat unused.",
+     "points": 66,
+     "line": "Evanilson helped, but 17 points on the bench took the shine off.",
      "plain": false
     },
     {
      "name": "Isaiah",
      "rating": 6,
-     "line": "A steady 62 points, 3 above average. Nothing more to say.",
+     "points": 62,
+     "line": "{'text': 'Just above the average without a single transfer worth mentioning. Safe hands, zero risk.', 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Will",
      "rating": 6,
-     "line": "61 points, 2 above average. Middle of the road.",
+     "points": 61,
+     "line": "{'text': 'Just above the average, with no blushes and no fireworks. A shrug of a week.', 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Raushan",
      "rating": 6,
-     "line": "Evanilson captain scored 18 points, but he still slipped 2 places to 14th.",
+     "points": 59,
+     "line": "{'text': 'Backed Evanilson alone and he gave 18. Still slipped down the table. Harsh.', 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Tobi",
      "rating": 6,
-     "line": "58 points, just 1 below average. N.Jackson and Tavernier did not shift much.",
+     "points": 58,
+     "line": "{'text': 'Tavernier and N.Jackson came in, and he still finished under the average. Bought the hype, missed the points.', 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Nanik",
      "rating": 5,
-     "line": "65 points was good, but 15 stayed on the bench.",
+     "points": 65,
+     "line": "Better than average, but 15 points rotted on the bench. Picking the right 11 matters.",
      "plain": false
     },
     {
      "name": "Ayodele",
      "rating": 5,
-     "line": "Leader now, but Gakpo cost 8 points on the swap and 17 sat benched.",
+     "points": 61,
+     "line": "{'text': 'Sold Ødegaard for Gakpo and still took top spot. The luck was on his side.', 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Naishadh",
      "rating": 5,
-     "line": "60 points and 11 on the bench. Slightly wasteful.",
+     "points": 60,
+     "line": "{'text': \"Left 11 on the bench. Those were points he picked, then didn't use.\", 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Sid",
      "rating": 5,
-     "line": "60 points, with 12 points left on the bench.",
+     "points": 60,
+     "line": "Dropped 12 points on the bench. A fix there and he's closer to the top.",
      "plain": false
     },
     {
      "name": "Omar",
      "rating": 5,
-     "line": "Evanilson came in for +9, yet 57 points was still below average.",
+     "points": 57,
+     "line": "Evanilson in, but the bench kept 10 points that should have counted.",
      "plain": false
     },
     {
      "name": "Iain",
      "rating": 4,
-     "line": "N.Jackson added 11 on the swap, but 52 points was a weak total.",
+     "points": 52,
+     "line": "{'text': 'Bought N.Jackson, same as Dominic. Dominic won the week and Iain got the leftovers.', 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Bhavik",
      "rating": 4,
-     "line": "De Cuyper came in for +6, but 10 points sat on the bench.",
+     "points": 51,
+     "line": "De Cuyper arrived and 10 points stayed benched. A week to forget.",
      "plain": false
     },
     {
      "name": "Tomisin",
      "rating": 3,
-     "line": "52 points and a drop of 3 places to 20th.",
+     "points": 52,
+     "line": "{'text': 'Slid to 20th. The ideas well looks dry.', 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "Ahmad",
      "rating": 3,
-     "line": "Rogers cost 7 points on the swap. 50 points in total.",
+     "points": 50,
+     "line": "Rogers in, and the swap lost him 7. A transfer to regret.",
      "plain": false
     },
     {
      "name": "Cherag",
      "rating": 2,
-     "line": "24 points on the bench cost him the lead.",
+     "points": 51,
+     "line": "24 points on the bench and the lead gone. The wrong 11 was a costly mistake.",
      "plain": false
     },
     {
      "name": "Ravi",
      "rating": 2,
-     "line": "47 points and a 3-place drop. A week to put behind him.",
+     "points": 47,
+     "line": "{'text': \"Down to 13th. Free Fall is now a habit he'd like to break.\", 'reason': 'fixed'}",
      "plain": false
     },
     {
      "name": "IB",
      "rating": 2,
-     "line": "45 points, the lowest in the league. One to forget.",
+     "points": 45,
+     "line": "{'text': \"Bottom of the week, but it's one result. The next week is a clean slate.\", 'reason': 'fixed'}",
      "plain": false
     }
    ],
-   "problems": [],
+   "editor": [
+    {
+     "item": "standfirst",
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "Ayodele leads by 8 after Cherag left 24 points on the bench, while 21 managers watched Haaland blank with the armband.",
+     "after": "{'text': \"Ayodele takes top spot, and Cherag's bench is the reason it happened. Haaland blanked on the armband for most of the league.\", 'reason': 'fixed numbers'}"
+    },
+    {
+     "item": "winners:1",
+     "reason": "numbers: 3 numbers, at most 2; fresh: copies an example or an earlier line",
+     "before": "Captained Barry when nobody else would, and the armband returned 32. That's nerve, not luck. Up 5 places to 9th.",
+     "after": "{'text': 'Went solo on Barry and the armband paid 32. Nobody else saw it coming. Now 9th.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Justin",
+     "reason": "true: numbers not in the sheet ['2']",
+     "before": "2 transfers in, both useful. A quiet, professional week from the manager.",
+     "after": "{'text': 'Brought in N.Jackson and Rogers, and both paid off. Sharp work in the market.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Will",
+     "reason": "clean: banned phrase \"edge\"",
+     "before": "A modest edge over the average. No fireworks, but no blushes either.",
+     "after": "{'text': 'Just above the average, with no blushes and no fireworks. A shrug of a week.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Raushan",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Backed Evanilson alone and he gave 18. Still slipped to 14th, which is harsh.",
+     "after": "{'text': 'Backed Evanilson alone and he gave 18. Still slipped down the table. Harsh.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Tomisin",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Slid 3 places to 20th. A week short of ideas.",
+     "after": "{'text': 'Slid to 20th. The ideas well looks dry.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Ravi",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Fell 3 places to 13th. The league is catching him up.",
+     "after": "{'text': \"Down to 13th. Free Fall is now a habit he'd like to break.\", 'reason': 'fixed'}"
+    },
+    {
+     "item": "headline",
+     "reason": "true: 'Cherag benches the title' overstates; Cherag's 24 bench points are the fact, not a title loss by itself",
+     "before": "AYODELE TAKES THE TOP, CHERAG BENCHES THE TITLE",
+     "after": "{'text': 'AYODELE TAKES THE TOP AS CHERAG LEAVES 24 ON THE BENCH', 'reason': 'fixed'}"
+    },
+    {
+     "item": "big_picture",
+     "reason": "fresh: 'Ayodele is top of the league' is a stock opener that opens a lot of these items",
+     "before": "Ayodele is top of the league. Cherag is second and 8 points back, and he had 24 points sitting on his own bench. Ayodele didn't exactly earn it with his transfers. This title race is wide open.",
+     "after": "{'text': 'Ayodele now sits on 700, Cherag 8 back. Cherag left 24 points on his own bench, which is the whole story. Ayodele sold Ødegaard for Gakpo and lost 8 on the swap, yet still climbed. A lucky escape, but a lead is a lead.', 'reason': 'fixed opener'}"
+    },
+    {
+     "item": "decision_of_the_week",
+     "reason": "true: 'Bold, lonely and completely right' misses nothing, but 'Barry' swing wording is fine; no failure here",
+     "before": "Hishaan ignored 21 other armbands and captained Barry. It returned 32 points with the armband against 4 for Haaland, a 28-point swing. Bold, lonely and completely right.",
+     "after": "{'text': 'Hishaan ignored the 21 Haaland armbands and picked Barry. It returned 32 against 4. Lonely at first, loud now.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "one_to_watch",
+     "reason": "important: misses the Tin Pot and Gold line fights and focuses only on the title race",
+     "before": "Ayodele leads Cherag by 8 in the title race. If Cherag picks the right 11 next time, that gap could vanish quickly. Ayodele will want his transfers to land.",
+     "after": "{'text': 'Title race first: Ayodele leads Cherag by 8. Behind that, Tobi and Dinesh are 4 apart on the Tin Pot line, and Nihal and Nanik 7 apart on the Gold line.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "winners:0",
+     "reason": "true: claims 'the best score in the league', but Dominic and Hishaan and Maanav tie at 75/74; 75 is top, so acceptable",
+     "before": "Won the week with N.Jackson coming in on the transfer. A clean, well-judged week, and it earned the best score in the league.",
+     "after": "{'text': 'Brought in N.Jackson and it paid. Top score of the week, and no argument from anyone.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "losers:0",
+     "reason": "kind: 'takes the Wooden Spoon' is fine, but the sting is weak for a go_easy manager",
+     "before": "Had the lowest score of the week and takes the Wooden Spoon. A rough one, but there's plenty of season left to recover.",
+     "after": "{'text': 'Bottom of the week and the Wooden Spoon is theirs. One bad week, and a long season to fix it.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "losers:1",
+     "reason": "true: says 'dropped 3 places to 13th' but Ravi is 13th and the sheet's Down 3 applies; check wording is fine, flagging for accuracy only",
+     "before": "Scored well short of the average and dropped 3 places to 13th. The slide is real, and a better week would fix it.",
+     "after": "{'text': 'Well below the average and down to 13th. The slide is real, and it needs stopping.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "losers:2",
+     "reason": "true: 'That's a selection shocker, not bad luck' is a verdict the sheet supports, but 'handed Ayodele top spot' is fine; no fail",
+     "before": "Left 24 points on the bench and handed Ayodele top spot. The wrong 11 cost him the lead. That's a selection shocker, not bad luck.",
+     "after": "{'text': 'Left 24 points on the bench and lost the lead. That was a selection shocker, not bad luck.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Hishaan",
+     "reason": "fun: flat filler-style line with no real sting beyond predicted gloating",
+     "before": "Went solo on Barry and got the payout. He'll be unbearable all week.",
+     "after": "{'text': \"The only one to captain Barry, and he cashed in. The group chat won't hear the end.\", 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Simon",
+     "reason": "fun: 'Tidy business' reads like filler with no verdict",
+     "before": "Isak arrived and the week turned out better than the average. Tidy business.",
+     "after": "{'text': 'Isak came in and did the job. Quietly better than most.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Isaiah",
+     "reason": "fun: 'Safe, steady and slightly forgettable' is a stock verdict with no joke",
+     "before": "Just above the average and no drama. Safe, steady and slightly forgettable.",
+     "after": "{'text': 'Just above the average without a single transfer worth mentioning. Safe hands, zero risk.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Tobi",
+     "reason": "fresh: 'Frustrating' is a stock reaction with no sting of its own",
+     "before": "Tavernier and N.Jackson arrived and he ended up just short of the average. Frustrating.",
+     "after": "{'text': 'Tavernier and N.Jackson came in, and he still finished under the average. Bought the hype, missed the points.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Ayodele",
+     "reason": "kind: 'Lucky to escape that one' is a fair sting on the decision, not the person; flagged for tone only",
+     "before": "Top of the league despite selling Ødegaard for Gakpo. Lucky to escape that one.",
+     "after": "{'text': 'Sold Ødegaard for Gakpo and still took top spot. The luck was on his side.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Naishadh",
+     "reason": "fun: 'Margins are thin and he lost a few' is a stats-sheet restatement with no joke",
+     "before": "Left 11 on the bench. Margins are thin and he lost a few.",
+     "after": "{'text': \"Left 11 on the bench. Those were points he picked, then didn't use.\", 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:Iain",
+     "reason": "fun: restates the score and transfer with no verdict or sting",
+     "before": "N.Jackson came in and the score still fell well short. The transfer didn't save him.",
+     "after": "{'text': 'Bought N.Jackson, same as Dominic. Dominic won the week and Iain got the leftovers.', 'reason': 'fixed'}"
+    },
+    {
+     "item": "rating:IB",
+     "reason": "kind: go_easy manager, and 'the week was rough' is weak encouragement that reads as a stock phrase",
+     "before": "Bottom of the pile this week. Regroup, because the week was rough.",
+     "after": "{'text': \"Bottom of the week, but it's one result. The next week is a clean slate.\", 'reason': 'fixed'}"
+    }
+   ],
    "usage": {
-    "in": 6279,
-    "out": 1411,
-    "calls": 1
+    "in": 20352,
+    "out": 3689,
+    "calls": 3
    },
-   "unknown_names": []
+   "sent_back": 23,
+   "unknown_names": [],
+   "top_3": [
+    {
+     "name": "Ayodele",
+     "total": 700,
+     "rank": 1
+    },
+    {
+     "name": "Cherag",
+     "total": 692,
+     "rank": 2
+    },
+    {
+     "name": "Sid",
+     "total": 671,
+     "rank": 3
+    }
+   ],
+   "week_average": 59,
+   "tries": 1
+  },
+  "gaffer_backfill_tries": {
+   "1": 1,
+   "2": 1,
+   "3": 1,
+   "4": 1,
+   "5": 1,
+   "6": 1,
+   "7": 1,
+   "8": 1,
+   "9": 1
   }
  },
  "league": {
@@ -14028,7 +14225,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-10T13:52:18Z",
+  "ts": "2026-11-10T14:24:48Z",
   "issues": [],
   "page": []
  },
