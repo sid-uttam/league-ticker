@@ -9936,15 +9936,6 @@
     "event_total": 62
    },
    {
-    "entry": 780469,
-    "player_name": "Sahil Thorve",
-    "entry_name": "NotAnIsakScience",
-    "rank": 21,
-    "last_rank": 42,
-    "total": 672,
-    "event_total": 82
-   },
-   {
     "entry": 107315,
     "player_name": "Sahej Jhamvar",
     "entry_name": "sage",
@@ -9952,6 +9943,15 @@
     "last_rank": 21,
     "total": 672,
     "event_total": 65
+   },
+   {
+    "entry": 780469,
+    "player_name": "Sahil Thorve",
+    "entry_name": "NotAnIsakScience",
+    "rank": 21,
+    "last_rank": 42,
+    "total": 672,
+    "event_total": 82
    },
    {
     "entry": 1662734,
@@ -10080,15 +10080,6 @@
     "event_total": 67
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 37,
-    "last_rank": 47,
-    "total": 654,
-    "event_total": 67
-   },
-   {
     "entry": 6543092,
     "player_name": "Eli K",
     "entry_name": "Liverpool X  FC",
@@ -10096,6 +10087,15 @@
     "last_rank": 32,
     "total": 654,
     "event_total": 57
+   },
+   {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 37,
+    "last_rank": 47,
+    "total": 654,
+    "event_total": 67
    },
    {
     "entry": 1425044,
@@ -10179,15 +10179,6 @@
     "event_total": 54
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 48,
-    "last_rank": 49,
-    "total": 648,
-    "event_total": 63
-   },
-   {
     "entry": 4683090,
     "player_name": "SHARAN R",
     "entry_name": "Shan FC",
@@ -10195,6 +10186,15 @@
     "last_rank": 60,
     "total": 648,
     "event_total": 74
+   },
+   {
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 48,
+    "last_rank": 49,
+    "total": 648,
+    "event_total": 63
    },
    {
     "entry": 3239284,
@@ -10251,15 +10251,6 @@
     "event_total": 65
    },
    {
-    "entry": 3654448,
-    "player_name": "Abhimanyu Pathania",
-    "entry_name": "FPLXV",
-    "rank": 56,
-    "last_rank": 42,
-    "total": 642,
-    "event_total": 52
-   },
-   {
     "entry": 119217,
     "player_name": "Kunaal Dadwal",
     "entry_name": "Chutzpah",
@@ -10267,6 +10258,15 @@
     "last_rank": 56,
     "total": 642,
     "event_total": 65
+   },
+   {
+    "entry": 3654448,
+    "player_name": "Abhimanyu Pathania",
+    "entry_name": "FPLXV",
+    "rank": 56,
+    "last_rank": 42,
+    "total": 642,
+    "event_total": 52
    },
    {
     "entry": 2932096,
@@ -10395,15 +10395,6 @@
     "event_total": 53
    },
    {
-    "entry": 10615,
-    "player_name": "Maanas Gupta",
-    "entry_name": "Infinity Inc",
-    "rank": 72,
-    "last_rank": 67,
-    "total": 626,
-    "event_total": 55
-   },
-   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
@@ -10411,6 +10402,15 @@
     "last_rank": 73,
     "total": 626,
     "event_total": 65
+   },
+   {
+    "entry": 10615,
+    "player_name": "Maanas Gupta",
+    "entry_name": "Infinity Inc",
+    "rank": 72,
+    "last_rank": 67,
+    "total": 626,
+    "event_total": 55
    },
    {
     "entry": 3404613,
@@ -55086,8 +55086,8 @@
    "1305406": 17,
    "2554077": 19,
    "5685525": 19,
-   "780469": 19,
    "107315": 19,
+   "780469": 19,
    "1662734": 23,
    "3323262": 23,
    "3234577": 25,
@@ -55102,8 +55102,8 @@
    "257074": 33,
    "480904": 35,
    "698784": 36,
-   "4151180": 37,
    "6543092": 37,
+   "4151180": 37,
    "1425044": 37,
    "675013": 40,
    "32831": 41,
@@ -55113,16 +55113,16 @@
    "5640988": 45,
    "3566356": 45,
    "2868149": 45,
-   "10821": 48,
    "4683090": 48,
+   "10821": 48,
    "3239284": 48,
    "248721": 51,
    "48343": 52,
    "13951": 53,
    "6034028": 53,
    "2119331": 55,
-   "3654448": 56,
    "119217": 56,
+   "3654448": 56,
    "2932096": 58,
    "1443362": 58,
    "26707": 60,
@@ -55137,8 +55137,8 @@
    "4314690": 69,
    "2922453": 70,
    "3086063": 70,
-   "10615": 72,
    "4592187": 72,
+   "10615": 72,
    "3404613": 74,
    "1737924": 75,
    "6830291": 76,
@@ -55201,8 +55201,8 @@
    "1305406": "silver",
    "2554077": "silver",
    "5685525": "silver",
-   "780469": "silver",
    "107315": "silver",
+   "780469": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "3234577": "silver",
@@ -55217,8 +55217,8 @@
    "257074": null,
    "480904": null,
    "698784": null,
-   "4151180": null,
    "6543092": null,
+   "4151180": null,
    "1425044": null,
    "675013": null,
    "32831": null,
@@ -55228,16 +55228,16 @@
    "5640988": null,
    "3566356": null,
    "2868149": null,
-   "10821": null,
    "4683090": null,
+   "10821": null,
    "3239284": null,
    "248721": null,
    "48343": null,
    "13951": null,
    "6034028": null,
    "2119331": null,
-   "3654448": null,
    "119217": null,
+   "3654448": null,
    "2932096": null,
    "1443362": null,
    "26707": null,
@@ -55252,8 +55252,8 @@
    "4314690": null,
    "2922453": null,
    "3086063": null,
-   "10615": null,
    "4592187": null,
+   "10615": null,
    "3404613": null,
    "1737924": null,
    "6830291": null,
@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-11T01:22:50Z",
+ "updated": "2026-11-11T01:54:16Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol after a 70-point week, and your Haaland captaincy only returned 4. Neol is the closest threat, so watch your Free Hit, which is still in the bank.",
@@ -58610,7 +58610,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-11T01:22:50Z",
+  "ts": "2026-11-11T01:54:16Z",
   "issues": [],
   "page": []
  },
