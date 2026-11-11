@@ -10161,15 +10161,6 @@
     "event_total": 54
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 38,
-    "total": 649,
-    "event_total": 55
-   },
-   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10177,6 +10168,15 @@
     "last_rank": 45,
     "total": 649,
     "event_total": 61
+   },
+   {
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 45,
+    "last_rank": 38,
+    "total": 649,
+    "event_total": 55
    },
    {
     "entry": 10821,
@@ -55111,8 +55111,8 @@
    "4558790": 43,
    "4134138": 44,
    "2868149": 45,
-   "3566356": 45,
    "5640988": 45,
+   "3566356": 45,
    "10821": 48,
    "4683090": 48,
    "3239284": 48,
@@ -55226,8 +55226,8 @@
    "4558790": null,
    "4134138": null,
    "2868149": null,
-   "3566356": null,
    "5640988": null,
+   "3566356": null,
    "10821": null,
    "4683090": null,
    "3239284": null,
@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-11T02:27:06Z",
+ "updated": "2026-11-11T02:58:29Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol after a 70-point week, and your Haaland captaincy only returned 4. Neol is the closest threat, so watch your Free Hit, which is still in the bank.",
@@ -58610,7 +58610,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-11T02:27:06Z",
+  "ts": "2026-11-11T02:58:29Z",
   "issues": [],
   "page": []
  },
