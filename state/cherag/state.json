@@ -10395,15 +10395,6 @@
     "event_total": 53
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
-    "rank": 72,
-    "last_rank": 73,
-    "total": 626,
-    "event_total": 65
-   },
-   {
     "entry": 10615,
     "player_name": "Maanas Gupta",
     "entry_name": "Infinity Inc",
@@ -10411,6 +10402,15 @@
     "last_rank": 67,
     "total": 626,
     "event_total": 55
+   },
+   {
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
+    "rank": 72,
+    "last_rank": 73,
+    "total": 626,
+    "event_total": 65
    },
    {
     "entry": 3404613,
@@ -10548,15 +10548,6 @@
     "event_total": 69
    },
    {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 89,
-    "last_rank": 80,
-    "total": 604,
-    "event_total": 50
-   },
-   {
     "entry": 2037953,
     "player_name": "Umang Khurana",
     "entry_name": "XI Marauders",
@@ -10564,6 +10555,15 @@
     "last_rank": 96,
     "total": 604,
     "event_total": 69
+   },
+   {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 89,
+    "last_rank": 80,
+    "total": 604,
+    "event_total": 50
    },
    {
     "entry": 686561,
@@ -55137,8 +55137,8 @@
    "4314690": 69,
    "2922453": 70,
    "3086063": 70,
-   "4592187": 72,
    "10615": 72,
+   "4592187": 72,
    "3404613": 74,
    "1737924": 75,
    "6830291": 76,
@@ -55154,8 +55154,8 @@
    "11673": 86,
    "3389995": 87,
    "4905114": 87,
-   "2723973": 89,
    "2037953": 89,
+   "2723973": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 92,
@@ -55252,8 +55252,8 @@
    "4314690": null,
    "2922453": null,
    "3086063": null,
-   "4592187": null,
    "10615": null,
+   "4592187": null,
    "3404613": null,
    "1737924": null,
    "6830291": null,
@@ -55269,8 +55269,8 @@
    "11673": null,
    "3389995": null,
    "4905114": null,
-   "2723973": null,
    "2037953": null,
+   "2723973": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-11T07:43:11Z",
+ "updated": "2026-11-11T08:15:09Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol after a 70-point week, and your Haaland captaincy only returned 4. Neol is the closest threat, so watch your Free Hit, which is still in the bank.",
@@ -58610,7 +58610,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-11T07:43:11Z",
+  "ts": "2026-11-11T08:15:09Z",
   "issues": [],
   "page": []
  },
