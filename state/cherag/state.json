@@ -9936,15 +9936,6 @@
     "event_total": 62
    },
    {
-    "entry": 107315,
-    "player_name": "Sahej Jhamvar",
-    "entry_name": "sage",
-    "rank": 21,
-    "last_rank": 21,
-    "total": 672,
-    "event_total": 65
-   },
-   {
     "entry": 780469,
     "player_name": "Sahil Thorve",
     "entry_name": "NotAnIsakScience",
@@ -9952,6 +9943,15 @@
     "last_rank": 42,
     "total": 672,
     "event_total": 82
+   },
+   {
+    "entry": 107315,
+    "player_name": "Sahej Jhamvar",
+    "entry_name": "sage",
+    "rank": 21,
+    "last_rank": 21,
+    "total": 672,
+    "event_total": 65
    },
    {
     "entry": 1662734,
@@ -10152,6 +10152,15 @@
     "event_total": 77
    },
    {
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 45,
+    "last_rank": 38,
+    "total": 649,
+    "event_total": 55
+   },
+   {
     "entry": 2868149,
     "player_name": "Akash Singh",
     "entry_name": "The Gerrardians",
@@ -10168,15 +10177,6 @@
     "last_rank": 45,
     "total": 649,
     "event_total": 61
-   },
-   {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 38,
-    "total": 649,
-    "event_total": 55
    },
    {
     "entry": 4683090,
@@ -10395,15 +10395,6 @@
     "event_total": 53
    },
    {
-    "entry": 10615,
-    "player_name": "Maanas Gupta",
-    "entry_name": "Infinity Inc",
-    "rank": 72,
-    "last_rank": 67,
-    "total": 626,
-    "event_total": 55
-   },
-   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
@@ -10411,6 +10402,15 @@
     "last_rank": 73,
     "total": 626,
     "event_total": 65
+   },
+   {
+    "entry": 10615,
+    "player_name": "Maanas Gupta",
+    "entry_name": "Infinity Inc",
+    "rank": 72,
+    "last_rank": 67,
+    "total": 626,
+    "event_total": 55
    },
    {
     "entry": 3404613,
@@ -54728,6 +54728,15 @@
     "stat": "77 pts"
    },
    {
+    "key": "captain",
+    "title": "Captain of the Week",
+    "who": [
+     6034028
+    ],
+    "name": "Aryan Apte",
+    "stat": "28 pts"
+   },
+   {
     "key": "genius",
     "title": "Transfer Genius",
     "who": [
@@ -54735,6 +54744,15 @@
     ],
     "name": "Utkarsh",
     "stat": "+27 on the swap"
+   },
+   {
+    "key": "rocket",
+    "title": "Rocket",
+    "who": [
+     3404613
+    ],
+    "name": "Zishan",
+    "stat": "Up 54"
    },
    {
     "key": "bench",
@@ -54746,6 +54764,15 @@
     "stat": "29 pts on the bench"
    },
    {
+    "key": "armband",
+    "title": "Armband Agony",
+    "who": [
+     4616626
+    ],
+    "name": "Sanket Khandekar",
+    "stat": "0 pts"
+   },
+   {
     "key": "flop",
     "title": "Transfer Flop",
     "who": [
@@ -54753,6 +54780,15 @@
     ],
     "name": "Abu",
     "stat": "-21 on the swap"
+   },
+   {
+    "key": "fall",
+    "title": "Free Fall",
+    "who": [
+     2554077
+    ],
+    "name": "Soham",
+    "stat": "Down 34"
    }
   ],
   "6": [
@@ -54766,6 +54802,16 @@
     "stat": "91 pts"
    },
    {
+    "key": "captain",
+    "title": "Captain of the Week",
+    "who": [
+     4151180,
+     5949580
+    ],
+    "name": "Kashish and Rajat Arora",
+    "stat": "24 pts"
+   },
+   {
     "key": "genius",
     "title": "Transfer Genius",
     "who": [
@@ -54775,6 +54821,15 @@
     "stat": "+15 on the swap"
    },
    {
+    "key": "rocket",
+    "title": "Rocket",
+    "who": [
+     573491
+    ],
+    "name": "Nihal",
+    "stat": "Up 23"
+   },
+   {
     "key": "bench",
     "title": "Bench Disaster",
     "who": [
@@ -54782,6 +54837,16 @@
     ],
     "name": "Tanish",
     "stat": "37 pts on the bench"
+   },
+   {
+    "key": "armband",
+    "title": "Armband Agony",
+    "who": [
+     32831,
+     5640988
+    ],
+    "name": "Sidharth and Sundar",
+    "stat": "0 pts"
    },
    {
     "key": "flop",
@@ -54801,6 +54866,15 @@
     ],
     "name": "Abu and Kabeerr",
     "stat": "12 pts missed"
+   },
+   {
+    "key": "fall",
+    "title": "Free Fall",
+    "who": [
+     3404613
+    ],
+    "name": "Zishan",
+    "stat": "Down 50"
    },
    {
     "key": "spoon",
@@ -54852,6 +54926,15 @@
     "stat": "+18 on the swap"
    },
    {
+    "key": "rocket",
+    "title": "Rocket",
+    "who": [
+     2985014
+    ],
+    "name": "Saeel",
+    "stat": "Up 31"
+   },
+   {
     "key": "bench",
     "title": "Bench Disaster",
     "who": [
@@ -54868,6 +54951,15 @@
     ],
     "name": "Tanish",
     "stat": "0 pts"
+   },
+   {
+    "key": "fall",
+    "title": "Free Fall",
+    "who": [
+     119217
+    ],
+    "name": "Kunaal",
+    "stat": "Down 25"
    },
    {
     "key": "spoon",
@@ -54908,6 +55000,16 @@
     "stat": "+20 on the swap"
    },
    {
+    "key": "rocket",
+    "title": "Rocket",
+    "who": [
+     26707,
+     3991082
+    ],
+    "name": "Krishnaji and Sukrut",
+    "stat": "Up 25"
+   },
+   {
     "key": "bench",
     "title": "Bench Disaster",
     "who": [
@@ -54933,6 +55035,15 @@
     ],
     "name": "Janit",
     "stat": "17 pts missed"
+   },
+   {
+    "key": "fall",
+    "title": "Free Fall",
+    "who": [
+     2119331
+    ],
+    "name": "Ajay",
+    "stat": "Down 32"
    },
    {
     "key": "spoon",
@@ -57225,8 +57336,8 @@
    "1305406": 18,
    "2554077": 19,
    "5685525": 20,
-   "107315": 21,
    "780469": 21,
+   "107315": 21,
    "1662734": 23,
    "3323262": 24,
    "3234577": 25,
@@ -57249,9 +57360,9 @@
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
+   "3566356": 45,
    "2868149": 45,
    "5640988": 45,
-   "3566356": 45,
    "4683090": 48,
    "10821": 48,
    "3239284": 50,
@@ -57276,8 +57387,8 @@
    "4314690": 69,
    "2922453": 70,
    "3086063": 71,
-   "10615": 72,
    "4592187": 72,
+   "10615": 72,
    "3404613": 74,
    "1737924": 75,
    "6830291": 76,
@@ -57340,8 +57451,8 @@
    "1305406": "silver",
    "2554077": "silver",
    "5685525": "silver",
-   "107315": "silver",
    "780469": "silver",
+   "107315": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "3234577": "silver",
@@ -57364,9 +57475,9 @@
    "263779": null,
    "4558790": null,
    "4134138": null,
+   "3566356": null,
    "2868149": null,
    "5640988": null,
-   "3566356": null,
    "4683090": null,
    "10821": null,
    "3239284": null,
@@ -57391,8 +57502,8 @@
    "4314690": null,
    "2922453": null,
    "3086063": null,
-   "10615": null,
    "4592187": null,
+   "10615": null,
    "3404613": null,
    "1737924": null,
    "6830291": null,
@@ -57435,7 +57546,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-12T19:01:00Z",
+ "updated": "2026-11-12T19:32:15Z",
  "ai": {
   "briefings": {
    "5949580": "You remain top on 734 after a 70-point week, 18 clear of Neol. Neol is the main threat, so watch whether you back Haaland again or follow the rebels.",
@@ -63172,7 +63283,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-12T19:01:00Z",
+  "ts": "2026-11-12T19:32:15Z",
   "issues": [],
   "page": []
  },
@@ -63693,6 +63804,10 @@
   1,
   2,
   3,
-  4
+  4,
+  5,
+  6,
+  7,
+  8
  ]
 }
