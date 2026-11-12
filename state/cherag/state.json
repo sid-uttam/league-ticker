@@ -10080,15 +10080,6 @@
     "event_total": 67
    },
    {
-    "entry": 6543092,
-    "player_name": "Eli K",
-    "entry_name": "Liverpool X  FC",
-    "rank": 37,
-    "last_rank": 32,
-    "total": 654,
-    "event_total": 57
-   },
-   {
     "entry": 4151180,
     "player_name": "kashish dadwal",
     "entry_name": "Palmer's Angels",
@@ -10096,6 +10087,15 @@
     "last_rank": 47,
     "total": 654,
     "event_total": 67
+   },
+   {
+    "entry": 6543092,
+    "player_name": "Eli K",
+    "entry_name": "Liverpool X  FC",
+    "rank": 37,
+    "last_rank": 32,
+    "total": 654,
+    "event_total": 57
    },
    {
     "entry": 1425044,
@@ -10152,13 +10152,13 @@
     "event_total": 77
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
+    "entry": 5640988,
+    "player_name": "Sundar Sravan",
+    "entry_name": "Bavarian Szobo",
     "rank": 45,
-    "last_rank": 38,
+    "last_rank": 45,
     "total": 649,
-    "event_total": 55
+    "event_total": 61
    },
    {
     "entry": 2868149,
@@ -10170,13 +10170,13 @@
     "event_total": 54
    },
    {
-    "entry": 5640988,
-    "player_name": "Sundar Sravan",
-    "entry_name": "Bavarian Szobo",
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
     "rank": 45,
-    "last_rank": 45,
+    "last_rank": 38,
     "total": 649,
-    "event_total": 61
+    "event_total": 55
    },
    {
     "entry": 10821,
@@ -55102,17 +55102,17 @@
    "257074": 33,
    "480904": 35,
    "698784": 36,
-   "6543092": 37,
    "4151180": 37,
+   "6543092": 37,
    "1425044": 37,
    "675013": 40,
    "32831": 41,
    "263779": 41,
    "4558790": 43,
    "4134138": 44,
-   "3566356": 45,
-   "2868149": 45,
    "5640988": 45,
+   "2868149": 45,
+   "3566356": 45,
    "10821": 48,
    "4683090": 48,
    "3239284": 48,
@@ -55217,17 +55217,17 @@
    "257074": null,
    "480904": null,
    "698784": null,
-   "6543092": null,
    "4151180": null,
+   "6543092": null,
    "1425044": null,
    "675013": null,
    "32831": null,
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "3566356": null,
-   "2868149": null,
    "5640988": null,
+   "2868149": null,
+   "3566356": null,
    "10821": null,
    "4683090": null,
    "3239284": null,
@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-12T04:49:38Z",
+ "updated": "2026-11-12T05:21:06Z",
  "ai": {
   "briefings": {
    "5949580": "You remain top on 734 after a 70-point week, 18 clear of Neol. Neol is the main threat, so watch whether you back Haaland again or follow the rebels.",
@@ -58607,7 +58607,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-12T04:49:38Z",
+  "ts": "2026-11-12T05:21:06Z",
   "issues": [],
   "page": []
  },
