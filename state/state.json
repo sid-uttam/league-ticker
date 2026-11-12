@@ -2910,7 +2910,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-12T00:03:14Z",
+ "updated": "2026-11-12T00:35:45Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -14701,16 +14701,9 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-12T00:03:14Z",
+  "ts": "2026-11-12T00:35:45Z",
   "issues": [],
-  "page": [
-   "briefing for Ayodele: \"Cherag is the threat, so watch Rayan's bounce-back and your bench, which scored 17 points.\" says Rayan scored 17; he scored 2",
-   "briefing for Nanik: \"You hold 5th on 663 after a 65-point week, 7 ahead of Tonna.\" has a gap of 7; the gaps between Nanik / Tonna are 5",
-   "briefing for Will: \"You're 15th on 619 after a 61-point week, 7 ahead of Naishadh.\" has a gap of 7; the gaps between Naishadh / Will are 4",
-   "briefing for Maanav: \"You climbed to 19th on 605 with a 74-point week, 7 ahead of Tomisin.\" has a gap of 7; the gaps between Maanav / Tomisin are 2",
-   "briefing for Dinesh: \"You sit 24th on 578 after a 61-point week, 1 point ahead of Tobi.\" has a gap of 1; the gaps between Dinesh / Tobi are 4",
-   "briefing for Isaiah: \"You're 23rd on 579 after a 62-point week, 2 ahead of Dinesh.\" has a gap of 2; the gaps between Dinesh / Isaiah are 1"
-  ]
+  "page": []
  },
  "pwatch": {
   "seen": {
