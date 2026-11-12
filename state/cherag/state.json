@@ -9783,15 +9783,6 @@
     "event_total": 73
    },
    {
-    "entry": 1325491,
-    "player_name": "akshat awasthi",
-    "entry_name": "Nirvana11",
-    "rank": 4,
-    "last_rank": 7,
-    "total": 702,
-    "event_total": 72
-   },
-   {
     "entry": 13978,
     "player_name": "Yash Bhatia",
     "entry_name": "YB",
@@ -9799,6 +9790,15 @@
     "last_rank": 3,
     "total": 702,
     "event_total": 56
+   },
+   {
+    "entry": 1325491,
+    "player_name": "akshat awasthi",
+    "entry_name": "Nirvana11",
+    "rank": 4,
+    "last_rank": 7,
+    "total": 702,
+    "event_total": 72
    },
    {
     "entry": 3991082,
@@ -10161,15 +10161,6 @@
     "event_total": 61
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 38,
-    "total": 649,
-    "event_total": 55
-   },
-   {
     "entry": 2868149,
     "player_name": "Akash Singh",
     "entry_name": "The Gerrardians",
@@ -10179,13 +10170,13 @@
     "event_total": 54
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 48,
-    "last_rank": 49,
-    "total": 648,
-    "event_total": 63
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 45,
+    "last_rank": 38,
+    "total": 649,
+    "event_total": 55
    },
    {
     "entry": 4683090,
@@ -10195,6 +10186,15 @@
     "last_rank": 60,
     "total": 648,
     "event_total": 74
+   },
+   {
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 48,
+    "last_rank": 49,
+    "total": 648,
+    "event_total": 63
    },
    {
     "entry": 3239284,
@@ -55069,8 +55069,8 @@
    "5949580": 1,
    "305234": 2,
    "136653": 3,
-   "1325491": 4,
    "13978": 4,
+   "1325491": 4,
    "3991082": 6,
    "4722308": 6,
    "2429776": 8,
@@ -55111,10 +55111,10 @@
    "4558790": 43,
    "4134138": 44,
    "5640988": 45,
-   "3566356": 45,
    "2868149": 45,
-   "10821": 48,
+   "3566356": 45,
    "4683090": 48,
+   "10821": 48,
    "3239284": 48,
    "248721": 51,
    "48343": 52,
@@ -55184,8 +55184,8 @@
    "5949580": "gold",
    "305234": "gold",
    "136653": "gold",
-   "1325491": "gold",
    "13978": "gold",
+   "1325491": "gold",
    "3991082": "gold",
    "4722308": "gold",
    "2429776": "gold",
@@ -55226,10 +55226,10 @@
    "4558790": null,
    "4134138": null,
    "5640988": null,
-   "3566356": null,
    "2868149": null,
-   "10821": null,
+   "3566356": null,
    "4683090": null,
+   "10821": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-12T16:24:47Z",
+ "updated": "2026-11-12T16:56:01Z",
  "ai": {
   "briefings": {
    "5949580": "You remain top on 734 after a 70-point week, 18 clear of Neol. Neol is the main threat, so watch whether you back Haaland again or follow the rebels.",
@@ -61069,7 +61069,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-12T16:24:47Z",
+  "ts": "2026-11-12T16:56:01Z",
   "issues": [],
   "page": []
  },
