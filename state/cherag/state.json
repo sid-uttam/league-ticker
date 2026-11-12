@@ -10395,15 +10395,6 @@
     "event_total": 53
    },
    {
-    "entry": 10615,
-    "player_name": "Maanas Gupta",
-    "entry_name": "Infinity Inc",
-    "rank": 72,
-    "last_rank": 67,
-    "total": 626,
-    "event_total": 55
-   },
-   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
@@ -10411,6 +10402,15 @@
     "last_rank": 73,
     "total": 626,
     "event_total": 65
+   },
+   {
+    "entry": 10615,
+    "player_name": "Maanas Gupta",
+    "entry_name": "Infinity Inc",
+    "rank": 72,
+    "last_rank": 67,
+    "total": 626,
+    "event_total": 55
    },
    {
     "entry": 3404613,
@@ -10530,6 +10530,15 @@
     "event_total": 57
    },
    {
+    "entry": 4905114,
+    "player_name": "Anuj Joglekar",
+    "entry_name": "Summer Tzolstis",
+    "rank": 87,
+    "last_rank": 95,
+    "total": 605,
+    "event_total": 69
+   },
+   {
     "entry": 3389995,
     "player_name": "Stephen Menezes",
     "entry_name": "Goal Diggers",
@@ -10539,12 +10548,12 @@
     "event_total": 62
    },
    {
-    "entry": 4905114,
-    "player_name": "Anuj Joglekar",
-    "entry_name": "Summer Tzolstis",
-    "rank": 87,
-    "last_rank": 95,
-    "total": 605,
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
+    "rank": 89,
+    "last_rank": 96,
+    "total": 604,
     "event_total": 69
    },
    {
@@ -10555,15 +10564,6 @@
     "last_rank": 80,
     "total": 604,
     "event_total": 50
-   },
-   {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
-    "rank": 89,
-    "last_rank": 96,
-    "total": 604,
-    "event_total": 69
    },
    {
     "entry": 686561,
@@ -55137,8 +55137,8 @@
    "4314690": 69,
    "2922453": 70,
    "3086063": 70,
-   "10615": 72,
    "4592187": 72,
+   "10615": 72,
    "3404613": 74,
    "1737924": 75,
    "6830291": 76,
@@ -55152,10 +55152,10 @@
    "4811914": 83,
    "699330": 83,
    "11673": 86,
-   "3389995": 87,
    "4905114": 87,
-   "2723973": 89,
+   "3389995": 87,
    "2037953": 89,
+   "2723973": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 92,
@@ -55252,8 +55252,8 @@
    "4314690": null,
    "2922453": null,
    "3086063": null,
-   "10615": null,
    "4592187": null,
+   "10615": null,
    "3404613": null,
    "1737924": null,
    "6830291": null,
@@ -55267,10 +55267,10 @@
    "4811914": null,
    "699330": null,
    "11673": null,
-   "3389995": null,
    "4905114": null,
-   "2723973": null,
+   "3389995": null,
    "2037953": null,
+   "2723973": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-12T12:44:06Z",
+ "updated": "2026-11-12T13:15:21Z",
  "ai": {
   "briefings": {
    "5949580": "You remain top on 734 after a 70-point week, 18 clear of Neol. Neol is the main threat, so watch whether you back Haaland again or follow the rebels.",
@@ -61069,7 +61069,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-12T12:44:06Z",
+  "ts": "2026-11-12T13:15:21Z",
   "issues": [],
   "page": []
  },
@@ -61160,7 +61160,7 @@
    "40": "a|None|",
    "166": "a|None|",
    "623": "a|None|",
-   "53": "a|100|",
+   "53": "d|75|Calf injury - 75% chance of playing",
    "346": "a|100|",
    "449": "a|None|",
    "428": "a|None|",
@@ -61291,7 +61291,8 @@
    "268": "2026-11-09T21:30:29Z",
    "552": "2026-11-10T11:44:36Z",
    "286": "2026-11-10T19:03:49Z",
-   "418": "2026-11-11T01:22:50Z"
+   "418": "2026-11-11T01:22:50Z",
+   "53": "2026-11-12T13:15:21Z"
   },
   "price": {
    "1": 6.2,
@@ -61583,6 +61584,14 @@
     "el": 411,
     "kind": "surge",
     "net": -25009
+   },
+   {
+    "ts": "2026-11-12T13:15:21Z",
+    "el": 53,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Calf injury - 75% chance of playing"
    }
   ]
  }
