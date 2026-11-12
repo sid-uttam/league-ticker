@@ -2910,7 +2910,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-11T23:31:45Z",
+ "updated": "2026-11-12T00:03:14Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -5365,18 +5365,18 @@
  },
  "ai": {
   "column": {
-   "headline": "Hishaan's Barry armband turns the table upside down",
-   "text": "Hishaan is the live story: Barry has 32 captain points, and nobody else in the league owns him, which has lifted Hishaan to 7th on 610 points. Cherag still leads Ayodele, 664 to 656, but Rayan's fixture is still to come while Haaland has only 2 points so far. Dominic's 36 gameweek points are the other eye-catcher, and Isaiah has slipped to 26th on 533 points.",
-   "ts": "2026-11-07T17:51:53Z",
+   "headline": "Ayodele holds the summit as Haaland's blank hangs over 21 armbands",
+   "text": "Ayodele leads on 700 after a 61-point week, 8 clear of Cherag, who fell from top to 2nd after Rayan returned only 4 as captain. The biggest story is the Haaland armband bloc: 21 managers captained him, and every one of them scored just 4 points for the armband. Hishaan's Barry gamble is still paying off, with 32 captain points that lifted him from 14th to 9th, and nobody else in the league owns him. Dominic's 75 was the week's best, and Saurabh's Isak captain, scoring 16, kept him in the Tin Pot climb.",
+   "ts": "2026-11-12T00:03:14Z",
    "gw": 10
   },
   "history": [
+   "GW10 between: Ayodele holds the summit as Haaland's blank hangs over 21 armbands. Ayodele leads on 700 after a 61-point week, 8 clear of Cherag, who fell from top to 2nd after Rayan returned only 4 as captain. The biggest story is the Haaland armband bloc: 21 managers captained him, and every one of them scored just 4 points for the armband. Hishaan's Barry gamble is still paying off, with 32 captain points that lifted him from 14th to 9th, and nobody else in the league owns him. Dominic's 75 was the week's best, and Saurabh's Isak captain, scoring 16, kept him in the Tin Pot climb.",
    "GW10 live: Hishaan's Barry armband turns the table upside down. Hishaan is the live story: Barry has 32 captain points, and nobody else in the league owns him, which has lifted Hishaan to 7th on 610 points. Cherag still leads Ayodele, 664 to 656, but Rayan's fixture is still to come while Haaland has only 2 points so far. Dominic's 36 gameweek points are the other eye-catcher, and Isaiah has slipped to 26th on 533 points.",
    "GW10 live: Haaland's kick-off decides who owns the top. Cherag leads Ayodele by 10 points, 663 to 653, and the summit now turns on Rayan against Haaland. Haaland has 0 points so far, yet 21 managers captained him, Ayodele included, and his match is 0.2 hours away. Hishaan's Barry armband has already done the heavy lifting, with 32 captain points, and Hishaan has climbed to 7th. Dominic's 34 gameweek points are the other eye-catcher, while Isaiah has slipped to 26th on 529 points.",
-   "GW10 live: Barry's armband drags Hishaan up as Haaland stays silent. Hishaan is the live story: Barry has 32 captain points, and nobody else in the league owns him, so Hishaan has climbed from 14th to 7th. Cherag still leads Ayodele by 10 points, but the top spot now turns on Rayan against Haaland. Haaland has 0 points so far, yet 21 managers are waiting on him, Ayodele included. Dominic's 34 gameweek points are the other eye-catcher, while Isaiah sits 26th on 529 points.",
-   "GW10 live: Hishaan's Barry armband lifts the mid-table. Hishaan is the live story: Barry has 32 captain points, and nobody else in the league owns him, so Hishaan has climbed from 14th to 6th. Cherag still leads Ayodele, 646 to 641, and the top spot turns on Rayan against Haaland. Haaland has 0 points so far, yet 21 managers are waiting on him, Ayodele included. Dominic's 22 gameweek points are the other eye-catcher, while Isaiah slips to 25th."
+   "GW10 live: Barry's armband drags Hishaan up as Haaland stays silent. Hishaan is the live story: Barry has 32 captain points, and nobody else in the league owns him, so Hishaan has climbed from 14th to 7th. Cherag still leads Ayodele by 10 points, but the top spot now turns on Rayan against Haaland. Haaland has 0 points so far, yet 21 managers are waiting on him, Ayodele included. Dominic's 34 gameweek points are the other eye-catcher, while Isaiah sits 26th on 529 points."
   ],
-  "ts": "2026-11-11T00:18:52Z",
+  "ts": "2026-11-12T00:03:14Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -5415,40 +5415,34 @@
    }
   ],
   "group": {
-   "text": "*Haaland's armband is still costing you*\nAyodele leads on 700, but 21 of you got only 4 points from Haaland.\nHishaan's Barry hauled 32 and climbed to 9th, while Dominic's 75 won the week.\nWho's brave enough to switch for gameweek 11?",
-   "ts": "2026-11-11T00:18:52Z",
+   "text": "*Haaland blanks, Barry bites back*\nAyodele still tops it on 700, 8 clear of Cherag after Rayan only managed 4 as captain.\nHishaan's Barry armband hauled 32 and nobody else owns him, so Hishaan jumps to 9th.\nDominic's 75 was the week's best. Good luck, the other 20 Haaland captains.",
+   "ts": "2026-11-12T00:03:14Z",
    "gw": 10
   },
   "briefings": {
-   "3219276": "You are 2nd on 692, 8 behind Ayodele, after a 51-point week. Your Rayan armband returned just 2 points, so the top spot now depends on a better captain pick.",
-   "1092588": "You sit top on 700 after a 61-point week, 8 clear of Cherag. Cherag's Rayan is the threat, and your 17 bench points are worth a look before gameweek 11.",
+   "3219276": "You slipped from 1st to 2nd after Rayan returned 4 as captain. Ayodele is 8 points ahead, so your Rayan armband needs to pay off in Gameweek 11.",
    "3323262": "You are 3rd on 671 after a 60-point week, 29 behind the leader. Cherag is 21 clear, so your focus is on closing that gap while keeping Haaland in check.",
-   "573491": "You are 4th on 670 after a 67-point week, 30 behind the leader. Sid is just 1 point ahead, so keep an eye on him as the chase tightens.",
-   "1541394": "You are 5th on 663 after a 65-point week, 37 behind the leader. Tonna is only 5 below, so a strong gameweek 11 could keep you clear.",
+   "573491": "You hold 4th on 670 after a 67-point week and sit just 1 point behind Sid. Your Silva signing and chips are your route up, so consider when to play your remaining chips.",
    "7471754": "You are 6th on 658 after a 70-point week, 42 behind the leader. Edd is 8 below, and your Vuskovic and B.Fernandes picks suggest a push for the top half.",
-   "5489583": "You are 8th on 644 after a 57-point week. Edd is 6 ahead and Bhavik 10 behind, so the middle of the table is tight.",
-   "4125292": "You are 9th on 634 after a 51-point week, level with Hishaan. Omar is 10 above, so watch the gap and the Haaland armband.",
+   "5489583": "You dropped to 8th on 644 despite a 57-point week, and Edd is 6 points ahead. Bhavik is 10 points behind you, so the mid-table race is tight.",
+   "4125292": "You're 9th on 634, level with Hishaan, and a 51-point week kept you there. Omar is 10 ahead, and Hishaan's Barry differential is the threat to watch.",
    "1378937": "You are 7th on 650 after a 67-point week. Omar is 6 below, so protect that gap and watch the Haaland captaincy.",
-   "4922092": "You are 13th on 629 after a 47-point week, slipping from 10th. Ahmad is 1 above and Raushan is 3 below, so a bounce back is needed.",
-   "363548": "You are 12th on 630 after a 50-point week. Simon is 1 above and Ravi is 1 below, so this is a tight pack to fight in.",
-   "3359227": "You are 14th on 626 after a 59-point week. Evanilson's 9 points as captain gave you 18, so the armband paid off for once.",
-   "962024": "You are 11th on 631 after a 64-point week. Hishaan is 3 above, and Ahmad is just 1 below, so a sharp gameweek could move you up.",
-   "3506595": "You are 9th on 634 after a 74-point week, a strong climb from 14th. Barry's 32 captain points were the key, so keep backing the differential.",
-   "7273369": "You are 15th on 619 after a 61-point week. Raushan is 7 above and Naishadh is 4 below, so keep pushing.",
-   "1457736": "You are 16th on 615 after a 60-point week. Will is 4 above, and Dominic is 3 below, so the chasing pack is close.",
-   "6341709": "You are 20th on 603 after a 52-point week, down from 17th. Maanav is 2 above, so a bounce back is needed.",
-   "5873092": "You are 17th on 612 after a 63-point week. Dominic is level, so a strong gameweek 11 could push you up.",
-   "75187": "You are 17th on 612 after a 75-point week, the best of the gameweek. Naishadh is 3 above and Justin is level, so you have momentum.",
-   "6619523": "You are 21st on 600 after a 66-point week. Tomisin is 3 above, and Rogers as captain returned just 2 points, so reconsider the armband.",
-   "3552160": "You are 22nd on 581 after a 48-point week. Lavesh is 19 above, so this is a long chase in a league of ghosts.",
-   "4841175": "You are 19th on 605 after a 74-point week, a big climb from 22nd. Justin is 7 above, so keep the momentum going.",
-   "1474501": "You are 24th on 578 after a 61-point week. De Cuyper's 6 points as captain gave you 12, a useful return.",
-   "5028423": "You are 23rd on 579 after a 62-point week. Saurabh is 2 above, and Dinesh is 1 below, so this is a close pack.",
-   "383423": "You are 25th on 574 after a 58-point week. Dinesh is 4 above, and Elvin is 13 below, so hold your ground.",
-   "3375627": "You are 27th on 554 after a 45-point week, slipping from 26th. Elvin is 7 above, and Iain is 33 below, so the Haaland armband needs watching.",
-   "8316989": "You are 26th on 561 after a 63-point week. Tobi is 13 above, so the gap is wide but manageable.",
-   "3591460": "You are 28th on 521 after a 52-point week. IB is 33 above, and Sasha is 77 below, so keep your head down.",
-   "5706920": "You are 29th on 444 after a 30-point week, with Thiago's armband flopping for -4. Iain is 77 ahead, so this is a rough spot to be in."
+   "4922092": "You dropped to 13th on 629 after a 47-point week. Ahmad is only 1 point ahead, so a strong Gameweek 11 would move you up.",
+   "363548": "You sit 12th on 630 after a 50-point week, 1 point ahead of Ravi. Rogers is your only new signing, so monitor his output.",
+   "3359227": "You're 14th on 626 after a 59-point week, with Evanilson as captain bringing 18. Your Evanilson armband paid off, but Will is only 7 points behind you.",
+   "962024": "You're 11th on 631 after a 64-point week. Hishaan is 3 points ahead, and Isak's captain gamble didn't land, so watch your Isak signing.",
+   "3506595": "Your Barry armband returned 32, lifting you from 14th to 9th on 634 with a 74-point week. Nobody else owns Barry, so this gamble has paid off handsomely.",
+   "1457736": "You're 16th on 615 after a 60-point week, with no transfers this week. Dominic is only 3 points behind, so watch out for the mid-table squeeze.",
+   "6341709": "You're 20th on 603, only 2 points behind Maanav. Lavesh is 3 points behind, so the mid-table race is close.",
+   "5873092": "You're 17th on 612 after a 63-point week, level with Dominic. Maanav is 7 points behind, and your N.Jackson and Rogers signings are the ones to watch.",
+   "75187": "You won the week with 75 and climbed to 17th on 612. Justin is level with you on points, and your N.Jackson signing is the big reason for your rise.",
+   "6619523": "You're 21st on 600 after a 66-point week, with Rogers as captain returning only 4. Saurabh is 19 points behind, so you have some room.",
+   "3552160": "You're 22nd on 581 after a 48-point week, and Saurabh's Isak armband returned 16. Your Ghost tag is a reminder that you are not counted in crowd stats, so the league is watching.",
+   "383423": "You're 25th on 574 after a 58-point week, and Tobi is 4 points behind Dinesh. Your N.Jackson signing hasn't paid off yet.",
+   "3375627": "You're 27th on 554 after a 45-point week, with your Ayari signing and Maverick style. Elvin is 7 points ahead, and Iain is 33 points behind.",
+   "8316989": "You're 26th on 561 after a 63-point week, with Cherki as captain returning 18. Tobi is 13 points ahead, and Elvin is a ghost in crowd stats.",
+   "3591460": "You're 28th on 521 after a 52-point week, with Haaland as captain returning 4. IB is 33 points ahead, so the bottom half is where you sit.",
+   "5706920": "You're 29th on 444, bottom of the table, after a 30-point week. Thiago's captain blanked on -4, and your ghost status means you're not in crowd stats."
   },
   "storylines": [
    {
@@ -5481,10 +5475,10 @@
   "key": "10:between",
   "usage": {
    "10": {
-    "in": 1698378,
-    "out": 416150,
-    "calls": 135,
-    "refreshes": 24,
+    "in": 1730627,
+    "out": 422000,
+    "calls": 137,
+    "refreshes": 25,
     "desks": 33,
     "desk_in": 803924,
     "desk_out": 261788,
@@ -6575,23 +6569,23 @@
   "plots_v": 7,
   "plots_sig": "b09a97969469",
   "preview": {
-   "headline": "What's at stake for gameweek 11",
+   "headline": "Gameweek 11: Ayodele's lead is under pressure",
    "points": [
     {
      "label": "Title race",
-     "text": "Ayodele leads Cherag by 8 points, with Sid 29 back. Ayodele's 61 this week gives him the cushion, but Cherag's Rayan armband is a gamble."
+     "text": "Ayodele leads Cherag by 8 points, and Cherag's Rayan is the captain who has to bounce back."
     },
     {
      "label": "Armband dilemma",
-     "text": "21 managers are on Haaland again, and he returned just 2 points this week. Anyone who switches could gain ground fast."
+     "text": "21 managers are on Haaland again, so a blank would hurt most of the league at once."
     },
     {
      "label": "Injury sweat",
-     "text": "João Pedro is out with an unknown return date and is owned by 3 managers. Gvardiol and Thomas are doubtful."
+     "text": "João Pedro is ruled out for an unknown return date, and Gvardiol and Thomas are only 75% and 50% to play."
     }
    ],
    "gw": 11,
-   "ts": "2026-11-11T00:18:52Z"
+   "ts": "2026-11-12T00:03:14Z"
   },
   "gaffer_draft": {
    "gw": 10,
@@ -14707,9 +14701,16 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-11T23:31:45Z",
+  "ts": "2026-11-12T00:03:14Z",
   "issues": [],
-  "page": []
+  "page": [
+   "briefing for Ayodele: \"Cherag is the threat, so watch Rayan's bounce-back and your bench, which scored 17 points.\" says Rayan scored 17; he scored 2",
+   "briefing for Nanik: \"You hold 5th on 663 after a 65-point week, 7 ahead of Tonna.\" has a gap of 7; the gaps between Nanik / Tonna are 5",
+   "briefing for Will: \"You're 15th on 619 after a 61-point week, 7 ahead of Naishadh.\" has a gap of 7; the gaps between Naishadh / Will are 4",
+   "briefing for Maanav: \"You climbed to 19th on 605 with a 74-point week, 7 ahead of Tomisin.\" has a gap of 7; the gaps between Maanav / Tomisin are 2",
+   "briefing for Dinesh: \"You sit 24th on 578 after a 61-point week, 1 point ahead of Tobi.\" has a gap of 1; the gaps between Dinesh / Tobi are 4",
+   "briefing for Isaiah: \"You're 23rd on 579 after a 62-point week, 2 ahead of Dinesh.\" has a gap of 2; the gaps between Dinesh / Isaiah are 1"
+  ]
  },
  "pwatch": {
   "seen": {

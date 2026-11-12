@@ -2361,15 +2361,6 @@
     "event_total": 62
    },
    {
-    "entry": 5682768,
-    "player_name": "Vanessa Jethwani",
-    "entry_name": "super squad",
-    "rank": 15,
-    "last_rank": 14,
-    "total": 634,
-    "event_total": 59
-   },
-   {
     "entry": 3506595,
     "player_name": "Hishaan Mahtani",
     "entry_name": "Jacquet Potato",
@@ -2377,6 +2368,15 @@
     "last_rank": 21,
     "total": 634,
     "event_total": 74
+   },
+   {
+    "entry": 5682768,
+    "player_name": "Vanessa Jethwani",
+    "entry_name": "super squad",
+    "rank": 15,
+    "last_rank": 14,
+    "total": 634,
+    "event_total": 59
    },
    {
     "entry": 4922092,
@@ -9397,8 +9397,8 @@
    "5474293": 12,
    "75778": 13,
    "6892917": 14,
-   "5682768": 15,
    "3506595": 15,
+   "5682768": 15,
    "4922092": 17,
    "2465483": 18,
    "2934546": 18,
@@ -9425,8 +9425,8 @@
    "5474293": null,
    "75778": null,
    "6892917": null,
-   "5682768": null,
    "3506595": null,
+   "5682768": null,
    "4922092": null,
    "2465483": null,
    "2934546": null,
@@ -9439,44 +9439,44 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-11T23:32:52Z",
+ "updated": "2026-11-12T00:05:02Z",
  "ai": {
   "briefings": {
-   "2321301": "You lead on 723 and sit 1 point ahead of Matt, who is a live threat after his 96-point Bench Boost. Watch your Calafiori captaincy and keep an eye on Matt's momentum in the gameweek 11 preview.",
-   "3029346": "You're 1 point behind Nikhil after your 96-point Bench Boost, the biggest move of the week. Matt's chance is to go top; watch Haaland and your Bench Boost leftovers in gameweek 11.",
-   "735721": "You sit 3rd, 14 points behind Matt, and your Haaland captaincy returned only 4. Your bench was a bit wasteful at 17 points, so tighten up your starting XI before the deadline.",
-   "2687116": "You're 5th on 696, with Isak's 16 armband points a bright spot. Keep an eye on Ravin ahead and Rohan behind as the mid-table squeeze tightens.",
-   "3344797": "You're 6th on 674, with Haaland's 2 armband dud dragging your score. Watch Chandru ahead and Prem behind as you look to climb back up.",
-   "1655993": "You're 8th on 667, with Haaland's dud captain hurting your score. Watch Prem ahead and Amit behind as the chasing pack closes in.",
+   "2321301": "You lead the table on 723 with a 73-point gameweek, but Matt is only 1 point behind and his Bench Boost shows he can swing things. Watch Barcola and Calafiori, and keep an eye on your Freehit chip.",
+   "3029346": "You're 2nd on 722 after a 96-point Bench Boost, just 1 point off Nikhil at the top. Your Freehit chip is still in reserve, and Haaland's 4 captain points were a letdown, so think carefully about your next armband.",
+   "735721": "You're 3rd on 708, 14 points behind Matt and 15 off the lead. Your bench scored 17, so your Barry signing could pay off, and your Freehit chip is still available to make a push.",
+   "2687116": "You're 5th on 696 after Isak's 16-point captaincy haul, though Isak is also owned by Inesh. Your Gomez and Isak buys are working, so keep an eye on Ravin, who is only 11 points ahead of you.",
+   "3344797": "You're 6th on 674, quietly steady with 51 points and no transfers this week. Your Wildcard and Freehit are both still available, so the next gameweek is a chance to make a bold move.",
+   "1655993": "You're 8th on 667 after Haaland's 4 captain points, with Rice a fresh signing. Your only chip left is Bench Boost, so decide carefully when to deploy it.",
    "1036311": "You're 9th on 658, with Haaland's dud captain dragging your score. Keep an eye on Sunny ahead and Sunil behind as the chase tightens.",
-   "3072827": "You're 10th on 654, with Evanilson's armband worth 18 giving you a fine haul. Watch Amit ahead and Aashiv behind as the mid-table scrap continues.",
+   "3072827": "You're 10th on 654 after Evanilson's 18-point captaincy haul. With Van Hecke freshly bought, you have Bench Boost and Freehit available to stay in the hunt.",
    "3350483": "You're 11th on 653, with Haaland's dud captain costing you. Sunil and Sahil are close, so keep an eye on both next gameweek.",
-   "75778": "You've climbed to 13th on 647 with a 74-point gameweek. Sahil is 5 points ahead, so push on and watch Poonam behind you.",
-   "6892917": "You're 14th on 636, with Evanilson's armband worth 18 giving you a strong week. Watch Marcel ahead and Hishaan behind as you chase upwards.",
-   "3506595": "You're 15th on 634 after a 74-point gameweek, with Barry's armband worth 32 a standout. Poonam is 2 points ahead, so keep pressing.",
-   "5682768": "You're 15th on 634, with Haaland's dud captain costing you. Hishaan is level and Ravi Mahtani is 5 behind, so watch both next gameweek.",
-   "4922092": "You're 17th on 629, with Haaland's dud captain dragging your gameweek. Vanessa is 5 ahead and Inesh is 1 behind, so keep an eye on both.",
-   "2465483": "You're 18th on 628, with Isak's armband worth 16 giving you a solid score. Ravi Mahtani is 1 ahead and Naresh level, so watch both closely.",
-   "6279027": "You're 20th on 619, with N.Jackson's captaincy worth 22 a strong week. Naresh is 9 ahead and Lakshay 1 behind, so push on.",
-   "865376": "You're 21st on 618, with Palmer's dud captain costing you. Pishu is 1 ahead and Rajiv 5 behind, so keep an eye on both.",
-   "7043406": "You're 22nd on 613, with Konsa's armband worth 16 and a 26-point bench still a drag. Lakshay is 5 ahead and Vinesh 1 behind, so watch both.",
-   "6159011": "You're 23rd on 612, with Haaland's dud captain holding back your score. Watch Rajiv ahead and Ravi Bhojwani behind as you look to climb.",
-   "3314780": "You're 24th on 600 after a 64-point gameweek, with Haaland's dud captain holding you back. Vinesh is 12 ahead and Alia 16 behind, so keep an eye on both.",
+   "75778": "You're 13th on 647 after a 74-point gameweek with Silva and Isak signed. Your chips are all spent, so the next gameweek will rely on your squad alone.",
+   "6892917": "You're 14th on 636 with 62 points and Evanilson as captain, earning 18 points. Your 3xc and Freehit chips are still available, so think about using them to climb.",
+   "3506595": "You're 15th on 634 after Barry's 32-point captaincy haul, the best captain score of the week. Your Bench Boost, Wildcard and Freehit chips are all still available.",
+   "5682768": "You're 15th on 634 with 59 points and Haaland as captain. Your Bench Boost, Wildcard and Freehit are all available, so you have plenty of options to climb.",
+   "4922092": "You've dropped to 17th on 629 after a 47-point gameweek. Rice is a fresh signing, and your 3xc and Wildcard chips are still available to help you recover.",
+   "2465483": "You're 18th on 628 with a 63-point gameweek and Isak's 16-point captaincy haul. Isak is also owned by Chandru, so keep an eye on that rivalry.",
+   "6279027": "You're 20th on 619 after N.Jackson's 22-point captaincy haul, one of the week's best. Your De Cuyper signing could pay off, and your Bench Boost and Freehit are still available.",
+   "865376": "You're 21st on 618 with 57 points and Palmer as captain, earning only 4 points. Your Rayan, Raya and Barry signings are fresh, and your 3xc, Bench Boost and Freehit remain available.",
+   "7043406": "You're 22nd on 613 with 65 points, but a 4-point hit took some of the shine off. Konsa's 16-point captaincy haul was a big boost, and your Freehit chip is still available to help you climb.",
+   "6159011": "You're 23rd on 612 after a 55-point gameweek with Haaland as captain. Your Manzambi signing is new, and your 3xc and Bench Boost are still in reserve.",
+   "3314780": "You're 24th on 600 after a 64-point Bench Boost gameweek. Rogers is a fresh signing, and your 3xc, Wildcard and Freehit chips are still available.",
    "6051923": "You're 25th on 584, with Haaland's dud captain holding you back. Ravi Bhojwani is 16 ahead and Bella 24 behind, so keep an eye on both.",
-   "1921902": "You've tumbled from 1st to 4th after Rogers returned just 2, costing you your place. Gameweek 11 is your chance to bounce back, so watch your captain pick closely.",
-   "4487775": "You're 7th on 669, with Calafiori's 12 captain return helping your gameweek. Keep an eye on Rohan ahead and Sunny behind next time out.",
+   "1921902": "You've dropped from 1st to 4th after Rogers returned only 2 as captain. Konsa and N.Jackson are your fresh buys, so watch them closely and consider using your Bench Boost or Wildcard soon.",
+   "4487775": "You're 7th on 669 with a 67-point gameweek and Calafiori's 12 captain points. Your chip set is fully loaded, so you have room to make a big play before the deadline.",
    "5474293": "You're 12th on 652, with Haaland's dud captain holding you back. Aashiv and Marcel are close, so watch both as the mid-table race heats up.",
-   "2934546": "You're 18th on 628, with Haaland's dud captain holding you back. Inesh is level and Pishu is 9 behind, so keep an eye on both.",
-   "6476662": "You're 26th and bottom on 560, with Haaland's dud captain costing you. Alia is 24 ahead, so there's a long road back."
+   "2934546": "You're 18th on 628 after a 64-point gameweek, with Isak and Groß as new signings. Your full chip set is still available, so you have every option open.",
+   "6476662": "You're 26th on 560 after a 55-point gameweek with Haaland as captain. You've yet to play any chips this season, so the next gameweek is a good time to start making bold moves."
   },
   "key": "10:between",
-  "ts": "2026-11-11T00:20:37Z",
+  "ts": "2026-11-12T00:05:02Z",
   "usage": {
    "10": {
-    "in": 1211083,
-    "out": 307470,
-    "calls": 108,
-    "refreshes": 15,
+    "in": 1239644,
+    "out": 312597,
+    "calls": 110,
+    "refreshes": 16,
     "desks": 30,
     "desk_in": 715822,
     "desk_out": 234527,
@@ -10508,8 +10508,8 @@
   "plots_v": 7,
   "plots_sig": "427e172f7adf",
   "group": {
-   "text": "*Summit squeeze*\nNikhil clings on by 1 point as Matt's 96-point Bench Boost drags him right up.\nRavin's Rogers and Lakshay's Palmer both managed just 2, while Pishu's N.Jackson captaincy hauled 22.",
-   "ts": "2026-11-11T00:20:37Z",
+   "text": "*Summit squeeze: Matt's Bench Boost has Nikhil looking nervous*\nMatt's 96-point haul leaves him just 1 point behind Nikhil at the top.\nRavin's Rogers and Lakshay's Palmer both returned 2, while Pishu's N.Jackson captaincy hauled 22.",
+   "ts": "2026-11-12T00:05:02Z",
    "gw": 10
   },
   "storylines": [
@@ -11164,23 +11164,27 @@
    ]
   },
   "preview": {
-   "headline": "What's at stake: Nikhil and Matt go head to head",
+   "headline": "Gameweek 11: Summit squeeze and armband gambles",
    "points": [
     {
      "label": "Title race",
-     "text": "Nikhil leads Matt by 1 point, with Deepak 14 further back. Gameweek 11 could settle the top spot."
+     "text": "Nikhil leads Matt by just 1 point at the top, and Matt's Bench Boost has shown he can swing the table in one week."
     },
     {
      "label": "Armband dilemma",
-     "text": "Haaland has been captained by 15 managers but only scored 2, so 4 for each captain. Everyone needs a better pick."
+     "text": "Ravin's Rogers and Lakshay's Palmer both flopped with 2, so both managers will be rethinking their captain choices."
     },
     {
      "label": "Injury sweat",
-     "text": "Gvardiol, Belloumi and Thomas are doubtful, with Gvardiol owned by 9 managers."
+     "text": "Gvardiol, Belloumi and Thomas are doubtful, and 9 managers own Gvardiol, so expect some late team news checks."
+    },
+    {
+     "label": "Chips loaded",
+     "text": "Marcel has no chips left, while Nikhil, Matt and Ravi Bhojwani still have their chip sets to play with."
     }
    ],
    "gw": 11,
-   "ts": "2026-11-11T00:20:37Z"
+   "ts": "2026-11-12T00:05:02Z"
   }
  },
  "plot_log": {
@@ -12186,7 +12190,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-11T23:32:52Z",
+  "ts": "2026-11-12T00:05:02Z",
   "issues": [],
   "page": []
  },
