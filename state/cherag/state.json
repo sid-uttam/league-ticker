@@ -10179,15 +10179,6 @@
     "event_total": 54
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 48,
-    "last_rank": 60,
-    "total": 648,
-    "event_total": 74
-   },
-   {
     "entry": 10821,
     "player_name": "Ram Narayan",
     "entry_name": "FPL Neutral",
@@ -10195,6 +10186,15 @@
     "last_rank": 49,
     "total": 648,
     "event_total": 63
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 48,
+    "last_rank": 60,
+    "total": 648,
+    "event_total": 74
    },
    {
     "entry": 3239284,
@@ -10395,15 +10395,6 @@
     "event_total": 53
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
-    "rank": 72,
-    "last_rank": 73,
-    "total": 626,
-    "event_total": 65
-   },
-   {
     "entry": 10615,
     "player_name": "Maanas Gupta",
     "entry_name": "Infinity Inc",
@@ -10411,6 +10402,15 @@
     "last_rank": 67,
     "total": 626,
     "event_total": 55
+   },
+   {
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
+    "rank": 72,
+    "last_rank": 73,
+    "total": 626,
+    "event_total": 65
    },
    {
     "entry": 3404613,
@@ -55113,8 +55113,8 @@
    "5640988": 45,
    "3566356": 45,
    "2868149": 45,
-   "4683090": 48,
    "10821": 48,
+   "4683090": 48,
    "3239284": 48,
    "248721": 51,
    "48343": 52,
@@ -55137,8 +55137,8 @@
    "4314690": 69,
    "2922453": 70,
    "3086063": 70,
-   "4592187": 72,
    "10615": 72,
+   "4592187": 72,
    "3404613": 74,
    "1737924": 75,
    "6830291": 76,
@@ -55228,8 +55228,8 @@
    "5640988": null,
    "3566356": null,
    "2868149": null,
-   "4683090": null,
    "10821": null,
+   "4683090": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -55252,8 +55252,8 @@
    "4314690": null,
    "2922453": null,
    "3086063": null,
-   "4592187": null,
    "10615": null,
+   "4592187": null,
    "3404613": null,
    "1737924": null,
    "6830291": null,
@@ -55296,7 +55296,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-12T01:07:36Z",
+ "updated": "2026-11-12T01:39:07Z",
  "ai": {
   "briefings": {
    "5949580": "You remain top on 734 after a 70-point week, 18 clear of Neol. Neol is the main threat, so watch whether you back Haaland again or follow the rebels.",
@@ -58607,7 +58607,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-12T01:07:36Z",
+  "ts": "2026-11-12T01:39:07Z",
   "issues": [],
   "page": []
  },
