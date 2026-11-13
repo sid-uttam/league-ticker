@@ -2856,8 +2856,8 @@
    "7471754": 6,
    "1378937": 7,
    "5489583": 8,
-   "4125292": 9,
    "3506595": 9,
+   "4125292": 9,
    "962024": 11,
    "363548": 12,
    "4922092": 13,
@@ -2887,8 +2887,8 @@
    "7471754": "silver",
    "1378937": "silver",
    "5489583": "silver",
-   "4125292": null,
    "3506595": null,
+   "4125292": null,
    "962024": null,
    "363548": null,
    "4922092": null,
@@ -2910,7 +2910,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-13T21:47:10Z",
+ "updated": "2026-11-13T22:17:54Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -7561,15 +7561,6 @@
     "event_total": 57
    },
    {
-    "entry": 4125292,
-    "player_name": "Bhavik Desai",
-    "entry_name": "Shawshank Relegation",
-    "rank": 9,
-    "last_rank": 9,
-    "total": 634,
-    "event_total": 51
-   },
-   {
     "entry": 3506595,
     "player_name": "Hishaan Mahtani",
     "entry_name": "Jacquet Potato",
@@ -7577,6 +7568,15 @@
     "last_rank": 14,
     "total": 634,
     "event_total": 74
+   },
+   {
+    "entry": 4125292,
+    "player_name": "Bhavik Desai",
+    "entry_name": "Shawshank Relegation",
+    "rank": 9,
+    "last_rank": 9,
+    "total": 634,
+    "event_total": 51
    },
    {
     "entry": 962024,
@@ -14696,7 +14696,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-13T21:47:10Z",
+  "ts": "2026-11-13T22:17:54Z",
   "issues": [],
   "page": []
  },
