@@ -9936,15 +9936,6 @@
     "event_total": 62
    },
    {
-    "entry": 107315,
-    "player_name": "Sahej Jhamvar",
-    "entry_name": "sage",
-    "rank": 21,
-    "last_rank": 21,
-    "total": 672,
-    "event_total": 65
-   },
-   {
     "entry": 780469,
     "player_name": "Sahil Thorve",
     "entry_name": "NotAnIsakScience",
@@ -9952,6 +9943,15 @@
     "last_rank": 42,
     "total": 672,
     "event_total": 82
+   },
+   {
+    "entry": 107315,
+    "player_name": "Sahej Jhamvar",
+    "entry_name": "sage",
+    "rank": 21,
+    "last_rank": 21,
+    "total": 672,
+    "event_total": 65
    },
    {
     "entry": 1662734,
@@ -10152,6 +10152,15 @@
     "event_total": 77
    },
    {
+    "entry": 2868149,
+    "player_name": "Akash Singh",
+    "entry_name": "The Gerrardians",
+    "rank": 45,
+    "last_rank": 37,
+    "total": 649,
+    "event_total": 54
+   },
+   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10170,13 +10179,13 @@
     "event_total": 55
    },
    {
-    "entry": 2868149,
-    "player_name": "Akash Singh",
-    "entry_name": "The Gerrardians",
-    "rank": 45,
-    "last_rank": 37,
-    "total": 649,
-    "event_total": 54
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 48,
+    "last_rank": 60,
+    "total": 648,
+    "event_total": 74
    },
    {
     "entry": 10821,
@@ -10186,15 +10195,6 @@
     "last_rank": 49,
     "total": 648,
     "event_total": 63
-   },
-   {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 48,
-    "last_rank": 60,
-    "total": 648,
-    "event_total": 74
    },
    {
     "entry": 3239284,
@@ -10395,15 +10395,6 @@
     "event_total": 53
    },
    {
-    "entry": 10615,
-    "player_name": "Maanas Gupta",
-    "entry_name": "Infinity Inc",
-    "rank": 72,
-    "last_rank": 67,
-    "total": 626,
-    "event_total": 55
-   },
-   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
@@ -10411,6 +10402,15 @@
     "last_rank": 73,
     "total": 626,
     "event_total": 65
+   },
+   {
+    "entry": 10615,
+    "player_name": "Maanas Gupta",
+    "entry_name": "Infinity Inc",
+    "rank": 72,
+    "last_rank": 67,
+    "total": 626,
+    "event_total": 55
    },
    {
     "entry": 3404613,
@@ -57336,8 +57336,8 @@
    "1305406": 18,
    "2554077": 19,
    "5685525": 20,
-   "107315": 21,
    "780469": 21,
+   "107315": 21,
    "1662734": 23,
    "3323262": 24,
    "3234577": 25,
@@ -57360,11 +57360,11 @@
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
+   "2868149": 45,
    "5640988": 45,
    "3566356": 45,
-   "2868149": 45,
-   "10821": 48,
    "4683090": 48,
+   "10821": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
@@ -57387,8 +57387,8 @@
    "4314690": 69,
    "2922453": 70,
    "3086063": 71,
-   "10615": 72,
    "4592187": 72,
+   "10615": 72,
    "3404613": 74,
    "1737924": 75,
    "6830291": 76,
@@ -57451,8 +57451,8 @@
    "1305406": "silver",
    "2554077": "silver",
    "5685525": "silver",
-   "107315": "silver",
    "780469": "silver",
+   "107315": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "3234577": "silver",
@@ -57475,11 +57475,11 @@
    "263779": null,
    "4558790": null,
    "4134138": null,
+   "2868149": null,
    "5640988": null,
    "3566356": null,
-   "2868149": null,
-   "10821": null,
    "4683090": null,
+   "10821": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -57502,8 +57502,8 @@
    "4314690": null,
    "2922453": null,
    "3086063": null,
-   "10615": null,
    "4592187": null,
+   "10615": null,
    "3404613": null,
    "1737924": null,
    "6830291": null,
@@ -57546,7 +57546,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-13T10:29:31Z",
+ "updated": "2026-11-13T11:00:14Z",
  "ai": {
   "briefings": {
    "5949580": "You sit top on 734 after a 70-point week and Haaland's blank barely dented you. Neol is 18 behind and will be pushing hard, so watch your Free Hit choice.",
@@ -63278,7 +63278,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-13T10:29:31Z",
+  "ts": "2026-11-13T11:00:14Z",
   "issues": [],
   "page": []
  },
