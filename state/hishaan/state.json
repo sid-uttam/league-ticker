@@ -2361,15 +2361,6 @@
     "event_total": 62
    },
    {
-    "entry": 5682768,
-    "player_name": "Vanessa Jethwani",
-    "entry_name": "super squad",
-    "rank": 15,
-    "last_rank": 14,
-    "total": 634,
-    "event_total": 59
-   },
-   {
     "entry": 3506595,
     "player_name": "Hishaan Mahtani",
     "entry_name": "Jacquet Potato",
@@ -2377,6 +2368,15 @@
     "last_rank": 21,
     "total": 634,
     "event_total": 74
+   },
+   {
+    "entry": 5682768,
+    "player_name": "Vanessa Jethwani",
+    "entry_name": "super squad",
+    "rank": 15,
+    "last_rank": 14,
+    "total": 634,
+    "event_total": 59
    },
    {
     "entry": 4922092,
@@ -9416,8 +9416,8 @@
    "5474293": 12,
    "75778": 13,
    "6892917": 14,
-   "5682768": 15,
    "3506595": 15,
+   "5682768": 15,
    "4922092": 17,
    "2465483": 18,
    "2934546": 19,
@@ -9444,8 +9444,8 @@
    "5474293": null,
    "75778": null,
    "6892917": null,
-   "5682768": null,
    "3506595": null,
+   "5682768": null,
    "4922092": null,
    "2465483": null,
    "2934546": null,
@@ -9458,7 +9458,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-13T16:08:31Z",
+ "updated": "2026-11-13T16:39:12Z",
  "ai": {
   "briefings": {
    "2321301": "You lead the table on 723, but Matt is only 1 point behind after his 96-point Bench Boost. Watch Barcola and your Free Hit, the one chip left, as the summit is up for grabs.",
@@ -12213,7 +12213,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-13T16:08:31Z",
+  "ts": "2026-11-13T16:39:12Z",
   "issues": [],
   "page": []
  },
