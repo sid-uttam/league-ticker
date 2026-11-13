@@ -9783,15 +9783,6 @@
     "event_total": 73
    },
    {
-    "entry": 1325491,
-    "player_name": "akshat awasthi",
-    "entry_name": "Nirvana11",
-    "rank": 4,
-    "last_rank": 7,
-    "total": 702,
-    "event_total": 72
-   },
-   {
     "entry": 13978,
     "player_name": "Yash Bhatia",
     "entry_name": "YB",
@@ -9799,6 +9790,15 @@
     "last_rank": 3,
     "total": 702,
     "event_total": 56
+   },
+   {
+    "entry": 1325491,
+    "player_name": "akshat awasthi",
+    "entry_name": "Nirvana11",
+    "rank": 4,
+    "last_rank": 7,
+    "total": 702,
+    "event_total": 72
    },
    {
     "entry": 3991082,
@@ -10152,15 +10152,6 @@
     "event_total": 77
    },
    {
-    "entry": 2868149,
-    "player_name": "Akash Singh",
-    "entry_name": "The Gerrardians",
-    "rank": 45,
-    "last_rank": 37,
-    "total": 649,
-    "event_total": 54
-   },
-   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10177,6 +10168,15 @@
     "last_rank": 38,
     "total": 649,
     "event_total": 55
+   },
+   {
+    "entry": 2868149,
+    "player_name": "Akash Singh",
+    "entry_name": "The Gerrardians",
+    "rank": 45,
+    "last_rank": 37,
+    "total": 649,
+    "event_total": 54
    },
    {
     "entry": 10821,
@@ -10548,15 +10548,6 @@
     "event_total": 69
    },
    {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 89,
-    "last_rank": 80,
-    "total": 604,
-    "event_total": 50
-   },
-   {
     "entry": 2037953,
     "player_name": "Umang Khurana",
     "entry_name": "XI Marauders",
@@ -10564,6 +10555,15 @@
     "last_rank": 96,
     "total": 604,
     "event_total": 69
+   },
+   {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 89,
+    "last_rank": 80,
+    "total": 604,
+    "event_total": 50
    },
    {
     "entry": 686561,
@@ -57319,8 +57319,8 @@
    "5949580": 1,
    "305234": 2,
    "136653": 3,
-   "1325491": 4,
    "13978": 4,
+   "1325491": 4,
    "3991082": 6,
    "4722308": 7,
    "2429776": 8,
@@ -57360,9 +57360,9 @@
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
-   "2868149": 45,
    "5640988": 45,
    "3566356": 45,
+   "2868149": 45,
    "10821": 48,
    "4683090": 48,
    "3239284": 50,
@@ -57404,8 +57404,8 @@
    "11673": 86,
    "3389995": 87,
    "4905114": 87,
-   "2723973": 89,
    "2037953": 89,
+   "2723973": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 93,
@@ -57434,8 +57434,8 @@
    "5949580": "gold",
    "305234": "gold",
    "136653": "gold",
-   "1325491": "gold",
    "13978": "gold",
+   "1325491": "gold",
    "3991082": "gold",
    "4722308": "gold",
    "2429776": "gold",
@@ -57475,9 +57475,9 @@
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "2868149": null,
    "5640988": null,
    "3566356": null,
+   "2868149": null,
    "10821": null,
    "4683090": null,
    "3239284": null,
@@ -57519,8 +57519,8 @@
    "11673": null,
    "3389995": null,
    "4905114": null,
-   "2723973": null,
    "2037953": null,
+   "2723973": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -57546,7 +57546,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-13T20:46:01Z",
+ "updated": "2026-11-13T21:16:45Z",
  "ai": {
   "briefings": {
    "5949580": "You sit top on 734 after a 70-point week and Haaland's blank barely dented you. Neol is 18 behind and will be pushing hard, so watch your Free Hit choice.",
@@ -63278,7 +63278,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-13T20:46:01Z",
+  "ts": "2026-11-13T21:16:45Z",
   "issues": [],
   "page": []
  },
