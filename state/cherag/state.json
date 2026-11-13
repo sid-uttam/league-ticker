@@ -10152,15 +10152,6 @@
     "event_total": 77
    },
    {
-    "entry": 2868149,
-    "player_name": "Akash Singh",
-    "entry_name": "The Gerrardians",
-    "rank": 45,
-    "last_rank": 37,
-    "total": 649,
-    "event_total": 54
-   },
-   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10179,13 +10170,13 @@
     "event_total": 55
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 48,
-    "last_rank": 49,
-    "total": 648,
-    "event_total": 63
+    "entry": 2868149,
+    "player_name": "Akash Singh",
+    "entry_name": "The Gerrardians",
+    "rank": 45,
+    "last_rank": 37,
+    "total": 649,
+    "event_total": 54
    },
    {
     "entry": 4683090,
@@ -10195,6 +10186,15 @@
     "last_rank": 60,
     "total": 648,
     "event_total": 74
+   },
+   {
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 48,
+    "last_rank": 49,
+    "total": 648,
+    "event_total": 63
    },
    {
     "entry": 3239284,
@@ -57360,11 +57360,11 @@
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
-   "2868149": 45,
    "5640988": 45,
    "3566356": 45,
-   "10821": 48,
+   "2868149": 45,
    "4683090": 48,
+   "10821": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
@@ -57475,11 +57475,11 @@
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "2868149": null,
    "5640988": null,
    "3566356": null,
-   "10821": null,
+   "2868149": null,
    "4683090": null,
+   "10821": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -57546,7 +57546,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-13T17:10:53Z",
+ "updated": "2026-11-13T17:41:37Z",
  "ai": {
   "briefings": {
    "5949580": "You sit top on 734 after a 70-point week and Haaland's blank barely dented you. Neol is 18 behind and will be pushing hard, so watch your Free Hit choice.",
@@ -63278,7 +63278,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-13T17:10:53Z",
+  "ts": "2026-11-13T17:41:37Z",
   "issues": [],
   "page": []
  },
