@@ -111,11 +111,18 @@ h2{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font
 .tile h3{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;font-size:28px;line-height:1}
 .tile p{margin-top:8px;font-size:15px;line-height:1.45}
 .tile.plan{background:#EAF0FB;color:#14306E}
-.opts{margin-top:14px;display:flex;flex-direction:column;gap:8px}
-.o{display:flex;align-items:center;justify-content:space-between;background:#fff;border-radius:12px;padding:10px 12px;font-size:14.5px;font-weight:600;color:var(--ink)}
-.o small{font-weight:500;color:var(--muted);font-size:12.5px}
-.o.on{box-shadow:inset 0 0 0 2px var(--blue)}
-.o .star{font-size:10.5px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;background:var(--gold);border-radius:999px;padding:3px 8px;margin-left:8px;white-space:nowrap}
+.pcard{margin-top:14px;background:#fff;border-radius:14px;overflow:hidden;color:var(--ink)}
+.ps{background:#14306E;color:#fff;font-size:14px;padding:10px 12px}
+.ps b{color:var(--gold)}
+.pwhy{font-size:12.5px;color:var(--muted);padding:8px 12px;border-bottom:1px solid #ECE8DE}
+.o{padding:11px 12px;border-bottom:1px solid #ECE8DE}
+.o:last-child{border-bottom:0}
+.o.on{background:#FFFBEA;box-shadow:inset 3px 0 0 var(--gold)}
+.oh{display:flex;align-items:center;justify-content:space-between;gap:8px;font-size:14.5px}
+.o .star{font-size:10.5px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;background:var(--gold);border-radius:999px;padding:3px 8px;white-space:nowrap}
+.mv{margin-top:4px;font-size:15px;font-weight:600}
+.mv .out{color:var(--red)}.mv .in{color:var(--green)}
+.o small{display:block;margin-top:3px;font-size:13px;line-height:1.4;color:var(--muted)}
 .tile.aw{background:var(--gold);color:var(--ink)}
 .awards{margin-top:14px;display:flex;flex-wrap:wrap;gap:8px}
 .awards span{display:inline-flex;align-items:center;gap:7px;background:#fff;border-radius:999px;padding:7px 12px 7px 9px;font-size:13.5px;font-weight:700}
@@ -186,7 +193,7 @@ footer a{color:rgba(255,255,255,.8)}
           <div class="ft">FT</div>
           <div class="gf-np"><div class="t">The Gaffer's</div><div class="s">GAMEWEEK</div><div class="k">GW11 · final scores</div></div>
         </div>
-        <div class="gf-hl">Tom's lone captain pays off as Priya's bench costs her top spot</div>
+        <div class="gf-hl">Tom's lone captain pays off as Jamie's bench costs him top spot</div>
       </div>
       <div class="gf-body">
         <p class="gf-sf">Tom captained a player nobody else had and won the week with 81. The lead changed hands for the third time this season.</p>
@@ -198,7 +205,7 @@ footer a{color:rgba(255,255,255,.8)}
           <h4 class="w">Winners</h4>
           <div class="r"><span class="n g">9</span><p><b>Tom</b> · Went alone on the armband and got 26 back. Brave, and this time right.</p></div>
           <h4 class="l">Losers</h4>
-          <div class="r"><span class="n b">2</span><p><b>Priya</b> · 19 points on the bench in a week she lost the lead by 4. The group chat will be gentle. It won't.</p></div>
+          <div class="r"><span class="n b">2</span><p><b>Jamie</b> · 19 points on the bench in a week he lost the lead by 4. The group chat will be gentle. It won't.</p></div>
         </div>
       </div>
     </div>
@@ -216,9 +223,9 @@ footer a{color:rgba(255,255,255,.8)}
     <div class="show" style="--c:#C2410C"><div class="top"><span class="day">Friday</span><span class="sub">This weekend's stakes</span></div>
       <h3>On the line</h3><q><b>3 points</b> behind the manager above you. <b>5 clear</b> of the one below.</q></div>
     <div class="show" style="--c:#15171C"><div class="top"><span class="day">Deadline</span><span class="sub">Everyone's moves, revealed</span></div>
-      <h3>Team sheets are in</h3><q><b>Arjun sold Haaland.</b> 14 of 18 of you still have him.</q></div>
+      <h3>Team sheets are in</h3><q><b>Sam sold Haaland.</b> 14 of 18 of you still have him.</q></div>
     <div class="show" style="--c:#B4321F"><div class="top"><span class="day">Match day</span><span class="sub">Live, through your league</span></div>
-      <h3>Live</h3><q>Goal. <b>Only Dev has him.</b> Dev goes up to 2nd.</q></div>
+      <h3>Live</h3><q>Goal. <b>Only Ben has him.</b> Ben goes up to 2nd.</q></div>
     <div class="show gaffer"><div class="top"><span class="day">After the weekend</span><span class="sub">The verdict</span></div>
       <h3>The Gaffer's Gameweek</h3><q>Everyone rated out of 10, with the reasons. Someone's getting a 2.</q></div>
   </div>
@@ -226,11 +233,19 @@ footer a{color:rgba(255,255,255,.8)}
   <div class="tiles">
     <div class="tile plan">
       <h3>A plan for the deadline</h3>
-      <p>Your team, read against the people around you, turned into a couple of clear options. It never tells you to take a points hit.</p>
-      <div class="opts">
-        <div class="o on"><span>Go for it<span class="star">★ You're chasing</span></span></div>
-        <div class="o"><span>Play it safe</span><small>Protect what you've got</small></div>
-        <div class="o"><span>Best on paper</span><small>Most expected points</small></div>
+      <p>Your options for the week, worked out against the people you're trying to beat. One move per free transfer, never a points hit.</p>
+      <div class="pcard">
+        <div class="ps">You're <b>3 points behind Ben</b> · 1 free transfer</div>
+        <div class="pwhy">Why sell Solanke? Out of form, tougher games ahead.</div>
+        <div class="o on"><div class="oh"><b>Go for it</b><span class="star">★ You're chasing</span></div>
+          <div class="mv"><span class="out">Solanke</span> → <span class="in">Isak</span></div>
+          <small>Only 1 of 18 in your league owns him. A good weekend and you're past Ben.</small></div>
+        <div class="o"><div class="oh"><b>Play it safe</b></div>
+          <div class="mv"><span class="out">Solanke</span> → <span class="in">Watkins</span></div>
+          <small>Ben has him. Match him so Ben can't pull further ahead.</small></div>
+        <div class="o"><div class="oh"><b>Best on paper</b></div>
+          <div class="mv"><span class="out">Solanke</span> → <span class="in">Wood</span></div>
+          <small>Most expected points this week, whoever else owns him.</small></div>
       </div>
     </div>
     <div class="tile aw">
