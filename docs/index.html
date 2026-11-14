@@ -2,42 +2,358 @@
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex">
-<title>MicroManager · The AI pundit for your FPL mini-league</title>
-<meta property="og:title" content="MicroManager · The AI pundit for your FPL mini-league">
-<meta property="og:description" content="Every Fantasy Premier League mini-league gets its own sports desk: the Gaffer's weekly verdict, live stories, awards and pictures for your WhatsApp group.">
+<title>MicroManager · Your FPL mini-league's own sports desk</title>
+<meta name="description" content="A pundit who rates every manager in your Fantasy Premier League mini-league, live stories on match day, and a deadline plan built around the people you're trying to beat.">
+<meta property="og:title" content="MicroManager · Your FPL mini-league's own sports desk">
+<meta property="og:description" content="The Gaffer rates every manager in your league after each gameweek. Live stories on match day, a plan for the deadline, and pictures your group chat will actually post.">
+<meta name="theme-color" content="#15171C">
 <script>
 // Links shared before Shoaru's Revenge moved to its own address carried ?from=...; those still go there.
 // The bare address is the product's front door, so a picture forwarded outside a league never leads into one.
 if (/[?&]from=/.test(location.search)) location.replace("/shoarusrevenge/" + location.search + location.hash);
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Inter:wght@500;600;800&display=swap">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@1,700&display=swap">
+<!-- Visitor counts (GoatCounter: no cookies). The join form only counts that a request was made, never what's in it. -->
+<script data-goatcounter="https://shoaru.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 <style>
+:root{--paper:#F3F0E8;--ink:#15171C;--muted:#5B5F68;--line:#DEDAD0;--card:#fff;--green:#0A6B43;--pitch:#0f2a1d;--gold:#F2C94C;--red:#B4321F;--blue:#2457C5}
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:Inter,system-ui,sans-serif;background:#F3F0E8;color:#15171C;min-height:100vh;display:flex;flex-direction:column}
-.top{background:#15171C;color:#fff;padding:22px 24px;font-weight:800;letter-spacing:4px;text-transform:uppercase;font-size:15px}
-main{flex:1;max-width:560px;width:100%;margin:0 auto;padding:48px 24px}
-.kick{font-size:13px;font-weight:800;letter-spacing:3px;text-transform:uppercase;color:#0A6B43}
-h1{margin-top:12px;font-family:'Barlow Condensed',Inter,sans-serif;font-size:56px;line-height:.95;text-transform:uppercase}
-p.lead{margin-top:18px;font-size:19px;line-height:1.45;color:#3D4048}
-ul{margin-top:28px;list-style:none;display:flex;flex-direction:column;gap:12px}
-li{background:#fff;border:2px solid #DEDAD0;border-radius:16px;padding:16px 18px;font-size:16px;line-height:1.4}
-li b{display:block;font-size:17px;margin-bottom:2px}
-.soon{margin-top:28px;display:inline-block;background:#F2C94C;font-weight:800;padding:10px 16px;border-radius:12px;font-size:15px}
-footer{padding:24px;text-align:center;font-size:13px;color:#565A63}
+html{scroll-behavior:smooth}
+body{font-family:Inter,system-ui,-apple-system,sans-serif;background:var(--paper);color:var(--ink);-webkit-font-smoothing:antialiased;line-height:1.5}
+a{color:inherit}
+.wrap{max-width:1080px;margin:0 auto;padding:0 22px}
+.cond{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase}
+.label{font-size:12px;font-weight:800;letter-spacing:.18em;text-transform:uppercase;color:var(--green)}
+
+/* masthead */
+.mast{background:var(--ink);color:#fff}
+.mast .wrap{display:flex;align-items:center;justify-content:space-between;height:60px}
+.logo{font-weight:800;letter-spacing:.28em;font-size:14px;text-transform:uppercase;text-decoration:none}
+.mast a.join{font-size:14px;font-weight:600;color:var(--gold);text-decoration:none}
+.mast a.join:hover{text-decoration:underline}
+.ticker{background:#1F2229;color:rgba(255,255,255,.72);font-size:12.5px;letter-spacing:.02em;border-top:1px solid #2A2E36}
+.ticker .wrap{display:flex;gap:18px;align-items:center;height:34px;white-space:nowrap;overflow:hidden}
+.ticker b{color:#fff;font-weight:600}
+.dot{width:7px;height:7px;border-radius:50%;background:#3DDC84;flex:none;box-shadow:0 0 0 0 rgba(61,220,132,.6);animation:pulse 2.2s infinite}
+@keyframes pulse{70%{box-shadow:0 0 0 7px rgba(61,220,132,0)}100%{box-shadow:0 0 0 0 rgba(61,220,132,0)}}
+@media (prefers-reduced-motion:reduce){.dot{animation:none}html{scroll-behavior:auto}}
+
+/* hero */
+.hero{padding:52px 0 64px;border-bottom:1px solid var(--line)}
+.hero .wrap{display:grid;grid-template-columns:1fr;gap:44px;align-items:center}
+h1{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font-size:clamp(54px,11vw,88px);line-height:.9;letter-spacing:-.005em;margin-top:14px}
+.lead{margin-top:20px;font-size:18.5px;line-height:1.55;color:#33363D;max-width:34em}
+.cta{margin-top:28px;display:flex;flex-wrap:wrap;align-items:center;gap:14px 20px}
+.btn{display:inline-flex;align-items:center;gap:8px;min-height:52px;padding:0 22px;border-radius:12px;background:var(--green);color:#fff;font-weight:700;font-size:16px;text-decoration:none;border:0;cursor:pointer;font-family:inherit}
+.btn:hover{background:#085a38}
+.btn:focus-visible,input:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.status{font-size:14px;color:var(--muted);line-height:1.4}
+.status b{color:var(--ink);font-weight:600}
+
+/* a Gaffer card, built like the real one */
+.sample{position:relative;max-width:400px;width:100%;justify-self:center}
+.tag{position:absolute;top:-12px;right:16px;z-index:2;background:var(--ink);color:#fff;font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:5px 10px;border-radius:999px}
+.gf{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:0 1px 0 rgba(0,0,0,.04),0 24px 48px -28px rgba(21,23,28,.45);transform:rotate(-1.2deg)}
+.gf-head{background:var(--pitch);color:#fff;padding:16px 18px 18px}
+.gf-mast{display:flex;gap:12px;align-items:center;padding-bottom:12px;margin-bottom:12px;border-bottom:1px solid rgba(242,201,76,.4)}
+.ft{flex:none;width:44px;height:44px;border-radius:50%;border:3px solid var(--gold);display:grid;place-items:center;font-weight:800;font-size:14px}
+.gf-np .t{font-family:'Playfair Display',Georgia,serif;font-style:italic;font-weight:700;color:var(--gold);font-size:26px;line-height:1}
+.gf-np .s{font-size:11px;font-weight:700;letter-spacing:.32em;color:var(--gold);margin-top:3px}
+.gf-np .k{font-size:12px;color:rgba(255,255,255,.66);margin-top:3px}
+.gf-hl{font-family:'Barlow Condensed',sans-serif;font-size:29px;line-height:1.02;font-weight:700}
+.gf-body{padding:14px 16px 16px;font-size:14.5px}
+.gf-sf{color:var(--muted)}
+.me{margin-top:12px;background:#FFF8E1;border:1px solid #F2D27A;border-radius:14px;padding:12px;display:flex;gap:12px;align-items:center}
+.score{flex:none;width:56px;height:56px;border-radius:12px;background:var(--pitch);color:var(--gold);display:flex;align-items:baseline;justify-content:center;padding-top:6px;font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:36px;line-height:1}
+.score small{font-size:13px;margin-left:1px}
+.me .lbl{font-size:10.5px;font-weight:800;letter-spacing:.14em;color:#8A6A10;text-transform:uppercase}
+.me .pts{font-weight:700;font-size:17px;line-height:1.25}
+.me .why{display:inline-block;margin-top:5px;font-size:12px;font-weight:700;color:#8A6A10;border:1px solid #E6C866;border-radius:999px;padding:2px 9px}
+.rows{margin-top:14px;border-top:1px solid #ECE8DE;padding-top:12px}
+.rows h4{font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;margin:0 0 8px}
+.rows h4.w{color:var(--green)} .rows h4.l{color:var(--red);margin-top:14px}
+.r{display:flex;gap:10px;margin-bottom:8px}
+.r .n{flex:none;width:26px;height:26px;border-radius:7px;display:grid;place-items:center;font-weight:800;font-size:13px}
+.r .n.g{background:#E3F2EA;color:var(--green)} .r .n.b{background:#FBE7E2;color:var(--red)}
+.r p{font-size:13.5px;line-height:1.4;color:#33363D}
+.r p b{color:var(--ink)}
+.cap{margin-top:14px;text-align:center;font-size:12.5px;color:var(--muted)}
+
+/* sections */
+section{padding:64px 0;border-bottom:1px solid var(--line)}
+h2{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font-size:clamp(38px,7vw,56px);line-height:.95;margin-top:10px}
+.intro{margin-top:14px;font-size:17px;color:#33363D;max-width:36em}
+
+/* the week */
+.week{margin-top:36px;display:grid;gap:0;border-top:2px solid var(--ink)}
+.day{display:grid;grid-template-columns:1fr;gap:10px 28px;padding:22px 0;border-bottom:1px solid var(--line)}
+.when{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;font-weight:700;font-size:15px;letter-spacing:.06em;color:var(--muted)}
+.day h3{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;font-size:28px;line-height:1;margin-top:2px}
+.day p{font-size:15.5px;color:#33363D;max-width:34em}
+.chip{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:7px;vertical-align:1px}
+.mini{align-self:start;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;font-size:13.5px;line-height:1.4}
+.mini .k{font-size:10.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+.mini b{font-weight:700}
+.mini .imp{display:inline-block;margin-top:6px;font-size:11.5px;font-weight:700;letter-spacing:.04em;background:#E3F2EA;color:var(--green);border-radius:6px;padding:2px 7px}
+.mini .imp.red{background:#FBE7E2;color:var(--red)}
+.note{margin-top:22px;font-size:14.5px;color:var(--muted)}
+
+/* my team */
+.split{display:grid;grid-template-columns:1fr;gap:36px;margin-top:36px;align-items:start}
+.points{display:grid;gap:22px}
+.pt h3{font-size:17px;font-weight:700}
+.pt p{margin-top:3px;font-size:15.5px;color:#33363D}
+.plan{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;max-width:420px;width:100%;justify-self:center}
+.stance{background:#EAF0FB;color:#1C3F8F;font-size:13.5px;font-weight:600;padding:10px 14px;border-bottom:1px solid #D5E0F5}
+.tabs{display:flex;border-bottom:1px solid var(--line);font-size:13px;font-weight:600}
+.tabs span{flex:1;text-align:center;padding:10px 4px;color:var(--muted)}
+.tabs span.on{color:var(--ink);box-shadow:inset 0 -2px 0 var(--ink)}
+.opt{padding:14px;border-bottom:1px solid #ECE8DE}
+.opt:last-child{border-bottom:0}
+.opt .h{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.opt .h b{font-size:15px}
+.star{font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;background:var(--gold);color:var(--ink);border-radius:999px;padding:3px 8px}
+.move{margin-top:8px;font-size:14px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.move .out{color:var(--red);font-weight:600}.move .in{color:var(--green);font-weight:600}
+.opt p{margin-top:6px;font-size:13px;color:var(--muted);line-height:1.4}
+.opt.dim{opacity:.62}
+
+/* awards */
+.awards{margin-top:30px;display:flex;flex-wrap:wrap;gap:10px}
+.aw{display:inline-flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:8px 14px 8px 10px;font-size:14px;font-weight:600}
+.aw i{width:10px;height:10px;border-radius:50%;display:block}
+.pic{margin-top:28px;font-size:15.5px;color:#33363D;max-width:36em}
+
+/* isn't */
+.nots{margin-top:30px;display:grid;grid-template-columns:1fr;gap:0;border-top:2px solid var(--ink)}
+.not{padding:20px 0;border-bottom:1px solid var(--line)}
+.not h3{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;font-size:24px;line-height:1}
+.not p{margin-top:6px;font-size:15.5px;color:#33363D}
+
+/* join */
+.join-sec{background:var(--ink);color:#fff;border-bottom:0}
+.join-sec .label{color:var(--gold)}
+.join-sec .intro{color:rgba(255,255,255,.78)}
+.join-grid{display:grid;grid-template-columns:1fr;gap:36px;margin-top:8px;align-items:start}
+form{background:#fff;color:var(--ink);border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:14px;max-width:460px;width:100%}
+label{display:flex;flex-direction:column;gap:5px;font-size:13px;font-weight:700;color:#3D4048}
+label small{font-weight:500;color:var(--muted)}
+input{font:inherit;font-size:16px;font-weight:500;color:var(--ink);min-height:48px;padding:0 13px;border:1px solid #CFC9BB;border-radius:10px;background:#fff}
+form .btn{justify-content:center;margin-top:4px}
+.msg{font-size:14px;line-height:1.45;border-radius:10px;padding:10px 12px}
+.msg.ok{background:#E3F2EA;color:#0B4D31}.msg.err{background:#FBE7E2;color:#7C2213}
+.help{font-size:15px;color:rgba(255,255,255,.78)}
+.help h3{color:#fff;font-size:16px;margin-bottom:6px}
+.help code{display:block;margin-top:8px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13.5px;background:#23262E;border-radius:8px;padding:10px 12px;color:#C9CDD5;overflow-wrap:anywhere}
+.help code u{color:var(--gold);text-decoration:none;border-bottom:2px solid var(--gold)}
+.help p+h3{margin-top:24px}
+.help a{color:var(--gold)}
+
+footer{background:var(--ink);color:rgba(255,255,255,.55);font-size:13px;border-top:1px solid #2A2E36}
+footer .wrap{padding-top:24px;padding-bottom:28px;display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:rgba(255,255,255,.8)}
+
+@media (max-width:560px){.ticker .more{display:none}}
+@media (min-width:860px){
+  .hero{padding:72px 0 84px}
+  .hero .wrap{grid-template-columns:1.15fr .85fr;gap:56px}
+  .day{grid-template-columns:150px 1fr 300px;align-items:start}
+  .split{grid-template-columns:1fr 420px;gap:56px}
+  .nots{grid-template-columns:repeat(3,1fr);gap:0 32px}
+  .join-grid{grid-template-columns:460px 1fr;gap:56px}
+  section{padding:84px 0}
+}
 </style></head><body>
-<div class="top">MicroManager</div>
+
+<header class="mast"><div class="wrap">
+  <a class="logo" href="/">MicroManager</a>
+  <a class="join" href="#join">Get it for your league →</a>
+</div></header>
+<div class="ticker" aria-hidden="true"><div class="wrap">
+  <span class="dot"></span><span><b>Live</b> in three pilot leagues this season</span>
+  <span class="more">Updates every 10 minutes on match days</span>
+</div></div>
+
 <main>
-<div class="kick">For Fantasy Premier League mini-leagues</div>
-<h1>Your league's own sports desk</h1>
-<p class="lead">MicroManager turns your mini-league into a weekly show: who won the week, who got burned by their bench, who's coming for the top spot. Written for your league, about your league.</p>
-<ul>
-<li><b>The Gaffer's verdict</b>Every manager rated out of 10 after each gameweek, with the reasons.</li>
-<li><b>Live stories and awards</b>The moments that matter in your league, as they happen.</li>
-<li><b>Your team against your rivals</b>Where you can gain, what to protect, and one plan for the deadline.</li>
-<li><b>Made for the group chat</b>Pictures of the week your league actually wants to post.</li>
-</ul>
-<div class="soon">Opening to league admins in December 2026</div>
+<div class="hero"><div class="wrap">
+  <div>
+    <div class="label">For Fantasy Premier League mini-leagues</div>
+    <h1>Your league's own sports desk</h1>
+    <p class="lead">Your mini-league already has the rivalries, the bad calls and the group chat. MicroManager covers it like a proper sports desk: a pundit who rates every manager after each gameweek, live stories on match day, and a plan for your next deadline built around the people you're actually trying to beat.</p>
+    <div class="cta">
+      <a class="btn" href="#join">Send us your league ID</a>
+      <span class="status">Setting up a few leagues at a time.<br><b>Opening to league admins in December.</b></span>
+    </div>
+  </div>
+
+  <div class="sample">
+    <span class="tag">Sample</span>
+    <div class="gf" role="img" aria-label="Example of the Gaffer's Gameweek card for a made-up league">
+      <div class="gf-head">
+        <div class="gf-mast">
+          <div class="ft">FT</div>
+          <div class="gf-np"><div class="t">The Gaffer's</div><div class="s">GAMEWEEK</div><div class="k">GW11 · final scores</div></div>
+        </div>
+        <div class="gf-hl">Tom's lone captain pays off as Priya's bench costs her top spot</div>
+      </div>
+      <div class="gf-body">
+        <p class="gf-sf">Tom captained a player nobody else had and won the week with 81. The lead changed hands for the third time this season.</p>
+        <div class="me">
+          <div class="score">7<small>/10</small></div>
+          <div><div class="lbl">The Gaffer's rating for you</div><div class="pts">64 pts this week</div><span class="why">Why 7? ▾</span></div>
+        </div>
+        <div class="rows">
+          <h4 class="w">Winners</h4>
+          <div class="r"><span class="n g">9</span><p><b>Tom</b> · Went alone on the armband and got 26 back. Brave, and this time right.</p></div>
+          <h4 class="l">Losers</h4>
+          <div class="r"><span class="n b">2</span><p><b>Priya</b> · 19 points on the bench in a week she lost the lead by 4. The group chat will be gentle. It won't.</p></div>
+        </div>
+      </div>
+    </div>
+    <p class="cap">A made-up league. The real one is about yours.</p>
+  </div>
+</div></div>
+
+<section id="week"><div class="wrap">
+  <div class="label">How a week goes</div>
+  <h2>FPL is a weekend game.<br>Your league becomes a weekly show.</h2>
+  <p class="intro">Something lands on most days, at times you can plan around. Each piece is about your league, and about you and the rivals either side of you.</p>
+
+  <div class="week">
+    <div class="day">
+      <div class="when"><span class="chip" style="background:#0E7C66"></span>Two days out</div>
+      <div><h3>The market</h3><p>Price moves on your players and your rival's. The players everyone in FPL is buying, and who in your league already has them.</p></div>
+      <div class="mini"><div class="k">The market · Thursday</div>FPL's most bought this week: <b>Isak</b>. 6 of 18 here own him, including your rival. You don't.</div>
+    </div>
+    <div class="day">
+      <div class="when"><span class="chip" style="background:#C2410C"></span>Day before</div>
+      <div><h3>On the line</h3><p>What this weekend could do to the table. The gaps to the managers above and below you, the title race, who's hovering on the zone lines.</p></div>
+      <div class="mini"><div class="k">Your weekend</div><b>3 points</b> behind Dev, <b>5 clear</b> of Arjun. You've beaten Dev 4 weeks out of 10.</div>
+    </div>
+    <div class="day">
+      <div class="when"><span class="chip" style="background:var(--ink)"></span>Deadline</div>
+      <div><h3>Team sheets are in</h3><p>The one moment every team is visible. It leads with the boldest call in the league, then who bought and sold whom, and exactly where your team now differs from your rival's.</p></div>
+      <div class="mini"><div class="k">The headline move</div><b>Arjun sells Haaland.</b> 14 of 18 still own him. If he hauls, Arjun will hear about it.</div>
+    </div>
+    <div class="day">
+      <div class="when"><span class="chip" style="background:var(--red)"></span>Match day</div>
+      <div><h3>Live</h3><p>Every player told as one story through your league: who starts him, who captained him, what his points just did to the table. Checked every 10 minutes while games are on.</p></div>
+      <div class="mini"><div class="k">71' · Goal</div><b>Mbeumo</b> scores. 12 points so far.<br><span class="imp">ONLY Dev starts him</span> <span class="imp red">Dev up to 2nd</span></div>
+    </div>
+    <div class="day">
+      <div class="when"><span class="chip" style="background:var(--pitch)"></span>After full time</div>
+      <div><h3>The Gaffer's Gameweek</h3><p>Once FPL closes the gameweek, the Gaffer arrives: winners, losers, the decision of the week, and every manager rated out of 10. Tap "Why 7?" and you see exactly how your score was worked out.</p></div>
+      <div class="mini"><div class="k">Decision of the week</div>Three of you benched <b>Gordon</b>. He scored 15. Nobody's saying anything. Yet.</div>
+    </div>
+  </div>
+  <p class="note">Every drop has a "Tell the group" button, so it ends up where your league actually talks.</p>
+</div></section>
+
+<section id="myteam"><div class="wrap">
+  <div class="label">My team</div>
+  <h2>Your team, seen<br>through your league</h2>
+  <p class="intro">FPL tells you about your players. MicroManager tells you what they mean in your league, and turns it into a plan for the deadline.</p>
+  <div class="split">
+    <div class="points">
+      <div class="pt"><h3>A game plan, not a pile of stats</h3><p>One move for each free transfer, each with its own reason. It never suggests taking a hit.</p></div>
+      <div class="pt"><h3>Bold or safe, depending on where you stand</h3><p>Chasing? Go for it leads. Protecting a lead? Play it safe does. Best on paper is always there too.</p></div>
+      <div class="pt"><h3>Try your own move</h3><p>Check a transfer against what your rivals own before you make it, then see how it worked out.</p></div>
+      <div class="pt"><h3>League watch</h3><p>What the managers around you own, and whether they've been playing it safe or swinging lately.</p></div>
+    </div>
+    <div class="plan" role="img" aria-label="Example of the GW plan in My team">
+      <div class="tabs"><span class="on">GW plan</span><span>Your team</span><span>League watch</span></div>
+      <div class="stance">You're 3 behind Dev with 1 free transfer. Time to chase.</div>
+      <div class="opt">
+        <div class="h"><b>Go for it</b><span class="star">★ For you</span></div>
+        <div class="move"><span class="out">Solanke</span> → <span class="in">Isak</span></div>
+        <p>Dev owns Isak and you don't. Out of form and tougher games ahead for Solanke.</p>
+      </div>
+      <div class="opt dim">
+        <div class="h"><b>Play it safe</b></div>
+        <p>Bank the transfer. You can hold up to 5.</p>
+      </div>
+      <div class="opt dim">
+        <div class="h"><b>Best on paper</b></div>
+        <p>The move with the highest expected points, whoever owns him.</p>
+      </div>
+    </div>
+  </div>
+</div></section>
+
+<section id="awards"><div class="wrap">
+  <div class="label">Every gameweek</div>
+  <h2>The awards nobody<br>asked for</h2>
+  <p class="intro">Handed out after every gameweek, worked out from the data, never invented.</p>
+  <div class="awards">
+    <span class="aw"><i style="background:#0A6B43"></i>Manager of the Week</span>
+    <span class="aw"><i style="background:#15171C"></i>Captain of the Week</span>
+    <span class="aw"><i style="background:#2457C5"></i>Transfer Genius</span>
+    <span class="aw"><i style="background:#6B3FC4"></i>Rocket</span>
+    <span class="aw"><i style="background:#D97706"></i>Bench Disaster</span>
+    <span class="aw"><i style="background:#B4321F"></i>Armband Agony</span>
+    <span class="aw"><i style="background:#D97706"></i>Transfer Flop</span>
+    <span class="aw"><i style="background:#6B3FC4"></i>The One That Got Away</span>
+    <span class="aw"><i style="background:#B4321F"></i>Free Fall</span>
+    <span class="aw"><i style="background:#15171C"></i>The Doghouse</span>
+  </div>
+  <p class="pic">Plus the week in one picture: the headline, the storyline, the awards and the table, sized for the group chat.</p>
+</div></section>
+
+<section id="isnt"><div class="wrap">
+  <div class="label">Straight answers</div>
+  <h2>What it isn't</h2>
+  <div class="nots">
+    <div class="not"><h3>Another stats site</h3><p>The numbers are there to back up a story. If something doesn't tell you anything new about your league, it doesn't make the page.</p></div>
+    <div class="not"><h3>An app to download</h3><p>It's a link your league opens from the group chat. No accounts, no passwords. You pick your name once and it's yours.</p></div>
+    <div class="not"><h3>Made up</h3><p>Every number comes from FPL's own data and is checked before it goes up. If a line doesn't match the numbers, it's rewritten or it doesn't run.</p></div>
+  </div>
+</div></section>
+
+<section class="join-sec" id="join"><div class="wrap">
+  <div class="label">Get it for your league</div>
+  <h2>Want this for<br>your mini-league?</h2>
+  <p class="intro">We're setting leagues up a few at a time before we open up in December. Send your league ID and we'll be in touch.</p>
+  <div class="join-grid" style="margin-top:32px">
+    <form id="gi-form" data-to="hello@yourmicromanager.com" novalidate>
+      <label>FPL league ID<input name="league" inputmode="numeric" pattern="[0-9]*" maxlength="9" placeholder="e.g. 123456" required autocomplete="off"><small>The number in your league's address on the FPL site</small></label>
+      <label><span>Your WhatsApp <small>(optional)</small></span><input name="contact" maxlength="80" placeholder="+44…" autocomplete="tel"></label>
+      <label>Roughly how many in your league?<input name="size" inputmode="numeric" maxlength="4" placeholder="e.g. 15"></label>
+      <button class="btn" type="submit">Email us the request</button>
+      <p class="msg" id="gi-msg" role="status" hidden></p>
+    </form>
+    <div class="help">
+      <h3>Where's my league ID?</h3>
+      <p>Open your league on the FPL website. The ID is the number in the address bar:</p>
+      <code>fantasy.premierleague.com/leagues/<u>123456</u>/standings/c</code>
+      <h3>What happens next</h3>
+      <p>Your email app opens with the request filled in. Hit send, and we'll get back to you about setting up your league. No email app? Write to <a href="mailto:hello@yourmicromanager.com">hello@yourmicromanager.com</a>.</p>
+    </div>
+  </div>
+</div></section>
 </main>
-<footer>Unofficial. Uses public FPL data. Not affiliated with the Premier League.</footer>
+
+<footer><div class="wrap">
+  <span>MicroManager · <a href="mailto:hello@yourmicromanager.com">hello@yourmicromanager.com</a></span>
+  <span>Unofficial. Uses public FPL data. Not affiliated with the Premier League.</span>
+</div></footer>
+
+<script>
+(function(){
+  var gi=document.getElementById("gi-form");if(!gi)return;
+  gi.addEventListener("submit",function(e){e.preventDefault();
+    var msg=document.getElementById("gi-msg"),league=(gi.league.value||"").replace(/[^0-9]/g,""),
+        contact=(gi.contact.value||"").trim().slice(0,80),size=(gi.size.value||"").replace(/[^0-9]/g,""),
+        to=gi.getAttribute("data-to")||"hello@yourmicromanager.com";
+    function say(t,ok){msg.textContent=t;msg.className="msg "+(ok?"ok":"err");msg.hidden=false;}
+    if(league.length<3){say("Add your league ID (numbers only).",false);gi.league.focus();return;}
+    // Only that a request was made is counted; never the ID or the contact.
+    try{if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:"home/signup",title:"Sign-up request (front page)",event:true});}catch(err){}
+    var body="Hi, please set up MicroManager for my FPL league.\n\nLeague ID: "+league+(size?"\nRoughly "+size+" people":"")+
+      (contact?"\nWhatsApp: "+contact:"")+"\n";
+    location.href="mailto:"+to+"?subject="+encodeURIComponent("MicroManager for league "+league)+"&body="+encodeURIComponent(body);
+    say("Your email app should open with the request ready. Just hit send. No email app? Write to "+to+".",true);});
+})();
+</script>
 </body></html>
