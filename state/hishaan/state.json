@@ -8286,7 +8286,8 @@
     3506595
    ],
    "ts": "2026-11-08T08:16:53Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p249-7903bcb923.png"
   },
   {
    "key": "l10:ret:249:2:1",
@@ -9466,7 +9467,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-14T18:24:43Z",
+ "updated": "2026-11-14T18:55:36Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723, just 1 point ahead of Matt after your 73. Matt's Bench Boost threat is real, so watch his next move closely.",
@@ -12222,19 +12223,9 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-14T18:24:43Z",
+  "ts": "2026-11-14T18:55:36Z",
   "issues": [],
-  "page": [],
-  "wording": [
-   "wording (1 points): ...old spots  33 behind Ravin, 4th · about 1 points a week...",
-   "wording (1 points): ...old spots  38 behind Ravin, 4th · about 1 points a week...",
-   "wording (1 points): ...old spots  40 behind Ravin, 4th · about 1 points a week...",
-   "wording (1 points): ...ver spots  31 behind Sunny, 8th · about 1 points a week...",
-   "wording (1 points): ...ver spots  33 behind Sunny, 8th · about 1 points a week...",
-   "wording (1 points): ...ver spots  38 behind Sunny, 8th · about 1 points a week...",
-   "wording (1 points): ...ver spots  39 behind Sunny, 8th · about 1 points a week...",
-   "wording (1 points): ...34 from safety (Lakshay, 21st) · about 1 points a week..."
-  ]
+  "page": []
  },
  "pwatch": {
   "seen": {
@@ -12593,6 +12584,11 @@
     "key": "d10:capflop:154",
     "sig": "631c52f71d",
     "file": "share/live/gw10-p154-631c52f71d.png"
+   },
+   "p249": {
+    "key": "l10:cap-haul:249",
+    "sig": "7903bcb923",
+    "file": "share/live/gw10-p249-7903bcb923.png"
    }
   }
  }

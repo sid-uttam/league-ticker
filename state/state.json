@@ -234,7 +234,8 @@
     3219276
    ],
    "ts": "2026-11-08T16:13:19Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p67-7c5c1f5d43.png"
   },
   {
    "key": "l10:ret:366:1:1",
@@ -262,7 +263,8 @@
     5706920
    ],
    "ts": "2026-11-08T16:01:20Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p106-0e779f2f80.png"
   },
   {
    "key": "d10:bought:379:1:0",
@@ -2864,8 +2866,8 @@
    "7471754": 6,
    "1378937": 7,
    "5489583": 8,
-   "4125292": 9,
    "3506595": 9,
+   "4125292": 9,
    "962024": 11,
    "363548": 12,
    "4922092": 13,
@@ -2895,8 +2897,8 @@
    "7471754": "silver",
    "1378937": "silver",
    "5489583": "silver",
-   "4125292": null,
    "3506595": null,
+   "4125292": null,
    "962024": null,
    "363548": null,
    "4922092": null,
@@ -2918,7 +2920,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-14T18:24:12Z",
+ "updated": "2026-11-14T18:55:07Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -7561,15 +7563,6 @@
     "event_total": 57
    },
    {
-    "entry": 4125292,
-    "player_name": "Bhavik Desai",
-    "entry_name": "Shawshank Relegation",
-    "rank": 9,
-    "last_rank": 9,
-    "total": 634,
-    "event_total": 51
-   },
-   {
     "entry": 3506595,
     "player_name": "Hishaan Mahtani",
     "entry_name": "Jacquet Potato",
@@ -7577,6 +7570,15 @@
     "last_rank": 14,
     "total": 634,
     "event_total": 74
+   },
+   {
+    "entry": 4125292,
+    "player_name": "Bhavik Desai",
+    "entry_name": "Shawshank Relegation",
+    "rank": 9,
+    "last_rank": 9,
+    "total": 634,
+    "event_total": 51
    },
    {
     "entry": 962024,
@@ -14696,17 +14698,9 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-14T18:24:12Z",
+  "ts": "2026-11-14T18:55:07Z",
   "issues": [],
-  "page": [],
-  "wording": [
-   "wording (1 points): ...se the title  29 behind Ayodele · about 1 points a week...",
-   "wording (1 points): ...se the title  30 behind Ayodele · about 1 points a week...",
-   "wording (1 points): ...lver spots  29 behind Omar, 8th · about 1 points a week...",
-   "wording (1 points): ...lver spots  32 behind Omar, 8th · about 1 points a week...",
-   "wording (1 points): ...lver spots  39 behind Omar, 8th · about 1 points a week...",
-   "wording (1 points): ...lver spots  41 behind Omar, 8th · about 1 points a week..."
-  ]
+  "page": []
  },
  "pwatch": {
   "seen": {
@@ -15118,6 +15112,16 @@
     "key": "d10:capflop:40",
     "sig": "2f59f0f4d2",
     "file": "share/live/gw10-p40-2f59f0f4d2.png"
+   },
+   "p67": {
+    "key": "d10:capflop:67",
+    "sig": "7c5c1f5d43",
+    "file": "share/live/gw10-p67-7c5c1f5d43.png"
+   },
+   "p106": {
+    "key": "d10:capflop:106",
+    "sig": "0e779f2f80",
+    "file": "share/live/gw10-p106-0e779f2f80.png"
    }
   }
  }
