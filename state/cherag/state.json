@@ -10179,15 +10179,6 @@
     "event_total": 55
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 48,
-    "last_rank": 60,
-    "total": 648,
-    "event_total": 74
-   },
-   {
     "entry": 10821,
     "player_name": "Ram Narayan",
     "entry_name": "FPL Neutral",
@@ -10195,6 +10186,15 @@
     "last_rank": 49,
     "total": 648,
     "event_total": 63
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 48,
+    "last_rank": 60,
+    "total": 648,
+    "event_total": 74
    },
    {
     "entry": 3239284,
@@ -10251,15 +10251,6 @@
     "event_total": 65
    },
    {
-    "entry": 3654448,
-    "player_name": "Abhimanyu Pathania",
-    "entry_name": "FPLXV",
-    "rank": 56,
-    "last_rank": 42,
-    "total": 642,
-    "event_total": 52
-   },
-   {
     "entry": 119217,
     "player_name": "Kunaal Dadwal",
     "entry_name": "Chutzpah",
@@ -10267,6 +10258,15 @@
     "last_rank": 56,
     "total": 642,
     "event_total": 65
+   },
+   {
+    "entry": 3654448,
+    "player_name": "Abhimanyu Pathania",
+    "entry_name": "FPLXV",
+    "rank": 56,
+    "last_rank": 42,
+    "total": 642,
+    "event_total": 52
    },
    {
     "entry": 2932096,
@@ -10548,15 +10548,6 @@
     "event_total": 62
    },
    {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
-    "rank": 89,
-    "last_rank": 96,
-    "total": 604,
-    "event_total": 69
-   },
-   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -10564,6 +10555,15 @@
     "last_rank": 80,
     "total": 604,
     "event_total": 50
+   },
+   {
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
+    "rank": 89,
+    "last_rank": 96,
+    "total": 604,
+    "event_total": 69
    },
    {
     "entry": 686561,
@@ -57363,16 +57363,16 @@
    "2868149": 45,
    "5640988": 45,
    "3566356": 45,
-   "4683090": 48,
    "10821": 48,
+   "4683090": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
    "13951": 53,
    "6034028": 54,
    "2119331": 55,
-   "3654448": 56,
    "119217": 56,
+   "3654448": 56,
    "2932096": 58,
    "1443362": 59,
    "26707": 60,
@@ -57404,8 +57404,8 @@
    "11673": 86,
    "4905114": 87,
    "3389995": 87,
-   "2037953": 89,
    "2723973": 89,
+   "2037953": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 93,
@@ -57478,16 +57478,16 @@
    "2868149": null,
    "5640988": null,
    "3566356": null,
-   "4683090": null,
    "10821": null,
+   "4683090": null,
    "3239284": null,
    "248721": null,
    "48343": null,
    "13951": null,
    "6034028": null,
    "2119331": null,
-   "3654448": null,
    "119217": null,
+   "3654448": null,
    "2932096": null,
    "1443362": null,
    "26707": null,
@@ -57519,8 +57519,8 @@
    "11673": null,
    "4905114": null,
    "3389995": null,
-   "2037953": null,
    "2723973": null,
+   "2037953": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -57546,7 +57546,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-14T07:03:56Z",
+ "updated": "2026-11-14T07:34:45Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734 after a 70-point week, 18 clear of Neol. The threat is Neol closing the gap, so watch your Free Hit timing and the Haaland armband.",
@@ -63268,7 +63268,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-14T07:03:56Z",
+  "ts": "2026-11-14T07:34:45Z",
   "issues": [],
   "page": []
  },
