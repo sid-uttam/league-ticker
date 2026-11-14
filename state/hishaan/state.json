@@ -7742,7 +7742,8 @@
     1921902
    ],
    "ts": "2026-11-08T16:14:14Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p40-e540c142a1.png"
   },
   {
    "key": "d10:capflop:154",
@@ -7756,7 +7757,8 @@
     865376
    ],
    "ts": "2026-11-08T16:14:14Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p154-631c52f71d.png"
   },
   {
    "key": "l10:ret:366:1:1",
@@ -7987,7 +7989,8 @@
     7043406
    ],
    "ts": "2026-11-08T14:54:19Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p124-3a7ddb1ca2.png"
   },
   {
    "key": "d10:bought:124:1:0",
@@ -8062,7 +8065,8 @@
     2687116
    ],
    "ts": "2026-11-08T14:18:35Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p127-497c3818a2.png"
   },
   {
    "key": "d10:bought:79:1:0",
@@ -9462,7 +9466,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-14T17:53:45Z",
+ "updated": "2026-11-14T18:24:43Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723, just 1 point ahead of Matt after your 73. Matt's Bench Boost threat is real, so watch his next move closely.",
@@ -12218,9 +12222,19 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-14T17:53:45Z",
+  "ts": "2026-11-14T18:24:43Z",
   "issues": [],
-  "page": []
+  "page": [],
+  "wording": [
+   "wording (1 points): ...old spots  33 behind Ravin, 4th · about 1 points a week...",
+   "wording (1 points): ...old spots  38 behind Ravin, 4th · about 1 points a week...",
+   "wording (1 points): ...old spots  40 behind Ravin, 4th · about 1 points a week...",
+   "wording (1 points): ...ver spots  31 behind Sunny, 8th · about 1 points a week...",
+   "wording (1 points): ...ver spots  33 behind Sunny, 8th · about 1 points a week...",
+   "wording (1 points): ...ver spots  38 behind Sunny, 8th · about 1 points a week...",
+   "wording (1 points): ...ver spots  39 behind Sunny, 8th · about 1 points a week...",
+   "wording (1 points): ...34 from safety (Lakshay, 21st) · about 1 points a week..."
+  ]
  },
  "pwatch": {
   "seen": {
@@ -12559,6 +12573,26 @@
     "key": "d10:regret:592:0:1",
     "sig": "51468fbf19",
     "file": "share/live/gw10-p592-51468fbf19.png"
+   },
+   "p124": {
+    "key": "d10:regret:124:1:0",
+    "sig": "3a7ddb1ca2",
+    "file": "share/live/gw10-p124-3a7ddb1ca2.png"
+   },
+   "p127": {
+    "key": "d10:regret:127:1:0",
+    "sig": "497c3818a2",
+    "file": "share/live/gw10-p127-497c3818a2.png"
+   },
+   "p40": {
+    "key": "d10:capflop:40",
+    "sig": "e540c142a1",
+    "file": "share/live/gw10-p40-e540c142a1.png"
+   },
+   "p154": {
+    "key": "d10:capflop:154",
+    "sig": "631c52f71d",
+    "file": "share/live/gw10-p154-631c52f71d.png"
    }
   }
  }

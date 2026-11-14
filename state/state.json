@@ -219,7 +219,8 @@
     6619523
    ],
    "ts": "2026-11-08T16:13:19Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p40-2f59f0f4d2.png"
   },
   {
    "key": "d10:capflop:67",
@@ -474,7 +475,8 @@
     3219276
    ],
    "ts": "2026-11-08T14:53:25Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p124-318fd4efb3.png"
   },
   {
    "key": "d10:bought:504:0:1",
@@ -733,7 +735,8 @@
     6619523
    ],
    "ts": "2026-11-07T19:07:41Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p167-f33c026c50.png"
   },
   {
    "key": "d10:regret:480:0:1",
@@ -748,7 +751,8 @@
     3323262
    ],
    "ts": "2026-11-07T19:07:41Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p480-7cc9e39fe1.png"
   },
   {
    "key": "d10:sold:399:1:0",
@@ -2914,7 +2918,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-14T17:53:09Z",
+ "updated": "2026-11-14T18:24:12Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -14692,9 +14696,17 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-14T17:53:09Z",
+  "ts": "2026-11-14T18:24:12Z",
   "issues": [],
-  "page": []
+  "page": [],
+  "wording": [
+   "wording (1 points): ...se the title  29 behind Ayodele · about 1 points a week...",
+   "wording (1 points): ...se the title  30 behind Ayodele · about 1 points a week...",
+   "wording (1 points): ...lver spots  29 behind Omar, 8th · about 1 points a week...",
+   "wording (1 points): ...lver spots  32 behind Omar, 8th · about 1 points a week...",
+   "wording (1 points): ...lver spots  39 behind Omar, 8th · about 1 points a week...",
+   "wording (1 points): ...lver spots  41 behind Omar, 8th · about 1 points a week..."
+  ]
  },
  "pwatch": {
   "seen": {
@@ -15086,6 +15098,26 @@
     "key": "d10:sold:399:1:0",
     "sig": "d9c0b33649",
     "file": "share/live/gw10-p399-d9c0b33649.png"
+   },
+   "p124": {
+    "key": "d10:regret:124:1:0",
+    "sig": "318fd4efb3",
+    "file": "share/live/gw10-p124-318fd4efb3.png"
+   },
+   "p167": {
+    "key": "d10:regret:167:2:0",
+    "sig": "f33c026c50",
+    "file": "share/live/gw10-p167-f33c026c50.png"
+   },
+   "p480": {
+    "key": "d10:regret:480:0:1",
+    "sig": "7cc9e39fe1",
+    "file": "share/live/gw10-p480-7cc9e39fe1.png"
+   },
+   "p40": {
+    "key": "d10:capflop:40",
+    "sig": "2f59f0f4d2",
+    "file": "share/live/gw10-p40-2f59f0f4d2.png"
    }
   }
  }
