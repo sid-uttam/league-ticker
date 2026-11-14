@@ -41,7 +41,7 @@ a{color:inherit}
 @media (prefers-reduced-motion:reduce){.dot{animation:none}html{scroll-behavior:auto}}
 
 /* hero */
-.hero{padding:52px 0 64px;border-bottom:1px solid var(--line)}
+.hero{padding:40px 0 52px;border-bottom:1px solid var(--line)}
 .hero .wrap{display:grid;grid-template-columns:1fr;gap:44px;align-items:center}
 h1{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font-size:clamp(54px,11vw,88px);line-height:.9;letter-spacing:-.005em;margin-top:14px}
 .lead{margin-top:20px;font-size:18.5px;line-height:1.55;color:#33363D;max-width:34em}
@@ -82,55 +82,19 @@ h1{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font
 .cap{margin-top:14px;text-align:center;font-size:12.5px;color:var(--muted)}
 
 /* sections */
-section{padding:64px 0;border-bottom:1px solid var(--line)}
+section{padding:52px 0;border-bottom:1px solid var(--line)}
 h2{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font-size:clamp(38px,7vw,56px);line-height:.95;margin-top:10px}
 .intro{margin-top:14px;font-size:17px;color:#33363D;max-width:36em}
 
 /* the week */
-.week{margin-top:36px;display:grid;gap:0;border-top:2px solid var(--ink)}
-.day{display:grid;grid-template-columns:1fr;gap:10px 28px;padding:22px 0;border-bottom:1px solid var(--line)}
-.when{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;font-weight:700;font-size:15px;letter-spacing:.06em;color:var(--muted)}
-.day h3{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;font-size:28px;line-height:1;margin-top:2px}
-.day p{font-size:15.5px;color:#33363D;max-width:34em}
-.chip{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:7px;vertical-align:1px}
-.mini{align-self:start;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;font-size:13.5px;line-height:1.4}
-.mini .k{font-size:10.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
-.mini b{font-weight:700}
-.mini .imp{display:inline-block;margin-top:6px;font-size:11.5px;font-weight:700;letter-spacing:.04em;background:#E3F2EA;color:var(--green);border-radius:6px;padding:2px 7px}
-.mini .imp.red{background:#FBE7E2;color:var(--red)}
-.note{margin-top:22px;font-size:14.5px;color:var(--muted)}
-
-/* my team */
-.split{display:grid;grid-template-columns:1fr;gap:36px;margin-top:36px;align-items:start}
-.points{display:grid;gap:22px}
-.pt h3{font-size:17px;font-weight:700}
-.pt p{margin-top:3px;font-size:15.5px;color:#33363D}
-.plan{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;max-width:420px;width:100%;justify-self:center}
-.stance{background:#EAF0FB;color:#1C3F8F;font-size:13.5px;font-weight:600;padding:10px 14px;border-bottom:1px solid #D5E0F5}
-.tabs{display:flex;border-bottom:1px solid var(--line);font-size:13px;font-weight:600}
-.tabs span{flex:1;text-align:center;padding:10px 4px;color:var(--muted)}
-.tabs span.on{color:var(--ink);box-shadow:inset 0 -2px 0 var(--ink)}
-.opt{padding:14px;border-bottom:1px solid #ECE8DE}
-.opt:last-child{border-bottom:0}
-.opt .h{display:flex;justify-content:space-between;align-items:center;gap:8px}
-.opt .h b{font-size:15px}
-.star{font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;background:var(--gold);color:var(--ink);border-radius:999px;padding:3px 8px}
-.move{margin-top:8px;font-size:14px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.move .out{color:var(--red);font-weight:600}.move .in{color:var(--green);font-weight:600}
-.opt p{margin-top:6px;font-size:13px;color:var(--muted);line-height:1.4}
-.opt.dim{opacity:.62}
-
-/* awards */
-.awards{margin-top:30px;display:flex;flex-wrap:wrap;gap:10px}
-.aw{display:inline-flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:8px 14px 8px 10px;font-size:14px;font-weight:600}
-.aw i{width:10px;height:10px;border-radius:50%;display:block}
-.pic{margin-top:28px;font-size:15.5px;color:#33363D;max-width:36em}
-
-/* isn't */
-.nots{margin-top:30px;display:grid;grid-template-columns:1fr;gap:0;border-top:2px solid var(--ink)}
-.not{padding:20px 0;border-bottom:1px solid var(--line)}
-.not h3{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;font-size:24px;line-height:1}
-.not p{margin-top:6px;font-size:15.5px;color:#33363D}
+.week{list-style:none;margin-top:28px;border-top:2px solid var(--ink)}
+.week li{display:grid;grid-template-columns:1fr;gap:2px;padding:14px 0;border-bottom:1px solid var(--line)}
+.when{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;font-weight:700;font-size:14px;letter-spacing:.06em;color:var(--muted)}
+.week b{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;font-size:24px;line-height:1.05}
+.what{font-size:15px;color:#33363D}
+.extras{margin-top:32px;display:grid;grid-template-columns:1fr;gap:20px}
+.extras h3{font-size:17px;font-weight:700}
+.extras p{margin-top:3px;font-size:15.5px;color:#33363D}
 
 /* join */
 .join-sec{background:var(--ink);color:#fff;border-bottom:0}
@@ -147,8 +111,8 @@ form .btn{justify-content:center;margin-top:4px}
 .help{font-size:15px;color:rgba(255,255,255,.78)}
 .help h3{color:#fff;font-size:16px;margin-bottom:6px}
 .help code{display:block;margin-top:8px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13.5px;background:#23262E;border-radius:8px;padding:10px 12px;color:#C9CDD5;overflow-wrap:anywhere}
-.help code u{color:var(--gold);text-decoration:none;border-bottom:2px solid var(--gold)}
-.help p+h3{margin-top:24px}
+.help code u{display:inline-block;color:var(--gold);text-decoration:none;border-bottom:2px solid var(--gold)}
+.help .small{margin-top:16px;font-size:14px}
 .help a{color:var(--gold)}
 
 footer{background:var(--ink);color:rgba(255,255,255,.55);font-size:13px;border-top:1px solid #2A2E36}
@@ -159,11 +123,10 @@ footer a{color:rgba(255,255,255,.8)}
 @media (min-width:860px){
   .hero{padding:72px 0 84px}
   .hero .wrap{grid-template-columns:1.15fr .85fr;gap:56px}
-  .day{grid-template-columns:150px 1fr 300px;align-items:start}
-  .split{grid-template-columns:1fr 420px;gap:56px}
-  .nots{grid-template-columns:repeat(3,1fr);gap:0 32px}
+  .week li{grid-template-columns:150px 260px 1fr;align-items:baseline;gap:24px}
+  .extras{grid-template-columns:1fr 1fr;gap:40px}
   .join-grid{grid-template-columns:460px 1fr;gap:56px}
-  section{padding:84px 0}
+  section{padding:72px 0}
 }
 </style></head><body>
 
@@ -218,104 +181,25 @@ footer a{color:rgba(255,255,255,.8)}
 
 <section id="week"><div class="wrap">
   <div class="label">How a week goes</div>
-  <h2>FPL is a weekend game.<br>Your league becomes a weekly show.</h2>
-  <p class="intro">Something lands on most days, at times you can plan around. Each piece is about your league, and about you and the rivals either side of you.</p>
-
-  <div class="week">
-    <div class="day">
-      <div class="when"><span class="chip" style="background:#0E7C66"></span>Two days out</div>
-      <div><h3>The market</h3><p>Price moves on your players and your rival's. The players everyone in FPL is buying, and who in your league already has them.</p></div>
-      <div class="mini"><div class="k">The market · Thursday</div>FPL's most bought this week: <b>Isak</b>. 6 of 18 here own him, including your rival. You don't.</div>
-    </div>
-    <div class="day">
-      <div class="when"><span class="chip" style="background:#C2410C"></span>Day before</div>
-      <div><h3>On the line</h3><p>What this weekend could do to the table. The gaps to the managers above and below you, the title race, who's hovering on the zone lines.</p></div>
-      <div class="mini"><div class="k">Your weekend</div><b>3 points</b> behind Dev, <b>5 clear</b> of Arjun. You've beaten Dev 4 weeks out of 10.</div>
-    </div>
-    <div class="day">
-      <div class="when"><span class="chip" style="background:var(--ink)"></span>Deadline</div>
-      <div><h3>Team sheets are in</h3><p>The one moment every team is visible. It leads with the boldest call in the league, then who bought and sold whom, and exactly where your team now differs from your rival's.</p></div>
-      <div class="mini"><div class="k">The headline move</div><b>Arjun sells Haaland.</b> 14 of 18 still own him. If he hauls, Arjun will hear about it.</div>
-    </div>
-    <div class="day">
-      <div class="when"><span class="chip" style="background:var(--red)"></span>Match day</div>
-      <div><h3>Live</h3><p>Every player told as one story through your league: who starts him, who captained him, what his points just did to the table. Checked every 10 minutes while games are on.</p></div>
-      <div class="mini"><div class="k">71' · Goal</div><b>Mbeumo</b> scores. 12 points so far.<br><span class="imp">ONLY Dev starts him</span> <span class="imp red">Dev up to 2nd</span></div>
-    </div>
-    <div class="day">
-      <div class="when"><span class="chip" style="background:var(--pitch)"></span>After full time</div>
-      <div><h3>The Gaffer's Gameweek</h3><p>Once FPL closes the gameweek, the Gaffer arrives: winners, losers, the decision of the week, and every manager rated out of 10. Tap "Why 7?" and you see exactly how your score was worked out.</p></div>
-      <div class="mini"><div class="k">Decision of the week</div>Three of you benched <b>Gordon</b>. He scored 15. Nobody's saying anything. Yet.</div>
-    </div>
-  </div>
-  <p class="note">Every drop has a "Tell the group" button, so it ends up where your league actually talks.</p>
-</div></section>
-
-<section id="myteam"><div class="wrap">
-  <div class="label">My team</div>
-  <h2>Your team, seen<br>through your league</h2>
-  <p class="intro">FPL tells you about your players. MicroManager tells you what they mean in your league, and turns it into a plan for the deadline.</p>
-  <div class="split">
-    <div class="points">
-      <div class="pt"><h3>A game plan, not a pile of stats</h3><p>One move for each free transfer, each with its own reason. It never suggests taking a hit.</p></div>
-      <div class="pt"><h3>Bold or safe, depending on where you stand</h3><p>Chasing? Go for it leads. Protecting a lead? Play it safe does. Best on paper is always there too.</p></div>
-      <div class="pt"><h3>Try your own move</h3><p>Check a transfer against what your rivals own before you make it, then see how it worked out.</p></div>
-      <div class="pt"><h3>League watch</h3><p>What the managers around you own, and whether they've been playing it safe or swinging lately.</p></div>
-    </div>
-    <div class="plan" role="img" aria-label="Example of the GW plan in My team">
-      <div class="tabs"><span class="on">GW plan</span><span>Your team</span><span>League watch</span></div>
-      <div class="stance">You're 3 behind Dev with 1 free transfer. Time to chase.</div>
-      <div class="opt">
-        <div class="h"><b>Go for it</b><span class="star">★ For you</span></div>
-        <div class="move"><span class="out">Solanke</span> → <span class="in">Isak</span></div>
-        <p>Dev owns Isak and you don't. Out of form and tougher games ahead for Solanke.</p>
-      </div>
-      <div class="opt dim">
-        <div class="h"><b>Play it safe</b></div>
-        <p>Bank the transfer. You can hold up to 5.</p>
-      </div>
-      <div class="opt dim">
-        <div class="h"><b>Best on paper</b></div>
-        <p>The move with the highest expected points, whoever owns him.</p>
-      </div>
-    </div>
-  </div>
-</div></section>
-
-<section id="awards"><div class="wrap">
-  <div class="label">Every gameweek</div>
-  <h2>The awards nobody<br>asked for</h2>
-  <p class="intro">Handed out after every gameweek, worked out from the data, never invented.</p>
-  <div class="awards">
-    <span class="aw"><i style="background:#0A6B43"></i>Manager of the Week</span>
-    <span class="aw"><i style="background:#15171C"></i>Captain of the Week</span>
-    <span class="aw"><i style="background:#2457C5"></i>Transfer Genius</span>
-    <span class="aw"><i style="background:#6B3FC4"></i>Rocket</span>
-    <span class="aw"><i style="background:#D97706"></i>Bench Disaster</span>
-    <span class="aw"><i style="background:#B4321F"></i>Armband Agony</span>
-    <span class="aw"><i style="background:#D97706"></i>Transfer Flop</span>
-    <span class="aw"><i style="background:#6B3FC4"></i>The One That Got Away</span>
-    <span class="aw"><i style="background:#B4321F"></i>Free Fall</span>
-    <span class="aw"><i style="background:#15171C"></i>The Doghouse</span>
-  </div>
-  <p class="pic">Plus the week in one picture: the headline, the storyline, the awards and the table, sized for the group chat.</p>
-</div></section>
-
-<section id="isnt"><div class="wrap">
-  <div class="label">Straight answers</div>
-  <h2>What it isn't</h2>
-  <div class="nots">
-    <div class="not"><h3>Another stats site</h3><p>The numbers are there to back up a story. If something doesn't tell you anything new about your league, it doesn't make the page.</p></div>
-    <div class="not"><h3>An app to download</h3><p>It's a link your league opens from the group chat. No accounts, no passwords. You pick your name once and it's yours.</p></div>
-    <div class="not"><h3>Made up</h3><p>Every number comes from FPL's own data and is checked before it goes up. If a line doesn't match the numbers, it's rewritten or it doesn't run.</p></div>
+  <h2>A weekly show<br>about your league</h2>
+  <ol class="week">
+    <li><span class="when">Two days out</span><b>The market</b><span class="what">Price moves on your players and your rival's, and who here owns FPL's most-bought.</span></li>
+    <li><span class="when">Day before</span><b>On the line</b><span class="what">What this weekend could do to you, the title race and the zone lines.</span></li>
+    <li><span class="when">Deadline</span><b>Team sheets are in</b><span class="what">The boldest call in the league, and where your team differs from your rival's.</span></li>
+    <li><span class="when">Match day</span><b>Live</b><span class="what">Every goal told through your league: who starts him, who captained him.</span></li>
+    <li><span class="when">After full time</span><b>The Gaffer's Gameweek</b><span class="what">Every manager rated out of 10, with the reasons.</span></li>
+  </ol>
+  <div class="extras">
+    <div><h3>A plan for your deadline</h3><p>My team turns your squad and your rivals' into a few clear options: go for it, play it safe, or best on paper. It never suggests a hit.</p></div>
+    <div><h3>Awards nobody asked for</h3><p>Bench Disaster, Armband Agony, The One That Got Away, The Doghouse and more, every gameweek, plus a picture of the week for the group chat.</p></div>
   </div>
 </div></section>
 
 <section class="join-sec" id="join"><div class="wrap">
   <div class="label">Get it for your league</div>
-  <h2>Want this for<br>your mini-league?</h2>
-  <p class="intro">We're setting leagues up a few at a time before we open up in December. Send your league ID and we'll be in touch.</p>
-  <div class="join-grid" style="margin-top:32px">
+  <h2>Want it for<br>your league?</h2>
+  <p class="intro">We're setting leagues up a few at a time before opening in December. Send your league ID and we'll be in touch.</p>
+  <div class="join-grid" style="margin-top:28px">
     <form id="gi-form" data-to="hello@yourmicromanager.com" novalidate>
       <label>FPL league ID<input name="league" inputmode="numeric" pattern="[0-9]*" maxlength="9" placeholder="e.g. 123456" required autocomplete="off"><small>The number in your league's address on the FPL site</small></label>
       <label><span>Your WhatsApp <small>(optional)</small></span><input name="contact" maxlength="80" placeholder="+44…" autocomplete="tel"></label>
@@ -325,10 +209,9 @@ footer a{color:rgba(255,255,255,.8)}
     </form>
     <div class="help">
       <h3>Where's my league ID?</h3>
-      <p>Open your league on the FPL website. The ID is the number in the address bar:</p>
+      <p>Open your league on the FPL website. It's the number in the address:</p>
       <code>fantasy.premierleague.com/leagues/<u>123456</u>/standings/c</code>
-      <h3>What happens next</h3>
-      <p>Your email app opens with the request filled in. Hit send, and we'll get back to you about setting up your league. No email app? Write to <a href="mailto:hello@yourmicromanager.com">hello@yourmicromanager.com</a>.</p>
+      <p class="small">No app, no accounts: your league just opens a link. Sending the form opens your email with the request filled in. Or write to <a href="mailto:hello@yourmicromanager.com">hello@yourmicromanager.com</a>.</p>
     </div>
   </div>
 </div></section>
