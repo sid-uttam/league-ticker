@@ -2,10 +2,10 @@
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex">
-<title>MicroManager · Your FPL mini-league's own sports desk</title>
-<meta name="description" content="A pundit who rates every manager in your Fantasy Premier League mini-league, live stories on match day, and a deadline plan built around the people you're trying to beat.">
-<meta property="og:title" content="MicroManager · Your FPL mini-league's own sports desk">
-<meta property="og:description" content="The Gaffer rates every manager in your league after each gameweek. Live stories on match day, a plan for the deadline, and pictures your group chat will actually post.">
+<title>MicroManager · Every mini-league has a story</title>
+<meta name="description" content="A daily show for your Fantasy Premier League mini-league, and a game plan for every manager in it. Built from your league's own FPL data. One link, no app.">
+<meta property="og:title" content="MicroManager · Every mini-league has a story. Now someone's telling yours.">
+<meta property="og:description" content="A daily show for your FPL mini-league, a game plan for every manager in it, and the Gaffer rating everyone out of 10 after each gameweek.">
 <meta name="theme-color" content="#15171C">
 <script>
 // Links shared before Shoaru's Revenge moved to its own address carried ?from=...; those still go there.
@@ -43,7 +43,8 @@ a{color:inherit}
 /* hero */
 .hero{padding:40px 0 52px;border-bottom:1px solid var(--line)}
 .hero .wrap{display:grid;grid-template-columns:1fr;gap:44px;align-items:center}
-h1{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font-size:clamp(54px,11vw,88px);line-height:.9;letter-spacing:-.005em;margin-top:14px}
+h1{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font-size:clamp(50px,10.5vw,84px);line-height:.9;letter-spacing:-.005em;margin-top:14px}
+h1 .now{display:block;margin-top:10px;font-size:.56em;line-height:1;color:var(--green)}
 .lead{margin-top:20px;font-size:18.5px;line-height:1.55;color:#33363D;max-width:34em}
 .cta{margin-top:28px;display:flex;flex-wrap:wrap;align-items:center;gap:14px 20px}
 .btn{display:inline-flex;align-items:center;gap:8px;min-height:52px;padding:0 22px;border-radius:12px;background:var(--green);color:#fff;font-weight:700;font-size:16px;text-decoration:none;border:0;cursor:pointer;font-family:inherit}
@@ -51,6 +52,32 @@ h1{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font
 .btn:focus-visible,input:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
 .status{font-size:14px;color:var(--muted);line-height:1.4}
 .status b{color:var(--ink);font-weight:600}
+
+/* the three things, as links down the page */
+.three{margin-top:22px;display:flex;flex-wrap:wrap;gap:8px}
+.three a{display:inline-flex;align-items:baseline;gap:6px;font-size:14px;font-weight:700;background:#fff;border:1px solid var(--line);border-radius:999px;padding:7px 13px;text-decoration:none;color:var(--ink)}
+.three a span{font-weight:500;color:var(--muted)}
+.three a:hover{border-color:var(--ink)}
+
+/* before / after: the same league, two ways */
+.ba{position:relative;max-width:420px;width:100%;justify-self:center}
+.ba-fpl{background:#E9E6DD;border:1px solid var(--line);border-radius:16px;padding:14px 16px 12px;color:#4A4D55}
+.ba-k{font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.ba-t{width:100%;border-collapse:collapse;font-size:14.5px;font-variant-numeric:tabular-nums}
+.ba-t td{padding:5px 0;border-top:1px solid #D6D2C7}
+.ba-t td:first-child{width:28px;color:var(--muted)}
+.ba-t td:last-child{text-align:right;font-weight:600}
+.ba-t tr.you td{font-weight:700;color:var(--ink)}
+.ba-arrow{text-align:center;font-size:20px;line-height:1;color:var(--muted);margin:8px 0}
+.ba-mm{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px 16px 14px;box-shadow:0 1px 0 rgba(0,0,0,.04),0 24px 48px -28px rgba(21,23,28,.45);border-left:6px solid var(--green)}
+.ba-mm .ba-k{color:var(--green)}
+.ba-mm p{font-size:16.5px;line-height:1.45}
+.ba-mm p b{background:linear-gradient(transparent 60%,#CDEBD9 60%)}
+.ba-q{margin-top:12px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:13.5px;font-weight:700}
+.ba-q span{border:1px solid var(--line);border-radius:999px;padding:5px 11px}
+.ba-q span.go{background:#FFFBEA;border-color:#E6C866}
+.ba-cap{margin-top:14px;text-align:center;font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font-weight:700;font-size:21px;line-height:1.1}
+.ba-cap small{display:block;margin-top:4px;font-family:Inter,system-ui,sans-serif;text-transform:none;font-weight:500;font-size:12.5px;color:var(--muted)}
 
 /* a Gaffer card, built like the real one */
 .sample{position:relative;max-width:400px;width:100%;justify-self:center}
@@ -104,6 +131,10 @@ h2{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font
 .show.gaffer .sub{color:rgba(255,255,255,.65)}
 .show.gaffer h3{font-family:'Playfair Display',Georgia,serif;font-style:italic;text-transform:none;color:var(--gold);font-size:28px}
 .show.gaffer q{color:#fff}
+.gaffer-in{display:grid;grid-template-columns:1fr;gap:22px;align-items:center}
+.show.gaffer .sample{margin:6px 0 4px}
+.show.gaffer .gf{color:var(--ink)}
+.show.gaffer .cap{color:rgba(255,255,255,.6)}
 
 /* two tiles */
 .tiles{margin-top:28px;display:grid;grid-template-columns:1fr;gap:12px}
@@ -158,6 +189,7 @@ footer a{color:rgba(255,255,255,.8)}
   section{padding:76px 0}
   .shows{grid-template-columns:repeat(2,1fr)}
   .show.gaffer{grid-column:span 2}
+  .gaffer-in{grid-template-columns:1fr 400px;gap:40px}
   .tiles{grid-template-columns:1fr 1fr}
   .join-grid{grid-template-columns:460px 1fr;gap:56px}
 }
@@ -176,40 +208,36 @@ footer a{color:rgba(255,255,255,.8)}
 <div class="hero"><div class="wrap">
   <div>
     <div class="label">For Fantasy Premier League mini-leagues</div>
-    <h1>Your league's own sports desk</h1>
-    <p class="lead">Meet the Gaffer. After every gameweek he rates everyone in your mini-league out of 10, and he doesn't hold back. In between, there's something new about your league almost every day.</p>
+    <h1>Every mini-league has a story.<span class="now">Now someone's telling yours.</span></h1>
+    <p class="lead">A daily show for your group, and a game plan for every manager in it. Built from your league's own FPL data. One link, no app.</p>
     <div class="cta">
       <a class="btn" href="#join">Send us your league ID</a>
       <span class="status">Setting up a few leagues at a time.<br><b>Opening to league admins in December.</b></span>
     </div>
-    <div class="pills"><span>No app, just a link</span><span>Made for the group chat</span><span>Built on FPL's own data</span></div>
+    <nav class="three" aria-label="What your league gets">
+      <a href="#week">The show <span>for the group</span></a>
+      <a href="#plan">The plan <span>for you</span></a>
+      <a href="#verdict">The verdict <span>for the banter</span></a>
+    </nav>
   </div>
 
-  <div class="sample">
+  <div class="ba">
     <span class="tag">Sample</span>
-    <div class="gf" role="img" aria-label="Example of the Gaffer's Gameweek card for a made-up league">
-      <div class="gf-head">
-        <div class="gf-mast">
-          <div class="ft">FT</div>
-          <div class="gf-np"><div class="t">The Gaffer's</div><div class="s">GAMEWEEK</div><div class="k">GW11 · final scores</div></div>
-        </div>
-        <div class="gf-hl">Tom's lone captain pays off as Jamie's bench costs him top spot</div>
-      </div>
-      <div class="gf-body">
-        <p class="gf-sf">Tom captained a player nobody else had and won the week with 81. The lead changed hands for the third time this season.</p>
-        <div class="me">
-          <div class="score">7<small>/10</small></div>
-          <div><div class="lbl">The Gaffer's rating for you</div><div class="pts">64 pts this week</div><span class="why">Why 7? ▾</span></div>
-        </div>
-        <div class="rows">
-          <h4 class="w">Winners</h4>
-          <div class="r"><span class="n g">9</span><p><b>Tom</b> · Went alone on the armband and got 26 back. Brave, and this time right.</p></div>
-          <h4 class="l">Losers</h4>
-          <div class="r"><span class="n b">2</span><p><b>Jamie</b> · 19 points on the bench in a week he lost the lead by 4. The group chat will be gentle. It won't.</p></div>
-        </div>
-      </div>
+    <div class="ba-fpl" role="img" aria-label="A plain league table: 1st Tom 631, 2nd Ben 615, 3rd You 612">
+      <div class="ba-k">What the FPL table tells you</div>
+      <table class="ba-t">
+        <tr><td>1</td><td>Tom</td><td>631</td></tr>
+        <tr><td>2</td><td>Ben</td><td>615</td></tr>
+        <tr class="you"><td>3</td><td>You</td><td>612</td></tr>
+      </table>
     </div>
-    <p class="cap">A made-up league. Yours would be about your mates.</p>
+    <div class="ba-arrow" aria-hidden="true">↓</div>
+    <div class="ba-mm">
+      <div class="ba-k">What MicroManager tells you</div>
+      <p>You're <b>3 behind Ben</b>, and he has Watkins. If Watkins scores on Saturday, Ben pulls away. <b>Only 1 of 18</b> of you own Isak: one good weekend with him and you're past Ben.</p>
+      <div class="ba-q"><span>Match him</span><span class="go">★ Go for it</span></div>
+    </div>
+    <p class="ba-cap">Same league. Same points.<br>Now it means something.<small>A made-up league. Yours would be about your mates.</small></p>
   </div>
 </div></div>
 
@@ -226,12 +254,40 @@ footer a{color:rgba(255,255,255,.8)}
       <h3>Team sheets are in</h3><q><b>Sam sold Haaland.</b> 14 of 18 of you still have him.</q></div>
     <div class="show" style="--c:#B4321F"><div class="top"><span class="day">Match day</span><span class="sub">Live, through your league</span></div>
       <h3>Live</h3><q>Goal. <b>Only Ben has him.</b> Ben goes up to 2nd.</q></div>
-    <div class="show gaffer"><div class="top"><span class="day">After the weekend</span><span class="sub">The verdict</span></div>
-      <h3>The Gaffer's Gameweek</h3><q>Everyone rated out of 10, with the reasons. Someone's getting a 2.</q></div>
+    <div class="show gaffer" id="verdict"><div class="top"><span class="day">After the weekend</span><span class="sub">The verdict</span></div>
+      <div class="gaffer-in">
+        <div><h3>The Gaffer's Gameweek</h3><q>Everyone rated out of 10, with the reasons. Someone's getting a 2.</q></div>
+        <div class="sample">
+          <span class="tag">Sample</span>
+          <div class="gf" role="img" aria-label="Example of the Gaffer's Gameweek card for a made-up league">
+            <div class="gf-head">
+              <div class="gf-mast">
+                <div class="ft">FT</div>
+                <div class="gf-np"><div class="t">The Gaffer's</div><div class="s">GAMEWEEK</div><div class="k">GW11 · final scores</div></div>
+              </div>
+              <div class="gf-hl">Tom's lone captain pays off as Jamie's bench costs him top spot</div>
+            </div>
+            <div class="gf-body">
+              <p class="gf-sf">Tom captained a player nobody else had and won the week with 81. The lead changed hands for the third time this season.</p>
+              <div class="me">
+                <div class="score">7<small>/10</small></div>
+                <div><div class="lbl">The Gaffer's rating for you</div><div class="pts">64 pts this week</div><span class="why">Why 7? ▾</span></div>
+              </div>
+              <div class="rows">
+                <h4 class="w">Winners</h4>
+                <div class="r"><span class="n g">9</span><p><b>Tom</b> · Went alone on the armband and got 26 back. Brave, and this time right.</p></div>
+                <h4 class="l">Losers</h4>
+                <div class="r"><span class="n b">2</span><p><b>Jamie</b> · 19 points on the bench in a week he lost the lead by 4. The group chat will be gentle. It won't.</p></div>
+              </div>
+            </div>
+          </div>
+          <p class="cap">A made-up league. Yours would be about your mates.</p>
+        </div>
+      </div></div>
   </div>
 
   <div class="tiles">
-    <div class="tile plan">
+    <div class="tile plan" id="plan">
       <h3>A plan for the deadline</h3>
       <p>Your options for the week, worked out against the people you're trying to beat. One move per free transfer, never a points hit.</p>
       <div class="pcard">
