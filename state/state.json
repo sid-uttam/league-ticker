@@ -565,7 +565,7 @@
    ],
    "ts": "2026-11-08T14:29:16Z",
    "gw": 10,
-   "img": "share/live/gw10-lead-2e7797ac48.png"
+   "img": "share/live/gw10-lead-46d531c725.png"
   },
   {
    "key": "l10:ret:127:1:0",
@@ -719,7 +719,7 @@
    ],
    "ts": "2026-11-07T19:28:51Z",
    "gw": 10,
-   "img": "share/live/gw10-p411-e9811f8a25.png"
+   "img": "share/live/gw10-p411-f0a59f4698.png"
   },
   {
    "key": "d10:regret:167:2:0",
@@ -764,7 +764,7 @@
    ],
    "ts": "2026-11-07T18:46:18Z",
    "gw": 10,
-   "img": "share/live/gw10-p399-191584f173.png"
+   "img": "share/live/gw10-p399-d9c0b33649.png"
   },
   {
    "key": "l10:ret:399:1:0",
@@ -1150,7 +1150,7 @@
     "body": "A differential return: nobody else gets these points. And he's Hishaan's captain."
    },
    "ai": true,
-   "img": "share/live/gw10-p249-66b76c038f.png"
+   "img": "share/live/gw10-p249-0405a78c41.png"
   },
   {
    "key": "l10:ret:249:2:0",
@@ -2860,8 +2860,8 @@
    "7471754": 6,
    "1378937": 7,
    "5489583": 8,
-   "3506595": 9,
    "4125292": 9,
+   "3506595": 9,
    "962024": 11,
    "363548": 12,
    "4922092": 13,
@@ -2891,8 +2891,8 @@
    "7471754": "silver",
    "1378937": "silver",
    "5489583": "silver",
-   "3506595": null,
    "4125292": null,
+   "3506595": null,
    "962024": null,
    "363548": null,
    "4922092": null,
@@ -2914,7 +2914,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-14T17:22:05Z",
+ "updated": "2026-11-14T17:53:09Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -7557,15 +7557,6 @@
     "event_total": 57
    },
    {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 9,
-    "last_rank": 14,
-    "total": 634,
-    "event_total": 74
-   },
-   {
     "entry": 4125292,
     "player_name": "Bhavik Desai",
     "entry_name": "Shawshank Relegation",
@@ -7573,6 +7564,15 @@
     "last_rank": 9,
     "total": 634,
     "event_total": 51
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 9,
+    "last_rank": 14,
+    "total": 634,
+    "event_total": 74
    },
    {
     "entry": 962024,
@@ -13227,19 +13227,19 @@
   ]
  },
  "share": {
-  "key": "a4bdd5dc5434",
+  "key": "14f6e3872ca6",
   "gw": 10,
   "files": {
-   "week": "share/gw10-a4bdd5dc5434-week.png",
-   "motw": "share/gw10-a4bdd5dc5434-motw.png",
-   "captain": "share/gw10-a4bdd5dc5434-captain.png",
-   "genius": "share/gw10-a4bdd5dc5434-genius.png",
-   "rocket": "share/gw10-a4bdd5dc5434-rocket.png",
-   "bench": "share/gw10-a4bdd5dc5434-bench.png",
-   "flop": "share/gw10-a4bdd5dc5434-flop.png",
-   "gotaway": "share/gw10-a4bdd5dc5434-gotaway.png",
-   "fall": "share/gw10-a4bdd5dc5434-fall.png",
-   "spoon": "share/gw10-a4bdd5dc5434-spoon.png"
+   "week": "share/gw10-14f6e3872ca6-week.png",
+   "motw": "share/gw10-14f6e3872ca6-motw.png",
+   "captain": "share/gw10-14f6e3872ca6-captain.png",
+   "genius": "share/gw10-14f6e3872ca6-genius.png",
+   "rocket": "share/gw10-14f6e3872ca6-rocket.png",
+   "bench": "share/gw10-14f6e3872ca6-bench.png",
+   "flop": "share/gw10-14f6e3872ca6-flop.png",
+   "gotaway": "share/gw10-14f6e3872ca6-gotaway.png",
+   "fall": "share/gw10-14f6e3872ca6-fall.png",
+   "spoon": "share/gw10-14f6e3872ca6-spoon.png"
   }
  },
  "plot_log": {
@@ -14692,7 +14692,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-14T17:22:05Z",
+  "ts": "2026-11-14T17:53:09Z",
   "issues": [],
   "page": []
  },
@@ -15069,23 +15069,23 @@
   "files": {
    "lead": {
     "key": "l10:lead:1092588:678",
-    "sig": "2e7797ac48",
-    "file": "share/live/gw10-lead-2e7797ac48.png"
+    "sig": "46d531c725",
+    "file": "share/live/gw10-lead-46d531c725.png"
    },
    "p411": {
     "key": "d10:capflop:411",
-    "sig": "e9811f8a25",
-    "file": "share/live/gw10-p411-e9811f8a25.png"
+    "sig": "f0a59f4698",
+    "file": "share/live/gw10-p411-f0a59f4698.png"
    },
    "p249": {
     "key": "l10:ret:249:2:1",
-    "sig": "66b76c038f",
-    "file": "share/live/gw10-p249-66b76c038f.png"
+    "sig": "0405a78c41",
+    "file": "share/live/gw10-p249-0405a78c41.png"
    },
    "p399": {
     "key": "d10:sold:399:1:0",
-    "sig": "191584f173",
-    "file": "share/live/gw10-p399-191584f173.png"
+    "sig": "d9c0b33649",
+    "file": "share/live/gw10-p399-d9c0b33649.png"
    }
   }
  }
