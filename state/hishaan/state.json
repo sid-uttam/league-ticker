@@ -7611,7 +7611,8 @@
     6279027
    ],
    "ts": "2026-11-08T17:57:32Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p166-0631785bfd.png"
   },
   {
    "key": "d10:bought:166:1:1",
@@ -7834,7 +7835,8 @@
     3350483
    ],
    "ts": "2026-11-08T15:40:01Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p592-ea10604e91.png"
   },
   {
    "key": "l10:cs-lost:Bournemouth",
@@ -8045,7 +8047,8 @@
     7043406
    ],
    "ts": "2026-11-08T14:42:23Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p552-53729b9c63.png"
   },
   {
    "key": "d10:regret:127:1:0",
@@ -8147,7 +8150,8 @@
     6476662
    ],
    "ts": "2026-11-08T08:30:05Z",
-   "gw": 10
+   "gw": 10,
+   "img": "share/live/gw10-p411-8d2f5d1781.png"
   },
   {
    "key": "d10:lone-wolves",
@@ -9458,7 +9462,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-14T16:51:42Z",
+ "updated": "2026-11-14T17:22:42Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723, just 1 point ahead of Matt after your 73. Matt's Bench Boost threat is real, so watch his next move closely.",
@@ -11283,18 +11287,18 @@
   ]
  },
  "share": {
-  "key": "0768619bf8bd",
+  "key": "83f2a20672b6",
   "gw": 10,
   "files": {
-   "week": "share/gw10-0768619bf8bd-week.png",
-   "motw": "share/gw10-0768619bf8bd-motw.png",
-   "captain": "share/gw10-0768619bf8bd-captain.png",
-   "genius": "share/gw10-0768619bf8bd-genius.png",
-   "rocket": "share/gw10-0768619bf8bd-rocket.png",
-   "bench": "share/gw10-0768619bf8bd-bench.png",
-   "flop": "share/gw10-0768619bf8bd-flop.png",
-   "fall": "share/gw10-0768619bf8bd-fall.png",
-   "spoon": "share/gw10-0768619bf8bd-spoon.png"
+   "week": "share/gw10-83f2a20672b6-week.png",
+   "motw": "share/gw10-83f2a20672b6-motw.png",
+   "captain": "share/gw10-83f2a20672b6-captain.png",
+   "genius": "share/gw10-83f2a20672b6-genius.png",
+   "rocket": "share/gw10-83f2a20672b6-rocket.png",
+   "bench": "share/gw10-83f2a20672b6-bench.png",
+   "flop": "share/gw10-83f2a20672b6-flop.png",
+   "fall": "share/gw10-83f2a20672b6-fall.png",
+   "spoon": "share/gw10-83f2a20672b6-spoon.png"
   }
  },
  "phase": "between",
@@ -12214,7 +12218,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-14T16:51:42Z",
+  "ts": "2026-11-14T17:22:42Z",
   "issues": [],
   "page": []
  },
@@ -12532,5 +12536,30 @@
   7,
   8,
   9
- ]
+ ],
+ "moment_imgs": {
+  "gw": 10,
+  "files": {
+   "p411": {
+    "key": "d10:capflop:411",
+    "sig": "8d2f5d1781",
+    "file": "share/live/gw10-p411-8d2f5d1781.png"
+   },
+   "p552": {
+    "key": "d10:sold:552:0:1",
+    "sig": "53729b9c63",
+    "file": "share/live/gw10-p552-53729b9c63.png"
+   },
+   "p166": {
+    "key": "l10:cap-haul:166",
+    "sig": "0631785bfd",
+    "file": "share/live/gw10-p166-0631785bfd.png"
+   },
+   "p592": {
+    "key": "d10:regret:592:0:1",
+    "sig": "ea10604e91",
+    "file": "share/live/gw10-p592-ea10604e91.png"
+   }
+  }
+ }
 }
