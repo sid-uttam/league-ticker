@@ -10152,6 +10152,15 @@
     "event_total": 77
    },
    {
+    "entry": 2868149,
+    "player_name": "Akash Singh",
+    "entry_name": "The Gerrardians",
+    "rank": 45,
+    "last_rank": 37,
+    "total": 649,
+    "event_total": 54
+   },
+   {
     "entry": 3566356,
     "player_name": "Jackey Boro",
     "entry_name": "Jackey's Team",
@@ -10170,13 +10179,13 @@
     "event_total": 61
    },
    {
-    "entry": 2868149,
-    "player_name": "Akash Singh",
-    "entry_name": "The Gerrardians",
-    "rank": 45,
-    "last_rank": 37,
-    "total": 649,
-    "event_total": 54
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 48,
+    "last_rank": 49,
+    "total": 648,
+    "event_total": 63
    },
    {
     "entry": 4683090,
@@ -10186,15 +10195,6 @@
     "last_rank": 60,
     "total": 648,
     "event_total": 74
-   },
-   {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 48,
-    "last_rank": 49,
-    "total": 648,
-    "event_total": 63
    },
    {
     "entry": 3239284,
@@ -57367,11 +57367,11 @@
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
+   "2868149": 45,
    "3566356": 45,
    "5640988": 45,
-   "2868149": 45,
-   "4683090": 48,
    "10821": 48,
+   "4683090": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
@@ -57482,11 +57482,11 @@
    "263779": null,
    "4558790": null,
    "4134138": null,
+   "2868149": null,
    "3566356": null,
    "5640988": null,
-   "2868149": null,
-   "4683090": null,
    "10821": null,
+   "4683090": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -57553,7 +57553,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-15T11:30:21Z",
+ "updated": "2026-11-15T12:01:23Z",
  "ai": {
   "briefings": {
    "5949580": "You lead the table on 734, 18 ahead of Neol, but Haaland's blank cost you ground on nothing. Watch Neol and their Freehit chip, and keep an eye on the popular Calafiori and N.Jackson you don't own.",
@@ -63271,7 +63271,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-15T11:30:21Z",
+  "ts": "2026-11-15T12:01:23Z",
   "issues": [],
   "page": []
  },
