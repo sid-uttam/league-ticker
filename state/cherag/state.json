@@ -9936,15 +9936,6 @@
     "event_total": 62
    },
    {
-    "entry": 780469,
-    "player_name": "Sahil Thorve",
-    "entry_name": "NotAnIsakScience",
-    "rank": 21,
-    "last_rank": 42,
-    "total": 672,
-    "event_total": 82
-   },
-   {
     "entry": 107315,
     "player_name": "Sahej Jhamvar",
     "entry_name": "sage",
@@ -9952,6 +9943,15 @@
     "last_rank": 21,
     "total": 672,
     "event_total": 65
+   },
+   {
+    "entry": 780469,
+    "player_name": "Sahil Thorve",
+    "entry_name": "NotAnIsakScience",
+    "rank": 21,
+    "last_rank": 42,
+    "total": 672,
+    "event_total": 82
    },
    {
     "entry": 1662734,
@@ -10152,15 +10152,6 @@
     "event_total": 77
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 38,
-    "total": 649,
-    "event_total": 55
-   },
-   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10168,6 +10159,15 @@
     "last_rank": 45,
     "total": 649,
     "event_total": 61
+   },
+   {
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 45,
+    "last_rank": 38,
+    "total": 649,
+    "event_total": 55
    },
    {
     "entry": 2868149,
@@ -10179,15 +10179,6 @@
     "event_total": 54
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 48,
-    "last_rank": 49,
-    "total": 648,
-    "event_total": 63
-   },
-   {
     "entry": 4683090,
     "player_name": "SHARAN R",
     "entry_name": "Shan FC",
@@ -10195,6 +10186,15 @@
     "last_rank": 60,
     "total": 648,
     "event_total": 74
+   },
+   {
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 48,
+    "last_rank": 49,
+    "total": 648,
+    "event_total": 63
    },
    {
     "entry": 3239284,
@@ -57343,8 +57343,8 @@
    "1305406": 18,
    "2554077": 19,
    "5685525": 20,
-   "780469": 21,
    "107315": 21,
+   "780469": 21,
    "1662734": 23,
    "3323262": 24,
    "3234577": 25,
@@ -57367,11 +57367,11 @@
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
-   "3566356": 45,
    "5640988": 45,
+   "3566356": 45,
    "2868149": 45,
-   "10821": 48,
    "4683090": 48,
+   "10821": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
@@ -57458,8 +57458,8 @@
    "1305406": "silver",
    "2554077": "silver",
    "5685525": "silver",
-   "780469": "silver",
    "107315": "silver",
+   "780469": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "3234577": "silver",
@@ -57482,11 +57482,11 @@
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "3566356": null,
    "5640988": null,
+   "3566356": null,
    "2868149": null,
-   "10821": null,
    "4683090": null,
+   "10821": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -57553,7 +57553,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-15T21:19:48Z",
+ "updated": "2026-11-15T21:50:40Z",
  "ai": {
   "briefings": {
    "5949580": "You lead the table on 734, 18 ahead of Neol, but Haaland's blank cost you ground on nothing. Watch Neol and their Freehit chip, and keep an eye on the popular Calafiori and N.Jackson you don't own.",
@@ -63271,7 +63271,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-15T21:19:48Z",
+  "ts": "2026-11-15T21:50:40Z",
   "issues": [],
   "page": []
  },
