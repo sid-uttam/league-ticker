@@ -9783,15 +9783,6 @@
     "event_total": 73
    },
    {
-    "entry": 13978,
-    "player_name": "Yash Bhatia",
-    "entry_name": "YB",
-    "rank": 4,
-    "last_rank": 3,
-    "total": 702,
-    "event_total": 56
-   },
-   {
     "entry": 1325491,
     "player_name": "akshat awasthi",
     "entry_name": "Nirvana11",
@@ -9799,6 +9790,15 @@
     "last_rank": 7,
     "total": 702,
     "event_total": 72
+   },
+   {
+    "entry": 13978,
+    "player_name": "Yash Bhatia",
+    "entry_name": "YB",
+    "rank": 4,
+    "last_rank": 3,
+    "total": 702,
+    "event_total": 56
    },
    {
     "entry": 3991082,
@@ -10161,15 +10161,6 @@
     "event_total": 55
    },
    {
-    "entry": 5640988,
-    "player_name": "Sundar Sravan",
-    "entry_name": "Bavarian Szobo",
-    "rank": 45,
-    "last_rank": 45,
-    "total": 649,
-    "event_total": 61
-   },
-   {
     "entry": 2868149,
     "player_name": "Akash Singh",
     "entry_name": "The Gerrardians",
@@ -10179,13 +10170,13 @@
     "event_total": 54
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 48,
-    "last_rank": 60,
-    "total": 648,
-    "event_total": 74
+    "entry": 5640988,
+    "player_name": "Sundar Sravan",
+    "entry_name": "Bavarian Szobo",
+    "rank": 45,
+    "last_rank": 45,
+    "total": 649,
+    "event_total": 61
    },
    {
     "entry": 10821,
@@ -10195,6 +10186,15 @@
     "last_rank": 49,
     "total": 648,
     "event_total": 63
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 48,
+    "last_rank": 60,
+    "total": 648,
+    "event_total": 74
    },
    {
     "entry": 3239284,
@@ -10395,15 +10395,6 @@
     "event_total": 53
    },
    {
-    "entry": 10615,
-    "player_name": "Maanas Gupta",
-    "entry_name": "Infinity Inc",
-    "rank": 72,
-    "last_rank": 67,
-    "total": 626,
-    "event_total": 55
-   },
-   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
@@ -10411,6 +10402,15 @@
     "last_rank": 73,
     "total": 626,
     "event_total": 65
+   },
+   {
+    "entry": 10615,
+    "player_name": "Maanas Gupta",
+    "entry_name": "Infinity Inc",
+    "rank": 72,
+    "last_rank": 67,
+    "total": 626,
+    "event_total": 55
    },
    {
     "entry": 3404613,
@@ -10548,15 +10548,6 @@
     "event_total": 69
    },
    {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 89,
-    "last_rank": 80,
-    "total": 604,
-    "event_total": 50
-   },
-   {
     "entry": 2037953,
     "player_name": "Umang Khurana",
     "entry_name": "XI Marauders",
@@ -10564,6 +10555,15 @@
     "last_rank": 96,
     "total": 604,
     "event_total": 69
+   },
+   {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 89,
+    "last_rank": 80,
+    "total": 604,
+    "event_total": 50
    },
    {
     "entry": 686561,
@@ -57326,8 +57326,8 @@
    "5949580": 1,
    "305234": 2,
    "136653": 3,
-   "13978": 4,
    "1325491": 4,
+   "13978": 4,
    "3991082": 6,
    "4722308": 7,
    "2429776": 8,
@@ -57368,10 +57368,10 @@
    "4558790": 43,
    "4134138": 44,
    "3566356": 45,
-   "5640988": 45,
    "2868149": 45,
-   "4683090": 48,
+   "5640988": 45,
    "10821": 48,
+   "4683090": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
@@ -57394,8 +57394,8 @@
    "4314690": 69,
    "2922453": 70,
    "3086063": 71,
-   "10615": 72,
    "4592187": 72,
+   "10615": 72,
    "3404613": 74,
    "1737924": 75,
    "6830291": 76,
@@ -57411,8 +57411,8 @@
    "11673": 86,
    "3389995": 87,
    "4905114": 87,
-   "2723973": 89,
    "2037953": 89,
+   "2723973": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 93,
@@ -57441,8 +57441,8 @@
    "5949580": "gold",
    "305234": "gold",
    "136653": "gold",
-   "13978": "gold",
    "1325491": "gold",
+   "13978": "gold",
    "3991082": "gold",
    "4722308": "gold",
    "2429776": "gold",
@@ -57483,10 +57483,10 @@
    "4558790": null,
    "4134138": null,
    "3566356": null,
-   "5640988": null,
    "2868149": null,
-   "4683090": null,
+   "5640988": null,
    "10821": null,
+   "4683090": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -57509,8 +57509,8 @@
    "4314690": null,
    "2922453": null,
    "3086063": null,
-   "10615": null,
    "4592187": null,
+   "10615": null,
    "3404613": null,
    "1737924": null,
    "6830291": null,
@@ -57526,8 +57526,8 @@
    "11673": null,
    "3389995": null,
    "4905114": null,
-   "2723973": null,
    "2037953": null,
+   "2723973": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -57553,7 +57553,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-15T00:39:07Z",
+ "updated": "2026-11-15T01:10:03Z",
  "ai": {
   "briefings": {
    "5949580": "You lead the table on 734, 18 ahead of Neol, but Haaland's blank cost you ground on nothing. Watch Neol and their Freehit chip, and keep an eye on the popular Calafiori and N.Jackson you don't own.",
@@ -63271,7 +63271,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-15T00:39:07Z",
+  "ts": "2026-11-15T01:10:03Z",
   "issues": [],
   "page": []
  },
