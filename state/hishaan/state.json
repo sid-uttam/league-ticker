@@ -9467,7 +9467,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-16T18:30:33Z",
+ "updated": "2026-11-16T19:01:27Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and 1 point clear of Matt, with 12 bench points and Calafiori as your 12-point captain. Matt's Bench Boost is the main threat, so watch whether you add cover before the deadline.",
@@ -12225,7 +12225,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-16T18:30:33Z",
+  "ts": "2026-11-16T19:01:27Z",
   "issues": [],
   "page": []
  },
@@ -12320,12 +12320,13 @@
    "138": "a|None|",
    "412": "a|None|",
    "481": "a|100|",
-   "469": "a|100|"
+   "469": "d|75|Ankle injury - 75% chance of playing"
   },
   "changed": {
    "268": "2026-11-09T21:31:12Z",
    "286": "2026-11-10T19:04:32Z",
-   "53": "2026-11-12T13:15:58Z"
+   "53": "2026-11-12T13:15:58Z",
+   "469": "2026-11-16T19:01:27Z"
   },
   "price": {
    "1": 6.2,
@@ -12558,6 +12559,14 @@
     "el": 60,
     "kind": "surge",
     "net": 25008
+   },
+   {
+    "ts": "2026-11-16T19:01:27Z",
+    "el": 469,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Ankle injury - 75% chance of playing"
    }
   ]
  },
