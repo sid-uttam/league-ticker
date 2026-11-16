@@ -9783,15 +9783,6 @@
     "event_total": 73
    },
    {
-    "entry": 13978,
-    "player_name": "Yash Bhatia",
-    "entry_name": "YB",
-    "rank": 4,
-    "last_rank": 3,
-    "total": 702,
-    "event_total": 56
-   },
-   {
     "entry": 1325491,
     "player_name": "akshat awasthi",
     "entry_name": "Nirvana11",
@@ -9799,6 +9790,15 @@
     "last_rank": 7,
     "total": 702,
     "event_total": 72
+   },
+   {
+    "entry": 13978,
+    "player_name": "Yash Bhatia",
+    "entry_name": "YB",
+    "rank": 4,
+    "last_rank": 3,
+    "total": 702,
+    "event_total": 56
    },
    {
     "entry": 3991082,
@@ -10080,15 +10080,6 @@
     "event_total": 67
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 37,
-    "last_rank": 47,
-    "total": 654,
-    "event_total": 67
-   },
-   {
     "entry": 6543092,
     "player_name": "Eli K",
     "entry_name": "Liverpool X  FC",
@@ -10096,6 +10087,15 @@
     "last_rank": 32,
     "total": 654,
     "event_total": 57
+   },
+   {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 37,
+    "last_rank": 47,
+    "total": 654,
+    "event_total": 67
    },
    {
     "entry": 1425044,
@@ -10179,15 +10179,6 @@
     "event_total": 54
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 48,
-    "last_rank": 49,
-    "total": 648,
-    "event_total": 63
-   },
-   {
     "entry": 4683090,
     "player_name": "SHARAN R",
     "entry_name": "Shan FC",
@@ -10195,6 +10186,15 @@
     "last_rank": 60,
     "total": 648,
     "event_total": 74
+   },
+   {
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 48,
+    "last_rank": 49,
+    "total": 648,
+    "event_total": 63
    },
    {
     "entry": 3239284,
@@ -57326,8 +57326,8 @@
    "5949580": 1,
    "305234": 2,
    "136653": 3,
-   "13978": 4,
    "1325491": 4,
+   "13978": 4,
    "3991082": 6,
    "4722308": 7,
    "2429776": 8,
@@ -57359,8 +57359,8 @@
    "257074": 34,
    "480904": 35,
    "698784": 36,
-   "4151180": 37,
    "6543092": 37,
+   "4151180": 37,
    "1425044": 39,
    "675013": 40,
    "32831": 41,
@@ -57370,8 +57370,8 @@
    "5640988": 45,
    "3566356": 45,
    "2868149": 45,
-   "10821": 48,
    "4683090": 48,
+   "10821": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
@@ -57441,8 +57441,8 @@
    "5949580": "gold",
    "305234": "gold",
    "136653": "gold",
-   "13978": "gold",
    "1325491": "gold",
+   "13978": "gold",
    "3991082": "gold",
    "4722308": "gold",
    "2429776": "gold",
@@ -57474,8 +57474,8 @@
    "257074": null,
    "480904": null,
    "698784": null,
-   "4151180": null,
    "6543092": null,
+   "4151180": null,
    "1425044": null,
    "675013": null,
    "32831": null,
@@ -57485,8 +57485,8 @@
    "5640988": null,
    "3566356": null,
    "2868149": null,
-   "10821": null,
    "4683090": null,
+   "10821": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -57553,7 +57553,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-16T21:04:52Z",
+ "updated": "2026-11-16T21:35:46Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734 after a 70-point week, 18 clear of Neol. Your main threat is Neol, while Calafiori, N.Jackson and Rogers are popular players you don't own. Watch your freehit chip and your 21 bench points.",
@@ -63284,7 +63284,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-16T21:04:52Z",
+  "ts": "2026-11-16T21:35:46Z",
   "issues": [],
   "page": []
  },
