@@ -10152,13 +10152,13 @@
     "event_total": 77
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
+    "entry": 2868149,
+    "player_name": "Akash Singh",
+    "entry_name": "The Gerrardians",
     "rank": 45,
-    "last_rank": 38,
+    "last_rank": 37,
     "total": 649,
-    "event_total": 55
+    "event_total": 54
    },
    {
     "entry": 5640988,
@@ -10170,22 +10170,13 @@
     "event_total": 61
    },
    {
-    "entry": 2868149,
-    "player_name": "Akash Singh",
-    "entry_name": "The Gerrardians",
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
     "rank": 45,
-    "last_rank": 37,
+    "last_rank": 38,
     "total": 649,
-    "event_total": 54
-   },
-   {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 48,
-    "last_rank": 60,
-    "total": 648,
-    "event_total": 74
+    "event_total": 55
    },
    {
     "entry": 10821,
@@ -10195,6 +10186,15 @@
     "last_rank": 49,
     "total": 648,
     "event_total": 63
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 48,
+    "last_rank": 60,
+    "total": 648,
+    "event_total": 74
    },
    {
     "entry": 3239284,
@@ -10548,15 +10548,6 @@
     "event_total": 62
    },
    {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
-    "rank": 89,
-    "last_rank": 96,
-    "total": 604,
-    "event_total": 69
-   },
-   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -10564,6 +10555,15 @@
     "last_rank": 80,
     "total": 604,
     "event_total": 50
+   },
+   {
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
+    "rank": 89,
+    "last_rank": 96,
+    "total": 604,
+    "event_total": 69
    },
    {
     "entry": 686561,
@@ -57367,11 +57367,11 @@
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
-   "3566356": 45,
-   "5640988": 45,
    "2868149": 45,
-   "4683090": 48,
+   "5640988": 45,
+   "3566356": 45,
    "10821": 48,
+   "4683090": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
@@ -57411,8 +57411,8 @@
    "11673": 86,
    "4905114": 87,
    "3389995": 87,
-   "2037953": 89,
    "2723973": 89,
+   "2037953": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 93,
@@ -57482,11 +57482,11 @@
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "3566356": null,
-   "5640988": null,
    "2868149": null,
-   "4683090": null,
+   "5640988": null,
+   "3566356": null,
    "10821": null,
+   "4683090": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -57526,8 +57526,8 @@
    "11673": null,
    "4905114": null,
    "3389995": null,
-   "2037953": null,
    "2723973": null,
+   "2037953": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -57553,7 +57553,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-17T04:21:13Z",
+ "updated": "2026-11-17T04:52:04Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734 after a 70-point week, 18 clear of Neol. Watch Neol's push and the Free Hit chip you still hold.",
@@ -63284,7 +63284,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-17T04:21:13Z",
+  "ts": "2026-11-17T04:52:04Z",
   "issues": [],
   "page": []
  },
