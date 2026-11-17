@@ -10080,15 +10080,6 @@
     "event_total": 67
    },
    {
-    "entry": 6543092,
-    "player_name": "Eli K",
-    "entry_name": "Liverpool X  FC",
-    "rank": 37,
-    "last_rank": 32,
-    "total": 654,
-    "event_total": 57
-   },
-   {
     "entry": 4151180,
     "player_name": "kashish dadwal",
     "entry_name": "Palmer's Angels",
@@ -10096,6 +10087,15 @@
     "last_rank": 47,
     "total": 654,
     "event_total": 67
+   },
+   {
+    "entry": 6543092,
+    "player_name": "Eli K",
+    "entry_name": "Liverpool X  FC",
+    "rank": 37,
+    "last_rank": 32,
+    "total": 654,
+    "event_total": 57
    },
    {
     "entry": 1425044,
@@ -10530,15 +10530,6 @@
     "event_total": 57
    },
    {
-    "entry": 4905114,
-    "player_name": "Anuj Joglekar",
-    "entry_name": "Summer Tzolstis",
-    "rank": 87,
-    "last_rank": 95,
-    "total": 605,
-    "event_total": 69
-   },
-   {
     "entry": 3389995,
     "player_name": "Stephen Menezes",
     "entry_name": "Goal Diggers",
@@ -10548,13 +10539,13 @@
     "event_total": 62
    },
    {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 89,
-    "last_rank": 80,
-    "total": 604,
-    "event_total": 50
+    "entry": 4905114,
+    "player_name": "Anuj Joglekar",
+    "entry_name": "Summer Tzolstis",
+    "rank": 87,
+    "last_rank": 95,
+    "total": 605,
+    "event_total": 69
    },
    {
     "entry": 2037953,
@@ -10564,6 +10555,15 @@
     "last_rank": 96,
     "total": 604,
     "event_total": 69
+   },
+   {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 89,
+    "last_rank": 80,
+    "total": 604,
+    "event_total": 50
    },
    {
     "entry": 686561,
@@ -57359,8 +57359,8 @@
    "257074": 34,
    "480904": 35,
    "698784": 36,
-   "6543092": 37,
    "4151180": 37,
+   "6543092": 37,
    "1425044": 39,
    "675013": 40,
    "32831": 41,
@@ -57409,10 +57409,10 @@
    "4811914": 84,
    "699330": 85,
    "11673": 86,
-   "4905114": 87,
    "3389995": 87,
-   "2723973": 89,
+   "4905114": 87,
    "2037953": 89,
+   "2723973": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 93,
@@ -57474,8 +57474,8 @@
    "257074": null,
    "480904": null,
    "698784": null,
-   "6543092": null,
    "4151180": null,
+   "6543092": null,
    "1425044": null,
    "675013": null,
    "32831": null,
@@ -57524,10 +57524,10 @@
    "4811914": null,
    "699330": null,
    "11673": null,
-   "4905114": null,
    "3389995": null,
-   "2723973": null,
+   "4905114": null,
    "2037953": null,
+   "2723973": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -57553,7 +57553,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-17T02:47:03Z",
+ "updated": "2026-11-17T03:18:02Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734 after a 70-point week, 18 clear of Neol. Watch Neol's push and the Free Hit chip you still hold.",
@@ -63284,7 +63284,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-17T02:47:03Z",
+  "ts": "2026-11-17T03:18:02Z",
   "issues": [],
   "page": []
  },
