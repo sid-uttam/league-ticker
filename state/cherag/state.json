@@ -10080,15 +10080,6 @@
     "event_total": 67
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 37,
-    "last_rank": 47,
-    "total": 654,
-    "event_total": 67
-   },
-   {
     "entry": 6543092,
     "player_name": "Eli K",
     "entry_name": "Liverpool X  FC",
@@ -10096,6 +10087,15 @@
     "last_rank": 32,
     "total": 654,
     "event_total": 57
+   },
+   {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 37,
+    "last_rank": 47,
+    "total": 654,
+    "event_total": 67
    },
    {
     "entry": 1425044,
@@ -10152,15 +10152,6 @@
     "event_total": 77
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 38,
-    "total": 649,
-    "event_total": 55
-   },
-   {
     "entry": 2868149,
     "player_name": "Akash Singh",
     "entry_name": "The Gerrardians",
@@ -10168,6 +10159,15 @@
     "last_rank": 37,
     "total": 649,
     "event_total": 54
+   },
+   {
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 45,
+    "last_rank": 38,
+    "total": 649,
+    "event_total": 55
    },
    {
     "entry": 5640988,
@@ -57359,16 +57359,16 @@
    "257074": 34,
    "480904": 35,
    "698784": 36,
-   "4151180": 37,
    "6543092": 37,
+   "4151180": 37,
    "1425044": 39,
    "675013": 40,
    "32831": 41,
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
-   "3566356": 45,
    "2868149": 45,
+   "3566356": 45,
    "5640988": 45,
    "10821": 48,
    "4683090": 48,
@@ -57474,16 +57474,16 @@
    "257074": null,
    "480904": null,
    "698784": null,
-   "4151180": null,
    "6543092": null,
+   "4151180": null,
    "1425044": null,
    "675013": null,
    "32831": null,
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "3566356": null,
    "2868149": null,
+   "3566356": null,
    "5640988": null,
    "10821": null,
    "4683090": null,
@@ -57553,7 +57553,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-18T20:09:22Z",
+ "updated": "2026-11-18T20:40:12Z",
  "ai": {
   "briefings": {
    "5949580": "You lead on 734, 18 clear of Neol, after a 70-point week with Haaland blanking your armband. Neol is the main threat, so keep Tavernier and watch the chasing pack.",
@@ -63284,7 +63284,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-18T20:09:22Z",
+  "ts": "2026-11-18T20:40:12Z",
   "issues": [],
   "page": []
  },
