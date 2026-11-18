@@ -10152,6 +10152,15 @@
     "event_total": 77
    },
    {
+    "entry": 2868149,
+    "player_name": "Akash Singh",
+    "entry_name": "The Gerrardians",
+    "rank": 45,
+    "last_rank": 37,
+    "total": 649,
+    "event_total": 54
+   },
+   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10168,15 +10177,6 @@
     "last_rank": 38,
     "total": 649,
     "event_total": 55
-   },
-   {
-    "entry": 2868149,
-    "player_name": "Akash Singh",
-    "entry_name": "The Gerrardians",
-    "rank": 45,
-    "last_rank": 37,
-    "total": 649,
-    "event_total": 54
    },
    {
     "entry": 4683090,
@@ -10530,15 +10530,6 @@
     "event_total": 57
    },
    {
-    "entry": 3389995,
-    "player_name": "Stephen Menezes",
-    "entry_name": "Goal Diggers",
-    "rank": 87,
-    "last_rank": 89,
-    "total": 605,
-    "event_total": 62
-   },
-   {
     "entry": 4905114,
     "player_name": "Anuj Joglekar",
     "entry_name": "Summer Tzolstis",
@@ -10546,6 +10537,15 @@
     "last_rank": 95,
     "total": 605,
     "event_total": 69
+   },
+   {
+    "entry": 3389995,
+    "player_name": "Stephen Menezes",
+    "entry_name": "Goal Diggers",
+    "rank": 87,
+    "last_rank": 89,
+    "total": 605,
+    "event_total": 62
    },
    {
     "entry": 2037953,
@@ -57367,9 +57367,9 @@
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
+   "2868149": 45,
    "5640988": 45,
    "3566356": 45,
-   "2868149": 45,
    "4683090": 48,
    "10821": 48,
    "3239284": 50,
@@ -57409,8 +57409,8 @@
    "4811914": 84,
    "699330": 85,
    "11673": 86,
-   "3389995": 87,
    "4905114": 87,
+   "3389995": 87,
    "2037953": 89,
    "2723973": 89,
    "686561": 91,
@@ -57482,9 +57482,9 @@
    "263779": null,
    "4558790": null,
    "4134138": null,
+   "2868149": null,
    "5640988": null,
    "3566356": null,
-   "2868149": null,
    "4683090": null,
    "10821": null,
    "3239284": null,
@@ -57524,8 +57524,8 @@
    "4811914": null,
    "699330": null,
    "11673": null,
-   "3389995": null,
    "4905114": null,
+   "3389995": null,
    "2037953": null,
    "2723973": null,
    "686561": null,
@@ -57553,7 +57553,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-18T10:20:15Z",
+ "updated": "2026-11-18T10:51:11Z",
  "ai": {
   "briefings": {
    "5949580": "You lead on 734, 18 clear of Neol, after a 70-point week with Haaland blanking your armband. Neol is the main threat, so keep Tavernier and watch the chasing pack.",
@@ -63284,7 +63284,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-18T10:20:15Z",
+  "ts": "2026-11-18T10:51:11Z",
   "issues": [],
   "page": []
  },
