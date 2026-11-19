@@ -2941,7 +2941,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-19T14:15:34Z",
+ "updated": "2026-11-19T14:47:05Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -14718,12 +14718,9 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-19T14:15:34Z",
+  "ts": "2026-11-19T14:47:05Z",
   "issues": [],
-  "page": [
-   "briefing for Tonna: \"actually 5 behind Nanik, and 8 ahead of Edd.\" has a gap of 5; the gaps between Edd / Nanik are 13",
-   "briefing for Tonna: \"actually 5 behind Nanik, and 8 ahead of Edd.\" has a gap of 8; the gaps between Edd / Nanik are 13"
-  ]
+  "page": []
  },
  "pwatch": {
   "seen": {
