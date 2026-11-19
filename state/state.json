@@ -2920,7 +2920,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-19T00:16:52Z",
+ "updated": "2026-11-19T00:48:35Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -5375,18 +5375,18 @@
  },
  "ai": {
   "column": {
-   "headline": "Haaland blanks again, Hishaan's Barry rewrites the table",
-   "text": "Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16 as captain. The Haaland bloc is still the biggest storyline in this league.",
-   "ts": "2026-11-18T00:28:50Z",
+   "headline": "Haaland blanks again, and Hishaan's Barry rewrites the table",
+   "text": "Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, and Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
+   "ts": "2026-11-19T00:48:35Z",
    "gw": 10
   },
   "history": [
+   "GW10 between: Haaland blanks again, and Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, and Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
    "GW10 between: Haaland blanks again, Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16 as captain. The Haaland bloc is still the biggest storyline in this league.",
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16 as captain. The Haaland bloc is still the biggest storyline in this league.",
-   "GW10 between: Haaland's blank hands Ayodele the summit. Ayodele takes top spot on 700 after a 61-point week, 8 clear of Cherag, who slipped to 2nd when Rayan returned only 4 as captain. The real story is the Haaland bloc: 21 managers captained him and every one of them got just 4 points for the armband. Hishaan's Barry gamble is still paying off, with 32 captain points lifting him from 14th to 9th, and nobody else owns him. Dominic's 75 was the week's best score, and Saurabh's Isak captain kept his Tin Pot climb going.",
-   "GW10 between: Ayodele holds the summit as Haaland's blank bites 21 armbands. Ayodele leads on 700 after a 61-point week, 8 clear of Cherag, who slipped from top to 2nd after Rayan returned only 4 as captain. The biggest story is the Haaland armband bloc: 21 managers captained him and every one of them scored just 4 points for the armband. Hishaan's Barry gamble keeps paying off, with 32 captain points lifting him from 14th to 9th, and nobody else owns him. Dominic's 75 was the week's best score, and Saurabh's Isak captain kept him climbing the Tin Pot."
+   "GW10 between: Haaland's blank hands Ayodele the summit. Ayodele takes top spot on 700 after a 61-point week, 8 clear of Cherag, who slipped to 2nd when Rayan returned only 4 as captain. The real story is the Haaland bloc: 21 managers captained him and every one of them got just 4 points for the armband. Hishaan's Barry gamble is still paying off, with 32 captain points lifting him from 14th to 9th, and nobody else owns him. Dominic's 75 was the week's best score, and Saurabh's Isak captain kept his Tin Pot climb going."
   ],
-  "ts": "2026-11-18T00:28:50Z",
+  "ts": "2026-11-19T00:48:35Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -5425,40 +5425,40 @@
    }
   ],
   "group": {
-   "text": "*Haaland blanks, Barry bites back*\nAyodele still top, but 21 armbands got just 4 points each from Haaland.\nHishaan's Barry hauled 32 and lifted him to 9th, and nobody else owns him.\nDominic's 75 was the week's best score.",
-   "ts": "2026-11-18T00:28:50Z",
+   "text": "*Haaland blanks again, Hishaan laughs last*\nAyodele still top on 700, but 21 of you armbanded Haaland for 4 points each. Hishaan's Barry scored 32 and took 9th.\nDominic won the week on 75. Saurabh's Isak captain kept the Tin Pot climb alive.",
+   "ts": "2026-11-19T00:48:35Z",
    "gw": 10
   },
   "briefings": {
-   "3219276": "You sit 2nd, 8 points off Ayodele, after Rayan returned only 4 as captain. Your bench scored 24, which is a bright spot. Watch whether Rayan rebounds and how close Sid's Choke City gets, 21 points behind you.",
-   "3323262": "You're 3rd on 671 after a 60-point week, 21 points behind Cherag. Your Haaland captain returned only 4, but your bench was solid at 12. Watch the freehit chip you still hold and Nihal's pressure just 1 point behind.",
-   "573491": "You're 4th on 670 after a 67-point gameweek, just 1 point behind Sid. Haaland's 4 armband was a letdown, but your Silva signing is paying off. Watch Nanik, who is only 7 points back.",
-   "7471754": "You are 6th on 658 after a 70-point week. Nanik is 5 ahead, so a good gameweek 11 could close that gap.",
-   "5489583": "You're 8th on 644 after a 57-point gameweek, dropping from 7th. Your Evanilson signing is worth watching, and you still have a bboost. Watch Edd just 6 points ahead and Bhavik 10 behind.",
-   "4125292": "You're 9th on 634 after a 51-point week, level with Hishaan. Haaland's 4 was a setback, and you have a freehit to use. Watch Hishaan, who is level on points and climbed from 14th.",
-   "1378937": "You're 7th on 650 after a 67-point week, climbing from 8th. Your Manzambi signing is a point of interest, and you hold a freehit. Watch Tonna 8 points above you and Omar 6 behind.",
-   "4922092": "You're 13th on 629 after a 47-point week, dropping from 10th. Your Rice signing and your Haaland captain both let you down. Watch Raushan, 3 points behind, and Ahmad 1 ahead.",
-   "363548": "You're 12th on 630 after a 50-point gameweek, dropping from 11th. Your Rogers signing returned only 2 as captain for Lavesh, not you. Watch Ravi, just 1 point behind.",
-   "3359227": "You're 14th on 626 after a 59-point gameweek, climbing from 12th. Your Evanilson captain hauled 18 and your Evanilson signing is paying off. Watch Ravi, 3 points ahead, and Will 7 behind.",
-   "962024": "You're 11th on 631, 1 ahead of Ahmad, after a 64-point week. Isak was your signing, but Haaland cost you 4. Watch your full chip set.",
-   "3506595": "You're 9th on 634, level with Bhavik, after a 74-point week and a huge climb from 14th. Your Barry armband hauled 32, and nobody else owns him. Watch your bboost and wildcard.",
-   "1457736": "You're 16th on 615 after a 60-point gameweek, unchanged. Your Haaland captain returned 4, and you have a freehit and 3xc. Watch Will 4 ahead and Justin 3 behind.",
-   "6341709": "You're 20th on 603 after a 52-point gameweek, dropping from 17th. Your Haaland captain returned 4, and your bench scored just 1. Watch Maanav 2 ahead and Lavesh 3 behind.",
+   "3219276": "You are 2nd on 692, 8 behind Ayodele, after Rayan returned just 4 as captain. Your bench points were high, so the threat is a bounce-back week from Haaland and your squad depth.",
+   "3323262": "You are 3rd on 671 after a 60-point week and sit 21 behind Cherag. Watch your remaining free hit and whether Van Hecke delivers.",
+   "573491": "You are 4th on 670 after a 67-point week, just 1 behind Sid. Your Silva signing needs to keep producing, with Nanik 7 behind you.",
+   "7471754": "You are 6th on 658 after a 70-point week, 5 behind Nanik. Your chip set is untouched, so watch your 3xc and wildcard options.",
+   "5489583": "You are 8th on 644 after a 57-point week, 6 behind Edd. Your Evanilson buy has been helpful, but Bhavik is 10 behind and closing.",
+   "4125292": "You are 9th on 634 after a 51-point week and sit 10 ahead of nobody. Watch Omar above and Hishaan level with you on points.",
+   "1378937": "You are 7th on 650 after a 67-point week, 8 behind Tonna. Your Manzambi buy needs to deliver before Omar closes the gap.",
+   "4922092": "You are 13th on 629 after a 47-point week, 1 behind Ahmad and 3 ahead of Raushan. Your Rice buy needs a boost.",
+   "363548": "You are 12th on 630 after a 50-point week, just 1 ahead of Ravi. Watch your Rogers buy and your 3xc chip.",
+   "3359227": "You are 14th on 626 after a 59-point week, with Evanilson's armband returning 18. Watch your bboost and whether Evanilson keeps delivering.",
+   "962024": "You are 11th on 631 after a 64-point week, 1 ahead of Ahmad. Your Isak signing needs to keep scoring to hold off the chasing pack.",
+   "3506595": "You are tied 9th on 634 after a 74-point week, with Barry's 32 captain points lifting you 5 places. Watch whether your differential keeps working.",
+   "1457736": "You are 16th on 615 after a 60-point week, 4 behind Will. Your chips are still in reserve, and you need to close the gap on Will.",
+   "6341709": "You are 20th on 603 after a 52-point week, 2 behind Maanav. Your chips are unused, so watch for a boost.",
    "5873092": "You're 17th on 612 after a 63-point week, dropping from 18th to 17th. Your N.Jackson and Rogers signings are interesting. Watch Naishadh 3 ahead and Dominic level on points.",
-   "75187": "You won the week on 75, the best score of the gameweek, and climbed to 18th on 612. Your Haaland captain returned only 4, but your bench scored 9. Watch Justin, level on points, and Maanav 7 behind.",
-   "6619523": "You're 21st on 600 after a 66-point week, up from 20th. Your Rogers captain returned 4 as well. Watch Tomisin 3 ahead and Saurabh 19 behind.",
-   "3552160": "You're 22nd on 581 after a 48-point gameweek, climbing from 21st. Your Isak captain returned 16, a strong showing. Watch Lavesh 19 ahead and Isaiah 2 behind.",
+   "75187": "You are 18th on 612 after a 75-point week, the best score of the gameweek. You won the week, so the question is whether you can keep the momentum going.",
+   "6619523": "You are 21st on 600 after a 66-point week, with Rogers returning only 4 as captain. Watch your bench, which has scored 17 points.",
+   "3552160": "You are 22nd on 581 after a 48-point week. You are a ghost, so the league will not count you in crowd stats.",
    "383423": "You're 25th on 574, after a 58-point week. Haaland blanked you, and N.Jackson was your buy. Watch Dinesh, 4 ahead.",
-   "3375627": "You're 27th on 554 after a 45-point week, dropping from 26th. Your Haaland captain returned 4, and you're a maverick risk taker. Watch Elvin 7 ahead and Iain 33 behind.",
-   "8316989": "You're 26th on 561 after a 63-point gameweek, climbing from 27th. Your Cherki captain returned 18, a strong return. Watch Tobi 13 ahead and IB 7 behind.",
-   "3591460": "You're 28th on 521, after a 52-point week. Haaland blanked you. Watch IB, 33 ahead.",
-   "5706920": "You're 29th on 444 after a 30-point week, and your Thiago captain returned -4. Your bench scored nothing. Watch Iain 77 ahead, and remember this is the lowest total in the league.",
-   "1092588": "You still lead on 700 after a 61-point week, but Cherag is only 8 behind. Haaland's blank cost you nothing extra, yet your bench left 17 points on the table. Watch Cherag's Rayan and whether Gakpo keeps delivering.",
+   "3375627": "You are 27th on 554 after a 45-point week, with Haaland returning 4 as captain. Watch your Maverick risk style and your last chip.",
+   "8316989": "You are 26th on 561 after a 63-point week, with Cherki returning 18 as captain. You are a ghost, so watch your rank from the sidelines.",
+   "3591460": "You are 28th on 521 after a 52-point week, 33 behind IB. Your squad needs a lift.",
+   "5706920": "You are 29th on 444 after a 30-point week. You are a ghost, and Thiago's armband returned -4, so watch your squad recovery.",
+   "1092588": "You sit top on 700 after a 61-point week, but Cherag is only 8 behind. Watch whether Haaland survives the captaincy debate and whether Gakpo keeps paying off.",
    "1541394": "You're 5th on 663 after a 65-point week, 7 behind Nihal. Haaland blanked you again, and Raya is your latest signing. Watch Tonna, who sits just 5 points ahead of you.",
    "7273369": "You're 15th on 619 after a 61-point week, holding steady. Your Silva signing returned well, and you have a bboost. Watch Raushan 7 ahead and Naishadh 4 behind.",
-   "4841175": "You're 19th on 605, after a 74-point week. Haaland blanked you, and your chips are mostly intact. Watch Tomisin, 2 behind.",
+   "4841175": "You are 19th on 605 after a 74-point week, 7 behind Dominic. Watch your freehit and bboost, which are both still available.",
    "5028423": "You're 23rd on 579 after a 62-point week, level in position. Your Haaland captain returned 4, but your squad is solid. Watch Saurabh 2 ahead and Dinesh 1 behind.",
-   "1474501": "You're 24th on 578 after a 61-point gameweek, holding steady. Your De Cuyper captain returned 12, and he's a maverick pick. Watch Isaiah 1 ahead and Tobi 4 behind."
+   "1474501": "You are 24th on 578 after a 61-point week, with De Cuyper returning 12 as captain. Watch your Maverick risk style."
   },
   "storylines": [
    {
@@ -5491,10 +5491,10 @@
   "key": "10:between",
   "usage": {
    "10": {
-    "in": 1931994,
-    "out": 463236,
-    "calls": 153,
-    "refreshes": 31,
+    "in": 1964228,
+    "out": 469061,
+    "calls": 155,
+    "refreshes": 32,
     "desks": 33,
     "desk_in": 803924,
     "desk_out": 261788,
@@ -6583,19 +6583,23 @@
   "plots_v": 8,
   "plots_sig": "b09a97969469",
   "preview": {
-   "headline": "What's at stake for gameweek 11",
+   "headline": "Ayodele's lead is thin, and Haaland is on trial again",
    "points": [
     {
-     "label": "Armband dilemma",
-     "text": "Haaland blanked for 21 managers, so the question is whether they stick with him or chase differentials like Barry."
+     "label": "Title race",
+     "text": "Ayodele leads Cherag by just 8 points on 700. One good week from Cherag and the top spot is anybody's."
     },
     {
-     "label": "Injury sweat",
-     "text": "Gvardiol (75% chance, 10 owners), Thomas (50%, 7 owners) and João Pedro (0%, 3 owners) are all worth monitoring before the deadline in 82.5 hours."
+     "label": "Armband dilemma",
+     "text": "21 managers stuck with Haaland and got 4 points each. Does the bloc trust him again, or find a new captain?"
+    },
+    {
+     "label": "Differential watch",
+     "text": "Hishaan's Barry hauled 32 as captain and nobody else owns him. Can a lone gamble keep climbing the table?"
     }
    ],
    "gw": 11,
-   "ts": "2026-11-18T00:28:50Z"
+   "ts": "2026-11-19T00:48:35Z"
   },
   "gaffer_draft": {
    "gw": 10,
@@ -14698,7 +14702,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-19T00:16:52Z",
+  "ts": "2026-11-19T00:48:35Z",
   "issues": [],
   "page": []
  },
