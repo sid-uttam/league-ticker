@@ -2941,7 +2941,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-19T17:53:30Z",
+ "updated": "2026-11-19T18:24:26Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -14718,7 +14718,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-19T17:53:30Z",
+  "ts": "2026-11-19T18:24:26Z",
   "issues": [],
   "page": []
  },
@@ -15000,14 +15000,6 @@
    "385": "10:up"
   },
   "log": [
-   {
-    "ts": "2026-11-09T18:17:11Z",
-    "el": 356,
-    "kind": "flag",
-    "status": "d",
-    "chance": 75,
-    "news": "Unspecified injury - 75% chance of playing"
-   },
    {
     "ts": "2026-11-09T21:30:08Z",
     "el": 268,
