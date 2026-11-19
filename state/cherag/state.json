@@ -10152,15 +10152,6 @@
     "event_total": 77
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 38,
-    "total": 649,
-    "event_total": 55
-   },
-   {
     "entry": 2868149,
     "player_name": "Akash Singh",
     "entry_name": "The Gerrardians",
@@ -10179,13 +10170,13 @@
     "event_total": 61
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 48,
-    "last_rank": 49,
-    "total": 648,
-    "event_total": 63
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 45,
+    "last_rank": 38,
+    "total": 649,
+    "event_total": 55
    },
    {
     "entry": 4683090,
@@ -10195,6 +10186,15 @@
     "last_rank": 60,
     "total": 648,
     "event_total": 74
+   },
+   {
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 48,
+    "last_rank": 49,
+    "total": 648,
+    "event_total": 63
    },
    {
     "entry": 3239284,
@@ -57367,11 +57367,11 @@
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
-   "3566356": 45,
    "2868149": 45,
    "5640988": 45,
-   "10821": 48,
+   "3566356": 45,
    "4683090": 48,
+   "10821": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
@@ -57482,11 +57482,11 @@
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "3566356": null,
    "2868149": null,
    "5640988": null,
-   "10821": null,
+   "3566356": null,
    "4683090": null,
+   "10821": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -57553,7 +57553,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-19T11:09:34Z",
+ "updated": "2026-11-19T11:40:25Z",
  "ai": {
   "briefings": {
    "5949580": "You lead on 734 after a 70-point week, 18 clear of Neol. Your main threat is Neol, who will be chasing hard, so watch whether you stick with your Free Hit for the next deadline.",
@@ -63288,7 +63288,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-19T11:09:34Z",
+  "ts": "2026-11-19T11:40:25Z",
   "issues": [],
   "page": []
  },
