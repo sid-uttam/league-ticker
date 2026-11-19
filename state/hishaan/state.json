@@ -9467,7 +9467,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-19T13:45:10Z",
+ "updated": "2026-11-19T14:16:42Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 with a 73 that held firm, but Matt is 1 behind and breathing down your neck. Watch Calafiori's armband and whether Barcola keeps delivering on your bench.",
@@ -12234,7 +12234,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-19T13:45:10Z",
+  "ts": "2026-11-19T14:16:42Z",
   "issues": [],
   "page": []
  },
@@ -12267,7 +12267,7 @@
    "237": "a|None|",
    "399": "a|None|",
    "233": "a|100|",
-   "173": "d|50|Calf injury - 50% chance of playing",
+   "173": "d|75|Calf injury - 75% chance of playing",
    "334": "a|None|",
    "391": "d|75|Unspecified injury - 75% chance of playing",
    "362": "a|100|",
@@ -12335,7 +12335,8 @@
    "268": "2026-11-09T21:31:12Z",
    "286": "2026-11-10T19:04:32Z",
    "53": "2026-11-12T13:15:58Z",
-   "469": "2026-11-16T19:01:27Z"
+   "469": "2026-11-16T19:01:27Z",
+   "173": "2026-11-19T14:16:42Z"
   },
   "price": {
    "1": 6.2,
@@ -12604,6 +12605,14 @@
     "el": 330,
     "kind": "surge",
     "net": 25001
+   },
+   {
+    "ts": "2026-11-19T14:16:42Z",
+    "el": 173,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Calf injury - 75% chance of playing"
    }
   ]
  },
