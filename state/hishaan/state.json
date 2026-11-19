@@ -2361,15 +2361,6 @@
     "event_total": 62
    },
    {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 15,
-    "last_rank": 21,
-    "total": 634,
-    "event_total": 74
-   },
-   {
     "entry": 5682768,
     "player_name": "Vanessa Jethwani",
     "entry_name": "super squad",
@@ -2377,6 +2368,15 @@
     "last_rank": 14,
     "total": 634,
     "event_total": 59
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 15,
+    "last_rank": 21,
+    "total": 634,
+    "event_total": 74
    },
    {
     "entry": 4922092,
@@ -9425,8 +9425,8 @@
    "5474293": 12,
    "75778": 13,
    "6892917": 14,
-   "3506595": 15,
    "5682768": 15,
+   "3506595": 15,
    "4922092": 17,
    "2465483": 18,
    "2934546": 19,
@@ -9453,8 +9453,8 @@
    "5474293": null,
    "75778": null,
    "6892917": null,
-   "3506595": null,
    "5682768": null,
+   "3506595": null,
    "4922092": null,
    "2465483": null,
    "2934546": null,
@@ -9467,44 +9467,44 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-18T23:46:30Z",
+ "updated": "2026-11-19T00:17:51Z",
  "ai": {
   "briefings": {
-   "2321301": "You sit top on 723 after a 73, but Matt is just 1 point behind and the summit is tight. Watch Matt's chip-free next move and your Barcola and Silva picks.",
-   "3029346": "Your 96-point Bench Boost has you 2nd, 1 point off the top. Your Haaland captaincy returned just 4, so think hard about your armband next.",
-   "735721": "You are 3rd, 14 points behind Matt and 15 off the lead. Your Barry buy and bench points are worth a look before the next deadline.",
-   "2687116": "You are 5th on 696 after a 67 with Isak captained for 16. Keep an eye on Ravin just above you, 11 points away.",
-   "3344797": "You are 6th on 674 after a 51, with Chandru 22 points ahead. Your wildcard and Free Hit are still both available.",
-   "1655993": "You are 8th on 667 after a 63, just 2 points behind Prem. Your Bench Boost is your last chip, so save it wisely.",
-   "1036311": "You are 9th on 658 after a 69 and 4 points ahead of Sunil. Your N.Jackson buy is one to watch.",
-   "3072827": "You are 10th on 654 after a 68 with Evanilson captained for 18. Aashiv is just 1 point behind you.",
-   "3350483": "You are 11th on 653 after a 57, with Sunil 1 point above. Your Haaland captaincy returned just 4.",
-   "75778": "You are 13th on 647 after a 74, climbing from 16th. Your Isak and Silva buys are paying off.",
-   "6892917": "You are 14th on 636 after a 62, with Evanilson captained for 18. Marcel is 11 points ahead.",
-   "3506595": "You climbed from 21st to 15th after a 74, with Barry captained for 32. Your bench points are just 1.",
-   "5682768": "You are 15th on 634 after a 59, level with Hishaan. Ravi Mahtani is 5 points behind.",
-   "4922092": "You have dropped to 17th on 629 after a 47. Your Rice buy may need reviewing.",
-   "2465483": "You are 18th on 628 after a 63 with Isak captained for 16. Naresh is level on points behind you.",
-   "6279027": "You are 20th on 619 after a 58. Your N.Jackson captaincy hauled 22, a bright spot.",
-   "865376": "You are 21st on 618 after a 57, with Palmer captained for just 4. Watch the Rajiv gap.",
-   "7043406": "You are 22nd on 613 after a 61, with Konsa captained for 16. Your 4-point hit paid off.",
-   "6159011": "You are 23rd on 612 after a 55. Your Haaland captaincy returned just 4.",
-   "3314780": "You are 24th on 600 after a 64 with your Bench Boost used. Your Rogers buy is a talking point.",
-   "6051923": "You are 25th on 584 after a 50, the Ice Cold tag fitting. Bella sits 24 points behind.",
-   "1921902": "You have dropped from 1st to 4th after a 57. Your Rogers armband flopped with just 2, so reconsider that captaincy.",
+   "2321301": "You lead on 723 with a 73 that held firm, but Matt is 1 behind and breathing down your neck. Watch Calafiori's armband and whether Barcola keeps delivering on your bench.",
+   "3029346": "Your 96-point Bench Boost has you 2nd, 1 behind Nikhil. You have used your Bench Boost, so keep Gabriel, Justin and Wirtz fit and push for the top spot.",
+   "735721": "You sit 3rd on 708, 14 behind Matt and 15 off the top. Your 17-point bench haul hurt, so watch Haaland's returns and Barry's form.",
+   "2687116": "You are 5th on 696 after a 67, with Isak's armband returning 16. Keep an eye on Ravin above and Rohan below.",
+   "3344797": "You are 6th on 674 after a 51 with Haaland captained at 4. You have no transfers this week, so watch your wildcard and free hit.",
+   "1655993": "You are 8th on 667 after a 63, with Haaland again at 4 on the armband. You have only Bench Boost left, so watch Rice and Egan.",
+   "1036311": "You are 9th on 658 after a 69 with Haaland at 4 on the armband. Your N.Jackson signing has been a bright spot, so watch his next outing.",
+   "3072827": "You are 10th on 654 after a 68 with Evanilson's armband delivering 18. Keep an eye on Van Hecke and your bench.",
+   "3350483": "You are 11th on 653 after a 57 with Haaland captained at 4. You have only free hit left, so use it wisely in the coming weeks.",
+   "75778": "You climbed to 13th on 647 after a 74 with Haaland at 4. Your Silva and Isak buys are your main hope for a bigger push.",
+   "6892917": "You are 14th on 636 after a 62 with Evanilson captained for 18. You still have a few chips, so watch your bench and captain choices.",
+   "3506595": "You jumped to 15th on 634 after a 74, with Barry's armband hauling 32. Keep Barry in your sights and watch Ndiaye and Shaw.",
+   "5682768": "You are 15th on 634 after a 59 with Haaland at 4 on the armband. Watch the gap to Ravi Mahtani and your Wirtz-era chip plans.",
+   "4922092": "You dropped to 17th on 629 after a 47 with Haaland at 4. Your Rice buy needs to pay back soon.",
+   "2465483": "You are 18th on 628 after a 63 with Isak's armband hauling 16. Keep an eye on Branthwaite and Doku.",
+   "6279027": "You are 20th on 619 after a 58 with N.Jackson's armband hauling 22. Keep riding that captaincy and watch Neto and White.",
+   "865376": "You are 21st on 618 after a 57 with Palmer flopping on the armband for 4. Your Rayan and Raya buys need to deliver.",
+   "7043406": "You are 22nd on 613 after a 61, with Konsa's armband returning 16 despite a 4-point hit. Your 26-point bench shows the risk you are carrying.",
+   "6159011": "You are 23rd on 612 after a 55 with Haaland at 4. Your Manzambi buy is worth watching given his calf knock.",
+   "3314780": "You are 24th on 600 after a 64 with Bboost used. Haaland at 4 on the armband means you need more from your picks.",
+   "6051923": "You are 25th on 584 after a 50 with Haaland at 4. Ice cold form continues, so look for changes soon.",
+   "1921902": "You have dropped from 1st to 4th after a 57 with Rogers flopping on the armband. Your Konsa and N.Jackson moves need to pay off quickly.",
    "4487775": "You are 7th on 669 after a 67 with Calafiori captained for 12. Prem's chips are all still to play, so watch your next move.",
    "5474293": "You're 12th on 652, just 1 point behind Aashiv. Marcel is 5 above you, so a strong week could be your ticket up.",
    "2934546": "You are 19th on 628 after a 64, level with Inesh. Your Groß and Isak buys are worth a look.",
    "6476662": "You're 26th on 560, bottom of the table. Alia is 24 ahead, so a major swing is needed to escape the bottom."
   },
   "key": "10:between",
-  "ts": "2026-11-18T00:30:06Z",
+  "ts": "2026-11-19T00:17:51Z",
   "usage": {
    "10": {
-    "in": 1444712,
-    "out": 352484,
-    "calls": 126,
-    "refreshes": 23,
+    "in": 1474101,
+    "out": 358187,
+    "calls": 128,
+    "refreshes": 24,
     "desks": 30,
     "desk_in": 715822,
     "desk_out": 234527,
@@ -10540,8 +10540,8 @@
   "plots_v": 8,
   "plots_sig": "427e172f7adf",
   "group": {
-   "text": "*Matt's Bench Boost haul puts the title on a knife edge*\nMatt's 96 has him 1 point behind Nikhil at the top.\nRavin's Rogers and Lakshay's Palmer both managed 2 on the armband, so the captaincy gods were not kind.\nPishu's N.Jackson hauled 22 for his only captain. Pure luck, Pishu.",
-   "ts": "2026-11-18T00:30:06Z",
+   "text": "*Matt's Bench Boost muscles into the title race!*\nMatt's 96 sends him 2nd, just 1 behind Nikhil.\nRavin's Rogers and Lakshay's Palmer both managed 2 on the armband. Ouch.\nHishaan's Barry hauled 32 for his only captain, Barry-cuda.",
+   "ts": "2026-11-19T00:17:51Z",
    "gw": 10
   },
   "storylines": [
@@ -11200,34 +11200,34 @@
    "points": [
     {
      "label": "Title race",
-     "text": "Nikhil leads Matt by just 1 point, with Deepak 14 further back. Anyone who slips now gets punished quickly."
+     "text": "Nikhil leads Matt by 1 point, with Deepak 14 further back. Anyone could be top by the end of the week."
     },
     {
      "label": "Armband dilemma",
-     "text": "Haaland has been captained by 15 managers but returned just 2, so the safe captain is anything but safe. Consider the gamble."
+     "text": "Haaland has been captained by 15 managers but only scored 2. Calafiori and Evanilson are the captain picks to watch."
     },
     {
      "label": "Injury sweat",
-     "text": "Gvardiol, Manzambi and Belloumi are all doubtful at 75%, while João Pedro is out with an unknown return date."
+     "text": "Gvardiol, Manzambi and Belloumi all carry 75% chances of playing, and João Pedro has an unknown return date."
     },
     {
      "label": "Chips loaded",
-     "text": "Sunny has only Bench Boost left, and Naresh and Prem have every chip still to play. Expect some big swings."
+     "text": "Sahil, Prem and Naresh still hold most of their chips, while Marcel has none left."
     }
    ],
    "gw": 11,
-   "ts": "2026-11-18T00:30:06Z"
+   "ts": "2026-11-19T00:17:51Z"
   },
   "column": {
    "headline": "Matt's Bench Boost muscles into the title race",
-   "text": "Matt's 96-point Bench Boost was the week's best haul, lifting him from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but the summit squeeze is now real, with Deepak 14 back in third. Ravin's armband flopped again, with Rogers managing just 2, and Lakshay's Palmer returned the same. Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
-   "ts": "2026-11-18T00:30:06Z",
+   "text": "Matt's 96-point Bench Boost was the week's best haul, lifting him from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but the summit squeeze is now real, with Deepak 14 back in third. Ravin's armband flopped again with Rogers managing just 2, and Lakshay's Palmer returned the same. Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
+   "ts": "2026-11-19T00:17:51Z",
    "gw": 10
   },
   "history": [
+   "GW10 between: Matt's Bench Boost muscles into the title race. Matt's 96-point Bench Boost was the week's best haul, lifting him from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but the summit squeeze is now real, with Deepak 14 back in third. Ravin's armband flopped again with Rogers managing just 2, and Lakshay's Palmer returned the same. Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
    "GW10 between: Matt's Bench Boost muscles into the title race. Matt's 96-point Bench Boost was the week's best haul, lifting him from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but the summit squeeze is now real, with Deepak 14 back in third. Ravin's armband flopped again, with Rogers managing just 2, and Lakshay's Palmer returned the same. Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
    "GW10 between: Matt's Bench Boost hauls him into title contention. Matt's 96-point Bench Boost was the week's best haul, lifting him from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but the summit squeeze is now real, with Deepak 14 back in third. Ravin's armband flopped again, with Rogers managing just 2, and Lakshay's Palmer returned the same. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
-   "GW10 between: Matt's Bench Boost muscles into the title race. Matt's 96-point Bench Boost was the week's best haul and has lifted him from 5th to 2nd, just 1 point behind Nikhil at the top. Nikhil held firm on 73, but the summit squeeze is now real. Ravin's armband flopped again, with Rogers managing just 2, and Lakshay's Palmer returned the same. Pishu's N.Jackson captaincy hauled 22 and Hishaan's Barry hauled 32 for his only captain. Deepak sits 14 back in third, so the top spot is genuinely up for grabs.",
    "GW10 between: Matt's Bench Boost muscles into the title race. Matt's 96-point Bench Boost was the week's best haul and has lifted him from 5th to 2nd, just 1 point behind Nikhil at the top. Nikhil held firm on 73, but the summit squeeze is now real. Ravin's armband flopped again, with Rogers managing just 2, and Lakshay's Palmer returned the same. Pishu's N.Jackson captaincy hauled 22 and Hishaan's Barry hauled 32 for his only captain. Deepak sits 14 back in third, so the top spot is genuinely up for grabs."
   ]
  },
@@ -12234,7 +12234,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-18T23:46:30Z",
+  "ts": "2026-11-19T00:17:51Z",
   "issues": [],
   "page": []
  },
@@ -12373,7 +12373,7 @@
    "111": 3.9,
    "290": 4.5,
    "15": 6.7,
-   "127": 5.0,
+   "127": 5.1,
    "94": 6.1,
    "330": 4.8,
    "427": 7.9,
@@ -12590,6 +12590,13 @@
     "el": 268,
     "kind": "surge",
     "net": -25024
+   },
+   {
+    "ts": "2026-11-19T00:17:51Z",
+    "el": 127,
+    "kind": "price",
+    "change": 0.1,
+    "price": 5.1
    }
   ]
  },
