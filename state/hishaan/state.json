@@ -9467,7 +9467,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-19T19:26:50Z",
+ "updated": "2026-11-19T19:57:47Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 with a 73 that held firm, but Matt is 1 behind and breathing down your neck. Watch Calafiori's armband and whether Barcola keeps delivering on your bench.",
@@ -12234,7 +12234,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-19T19:26:50Z",
+  "ts": "2026-11-19T19:57:47Z",
   "issues": [],
   "page": []
  },
@@ -12469,7 +12469,8 @@
    "60": "10:up",
    "268": "10:down",
    "330": "10:up",
-   "566": "10:up"
+   "566": "10:up",
+   "412": "10:down"
   },
   "log": [
    {
@@ -12620,6 +12621,12 @@
     "el": 566,
     "kind": "surge",
     "net": 25041
+   },
+   {
+    "ts": "2026-11-19T19:57:47Z",
+    "el": 412,
+    "kind": "surge",
+    "net": -25056
    }
   ]
  },
