@@ -9783,15 +9783,6 @@
     "event_total": 73
    },
    {
-    "entry": 1325491,
-    "player_name": "akshat awasthi",
-    "entry_name": "Nirvana11",
-    "rank": 4,
-    "last_rank": 7,
-    "total": 702,
-    "event_total": 72
-   },
-   {
     "entry": 13978,
     "player_name": "Yash Bhatia",
     "entry_name": "YB",
@@ -9799,6 +9790,15 @@
     "last_rank": 3,
     "total": 702,
     "event_total": 56
+   },
+   {
+    "entry": 1325491,
+    "player_name": "akshat awasthi",
+    "entry_name": "Nirvana11",
+    "rank": 4,
+    "last_rank": 7,
+    "total": 702,
+    "event_total": 72
    },
    {
     "entry": 3991082,
@@ -9936,15 +9936,6 @@
     "event_total": 62
    },
    {
-    "entry": 780469,
-    "player_name": "Sahil Thorve",
-    "entry_name": "NotAnIsakScience",
-    "rank": 21,
-    "last_rank": 42,
-    "total": 672,
-    "event_total": 82
-   },
-   {
     "entry": 107315,
     "player_name": "Sahej Jhamvar",
     "entry_name": "sage",
@@ -9952,6 +9943,15 @@
     "last_rank": 21,
     "total": 672,
     "event_total": 65
+   },
+   {
+    "entry": 780469,
+    "player_name": "Sahil Thorve",
+    "entry_name": "NotAnIsakScience",
+    "rank": 21,
+    "last_rank": 42,
+    "total": 672,
+    "event_total": 82
    },
    {
     "entry": 1662734,
@@ -10080,15 +10080,6 @@
     "event_total": 67
    },
    {
-    "entry": 6543092,
-    "player_name": "Eli K",
-    "entry_name": "Liverpool X  FC",
-    "rank": 37,
-    "last_rank": 32,
-    "total": 654,
-    "event_total": 57
-   },
-   {
     "entry": 4151180,
     "player_name": "kashish dadwal",
     "entry_name": "Palmer's Angels",
@@ -10096,6 +10087,15 @@
     "last_rank": 47,
     "total": 654,
     "event_total": 67
+   },
+   {
+    "entry": 6543092,
+    "player_name": "Eli K",
+    "entry_name": "Liverpool X  FC",
+    "rank": 37,
+    "last_rank": 32,
+    "total": 654,
+    "event_total": 57
    },
    {
     "entry": 1425044,
@@ -10152,15 +10152,6 @@
     "event_total": 77
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 38,
-    "total": 649,
-    "event_total": 55
-   },
-   {
     "entry": 2868149,
     "player_name": "Akash Singh",
     "entry_name": "The Gerrardians",
@@ -10179,13 +10170,13 @@
     "event_total": 61
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 48,
-    "last_rank": 60,
-    "total": 648,
-    "event_total": 74
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 45,
+    "last_rank": 38,
+    "total": 649,
+    "event_total": 55
    },
    {
     "entry": 10821,
@@ -10195,6 +10186,15 @@
     "last_rank": 49,
     "total": 648,
     "event_total": 63
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 48,
+    "last_rank": 60,
+    "total": 648,
+    "event_total": 74
    },
    {
     "entry": 3239284,
@@ -10530,15 +10530,6 @@
     "event_total": 57
    },
    {
-    "entry": 3389995,
-    "player_name": "Stephen Menezes",
-    "entry_name": "Goal Diggers",
-    "rank": 87,
-    "last_rank": 89,
-    "total": 605,
-    "event_total": 62
-   },
-   {
     "entry": 4905114,
     "player_name": "Anuj Joglekar",
     "entry_name": "Summer Tzolstis",
@@ -10546,6 +10537,15 @@
     "last_rank": 95,
     "total": 605,
     "event_total": 69
+   },
+   {
+    "entry": 3389995,
+    "player_name": "Stephen Menezes",
+    "entry_name": "Goal Diggers",
+    "rank": 87,
+    "last_rank": 89,
+    "total": 605,
+    "event_total": 62
    },
    {
     "entry": 2037953,
@@ -57395,8 +57395,8 @@
    "5949580": 1,
    "305234": 2,
    "136653": 3,
-   "1325491": 4,
    "13978": 4,
+   "1325491": 4,
    "3991082": 6,
    "4722308": 7,
    "2429776": 8,
@@ -57412,8 +57412,8 @@
    "1305406": 18,
    "2554077": 19,
    "5685525": 20,
-   "780469": 21,
    "107315": 21,
+   "780469": 21,
    "1662734": 23,
    "3323262": 24,
    "3234577": 25,
@@ -57428,19 +57428,19 @@
    "257074": 34,
    "480904": 35,
    "698784": 36,
-   "6543092": 37,
    "4151180": 37,
+   "6543092": 37,
    "1425044": 39,
    "675013": 40,
    "32831": 41,
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
-   "3566356": 45,
    "2868149": 45,
    "5640988": 45,
-   "4683090": 48,
+   "3566356": 45,
    "10821": 48,
+   "4683090": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
@@ -57478,8 +57478,8 @@
    "4811914": 84,
    "699330": 85,
    "11673": 86,
-   "3389995": 87,
    "4905114": 87,
+   "3389995": 87,
    "2037953": 89,
    "2723973": 89,
    "686561": 91,
@@ -57510,8 +57510,8 @@
    "5949580": "gold",
    "305234": "gold",
    "136653": "gold",
-   "1325491": "gold",
    "13978": "gold",
+   "1325491": "gold",
    "3991082": "gold",
    "4722308": "gold",
    "2429776": "gold",
@@ -57527,8 +57527,8 @@
    "1305406": "silver",
    "2554077": "silver",
    "5685525": "silver",
-   "780469": "silver",
    "107315": "silver",
+   "780469": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "3234577": "silver",
@@ -57543,19 +57543,19 @@
    "257074": null,
    "480904": null,
    "698784": null,
-   "6543092": null,
    "4151180": null,
+   "6543092": null,
    "1425044": null,
    "675013": null,
    "32831": null,
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "3566356": null,
    "2868149": null,
    "5640988": null,
-   "4683090": null,
+   "3566356": null,
    "10821": null,
+   "4683090": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -57593,8 +57593,8 @@
    "4811914": null,
    "699330": null,
    "11673": null,
-   "3389995": null,
    "4905114": null,
+   "3389995": null,
    "2037953": null,
    "2723973": null,
    "686561": null,
@@ -57622,42 +57622,42 @@
    "9531391": null
   }
  },
- "updated": "2026-11-20T22:50:52Z",
+ "updated": "2026-11-20T23:22:00Z",
  "ai": {
   "briefings": {
-   "5949580": "You top the table on 734 with a 70-point week, 18 clear of Neol. Watch Neol and your Haaland decision, as you do not own Calafiori, N.Jackson or Rogers.",
-   "305234": "You sit 2nd on 716, 18 behind Rajat Arora after a 68-point week. Your chase starts with Rajat Arora's Free Hit still in his pocket, so watch his chip.",
-   "136653": "You are 3rd on 707 after climbing from 5th with a 73-point week and Isak's 16 armband. Akshat is 5 behind you, so guard your place.",
-   "1325491": "You are 4th on 702 after a 72-point week, 5 behind Aryan Khamankar. Your chips are still loaded, so watch when you play the 3xc or Free Hit.",
-   "13978": "You are 4th on 702 after a 56-point week, level with Akshat. Your bench scored 19 points, so tidy your starting line-up next week.",
+   "5949580": "You sit top on 734, 18 clear of Neol. Neol's 68 this week is the main threat, so keep your Freehit in reserve.",
+   "305234": "You are 2nd on 716, 18 behind Rajat Arora and 9 clear of Aryan Khamankar. Closing the gap on the leader is the main task.",
+   "136653": "You are 3rd on 707 after an armband return of 16 for Isak. Watch Neol's position, since you're 9 behind them.",
+   "1325491": "You are 4th on 702 with Isak's 16 armband. Aryan Khamankar is 5 ahead, so watch the gap closely.",
+   "13978": "You are tied 4th on 702 after a 56-point week. Akshat is level, so your bench and captaincy need care.",
    "4722308": "You are 7th on 699 after a 79-point week, climbing from 11th. Your bench scored 19 points, so you should have had more captaincy success.",
-   "3991082": "You are 6th on 699 after a 71-point week with Calafiori's 12 armband. Biswadeep is level on points, so the Big prize race is close.",
-   "2429776": "You are 8th on 695 after a 65-point week, with Calafiori's armband. Prathap is just 1 behind you, so keep an eye on your position.",
-   "1273065": "You are 9th on 694 after an 80-point week, climbing from 14th with Gabriel's 16 armband. Kshiteesh is 1 ahead, so the chase is on.",
-   "3219276": "You are 10th on 692 after a 51-point week, falling from 4th. Your bench scored 24 points, so check your starting XI.",
-   "2557772": "You are 11th on 687 after a 56-point week, falling from 6th. Haaland's 4 armband was a letdown, so reconsider your captaincy.",
-   "3949616": "You are 12th on 687 after a 67-point week with Haaland's 4 armband. Quseem is level, so you need to pull ahead.",
-   "2671682": "You are 13th on 686 after a 60-point week, falling from 10th. You still hold your 3xc and Free Hit, so use them wisely.",
-   "1902223": "You are 14th on 683 after a 76-point week, climbing from 22nd with Isak's 16 armband. Anurag is 2 behind, so keep the momentum going.",
-   "393940": "You are 15th on 681 after a 77-point week, climbing from 26th. Karan Singh is 2 ahead, so the chase is tight.",
-   "18991": "You are 29th on 666 after a 79-point week, climbing from 46th with Gabriel's 16 armband. Mayuresh is 2 behind.",
-   "249619": "You are 30th on 664 after a 57-point week. Arshad is 2 ahead, and your chips still include 3xc and Free Hit.",
-   "1541394": "You are 31st on 663 after a 65-point week. Nishit is 1 behind, and you have no chips left, so make your transfers count.",
-   "710718": "You are 32nd on 662 after a 65-point week. Bhavin is 2 behind, and you still have a 3xc chip.",
-   "7613031": "You are 109th on 547 after a 50-point week. Your chips are all unused, so there is plenty of firepower left to deploy.",
-   "6571548": "You are 110th on 522 after a 53-point week. Janak is 25 ahead and Rohan is 21 behind, so the chasing pack is close.",
-   "6598615": "You are 111th on 501 after a 55-point week with Isak's 16 armband, climbing from 112th. Your chips are all unused.",
-   "531033": "You are 112th on 486 after a 28-point week with Mbeumo's 4 armband. Janit is 16 behind, so improve fast.",
-   "9531391": "You are 113th on 470 after a 42-point week. You are the bottom of the table, so the only way is up."
+   "3991082": "You are 6th on 699 after a 71-point week with Calafiori's armband. Biswadeep is level behind you, so stay sharp.",
+   "2429776": "You are 8th on 695, 4 behind Biswadeep. Prathap is 1 behind you, so keep an eye on the Big prize line.",
+   "1273065": "You are 9th on 694 after an 80-point week, pushing into the Big prizes. Cherag sits 2 behind, so hold on.",
+   "3219276": "You are 10th on 692 after Rayan's armband flop returned only 2. Your bench points of 24 are a bright spot to build on.",
+   "2557772": "You are 11th on 687, 5 behind Cherag. Utkarsh is level, so the chasing pack is tight.",
+   "3949616": "You are 12th on 687 after a 67-point week. Quseem is level with you, so watch the table.",
+   "2671682": "You are 13th on 686 after a 60-point week. Karan Singh is 3 behind you, so stay alert.",
+   "1902223": "You are 14th on 683 after a 76-point week with Isak's 16. Anurag is 2 behind, so keep pressing.",
+   "393940": "You are 15th on 681 after a 77-point week. Saeel is 4 behind, and your Freehit and 3xc chips are still unspent.",
+   "18991": "You are 29th on 666 after a 79-point week with Gabriel's 16. Adrian is 2 ahead, so the gap is close.",
+   "249619": "You are 30th on 664 after a 57-point week. Arshad is 2 ahead, so claw back where you can.",
+   "1541394": "You are 31st on 663 after a 65-point week. Mayuresh is 1 ahead, and your Noob tag is a fun talking point.",
+   "710718": "You are 32nd on 662 after a 65-point week. Nanik is 1 ahead, so watch that narrow gap.",
+   "7613031": "You are 109th on 547 with a 50-point week. Your inactive status means you're not counted in crowd stats, so catch up quickly.",
+   "6571548": "You are 110th on 522 after a 53-point week. Janak is 25 ahead, and Rohan sits 21 behind you.",
+   "6598615": "You are 111th on 501 after a 55-point week. Tanish is 21 ahead, and Aritra is 15 behind you.",
+   "531033": "You are 112th on 486 after a 28-point week. Rohan is 15 ahead, so your inactive status is a concern.",
+   "9531391": "You are 113th on 470 after a 42-point week, bottom of the table. Aritra is 16 ahead, so a big week would help."
   },
   "key": "10:between",
-  "ts": "2026-11-20T15:36:56Z",
+  "ts": "2026-11-20T23:22:00Z",
   "usage": {
    "10": {
-    "in": 955517,
-    "out": 168175,
-    "calls": 70,
-    "refreshes": 16,
+    "in": 983093,
+    "out": 172249,
+    "calls": 72,
+    "refreshes": 17,
     "desks": 4,
     "desk_in": 495568,
     "desk_out": 85879,
@@ -59513,44 +59513,44 @@
    "8": 1
   },
   "column": {
-   "headline": "Haaland's armband blank still haunts the league",
-   "text": "Haaland blanked for 76 managers, returning just 2 points for an armband worth 4, and the rebels who ignored him are insufferable. Rajat Arora still leads on 734, 18 clear of Neol after a 70-point week. Isak's 8 for 16 on the armband rescued Aryan Khamankar and Akshat, while Biswadeep and Prathap smashed their way into the Big prizes, pushing Cherag and Quseem out. The title race is tight, and the Haaland sulk remains the league's running joke.",
-   "ts": "2026-11-20T15:36:56Z",
+   "headline": "Haaland blanks again as Rajat Arora holds the summit",
+   "text": "Haaland scored 2 for 76 armband owners, leaving his 4 armband return as the league's running joke, while rebels who ignored him are insufferable. Rajat Arora still leads on 734, 18 clear of Neol after a 70-point week. Isak's 8 for 16 rescued Aryan Khamankar and Akshat, while Biswadeep and Prathap smashed their way into the Big prizes, pushing Cherag and Quseem out. The title race is tight and the Haaland sulk continues.",
+   "ts": "2026-11-20T23:22:00Z",
    "gw": 10
   },
   "history": [
+   "GW10 between: Haaland blanks again as Rajat Arora holds the summit. Haaland scored 2 for 76 armband owners, leaving his 4 armband return as the league's running joke, while rebels who ignored him are insufferable. Rajat Arora still leads on 734, 18 clear of Neol after a 70-point week. Isak's 8 for 16 rescued Aryan Khamankar and Akshat, while Biswadeep and Prathap smashed their way into the Big prizes, pushing Cherag and Quseem out. The title race is tight and the Haaland sulk continues.",
    "GW10 between: Haaland's armband blank still haunts the league. Haaland blanked for 76 managers, returning just 2 points for an armband worth 4, and the rebels who ignored him are insufferable. Rajat Arora still leads on 734, 18 clear of Neol after a 70-point week. Isak's 8 for 16 on the armband rescued Aryan Khamankar and Akshat, while Biswadeep and Prathap smashed their way into the Big prizes, pushing Cherag and Quseem out. The title race is tight, and the Haaland sulk remains the league's running joke.",
    "GW10 between: Haaland blanks again, and the rebels smirk on. Haaland blanked for 76 managers, scoring just 2 for an armband worth 4, and the rebels who ignored him are insufferable. Rajat Arora still leads on 734, 18 clear of Neol after a 70-point week. Isak's 8 for 16 on the armband rescued Aryan Khamankar and Akshat, while Biswadeep and Prathap smashed their way into the Big prizes, pushing Cherag and Quseem out. The title race is tight, and the Haaland sulk is the league's running joke.",
-   "GW10 between: Haaland's blank hands the crown a wobble. Haaland blanked for 76 managers, scoring just 2 for an armband worth 4, and the rebels who ignored him are insufferable. Rajat Arora still leads on 734, 18 clear of Neol after a 70-point week. Isak's 8 for 16 on the armband rescued Aryan Khamankar and Akshat, while Kartik's 83 was the week's best. Biswadeep and Prathap smashed their way into the Big prizes, pushing Cherag and Quseem out.",
-   "GW10 between: Haaland's blank hands the crown a wobble. Haaland blanked for 76 managers, scoring just 2 for an armband worth 4, and the rebels who ignored him are insufferable. Rajat Arora still leads on 734, 18 clear of Neol after a 70-point week, while Isak's 8 for 16 on the armband rescued Aryan Khamankar and Akshat. Kartik's 83 was the week's best, and Biswadeep and Prathap smashed their way into the Big prizes, pushing Cherag and Quseem out. The title race is tight, and Haaland's sulk is the league's running joke."
+   "GW10 between: Haaland's blank hands the crown a wobble. Haaland blanked for 76 managers, scoring just 2 for an armband worth 4, and the rebels who ignored him are insufferable. Rajat Arora still leads on 734, 18 clear of Neol after a 70-point week. Isak's 8 for 16 on the armband rescued Aryan Khamankar and Akshat, while Kartik's 83 was the week's best. Biswadeep and Prathap smashed their way into the Big prizes, pushing Cherag and Quseem out."
   ],
   "group": {
-   "text": "*Haaland blanks again, the rebels gloat*\nRajat Arora holds on to top spot on 734, 18 clear of Neol.\nIsak's 16 on the armband rescued Aryan Khamankar and Akshat, while Biswadeep and Prathap booked Big prize spots.",
-   "ts": "2026-11-20T15:36:56Z",
+   "text": "*Haaland blanks again, Arora still on top*\nHaaland blanked for 76 armbands and Isak's 16 saved Aryan Khamankar and Akshat.\nRajat Arora leads Neol by 18, while Biswadeep and Prathap crashed the Big prizes.",
+   "ts": "2026-11-20T23:22:00Z",
    "gw": 10
   },
   "preview": {
-   "headline": "Gameweek 11: Rajat Arora's lead is under siege",
+   "headline": "Gameweek 11: Arora's lead is on the line",
    "points": [
     {
      "label": "Title race",
-     "text": "Rajat Arora leads Neol by 18 points, with Aryan Khamankar 27 back in third. Neol will fancy closing the gap."
+     "text": "Rajat Arora leads Neol by 18 points, with Aryan Khamankar 27 back in third. Neol will fancy closing the gap quickly."
     },
     {
      "label": "Armband dilemma",
-     "text": "Haaland blanked for 76 managers. Do you trust him again, or follow the rebels to Isak and Calafiori?"
+     "text": "Haaland blanked for 76 managers, so the captaincy question is live again. Isak's 16 armband return is the one to beat."
     },
     {
      "label": "Injury sweat",
-     "text": "João Pedro is ruled out with an unknown return date, owned by 12 of you. Thomas is 75% to play for 19 owners."
+     "text": "Thomas is a 75% doubt, while João Pedro is ruled out with 12 of you owning him. Check your benches before the deadline."
     },
     {
      "label": "Chips loaded",
-     "text": "Akshat, Quseem and Janak still have chips to play, while Rajat Arora has the Free Hit left."
+     "text": "Akshat and Nishit have chips to burn, while Janak and Rohan still hold their whole chip set. Those hoards could swing things."
     }
    ],
    "gw": 11,
-   "ts": "2026-11-20T15:36:56Z"
+   "ts": "2026-11-20T23:22:00Z"
   },
   "storylines": [
    {
@@ -63357,7 +63357,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-20T22:50:52Z",
+  "ts": "2026-11-20T23:22:00Z",
   "issues": [],
   "page": []
  },
@@ -63807,15 +63807,10 @@
    "15": "10:up",
    "154": "10:down",
    "156": "10:down",
-   "32": "10:down"
+   "32": "10:down",
+   "502": "10:up"
   },
   "log": [
-   {
-    "ts": "2026-11-10T23:16:39Z",
-    "el": 286,
-    "kind": "surge",
-    "net": -25042
-   },
    {
     "ts": "2026-11-11T00:19:33Z",
     "el": 109,
@@ -64234,6 +64229,12 @@
     "el": 32,
     "kind": "surge",
     "net": -25382
+   },
+   {
+    "ts": "2026-11-20T23:22:00Z",
+    "el": 502,
+    "kind": "surge",
+    "net": 25052
    }
   ]
  },
