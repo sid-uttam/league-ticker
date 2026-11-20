@@ -9501,7 +9501,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-20T19:13:53Z",
+ "updated": "2026-11-20T19:44:45Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 after a 73 and sit 1 point clear of Matt, so the summit is yours to lose. Watch Matt's Bench Boost momentum and the Barcola and Silva enthusiasm in your squad. Keep an eye on Thomas and Guéhi availability before the deadline.",
@@ -12267,7 +12267,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-20T19:13:53Z",
+  "ts": "2026-11-20T19:44:45Z",
   "issues": [],
   "page": []
  },
@@ -12517,7 +12517,8 @@
    "565": "10:down",
    "259": "10:down",
    "423": "10:down",
-   "277": "10:down"
+   "277": "10:down",
+   "15": "10:up"
   },
   "log": [
    {
@@ -12757,6 +12758,12 @@
     "status": "d",
     "chance": 75,
     "news": "Hip injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-20T19:44:45Z",
+    "el": 15,
+    "kind": "surge",
+    "net": 25102
    }
   ]
  },
