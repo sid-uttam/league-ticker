@@ -2941,7 +2941,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-20T18:42:30Z",
+ "updated": "2026-11-20T19:13:22Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -14714,7 +14714,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-20T18:42:30Z",
+  "ts": "2026-11-20T19:13:22Z",
   "issues": [],
   "page": []
  },
@@ -15011,14 +15011,6 @@
    "277": "10:down"
   },
   "log": [
-   {
-    "ts": "2026-11-10T19:03:29Z",
-    "el": 286,
-    "kind": "flag",
-    "status": "d",
-    "chance": 75,
-    "news": "Hamstring injury - 75% chance of playing"
-   },
    {
     "ts": "2026-11-10T21:42:36Z",
     "el": 127,
