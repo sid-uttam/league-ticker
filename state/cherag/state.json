@@ -9783,15 +9783,6 @@
     "event_total": 73
    },
    {
-    "entry": 13978,
-    "player_name": "Yash Bhatia",
-    "entry_name": "YB",
-    "rank": 4,
-    "last_rank": 3,
-    "total": 702,
-    "event_total": 56
-   },
-   {
     "entry": 1325491,
     "player_name": "akshat awasthi",
     "entry_name": "Nirvana11",
@@ -9799,6 +9790,15 @@
     "last_rank": 7,
     "total": 702,
     "event_total": 72
+   },
+   {
+    "entry": 13978,
+    "player_name": "Yash Bhatia",
+    "entry_name": "YB",
+    "rank": 4,
+    "last_rank": 3,
+    "total": 702,
+    "event_total": 56
    },
    {
     "entry": 3991082,
@@ -9936,15 +9936,6 @@
     "event_total": 62
    },
    {
-    "entry": 107315,
-    "player_name": "Sahej Jhamvar",
-    "entry_name": "sage",
-    "rank": 21,
-    "last_rank": 21,
-    "total": 672,
-    "event_total": 65
-   },
-   {
     "entry": 780469,
     "player_name": "Sahil Thorve",
     "entry_name": "NotAnIsakScience",
@@ -9952,6 +9943,15 @@
     "last_rank": 42,
     "total": 672,
     "event_total": 82
+   },
+   {
+    "entry": 107315,
+    "player_name": "Sahej Jhamvar",
+    "entry_name": "sage",
+    "rank": 21,
+    "last_rank": 21,
+    "total": 672,
+    "event_total": 65
    },
    {
     "entry": 1662734,
@@ -10179,15 +10179,6 @@
     "event_total": 61
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 48,
-    "last_rank": 49,
-    "total": 648,
-    "event_total": 63
-   },
-   {
     "entry": 4683090,
     "player_name": "SHARAN R",
     "entry_name": "Shan FC",
@@ -10195,6 +10186,15 @@
     "last_rank": 60,
     "total": 648,
     "event_total": 74
+   },
+   {
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 48,
+    "last_rank": 49,
+    "total": 648,
+    "event_total": 63
    },
    {
     "entry": 3239284,
@@ -10548,15 +10548,6 @@
     "event_total": 69
    },
    {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
-    "rank": 89,
-    "last_rank": 96,
-    "total": 604,
-    "event_total": 69
-   },
-   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -10564,6 +10555,15 @@
     "last_rank": 80,
     "total": 604,
     "event_total": 50
+   },
+   {
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
+    "rank": 89,
+    "last_rank": 96,
+    "total": 604,
+    "event_total": 69
    },
    {
     "entry": 686561,
@@ -57395,8 +57395,8 @@
    "5949580": 1,
    "305234": 2,
    "136653": 3,
-   "13978": 4,
    "1325491": 4,
+   "13978": 4,
    "3991082": 6,
    "4722308": 7,
    "2429776": 8,
@@ -57412,8 +57412,8 @@
    "1305406": 18,
    "2554077": 19,
    "5685525": 20,
-   "107315": 21,
    "780469": 21,
+   "107315": 21,
    "1662734": 23,
    "3323262": 24,
    "3234577": 25,
@@ -57439,8 +57439,8 @@
    "3566356": 45,
    "2868149": 45,
    "5640988": 45,
-   "10821": 48,
    "4683090": 48,
+   "10821": 48,
    "3239284": 50,
    "248721": 51,
    "48343": 52,
@@ -57480,8 +57480,8 @@
    "11673": 86,
    "3389995": 87,
    "4905114": 87,
-   "2037953": 89,
    "2723973": 89,
+   "2037953": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 93,
@@ -57510,8 +57510,8 @@
    "5949580": "gold",
    "305234": "gold",
    "136653": "gold",
-   "13978": "gold",
    "1325491": "gold",
+   "13978": "gold",
    "3991082": "gold",
    "4722308": "gold",
    "2429776": "gold",
@@ -57527,8 +57527,8 @@
    "1305406": "silver",
    "2554077": "silver",
    "5685525": "silver",
-   "107315": "silver",
    "780469": "silver",
+   "107315": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "3234577": "silver",
@@ -57554,8 +57554,8 @@
    "3566356": null,
    "2868149": null,
    "5640988": null,
-   "10821": null,
    "4683090": null,
+   "10821": null,
    "3239284": null,
    "248721": null,
    "48343": null,
@@ -57595,8 +57595,8 @@
    "11673": null,
    "3389995": null,
    "4905114": null,
-   "2037953": null,
    "2723973": null,
+   "2037953": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -57622,7 +57622,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-20T20:47:29Z",
+ "updated": "2026-11-20T21:18:20Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734 with a 70-point week, 18 clear of Neol. Watch Neol and your Haaland decision, as you do not own Calafiori, N.Jackson or Rogers.",
@@ -63357,7 +63357,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-20T20:47:29Z",
+  "ts": "2026-11-20T21:18:20Z",
   "issues": [],
   "page": []
  },
@@ -63805,7 +63805,9 @@
    "423": "10:down",
    "277": "10:down",
    "15": "10:up",
-   "154": "10:down"
+   "154": "10:down",
+   "156": "10:down",
+   "32": "10:down"
   },
   "log": [
    {
@@ -64226,6 +64228,18 @@
     "el": 154,
     "kind": "surge",
     "net": -25285
+   },
+   {
+    "ts": "2026-11-20T21:18:20Z",
+    "el": 156,
+    "kind": "surge",
+    "net": -25053
+   },
+   {
+    "ts": "2026-11-20T21:18:20Z",
+    "el": 32,
+    "kind": "surge",
+    "net": -25382
    }
   ]
  },
