@@ -9467,7 +9467,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-20T12:30:23Z",
+ "updated": "2026-11-20T13:01:15Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 after a 73-point gameweek, with Matt just 1 point behind. Watch Matt's form closely and your freehit chip, which is still unused.",
@@ -12230,7 +12230,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-20T12:30:23Z",
+  "ts": "2026-11-20T13:01:15Z",
   "issues": [],
   "page": []
  },
@@ -12470,7 +12470,8 @@
    "399": "10:up",
    "305": "10:down",
    "469": "10:down",
-   "316": "10:down"
+   "316": "10:down",
+   "512": "10:up"
   },
   "log": [
    {
@@ -12644,6 +12645,12 @@
     "el": 316,
     "kind": "surge",
     "net": -25081
+   },
+   {
+    "ts": "2026-11-20T13:01:15Z",
+    "el": 512,
+    "kind": "surge",
+    "net": 25154
    }
   ]
  },
