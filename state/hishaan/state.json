@@ -9501,7 +9501,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-20T23:22:21Z",
+ "updated": "2026-11-20T23:53:30Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 points, just 1 ahead of Matt, with Deepak 14 back. Matt's Bench Boost is the biggest threat, so watch his chips closely. Your Free Hit is still in the bag for the crunch.",
@@ -12257,11 +12257,9 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-20T23:22:21Z",
+  "ts": "2026-11-20T23:53:30Z",
   "issues": [],
-  "page": [
-   "briefing for Alia: \"You are 25th, 16 behind Ravi and 24 ahead of Bella.\" has a gap of 16; the gaps between Alia / Bella are 24"
-  ]
+  "page": []
  },
  "pwatch": {
   "seen": {
