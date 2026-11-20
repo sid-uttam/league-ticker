@@ -2361,15 +2361,6 @@
     "event_total": 62
    },
    {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 15,
-    "last_rank": 21,
-    "total": 634,
-    "event_total": 74
-   },
-   {
     "entry": 5682768,
     "player_name": "Vanessa Jethwani",
     "entry_name": "super squad",
@@ -2377,6 +2368,15 @@
     "last_rank": 14,
     "total": 634,
     "event_total": 59
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 15,
+    "last_rank": 21,
+    "total": 634,
+    "event_total": 74
    },
    {
     "entry": 4922092,
@@ -9459,8 +9459,8 @@
    "5474293": 12,
    "75778": 13,
    "6892917": 14,
-   "3506595": 15,
    "5682768": 15,
+   "3506595": 15,
    "4922092": 17,
    "2465483": 18,
    "2934546": 19,
@@ -9487,8 +9487,8 @@
    "5474293": null,
    "75778": null,
    "6892917": null,
-   "3506595": null,
    "5682768": null,
+   "3506595": null,
    "4922092": null,
    "2465483": null,
    "2934546": null,
@@ -9501,7 +9501,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-20T16:39:31Z",
+ "updated": "2026-11-20T17:10:23Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 after a 73 and sit 1 point clear of Matt, so the summit is yours to lose. Watch Matt's Bench Boost momentum and the Barcola and Silva enthusiasm in your squad. Keep an eye on Thomas and Guéhi availability before the deadline.",
@@ -12267,7 +12267,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-20T16:39:31Z",
+  "ts": "2026-11-20T17:10:23Z",
   "issues": [],
   "page": []
  },
@@ -12329,7 +12329,7 @@
    "592": "a|None|",
    "289": "a|100|",
    "86": "a|None|",
-   "388": "d|75|Unspecified injury - 75% chance of playing",
+   "388": "d|75|Hip injury - 75% chance of playing",
    "449": "a|None|",
    "321": "a|None|",
    "350": "a|None|",
@@ -12370,7 +12370,8 @@
    "53": "2026-11-20T15:05:51Z",
    "469": "2026-11-16T19:01:27Z",
    "173": "2026-11-19T14:16:42Z",
-   "391": "2026-11-20T15:37:20Z"
+   "391": "2026-11-20T15:37:20Z",
+   "388": "2026-11-20T17:10:23Z"
   },
   "price": {
    "1": 6.2,
@@ -12515,7 +12516,8 @@
    "480": "10:down",
    "565": "10:down",
    "259": "10:down",
-   "423": "10:down"
+   "423": "10:down",
+   "277": "10:down"
   },
   "log": [
    {
@@ -12749,6 +12751,20 @@
     "el": 423,
     "kind": "surge",
     "net": -25077
+   },
+   {
+    "ts": "2026-11-20T17:10:23Z",
+    "el": 277,
+    "kind": "surge",
+    "net": -25187
+   },
+   {
+    "ts": "2026-11-20T17:10:23Z",
+    "el": 388,
+    "kind": "news",
+    "status": "d",
+    "chance": 75,
+    "news": "Hip injury - 75% chance of playing"
    }
   ]
  },

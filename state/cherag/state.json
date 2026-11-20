@@ -9783,15 +9783,6 @@
     "event_total": 73
    },
    {
-    "entry": 1325491,
-    "player_name": "akshat awasthi",
-    "entry_name": "Nirvana11",
-    "rank": 4,
-    "last_rank": 7,
-    "total": 702,
-    "event_total": 72
-   },
-   {
     "entry": 13978,
     "player_name": "Yash Bhatia",
     "entry_name": "YB",
@@ -9799,6 +9790,15 @@
     "last_rank": 3,
     "total": 702,
     "event_total": 56
+   },
+   {
+    "entry": 1325491,
+    "player_name": "akshat awasthi",
+    "entry_name": "Nirvana11",
+    "rank": 4,
+    "last_rank": 7,
+    "total": 702,
+    "event_total": 72
    },
    {
     "entry": 3991082,
@@ -9936,15 +9936,6 @@
     "event_total": 62
    },
    {
-    "entry": 780469,
-    "player_name": "Sahil Thorve",
-    "entry_name": "NotAnIsakScience",
-    "rank": 21,
-    "last_rank": 42,
-    "total": 672,
-    "event_total": 82
-   },
-   {
     "entry": 107315,
     "player_name": "Sahej Jhamvar",
     "entry_name": "sage",
@@ -9952,6 +9943,15 @@
     "last_rank": 21,
     "total": 672,
     "event_total": 65
+   },
+   {
+    "entry": 780469,
+    "player_name": "Sahil Thorve",
+    "entry_name": "NotAnIsakScience",
+    "rank": 21,
+    "last_rank": 42,
+    "total": 672,
+    "event_total": 82
    },
    {
     "entry": 1662734,
@@ -10080,15 +10080,6 @@
     "event_total": 67
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 37,
-    "last_rank": 47,
-    "total": 654,
-    "event_total": 67
-   },
-   {
     "entry": 6543092,
     "player_name": "Eli K",
     "entry_name": "Liverpool X  FC",
@@ -10096,6 +10087,15 @@
     "last_rank": 32,
     "total": 654,
     "event_total": 57
+   },
+   {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 37,
+    "last_rank": 47,
+    "total": 654,
+    "event_total": 67
    },
    {
     "entry": 1425044,
@@ -10152,15 +10152,6 @@
     "event_total": 77
    },
    {
-    "entry": 5640988,
-    "player_name": "Sundar Sravan",
-    "entry_name": "Bavarian Szobo",
-    "rank": 45,
-    "last_rank": 45,
-    "total": 649,
-    "event_total": 61
-   },
-   {
     "entry": 2868149,
     "player_name": "Akash Singh",
     "entry_name": "The Gerrardians",
@@ -10168,6 +10159,15 @@
     "last_rank": 37,
     "total": 649,
     "event_total": 54
+   },
+   {
+    "entry": 5640988,
+    "player_name": "Sundar Sravan",
+    "entry_name": "Bavarian Szobo",
+    "rank": 45,
+    "last_rank": 45,
+    "total": 649,
+    "event_total": 61
    },
    {
     "entry": 3566356,
@@ -57395,8 +57395,8 @@
    "5949580": 1,
    "305234": 2,
    "136653": 3,
-   "1325491": 4,
    "13978": 4,
+   "1325491": 4,
    "3991082": 6,
    "4722308": 7,
    "2429776": 8,
@@ -57412,8 +57412,8 @@
    "1305406": 18,
    "2554077": 19,
    "5685525": 20,
-   "780469": 21,
    "107315": 21,
+   "780469": 21,
    "1662734": 23,
    "3323262": 24,
    "3234577": 25,
@@ -57428,16 +57428,16 @@
    "257074": 34,
    "480904": 35,
    "698784": 36,
-   "4151180": 37,
    "6543092": 37,
+   "4151180": 37,
    "1425044": 39,
    "675013": 40,
    "32831": 41,
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
-   "5640988": 45,
    "2868149": 45,
+   "5640988": 45,
    "3566356": 45,
    "4683090": 48,
    "10821": 48,
@@ -57510,8 +57510,8 @@
    "5949580": "gold",
    "305234": "gold",
    "136653": "gold",
-   "1325491": "gold",
    "13978": "gold",
+   "1325491": "gold",
    "3991082": "gold",
    "4722308": "gold",
    "2429776": "gold",
@@ -57527,8 +57527,8 @@
    "1305406": "silver",
    "2554077": "silver",
    "5685525": "silver",
-   "780469": "silver",
    "107315": "silver",
+   "780469": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "3234577": "silver",
@@ -57543,16 +57543,16 @@
    "257074": null,
    "480904": null,
    "698784": null,
-   "4151180": null,
    "6543092": null,
+   "4151180": null,
    "1425044": null,
    "675013": null,
    "32831": null,
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "5640988": null,
    "2868149": null,
+   "5640988": null,
    "3566356": null,
    "4683090": null,
    "10821": null,
@@ -57622,7 +57622,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-20T16:39:23Z",
+ "updated": "2026-11-20T17:10:15Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734 with a 70-point week, 18 clear of Neol. Watch Neol and your Haaland decision, as you do not own Calafiori, N.Jackson or Rogers.",
@@ -63357,7 +63357,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-20T16:39:23Z",
+  "ts": "2026-11-20T17:10:15Z",
   "issues": [],
   "page": []
  },
@@ -63551,7 +63551,7 @@
    "544": "i|0|Calf injury - Unknown return date",
    "464": "a|None|",
    "591": "a|100|",
-   "388": "d|75|Unspecified injury - 75% chance of playing",
+   "388": "d|75|Hip injury - 75% chance of playing",
    "418": "d|75|Back injury - 75% chance of playing",
    "254": "a|100|",
    "412": "a|None|",
@@ -63588,7 +63588,8 @@
    "544": "2026-11-19T14:16:19Z",
    "251": "2026-11-20T11:59:23Z",
    "403": "2026-11-20T15:05:43Z",
-   "391": "2026-11-20T15:36:56Z"
+   "391": "2026-11-20T15:36:56Z",
+   "388": "2026-11-20T17:10:15Z"
   },
   "price": {
    "1": 6.2,
@@ -63801,7 +63802,8 @@
    "480": "10:down",
    "565": "10:down",
    "26": "10:down",
-   "423": "10:down"
+   "423": "10:down",
+   "277": "10:down"
   },
   "log": [
    {
@@ -64204,6 +64206,20 @@
     "el": 423,
     "kind": "surge",
     "net": -25077
+   },
+   {
+    "ts": "2026-11-20T17:10:15Z",
+    "el": 277,
+    "kind": "surge",
+    "net": -25187
+   },
+   {
+    "ts": "2026-11-20T17:10:15Z",
+    "el": 388,
+    "kind": "news",
+    "status": "d",
+    "chance": 75,
+    "news": "Hip injury - 75% chance of playing"
    }
   ]
  },
