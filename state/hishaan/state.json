@@ -9501,7 +9501,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-20T21:18:26Z",
+ "updated": "2026-11-20T21:49:17Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 after a 73 and sit 1 point clear of Matt, so the summit is yours to lose. Watch Matt's Bench Boost momentum and the Barcola and Silva enthusiasm in your squad. Keep an eye on Thomas and Guéhi availability before the deadline.",
@@ -12267,7 +12267,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-20T21:18:26Z",
+  "ts": "2026-11-20T21:49:17Z",
   "issues": [],
   "page": []
  },
@@ -12523,12 +12523,6 @@
    "156": "10:down"
   },
   "log": [
-   {
-    "ts": "2026-11-10T21:43:32Z",
-    "el": 127,
-    "kind": "surge",
-    "net": 25032
-   },
    {
     "ts": "2026-11-10T23:17:17Z",
     "el": 286,
