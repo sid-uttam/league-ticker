@@ -10152,15 +10152,6 @@
     "event_total": 77
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 38,
-    "total": 649,
-    "event_total": 55
-   },
-   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10177,6 +10168,15 @@
     "last_rank": 37,
     "total": 649,
     "event_total": 54
+   },
+   {
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 45,
+    "last_rank": 38,
+    "total": 649,
+    "event_total": 55
    },
    {
     "entry": 4683090,
@@ -10251,15 +10251,6 @@
     "event_total": 65
    },
    {
-    "entry": 119217,
-    "player_name": "Kunaal Dadwal",
-    "entry_name": "Chutzpah",
-    "rank": 56,
-    "last_rank": 56,
-    "total": 642,
-    "event_total": 65
-   },
-   {
     "entry": 3654448,
     "player_name": "Abhimanyu Pathania",
     "entry_name": "FPLXV",
@@ -10267,6 +10258,15 @@
     "last_rank": 42,
     "total": 642,
     "event_total": 52
+   },
+   {
+    "entry": 119217,
+    "player_name": "Kunaal Dadwal",
+    "entry_name": "Chutzpah",
+    "rank": 56,
+    "last_rank": 56,
+    "total": 642,
+    "event_total": 65
    },
    {
     "entry": 2932096,
@@ -10395,15 +10395,6 @@
     "event_total": 53
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
-    "rank": 72,
-    "last_rank": 73,
-    "total": 626,
-    "event_total": 65
-   },
-   {
     "entry": 10615,
     "player_name": "Maanas Gupta",
     "entry_name": "Infinity Inc",
@@ -10411,6 +10402,15 @@
     "last_rank": 67,
     "total": 626,
     "event_total": 55
+   },
+   {
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
+    "rank": 72,
+    "last_rank": 73,
+    "total": 626,
+    "event_total": 65
    },
    {
     "entry": 3404613,
@@ -10548,15 +10548,6 @@
     "event_total": 62
    },
    {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
-    "rank": 89,
-    "last_rank": 96,
-    "total": 604,
-    "event_total": 69
-   },
-   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -10564,6 +10555,15 @@
     "last_rank": 80,
     "total": 604,
     "event_total": 50
+   },
+   {
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
+    "rank": 89,
+    "last_rank": 96,
+    "total": 604,
+    "event_total": 69
    },
    {
     "entry": 686561,
@@ -57405,9 +57405,9 @@
    "263779": 42,
    "4558790": 43,
    "4134138": 44,
-   "3566356": 45,
    "5640988": 45,
    "2868149": 45,
+   "3566356": 45,
    "4683090": 48,
    "10821": 48,
    "3239284": 50,
@@ -57416,8 +57416,8 @@
    "13951": 53,
    "6034028": 54,
    "2119331": 55,
-   "119217": 56,
    "3654448": 56,
+   "119217": 56,
    "2932096": 58,
    "1443362": 59,
    "26707": 60,
@@ -57432,8 +57432,8 @@
    "4314690": 69,
    "2922453": 70,
    "3086063": 71,
-   "4592187": 72,
    "10615": 72,
+   "4592187": 72,
    "3404613": 74,
    "1737924": 75,
    "6830291": 76,
@@ -57449,8 +57449,8 @@
    "11673": 86,
    "4905114": 87,
    "3389995": 87,
-   "2037953": 89,
    "2723973": 89,
+   "2037953": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 93,
@@ -57520,9 +57520,9 @@
    "263779": null,
    "4558790": null,
    "4134138": null,
-   "3566356": null,
    "5640988": null,
    "2868149": null,
+   "3566356": null,
    "4683090": null,
    "10821": null,
    "3239284": null,
@@ -57531,8 +57531,8 @@
    "13951": null,
    "6034028": null,
    "2119331": null,
-   "119217": null,
    "3654448": null,
+   "119217": null,
    "2932096": null,
    "1443362": null,
    "26707": null,
@@ -57547,8 +57547,8 @@
    "4314690": null,
    "2922453": null,
    "3086063": null,
-   "4592187": null,
    "10615": null,
+   "4592187": null,
    "3404613": null,
    "1737924": null,
    "6830291": null,
@@ -57564,8 +57564,8 @@
    "11673": null,
    "4905114": null,
    "3389995": null,
-   "2037953": null,
    "2723973": null,
+   "2037953": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -57591,7 +57591,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-20T14:34:50Z",
+ "updated": "2026-11-20T15:05:43Z",
  "ai": {
   "briefings": {
    "5949580": "You sit top on 734, 18 clear of Neol, and you are Safe Hands with a Free Hit still in the bank. Watch Neol closing the gap and whether Tavernier's arrival pays off.",
@@ -63322,7 +63322,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-20T14:34:50Z",
+  "ts": "2026-11-20T15:05:43Z",
   "issues": [],
   "page": []
  },
@@ -63413,7 +63413,7 @@
    "40": "a|None|",
    "166": "a|None|",
    "623": "a|None|",
-   "53": "d|75|Calf injury - 75% chance of playing",
+   "53": "a|100|",
    "346": "a|100|",
    "449": "a|None|",
    "428": "a|None|",
@@ -63424,7 +63424,7 @@
    "87": "a|None|",
    "496": "a|None|",
    "259": "a|None|",
-   "286": "d|75|Hamstring injury - 75% chance of playing",
+   "286": "a|100|",
    "566": "a|None|",
    "155": "a|None|",
    "304": "a|None|",
@@ -63457,7 +63457,7 @@
    "385": "a|None|",
    "173": "d|75|Calf injury - 75% chance of playing",
    "282": "a|None|",
-   "586": "d|75|Knee injury - 75% chance of playing",
+   "586": "a|100|",
    "572": "a|None|",
    "268": "a|100|",
    "569": "a|None|",
@@ -63499,14 +63499,14 @@
    "204": "a|None|",
    "597": "a|None|",
    "60": "a|None|",
-   "403": "i|0|Muscular injury - Expected back 21 Nov",
+   "403": "a|100|",
    "526": "a|None|",
    "650": "a|100|",
    "110": "a|None|",
    "167": "a|None|",
    "13": "a|100|",
    "280": "a|100|",
-   "32": "d|75|Concussion - 75% chance of playing",
+   "32": "i|0|Concussion - Expected back 28 Nov",
    "384": "a|None|",
    "149": "a|None|",
    "366": "a|100|",
@@ -63543,15 +63543,16 @@
    "356": "2026-11-09T18:17:30Z",
    "268": "2026-11-09T21:30:29Z",
    "552": "2026-11-19T14:16:19Z",
-   "286": "2026-11-10T19:03:49Z",
+   "286": "2026-11-20T15:05:43Z",
    "418": "2026-11-11T01:22:50Z",
-   "53": "2026-11-12T13:15:21Z",
-   "32": "2026-11-15T10:59:24Z",
+   "53": "2026-11-20T15:05:43Z",
+   "32": "2026-11-20T15:05:43Z",
    "469": "2026-11-16T19:01:19Z",
-   "586": "2026-11-16T19:01:19Z",
+   "586": "2026-11-20T15:05:43Z",
    "173": "2026-11-19T14:16:19Z",
    "544": "2026-11-19T14:16:19Z",
-   "251": "2026-11-20T11:59:23Z"
+   "251": "2026-11-20T11:59:23Z",
+   "403": "2026-11-20T15:05:43Z"
   },
   "price": {
    "1": 6.2,
@@ -63759,7 +63760,10 @@
    "316": "10:down",
    "384": "10:down",
    "497": "10:down",
-   "496": "10:up"
+   "496": "10:up",
+   "259": "10:down",
+   "480": "10:down",
+   "565": "10:down"
   },
   "log": [
    {
@@ -64082,6 +64086,64 @@
     "el": 496,
     "kind": "surge",
     "net": 25062
+   },
+   {
+    "ts": "2026-11-20T15:05:43Z",
+    "el": 53,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-20T15:05:43Z",
+    "el": 286,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-20T15:05:43Z",
+    "el": 259,
+    "kind": "surge",
+    "net": -25264
+   },
+   {
+    "ts": "2026-11-20T15:05:43Z",
+    "el": 480,
+    "kind": "surge",
+    "net": -25411
+   },
+   {
+    "ts": "2026-11-20T15:05:43Z",
+    "el": 565,
+    "kind": "surge",
+    "net": -25332
+   },
+   {
+    "ts": "2026-11-20T15:05:43Z",
+    "el": 586,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-20T15:05:43Z",
+    "el": 403,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-20T15:05:43Z",
+    "el": 32,
+    "kind": "flag",
+    "status": "i",
+    "chance": 0,
+    "news": "Concussion - Expected back 28 Nov"
    }
   ]
  },
