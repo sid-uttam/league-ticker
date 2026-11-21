@@ -10698,15 +10698,6 @@
     "event_total": 32
    },
    {
-    "entry": 1902223,
-    "player_name": "Karan Singh",
-    "entry_name": "Bombay Reds",
-    "rank": 16,
-    "last_rank": 14,
-    "total": 708,
-    "event_total": 25
-   },
-   {
     "entry": 2557772,
     "player_name": "Quseem Chaudhary",
     "entry_name": "QCH 11",
@@ -10714,6 +10705,15 @@
     "last_rank": 11,
     "total": 708,
     "event_total": 21
+   },
+   {
+    "entry": 1902223,
+    "player_name": "Karan Singh",
+    "entry_name": "Bombay Reds",
+    "rank": 16,
+    "last_rank": 14,
+    "total": 708,
+    "event_total": 25
    },
    {
     "entry": 3479732,
@@ -10896,15 +10896,6 @@
     "event_total": 34
    },
    {
-    "entry": 5640988,
-    "player_name": "Sundar Sravan",
-    "entry_name": "Bavarian Szobo",
-    "rank": 38,
-    "last_rank": 45,
-    "total": 683,
-    "event_total": 34
-   },
-   {
     "entry": 698784,
     "player_name": "Zorawar Bobinmaker",
     "entry_name": "11 Spartans",
@@ -10912,6 +10903,15 @@
     "last_rank": 36,
     "total": 683,
     "event_total": 25
+   },
+   {
+    "entry": 5640988,
+    "player_name": "Sundar Sravan",
+    "entry_name": "Bavarian Szobo",
+    "rank": 38,
+    "last_rank": 45,
+    "total": 683,
+    "event_total": 34
    },
    {
     "entry": 257074,
@@ -10932,15 +10932,6 @@
     "event_total": 33
    },
    {
-    "entry": 1425044,
-    "player_name": "Manav Malhotra",
-    "entry_name": "Brain-Heart 11",
-    "rank": 42,
-    "last_rank": 39,
-    "total": 680,
-    "event_total": 26
-   },
-   {
     "entry": 13951,
     "player_name": "Sagar C",
     "entry_name": "Champs",
@@ -10948,6 +10939,15 @@
     "last_rank": 53,
     "total": 680,
     "event_total": 36
+   },
+   {
+    "entry": 1425044,
+    "player_name": "Manav Malhotra",
+    "entry_name": "Brain-Heart 11",
+    "rank": 42,
+    "last_rank": 39,
+    "total": 680,
+    "event_total": 26
    },
    {
     "entry": 3560542,
@@ -11085,15 +11085,6 @@
     "event_total": 18
    },
    {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
-    "rank": 59,
-    "last_rank": 64,
-    "total": 667,
-    "event_total": 32
-   },
-   {
     "entry": 4683090,
     "player_name": "SHARAN R",
     "entry_name": "Shan FC",
@@ -11110,6 +11101,15 @@
     "last_rank": 55,
     "total": 667,
     "event_total": 24
+   },
+   {
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
+    "rank": 59,
+    "last_rank": 64,
+    "total": 667,
+    "event_total": 32
    },
    {
     "entry": 57776,
@@ -59564,8 +59564,8 @@
    "2671682": 13,
    "573491": 14,
    "2985014": 15,
-   "1902223": 16,
    "2557772": 16,
+   "1902223": 16,
    "3479732": 18,
    "18991": 19,
    "3234577": 20,
@@ -59586,12 +59586,12 @@
    "42960": 35,
    "710718": 35,
    "3566356": 35,
-   "5640988": 35,
    "698784": 35,
+   "5640988": 35,
    "257074": 35,
    "10821": 41,
-   "1425044": 42,
    "13951": 42,
+   "1425044": 42,
    "3560542": 42,
    "480904": 45,
    "4558790": 46,
@@ -59607,9 +59607,9 @@
    "4540238": 54,
    "675013": 57,
    "4134138": 58,
-   "119259": 59,
    "4683090": 59,
    "2119331": 59,
+   "119259": 59,
    "57776": 62,
    "4632544": 63,
    "383029": 64,
@@ -59679,8 +59679,8 @@
    "2671682": "silver",
    "573491": "silver",
    "2985014": "silver",
-   "1902223": "silver",
    "2557772": "silver",
+   "1902223": "silver",
    "3479732": "silver",
    "18991": "silver",
    "3234577": "silver",
@@ -59701,12 +59701,12 @@
    "42960": null,
    "710718": null,
    "3566356": null,
-   "5640988": null,
    "698784": null,
+   "5640988": null,
    "257074": null,
    "10821": null,
-   "1425044": null,
    "13951": null,
+   "1425044": null,
    "3560542": null,
    "480904": null,
    "4558790": null,
@@ -59722,9 +59722,9 @@
    "4540238": null,
    "675013": null,
    "4134138": null,
-   "119259": null,
    "4683090": null,
    "2119331": null,
+   "119259": null,
    "57776": null,
    "4632544": null,
    "383029": null,
@@ -59779,7 +59779,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T17:13:42Z",
+ "updated": "2026-11-21T17:24:30Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -65989,7 +65989,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T17:13:42Z",
+  "ts": "2026-11-21T17:24:30Z",
   "issues": [],
   "page": []
  },
@@ -66442,7 +66442,7 @@
    "385": "10:up",
    "412": "10:down",
    "544": "10:down",
-   "399": "10:up",
+   "399": "11:down",
    "183": "10:up",
    "305": "10:down",
    "469": "10:down",
@@ -66991,6 +66991,12 @@
     "status": "n",
     "chance": 0,
     "news": "Ineligible to face parent club - Expected back 2 Dec"
+   },
+   {
+    "ts": "2026-11-21T17:24:30Z",
+    "el": 399,
+    "kind": "surge",
+    "net": -25870
    }
   ]
  },
