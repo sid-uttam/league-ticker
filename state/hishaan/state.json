@@ -8814,7 +8814,7 @@
     1,
     0,
     0,
-    4,
+    16,
     0,
     0,
     0
@@ -8836,7 +8836,7 @@
     1,
     0,
     0,
-    4,
+    16,
     0,
     0,
     0
@@ -9001,7 +9001,7 @@
     1,
     0,
     0,
-    3,
+    17,
     0,
     0,
     0
@@ -9034,7 +9034,7 @@
     1,
     0,
     0,
-    4,
+    16,
     0,
     0,
     0
@@ -9045,7 +9045,7 @@
     1,
     0,
     0,
-    4,
+    16,
     0,
     0,
     0
@@ -9056,7 +9056,7 @@
     1,
     0,
     0,
-    5,
+    16,
     0,
     0,
     0
@@ -9067,7 +9067,7 @@
     1,
     0,
     0,
-    5,
+    17,
     0,
     0,
     0
@@ -9089,7 +9089,7 @@
     1,
     0,
     0,
-    5,
+    17,
     0,
     0,
     0
@@ -9111,7 +9111,7 @@
     1,
     0,
     0,
-    5,
+    17,
     0,
     0,
     0
@@ -9155,7 +9155,7 @@
     1,
     0,
     0,
-    5,
+    17,
     0,
     0,
     0
@@ -9166,7 +9166,7 @@
     1,
     0,
     0,
-    5,
+    17,
     0,
     0,
     0
@@ -9177,7 +9177,7 @@
     1,
     0,
     0,
-    3,
+    17,
     0,
     0,
     0
@@ -9188,7 +9188,7 @@
     1,
     0,
     0,
-    3,
+    17,
     0,
     0,
     0
@@ -9199,7 +9199,7 @@
     1,
     0,
     0,
-    3,
+    17,
     0,
     0,
     0
@@ -9210,7 +9210,7 @@
     1,
     0,
     0,
-    5,
+    17,
     0,
     0,
     0
@@ -9221,7 +9221,7 @@
     1,
     0,
     0,
-    4,
+    16,
     0,
     0,
     0
@@ -9254,7 +9254,7 @@
     1,
     0,
     0,
-    3,
+    17,
     0,
     0,
     0
@@ -9331,7 +9331,7 @@
     1,
     0,
     0,
-    4,
+    16,
     0,
     0,
     0
@@ -9485,7 +9485,7 @@
     1,
     0,
     0,
-    3,
+    17,
     0,
     0,
     0
@@ -9551,7 +9551,7 @@
     1,
     0,
     0,
-    5,
+    16,
     0,
     0,
     0
@@ -9595,7 +9595,7 @@
     1,
     0,
     0,
-    5,
+    16,
     0,
     0,
     0
@@ -9606,7 +9606,7 @@
     1,
     0,
     0,
-    5,
+    16,
     0,
     0,
     0
@@ -9639,7 +9639,7 @@
     4,
     0,
     0,
-    5,
+    16,
     0,
     0,
     0
@@ -9694,7 +9694,7 @@
     1,
     0,
     0,
-    5,
+    17,
     0,
     0,
     0
@@ -9705,7 +9705,7 @@
     1,
     0,
     0,
-    5,
+    17,
     0,
     0,
     0
@@ -9793,7 +9793,7 @@
     1,
     0,
     0,
-    4,
+    16,
     0,
     0,
     0
@@ -9927,7 +9927,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T15:06:56Z",
+ "updated": "2026-11-21T15:18:55Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -9970,16 +9970,123 @@
     "plots": 11
    },
    "11": {
-    "in": 293382,
-    "out": 62111,
-    "calls": 24,
+    "in": 303823,
+    "out": 64141,
+    "calls": 26,
     "refreshes": 4,
-    "desks": 8,
-    "desk_in": 159927,
-    "desk_out": 52222
+    "desks": 9,
+    "desk_in": 170368,
+    "desk_out": 54252
    }
   },
   "desks": [
+   {
+    "headline": "Haaland blanks as 22 armbands come up empty",
+    "text": "**Haaland blanks** and 22 armbands come up empty as MCI v FUL ends 1-1. At the top, Nikhil still leads Matt by **1 point**, with both stuck on Haaland and 6 players each left to play.",
+    "you": {
+     "2321301": "Barcola is yours alone still to play, so he could protect your 1 point lead over Matt.",
+     "3029346": "You benched Manzambi, who is on the pitch, so his points now count against your 1 point gap to Nikhil.",
+     "735721": "Matt is 12 points above you, and your 5 players still to play face a long climb.",
+     "1921902": "Only 3 managers share your captain N.Jackson, who is playing now, so AVL v SUN is yours to shape.",
+     "2687116": "Gvardiol returned 1 point from MCI v FUL after your bench held him, a call that is already costing you.",
+     "3344797": "Chandru is 20 points above you, and your 4 players still to come are the route up.",
+     "4487775": "Van de Ven is yours alone still to play, so he could cut into the 8 points to Rohan.",
+     "1655993": "Rice, Belloumi and Egan are yours alone still to play, and they decide your Bench Boost showdown with Amit.",
+     "1036311": "Your Bench Boost is in a showdown with Sunny's, and bench points will settle it.",
+     "3072827": "You benched Gvardiol, who returned 1 point from MCI v FUL, so one bench call is already costing you.",
+     "3350483": "Vuskovic is yours alone still to play, so a haul could push you 1 point past Sunil.",
+     "5474293": "Lewis-Potter is yours alone still to play, so he could help you overtake Aashiv.",
+     "75778": "Sahil is 6 points above you, and your 7 players still to come could close that gap.",
+     "6892917": "A.Becker is yours alone still to play, so he could push you further ahead of Hishaan, 1 point behind.",
+     "3506595": "Today you climbed to 14th, but you now sit 15th after the Gvardiol bench call.",
+     "5682768": "You touched 14th earlier today but now sit 16th, a fall you can still reverse.",
+     "4922092": "Rudoni, whom you sold this week, has just assisted, a costly 4 points.",
+     "2465483": "Passing Ravi Mahtani lifted you to 17th today, with Branthwaite yours alone still to play.",
+     "2934546": "You were 18th earlier today but sit 19th now, after your Wildcard went head to head with Ravi Mahtani's.",
+     "6279027": "White is yours alone still to play, so he could narrow the 9 points to Naresh.",
+     "865376": "Only you captain Palmer, who is playing now, so every point he gets is yours alone.",
+     "7043406": "You passed Vinesh today, but Lakshay is still 6 points above you.",
+     "6159011": "Rajiv went past you today, leaving you 1 point behind him.",
+     "3314780": "Pickford and Gakpo are yours alone still to play, a chance to close the 10 points to Vinesh.",
+     "6051923": "Ravi Bhojwani is 14 points above you, so your 4 players still to come have work to do.",
+     "6476662": "Your Triple Captain on Haaland has lifted your gameweek to 20 points, with Anderson's surprise yours alone."
+    },
+    "ts": "2026-11-21T15:18:55Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:i:0-0|102:i:0-0|103:n:0-0|104:i:0-0|105:i:1-1|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:i:1-0",
+    "ranks": {
+     "2321301": 1,
+     "3029346": 2,
+     "735721": 3,
+     "1921902": 4,
+     "2687116": 5,
+     "3344797": 6,
+     "4487775": 7,
+     "1655993": 8,
+     "1036311": 9,
+     "3072827": 10,
+     "3350483": 11,
+     "5474293": 12,
+     "75778": 13,
+     "6892917": 14,
+     "3506595": 15,
+     "5682768": 16,
+     "4922092": 17,
+     "2465483": 18,
+     "2934546": 19,
+     "6279027": 20,
+     "865376": 21,
+     "7043406": 22,
+     "6159011": 23,
+     "3314780": 24,
+     "6051923": 25,
+     "6476662": 26
+    },
+    "totals": {
+     "2321301": 731,
+     "3029346": 730,
+     "735721": 718,
+     "1921902": 714,
+     "2687116": 704,
+     "3344797": 684,
+     "4487775": 676,
+     "1655993": 675,
+     "1036311": 670,
+     "3072827": 662,
+     "3350483": 661,
+     "5474293": 660,
+     "75778": 654,
+     "6892917": 646,
+     "3506595": 645,
+     "5682768": 644,
+     "4922092": 638,
+     "2465483": 637,
+     "2934546": 636,
+     "6279027": 627,
+     "865376": 626,
+     "7043406": 620,
+     "6159011": 619,
+     "3314780": 609,
+     "6051923": 595,
+     "6476662": 580
+    },
+    "ga": {
+     "183": [
+      0,
+      1
+     ],
+     "481": [
+      1,
+      0
+     ]
+    },
+    "you_full_ts": "2026-11-21T15:06:56Z",
+    "next": {
+     "ko": "2026-11-21T17:30:00Z",
+     "match": "NEWC v ARS"
+    }
+   },
    {
     "headline": "Ravi Mahtani's sold Rudoni sets up COV v CRY's opener",
     "text": "Rudoni assisted the opener in COV v CRY, banking **4 points** for Ravi Mahtani, who sold him this week and benched him too. It stings for a manager with only Araujo still to play, while at the top **Nikhil** still clings to first by **1 point** over Matt, both riding Haaland.",
@@ -10391,104 +10498,6 @@
      "ko": "2026-11-21T15:00:00Z",
      "match": "AVL v SUN"
     }
-   },
-   {
-    "headline": "Nikhil clings to top by one point over Matt",
-    "text": "Nikhil clings to top by **1 point** over Matt, both captaining Haaland, who has 1 point as MCI v FUL leads 0-1. Matt's route back runs through Van Hecke and Gabriel, while Nikhil has Raya, Silva and Konsa to play, so **a haul from them could stretch the lead**.",
-    "you": {
-     "2321301": "Barcola is yours alone among your players still to play, a chance to protect your lead.",
-     "3029346": "Nikhil is 1 point above you in the table, so one goal swing could flip top spot.",
-     "735721": "Matt sits 13 points above you in the table.",
-     "1921902": "Your captain N.Jackson is still to play, a differential that only 3 managers share.",
-     "2687116": "Ravin is 10 points above you in the fight for the last Gold spot.",
-     "3344797": "Chandru is 22 points above you in the table.",
-     "4487775": "Van de Ven is yours alone among your players still to play, a chance to climb.",
-     "1655993": "You and Amit both played Bench Boost, so bench points will settle the showdown.",
-     "1036311": "Sunny also played Bench Boost, so bench points will settle your showdown with him.",
-     "3072827": "Amit is 4 points above you in the table.",
-     "3350483": "Vuskovic is yours alone among your players still to play, a lift if he hauls.",
-     "5474293": "Lewis-Potter is yours alone among your players still to play, your swing player.",
-     "75778": "Sahil is 5 points above you in the table.",
-     "6892917": "A.Becker is yours alone among your players still to play.",
-     "3506595": "Poonam is 1 point above you, so one goal could move you up.",
-     "5682768": "Ajayi and B.Fernandes are yours alone among your players still to play.",
-     "2465483": "You dipped to 18th today, now back up to 17th.",
-     "4922092": "You and Naresh both played Wildcard, so the squad you build will settle the showdown.",
-     "2934546": "You were 18th earlier today, now 19th.",
-     "6279027": "White is yours alone among your players still to play.",
-     "865376": "Rayan is yours alone among your players still to play.",
-     "7043406": "You have passed Vinesh today, moving up on him.",
-     "6159011": "Rajiv has passed you today, a sting in the Tin Pot fight.",
-     "3314780": "Pickford and Gakpo are yours alone among your players still to play.",
-     "6051923": "Ravi Bhojwani is 16 points above you in the table.",
-     "6476662": "Your Triple Captain has your gameweek riding on one player, and Petrović is yours alone to come."
-    },
-    "ts": "2026-11-21T12:58:24Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:n:0-0|102:n:0-0|103:n:0-0|104:n:0-0|105:n:0-0|106:n:0-0|107:n:0-0|108:i:0-1|109:n:0-0|110:n:0-0",
-    "ranks": {
-     "2321301": 1,
-     "3029346": 2,
-     "735721": 3,
-     "1921902": 4,
-     "2687116": 5,
-     "3344797": 6,
-     "4487775": 7,
-     "1655993": 8,
-     "1036311": 9,
-     "3072827": 10,
-     "3350483": 11,
-     "5474293": 12,
-     "75778": 13,
-     "6892917": 14,
-     "3506595": 15,
-     "5682768": 15,
-     "2465483": 17,
-     "4922092": 17,
-     "2934546": 19,
-     "6279027": 20,
-     "865376": 21,
-     "7043406": 22,
-     "6159011": 23,
-     "3314780": 24,
-     "6051923": 25,
-     "6476662": 26
-    },
-    "totals": {
-     "2321301": 725,
-     "3029346": 724,
-     "735721": 711,
-     "1921902": 708,
-     "2687116": 698,
-     "3344797": 676,
-     "4487775": 671,
-     "1655993": 669,
-     "1036311": 660,
-     "3072827": 656,
-     "3350483": 655,
-     "5474293": 654,
-     "75778": 649,
-     "6892917": 638,
-     "3506595": 637,
-     "5682768": 637,
-     "2465483": 631,
-     "4922092": 631,
-     "2934546": 630,
-     "6279027": 621,
-     "865376": 619,
-     "7043406": 614,
-     "6159011": 613,
-     "3314780": 603,
-     "6051923": 587,
-     "6476662": 564
-    },
-    "ga": {},
-    "you_full_ts": "2026-11-21T12:35:32Z",
-    "next": {
-     "ko": "2026-11-21T15:00:00Z",
-     "match": "AVL v SUN"
-    }
    }
   ],
   "desk_day": {
@@ -10522,7 +10531,7 @@
     "6476662": 26
    }
   },
-  "desk_last_ok": "2026-11-21T15:06:56Z",
+  "desk_last_ok": "2026-11-21T15:18:55Z",
   "plots": [
    {
     "id": "title",
@@ -12444,7 +12453,7 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T15:06:56Z",
+  "ts": "2026-11-21T15:18:55Z",
   "issues": [],
   "page": [],
   "wording": [
