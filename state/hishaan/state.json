@@ -2624,8 +2624,8 @@
     "entry_name": "Net Six and Chill",
     "rank": 21,
     "last_rank": 21,
-    "total": 620,
-    "event_total": 2
+    "total": 621,
+    "event_total": 3
    },
    {
     "entry": 7043406,
@@ -2660,8 +2660,8 @@
     "entry_name": "Your Wirtz Nightmare",
     "rank": 25,
     "last_rank": 25,
-    "total": 591,
-    "event_total": 7
+    "total": 592,
+    "event_total": 8
    },
    {
     "entry": 6476662,
@@ -7616,6 +7616,22 @@
  },
  "stories": [
   {
+   "key": "d11:onpitch:391",
+   "kind": "live",
+   "tag": "Bench",
+   "head": "Gvardiol is on the pitch. 3 of you benched him",
+   "body": "Chandru, Sunil and Hishaan will be watching through their fingers.",
+   "stat": "2 started him",
+   "score": 56,
+   "who": [
+    2687116,
+    3072827,
+    3506595
+   ],
+   "ts": "2026-11-21T14:18:11Z",
+   "gw": 11
+  },
+  {
    "key": "l11:ret:481:1:0",
    "kind": "live",
    "tag": "Live",
@@ -8697,7 +8713,8 @@
   "d11:chip:6476662",
   "d11:rivals:2321301:3029346",
   "d11:rivals:735721:1921902",
-  "l11:ret:481:1:0"
+  "l11:ret:481:1:0",
+  "d11:onpitch:391"
  ],
  "done": [
   "deadline:10",
@@ -9307,7 +9324,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -9318,7 +9335,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -9326,10 +9343,10 @@
    "391": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -9340,7 +9357,7 @@
     4,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -9362,7 +9379,7 @@
     1,
     0,
     0,
-    8,
+    19,
     0,
     0,
     0
@@ -9373,7 +9390,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -9417,7 +9434,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -9615,7 +9632,7 @@
     10,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -9681,7 +9698,7 @@
     2,
     0,
     0,
-    78,
+    77,
     0,
     0,
     0
@@ -9758,7 +9775,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -9826,7 +9843,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T14:07:29Z",
+ "updated": "2026-11-21T14:18:11Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -12206,9 +12223,9 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T14:07:29Z",
+  "ts": "2026-11-21T14:18:11Z",
   "issues": [
-   "desk written from older totals (6 managers changed since)"
+   "desk written from older totals (7 managers changed since)"
   ],
   "page": []
  },

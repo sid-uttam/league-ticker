@@ -10725,10 +10725,19 @@
     "event_total": 4
    },
    {
+    "entry": 107315,
+    "player_name": "Sahej Jhamvar",
+    "entry_name": "sage",
+    "rank": 19,
+    "last_rank": 21,
+    "total": 677,
+    "event_total": 5
+   },
+   {
     "entry": 5685525,
     "player_name": "Mudit Bhatla",
     "entry_name": "ffs team name again",
-    "rank": 19,
+    "rank": 20,
     "last_rank": 20,
     "total": 676,
     "event_total": 4
@@ -10737,16 +10746,7 @@
     "entry": 780469,
     "player_name": "Sahil Thorve",
     "entry_name": "NotAnIsakScience",
-    "rank": 20,
-    "last_rank": 21,
-    "total": 676,
-    "event_total": 4
-   },
-   {
-    "entry": 107315,
-    "player_name": "Sahej Jhamvar",
-    "entry_name": "sage",
-    "rank": 20,
+    "rank": 21,
     "last_rank": 21,
     "total": 676,
     "event_total": 4
@@ -10968,18 +10968,18 @@
     "event_total": 4
    },
    {
-    "entry": 2868149,
-    "player_name": "Akash Singh",
-    "entry_name": "The Gerrardians",
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
     "rank": 46,
     "last_rank": 45,
     "total": 653,
     "event_total": 4
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
+    "entry": 2868149,
+    "player_name": "Akash Singh",
+    "entry_name": "The Gerrardians",
     "rank": 46,
     "last_rank": 45,
     "total": 653,
@@ -11103,22 +11103,22 @@
     "event_total": 2
    },
    {
-    "entry": 4540238,
-    "player_name": "Shrivar Goenka",
-    "entry_name": "SG XI",
-    "rank": 61,
-    "last_rank": 61,
-    "total": 641,
-    "event_total": 4
-   },
-   {
     "entry": 1854010,
     "player_name": "Shahan Irani",
     "entry_name": "ahaonltoocnraoini.",
-    "rank": 62,
+    "rank": 61,
     "last_rank": 63,
-    "total": 640,
-    "event_total": 5
+    "total": 641,
+    "event_total": 6
+   },
+   {
+    "entry": 4540238,
+    "player_name": "Shrivar Goenka",
+    "entry_name": "SG XI",
+    "rank": 62,
+    "last_rank": 61,
+    "total": 641,
+    "event_total": 4
    },
    {
     "entry": 3560542,
@@ -11130,15 +11130,6 @@
     "event_total": 5
    },
    {
-    "entry": 2569620,
-    "player_name": "Adit Reddy",
-    "entry_name": "me myself ndiaye",
-    "rank": 64,
-    "last_rank": 62,
-    "total": 639,
-    "event_total": 3
-   },
-   {
     "entry": 119259,
     "player_name": "Rahil Mirchandani",
     "entry_name": "Regaling",
@@ -11148,20 +11139,29 @@
     "event_total": 4
    },
    {
-    "entry": 383029,
-    "player_name": "Vishva Thombare",
-    "entry_name": "VGMM",
-    "rank": 66,
-    "last_rank": 66,
-    "total": 637,
-    "event_total": 4
+    "entry": 2569620,
+    "player_name": "Adit Reddy",
+    "entry_name": "me myself ndiaye",
+    "rank": 64,
+    "last_rank": 62,
+    "total": 639,
+    "event_total": 3
    },
    {
     "entry": 57776,
     "player_name": "Adwait Bhattacharya",
     "entry_name": "Xabi's Palestronomy!",
-    "rank": 67,
+    "rank": 66,
     "last_rank": 67,
+    "total": 638,
+    "event_total": 5
+   },
+   {
+    "entry": 383029,
+    "player_name": "Vishva Thombare",
+    "entry_name": "VGMM",
+    "rank": 67,
+    "last_rank": 66,
     "total": 637,
     "event_total": 4
    },
@@ -11169,10 +11169,10 @@
     "entry": 4314690,
     "player_name": "Manu P",
     "entry_name": "Kotoshi Gambare",
-    "rank": 68,
+    "rank": 67,
     "last_rank": 69,
-    "total": 636,
-    "event_total": 5
+    "total": 637,
+    "event_total": 6
    },
    {
     "entry": 4632544,
@@ -11229,20 +11229,20 @@
     "event_total": 4
    },
    {
-    "entry": 6830291,
-    "player_name": "Karan P Nanda",
-    "entry_name": "Justlikethat",
-    "rank": 75,
-    "last_rank": 76,
-    "total": 625,
-    "event_total": 4
-   },
-   {
     "entry": 438967,
     "player_name": "Avin Sharma",
     "entry_name": "Fantasy King",
-    "rank": 76,
+    "rank": 75,
     "last_rank": 77,
+    "total": 626,
+    "event_total": 5
+   },
+   {
+    "entry": 6830291,
+    "player_name": "Karan P Nanda",
+    "entry_name": "Justlikethat",
+    "rank": 76,
+    "last_rank": 76,
     "total": 625,
     "event_total": 4
    },
@@ -11346,28 +11346,28 @@
     "event_total": 4
    },
    {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 88,
+    "last_rank": 89,
+    "total": 608,
+    "event_total": 4
+   },
+   {
     "entry": 11673,
     "player_name": "Yash Gawai",
     "entry_name": "PalmerIsGlamour",
-    "rank": 88,
+    "rank": 89,
     "last_rank": 86,
     "total": 608,
     "event_total": 2
    },
    {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 89,
-    "last_rank": 89,
-    "total": 607,
-    "event_total": 3
-   },
-   {
     "entry": 3389995,
     "player_name": "Stephen Menezes",
     "entry_name": "Goal Diggers",
-    "rank": 89,
+    "rank": 90,
     "last_rank": 87,
     "total": 607,
     "event_total": 2
@@ -11454,20 +11454,20 @@
     "event_total": 5
    },
    {
-    "entry": 8779992,
-    "player_name": "Kartik Kak",
-    "entry_name": "Top FC",
-    "rank": 100,
-    "last_rank": 100,
-    "total": 588,
-    "event_total": 2
-   },
-   {
     "entry": 3794959,
     "player_name": "chander rajput",
     "entry_name": "chander's Team",
-    "rank": 101,
+    "rank": 100,
     "last_rank": 99,
+    "total": 589,
+    "event_total": 3
+   },
+   {
+    "entry": 8779992,
+    "player_name": "Kartik Kak",
+    "entry_name": "Top FC",
+    "rank": 101,
+    "last_rank": 100,
     "total": 588,
     "event_total": 2
    },
@@ -11558,8 +11558,8 @@
     "entry_name": "Comfortably Dumb",
     "rank": 111,
     "last_rank": 111,
-    "total": 502,
-    "event_total": 1
+    "total": 503,
+    "event_total": 2
    },
    {
     "entry": 531033,
@@ -56404,6 +56404,27 @@
  },
  "stories": [
   {
+   "key": "d11:onpitch:391",
+   "kind": "live",
+   "tag": "Bench",
+   "head": "Gvardiol is on the pitch. 8 of you benched him",
+   "body": "8 managers will be watching through their fingers.",
+   "stat": "8 started him",
+   "score": 56,
+   "who": [
+    42960,
+    174952,
+    1497357,
+    1662734,
+    1967440,
+    2119331,
+    3560542,
+    5949580
+   ],
+   "ts": "2026-11-21T14:18:06Z",
+   "gw": 11
+  },
+  {
    "key": "l11:shuffle:2026-11-21T14",
    "kind": "live",
    "tag": "Table",
@@ -57152,7 +57173,8 @@
   "l11:shuffle:2026-11-21T12",
   "l11:ret:481:1:0",
   "l11:shuffle:2026-11-21T13",
-  "l11:shuffle:2026-11-21T14"
+  "l11:shuffle:2026-11-21T14",
+  "d11:onpitch:391"
  ],
  "done": [
   "deadline:10",
@@ -57421,7 +57443,7 @@
     1,
     0,
     0,
-    1,
+    11,
     0,
     0,
     0
@@ -57806,7 +57828,7 @@
     4,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -57836,10 +57858,10 @@
    "155": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    4,
     0,
     0,
     0
@@ -58015,7 +58037,7 @@
     2,
     0,
     0,
-    78,
+    77,
     0,
     0,
     0
@@ -58037,7 +58059,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -58059,7 +58081,7 @@
     1,
     0,
     0,
-    8,
+    19,
     0,
     0,
     0
@@ -58070,7 +58092,7 @@
     1,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -58422,7 +58444,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -58444,7 +58466,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -58455,7 +58477,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -58463,10 +58485,10 @@
    "391": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -58488,7 +58510,7 @@
     1,
     0,
     0,
-    8,
+    19,
     0,
     0,
     0
@@ -58499,7 +58521,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -58532,7 +58554,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -58708,7 +58730,7 @@
     10,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -58833,9 +58855,9 @@
    "2985014": 16,
    "3214478": 17,
    "1305406": 17,
-   "5685525": 19,
-   "780469": 19,
    "107315": 19,
+   "5685525": 20,
+   "780469": 20,
    "1662734": 22,
    "3323262": 22,
    "573491": 22,
@@ -58860,8 +58882,8 @@
    "4558790": 43,
    "4683090": 43,
    "4134138": 45,
-   "2868149": 46,
    "3566356": 46,
+   "2868149": 46,
    "5640988": 46,
    "10821": 49,
    "248721": 50,
@@ -58875,22 +58897,22 @@
    "48343": 58,
    "26707": 59,
    "2932096": 60,
+   "1854010": 61,
    "4540238": 61,
-   "1854010": 62,
-   "3560542": 62,
-   "2569620": 64,
+   "3560542": 63,
    "119259": 64,
-   "383029": 66,
+   "2569620": 64,
    "57776": 66,
-   "4314690": 68,
+   "383029": 67,
+   "4314690": 67,
    "4632544": 69,
    "4592187": 70,
    "2922453": 71,
    "10615": 72,
    "3404613": 73,
    "3086063": 74,
-   "6830291": 75,
    "438967": 75,
+   "6830291": 76,
    "1737924": 77,
    "4372346": 78,
    "2424472": 79,
@@ -58902,9 +58924,9 @@
    "4811914": 85,
    "2037953": 86,
    "4905114": 87,
+   "2723973": 88,
    "11673": 88,
-   "2723973": 89,
-   "3389995": 89,
+   "3389995": 90,
    "686561": 91,
    "5734029": 92,
    "3298199": 92,
@@ -58914,8 +58936,8 @@
    "907691": 96,
    "1497357": 98,
    "4616626": 99,
-   "8779992": 100,
    "3794959": 100,
+   "8779992": 101,
    "1474501": 102,
    "4439544": 103,
    "358907": 104,
@@ -58948,9 +58970,9 @@
    "2985014": "silver",
    "3214478": "silver",
    "1305406": "silver",
+   "107315": "silver",
    "5685525": "silver",
    "780469": "silver",
-   "107315": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "573491": "silver",
@@ -58975,8 +58997,8 @@
    "4558790": null,
    "4683090": null,
    "4134138": null,
-   "2868149": null,
    "3566356": null,
+   "2868149": null,
    "5640988": null,
    "10821": null,
    "248721": null,
@@ -58990,13 +59012,13 @@
    "48343": null,
    "26707": null,
    "2932096": null,
-   "4540238": null,
    "1854010": null,
+   "4540238": null,
    "3560542": null,
-   "2569620": null,
    "119259": null,
-   "383029": null,
+   "2569620": null,
    "57776": null,
+   "383029": null,
    "4314690": null,
    "4632544": null,
    "4592187": null,
@@ -59004,8 +59026,8 @@
    "10615": null,
    "3404613": null,
    "3086063": null,
-   "6830291": null,
    "438967": null,
+   "6830291": null,
    "1737924": null,
    "4372346": null,
    "2424472": null,
@@ -59017,8 +59039,8 @@
    "4811914": null,
    "2037953": null,
    "4905114": null,
-   "11673": null,
    "2723973": null,
+   "11673": null,
    "3389995": null,
    "686561": null,
    "5734029": null,
@@ -59029,8 +59051,8 @@
    "907691": null,
    "1497357": null,
    "4616626": null,
-   "8779992": null,
    "3794959": null,
+   "8779992": null,
    "1474501": null,
    "4439544": null,
    "358907": null,
@@ -59045,7 +59067,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T14:07:25Z",
+ "updated": "2026-11-21T14:18:06Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -65098,9 +65120,9 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T14:07:25Z",
+  "ts": "2026-11-21T14:18:06Z",
   "issues": [
-   "desk written from older totals (20 managers changed since)"
+   "desk written from older totals (24 managers changed since)"
   ],
   "page": []
  },

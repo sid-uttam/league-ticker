@@ -2076,7 +2076,7 @@
     1,
     0,
     0,
-    1,
+    11,
     0,
     0,
     0
@@ -2472,7 +2472,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -2505,7 +2505,7 @@
     2,
     0,
     0,
-    78,
+    77,
     0,
     0,
     0
@@ -2516,7 +2516,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -2524,10 +2524,10 @@
    "391": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2582,7 +2582,7 @@
     1,
     0,
     0,
-    8,
+    19,
     0,
     0,
     0
@@ -2593,7 +2593,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -2637,7 +2637,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -2846,7 +2846,7 @@
     10,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -2879,7 +2879,7 @@
     2,
     0,
     0,
-    78,
+    77,
     0,
     0,
     0
@@ -2978,7 +2978,7 @@
     2,
     0,
     0,
-    78,
+    89,
     0,
     0,
     0
@@ -3017,8 +3017,8 @@
    "3359227": 14,
    "7273369": 15,
    "1457736": 16,
+   "5873092": 17,
    "75187": 17,
-   "5873092": 18,
    "4841175": 19,
    "6341709": 20,
    "6619523": 21,
@@ -3048,8 +3048,8 @@
    "3359227": null,
    "7273369": null,
    "1457736": null,
-   "75187": null,
    "5873092": null,
+   "75187": null,
    "4841175": null,
    "6341709": null,
    "6619523": null,
@@ -3063,7 +3063,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T14:07:07Z",
+ "updated": "2026-11-21T14:17:48Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -7658,8 +7658,8 @@
     "entry_name": "Shawshank Relegation",
     "rank": 10,
     "last_rank": 9,
-    "total": 638,
-    "event_total": 4
+    "total": 639,
+    "event_total": 5
    },
    {
     "entry": 962024,
@@ -7716,22 +7716,22 @@
     "event_total": 3
    },
    {
-    "entry": 75187,
-    "player_name": "Dominic Hagerty",
-    "entry_name": "Enzo in the City",
+    "entry": 5873092,
+    "player_name": "Justin Deniese",
+    "entry_name": "The Bench",
     "rank": 17,
-    "last_rank": 18,
+    "last_rank": 17,
     "total": 617,
     "event_total": 5
    },
    {
-    "entry": 5873092,
-    "player_name": "Justin Deniese",
-    "entry_name": "The Bench",
+    "entry": 75187,
+    "player_name": "Dominic Hagerty",
+    "entry_name": "Enzo in the City",
     "rank": 18,
-    "last_rank": 17,
-    "total": 616,
-    "event_total": 4
+    "last_rank": 18,
+    "total": 617,
+    "event_total": 5
    },
    {
     "entry": 4841175,
@@ -7766,8 +7766,8 @@
     "entry_name": "Kolo's sidepiece",
     "rank": 22,
     "last_rank": 23,
-    "total": 584,
-    "event_total": 5
+    "total": 585,
+    "event_total": 6
    },
    {
     "entry": 3552160,
@@ -7793,8 +7793,8 @@
     "entry_name": "Quantum of Tzolis",
     "rank": 25,
     "last_rank": 25,
-    "total": 578,
-    "event_total": 4
+    "total": 579,
+    "event_total": 5
    },
    {
     "entry": 8316989,
@@ -7811,8 +7811,8 @@
     "entry_name": "Maximus",
     "rank": 27,
     "last_rank": 27,
-    "total": 560,
-    "event_total": 6
+    "total": 561,
+    "event_total": 7
    },
    {
     "entry": 3591460,
@@ -14369,9 +14369,9 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T14:07:07Z",
+  "ts": "2026-11-21T14:17:48Z",
   "issues": [
-   "desk written from older totals (10 managers changed since)"
+   "desk written from older totals (14 managers changed since)"
   ],
   "page": []
  },
