@@ -2462,8 +2462,8 @@
     "entry_name": "2-Hype Toffees",
     "rank": 3,
     "last_rank": 3,
-    "total": 714,
-    "event_total": 6
+    "total": 715,
+    "event_total": 7
    },
    {
     "entry": 1921902,
@@ -2471,8 +2471,8 @@
     "entry_name": "Robby's Rebels",
     "rank": 4,
     "last_rank": 4,
-    "total": 709,
-    "event_total": 2
+    "total": 710,
+    "event_total": 3
    },
    {
     "entry": 2687116,
@@ -2498,8 +2498,8 @@
     "entry_name": "Leaf Green",
     "rank": 7,
     "last_rank": 7,
-    "total": 673,
-    "event_total": 4
+    "total": 674,
+    "event_total": 5
    },
    {
     "entry": 1655993,
@@ -2552,8 +2552,8 @@
     "entry_name": "Magic Mikel",
     "rank": 13,
     "last_rank": 13,
-    "total": 651,
-    "event_total": 4
+    "total": 652,
+    "event_total": 5
    },
    {
     "entry": 6892917,
@@ -2588,8 +2588,8 @@
     "entry_name": "Inu10",
     "rank": 17,
     "last_rank": 18,
-    "total": 635,
-    "event_total": 7
+    "total": 634,
+    "event_total": 6
    },
    {
     "entry": 4922092,
@@ -2660,8 +2660,8 @@
     "entry_name": "Your Wirtz Nightmare",
     "rank": 25,
     "last_rank": 25,
-    "total": 590,
-    "event_total": 6
+    "total": 591,
+    "event_total": 7
    },
    {
     "entry": 6476662,
@@ -8757,7 +8757,7 @@
     1,
     0,
     0,
-    66,
+    69,
     0,
     0,
     0
@@ -8790,7 +8790,7 @@
     2,
     0,
     0,
-    66,
+    69,
     0,
     0,
     0
@@ -9307,7 +9307,7 @@
     2,
     0,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -9318,7 +9318,7 @@
     2,
     0,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -9340,7 +9340,7 @@
     4,
     0,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -9359,10 +9359,10 @@
    "399": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    8,
     0,
     0,
     0
@@ -9370,10 +9370,10 @@
    "400": [
     0,
     0,
-    3,
+    2,
     0,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -9417,7 +9417,7 @@
     2,
     0,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -9615,7 +9615,7 @@
     10,
     0,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -9681,7 +9681,7 @@
     2,
     0,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -9758,7 +9758,7 @@
     2,
     0,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -9826,7 +9826,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T13:56:08Z",
+ "updated": "2026-11-21T14:07:29Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -11534,8 +11534,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      }
     ]
@@ -12206,8 +12206,10 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T13:56:08Z",
-  "issues": [],
+  "ts": "2026-11-21T14:07:29Z",
+  "issues": [
+   "desk written from older totals (6 managers changed since)"
+  ],
   "page": []
  },
  "pwatch": {
@@ -12239,7 +12241,7 @@
    "237": "a|None|",
    "399": "a|None|",
    "233": "a|100|",
-   "173": "d|75|Calf injury - 75% chance of playing",
+   "173": "a|100|",
    "334": "a|None|",
    "391": "a|100|",
    "362": "a|100|",
@@ -12301,7 +12303,7 @@
    "138": "a|None|",
    "412": "a|None|",
    "481": "a|100|",
-   "469": "d|75|Ankle injury - 75% chance of playing",
+   "469": "a|100|",
    "504": "a|None|",
    "579": "a|None|",
    "183": "a|100|",
@@ -12312,8 +12314,8 @@
    "268": "2026-11-09T21:31:12Z",
    "286": "2026-11-20T15:05:51Z",
    "53": "2026-11-20T15:05:51Z",
-   "469": "2026-11-16T19:01:27Z",
-   "173": "2026-11-19T14:16:42Z",
+   "469": "2026-11-21T14:07:29Z",
+   "173": "2026-11-21T14:07:29Z",
    "391": "2026-11-20T15:37:20Z",
    "388": "2026-11-21T12:00:35Z"
   },
@@ -12768,6 +12770,22 @@
    {
     "ts": "2026-11-21T12:00:35Z",
     "el": 388,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-21T14:07:29Z",
+    "el": 173,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-21T14:07:29Z",
+    "el": 469,
     "kind": "back",
     "status": "a",
     "chance": 100,

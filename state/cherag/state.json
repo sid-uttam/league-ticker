@@ -10568,8 +10568,8 @@
     "entry_name": "FPL 7",
     "rank": 1,
     "last_rank": 1,
-    "total": 738,
-    "event_total": 4
+    "total": 739,
+    "event_total": 5
    },
    {
     "entry": 305234,
@@ -10586,8 +10586,8 @@
     "entry_name": "AryanAK47",
     "rank": 3,
     "last_rank": 3,
-    "total": 711,
-    "event_total": 4
+    "total": 712,
+    "event_total": 5
    },
    {
     "entry": 13978,
@@ -10631,8 +10631,8 @@
     "entry_name": "Gunners",
     "rank": 8,
     "last_rank": 8,
-    "total": 702,
-    "event_total": 7
+    "total": 701,
+    "event_total": 6
    },
    {
     "entry": 1273065,
@@ -10734,18 +10734,18 @@
     "event_total": 4
    },
    {
-    "entry": 107315,
-    "player_name": "Sahej Jhamvar",
-    "entry_name": "sage",
+    "entry": 780469,
+    "player_name": "Sahil Thorve",
+    "entry_name": "NotAnIsakScience",
     "rank": 20,
     "last_rank": 21,
     "total": 676,
     "event_total": 4
    },
    {
-    "entry": 780469,
-    "player_name": "Sahil Thorve",
-    "entry_name": "NotAnIsakScience",
+    "entry": 107315,
+    "player_name": "Sahej Jhamvar",
+    "entry_name": "sage",
     "rank": 20,
     "last_rank": 21,
     "total": 676,
@@ -10770,38 +10770,38 @@
     "event_total": 4
    },
    {
+    "entry": 573491,
+    "player_name": "nihal shetty",
+    "entry_name": "Saka Senapati XI",
+    "rank": 24,
+    "last_rank": 26,
+    "total": 675,
+    "event_total": 5
+   },
+   {
     "entry": 2554077,
     "player_name": "soham naik",
     "entry_name": "Havertz to Be True",
-    "rank": 24,
+    "rank": 25,
     "last_rank": 19,
     "total": 674,
     "event_total": 2
    },
    {
-    "entry": 573491,
-    "player_name": "nihal shetty",
-    "entry_name": "Saka Senapati XI",
-    "rank": 25,
-    "last_rank": 26,
-    "total": 674,
-    "event_total": 4
+    "entry": 3479732,
+    "player_name": "sahilk .",
+    "entry_name": "Rarcusmashford",
+    "rank": 26,
+    "last_rank": 27,
+    "total": 673,
+    "event_total": 5
    },
    {
     "entry": 1312692,
     "player_name": "Adrian Miranda",
     "entry_name": "Bruno Dos Tres",
-    "rank": 26,
-    "last_rank": 28,
-    "total": 672,
-    "event_total": 4
-   },
-   {
-    "entry": 3479732,
-    "player_name": "sahilk .",
-    "entry_name": "Rarcusmashford",
     "rank": 27,
-    "last_rank": 27,
+    "last_rank": 28,
     "total": 672,
     "event_total": 4
    },
@@ -10809,7 +10809,7 @@
     "entry": 3234577,
     "player_name": "Kaushik Dharmani",
     "entry_name": "Chamelis",
-    "rank": 27,
+    "rank": 28,
     "last_rank": 25,
     "total": 672,
     "event_total": 2
@@ -10824,21 +10824,21 @@
     "event_total": 4
    },
    {
-    "entry": 249619,
-    "player_name": "Mayuresh Deshpande",
-    "entry_name": "NetBlasters",
-    "rank": 30,
-    "last_rank": 30,
-    "total": 668,
-    "event_total": 4
-   },
-   {
     "entry": 1541394,
     "player_name": "Nanik Samtani",
     "entry_name": "Red Devils",
-    "rank": 31,
+    "rank": 30,
     "last_rank": 31,
-    "total": 667,
+    "total": 668,
+    "event_total": 5
+   },
+   {
+    "entry": 249619,
+    "player_name": "Mayuresh Deshpande",
+    "entry_name": "NetBlasters",
+    "rank": 31,
+    "last_rank": 30,
+    "total": 668,
     "event_total": 4
    },
    {
@@ -10955,14 +10955,14 @@
     "entry_name": "Shan FC",
     "rank": 44,
     "last_rank": 48,
-    "total": 654,
-    "event_total": 6
+    "total": 655,
+    "event_total": 7
    },
    {
     "entry": 4134138,
     "player_name": "Rishab Bajaj",
     "entry_name": "Rishabs11",
-    "rank": 44,
+    "rank": 45,
     "last_rank": 44,
     "total": 654,
     "event_total": 4
@@ -11040,19 +11040,10 @@
     "event_total": 4
    },
    {
-    "entry": 1443362,
-    "player_name": "suraj penukonda",
-    "entry_name": "Looney Tunes",
-    "rank": 54,
-    "last_rank": 59,
-    "total": 647,
-    "event_total": 7
-   },
-   {
     "entry": 119217,
     "player_name": "Kunaal Dadwal",
     "entry_name": "Chutzpah",
-    "rank": 55,
+    "rank": 54,
     "last_rank": 56,
     "total": 646,
     "event_total": 4
@@ -11061,10 +11052,19 @@
     "entry": 3654448,
     "player_name": "Abhimanyu Pathania",
     "entry_name": "FPLXV",
-    "rank": 56,
+    "rank": 55,
     "last_rank": 56,
     "total": 646,
     "event_total": 4
+   },
+   {
+    "entry": 1443362,
+    "player_name": "suraj penukonda",
+    "entry_name": "Looney Tunes",
+    "rank": 56,
+    "last_rank": 59,
+    "total": 646,
+    "event_total": 6
    },
    {
     "entry": 6034028,
@@ -11117,35 +11117,35 @@
     "entry_name": "ahaonltoocnraoini.",
     "rank": 62,
     "last_rank": 63,
-    "total": 639,
-    "event_total": 4
-   },
-   {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
-    "rank": 63,
-    "last_rank": 64,
-    "total": 639,
-    "event_total": 4
+    "total": 640,
+    "event_total": 5
    },
    {
     "entry": 3560542,
     "player_name": "Sandeepan Bhattacharya",
     "entry_name": "Amad season ahead",
-    "rank": 64,
+    "rank": 63,
     "last_rank": 65,
-    "total": 639,
-    "event_total": 4
+    "total": 640,
+    "event_total": 5
    },
    {
     "entry": 2569620,
     "player_name": "Adit Reddy",
     "entry_name": "me myself ndiaye",
-    "rank": 65,
+    "rank": 64,
     "last_rank": 62,
-    "total": 638,
-    "event_total": 2
+    "total": 639,
+    "event_total": 3
+   },
+   {
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
+    "rank": 64,
+    "last_rank": 64,
+    "total": 639,
+    "event_total": 4
    },
    {
     "entry": 383029,
@@ -11171,26 +11171,26 @@
     "entry_name": "Kotoshi Gambare",
     "rank": 68,
     "last_rank": 69,
-    "total": 635,
+    "total": 636,
+    "event_total": 5
+   },
+   {
+    "entry": 4632544,
+    "player_name": "Sajeet Pant",
+    "entry_name": "Chhota Chhattri",
+    "rank": 69,
+    "last_rank": 68,
+    "total": 633,
     "event_total": 4
    },
    {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
-    "rank": 69,
-    "last_rank": 72,
-    "total": 633,
-    "event_total": 7
-   },
-   {
-    "entry": 4632544,
-    "player_name": "Sajeet Pant",
-    "entry_name": "Chhota Chhattri",
     "rank": 70,
-    "last_rank": 68,
-    "total": 633,
-    "event_total": 4
+    "last_rank": 72,
+    "total": 632,
+    "event_total": 6
    },
    {
     "entry": 2922453,
@@ -11304,26 +11304,26 @@
     "entry": 174952,
     "player_name": "Abhishek Thard",
     "entry_name": "Kaminey",
-    "rank": 83,
+    "rank": 82,
     "last_rank": 83,
-    "total": 612,
-    "event_total": 4
-   },
-   {
-    "entry": 4811914,
-    "player_name": "aniket jain",
-    "entry_name": "Gunners11",
-    "rank": 84,
-    "last_rank": 84,
-    "total": 612,
-    "event_total": 4
+    "total": 613,
+    "event_total": 5
    },
    {
     "entry": 699330,
     "player_name": "Pratik Bhatewara",
     "entry_name": "Batinho XI",
-    "rank": 85,
+    "rank": 84,
     "last_rank": 85,
+    "total": 613,
+    "event_total": 5
+   },
+   {
+    "entry": 4811914,
+    "player_name": "aniket jain",
+    "entry_name": "Gunners11",
+    "rank": 85,
+    "last_rank": 84,
     "total": 612,
     "event_total": 4
    },
@@ -11355,21 +11355,21 @@
     "event_total": 2
    },
    {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 89,
+    "last_rank": 89,
+    "total": 607,
+    "event_total": 3
+   },
+   {
     "entry": 3389995,
     "player_name": "Stephen Menezes",
     "entry_name": "Goal Diggers",
     "rank": 89,
     "last_rank": 87,
     "total": 607,
-    "event_total": 2
-   },
-   {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 90,
-    "last_rank": 89,
-    "total": 606,
     "event_total": 2
    },
    {
@@ -11414,8 +11414,8 @@
     "entry_name": "Notautdfan",
     "rank": 95,
     "last_rank": 95,
-    "total": 600,
-    "event_total": 2
+    "total": 601,
+    "event_total": 3
    },
    {
     "entry": 5660348,
@@ -11450,8 +11450,8 @@
     "entry_name": "KFA Xtreme",
     "rank": 99,
     "last_rank": 101,
-    "total": 590,
-    "event_total": 4
+    "total": 591,
+    "event_total": 5
    },
    {
     "entry": 8779992,
@@ -11486,8 +11486,8 @@
     "entry_name": "ManchesterIsR3D",
     "rank": 103,
     "last_rank": 103,
-    "total": 576,
-    "event_total": 4
+    "total": 577,
+    "event_total": 5
    },
    {
     "entry": 358907,
@@ -11558,8 +11558,8 @@
     "entry_name": "Comfortably Dumb",
     "rank": 111,
     "last_rank": 111,
-    "total": 501,
-    "event_total": 0
+    "total": 502,
+    "event_total": 1
    },
    {
     "entry": 531033,
@@ -56404,6 +56404,22 @@
  },
  "stories": [
   {
+   "key": "l11:shuffle:2026-11-21T14",
+   "kind": "live",
+   "tag": "Table",
+   "head": "Table shuffle",
+   "body": "Up: Nihal 22nd. Down: Rahil 64th, Aniket 85th.",
+   "stat": "3 on the move",
+   "score": 30,
+   "who": [
+    119259,
+    573491,
+    4811914
+   ],
+   "ts": "2026-11-21T14:07:25Z",
+   "gw": 11
+  },
+  {
    "key": "l11:ret:481:1:0",
    "kind": "live",
    "tag": "Live",
@@ -57135,7 +57151,8 @@
   "d11:bandwagon:112",
   "l11:shuffle:2026-11-21T12",
   "l11:ret:481:1:0",
-  "l11:shuffle:2026-11-21T13"
+  "l11:shuffle:2026-11-21T13",
+  "l11:shuffle:2026-11-21T14"
  ],
  "done": [
   "deadline:10",
@@ -57401,10 +57418,10 @@
    "569": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    1,
     0,
     0,
     0
@@ -57789,7 +57806,7 @@
     4,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -57998,7 +58015,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -58020,7 +58037,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -58039,10 +58056,10 @@
    "254": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    8,
     0,
     0,
     0
@@ -58053,7 +58070,7 @@
     1,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -58086,7 +58103,7 @@
     1,
     0,
     0,
-    64,
+    69,
     0,
     0,
     0
@@ -58097,7 +58114,7 @@
     2,
     0,
     0,
-    64,
+    69,
     0,
     0,
     0
@@ -58405,7 +58422,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -58427,7 +58444,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -58438,7 +58455,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -58460,7 +58477,7 @@
     2,
     0,
     0,
-    64,
+    69,
     0,
     0,
     0
@@ -58468,10 +58485,10 @@
    "399": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    8,
     0,
     0,
     0
@@ -58479,10 +58496,10 @@
    "400": [
     0,
     0,
-    3,
+    2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -58515,7 +58532,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -58691,7 +58708,7 @@
     10,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -58785,7 +58802,7 @@
     0
    ],
    "_hits": {
-    "48343": 0,
+    "48343": -1,
     "4632544": 0,
     "3086063": 0,
     "1497357": -2,
@@ -58817,18 +58834,18 @@
    "3214478": 17,
    "1305406": 17,
    "5685525": 19,
-   "107315": 19,
    "780469": 19,
+   "107315": 19,
    "1662734": 22,
    "3323262": 22,
-   "2554077": 24,
-   "573491": 24,
-   "1312692": 26,
+   "573491": 22,
+   "2554077": 25,
    "3479732": 26,
-   "3234577": 26,
+   "1312692": 27,
+   "3234577": 27,
    "18991": 29,
+   "1541394": 30,
    "249619": 30,
-   "1541394": 31,
    "710718": 32,
    "42960": 33,
    "257074": 33,
@@ -58841,8 +58858,8 @@
    "32831": 41,
    "263779": 41,
    "4558790": 43,
-   "4683090": 44,
-   "4134138": 44,
+   "4683090": 43,
+   "4134138": 45,
    "2868149": 46,
    "3566356": 46,
    "5640988": 46,
@@ -58851,23 +58868,23 @@
    "3239284": 51,
    "13951": 52,
    "2119331": 53,
-   "1443362": 53,
-   "119217": 55,
-   "3654448": 55,
-   "6034028": 55,
+   "119217": 54,
+   "3654448": 54,
+   "1443362": 54,
+   "6034028": 54,
    "48343": 58,
    "26707": 59,
    "2932096": 60,
    "4540238": 61,
    "1854010": 62,
-   "119259": 62,
    "3560542": 62,
-   "2569620": 65,
+   "2569620": 64,
+   "119259": 64,
    "383029": 66,
    "57776": 66,
    "4314690": 68,
-   "4592187": 69,
    "4632544": 69,
+   "4592187": 70,
    "2922453": 71,
    "10615": 72,
    "3404613": 73,
@@ -58880,14 +58897,14 @@
    "3350036": 80,
    "2680660": 80,
    "44532": 82,
-   "174952": 83,
-   "4811914": 83,
-   "699330": 83,
+   "174952": 82,
+   "699330": 82,
+   "4811914": 85,
    "2037953": 86,
    "4905114": 87,
    "11673": 88,
+   "2723973": 89,
    "3389995": 89,
-   "2723973": 90,
    "686561": 91,
    "5734029": 92,
    "3298199": 92,
@@ -58932,18 +58949,18 @@
    "3214478": "silver",
    "1305406": "silver",
    "5685525": "silver",
-   "107315": "silver",
    "780469": "silver",
+   "107315": "silver",
    "1662734": "silver",
    "3323262": "silver",
-   "2554077": "silver",
    "573491": "silver",
-   "1312692": "silver",
+   "2554077": "silver",
    "3479732": "silver",
+   "1312692": "silver",
    "3234577": "silver",
    "18991": "silver",
+   "1541394": "silver",
    "249619": "silver",
-   "1541394": null,
    "710718": null,
    "42960": null,
    "257074": null,
@@ -58966,23 +58983,23 @@
    "3239284": null,
    "13951": null,
    "2119331": null,
-   "1443362": null,
    "119217": null,
    "3654448": null,
+   "1443362": null,
    "6034028": null,
    "48343": null,
    "26707": null,
    "2932096": null,
    "4540238": null,
    "1854010": null,
-   "119259": null,
    "3560542": null,
    "2569620": null,
+   "119259": null,
    "383029": null,
    "57776": null,
    "4314690": null,
-   "4592187": null,
    "4632544": null,
+   "4592187": null,
    "2922453": null,
    "10615": null,
    "3404613": null,
@@ -58996,13 +59013,13 @@
    "2680660": null,
    "44532": null,
    "174952": null,
-   "4811914": null,
    "699330": null,
+   "4811914": null,
    "2037953": null,
    "4905114": null,
    "11673": null,
-   "3389995": null,
    "2723973": null,
+   "3389995": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -59028,7 +59045,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T13:54:36Z",
+ "updated": "2026-11-21T14:07:25Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -65081,8 +65098,10 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T13:54:36Z",
-  "issues": [],
+  "ts": "2026-11-21T14:07:25Z",
+  "issues": [
+   "desk written from older totals (20 managers changed since)"
+  ],
   "page": []
  },
  "phase": "live",
@@ -65208,7 +65227,7 @@
    "229": "a|None|",
    "453": "a|None|",
    "368": "a|100|",
-   "469": "d|75|Ankle injury - 75% chance of playing",
+   "469": "a|100|",
    "552": "i|0|Muscular injury - Unknown return date",
    "94": "a|100|",
    "305": "a|None|",
@@ -65223,7 +65242,7 @@
    "236": "a|None|",
    "138": "a|None|",
    "385": "a|None|",
-   "173": "d|75|Calf injury - 75% chance of playing",
+   "173": "a|100|",
    "282": "a|None|",
    "586": "a|100|",
    "572": "a|None|",
@@ -65319,9 +65338,9 @@
    "418": "2026-11-11T01:22:50Z",
    "53": "2026-11-20T15:05:43Z",
    "32": "2026-11-20T15:05:43Z",
-   "469": "2026-11-16T19:01:19Z",
+   "469": "2026-11-21T14:07:25Z",
    "586": "2026-11-20T15:05:43Z",
-   "173": "2026-11-19T14:16:19Z",
+   "173": "2026-11-21T14:07:25Z",
    "544": "2026-11-19T14:16:19Z",
    "251": "2026-11-20T11:59:23Z",
    "403": "2026-11-20T15:05:43Z",
@@ -66046,6 +66065,22 @@
     "status": "a",
     "chance": 100,
     "news": ""
+   },
+   {
+    "ts": "2026-11-21T14:07:25Z",
+    "el": 469,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-21T14:07:25Z",
+    "el": 173,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
    }
   ]
  },
@@ -66233,8 +66268,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      }
     ]
@@ -66261,8 +66296,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      }
     ]
@@ -66363,8 +66398,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 3",
-      "pts": 3,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Doku"
      }
     ]
@@ -66779,8 +66814,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      }
     ]
@@ -67476,8 +67511,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      }
     ]
@@ -67499,8 +67534,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      },
      {
@@ -67628,8 +67663,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      },
      {
@@ -67930,8 +67965,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      }
     ]
@@ -68086,8 +68121,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      }
     ]
@@ -68109,8 +68144,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      },
      {
@@ -68250,8 +68285,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      }
     ]
@@ -68386,8 +68421,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      }
     ]
@@ -69702,8 +69737,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Cherki"
      }
     ]

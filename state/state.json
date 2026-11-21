@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "key": "l11:top3:573491:675",
+   "kind": "live",
+   "tag": "Live",
+   "head": "Live: Nihal moves into 3rd",
+   "body": "Up from 4th.",
+   "stat": "3rd (live)",
+   "score": 63,
+   "who": [
+    573491
+   ],
+   "ts": "2026-11-21T14:07:07Z",
+   "gw": 11
+  },
+  {
    "key": "d11:regret:481:1:0",
    "kind": "live",
    "tag": "Bench",
@@ -1746,7 +1760,8 @@
   "d11:chip:3375627",
   "d11:rivals:3323262:573491",
   "d11:onpitch:268",
-  "d11:regret:481:1:0"
+  "d11:regret:481:1:0",
+  "l11:top3:573491:675"
  ],
  "done": [
   "deadline:10",
@@ -1830,7 +1845,7 @@
     2,
     0,
     0,
-    64,
+    69,
     0,
     0,
     0
@@ -2058,10 +2073,10 @@
    "569": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    1,
     0,
     0,
     0
@@ -2457,7 +2472,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -2490,7 +2505,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -2501,7 +2516,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -2564,10 +2579,10 @@
    "399": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    8,
     0,
     0,
     0
@@ -2575,10 +2590,10 @@
    "400": [
     0,
     0,
-    3,
+    2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -2622,7 +2637,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -2831,7 +2846,7 @@
     10,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -2864,7 +2879,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -2963,7 +2978,7 @@
     2,
     0,
     0,
-    64,
+    78,
     0,
     0,
     0
@@ -2989,7 +3004,7 @@
    "1092588": 1,
    "3219276": 2,
    "3323262": 3,
-   "573491": 4,
+   "573491": 3,
    "1541394": 5,
    "7471754": 6,
    "1378937": 7,
@@ -2998,17 +3013,17 @@
    "4125292": 10,
    "962024": 11,
    "363548": 12,
-   "3359227": 13,
    "4922092": 13,
+   "3359227": 14,
    "7273369": 15,
    "1457736": 16,
-   "5873092": 17,
    "75187": 17,
-   "6341709": 19,
+   "5873092": 18,
    "4841175": 19,
+   "6341709": 20,
    "6619523": 21,
-   "3552160": 22,
    "5028423": 22,
+   "3552160": 23,
    "1474501": 24,
    "383423": 25,
    "8316989": 26,
@@ -3029,17 +3044,17 @@
    "4125292": null,
    "962024": null,
    "363548": null,
-   "3359227": null,
    "4922092": null,
+   "3359227": null,
    "7273369": null,
    "1457736": null,
-   "5873092": null,
    "75187": null,
-   "6341709": null,
+   "5873092": null,
    "4841175": null,
+   "6341709": null,
    "6619523": null,
-   "3552160": null,
    "5028423": null,
+   "3552160": null,
    "1474501": null,
    "383423": "tinpot",
    "8316989": "tinpot",
@@ -3048,7 +3063,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T13:53:44Z",
+ "updated": "2026-11-21T14:07:07Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -7589,8 +7604,8 @@
     "entry_name": "Saka Senapati XI",
     "rank": 4,
     "last_rank": 4,
-    "total": 674,
-    "event_total": 4
+    "total": 675,
+    "event_total": 5
    },
    {
     "entry": 1541394,
@@ -7598,8 +7613,8 @@
     "entry_name": "Red Devils",
     "rank": 5,
     "last_rank": 5,
-    "total": 667,
-    "event_total": 4
+    "total": 668,
+    "event_total": 5
    },
    {
     "entry": 7471754,
@@ -7665,22 +7680,22 @@
     "event_total": 4
    },
    {
-    "entry": 3359227,
-    "player_name": "Raushan Uttamchandani",
-    "entry_name": "Raus' XV",
-    "rank": 13,
-    "last_rank": 14,
-    "total": 633,
-    "event_total": 7
-   },
-   {
     "entry": 4922092,
     "player_name": "Ravi Mahtani",
     "entry_name": "Ravi's Team",
-    "rank": 14,
+    "rank": 13,
     "last_rank": 13,
     "total": 633,
     "event_total": 4
+   },
+   {
+    "entry": 3359227,
+    "player_name": "Raushan Uttamchandani",
+    "entry_name": "Raus' XV",
+    "rank": 14,
+    "last_rank": 14,
+    "total": 632,
+    "event_total": 6
    },
    {
     "entry": 7273369,
@@ -7697,44 +7712,44 @@
     "entry_name": "Sound of da Tzolis",
     "rank": 16,
     "last_rank": 16,
-    "total": 617,
-    "event_total": 2
-   },
-   {
-    "entry": 5873092,
-    "player_name": "Justin Deniese",
-    "entry_name": "The Bench",
-    "rank": 17,
-    "last_rank": 17,
-    "total": 616,
-    "event_total": 4
+    "total": 618,
+    "event_total": 3
    },
    {
     "entry": 75187,
     "player_name": "Dominic Hagerty",
     "entry_name": "Enzo in the City",
-    "rank": 18,
+    "rank": 17,
     "last_rank": 18,
-    "total": 616,
-    "event_total": 4
+    "total": 617,
+    "event_total": 5
    },
    {
-    "entry": 6341709,
-    "player_name": "Tomisin Adeshiyan",
-    "entry_name": "Chalupa Batmen 3.0�",
-    "rank": 19,
-    "last_rank": 20,
-    "total": 607,
+    "entry": 5873092,
+    "player_name": "Justin Deniese",
+    "entry_name": "The Bench",
+    "rank": 18,
+    "last_rank": 17,
+    "total": 616,
     "event_total": 4
    },
    {
     "entry": 4841175,
     "player_name": "Maanav Sagar",
     "entry_name": "Brewmore",
-    "rank": 20,
+    "rank": 19,
     "last_rank": 19,
+    "total": 608,
+    "event_total": 3
+   },
+   {
+    "entry": 6341709,
+    "player_name": "Tomisin Adeshiyan",
+    "entry_name": "Chalupa Batmen 3.0�",
+    "rank": 20,
+    "last_rank": 20,
     "total": 607,
-    "event_total": 2
+    "event_total": 4
    },
    {
     "entry": 6619523,
@@ -7742,26 +7757,26 @@
     "entry_name": "Lav's Elite",
     "rank": 21,
     "last_rank": 21,
-    "total": 604,
-    "event_total": 4
-   },
-   {
-    "entry": 3552160,
-    "player_name": "Saurabh Tiku",
-    "entry_name": "LET'S RUMBLE!!!",
-    "rank": 22,
-    "last_rank": 22,
-    "total": 583,
-    "event_total": 2
+    "total": 605,
+    "event_total": 5
    },
    {
     "entry": 5028423,
     "player_name": "Isaiah page",
     "entry_name": "Kolo's sidepiece",
-    "rank": 23,
+    "rank": 22,
     "last_rank": 23,
+    "total": 584,
+    "event_total": 5
+   },
+   {
+    "entry": 3552160,
+    "player_name": "Saurabh Tiku",
+    "entry_name": "LET'S RUMBLE!!!",
+    "rank": 23,
+    "last_rank": 22,
     "total": 583,
-    "event_total": 4
+    "event_total": 2
    },
    {
     "entry": 1474501,
@@ -7787,8 +7802,8 @@
     "entry_name": "EA FC",
     "rank": 26,
     "last_rank": 26,
-    "total": 563,
-    "event_total": 2
+    "total": 565,
+    "event_total": 4
    },
    {
     "entry": 3375627,
@@ -7814,8 +7829,8 @@
     "entry_name": "Vicecityfc",
     "rank": 29,
     "last_rank": 29,
-    "total": 449,
-    "event_total": 5
+    "total": 448,
+    "event_total": 4
    }
   ]
  },
@@ -13460,8 +13475,8 @@
     "branch": "haul",
     "status": {
      "state": "playing",
-     "label": "Playing · 0",
-     "pts": 0
+     "label": "Playing · 1",
+     "pts": 1
     }
    },
    {
@@ -13811,8 +13826,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 3",
-      "pts": 3,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Doku"
      }
     ]
@@ -14354,8 +14369,10 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T13:53:44Z",
-  "issues": [],
+  "ts": "2026-11-21T14:07:07Z",
+  "issues": [
+   "desk written from older totals (10 managers changed since)"
+  ],
   "page": []
  },
  "pwatch": {
@@ -14397,7 +14414,7 @@
    "426": "a|None|",
    "304": "a|None|",
    "286": "a|100|",
-   "173": "d|75|Calf injury - 75% chance of playing",
+   "173": "a|100|",
    "229": "a|None|",
    "53": "a|100|",
    "251": "i|0|Achilles injury - Unknown return date",
@@ -14477,7 +14494,7 @@
    "286": "2026-11-20T15:05:20Z",
    "53": "2026-11-20T15:05:20Z",
    "586": "2026-11-20T15:05:20Z",
-   "173": "2026-11-19T14:15:34Z",
+   "173": "2026-11-21T14:07:07Z",
    "251": "2026-11-20T11:59:01Z",
    "391": "2026-11-20T15:36:34Z",
    "388": "2026-11-21T12:11:44Z"
@@ -15008,6 +15025,14 @@
    {
     "ts": "2026-11-21T12:11:44Z",
     "el": 388,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-21T14:07:07Z",
+    "el": 173,
     "kind": "back",
     "status": "a",
     "chance": 100,
