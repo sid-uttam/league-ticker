@@ -10869,15 +10869,6 @@
     "event_total": 33
    },
    {
-    "entry": 710718,
-    "player_name": "Nishit Reddy",
-    "entry_name": "Arteta's Reign",
-    "rank": 35,
-    "last_rank": 32,
-    "total": 683,
-    "event_total": 21
-   },
-   {
     "entry": 42960,
     "player_name": "Bhavin Jatania",
     "entry_name": "Bhasad 11",
@@ -10885,6 +10876,15 @@
     "last_rank": 33,
     "total": 683,
     "event_total": 23
+   },
+   {
+    "entry": 710718,
+    "player_name": "Nishit Reddy",
+    "entry_name": "Arteta's Reign",
+    "rank": 35,
+    "last_rank": 32,
+    "total": 683,
+    "event_total": 21
    },
    {
     "entry": 3566356,
@@ -10932,15 +10932,6 @@
     "event_total": 33
    },
    {
-    "entry": 13951,
-    "player_name": "Sagar C",
-    "entry_name": "Champs",
-    "rank": 42,
-    "last_rank": 53,
-    "total": 680,
-    "event_total": 36
-   },
-   {
     "entry": 1425044,
     "player_name": "Manav Malhotra",
     "entry_name": "Brain-Heart 11",
@@ -10948,6 +10939,15 @@
     "last_rank": 39,
     "total": 680,
     "event_total": 26
+   },
+   {
+    "entry": 13951,
+    "player_name": "Sagar C",
+    "entry_name": "Champs",
+    "rank": 42,
+    "last_rank": 53,
+    "total": 680,
+    "event_total": 36
    },
    {
     "entry": 3560542,
@@ -11040,15 +11040,6 @@
     "event_total": 32
    },
    {
-    "entry": 248721,
-    "player_name": "Raj Pratik",
-    "entry_name": "Mebesty",
-    "rank": 54,
-    "last_rank": 51,
-    "total": 671,
-    "event_total": 24
-   },
-   {
     "entry": 2932096,
     "player_name": "Kunal Satpute",
     "entry_name": "Zhavtē FC",
@@ -11056,6 +11047,15 @@
     "last_rank": 58,
     "total": 671,
     "event_total": 31
+   },
+   {
+    "entry": 248721,
+    "player_name": "Raj Pratik",
+    "entry_name": "Mebesty",
+    "rank": 54,
+    "last_rank": 51,
+    "total": 671,
+    "event_total": 24
    },
    {
     "entry": 4540238,
@@ -11094,15 +11094,6 @@
     "event_total": 32
    },
    {
-    "entry": 2119331,
-    "player_name": "Ajay Rachakonda",
-    "entry_name": "Silent Violence",
-    "rank": 59,
-    "last_rank": 55,
-    "total": 667,
-    "event_total": 24
-   },
-   {
     "entry": 4683090,
     "player_name": "SHARAN R",
     "entry_name": "Shan FC",
@@ -11110,6 +11101,15 @@
     "last_rank": 48,
     "total": 667,
     "event_total": 19
+   },
+   {
+    "entry": 2119331,
+    "player_name": "Ajay Rachakonda",
+    "entry_name": "Silent Violence",
+    "rank": 59,
+    "last_rank": 55,
+    "total": 667,
+    "event_total": 24
    },
    {
     "entry": 57776,
@@ -59583,15 +59583,15 @@
    "6034028": 32,
    "32831": 33,
    "263779": 33,
-   "710718": 35,
    "42960": 35,
+   "710718": 35,
    "3566356": 35,
    "5640988": 35,
    "698784": 35,
    "257074": 35,
    "10821": 41,
-   "13951": 42,
    "1425044": 42,
+   "13951": 42,
    "3560542": 42,
    "480904": 45,
    "4558790": 46,
@@ -59602,14 +59602,14 @@
    "3654448": 50,
    "48343": 52,
    "1443362": 53,
-   "248721": 54,
    "2932096": 54,
+   "248721": 54,
    "4540238": 54,
    "675013": 57,
    "4134138": 58,
    "119259": 59,
-   "2119331": 59,
    "4683090": 59,
+   "2119331": 59,
    "57776": 62,
    "4632544": 63,
    "383029": 64,
@@ -59698,15 +59698,15 @@
    "6034028": null,
    "32831": null,
    "263779": null,
-   "710718": null,
    "42960": null,
+   "710718": null,
    "3566356": null,
    "5640988": null,
    "698784": null,
    "257074": null,
    "10821": null,
-   "13951": null,
    "1425044": null,
+   "13951": null,
    "3560542": null,
    "480904": null,
    "4558790": null,
@@ -59717,14 +59717,14 @@
    "3654448": null,
    "48343": null,
    "1443362": null,
-   "248721": null,
    "2932096": null,
+   "248721": null,
    "4540238": null,
    "675013": null,
    "4134138": null,
    "119259": null,
-   "2119331": null,
    "4683090": null,
+   "2119331": null,
    "57776": null,
    "4632544": null,
    "383029": null,
@@ -59779,7 +59779,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T16:59:52Z",
+ "updated": "2026-11-21T17:13:42Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -65989,7 +65989,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T16:59:52Z",
+  "ts": "2026-11-21T17:13:42Z",
   "issues": [],
   "page": []
  },
@@ -66119,7 +66119,7 @@
    "469": "a|100|",
    "552": "i|0|Muscular injury - Unknown return date",
    "94": "a|100|",
-   "305": "a|None|",
+   "305": "d|75|Unspecified injury - 75% chance of playing",
    "82": "a|None|",
    "565": "a|None|",
    "15": "a|None|",
@@ -66210,7 +66210,7 @@
    "200": "i|0|Hamstring injury - Unknown return date",
    "529": "a|None|",
    "581": "a|None|",
-   "501": "a|100|",
+   "501": "n|0|Ineligible to face parent club - Expected back 2 Dec",
    "57": "a|None|",
    "114": "a|None|",
    "327": "a|None|",
@@ -66235,7 +66235,9 @@
    "403": "2026-11-20T15:05:43Z",
    "391": "2026-11-20T15:36:56Z",
    "388": "2026-11-21T12:12:02Z",
-   "455": "2026-11-21T16:34:59Z"
+   "455": "2026-11-21T16:34:59Z",
+   "305": "2026-11-21T17:13:42Z",
+   "501": "2026-11-21T17:13:42Z"
   },
   "price": {
    "1": 6.3,
@@ -66466,12 +66468,6 @@
    "572": "10:down"
   },
   "log": [
-   {
-    "ts": "2026-11-11T17:12:42Z",
-    "el": 411,
-    "kind": "surge",
-    "net": -25009
-   },
    {
     "ts": "2026-11-12T13:15:21Z",
     "el": 53,
@@ -66979,6 +66975,22 @@
     "status": "d",
     "chance": 75,
     "news": "Illness - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-21T17:13:42Z",
+    "el": 305,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Unspecified injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-21T17:13:42Z",
+    "el": 501,
+    "kind": "flag",
+    "status": "n",
+    "chance": 0,
+    "news": "Ineligible to face parent club - Expected back 2 Dec"
    }
   ]
  },
