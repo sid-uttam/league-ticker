@@ -2300,7 +2300,7 @@
     1,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -2311,7 +2311,7 @@
     1,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -2344,7 +2344,7 @@
     1,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -2352,10 +2352,10 @@
    "15": [
     0,
     1,
-    6,
+    7,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -2432,7 +2432,7 @@
     1,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -2465,7 +2465,7 @@
     1,
     0,
     0,
-    11,
+    20,
     0,
     0,
     0
@@ -3268,7 +3268,7 @@
     1,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -3279,7 +3279,7 @@
     6,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -3298,10 +3298,10 @@
    "464": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    7,
     0,
     0,
     0
@@ -3551,7 +3551,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T19:09:11Z",
+ "updated": "2026-11-21T19:21:42Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6236,7 +6236,7 @@
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got just 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, while Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan, whose Barry captain returned 32 points, lifting him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16. The Haaland bloc is still the biggest storyline in this league, and it is still costing them."
   ],
-  "ts": "2026-11-21T18:43:23Z",
+  "ts": "2026-11-21T19:21:42Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -6367,10 +6367,10 @@
     "plots": 11
    },
    "11": {
-    "in": 873183,
-    "out": 177833,
-    "calls": 62,
-    "refreshes": 11,
+    "in": 909369,
+    "out": 181296,
+    "calls": 64,
+    "refreshes": 12,
     "desks": 20,
     "desk_in": 472110,
     "desk_out": 148717
@@ -8342,8 +8342,8 @@
     "entry_name": "Kobbie Wan Kenobi",
     "rank": 13,
     "last_rank": 11,
-    "total": 654,
-    "event_total": 23
+    "total": 655,
+    "event_total": 24
    },
    {
     "entry": 3359227,
@@ -8378,8 +8378,8 @@
     "entry_name": "The Bench",
     "rank": 17,
     "last_rank": 17,
-    "total": 641,
-    "event_total": 29
+    "total": 642,
+    "event_total": 30
    },
    {
     "entry": 6619523,
@@ -8387,8 +8387,8 @@
     "entry_name": "Lav's Elite",
     "rank": 18,
     "last_rank": 21,
-    "total": 641,
-    "event_total": 41
+    "total": 642,
+    "event_total": 42
    },
    {
     "entry": 1457736,
@@ -8423,8 +8423,8 @@
     "entry_name": "Quantum of Tzolis",
     "rank": 22,
     "last_rank": 25,
-    "total": 607,
-    "event_total": 33
+    "total": 608,
+    "event_total": 34
    },
    {
     "entry": 5028423,
@@ -8459,8 +8459,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 589,
-    "event_total": 35
+    "total": 590,
+    "event_total": 36
    },
    {
     "entry": 8316989,
@@ -14660,8 +14660,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Ødegaard"
      }
     ]
@@ -14712,8 +14712,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Ødegaard"
      },
      {
@@ -14747,8 +14747,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Ødegaard"
      }
     ]
@@ -15058,8 +15058,10 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T19:09:11Z",
-  "issues": [],
+  "ts": "2026-11-21T19:21:42Z",
+  "issues": [
+   "desk written from older totals (5 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...you start him   4    Autosub:  Cherif  (1 pts) comes in...",

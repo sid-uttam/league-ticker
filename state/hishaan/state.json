@@ -2552,8 +2552,8 @@
     "entry_name": "Magic Mikel",
     "rank": 13,
     "last_rank": 13,
-    "total": 670,
-    "event_total": 23
+    "total": 671,
+    "event_total": 24
    },
    {
     "entry": 3506595,
@@ -2570,8 +2570,8 @@
     "entry_name": "super squad",
     "rank": 15,
     "last_rank": 15,
-    "total": 664,
-    "event_total": 30
+    "total": 665,
+    "event_total": 31
    },
    {
     "entry": 6892917,
@@ -2640,10 +2640,10 @@
     "entry": 3314780,
     "player_name": "Ravi Bhojwani",
     "entry_name": "Five Star XI",
-    "rank": 23,
+    "rank": 22,
     "last_rank": 24,
-    "total": 637,
-    "event_total": 37
+    "total": 638,
+    "event_total": 38
    },
    {
     "entry": 6159011,
@@ -9172,7 +9172,7 @@
     1,
     0,
     0,
-    82,
+    90,
     0,
     0,
     0
@@ -9194,7 +9194,7 @@
     1,
     0,
     0,
-    82,
+    90,
     0,
     0,
     0
@@ -9227,7 +9227,7 @@
     1,
     0,
     0,
-    82,
+    90,
     0,
     0,
     0
@@ -9235,10 +9235,10 @@
    "15": [
     0,
     1,
-    6,
+    7,
     0,
     0,
-    82,
+    90,
     0,
     0,
     0
@@ -9249,7 +9249,7 @@
     8,
     0,
     0,
-    82,
+    90,
     0,
     0,
     0
@@ -9293,7 +9293,7 @@
     1,
     0,
     0,
-    82,
+    90,
     0,
     0,
     0
@@ -9975,7 +9975,7 @@
     1,
     0,
     0,
-    82,
+    90,
     0,
     0,
     0
@@ -9986,7 +9986,7 @@
     6,
     0,
     0,
-    82,
+    90,
     0,
     0,
     0
@@ -9994,10 +9994,10 @@
    "464": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    7,
     0,
     0,
     0
@@ -10210,7 +10210,7 @@
    "5474293": 12,
    "75778": 13,
    "3506595": 14,
-   "5682768": 15,
+   "5682768": 14,
    "6892917": 16,
    "4922092": 17,
    "2934546": 18,
@@ -10218,7 +10218,7 @@
    "6279027": 20,
    "865376": 21,
    "7043406": 22,
-   "3314780": 23,
+   "3314780": 22,
    "6159011": 24,
    "6051923": 25,
    "6476662": 26
@@ -10252,7 +10252,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T19:10:53Z",
+ "updated": "2026-11-21T19:22:29Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -12942,8 +12942,10 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T19:10:53Z",
-  "issues": [],
+  "ts": "2026-11-21T19:22:29Z",
+  "issues": [
+   "desk written from older totals (3 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...start him   0    Autosub:  van Ewijk  (1 pts) comes in...",

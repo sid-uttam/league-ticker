@@ -10653,22 +10653,22 @@
     "event_total": 25
    },
    {
-    "entry": 393940,
-    "player_name": "Anurag Red-dy",
-    "entry_name": "Easter Disaster",
-    "rank": 11,
-    "last_rank": 15,
-    "total": 716,
-    "event_total": 35
-   },
-   {
     "entry": 1902223,
     "player_name": "Karan Singh",
     "entry_name": "Bombay Reds",
-    "rank": 12,
+    "rank": 11,
     "last_rank": 14,
+    "total": 717,
+    "event_total": 34
+   },
+   {
+    "entry": 393940,
+    "player_name": "Anurag Red-dy",
+    "entry_name": "Easter Disaster",
+    "rank": 12,
+    "last_rank": 15,
     "total": 716,
-    "event_total": 33
+    "event_total": 35
    },
    {
     "entry": 2671682,
@@ -10887,10 +10887,19 @@
     "event_total": 23
    },
    {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 37,
+    "last_rank": 37,
+    "total": 685,
+    "event_total": 31
+   },
+   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
-    "rank": 37,
+    "rank": 38,
     "last_rank": 45,
     "total": 685,
     "event_total": 36
@@ -10899,7 +10908,7 @@
     "entry": 698784,
     "player_name": "Zorawar Bobinmaker",
     "entry_name": "11 Spartans",
-    "rank": 37,
+    "rank": 38,
     "last_rank": 36,
     "total": 685,
     "event_total": 27
@@ -10908,25 +10917,16 @@
     "entry": 257074,
     "player_name": "Shahaan Syed",
     "entry_name": "Aham brahmasmi",
-    "rank": 39,
+    "rank": 40,
     "last_rank": 34,
     "total": 685,
     "event_total": 25
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 40,
-    "last_rank": 37,
-    "total": 684,
-    "event_total": 30
-   },
-   {
     "entry": 3566356,
     "player_name": "Jackey Boro",
     "entry_name": "Jackey's Team",
-    "rank": 40,
+    "rank": 41,
     "last_rank": 45,
     "total": 684,
     "event_total": 35
@@ -11031,15 +11031,6 @@
     "event_total": 36
    },
    {
-    "entry": 2932096,
-    "player_name": "Kunal Satpute",
-    "entry_name": "Zhavtē FC",
-    "rank": 53,
-    "last_rank": 58,
-    "total": 673,
-    "event_total": 33
-   },
-   {
     "entry": 248721,
     "player_name": "Raj Pratik",
     "entry_name": "Mebesty",
@@ -11047,6 +11038,15 @@
     "last_rank": 51,
     "total": 673,
     "event_total": 26
+   },
+   {
+    "entry": 2932096,
+    "player_name": "Kunal Satpute",
+    "entry_name": "Zhavtē FC",
+    "rank": 53,
+    "last_rank": 58,
+    "total": 673,
+    "event_total": 33
    },
    {
     "entry": 4540238,
@@ -11081,8 +11081,8 @@
     "entry_name": "Xabi's Palestronomy!",
     "rank": 58,
     "last_rank": 67,
-    "total": 671,
-    "event_total": 38
+    "total": 672,
+    "event_total": 39
    },
    {
     "entry": 4134138,
@@ -11171,8 +11171,8 @@
     "entry_name": "Siiiiiuuuuuu",
     "rank": 68,
     "last_rank": 74,
-    "total": 658,
-    "event_total": 35
+    "total": 659,
+    "event_total": 36
    },
    {
     "entry": 10615,
@@ -11189,14 +11189,14 @@
     "entry_name": "Carnage1x",
     "rank": 70,
     "last_rank": 78,
-    "total": 655,
-    "event_total": 36
+    "total": 656,
+    "event_total": 37
    },
    {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
-    "rank": 70,
+    "rank": 71,
     "last_rank": 72,
     "total": 655,
     "event_total": 29
@@ -11225,8 +11225,8 @@
     "entry_name": "Fantasy King",
     "rank": 74,
     "last_rank": 77,
-    "total": 652,
-    "event_total": 31
+    "total": 653,
+    "event_total": 32
    },
    {
     "entry": 3086063,
@@ -11315,8 +11315,8 @@
     "entry_name": "XI Marauders",
     "rank": 84,
     "last_rank": 89,
-    "total": 637,
-    "event_total": 33
+    "total": 638,
+    "event_total": 34
    },
    {
     "entry": 11673,
@@ -11432,8 +11432,8 @@
     "entry_name": "Panchavati FC",
     "rank": 97,
     "last_rank": 94,
-    "total": 623,
-    "event_total": 25
+    "total": 624,
+    "event_total": 26
    },
    {
     "entry": 8779992,
@@ -11513,8 +11513,8 @@
     "entry_name": "Takatak-baba",
     "rank": 106,
     "last_rank": 108,
-    "total": 589,
-    "event_total": 34
+    "total": 590,
+    "event_total": 35
    },
    {
     "entry": 4439544,
@@ -58182,7 +58182,7 @@
     1,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -58193,7 +58193,7 @@
     1,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -58215,7 +58215,7 @@
     1,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -58234,10 +58234,10 @@
    "15": [
     0,
     1,
-    6,
+    7,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -58259,7 +58259,7 @@
     5,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -58270,7 +58270,7 @@
     1,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -59612,7 +59612,7 @@
     7,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -59623,7 +59623,7 @@
     1,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -59634,7 +59634,7 @@
     6,
     0,
     0,
-    81,
+    90,
     0,
     0,
     0
@@ -59653,10 +59653,10 @@
    "464": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    7,
     0,
     0,
     0
@@ -59817,8 +59817,8 @@
    "1273065": 8,
    "4722308": 9,
    "3219276": 10,
-   "393940": 11,
-   "1902223": 11,
+   "1902223": 10,
+   "393940": 12,
    "2671682": 13,
    "3949616": 13,
    "573491": 15,
@@ -59843,11 +59843,11 @@
    "42960": 34,
    "263779": 34,
    "710718": 36,
+   "4151180": 36,
    "5640988": 36,
    "698784": 36,
    "257074": 36,
-   "4151180": 40,
-   "3566356": 40,
+   "3566356": 41,
    "10821": 42,
    "1425044": 43,
    "13951": 43,
@@ -59859,12 +59859,12 @@
    "3239284": 49,
    "3654448": 51,
    "48343": 52,
-   "2932096": 53,
    "248721": 53,
+   "2932096": 53,
    "4540238": 53,
    "1443362": 53,
    "675013": 57,
-   "57776": 58,
+   "57776": 57,
    "4134138": 59,
    "4683090": 60,
    "2119331": 61,
@@ -59877,11 +59877,11 @@
    "3404613": 68,
    "10615": 69,
    "4372346": 70,
-   "4592187": 70,
+   "4592187": 71,
    "1854010": 72,
    "26707": 73,
-   "438967": 74,
-   "3086063": 74,
+   "438967": 73,
+   "3086063": 75,
    "4314690": 76,
    "1737924": 76,
    "44532": 78,
@@ -59890,8 +59890,8 @@
    "174952": 81,
    "2680660": 82,
    "686561": 83,
-   "2037953": 84,
-   "11673": 84,
+   "2037953": 83,
+   "11673": 85,
    "3350036": 86,
    "2424472": 86,
    "2723973": 86,
@@ -59932,8 +59932,8 @@
    "1273065": "gold",
    "4722308": "gold",
    "3219276": "silver",
-   "393940": "silver",
    "1902223": "silver",
+   "393940": "silver",
    "2671682": "silver",
    "3949616": "silver",
    "573491": "silver",
@@ -59958,10 +59958,10 @@
    "42960": null,
    "263779": null,
    "710718": null,
+   "4151180": null,
    "5640988": null,
    "698784": null,
    "257074": null,
-   "4151180": null,
    "3566356": null,
    "10821": null,
    "1425044": null,
@@ -59974,8 +59974,8 @@
    "3239284": null,
    "3654448": null,
    "48343": null,
-   "2932096": null,
    "248721": null,
+   "2932096": null,
    "4540238": null,
    "1443362": null,
    "675013": null,
@@ -60037,7 +60037,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T19:09:53Z",
+ "updated": "2026-11-21T19:22:16Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -60066,7 +60066,7 @@
    "9531391": "You are 113th on 470 after a 42-point week. Your Haaland armband returned only 4, and you have the chips to fix things."
   },
   "key": "11:live",
-  "ts": "2026-11-21T18:44:25Z",
+  "ts": "2026-11-21T19:22:16Z",
   "usage": {
    "10": {
     "in": 1227421,
@@ -60079,10 +60079,10 @@
     "plots": 4
    },
    "11": {
-    "in": 2110458,
-    "out": 353395,
-    "calls": 138,
-    "refreshes": 11,
+    "in": 2144168,
+    "out": 355095,
+    "calls": 140,
+    "refreshes": 12,
     "desks": 19,
     "desk_in": 1745484,
     "desk_out": 329656
@@ -66356,8 +66356,10 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T19:09:53Z",
-  "issues": [],
+  "ts": "2026-11-21T19:22:16Z",
+  "issues": [
+   "desk written from older totals (9 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...e has can't move anyone.    Konsa ARS   1 pts so far...",
@@ -68383,8 +68385,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Ødegaard"
      },
      {
@@ -69308,8 +69310,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Ødegaard"
      }
     ]
@@ -69549,8 +69551,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Ødegaard"
      },
      {
@@ -69692,8 +69694,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Ødegaard"
      },
      {
@@ -70048,8 +70050,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Ødegaard"
      },
      {
