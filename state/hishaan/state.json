@@ -9501,7 +9501,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T07:10:33Z",
+ "updated": "2026-11-21T07:41:25Z",
  "ai": {
   "briefings": {
    "2321301": "You sit top on 723, just 1 point ahead of Matt, so the lead is slim. Watch Matt's Bench Boost momentum and keep an eye on Calafiori's blank-free form.",
@@ -12268,7 +12268,7 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-21T07:10:33Z",
+  "ts": "2026-11-21T07:41:25Z",
   "issues": [],
   "page": []
  },
@@ -12522,7 +12522,8 @@
    "15": "10:up",
    "154": "10:down",
    "156": "10:down",
-   "502": "10:up"
+   "502": "10:up",
+   "279": "10:down"
   },
   "log": [
    {
@@ -12802,6 +12803,12 @@
     "kind": "price",
     "change": -0.1,
     "price": 5.9
+   },
+   {
+    "ts": "2026-11-21T07:41:25Z",
+    "el": 279,
+    "kind": "surge",
+    "net": -25119
    }
   ]
  },
