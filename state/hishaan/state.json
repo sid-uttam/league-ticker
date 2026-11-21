@@ -9463,11 +9463,11 @@
    "3506595": 15,
    "4922092": 17,
    "2465483": 18,
-   "2934546": 19,
+   "2934546": 18,
    "6279027": 20,
    "865376": 21,
-   "7043406": 22,
-   "6159011": 23,
+   "7043406": 23,
+   "6159011": 22,
    "3314780": 24,
    "6051923": 25,
    "6476662": 26
@@ -9501,7 +9501,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T10:47:53Z",
+ "updated": "2026-11-21T11:22:28Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -9519,7 +9519,6 @@
    "4922092": "You are 17th on 629 after a 47-point week. Your Rice signing needs a bounce, and Inesh is 1 behind.",
    "6279027": "You are 20th on 619 after N.Jackson's 22 from your captaincy. Keep backing him and watch Lakshay just 1 behind.",
    "865376": "You are 21st on 618 after Palmer's blank captaincy returned just 2. Watch Rajiv, 5 behind.",
-   "7043406": "You are 22nd on 613 after Konsa's 16 captaincy and a 4-point hit. Your bench points were high at 26, so review your bench.",
    "6159011": "You are 23rd on 612 and Haaland's captaincy returned 4. Watch Ravi Bhojwani, 12 behind.",
    "3314780": "You are 24th on 600 after a 64-point Bench Boost week. Keep riding it and watch Alia, 16 behind.",
    "1921902": "You dropped from 1st to 4th on 707 after Rogers returned just 2. Your Konsa and N.Jackson signings are your chance to rebound.",
@@ -9535,17 +9534,178 @@
   "ts": "2026-11-21T09:45:46Z",
   "usage": {
    "10": {
-    "in": 1707536,
-    "out": 396159,
-    "calls": 144,
+    "in": 1741219,
+    "out": 405743,
+    "calls": 148,
     "refreshes": 32,
-    "desks": 30,
-    "desk_in": 715822,
-    "desk_out": 234527,
-    "plots": 10
+    "desks": 31,
+    "desk_in": 745860,
+    "desk_out": 241954,
+    "plots": 11
    }
   },
   "desks": [
+   {
+    "headline": "Matt's Bench Boost wins the week; Nikhil clings to top",
+    "text": "Matt's **96-point Bench Boost** was the week's best score, lifting him from 5th to 2nd and **1 point** behind Nikhil. Ravin slid from 1st to 4th, the biggest fall at the top. Before kick-off we said Palmer's blank could shuffle the Tin Pot, and he managed just 2.",
+    "you": {
+     "2321301": "Matt outscored you by 23 points this week, though you still lead by 1 point.",
+     "3029346": "Manager of the Week with 96 points: your Bench Boost hauled you up 3 places to 2nd.",
+     "735721": "Matt outscored you by 23 points, leaving you 14 points behind him in 3rd.",
+     "1921902": "Transfer Genius: your Konsa and N.Jackson swap added 19 points, but you still slid to 4th.",
+     "2687116": "You outscored Rohan by 16 points this week, though selling Cherki before his 9 points stung.",
+     "3344797": "Chandru beat you by 16 points, keeping them 22 ahead in 6th.",
+     "4487775": "Calafiori's 12-point haul as captain helped you outscore Rohan by 16 points this week.",
+     "1655993": "Your Cherki-for-Rice swap cost 6 points, the week's worst transfer, dropping you a place.",
+     "1036311": "Up 2 places to 9th, with N.Jackson's 11 points doing the lifting.",
+     "3072827": "Up 2 places to 10th, powered by Evanilson's 18-point armband.",
+     "3350483": "Down 2 places from 9th to 11th, as Sunil's 11-point gain pushed you below.",
+     "5474293": "Down 2 places to 12th, after Marcel's 15-point gain took him past you.",
+     "75778": "74 points made you the week's second-best score, moving you up 3 places to 13th.",
+     "6892917": "Marcel outscored you by 12 points this week, even with Evanilson's 18-point armband.",
+     "3506595": "Barry's 32-point armband was the week's biggest captain haul, lifting you 6 places to 15th.",
+     "5682768": "Hishaan outscored you by 15 points, leaving you level on points with them at 15th.",
+     "4922092": "The Doghouse was yours with 47 points, the week's lowest score, dropping you 4 places.",
+     "2465483": "Isak's armband won you the battle with Ravi Mahtani by 16 points.",
+     "2934546": "You outscored Pishu by 6 points this week, despite selling Cherki before his 9 points.",
+     "6279027": "Naresh outscored you by 6 points, despite your 22-point N.Jackson armband.",
+     "865376": "Palmer's armband returned just 4 points, dropping you 2 places to 21st.",
+     "6159011": "Rajiv outscored you by 6 points, keeping you in the Tin Pot spots at 22nd.",
+     "7043406": "Bench Disaster: 26 points sat on your bench, the week's costliest selection error.",
+     "3314780": "Your Bench Boost returned 15 points, a poor payoff on a chip you spent.",
+     "6051923": "Ravi Bhojwani outscored you by 14 points, leaving you 16 behind them in 25th.",
+     "6476662": "Wirtz's 13-point haul was your best, but you finished bottom at 26th."
+    },
+    "ts": "2026-11-21T11:22:28Z",
+    "gw": 10,
+    "moment": "gameweek_over",
+    "sig": "91:f:1-0|92:f:2-0|93:f:1-3|94:f:3-1|95:f:1-1|96:f:1-2|97:f:1-0|98:f:4-4|99:f:3-1|100:f:1-0",
+    "ranks": {
+     "2321301": 1,
+     "3029346": 2,
+     "735721": 3,
+     "1921902": 4,
+     "2687116": 5,
+     "3344797": 6,
+     "4487775": 7,
+     "1655993": 8,
+     "1036311": 9,
+     "3072827": 10,
+     "3350483": 11,
+     "5474293": 12,
+     "75778": 13,
+     "6892917": 14,
+     "5682768": 15,
+     "3506595": 15,
+     "4922092": 17,
+     "2465483": 18,
+     "2934546": 18,
+     "6279027": 20,
+     "865376": 21,
+     "7043406": 23,
+     "6159011": 22,
+     "3314780": 24,
+     "6051923": 25,
+     "6476662": 26
+    },
+    "totals": {
+     "2321301": 723,
+     "3029346": 722,
+     "735721": 708,
+     "1921902": 707,
+     "2687116": 696,
+     "3344797": 674,
+     "4487775": 669,
+     "1655993": 667,
+     "1036311": 658,
+     "3072827": 654,
+     "3350483": 653,
+     "5474293": 652,
+     "75778": 647,
+     "6892917": 636,
+     "5682768": 634,
+     "3506595": 634,
+     "4922092": 629,
+     "2465483": 628,
+     "2934546": 628,
+     "6279027": 619,
+     "865376": 618,
+     "7043406": 609,
+     "6159011": 612,
+     "3314780": 600,
+     "6051923": 584,
+     "6476662": 560
+    },
+    "ga": {
+     "15": [
+      1,
+      0
+     ],
+     "552": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "592": [
+      0,
+      1
+     ],
+     "366": [
+      1,
+      1
+     ],
+     "627": [
+      0,
+      1
+     ],
+     "379": [
+      1,
+      0
+     ],
+     "124": [
+      1,
+      0
+     ],
+     "127": [
+      1,
+      0
+     ],
+     "399": [
+      1,
+      0
+     ],
+     "166": [
+      1,
+      1
+     ],
+     "426": [
+      1,
+      1
+     ],
+     "480": [
+      0,
+      1
+     ],
+     "233": [
+      0,
+      1
+     ],
+     "236": [
+      1,
+      0
+     ],
+     "249": [
+      2,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-21T11:22:28Z",
+    "v": 6,
+    "deadline": "2026-11-21T11:00:00Z"
+   },
    {
     "headline": "Matt's Bench Boost haul wins the week with 96 points",
     "text": "Matt's **96-point Bench Boost** was the week's best score, hauling him from 5th to 2nd. Nikhil still leads the table, but only by **1 point** over Matt. Before kick-off we warned Palmer's blank could shuffle the Tin Pot, and he managed just 2.",
@@ -10186,171 +10346,10 @@
     "you_full_ts": "2026-11-09T12:15:57Z",
     "v": 4,
     "deadline": "2026-11-21T11:00:00Z"
-   },
-   {
-    "headline": "Matt's Bench Boost hauls 96, Nikhil clings to top",
-    "text": "Matt's **96-point Bench Boost** was the week's best score, lifting him from 5th to 2nd, just **1** behind Nikhil at the top. Ravin's slide from 1st to 4th shows how quickly the table can change. Before kick-off we said Palmer's blank could flip the Tin Pot, and he managed just 2.",
-    "you": {
-     "2321301": "Matt outscored you by 23 this week, but you still top the table, **1 ahead** of him. Benching Groß, who scored 10, was the one blot.",
-     "3029346": "Manager of the Week on 96 points, 33 above average, with your Bench Boost returning 25. Nikhil is 1 ahead, Deepak 14 behind.",
-     "735721": "Matt outscored you by 23 this week, and benching Cherki, who scored 9, cost you. Ravin sits 1 behind.",
-     "1921902": "**Transfer Genius on +19**, with Konsa and N.Jackson in, but a slide from 1st to 4th. Deepak is 1 ahead, Chandru 11 behind.",
-     "2687116": "Outscored Rohan by 16 this week, and Isak's 16 on your armband was your best. Ravin is 11 ahead, Rohan 22 behind.",
-     "3344797": "Chandru outscored you by 16 this week, and your 51 was 12 below average. Prem is 5 behind.",
-     "4487775": "Outscored Rohan by 16 this week, with Calafiori's 12 on your armband. Rohan is 5 ahead, Sunny 2 behind.",
-     "1655993": "**Transfer Flop**: selling Cherki for Rice cost you 6 when Cherki scored 9. Prem is 2 ahead, Amit 9 behind.",
-     "1036311": "Up 2 places from 11th to 9th, with N.Jackson's 11 your best. Sunny is 9 ahead, Sunil 4 behind.",
-     "3072827": "Evanilson's 18 on your armband lifted you from 12th to 10th. Amit is 4 ahead, Aashiv 1 behind.",
-     "3350483": "Barry's 16 was your best, but the drop from 9th to 11th stings. Sunil is 1 ahead, Sahil 1 behind.",
-     "5474293": "N.Jackson's 11 was your best, but the drop from 10th to 12th is painful. Aashiv is 1 ahead, Marcel 5 behind.",
-     "75778": "Second-best score of the week, 74, lifted you from 16th to 13th. Sahil is 5 ahead, Poonam 11 behind.",
-     "6892917": "Evanilson's 18 on your armband carried you up, though Tzolakis's 6 on the bench is a blot. Marcel 11 ahead, Hishaan 2 behind.",
-     "3506595": "**Captain of the Week** with Barry's 32, and a Rocket climb from 21st to 15th. Poonam is 2 ahead, Vanessa level behind.",
-     "5682768": "Hishaan outscored you by 15 this week, though Fernandes's 10 points are yours alone. Level with Hishaan, Ravi Mahtani 5 behind.",
-     "4922092": "**Free Fall** down 4 to 17th, and the Wooden Spoon on 47, 16 below average. Vanessa is 5 ahead, Inesh 1 behind.",
-     "2465483": "Outscored Ravi Mahtani by 16 this week, and Isak's 16 armband was a differential win. Ravi Mahtani is 1 ahead, Naresh level.",
-     "2934546": "Outscored Lakshay by 7 this week, though selling Cherki, who scored 9, stings. Inesh is level ahead, Lakshay 10 behind.",
-     "865376": "Naresh outscored you by 7 this week, and benching Konsa, who scored 8, cost you. Naresh is 10 ahead, Pishu level.",
-     "6279027": "N.Jackson's 22 on your armband is yours alone, though Rajiv outscored you by 4. Rajiv is 9 behind, Lakshay level.",
-     "7043406": "**Bench Disaster**: 26 points on the bench after picking the wrong 11. Pishu is 9 ahead, Vinesh 1 behind.",
-     "6159011": "Your 51 was 12 below average, and Ravi Bhojwani outscored you by 13. Rajiv is 1 ahead, Ravi Bhojwani 8 behind.",
-     "3314780": "Bench Boost returned 15, a poor chip, though you gained 13 on Vinesh. Vinesh is 8 ahead, Alia 16 behind.",
-     "6051923": "Ravi Bhojwani outscored you by 14 this week, and your 50 was 13 below average. He's 16 ahead, Bella 24 behind.",
-     "6476662": "Outscored Alia by 5 this week, with Wirtz's 13 your best. Alia is 24 ahead."
-    },
-    "ts": "2026-11-09T09:53:06Z",
-    "gw": 10,
-    "moment": "gameweek_over",
-    "sig": "91:f:1-0|92:f:2-0|93:f:1-3|94:f:3-1|95:f:1-1|96:f:1-2|97:f:1-0|98:f:4-4|99:f:3-1|100:f:1-0",
-    "ranks": {
-     "2321301": 1,
-     "3029346": 2,
-     "735721": 3,
-     "1921902": 4,
-     "2687116": 5,
-     "3344797": 6,
-     "4487775": 7,
-     "1655993": 8,
-     "1036311": 9,
-     "3072827": 10,
-     "3350483": 11,
-     "5474293": 12,
-     "75778": 13,
-     "6892917": 14,
-     "3506595": 15,
-     "5682768": 15,
-     "4922092": 17,
-     "2465483": 18,
-     "2934546": 18,
-     "6279027": 20,
-     "865376": 20,
-     "7043406": 22,
-     "6159011": 23,
-     "3314780": 24,
-     "6051923": 25,
-     "6476662": 26
-    },
-    "totals": {
-     "2321301": 723,
-     "3029346": 722,
-     "735721": 708,
-     "1921902": 707,
-     "2687116": 696,
-     "3344797": 674,
-     "4487775": 669,
-     "1655993": 667,
-     "1036311": 658,
-     "3072827": 654,
-     "3350483": 653,
-     "5474293": 652,
-     "75778": 647,
-     "6892917": 636,
-     "3506595": 634,
-     "5682768": 634,
-     "4922092": 629,
-     "2465483": 628,
-     "2934546": 628,
-     "6279027": 618,
-     "865376": 618,
-     "7043406": 609,
-     "6159011": 608,
-     "3314780": 600,
-     "6051923": 584,
-     "6476662": 560
-    },
-    "ga": {
-     "15": [
-      1,
-      0
-     ],
-     "552": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "592": [
-      0,
-      1
-     ],
-     "366": [
-      1,
-      1
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      1,
-      0
-     ],
-     "124": [
-      1,
-      0
-     ],
-     "127": [
-      1,
-      0
-     ],
-     "399": [
-      1,
-      0
-     ],
-     "166": [
-      1,
-      1
-     ],
-     "426": [
-      1,
-      1
-     ],
-     "480": [
-      0,
-      1
-     ],
-     "233": [
-      0,
-      1
-     ],
-     "236": [
-      1,
-      0
-     ],
-     "249": [
-      2,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-09T09:53:06Z",
-    "v": 3,
-    "deadline": "2026-11-21T11:00:00Z"
    }
   ],
   "desk_day": {
-   "date": "2026-11-10",
+   "date": "2026-11-21",
    "ranks": {
     "2321301": 1,
     "3029346": 2,
@@ -10366,29 +10365,28 @@
     "5474293": 12,
     "75778": 13,
     "6892917": 14,
-    "3506595": 15,
     "5682768": 15,
+    "3506595": 15,
     "4922092": 17,
     "2465483": 18,
     "2934546": 18,
     "6279027": 20,
     "865376": 21,
-    "7043406": 22,
-    "6159011": 23,
+    "7043406": 23,
+    "6159011": 22,
     "3314780": 24,
     "6051923": 25,
     "6476662": 26
    }
   },
-  "desk_last_ok": "2026-11-10T13:21:13Z",
+  "desk_last_ok": "2026-11-21T11:22:28Z",
   "plots": [
    {
     "id": "title",
-    "title": "Nikhil Clings to Narrow Lead",
-    "status": "Building",
-    "text": "Nikhil leads Matt by just 1 point, 723 to 722, after a 24-point cushion a week ago. Deepak sits 15 back, and the lead has changed hands 3 times this season.",
-    "next": "Matt could overhaul Nikhil again, with Deepak lurking 15 points behind.",
-    "kept": true,
+    "title": "One Point Separates Them",
+    "status": "Heating up",
+    "text": "Nikhil's lead collapsed from 24 to 1 this week, leaving Matt just one point behind on 722 to Nikhil's 723. Deepak sits 15 points off the top, and the crown has changed hands 3 times this season.",
+    "next": "If Matt completes the overtake, Nikhil could be chasing the crown back from a single point.",
     "who": [
      2321301,
      3029346
@@ -10396,7 +10394,7 @@
     "kind": "title race",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-13T08:26:09Z",
+    "ts": "2026-11-21T11:22:28Z",
     "question": "Who can hold the crown?",
     "line": [
      [
@@ -10421,11 +10419,10 @@
    },
    {
     "id": "rivalry:4922092-5682768",
-    "title": "Vanessa Edges Back Ahead",
-    "status": "Building",
-    "text": "Vanessa has swapped places with Ravi Mahtani 7 times this season and now leads by 5. A week ago Ravi was 7 points clear, so the tide has turned again.",
-    "next": "Ravi Mahtani could hit back, and this rivalry shows no sign of settling.",
-    "kept": true,
+    "title": "Vanessa Edges Ahead",
+    "status": "Twist",
+    "text": "Vanessa has flipped the rivalry, moving 5 points clear of Ravi Mahtani after he led by 7 in GW9. The pair have swapped places 7 times this season, so neither has ever held a clear grip.",
+    "next": "Ravi Mahtani could reclaim the edge, or Vanessa could pull further away and end the back-and-forth.",
     "who": [
      5682768,
      4922092
@@ -10433,7 +10430,7 @@
     "kind": "rivalry",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-13T08:26:09Z",
+    "ts": "2026-11-21T11:22:28Z",
     "question": "Vanessa v Ravi Mahtani: who blinks first?",
     "line": [
      [
@@ -10458,17 +10455,17 @@
    },
    {
     "id": "slump:6051923",
-    "title": "Alia's Long Dip",
+    "title": "Alia's Long Struggle",
     "status": "Building",
-    "text": "Alia has been below the league average for 6 weeks in a row. This week she scored 50, up from 42, but the run is still going.",
-    "next": "One strong week could break the streak, or another dip could stretch it further.",
+    "text": "Alia has now finished below the league average for 6 weeks in a row. Her 50 points this week is an improvement on 42 in GW9, but she is still stuck in the slump.",
+    "next": "If Alia builds on this week's 50, the 6-week run of underperformance could finally end.",
     "who": [
      6051923
     ],
     "kind": "slump",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-13T08:26:09Z",
+    "ts": "2026-11-21T11:22:28Z",
     "question": "Can Alia snap out of it?",
     "line": [
      [
@@ -10498,9 +10495,10 @@
    {
     "id": "chase:4487775",
     "title": "Prem Cuts Rohan's Lead",
-    "status": "Heating up",
+    "status": "Building",
     "text": "Prem has closed Rohan's lead from 34 points in GW7 to just 5 in GW10. The gap has shrunk every week since the chase began.",
     "next": "If Prem keeps this pace, Rohan could be caught before the season ends.",
+    "kept": true,
     "who": [
      4487775,
      3344797
@@ -10508,7 +10506,7 @@
     "kind": "chaser",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-13T08:26:09Z",
+    "ts": "2026-11-21T11:22:28Z",
     "question": "Can Prem catch Rohan?",
     "line": [
      [
@@ -10544,23 +10542,23 @@
     "kind": "repeat glory",
     "episode": 1,
     "gw": 10,
-    "ts": "2026-11-13T08:26:09Z",
+    "ts": "2026-11-21T11:22:28Z",
     "question": "Can anyone match Rohan?",
     "line": [],
     "since": 10,
     "streak": null
    }
   ],
-  "plots_ts": "2026-11-13T08:26:09Z",
+  "plots_ts": "2026-11-21T11:22:28Z",
   "plots_key": "10:between",
   "verdict_tries": {
    "10:2": 1,
    "10:3": 1,
    "10:4": 3,
-   "10:t:ee851c74a979": 1,
+   "10:t:ee851c74a979": 2,
    "10:t:427e172f7adf": 1,
    "10:5": 1,
-   "10:6": 1
+   "10:6": 2
   },
   "plots_v_tries": {
    "2": 1,
@@ -10572,7 +10570,7 @@
    "8": 1
   },
   "plots_v": 8,
-  "plots_sig": "427e172f7adf",
+  "plots_sig": "ee851c74a979",
   "group": {
    "text": "*Matt's Bench Boost blows the table open*\nMatt's 96 lifts Lammo's Lads to 2nd, just 1 behind Nikhil at the top.\nRavin and Lakshay's armbands both flopped with Rogers and Palmer on 2 each.\nHishaan's Barry hauled 32 for his only captain, so nobody is safe.",
    "ts": "2026-11-21T09:45:46Z",
@@ -10606,7 +10604,8 @@
    }
   ],
   "plots_sig_tries": {
-   "427e172f7adf": 1
+   "427e172f7adf": 1,
+   "ee851c74a979": 1
   },
   "gaffer_draft": {
    "gw": 10,
@@ -10905,14 +10904,16 @@
     }
    ],
    "week_average": 63,
-   "tries": 1,
+   "tries": 2,
    "wsig": "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
    "wtries": 3,
    "wtried": [
     "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)"
    ],
-   "sig": "427e172f7adf",
-   "resigned": false
+   "sig": "ee851c74a979",
+   "resigned": true,
+   "bd": "mismatch",
+   "published": "2026-11-21T11:22:28Z"
   },
   "gaffer_backfill_tries": {
    "1": 1,
@@ -11269,19 +11270,19 @@
   "title": [
    {
     "gw": 10,
-    "day": "2026-11-13",
-    "title": "Nikhil Clings to Narrow Lead",
-    "text": "Nikhil leads Matt by just 1 point, 723 to 722, after a 24-point cushion a week ago. Deepak sits 15 back, and the lead has changed hands 3 times this season.",
-    "next": "Matt could overhaul Nikhil again, with Deepak lurking 15 points behind."
+    "day": "2026-11-21",
+    "title": "One Point Separates Them",
+    "text": "Nikhil's lead collapsed from 24 to 1 this week, leaving Matt just one point behind on 722 to Nikhil's 723. Deepak sits 15 points off the top, and the crown has changed hands 3 times this season.",
+    "next": "If Matt completes the overtake, Nikhil could be chasing the crown back from a single point."
    }
   ],
   "rivalry:4922092-5682768": [
    {
     "gw": 10,
-    "day": "2026-11-13",
-    "title": "Vanessa Edges Back Ahead",
-    "text": "Vanessa has swapped places with Ravi Mahtani 7 times this season and now leads by 5. A week ago Ravi was 7 points clear, so the tide has turned again.",
-    "next": "Ravi Mahtani could hit back, and this rivalry shows no sign of settling."
+    "day": "2026-11-21",
+    "title": "Vanessa Edges Ahead",
+    "text": "Vanessa has flipped the rivalry, moving 5 points clear of Ravi Mahtani after he led by 7 in GW9. The pair have swapped places 7 times this season, so neither has ever held a clear grip.",
+    "next": "Ravi Mahtani could reclaim the edge, or Vanessa could pull further away and end the back-and-forth."
    }
   ],
   "gold": [
@@ -11295,7 +11296,7 @@
   "chase:4487775": [
    {
     "gw": 10,
-    "day": "2026-11-13",
+    "day": "2026-11-21",
     "title": "Prem Cuts Rohan's Lead",
     "text": "Prem has closed Rohan's lead from 34 points in GW7 to just 5 in GW10. The gap has shrunk every week since the chase began.",
     "next": "If Prem keeps this pace, Rohan could be caught before the season ends."
@@ -11312,16 +11313,16 @@
   "slump:6051923": [
    {
     "gw": 10,
-    "day": "2026-11-13",
-    "title": "Alia's Long Dip",
-    "text": "Alia has been below the league average for 6 weeks in a row. This week she scored 50, up from 42, but the run is still going.",
-    "next": "One strong week could break the streak, or another dip could stretch it further."
+    "day": "2026-11-21",
+    "title": "Alia's Long Struggle",
+    "text": "Alia has now finished below the league average for 6 weeks in a row. Her 50 points this week is an improvement on 42 in GW9, but she is still stuck in the slump.",
+    "next": "If Alia builds on this week's 50, the 6-week run of underperformance could finally end."
    }
   ],
   "award:captain:3344797": [
    {
     "gw": 10,
-    "day": "2026-11-13",
+    "day": "2026-11-21",
     "title": "Rohan's Captaincy Crown",
     "text": "Rohan has won Captain of the Week 5 times this season, setting the bar for everyone else. The rest of the league is still chasing that record.",
     "next": "Could someone else finally break Rohan's grip on the captaincy award?"
@@ -11814,7 +11815,7 @@
      "pts": {
       "Jacquet": 4
      },
-     "rank": 19
+     "rank": 18
     }
    },
    "6279027": {
@@ -11881,7 +11882,7 @@
       "Manzambi": 2,
       "Schade": 1
      },
-     "rank": 23
+     "rank": 22
     }
    },
    "3314780": {
@@ -12260,9 +12261,11 @@
   "graded": 4
  },
  "checks": {
-  "ts": "2026-11-21T10:47:53Z",
+  "ts": "2026-11-21T11:22:28Z",
   "issues": [],
-  "page": []
+  "page": [
+   "briefing for Rajiv: \"You are 22nd on 613 after Konsa's 16 captaincy and a 4-point hit.\" has a total of 613; Rajiv are on 609"
+  ]
  },
  "pwatch": {
   "seen": {
