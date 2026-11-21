@@ -2498,8 +2498,8 @@
     "entry_name": "RedArmy",
     "rank": 7,
     "last_rank": 8,
-    "total": 699,
-    "event_total": 32
+    "total": 700,
+    "event_total": 33
    },
    {
     "entry": 1036311,
@@ -9086,7 +9086,7 @@
     1,
     0,
     0,
-    28,
+    39,
     0,
     0,
     0
@@ -9108,7 +9108,7 @@
     1,
     0,
     0,
-    28,
+    39,
     0,
     0,
     0
@@ -9130,7 +9130,7 @@
     1,
     0,
     0,
-    28,
+    39,
     0,
     0,
     0
@@ -9160,10 +9160,10 @@
    "13": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    28,
+    39,
     0,
     0,
     0
@@ -9174,7 +9174,7 @@
     1,
     0,
     0,
-    28,
+    39,
     0,
     0,
     0
@@ -9182,10 +9182,10 @@
    "16": [
     0,
     0,
-    3,
+    1,
     0,
     0,
-    28,
+    39,
     0,
     0,
     0
@@ -9229,7 +9229,7 @@
     1,
     0,
     0,
-    28,
+    39,
     0,
     0,
     0
@@ -9911,7 +9911,7 @@
     1,
     0,
     0,
-    28,
+    39,
     0,
     0,
     0
@@ -9922,7 +9922,7 @@
     1,
     0,
     0,
-    28,
+    39,
     0,
     0,
     0
@@ -10188,7 +10188,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T17:59:53Z",
+ "updated": "2026-11-21T18:11:21Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10231,28 +10231,28 @@
     "plots": 11
    },
    "11": {
-    "in": 613724,
-    "out": 118888,
-    "calls": 46,
+    "in": 626607,
+    "out": 121249,
+    "calls": 48,
     "refreshes": 9,
-    "desks": 14,
-    "desk_in": 313414,
-    "desk_out": 95409
+    "desks": 15,
+    "desk_in": 326297,
+    "desk_out": 97770
    }
   },
   "desks": [
    {
     "headline": "Matt takes top spot by 1 point over Nikhil",
-    "text": "**Matt** has taken top spot on 748 points, just **1 point** ahead of Nikhil on 747, after both banked the same 4 points from Haaland's armband. Matt still has **5 players** to play against Nikhil's 3, and Barcola is Nikhil's alone, so the top spot could swing if he scores.",
+    "text": "**Matt** has taken top spot, just **1 point** ahead of Nikhil, after both banked the same 4 points from Haaland's armband. Matt still has **5 players** to play against Nikhil's 3, and Barcola is Nikhil's alone, so the top spot could swing if he scores.",
     "you": {
      "3029346": "Konsa is on the pitch. 3 managers benched him, so they now watch.",
      "2321301": "Matt passed you today. He now sits 1 point above you at the top.",
      "735721": "Nikhil is 20 points above you. Ravin sits 3 points below you.",
      "1921902": "Your captain N.Jackson blanked. Chandru is 3 points below you, with 4 players yet to play.",
      "2687116": "Your bench call on Bogle has backfired, as he has now assisted.",
-     "3344797": "Chandru is 10 points above you. Sunny is 12 points below you.",
-     "1655993": "You have passed Prem today. Amit is 1 point behind you on the Bench Boost night.",
-     "1036311": "You have passed Prem today. Sunny is 1 point above you.",
+     "3344797": "Chandru is **10 points** above you, with 3 of your players still to play.",
+     "1655993": "You have passed Prem today, with 7 of your players still to play on your Bench Boost.",
+     "1036311": "You have passed Prem today, leaving Sunny **2 points** above you on the Bench Boost night.",
      "4487775": "Sunny and Amit have both passed you today. Aashiv is 4 points below you.",
      "3350483": "You have passed Sunil today. Vuskovic is yours alone still to play.",
      "3072827": "Aashiv passed you today. Your bench call on Gvardiol has already cost you.",
@@ -10272,10 +10272,10 @@
      "6051923": "Ravi Bhojwani sits 20 points above you.",
      "6476662": "Your Triple Captain on Haaland banked 6 points."
     },
-    "ts": "2026-11-21T17:37:46Z",
+    "ts": "2026-11-21T18:11:21Z",
     "gw": 11,
     "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:i:0-0|110:f:2-0",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:i:0-1|110:f:2-0",
     "ranks": {
      "3029346": 1,
      "2321301": 2,
@@ -10289,8 +10289,8 @@
      "3350483": 10,
      "3072827": 11,
      "5474293": 12,
-     "75778": 13,
      "3506595": 13,
+     "75778": 13,
      "6892917": 15,
      "5682768": 16,
      "4922092": 17,
@@ -10311,14 +10311,14 @@
      "1921902": 724,
      "2687116": 721,
      "3344797": 711,
-     "1655993": 699,
+     "1655993": 700,
      "1036311": 698,
      "4487775": 684,
      "3350483": 680,
      "3072827": 679,
      "5474293": 676,
-     "75778": 665,
      "3506595": 665,
+     "75778": 665,
      "6892917": 663,
      "5682768": 659,
      "4922092": 656,
@@ -10916,7 +10916,7 @@
     "6476662": 26
    }
   },
-  "desk_last_ok": "2026-11-21T17:37:46Z",
+  "desk_last_ok": "2026-11-21T18:11:21Z",
   "plots": [
    {
     "id": "title",
@@ -11793,7 +11793,8 @@
    "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil hangs on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
    "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil holds on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
    "GW10 between: Matt's 96 squeezes the summit as Nikhil hangs on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top."
-  ]
+  ],
+  "_replaced_ts": "2026-11-21T17:37:46Z"
  },
  "plot_log": {
   "gamble:3506595:10": [
@@ -12210,8 +12211,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Rice"
      }
     ]
@@ -12847,7 +12848,7 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T17:59:53Z",
+  "ts": "2026-11-21T18:11:21Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -13082,7 +13083,7 @@
    "94": "10:down",
    "427": "10:down",
    "165": "10:down",
-   "79": "10:up",
+   "79": "11:up",
    "236": "10:up",
    "388": "10:down",
    "449": "10:down",
@@ -13443,6 +13444,12 @@
     "el": 399,
     "kind": "surge",
     "net": -25870
+   },
+   {
+    "ts": "2026-11-21T18:11:21Z",
+    "el": 79,
+    "kind": "surge",
+    "net": 25570
    }
   ]
  },
