@@ -3016,7 +3016,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T12:22:25Z",
+ "updated": "2026-11-21T12:33:07Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -5832,16 +5832,119 @@
     "plots": 11
    },
    "11": {
-    "in": 43294,
-    "out": 8161,
-    "calls": 4,
+    "in": 66878,
+    "out": 16499,
+    "calls": 6,
     "refreshes": 1,
-    "desks": 1,
-    "desk_in": 6699,
-    "desk_out": 5008
+    "desks": 2,
+    "desk_in": 30283,
+    "desk_out": 13346
    }
   },
   "desks": [
+   {
+    "headline": "Haaland goalless as 22 armbands sit on MCI v FUL",
+    "text": "**Haaland** is captained by **22 managers**, yet MCI v FUL is goalless and he has **0 points** so far. Ayodele leads on **700 points**, with Cherag **8 points** behind and also captaining Haaland, so the top spot rests on the players still to play.",
+    "you": {
+     "1092588": "Robertson and Gomez are yours alone and still to play, so they could keep you on top.",
+     "3219276": "Rayan is the one player only you have still to play, and he could help close the 8 points gap to Ayodele.",
+     "3323262": "Cherag sits 21 points ahead of you, so the Gold spots race is the fight to watch.",
+     "573491": "Your Bench Boost is the same chip Maanav is using, so the bench could decide your place in the Gold spots.",
+     "1541394": "Nihal sits 7 points above you in the race for the last Gold spots.",
+     "7471754": "B.Fernandes is the only player you have still to play, a chance to lift you from 6th.",
+     "5489583": "Edd sits 6 points above you, a gap a big haul could close.",
+     "4125292": "Marmoush is the one player only you have still to play, with Omar 10 points above you.",
+     "3506595": "Jacquet and Barry are yours alone and still to play.",
+     "962024": "Hall is yours alone and still to play, with Hishaan 3 points above you.",
+     "363548": "Simon is 1 point above you, a gap a single haul could close.",
+     "4922092": "Your Wildcard is the big call of your week, with Kudus the only player you alone have still to play.",
+     "3359227": "Thomas is yours alone and still to play, from 14th place.",
+     "7273369": "Raushan sits 7 points above you, the closest rival you have to catch.",
+     "1457736": "Your captain N.Jackson is one of just 2 armbands in the league, and he is still to play.",
+     "75187": "Trafford and Neto are yours alone and still to play, so CHE v LEE matters to you alone.",
+     "5873092": "Level with Dominic on 612 points, the next few goals will decide who is ahead.",
+     "4841175": "Your Bench Boost is up against Nihal's, a head-to-head in the Gold spots race.",
+     "6341709": "Ajayi and Rice are yours alone and still to play, with Tomisin 2 points below Maanav.",
+     "6619523": "Tomisin sits 3 points above you, and he is the rival to chase.",
+     "5028423": "Barcola is yours alone and still to play, a player nobody else in the league can use.",
+     "1474501": "Isak is your captain, one of just 2 armbands in the league, and he is still to play.",
+     "383423": "Petrović is yours alone and still to play, with Dinesh 4 points above you.",
+     "3375627": "Your Triple Captain on Haaland is riding on MCI v FUL, currently goalless.",
+     "3591460": "Garner is yours alone and still to play, the one player from your 28th place team nobody else has."
+    },
+    "ts": "2026-11-21T12:33:07Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:n:0-0|102:n:0-0|103:n:0-0|104:n:0-0|105:n:0-0|106:n:0-0|107:n:0-0|108:i:0-0|109:n:0-0|110:n:0-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "3323262": 3,
+     "573491": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "1378937": 7,
+     "5489583": 8,
+     "3506595": 9,
+     "4125292": 9,
+     "962024": 11,
+     "363548": 12,
+     "4922092": 13,
+     "3359227": 14,
+     "7273369": 15,
+     "1457736": 16,
+     "5873092": 17,
+     "75187": 17,
+     "4841175": 19,
+     "6341709": 20,
+     "6619523": 21,
+     "3552160": 22,
+     "5028423": 23,
+     "1474501": 24,
+     "383423": 25,
+     "8316989": 26,
+     "3375627": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 700,
+     "3219276": 692,
+     "3323262": 671,
+     "573491": 670,
+     "1541394": 663,
+     "7471754": 658,
+     "1378937": 650,
+     "5489583": 644,
+     "3506595": 634,
+     "4125292": 634,
+     "962024": 631,
+     "363548": 630,
+     "4922092": 629,
+     "3359227": 626,
+     "7273369": 619,
+     "1457736": 615,
+     "5873092": 612,
+     "75187": 612,
+     "4841175": 605,
+     "6341709": 603,
+     "6619523": 600,
+     "3552160": 581,
+     "5028423": 579,
+     "1474501": 578,
+     "383423": 574,
+     "8316989": 561,
+     "3375627": 554,
+     "3591460": 521,
+     "5706920": 444
+    },
+    "ga": {},
+    "you_full_ts": "2026-11-21T12:33:07Z",
+    "next": {
+     "ko": "2026-11-21T15:00:00Z",
+     "match": "AVL v SUN"
+    }
+   },
    {
     "headline": "If Cherki hauls, Naishadh could pass Bhavik from 19 behind",
     "text": "If **Cherki hauls** at home to FUL, Naishadh could pass Bhavik from 19 behind, though only 8 managers started him. Elvin is the one captaining Cherki, so a haul there is worth 20 on the armband, and **that's the swing that could change everything**.",
@@ -5942,7 +6045,7 @@
    }
   ],
   "desk_day": {
-   "date": "2026-11-10",
+   "date": "2026-11-21",
    "ranks": {
     "1092588": 1,
     "3219276": 2,
@@ -5952,8 +6055,8 @@
     "7471754": 6,
     "1378937": 7,
     "5489583": 8,
-    "4125292": 9,
     "3506595": 9,
+    "4125292": 9,
     "962024": 11,
     "363548": 12,
     "4922092": 13,
@@ -5975,7 +6078,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-21T11:56:39Z",
+  "desk_last_ok": "2026-11-21T12:33:07Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -13007,8 +13110,9 @@
     "label": "Swing player",
     "branch": "haul",
     "status": {
-     "state": "to_play",
-     "label": "Still to play"
+     "state": "playing",
+     "label": "Playing · 0",
+     "pts": 0
     }
    },
    {
@@ -13351,13 +13455,15 @@
     "you_captain": null,
     "status": [
      {
-      "state": "to_play",
-      "label": "Still to play",
+      "state": "playing",
+      "label": "Playing · 0",
+      "pts": 0,
       "player": "King"
      },
      {
-      "state": "to_play",
-      "label": "Still to play",
+      "state": "playing",
+      "label": "Playing · 0",
+      "pts": 0,
       "player": "Doku"
      }
     ]
@@ -13899,7 +14005,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T12:22:25Z",
+  "ts": "2026-11-21T12:33:07Z",
   "issues": [],
   "page": []
  },
