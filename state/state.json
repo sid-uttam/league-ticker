@@ -2530,7 +2530,7 @@
     1,
     0,
     0,
-    12,
+    13,
     0,
     0,
     0
@@ -3517,7 +3517,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T18:21:52Z",
+ "updated": "2026-11-21T18:32:38Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -15014,7 +15014,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T18:21:52Z",
+  "ts": "2026-11-21T18:32:38Z",
   "issues": [
    "desk written from older totals (6 managers changed since)"
   ],

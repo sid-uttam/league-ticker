@@ -10887,15 +10887,6 @@
     "event_total": 23
    },
    {
-    "entry": 698784,
-    "player_name": "Zorawar Bobinmaker",
-    "entry_name": "11 Spartans",
-    "rank": 37,
-    "last_rank": 36,
-    "total": 685,
-    "event_total": 27
-   },
-   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10903,6 +10894,15 @@
     "last_rank": 45,
     "total": 685,
     "event_total": 36
+   },
+   {
+    "entry": 698784,
+    "player_name": "Zorawar Bobinmaker",
+    "entry_name": "11 Spartans",
+    "rank": 37,
+    "last_rank": 36,
+    "total": 685,
+    "event_total": 27
    },
    {
     "entry": 257074,
@@ -11094,15 +11094,6 @@
     "event_total": 21
    },
    {
-    "entry": 2119331,
-    "player_name": "Ajay Rachakonda",
-    "entry_name": "Silent Violence",
-    "rank": 60,
-    "last_rank": 55,
-    "total": 668,
-    "event_total": 25
-   },
-   {
     "entry": 119259,
     "player_name": "Rahil Mirchandani",
     "entry_name": "Regaling",
@@ -11110,6 +11101,15 @@
     "last_rank": 64,
     "total": 668,
     "event_total": 33
+   },
+   {
+    "entry": 2119331,
+    "player_name": "Ajay Rachakonda",
+    "entry_name": "Silent Violence",
+    "rank": 60,
+    "last_rank": 55,
+    "total": 668,
+    "event_total": 25
    },
    {
     "entry": 57776,
@@ -58256,7 +58256,7 @@
     1,
     0,
     0,
-    12,
+    13,
     0,
     0,
     0
@@ -59686,8 +59686,8 @@
    "42960": 34,
    "263779": 34,
    "710718": 36,
-   "698784": 36,
    "5640988": 36,
+   "698784": 36,
    "257074": 36,
    "3566356": 40,
    "10821": 41,
@@ -59709,8 +59709,8 @@
    "675013": 57,
    "4134138": 58,
    "4683090": 59,
-   "2119331": 60,
    "119259": 60,
+   "2119331": 60,
    "57776": 62,
    "4632544": 63,
    "383029": 64,
@@ -59801,8 +59801,8 @@
    "42960": null,
    "263779": null,
    "710718": null,
-   "698784": null,
    "5640988": null,
+   "698784": null,
    "257074": null,
    "3566356": null,
    "10821": null,
@@ -59824,8 +59824,8 @@
    "675013": null,
    "4134138": null,
    "4683090": null,
-   "2119331": null,
    "119259": null,
+   "2119331": null,
    "57776": null,
    "4632544": null,
    "383029": null,
@@ -59880,7 +59880,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T18:22:12Z",
+ "updated": "2026-11-21T18:32:57Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -66098,7 +66098,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T18:22:12Z",
+  "ts": "2026-11-21T18:32:57Z",
   "issues": [
    "desk written from older totals (11 managers changed since)"
   ],
