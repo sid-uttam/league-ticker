@@ -2941,7 +2941,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T06:07:12Z",
+ "updated": "2026-11-21T06:38:08Z",
  "hist": {
   "key": "10:between",
   "data": {
@@ -5407,7 +5407,7 @@
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan, whose Barry captain returned 32 points, lifting him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16. The Haaland bloc is still the biggest storyline in this league, and it is still costing them.",
    "GW10 between: Haaland blanks again, and Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, and Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them."
   ],
-  "ts": "2026-11-21T03:30:56Z",
+  "ts": "2026-11-21T06:38:08Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -5452,34 +5452,34 @@
   },
   "briefings": {
    "3219276": "You sit 2nd, 8 behind Ayodele, after Rayan blanked on 2 with the armband. Keep an eye on Ayodele's lead and whether your Rayan captaincy recovers.",
-   "3323262": "You are 3rd on 671 after a solid 60 with Haaland as captain. Ayodele and Cherag are both within reach, so watch Cherag's form closely.",
-   "573491": "You are 4th on 670, just 1 behind Sid, after a 67 with Haaland. Nanik sits 7 back, so keep your gap to Sid in mind.",
-   "5489583": "You slipped to 8th on 644 after 57. Edd is 6 ahead and Bhavik 10 behind, so the squeeze is on.",
-   "4125292": "You are 9th on 634, level with Hishaan. Omar is 10 ahead, so watch for a gap to close.",
-   "1378937": "You are 7th on 650 after a 67 that climbed you one place. Tonna is 8 ahead, so chase him down with a strong run.",
-   "4922092": "You are 13th on 629, 3 behind Raushan. Ahmad is just 1 ahead, so watch that gap closely.",
-   "363548": "You are 12th on 630 after a 50. Simon is 1 ahead, and Ravi is 1 behind, so this is tight.",
-   "3359227": "You are 14th on 626 after a 59 with Evanilson's armband returning 18. Ravi is 3 ahead, so keep climbing.",
-   "962024": "You are 11th on 631 after a 64, just 3 behind Hishaan. Ahmad sits 1 back, so keep pushing.",
-   "3506595": "You are level on 634 after your Barry 32 captain haul, a huge jump from 14th. Bhavik is level, so defend this spot.",
-   "1457736": "You are 16th on 615 after a 60. Will is 4 ahead, so keep the pressure on.",
-   "6341709": "You are 20th on 603 after a 52. Maanav is 2 ahead, so the gap is small.",
-   "5873092": "You are 17th on 612 after a 63. Naishadh is 3 ahead and Dominic level, so watch both.",
-   "75187": "You are 18th on 612 after a 75, the week's best score. Justin is level, so take the momentum into gameweek 11.",
-   "6619523": "You are 21st on 600 after a 66, with Rogers' armband returning just 4. Tomisin is 3 ahead, so stay sharp.",
-   "3552160": "You are 22nd on 581, climbing via Isak's 16 captain points. Lavesh is 19 ahead, so the gap is big.",
-   "383423": "You are 25th on 574 after a 58. Dinesh is 4 ahead, so chase him.",
-   "3375627": "You are 27th on 554 after a 45. Elvin is 7 ahead and Iain 33 behind, so keep your place.",
-   "8316989": "You are 26th on 561 after a 63 with Cherki's armband returning 18. Tobi is 13 ahead, so there is ground to make up.",
-   "3591460": "You are 28th on 521 after a 52. IB is 33 ahead, so the gap is large.",
-   "5706920": "You are 29th on 444 after a 30, with Thiago's armband returning -4. Iain is 77 ahead, so it is a long road back.",
-   "1092588": "You still top the table on 700, but Cherag is only 8 behind and your Haaland captaincy is a shared headache. Watch Cherag's armband choice before deadline.",
-   "1541394": "You are 5th on 663 after a 65 with Haaland. Tonna is 5 behind, so the mid-table tussle is live.",
-   "7273369": "You are 15th on 619 after a 61. Raushan is 7 ahead, so chase him down.",
-   "4841175": "You climbed to 19th on 605 after a 74. Dominic is 7 ahead, so keep the run going.",
-   "5028423": "You are 23rd on 579 after a 62. Saurabh is 2 ahead, so push upward.",
-   "1474501": "You are 24th on 578 after a 61 with De Cuyper's armband returning 12. Isaiah is 1 ahead, so stay close.",
-   "7471754": "You are 6th on 658 with 70 points this week, the strongest of the gameweek for the top tier. Nanik is 5 ahead, so a push up the table is possible."
+   "3323262": "You are 3rd on 671, 21 behind Cherag, after a 60 with Haaland armbanded. Nihal is just 1 point behind, so hold on to your place with a sharp week.",
+   "573491": "You are 4th on 670, just 1 behind Sid, after a 67 that still followed the Haaland armband. Nanik is only 7 back, so keep the gap in mind.",
+   "5489583": "You are 8th on 644 after a 57 with Haaland armbanded. Bhavik is 10 behind, but Edd is only 6 ahead of you.",
+   "4125292": "You are tied 9th on 634 after a 51. Hishaan is level with you on points, so the Jacquet Potato surge is a real threat.",
+   "1378937": "You are 7th on 650 after a 67 that improved on your 8th place last week. Omar is 6 behind, so the gap to chase is still close.",
+   "4922092": "You are 13th on 629 after a 47 with Haaland armbanded. Raushan is 3 behind, so your bench scoring of 7 needs to improve.",
+   "363548": "You are 12th on 630 after a 50 with Haaland armbanded. Ravi is 1 behind, so a quick week will matter.",
+   "3359227": "You are 14th on 626 after a 59 with Evanilson captained for 18. Will is 7 behind, so this armband choice was a good one.",
+   "962024": "You are 11th on 631 after a 64 with Haaland armbanded. Isak has been a useful signing, so watch the captain choice next week.",
+   "3506595": "You are tied 9th on 634 after Barry's 32 captain points lifted you from 14th. Nobody else owns Barry, so this differential could keep paying off.",
+   "1457736": "You are 16th on 615 after a 60 with Haaland armbanded. Justin is 3 behind, so the middle of the table is tight.",
+   "6341709": "You are 20th on 603 after a 52 with Haaland armbanded. Lavesh is 3 behind, so the gap is narrow.",
+   "5873092": "You are 17th on 612 after a 63 with Haaland armbanded. Dominic is level with you on points after his 75.",
+   "75187": "You are 18th on 612 after a week-winning 75. Maanav is 7 behind, so this is a good moment to build on it.",
+   "6619523": "You are 21st on 600 after a 66 with Rogers captained for just 4. Saurabh is 19 behind, so your bench of 17 cost you.",
+   "3552160": "You are 22nd on 581 after a 48 with Isak captained for 16. Isaiah is 2 behind, so keep the Isak momentum going.",
+   "383423": "You are 25th on 574 after a 58 with Haaland armbanded. Elvin is 13 behind, so you have some breathing room.",
+   "3375627": "You are 27th on 554 after a 45 with Haaland armbanded. Iain is 33 behind, so a rise up the table is needed.",
+   "8316989": "You are 26th on 561 after a 63 with Cherki captained for 18. IB is 7 behind, so this was a useful week.",
+   "3591460": "You are 28th on 521 after a 52 with Haaland armbanded. Sasha is 77 behind, so the gap to the top is large.",
+   "5706920": "You are 29th on 444 after a 30 with Thiago's armband returning -4. Ice-cold form, so a fresh approach is needed.",
+   "1092588": "You still lead on 700, 8 clear of Cherag, after a 61 that included 17 points on the bench. Cherag is the threat right behind you, so watch how your Haaland captain fares next.",
+   "1541394": "You are 5th on 663 after a 65 with Haaland armbanded. Tonna sits 5 behind, so you need to keep pace with the chasing pack.",
+   "7273369": "You are 15th on 619 after a 61 with Haaland armbanded. Naishadh is 4 behind, so keep your eye on the chasing pack.",
+   "4841175": "You are 19th on 605 after a 74 with Haaland armbanded. Tomisin is 2 behind, so keep up the pressure.",
+   "5028423": "You are 23rd on 579 after a 62 with Haaland armbanded. Dinesh is 1 behind, so this is a tight pack.",
+   "1474501": "You are 24th on 578 after a 61 with De Cuyper captained for 12. Tobi is 4 behind, so the armband paid off.",
+   "7471754": "You are 6th on 658 after a 70, climbing back into the mix. Edd is 8 behind and Nanik 5 ahead, so keep an eye on both."
   },
   "storylines": [
    {
@@ -5528,10 +5528,10 @@
   "key": "10:between",
   "usage": {
    "10": {
-    "in": 2125528,
-    "out": 494335,
-    "calls": 165,
-    "refreshes": 37,
+    "in": 2157722,
+    "out": 500299,
+    "calls": 167,
+    "refreshes": 38,
     "desks": 33,
     "desk_in": 803924,
     "desk_out": 261788,
@@ -6620,23 +6620,15 @@
   "plots_v": 8,
   "plots_sig": "b09a97969469",
   "preview": {
-   "headline": "Gameweek 11: Ayodele's lead is only 8 deep",
+   "headline": "Gameweek 11: Ayodele's lead is thin and the armband gamble is back",
    "points": [
     {
-     "label": "Title race",
-     "text": "Ayodele leads Cherag by just 8 points, with Sid a further 21 back on 671 and Choke City still in third."
-    },
-    {
-     "label": "Armband dilemma",
-     "text": "Haaland has blanked for 21 managers this week, so the armband question is still open heading into the deadline."
-    },
-    {
      "label": "Injury sweat",
-     "text": "Thomas is only 75% to play, and João Pedro, Shaw and Semenyo are all unavailable with no return date given."
+     "text": "Thomas is 75% to play and owned by 7 of you, while João Pedro is out with an unknown return date and owned by 3."
     }
    ],
    "gw": 11,
-   "ts": "2026-11-21T03:30:56Z"
+   "ts": "2026-11-21T06:38:08Z"
   },
   "gaffer_draft": {
    "gw": 10,
@@ -14739,7 +14731,7 @@
   "graded": 6
  },
  "checks": {
-  "ts": "2026-11-21T06:07:12Z",
+  "ts": "2026-11-21T06:38:08Z",
   "issues": [],
   "page": []
  },
