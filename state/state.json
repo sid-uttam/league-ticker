@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "key": "d11:capflop:411",
+   "kind": "live",
+   "tag": "Captains",
+   "head": "Haaland blanks. 22 armbands wasted",
+   "body": "22 of you captained him and got 4 (6 on Triple Captain). The 7 who went elsewhere just gained ground.",
+   "stat": "22 captained him",
+   "score": 94,
+   "who": [
+    75187,
+    363548,
+    383423,
+    573491,
+    962024,
+    1092588,
+    1378937,
+    1541394,
+    3219276,
+    3323262,
+    3375627,
+    3506595,
+    3591460,
+    4125292,
+    4922092,
+    5028423,
+    5489583,
+    5873092,
+    6341709,
+    6619523,
+    7273369,
+    7471754
+   ],
+   "ts": "2026-11-21T14:28:29Z",
+   "gw": 11,
+   "img": "share/live/gw11-p411-373c0fb5d1.png"
+  },
+  {
    "key": "l11:top3:573491:675",
    "kind": "live",
    "tag": "Live",
@@ -1761,7 +1797,8 @@
   "d11:rivals:3323262:573491",
   "d11:onpitch:268",
   "d11:regret:481:1:0",
-  "l11:top3:573491:675"
+  "l11:top3:573491:675",
+  "d11:capflop:411"
  ],
  "done": [
   "deadline:10",
@@ -2076,7 +2113,7 @@
     1,
     0,
     0,
-    11,
+    12,
     0,
     0,
     0
@@ -2472,7 +2509,7 @@
     2,
     0,
     0,
-    89,
+    90,
     0,
     0,
     0
@@ -2516,7 +2553,7 @@
     2,
     0,
     0,
-    89,
+    90,
     0,
     0,
     0
@@ -2527,7 +2564,7 @@
     1,
     0,
     0,
-    11,
+    12,
     0,
     0,
     0
@@ -2582,7 +2619,7 @@
     1,
     0,
     0,
-    19,
+    20,
     0,
     0,
     0
@@ -2593,7 +2630,7 @@
     2,
     0,
     0,
-    89,
+    90,
     0,
     0,
     0
@@ -2637,7 +2674,7 @@
     2,
     0,
     0,
-    89,
+    90,
     0,
     0,
     0
@@ -2846,7 +2883,7 @@
     10,
     0,
     0,
-    89,
+    90,
     0,
     0,
     0
@@ -2978,7 +3015,7 @@
     2,
     0,
     0,
-    89,
+    90,
     0,
     0,
     0
@@ -3063,7 +3100,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T14:17:48Z",
+ "updated": "2026-11-21T14:28:29Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -5748,7 +5785,7 @@
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got just 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, while Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan, whose Barry captain returned 32 points, lifting him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16. The Haaland bloc is still the biggest storyline in this league, and it is still costing them."
   ],
-  "ts": "2026-11-21T13:53:44Z",
+  "ts": "2026-11-21T14:28:29Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -5879,16 +5916,125 @@
     "plots": 11
    },
    "11": {
-    "in": 215761,
-    "out": 44580,
-    "calls": 16,
-    "refreshes": 3,
-    "desks": 5,
-    "desk_in": 106805,
-    "desk_out": 36424
+    "in": 277998,
+    "out": 56612,
+    "calls": 20,
+    "refreshes": 4,
+    "desks": 6,
+    "desk_in": 132584,
+    "desk_out": 45159
    }
   },
   "desks": [
+   {
+    "headline": "Haaland blanks as 22 armbands are wasted",
+    "text": "Haaland blanked for MCI v FUL, leaving **22 armbands** with just **4 points** between them. The 7 managers who went elsewhere have gained ground on the 22 who backed him. With **Ayodele** holding an **8 points** lead over Cherag, Robertson and Gomez could decide the top spot.",
+    "you": {
+     "1092588": "Only you own Robertson among the players still to play, a chance to guard top spot.",
+     "3219276": "Rayan is yours alone to play, a chance to close the **8 points** gap to Ayodele above you.",
+     "573491": "You climbed into 3rd, level with Sid on 675 points, and your Bench Boost is up against Maanav's.",
+     "3323262": "Level with Nihal on 675 points, the next goal could settle who stays in Gold.",
+     "1541394": "Sid sits 7 points above you, the last Gold spot within reach if your players deliver.",
+     "7471754": "B.Fernandes is yours alone to play, a chance to climb above Nanik, 6 points ahead of you.",
+     "5489583": "Edd is 6 points above you, a gap that one big haul from your players could close.",
+     "3506595": "Only you have Jacquet left to play, a chance to climb from 9th.",
+     "4125292": "You touched 9th earlier in the day, now 10th, 1 point behind Hishaan.",
+     "962024": "Hall is yours alone to play, a chance to close the 4 points gap to Bhavik above you.",
+     "363548": "Simon is 1 point above you, a gap one goal from your players could close.",
+     "4922092": "Kudus is yours alone to play, the one player deciding whether your Wildcard gamble pays off.",
+     "3359227": "You reached 13th during the day, now 14th, 1 point behind Ravi.",
+     "7273369": "Raushan sits 9 points above you, the gap you need to start closing.",
+     "1457736": "Your captain N.Jackson is one of only 2 armbands still to play.",
+     "75187": "Trafford is yours alone to play, a chance to break the tie with Justin.",
+     "5873092": "Level with Dominic on 617 points, a tie the next goal could settle.",
+     "4841175": "Your Bench Boost is up against Nihal's, so your bench could decide the Gold spot.",
+     "6341709": "You touched 19th earlier in the day, now 20th, 1 point behind Maanav.",
+     "6619523": "Tomisin is 2 points above you, a gap one big haul from your players could close.",
+     "5028423": "You have passed Saurabh during the day, moving you up to 22nd.",
+     "1474501": "Only 2 managers captain Isak, who is still to play, so your call stands out.",
+     "383423": "Petrović is yours alone to play, a chance to climb past Dinesh, 1 point ahead of you.",
+     "3375627": "Your Triple Captain on Haaland has turned his 2 points into 6 points.",
+     "3591460": "Garner is yours alone to play, a chance to climb from 28th."
+    },
+    "ts": "2026-11-21T14:28:29Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:n:0-0|102:n:0-0|103:n:0-0|104:n:0-0|105:n:0-0|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:n:0-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "3323262": 3,
+     "573491": 3,
+     "1541394": 5,
+     "7471754": 6,
+     "1378937": 7,
+     "5489583": 8,
+     "3506595": 9,
+     "4125292": 10,
+     "962024": 11,
+     "363548": 12,
+     "4922092": 13,
+     "3359227": 14,
+     "7273369": 15,
+     "1457736": 16,
+     "5873092": 17,
+     "75187": 17,
+     "4841175": 19,
+     "6341709": 20,
+     "6619523": 21,
+     "5028423": 22,
+     "3552160": 23,
+     "1474501": 24,
+     "383423": 25,
+     "8316989": 26,
+     "3375627": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 704,
+     "3219276": 696,
+     "3323262": 675,
+     "573491": 675,
+     "1541394": 668,
+     "7471754": 662,
+     "1378937": 654,
+     "5489583": 648,
+     "3506595": 640,
+     "4125292": 639,
+     "962024": 635,
+     "363548": 634,
+     "4922092": 633,
+     "3359227": 632,
+     "7273369": 623,
+     "1457736": 618,
+     "5873092": 617,
+     "75187": 617,
+     "4841175": 608,
+     "6341709": 607,
+     "6619523": 605,
+     "5028423": 585,
+     "3552160": 583,
+     "1474501": 580,
+     "383423": 579,
+     "8316989": 565,
+     "3375627": 561,
+     "3591460": 525,
+     "5706920": 448
+    },
+    "ga": {
+     "481": [
+      1,
+      0
+     ]
+    },
+    "you_full_ts": "2026-11-21T14:28:29Z",
+    "next": {
+     "ko": "2026-11-21T15:00:00Z",
+     "match": "AVL v SUN"
+    },
+    "buildup_for": 101
+   },
    {
     "headline": "Anderson scores 10 points, benched by Sasha",
     "text": "**Anderson** has scored **10 points**, yet nobody in the league started him and Sasha benched him. Haaland has **2 points** on **22 armbands** at 1-1, and Ayodele leads Cherag by **8 points** with 10 players each still to play.",
@@ -6308,104 +6454,6 @@
      "ko": "2026-11-21T15:00:00Z",
      "match": "AVL v SUN"
     }
-   },
-   {
-    "headline": "If Cherki hauls, Naishadh could pass Bhavik from 19 behind",
-    "text": "If **Cherki hauls** at home to FUL, Naishadh could pass Bhavik from 19 behind, though only 8 managers started him. Elvin is the one captaining Cherki, so a haul there is worth 20 on the armband, and **that's the swing that could change everything**.",
-    "you": {
-     "1092588": "If Robertson and Gomez both haul, you could stay top. You start both of them alone.",
-     "573491": "If Silva and Kinsky both haul, you could climb from 4th to 2nd.",
-     "7471754": "If Vuskovic and Kinsky both haul, you could climb from 6th to 4th.",
-     "5489583": "If Schade hauls, you could climb from 8th to 7th.",
-     "962024": "If Isak and Verbruggen both haul, you could climb from 11th to 10th.",
-     "363548": "If Vuskovic hauls, you could climb from 12th to 10th.",
-     "4922092": "If Araujo and Isak both haul, you could climb from 13th to 9th.",
-     "3359227": "If King and Doku both haul, you could climb from 14th to 9th. King is yours alone.",
-     "7273369": "If Silva and Mbeumo both haul, you could climb from 15th to 13th.",
-     "1457736": "If Verbruggen and Manzambi both haul, you could climb from 16th to 11th.",
-     "75187": "If Trafford and Isak both haul, you could climb from 17th to 16th. Trafford is yours alone.",
-     "4841175": "If Isak and Verbruggen both haul, you could climb from 19th to 12th.",
-     "6341709": "If Gabriel and Araujo both haul, you could climb from 20th to 19th.",
-     "6619523": "If Kinsky and Ødegaard both haul, you could climb from 21st to 19th.",
-     "1474501": "If Isak and Verbruggen both haul, you could climb from 24th to 22nd. Isak is your captain.",
-     "383423": "If Ødegaard and Petrović both haul, you could climb from 25th to 23rd. Petrović is yours alone.",
-     "3375627": "If Gabriel and Ødegaard both haul, you could climb from 27th to 26th."
-    },
-    "lines": {
-     "l1": "Ayodele starts 8 clear of Cherag. No single haul or blank could change who finishes top.",
-     "l2": "If Cherki hauls, Naishadh could pass Bhavik, who starts 19 ahead of him. Elvin captains Cherki.",
-     "l3": "If N.Jackson blanks, Maanav could pass Raushan, who starts 21 ahead of him. Raushan and Naishadh both captain N.Jackson.",
-     "l4": "If Isak blanks, Ahmad could pass Simon, who starts just 1 ahead. Saurabh and Dinesh both captain Isak."
-    },
-    "ts": "2026-11-21T11:56:39Z",
-    "gw": 11,
-    "moment": "preview",
-    "sig": "101:n:0-0|102:n:0-0|103:n:0-0|104:n:0-0|105:n:0-0|106:n:0-0|107:n:0-0|108:n:0-0|109:n:0-0|110:n:0-0",
-    "plain": false,
-    "ranks": {
-     "1092588": 1,
-     "3219276": 2,
-     "3323262": 3,
-     "573491": 4,
-     "1541394": 5,
-     "7471754": 6,
-     "1378937": 7,
-     "5489583": 8,
-     "4125292": 9,
-     "3506595": 9,
-     "962024": 11,
-     "363548": 12,
-     "4922092": 13,
-     "3359227": 14,
-     "7273369": 15,
-     "1457736": 16,
-     "5873092": 17,
-     "75187": 17,
-     "4841175": 19,
-     "6341709": 20,
-     "6619523": 21,
-     "3552160": 22,
-     "5028423": 23,
-     "1474501": 24,
-     "383423": 25,
-     "8316989": 26,
-     "3375627": 27,
-     "3591460": 28,
-     "5706920": 29
-    },
-    "totals": {
-     "1092588": 700,
-     "3219276": 692,
-     "3323262": 671,
-     "573491": 670,
-     "1541394": 663,
-     "7471754": 658,
-     "1378937": 650,
-     "5489583": 644,
-     "4125292": 634,
-     "3506595": 634,
-     "962024": 631,
-     "363548": 630,
-     "4922092": 629,
-     "3359227": 626,
-     "7273369": 619,
-     "1457736": 615,
-     "5873092": 612,
-     "75187": 612,
-     "4841175": 605,
-     "6341709": 603,
-     "6619523": 600,
-     "3552160": 581,
-     "5028423": 579,
-     "1474501": 578,
-     "383423": 574,
-     "8316989": 561,
-     "3375627": 554,
-     "3591460": 521,
-     "5706920": 444
-    },
-    "ga": {},
-    "you_full_ts": "2026-11-21T11:56:39Z"
    }
   ],
   "desk_day": {
@@ -6442,7 +6490,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-21T13:53:44Z",
+  "desk_last_ok": "2026-11-21T14:28:29Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -13474,9 +13522,9 @@
     "label": "Swing player",
     "branch": "haul",
     "status": {
-     "state": "playing",
-     "label": "Playing · 1",
-     "pts": 1
+     "state": "blank",
+     "pts": 1,
+     "label": "Blanked · 1"
     }
    },
    {
@@ -13819,15 +13867,15 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 2",
+      "state": "blank",
       "pts": 2,
+      "label": "Blanked · 2",
       "player": "King"
      },
      {
-      "state": "playing",
-      "label": "Playing · 2",
+      "state": "blank",
       "pts": 2,
+      "label": "Blanked · 2",
       "player": "Doku"
      }
     ]
@@ -14369,10 +14417,8 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T14:17:48Z",
-  "issues": [
-   "desk written from older totals (14 managers changed since)"
-  ],
+  "ts": "2026-11-21T14:28:29Z",
+  "issues": [],
   "page": []
  },
  "pwatch": {
@@ -15058,6 +15104,11 @@
     "key": "d11:regret:481:1:0",
     "sig": "181c868dbf",
     "file": "share/live/gw11-p481-181c868dbf.png"
+   },
+   "p411": {
+    "key": "d11:capflop:411",
+    "sig": "373c0fb5d1",
+    "file": "share/live/gw11-p411-373c0fb5d1.png"
    }
   }
  }
