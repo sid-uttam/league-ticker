@@ -10923,15 +10923,6 @@
     "event_total": 35
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 41,
-    "last_rank": 37,
-    "total": 683,
-    "event_total": 29
-   },
-   {
     "entry": 10821,
     "player_name": "Ram Narayan",
     "entry_name": "FPL Neutral",
@@ -10941,13 +10932,13 @@
     "event_total": 35
    },
    {
-    "entry": 1425044,
-    "player_name": "Manav Malhotra",
-    "entry_name": "Brain-Heart 11",
-    "rank": 43,
-    "last_rank": 39,
-    "total": 682,
-    "event_total": 28
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 41,
+    "last_rank": 37,
+    "total": 683,
+    "event_total": 29
    },
    {
     "entry": 13951,
@@ -10957,6 +10948,15 @@
     "last_rank": 53,
     "total": 682,
     "event_total": 38
+   },
+   {
+    "entry": 1425044,
+    "player_name": "Manav Malhotra",
+    "entry_name": "Brain-Heart 11",
+    "rank": 43,
+    "last_rank": 39,
+    "total": 682,
+    "event_total": 28
    },
    {
     "entry": 4558790,
@@ -11031,15 +11031,6 @@
     "event_total": 36
    },
    {
-    "entry": 248721,
-    "player_name": "Raj Pratik",
-    "entry_name": "Mebesty",
-    "rank": 53,
-    "last_rank": 51,
-    "total": 673,
-    "event_total": 26
-   },
-   {
     "entry": 2932096,
     "player_name": "Kunal Satpute",
     "entry_name": "Zhavtē FC",
@@ -11047,6 +11038,15 @@
     "last_rank": 58,
     "total": 673,
     "event_total": 33
+   },
+   {
+    "entry": 248721,
+    "player_name": "Raj Pratik",
+    "entry_name": "Mebesty",
+    "rank": 53,
+    "last_rank": 51,
+    "total": 673,
+    "event_total": 26
    },
    {
     "entry": 4540238,
@@ -11103,15 +11103,6 @@
     "event_total": 21
    },
    {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
-    "rank": 61,
-    "last_rank": 64,
-    "total": 668,
-    "event_total": 33
-   },
-   {
     "entry": 2119331,
     "player_name": "Ajay Rachakonda",
     "entry_name": "Silent Violence",
@@ -11119,6 +11110,15 @@
     "last_rank": 55,
     "total": 668,
     "event_total": 25
+   },
+   {
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
+    "rank": 61,
+    "last_rank": 64,
+    "total": 668,
+    "event_total": 33
    },
    {
     "entry": 4632544,
@@ -59847,10 +59847,10 @@
    "5640988": 36,
    "257074": 36,
    "3566356": 40,
-   "4151180": 41,
    "10821": 41,
-   "1425044": 43,
+   "4151180": 41,
    "13951": 43,
+   "1425044": 43,
    "4558790": 45,
    "480904": 45,
    "3560542": 45,
@@ -59859,16 +59859,16 @@
    "3239284": 49,
    "3654448": 51,
    "48343": 52,
-   "248721": 53,
    "2932096": 53,
+   "248721": 53,
    "4540238": 53,
    "1443362": 53,
    "675013": 57,
    "4134138": 58,
    "57776": 58,
    "4683090": 60,
-   "119259": 61,
    "2119331": 61,
+   "119259": 61,
    "4632544": 63,
    "383029": 64,
    "2569620": 64,
@@ -59962,10 +59962,10 @@
    "5640988": null,
    "257074": null,
    "3566356": null,
-   "4151180": null,
    "10821": null,
-   "1425044": null,
+   "4151180": null,
    "13951": null,
+   "1425044": null,
    "4558790": null,
    "480904": null,
    "3560542": null,
@@ -59974,16 +59974,16 @@
    "3239284": null,
    "3654448": null,
    "48343": null,
-   "248721": null,
    "2932096": null,
+   "248721": null,
    "4540238": null,
    "1443362": null,
    "675013": null,
    "4134138": null,
    "57776": null,
    "4683090": null,
-   "119259": null,
    "2119331": null,
+   "119259": null,
    "4632544": null,
    "383029": null,
    "2569620": null,
@@ -60037,7 +60037,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T20:40:40Z",
+ "updated": "2026-11-21T20:51:25Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -66365,7 +66365,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T20:40:40Z",
+  "ts": "2026-11-21T20:51:25Z",
   "issues": [],
   "page": [],
   "wording": [
