@@ -10968,18 +10968,18 @@
     "event_total": 4
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
+    "entry": 2868149,
+    "player_name": "Akash Singh",
+    "entry_name": "The Gerrardians",
     "rank": 46,
     "last_rank": 45,
     "total": 653,
     "event_total": 4
    },
    {
-    "entry": 2868149,
-    "player_name": "Akash Singh",
-    "entry_name": "The Gerrardians",
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
     "rank": 46,
     "last_rank": 45,
     "total": 653,
@@ -58988,8 +58988,8 @@
    "4558790": 43,
    "4683090": 43,
    "4134138": 45,
-   "3566356": 46,
    "2868149": 46,
+   "3566356": 46,
    "5640988": 46,
    "10821": 49,
    "248721": 50,
@@ -59103,8 +59103,8 @@
    "4558790": null,
    "4683090": null,
    "4134138": null,
-   "3566356": null,
    "2868149": null,
+   "3566356": null,
    "5640988": null,
    "10821": null,
    "248721": null,
@@ -59173,7 +59173,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T14:42:30Z",
+ "updated": "2026-11-21T14:53:52Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -65242,7 +65242,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T14:42:30Z",
+  "ts": "2026-11-21T14:53:52Z",
   "issues": [],
   "page": []
  },
