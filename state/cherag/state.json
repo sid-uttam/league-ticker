@@ -10653,19 +10653,10 @@
     "event_total": 25
    },
    {
-    "entry": 1902223,
-    "player_name": "Karan Singh",
-    "entry_name": "Bombay Reds",
-    "rank": 11,
-    "last_rank": 14,
-    "total": 717,
-    "event_total": 34
-   },
-   {
     "entry": 393940,
     "player_name": "Anurag Red-dy",
     "entry_name": "Easter Disaster",
-    "rank": 12,
+    "rank": 11,
     "last_rank": 15,
     "total": 716,
     "event_total": 35
@@ -10674,10 +10665,19 @@
     "entry": 2671682,
     "player_name": "Clawin Dsouza",
     "entry_name": "Bruno dos tres",
-    "rank": 13,
+    "rank": 12,
     "last_rank": 13,
     "total": 715,
     "event_total": 29
+   },
+   {
+    "entry": 1902223,
+    "player_name": "Karan Singh",
+    "entry_name": "Bombay Reds",
+    "rank": 13,
+    "last_rank": 14,
+    "total": 715,
+    "event_total": 32
    },
    {
     "entry": 3949616,
@@ -10887,37 +10887,28 @@
     "event_total": 23
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 37,
-    "last_rank": 37,
-    "total": 685,
-    "event_total": 31
-   },
-   {
-    "entry": 5640988,
-    "player_name": "Sundar Sravan",
-    "entry_name": "Bavarian Szobo",
-    "rank": 38,
-    "last_rank": 45,
-    "total": 685,
-    "event_total": 36
-   },
-   {
     "entry": 698784,
     "player_name": "Zorawar Bobinmaker",
     "entry_name": "11 Spartans",
-    "rank": 38,
+    "rank": 37,
     "last_rank": 36,
     "total": 685,
     "event_total": 27
    },
    {
+    "entry": 5640988,
+    "player_name": "Sundar Sravan",
+    "entry_name": "Bavarian Szobo",
+    "rank": 37,
+    "last_rank": 45,
+    "total": 685,
+    "event_total": 36
+   },
+   {
     "entry": 257074,
     "player_name": "Shahaan Syed",
     "entry_name": "Aham brahmasmi",
-    "rank": 40,
+    "rank": 39,
     "last_rank": 34,
     "total": 685,
     "event_total": 25
@@ -10926,16 +10917,25 @@
     "entry": 3566356,
     "player_name": "Jackey Boro",
     "entry_name": "Jackey's Team",
-    "rank": 41,
+    "rank": 40,
     "last_rank": 45,
     "total": 684,
     "event_total": 35
    },
    {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 41,
+    "last_rank": 37,
+    "total": 683,
+    "event_total": 29
+   },
+   {
     "entry": 10821,
     "player_name": "Ram Narayan",
     "entry_name": "FPL Neutral",
-    "rank": 42,
+    "rank": 41,
     "last_rank": 48,
     "total": 683,
     "event_total": 35
@@ -11076,22 +11076,22 @@
     "event_total": 19
    },
    {
-    "entry": 57776,
-    "player_name": "Adwait Bhattacharya",
-    "entry_name": "Xabi's Palestronomy!",
-    "rank": 58,
-    "last_rank": 67,
-    "total": 672,
-    "event_total": 39
-   },
-   {
     "entry": 4134138,
     "player_name": "Rishab Bajaj",
     "entry_name": "Rishabs11",
-    "rank": 59,
+    "rank": 58,
     "last_rank": 44,
     "total": 670,
     "event_total": 20
+   },
+   {
+    "entry": 57776,
+    "player_name": "Adwait Bhattacharya",
+    "entry_name": "Xabi's Palestronomy!",
+    "rank": 59,
+    "last_rank": 67,
+    "total": 670,
+    "event_total": 37
    },
    {
     "entry": 4683090,
@@ -11103,15 +11103,6 @@
     "event_total": 21
    },
    {
-    "entry": 2119331,
-    "player_name": "Ajay Rachakonda",
-    "entry_name": "Silent Violence",
-    "rank": 61,
-    "last_rank": 55,
-    "total": 668,
-    "event_total": 25
-   },
-   {
     "entry": 119259,
     "player_name": "Rahil Mirchandani",
     "entry_name": "Regaling",
@@ -11119,6 +11110,15 @@
     "last_rank": 64,
     "total": 668,
     "event_total": 33
+   },
+   {
+    "entry": 2119331,
+    "player_name": "Ajay Rachakonda",
+    "entry_name": "Silent Violence",
+    "rank": 61,
+    "last_rank": 55,
+    "total": 668,
+    "event_total": 25
    },
    {
     "entry": 4632544,
@@ -11171,8 +11171,8 @@
     "entry_name": "Siiiiiuuuuuu",
     "rank": 68,
     "last_rank": 74,
-    "total": 659,
-    "event_total": 36
+    "total": 657,
+    "event_total": 34
    },
    {
     "entry": 10615,
@@ -11184,19 +11184,10 @@
     "event_total": 31
    },
    {
-    "entry": 4372346,
-    "player_name": "Shantanu Sharma",
-    "entry_name": "Carnage1x",
-    "rank": 70,
-    "last_rank": 78,
-    "total": 656,
-    "event_total": 37
-   },
-   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
-    "rank": 71,
+    "rank": 70,
     "last_rank": 72,
     "total": 655,
     "event_total": 29
@@ -11205,10 +11196,19 @@
     "entry": 1854010,
     "player_name": "Shahan Irani",
     "entry_name": "ahaonltoocnraoini.",
-    "rank": 72,
+    "rank": 71,
     "last_rank": 63,
     "total": 654,
     "event_total": 19
+   },
+   {
+    "entry": 4372346,
+    "player_name": "Shantanu Sharma",
+    "entry_name": "Carnage1x",
+    "rank": 72,
+    "last_rank": 78,
+    "total": 654,
+    "event_total": 35
    },
    {
     "entry": 26707,
@@ -11220,22 +11220,22 @@
     "event_total": 14
    },
    {
-    "entry": 438967,
-    "player_name": "Avin Sharma",
-    "entry_name": "Fantasy King",
-    "rank": 74,
-    "last_rank": 77,
-    "total": 653,
-    "event_total": 32
-   },
-   {
     "entry": 3086063,
     "player_name": "S.M. Shaligram",
     "entry_name": "Golden Jokers FC",
-    "rank": 75,
+    "rank": 74,
     "last_rank": 71,
     "total": 652,
     "event_total": 29
+   },
+   {
+    "entry": 438967,
+    "player_name": "Avin Sharma",
+    "entry_name": "Fantasy King",
+    "rank": 75,
+    "last_rank": 77,
+    "total": 651,
+    "event_total": 30
    },
    {
     "entry": 4314690,
@@ -11310,19 +11310,10 @@
     "event_total": 37
    },
    {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
-    "rank": 84,
-    "last_rank": 89,
-    "total": 638,
-    "event_total": 34
-   },
-   {
     "entry": 11673,
     "player_name": "Yash Gawai",
     "entry_name": "PalmerIsGlamour",
-    "rank": 85,
+    "rank": 84,
     "last_rank": 86,
     "total": 637,
     "event_total": 31
@@ -11331,7 +11322,7 @@
     "entry": 3350036,
     "player_name": "Avinash Shaligram",
     "entry_name": "Rusty Warrior",
-    "rank": 86,
+    "rank": 85,
     "last_rank": 80,
     "total": 636,
     "event_total": 24
@@ -11340,16 +11331,25 @@
     "entry": 2424472,
     "player_name": "Apoorvo Choudhary",
     "entry_name": "Brian Boobey",
-    "rank": 87,
+    "rank": 86,
     "last_rank": 79,
     "total": 636,
     "event_total": 19
    },
    {
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
+    "rank": 86,
+    "last_rank": 89,
+    "total": 636,
+    "event_total": 32
+   },
+   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
-    "rank": 87,
+    "rank": 86,
     "last_rank": 89,
     "total": 636,
     "event_total": 32
@@ -11432,8 +11432,8 @@
     "entry_name": "Panchavati FC",
     "rank": 97,
     "last_rank": 94,
-    "total": 624,
-    "event_total": 26
+    "total": 622,
+    "event_total": 24
    },
    {
     "entry": 8779992,
@@ -11513,8 +11513,8 @@
     "entry_name": "Takatak-baba",
     "rank": 106,
     "last_rank": 108,
-    "total": 590,
-    "event_total": 35
+    "total": 588,
+    "event_total": 33
    },
    {
     "entry": 4439544,
@@ -58234,7 +58234,7 @@
    "15": [
     0,
     1,
-    7,
+    5,
     0,
     0,
     90,
@@ -59631,7 +59631,7 @@
    "453": [
     1,
     0,
-    6,
+    7,
     0,
     0,
     90,
@@ -59797,7 +59797,7 @@
     "48343": 4,
     "4632544": 3,
     "3086063": 8,
-    "3794959": -5,
+    "3794959": -6,
     "1497357": 0
    },
    "_bench": {
@@ -59817,10 +59817,10 @@
    "1273065": 8,
    "4722308": 9,
    "3219276": 10,
-   "1902223": 10,
-   "393940": 12,
-   "2671682": 13,
-   "3949616": 13,
+   "393940": 11,
+   "2671682": 12,
+   "1902223": 12,
+   "3949616": 12,
    "573491": 15,
    "2985014": 16,
    "2557772": 17,
@@ -59843,12 +59843,12 @@
    "42960": 34,
    "263779": 34,
    "710718": 36,
-   "4151180": 36,
-   "5640988": 36,
    "698784": 36,
+   "5640988": 36,
    "257074": 36,
-   "3566356": 41,
-   "10821": 42,
+   "3566356": 40,
+   "4151180": 41,
+   "10821": 41,
    "1425044": 43,
    "13951": 43,
    "4558790": 45,
@@ -59864,24 +59864,24 @@
    "4540238": 53,
    "1443362": 53,
    "675013": 57,
-   "57776": 57,
-   "4134138": 59,
+   "4134138": 58,
+   "57776": 58,
    "4683090": 60,
-   "2119331": 61,
    "119259": 61,
+   "2119331": 61,
    "4632544": 63,
    "383029": 64,
    "2569620": 64,
    "2868149": 66,
    "2922453": 66,
    "3404613": 68,
-   "10615": 69,
-   "4372346": 70,
-   "4592187": 71,
-   "1854010": 72,
+   "10615": 68,
+   "4592187": 70,
+   "1854010": 71,
+   "4372346": 71,
    "26707": 73,
-   "438967": 73,
-   "3086063": 75,
+   "3086063": 74,
+   "438967": 75,
    "4314690": 76,
    "1737924": 76,
    "44532": 78,
@@ -59890,11 +59890,11 @@
    "174952": 81,
    "2680660": 82,
    "686561": 83,
-   "2037953": 83,
-   "11673": 85,
-   "3350036": 86,
-   "2424472": 86,
-   "2723973": 86,
+   "11673": 84,
+   "3350036": 85,
+   "2424472": 85,
+   "2037953": 85,
+   "2723973": 85,
    "699330": 89,
    "907691": 90,
    "3389995": 91,
@@ -59904,7 +59904,7 @@
    "5660348": 94,
    "3794959": 94,
    "8603432": 97,
-   "8779992": 98,
+   "8779992": 97,
    "4616626": 99,
    "1967440": 100,
    "1497357": 101,
@@ -59932,9 +59932,9 @@
    "1273065": "gold",
    "4722308": "gold",
    "3219276": "silver",
-   "1902223": "silver",
    "393940": "silver",
    "2671682": "silver",
+   "1902223": "silver",
    "3949616": "silver",
    "573491": "silver",
    "2985014": "silver",
@@ -59958,11 +59958,11 @@
    "42960": null,
    "263779": null,
    "710718": null,
-   "4151180": null,
-   "5640988": null,
    "698784": null,
+   "5640988": null,
    "257074": null,
    "3566356": null,
+   "4151180": null,
    "10821": null,
    "1425044": null,
    "13951": null,
@@ -59979,11 +59979,11 @@
    "4540238": null,
    "1443362": null,
    "675013": null,
-   "57776": null,
    "4134138": null,
+   "57776": null,
    "4683090": null,
-   "2119331": null,
    "119259": null,
+   "2119331": null,
    "4632544": null,
    "383029": null,
    "2569620": null,
@@ -59991,12 +59991,12 @@
    "2922453": null,
    "3404613": null,
    "10615": null,
-   "4372346": null,
    "4592187": null,
    "1854010": null,
+   "4372346": null,
    "26707": null,
-   "438967": null,
    "3086063": null,
+   "438967": null,
    "4314690": null,
    "1737924": null,
    "44532": null,
@@ -60005,10 +60005,10 @@
    "174952": null,
    "2680660": null,
    "686561": null,
-   "2037953": null,
    "11673": null,
    "3350036": null,
    "2424472": null,
+   "2037953": null,
    "2723973": null,
    "699330": null,
    "907691": null,
@@ -60037,7 +60037,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T19:22:16Z",
+ "updated": "2026-11-21T19:33:49Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -60079,13 +60079,14 @@
     "plots": 4
    },
    "11": {
-    "in": 2144168,
-    "out": 355095,
-    "calls": 140,
+    "in": 2276929,
+    "out": 378110,
+    "calls": 150,
     "refreshes": 12,
-    "desks": 19,
-    "desk_in": 1745484,
-    "desk_out": 329656
+    "desks": 20,
+    "desk_in": 1872826,
+    "desk_out": 349708,
+    "plots": 1
    }
   },
   "verdict_tries": {
@@ -60096,6 +60097,404 @@
    "10:t:da2e1f1d1a60": 1
   },
   "desks": [
+   {
+    "headline": "Rajat Arora's 19-point lead at the top is still alive",
+    "text": "**Rajat Arora** still leads **Neol** by **19 points** at the top, with 3 players left to play for each. Barry is the only one still to come for Rajat Arora, while Vuskovic is left for Neol, so the title race stays open.",
+    "you": {
+     "5949580": "Selling Evanilson now stings, as he has scored 6 points for BOU v NFO this gameweek.",
+     "305234": "Rajat Arora is 19 points ahead of you, with Barry still to play for him.",
+     "3991082": "You have passed Yash Bhatia today, moving you into 3rd place.",
+     "13978": "Sukrut has gone past you today, leaving you 2 points behind him in 4th.",
+     "1325491": "You passed Aryan Khamankar today, but Sukrut has moved ahead of you.",
+     "136653": "Sukrut, Yash Bhatia and Akshat have all passed you today, dropping you to 6th place.",
+     "2429776": "You have passed Biswadeep today, climbing back to 7th place.",
+     "1273065": "You have passed Biswadeep today, keeping you 1 point behind Kshiteesh in 8th.",
+     "4722308": "Kshiteesh and Prathap have both passed you today, leaving you 1 point behind Prathap.",
+     "3219276": "Biswadeep is 5 points ahead of you in 9th place.",
+     "393940": "You have passed Clawin, Karan Singh and Utkarsh today, climbing to 11th place.",
+     "2671682": "You passed Quseem today, but Anurag has moved above you in 11th place.",
+     "1902223": "Anurag passed you today, leaving you level with Clawin in 12th place.",
+     "3949616": "Anurag has passed you today, and Karan Singh is level with you in 12th.",
+     "573491": "Your Bench Boost has delivered 44 points today, carrying you past Karan Singh, Saeel and Quseem.",
+     "2985014": "You passed Quseem today, but Nihal has gone past you.",
+     "2557772": "Anurag, Clawin and Karan Singh have all passed you today, dropping you to 17th place.",
+     "3479732": "Your 40 points on the Bench Boost have carried you past Kaushik, Mudit and Sid today.",
+     "18991": "You have passed Kaushik, Mudit and Sid today, with Rudoni on 10 points from COV v CRY.",
+     "3234577": "Your captain Van Hecke has scored 6 points against IPS, doubled to 12 with the armband.",
+     "5685525": "You passed Hitesh today, but Nihal and Sahilk passed you.",
+     "3323262": "You passed Sahil and Hitesh today, though Nihal and Sahilk have both gone past you.",
+     "1312692": "You passed Sahil and Sikander today, but Arshad has gone past you.",
+     "1541394": "You have passed Sahil, Sikander and Hitesh today without being passed yourself.",
+     "780469": "You passed Hitesh today, but Nihal, Sahilk and Arshad have gone past you.",
+     "1662734": "You passed Hitesh and Sahej today, but Nihal and Sahilk passed you.",
+     "3214478": "Nihal, Sahilk and Arshad have passed you today, dropping you from 17th to 27th.",
+     "107315": "The Barnes you sold this week has scored 8 points for BOU v NFO, so that sale stings.",
+     "2554077": "Isak, your captain, is still to play, with Nihal, Sahilk and Arshad having passed you today.",
+     "1305406": "Sahilk, Arshad and Adrian have all passed you today, leaving you 2 points behind Soham.",
+     "6543092": "Haaland returned only 2 points, so your armband gave you 4, and you climbed to 31st with 3 players still to play.",
+     "6034028": "Your Silva armband was worth 16 points in BOU v NFO, lifting you from 52nd to 32nd today.",
+     "32831": "You have passed Bhavin, Nishit and Shahaan today, with Haaland's 2 points keeping your captain's haul small.",
+     "263779": "Aryan Apte has passed you today, though you have passed Nishit and Shahaan.",
+     "42960": "Eli and Aryan Apte have passed you today, while you have passed Nishit and Mayuresh.",
+     "710718": "Eli, Aryan Apte and Sidharth have all passed you today, and you have passed Mayuresh.",
+     "257074": "Your Shahaan side benched Rogers, who then set up a goal, and Eli and Aryan Apte have passed you.",
+     "5640988": "Aryan Apte is ahead of you on the day, and you have passed Manav and Nehal.",
+     "698784": "Eli, Aryan Apte and Sidharth have passed you today, with Ram 2 points behind you.",
+     "3566356": "Aryan Apte is the only one ahead of you on the day, after you climbed from 45th to 40th.",
+     "4151180": "Your 29 gameweek points have you at 41st, with 3 players still to play.",
+     "10821": "Aryan Apte is still ahead of you on the day, with 2 players still to play for you.",
+     "1425044": "Aryan Apte and Sidharth have passed you today, after you passed Nehal and Mayuresh.",
+     "13951": "Nobody has passed you today, and you have overtaken Nehal, Rahul and Mayuresh.",
+     "480904": "Eli and Aryan Apte are still ahead of you on the day, with Mayuresh behind you.",
+     "4558790": "Aryan Apte and Sundar have passed you today, with Jackey also ahead on the day.",
+     "3560542": "Your 46 gameweek points have lifted you from 63rd to 45th, one of the biggest climbs here.",
+     "249619": "Nanik, Eli and Aryan Apte have passed you today, dropping you from 30th to 48th.",
+     "3239284": "Your Triple Captain on N.Jackson is live, though Mayuresh still sits 1 point ahead of you in total.",
+     "119217": "Sandeepan has passed you today, though you have passed Hardik and Raj.",
+     "48343": "Aryan Apte and Sagar have passed you today, with Sandeepan still ahead.",
+     "2932096": "Sandeepan has passed you today, though you have passed Amar and Rishab.",
+     "248721": "Sandeepan, Kunaal and Abhimanyu have passed you today.",
+     "4540238": "You have passed Amar and Rishab today, but Sandeepan has passed you.",
+     "1443362": "You have passed Amar and Rishab today, but Sandeepan has passed you.",
+     "675013": "Aryan Apte, Sidharth and Aleston have passed you today, dropping you from 40th to 57th.",
+     "57776": "You have passed SHARAN, Ajay and Rahil today, climbing from 66th to 58th.",
+     "4683090": "Aryan Apte and Sagar have passed you today, dropping you from 48th to 60th.",
+     "2119331": "Haaland's 2 points left you with only 4 on the armband, and Sandeepan and Kunaal passed you today, so you slipped from 54th to 61st.",
+     "119259": "Your 33 points lifted you from 63rd to 61st, though Adwait passed you during the day.",
+     "4632544": "You have passed Adit, Akash and Shahan today, lifting you from 66th to 63rd.",
+     "2569620": "Sandeepan and Adwait passed you today, and you hold 64th with 3 players still to play.",
+     "383029": "Solanke's goal is yours alone among owners besides Yash Gawai, and you have passed Akash, Shahan and Krishnaji today.",
+     "2922453": "You have passed Shahan, Krishnaji and Manu today, and Vishva sits 1 place above you with 3 players still to play.",
+     "2868149": "Aryan Apte, Ram and Sagar passed you today, dropping you from 45th to 66th.",
+     "3404613": "Nobody has passed you today, lifting you from 74th to 68th.",
+     "4592187": "You passed Shahan and Krishnaji today, but Zishan passed you, with 4 players still to play.",
+     "1854010": "Adwait, Sajeet and Vishva have passed you today, and Udit is 1 point ahead with 4 players still to play.",
+     "4372346": "You have passed Krishnaji, S.M. and Avin today, climbing from 78th to 70th.",
+     "3086063": "You have passed Manu today, but Maanas and Zishan passed you, with Krishnaji 1 point ahead.",
+     "4314690": "Abhishek Yerra, Maanas and Zishan passed you today, and Rajat Bhalla is level on points.",
+     "1737924": "Shantanu and Avin passed you today, and Manu is level with you on points at 76th.",
+     "6830291": "Shantanu and Ketan passed you today, and Belloumi is still to play only for you.",
+     "4811914": "You have passed Mohit, Apoorvo and Avinash today, and you sit 80th with 3 players still to play.",
+     "174952": "You have passed Mohit, Apoorvo and Avinash today, with 2 players still to play.",
+     "2680660": "Ketan and Aniket passed you today, and you sit 82nd with 3 players still to play.",
+     "686561": "You have passed Yash Gawai, Apoorvo and Arnav today, and Szoboszlai is still to play only for you.",
+     "11673": "Pranav passed you today, and your Barcola captaincy is still to play.",
+     "2424472": "Ketan, Aniket and Abhishek Thard passed you today, and Jacquet is still to play only for you.",
+     "2723973": "Pranav passed you today, though you have passed Stephen and Anuj and sit 85th.",
+     "3350036": "Ketan, Aniket and Abhishek Thard passed you today, with 3 players still to play.",
+     "2037953": "Pranav passed you today, though you have passed Stephen and Anuj and sit 85th.",
+     "699330": "Pranav passed you today, though you have passed Stephen and Anuj, and Avinash is 1 point ahead.",
+     "3298199": "Thiaw's 9 points since you sold him this week sit at the heart of your **28 point** day, and Aditya is still 4 points ahead of you.",
+     "3389995": "Your **Rogers** armband has produced 10 points, but Pranav, Arnav and Umang have passed you today.",
+     "5734029": "You passed Anuj today, but Aditya and Abu are still above you in 93rd.",
+     "4905114": "Pranav, Arnav and Umang have passed you today, and you're 94th with 4 players still to play.",
+     "3794959": "Your **35 points** from 94th is a strong day, with Egan the only pick you still have to play.",
+     "1967440": "Aditya, Abu and Chander have passed you today, and Monty is 13 points behind you.",
+     "1497357": "Kartik and Sanket Khandekar have passed you today, and you're 101st with 5 players still to play.",
+     "3942185": "You've passed Varun, Vinil and Neil today, and your **35 points** have you 102nd.",
+     "358907": "You have passed Neil today, but Varun is 2 points ahead of you.",
+     "4527650": "Sourabh has passed you today, and Dunk is the only pick you still have to play from 108th.",
+     "6598615": "Aritra has passed you today, and A.Becker is your only pick left to play from 111th.",
+     "9531391": "João Pedro didn't play, so autosubs are coming for 3 of you, and Boscagli and Maguire are your only remaining players."
+    },
+    "ts": "2026-11-21T19:33:49Z",
+    "gw": 11,
+    "moment": "day_over",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "5949580": 1,
+     "305234": 2,
+     "3991082": 3,
+     "13978": 4,
+     "1325491": 5,
+     "136653": 6,
+     "2429776": 7,
+     "1273065": 8,
+     "4722308": 9,
+     "3219276": 10,
+     "393940": 11,
+     "2671682": 12,
+     "1902223": 12,
+     "3949616": 12,
+     "573491": 15,
+     "2985014": 16,
+     "2557772": 17,
+     "3479732": 18,
+     "18991": 19,
+     "3234577": 20,
+     "5685525": 21,
+     "3323262": 22,
+     "1312692": 23,
+     "1541394": 24,
+     "780469": 25,
+     "1662734": 26,
+     "3214478": 27,
+     "107315": 27,
+     "2554077": 29,
+     "1305406": 30,
+     "6543092": 31,
+     "32831": 32,
+     "6034028": 32,
+     "42960": 34,
+     "263779": 34,
+     "710718": 36,
+     "698784": 36,
+     "5640988": 36,
+     "257074": 36,
+     "3566356": 40,
+     "4151180": 41,
+     "10821": 41,
+     "1425044": 43,
+     "13951": 43,
+     "4558790": 45,
+     "480904": 45,
+     "3560542": 45,
+     "249619": 48,
+     "119217": 49,
+     "3239284": 49,
+     "3654448": 51,
+     "48343": 52,
+     "248721": 53,
+     "2932096": 53,
+     "4540238": 53,
+     "1443362": 53,
+     "675013": 57,
+     "4134138": 58,
+     "57776": 58,
+     "4683090": 60,
+     "119259": 61,
+     "2119331": 61,
+     "4632544": 63,
+     "383029": 64,
+     "2569620": 64,
+     "2868149": 66,
+     "2922453": 66,
+     "3404613": 68,
+     "10615": 68,
+     "4592187": 70,
+     "1854010": 71,
+     "4372346": 71,
+     "26707": 73,
+     "3086063": 74,
+     "438967": 75,
+     "4314690": 76,
+     "1737924": 76,
+     "44532": 78,
+     "6830291": 79,
+     "4811914": 80,
+     "174952": 81,
+     "2680660": 82,
+     "686561": 83,
+     "11673": 84,
+     "3350036": 85,
+     "2424472": 85,
+     "2037953": 85,
+     "2723973": 85,
+     "699330": 89,
+     "907691": 90,
+     "3389995": 91,
+     "3298199": 91,
+     "5734029": 93,
+     "4905114": 94,
+     "5660348": 94,
+     "3794959": 94,
+     "8603432": 97,
+     "8779992": 97,
+     "4616626": 99,
+     "1967440": 100,
+     "1497357": 101,
+     "3942185": 102,
+     "1474501": 102,
+     "1183002": 104,
+     "358907": 105,
+     "4800825": 106,
+     "4439544": 107,
+     "4527650": 108,
+     "7613031": 109,
+     "6571548": 110,
+     "531033": 111,
+     "6598615": 111,
+     "9531391": 113
+    },
+    "totals": {
+     "5949580": 759,
+     "305234": 740,
+     "3991082": 736,
+     "13978": 734,
+     "1325491": 730,
+     "136653": 729,
+     "2429776": 724,
+     "1273065": 723,
+     "4722308": 722,
+     "3219276": 717,
+     "393940": 716,
+     "2671682": 715,
+     "1902223": 715,
+     "3949616": 715,
+     "573491": 714,
+     "2985014": 711,
+     "2557772": 709,
+     "3479732": 708,
+     "18991": 706,
+     "3234577": 704,
+     "5685525": 702,
+     "3323262": 700,
+     "1312692": 699,
+     "1541394": 698,
+     "780469": 697,
+     "1662734": 696,
+     "3214478": 695,
+     "107315": 695,
+     "2554077": 694,
+     "1305406": 692,
+     "6543092": 689,
+     "32831": 687,
+     "6034028": 687,
+     "42960": 686,
+     "263779": 686,
+     "710718": 685,
+     "698784": 685,
+     "5640988": 685,
+     "257074": 685,
+     "3566356": 684,
+     "4151180": 683,
+     "10821": 683,
+     "1425044": 682,
+     "13951": 682,
+     "4558790": 681,
+     "480904": 681,
+     "3560542": 681,
+     "249619": 680,
+     "119217": 679,
+     "3239284": 679,
+     "3654448": 678,
+     "48343": 677,
+     "248721": 673,
+     "2932096": 673,
+     "4540238": 673,
+     "1443362": 673,
+     "675013": 672,
+     "4134138": 670,
+     "57776": 670,
+     "4683090": 669,
+     "119259": 668,
+     "2119331": 668,
+     "4632544": 665,
+     "383029": 661,
+     "2569620": 661,
+     "2868149": 660,
+     "2922453": 660,
+     "3404613": 657,
+     "10615": 657,
+     "4592187": 655,
+     "1854010": 654,
+     "4372346": 654,
+     "26707": 653,
+     "3086063": 652,
+     "438967": 651,
+     "4314690": 650,
+     "1737924": 650,
+     "44532": 646,
+     "6830291": 644,
+     "4811914": 641,
+     "174952": 640,
+     "2680660": 639,
+     "686561": 638,
+     "11673": 637,
+     "3350036": 636,
+     "2424472": 636,
+     "2037953": 636,
+     "2723973": 636,
+     "699330": 635,
+     "907691": 632,
+     "3389995": 628,
+     "3298199": 628,
+     "5734029": 627,
+     "4905114": 625,
+     "5660348": 625,
+     "3794959": 625,
+     "8603432": 622,
+     "8779992": 622,
+     "4616626": 621,
+     "1967440": 617,
+     "1497357": 604,
+     "3942185": 595,
+     "1474501": 595,
+     "1183002": 593,
+     "358907": 591,
+     "4800825": 588,
+     "4439544": 583,
+     "4527650": 581,
+     "7613031": 577,
+     "6571548": 542,
+     "531033": 517,
+     "6598615": 517,
+     "9531391": 487
+    },
+    "ga": {
+     "526": [
+      1,
+      0
+     ],
+     "15": [
+      0,
+      1
+     ],
+     "26": [
+      0,
+      1
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "60": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "445": [
+      1,
+      0
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ],
+     "499": [
+      0,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-21T19:33:49Z",
+    "next": {
+     "ko": "2026-11-22T14:00:00Z",
+     "match": "HUL v BHA"
+    }
+   },
    {
     "headline": "Ødegaard's assist lands with 3 managers benching him",
     "text": "**Ødegaard** has assisted for **6 points** in NEWC v ARS, which is 2-2 at 81 minutes played. Tanmay, Rishab and Abhishek Yerra have him on the bench, while 9 managers started him. If Ødegaard adds more, those 3 benchers could be counting the cost.",
@@ -61708,396 +62107,6 @@
      "ko": "2026-11-22T14:00:00Z",
      "match": "HUL v BHA"
     }
-   },
-   {
-    "headline": "Rajat Arora holds 19-point lead as Neol chases",
-    "text": "Rajat Arora leads Neol by **19 points**, 759 to 740, with 3 players each still to play. Neol could close in if Vuskovic delivers while NEWC v ARS is in play, but **Barry** is the only one still to play for the leader.",
-    "you": {
-     "5949580": "The Evanilson you sold this week has scored **6 points** for BOU v NFO, a sale that now stings.",
-     "305234": "Rajat Arora is **19 points** above you, with 3 of your players still to play.",
-     "3991082": "You have passed Yash Bhatia, Akshat and Aryan Khamankar today, moving you into **3rd** place.",
-     "13978": "Sukrut has passed you today, leaving you **2 points** behind him.",
-     "1325491": "Sukrut passing you today leaves you **4 points** behind Yash Bhatia in 5th.",
-     "136653": "Sukrut, Yash Bhatia and Akshat have all passed you today, dropping you to 6th.",
-     "2429776": "You passed Biswadeep today, climbing back to 7th.",
-     "1273065": "You have passed Biswadeep today, leaving you **1 point** behind Kshiteesh in 8th.",
-     "4722308": "Kshiteesh and Prathap have both passed you today, leaving you **1 point** behind Prathap.",
-     "3219276": "You dropped to 11th today before climbing back to 10th, **5 points** behind Biswadeep.",
-     "393940": "You have passed Clawin, Utkarsh and Karan Singh today, moving you to 11th.",
-     "2671682": "Anurag passing you today leaves you **1 point** behind him, despite your win over Quseem.",
-     "3949616": "Anurag has passed you today, leaving you level on points with Clawin.",
-     "573491": "Your **44 points** on the Bench Boost have carried you past Karan Singh, Saeel and Quseem today.",
-     "1902223": "Anurag and Nihal have passed you today, leaving you **3 points** behind Nihal.",
-     "2985014": "Nihal has passed you today, leaving you level with Karan Singh on 711 points.",
-     "2557772": "Anurag, Clawin and Nihal have all passed you today, leaving you **2 points** behind Saeel.",
-     "3479732": "Your **40 points** on the Bench Boost have carried you past Kaushik, Mudit and Sid today.",
-     "18991": "You have passed Kaushik, Mudit and Sid today, with **Rudoni** on **10 points** from COV v CRY.",
-     "3234577": "Your captain Van Hecke has scored **6 points** against IPS, but Sahilk and Arshad have passed you.",
-     "5685525": "Nihal and Sahilk have passed you today, leaving you **2 points** behind Kaushik.",
-     "3323262": "You have passed Sahil and Hitesh today, but Nihal and Sahilk have both passed you.",
-     "1312692": "Arshad has passed you today, leaving you **1 point** behind Sid.",
-     "1541394": "You have passed Sahil, Sikander and Hitesh today without being passed.",
-     "780469": "Nihal, Sahilk and Arshad have passed you today, leaving you **1 point** behind Nanik.",
-     "1662734": "Nihal, Sahilk and Arshad went past you today, leaving you **1 point** behind Sahil.",
-     "3214478": "Nihal, Sahilk and Arshad have passed you today, leaving you **1 point** behind Sikander.",
-     "107315": "Tavernier's assist and **8 points** at BOU v NFO are working for you, though Nihal, Sahilk and Arshad have passed you.",
-     "2554077": "Nihal, Sahilk and Arshad have passed you today, with Isak, your captain, still to play.",
-     "1305406": "Sahilk, Arshad and Adrian have passed you today, leaving you **2 points** behind Soham.",
-     "6543092": "Your Haaland armband returned only 4 points, but you sit 31st, 3 points ahead of Tanmay with 3 players still to play.",
-     "6034028": "Your **Silva armband** is worth **16 points** after BOU v NFO, lifting you to 32nd on 687 total.",
-     "32831": "Your Haaland armband returned 4 points, and Aryan Apte remains just ahead of you on the day.",
-     "263779": "Aleston, you have passed Nishit and Shahaan today, but Aryan Apte has passed you.",
-     "710718": "Eli and Aryan Apte are ahead of you today, while you have passed Mayuresh.",
-     "5640988": "Aryan Apte is ahead of you on the day, and you have passed Manav and Nehal.",
-     "698784": "Eli and Aryan Apte have passed you today, and Ram sits 2 points below you.",
-     "3566356": "Aryan Apte is still ahead of you on the day, and you have passed Manav and Nehal.",
-     "10821": "Aryan Apte is still ahead of you today, and you have passed Manav and Nehal.",
-     "1425044": "Aryan Apte and Aleston are above you on the day, and Manzambi, benched by 3 of you, is on the pitch.",
-     "13951": "You have passed Nehal, Rahul and Mayuresh today, and no one has passed you yet.",
-     "480904": "Eli and Aryan Apte are still ahead of you on the day, with Mayuresh behind you.",
-     "4558790": "Aryan Apte and Jackey are ahead of you on the day, and you have passed Kashish and Amar.",
-     "3560542": "You have passed Mayuresh, Kabeerr and Kashish today, and no one has passed you on the day.",
-     "249619": "Nanik, Eli and Aryan Apte have passed you today, so the climb has stalled.",
-     "3239284": "Your Triple Captain on N.Jackson returned only 6 points, and Aryan Apte and Sagar passed you today.",
-     "4151180": "Aryan Apte, Sidharth and Aleston have all passed you today.",
-     "119217": "You have passed Hardik and Raj today, but Sandeepan has passed you.",
-     "48343": "Aryan Apte and Sagar have passed you today, with Sandeepan still ahead.",
-     "2932096": "You have passed Amar and Rishab today, but Sandeepan has passed you.",
-     "248721": "Sandeepan, Kunaal and Abhimanyu have passed you today.",
-     "675013": "Aryan Apte, Sidharth and Aleston have passed you today.",
-     "4134138": "Aryan Apte, Sundar and Jackey have passed you today.",
-     "4683090": "You have passed Akash today, but Aryan Apte and Sagar have passed you.",
-     "2119331": "Sandeepan and Kunaal have passed you today, so you need big hauls to climb.",
-     "119259": "The table shuffle has put you **60th** on 668 points, and you have passed Adit, Akash and Krishnaji today with 3 players still to play.",
-     "57776": "Adwait, you have passed Adit, Akash and Shahan today, and Rahil is only **2 points** ahead of you with 3 players still to play.",
-     "4632544": "Sajeet, Adwait is one place above you, with Adit one place below you and only 1 player still to play for you.",
-     "2569620": "Adit, the 4 points separating you from Sajeet above is your gap, with Sandeepan and Rahil having passed you today.",
-     "383029": "Vishva, Solanke's goal is your story: only you and Yash Gawai own him, and you have passed Akash, Shahan and Krishnaji today.",
-     "2922453": "Abhishek Yerra, you have passed Shahan, Krishnaji and Manu today, and Vishva is **1 place** above you with 3 players still to play.",
-     "2868149": "Akash, Aryan Apte, Ram and Sagar have all passed you today, and you sit level with Abhishek Yerra on 660 points.",
-     "10615": "Maanas, you have passed Shahan, Krishnaji and S.M. today, and Silva and Vuskovic are still to play for you.",
-     "4592187": "Udit, you have passed Shahan, Krishnaji and S.M. today, and you have 4 players still to play.",
-     "1854010": "Shahan, Adwait and Sajeet have passed you today, so you need to climb back past them with 4 players still to play.",
-     "26707": "Krishnaji, Sandeepan, Shrivar and Suraj have passed you today, and your 14 points leave you **71st** with 5 players still to play.",
-     "3404613": "Zishan, you have passed S.M. and Manu today, and you hold 71st on 653 points.",
-     "3086063": "S.M., Maanas and Udit have passed you today, and you sit 73rd on 652 points with 3 players still to play.",
-     "4314690": "Manu, Abhishek Yerra, Maanas and Udit passed you today, and you sit 74th with 4 players still to play.",
-     "1737924": "Rajat Bhalla, the N.Jackson captaincy paid only 2 points, and you remain 74th on 650 points.",
-     "4372346": "Shantanu, you have passed Avin and Karan P Nanda today, and you are level with Rajat Bhalla on 650 points.",
-     "438967": "Avin, Shantanu passed you today, and you sit 77th on 647 points with 2 players still to play.",
-     "44532": "Ketan, you have passed Karan P Nanda, Mohit and Apoorvo today, and your 37 points carried you up to 78th.",
-     "6830291": "Karan P Nanda, Shantanu and Ketan have passed you today, and Belloumi is still to play only for you.",
-     "4811914": "Aniket, you have passed Mohit, Apoorvo and Avinash today, and you sit 80th with 3 players still to play.",
-     "174952": "Abhishek Thard, you have passed Mohit, Apoorvo and Avinash today, and you have 2 players still to play.",
-     "2680660": "Mohit, Ketan, Aniket and Abhishek Thard have passed you today, and you sit 82nd with 3 players still to play.",
-     "686561": "Pranav, your 37 points have pushed you up to 83rd, and Szoboszlai is still to play only for you.",
-     "11673": "Yash Gawai, Pranav has passed you today, and your Barcola captaincy is still to play.",
-     "2424472": "Apoorvo, Ketan, Aniket and Abhishek Thard have passed you today, and Jacquet is still to play only for you.",
-     "2723973": "Arnav, you have passed Stephen and Anuj today, but Pranav passed you, and you sit 85th.",
-     "3350036": "Avinash, Ketan, Aniket and Abhishek Thard have passed you today, and you sit 85th with 3 players still to play.",
-     "699330": "Pratik, you have passed Stephen and Anuj today, but Pranav passed you, and you sit 88th.",
-     "907691": "Aditya, your 38 points have lifted you to 89th, and you have passed Abu, Stephen and Vivek today.",
-     "2037953": "Umang, Pranav has passed you today, and you sit 89th on 632 points with 1 player still to play.",
-     "3389995": "Your **Rogers** armband has already produced **10 points** from 91st, with 5 players still to play to push you higher.",
-     "5734029": "You passed Anuj today, but Aditya and Abu have passed you, and Haaland's 2 points leave you 93rd.",
-     "4905114": "Pranav, Arnav and Pratik have passed you today, and you're 94th with 4 players still to play.",
-     "3794959": "Your **35 points** from 94th is a strong day, with Egan the only pick you still have to play.",
-     "5660348": "You passed M and Swapnil today, but Aditya passed you, and Groß is still to play for your 29 points.",
-     "4616626": "Your **35 points** from 98th lifted you past M, Swapnil and Monty today.",
-     "8603432": "Aditya, Abu and Chander have passed you today, and you're 99th with 5 players still to play.",
-     "1967440": "Aditya, Abu and Chander have passed you today, and you're 100th with 4 players still to play.",
-     "1497357": "Kartik and Sanket Khandekar passed you today, and you're 101st with 5 players still to play.",
-     "1474501": "You dropped to 103rd today before climbing back to 102nd, with 5 players still to play.",
-     "3942185": "You've passed Varun, Vinil and Neil today, and your **35 points** have you 102nd.",
-     "1183002": "Sanket Nahata passed you today, but your **27 points** have lifted you from 104th.",
-     "358907": "Sanket Nahata and Varun have passed you today, and you're 105th with 5 players still to play.",
-     "4800825": "You've passed Neil and Krishna today, and your **29 points** have you 106th.",
-     "4439544": "Sanket Nahata, Varun and Vinil have passed you today, and you're 107th with 5 players still to play.",
-     "4527650": "Sourabh has passed you today, and Dunk is the only pick you still have to play from 108th.",
-     "6598615": "João Pedro didn't play, so autosubs are coming for 3 of you, and A.Becker could move you up from 111th.",
-     "9531391": "João Pedro didn't play, so autosubs are coming for 3 of you, and Boscagli or Maguire could help you climb from 113th."
-    },
-    "ts": "2026-11-21T17:36:08Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:i:0-0|110:f:2-0",
-    "ranks": {
-     "5949580": 1,
-     "305234": 2,
-     "3991082": 3,
-     "13978": 4,
-     "1325491": 5,
-     "136653": 6,
-     "2429776": 7,
-     "1273065": 8,
-     "4722308": 9,
-     "3219276": 10,
-     "393940": 11,
-     "2671682": 12,
-     "3949616": 12,
-     "573491": 14,
-     "1902223": 15,
-     "2985014": 15,
-     "2557772": 17,
-     "3479732": 18,
-     "18991": 19,
-     "3234577": 20,
-     "5685525": 21,
-     "3323262": 22,
-     "1312692": 23,
-     "1541394": 24,
-     "780469": 25,
-     "1662734": 26,
-     "3214478": 27,
-     "107315": 27,
-     "2554077": 29,
-     "1305406": 30,
-     "6543092": 31,
-     "32831": 32,
-     "6034028": 32,
-     "42960": 34,
-     "263779": 34,
-     "710718": 36,
-     "5640988": 36,
-     "698784": 36,
-     "257074": 36,
-     "3566356": 40,
-     "10821": 41,
-     "1425044": 42,
-     "13951": 42,
-     "4558790": 44,
-     "480904": 44,
-     "3560542": 44,
-     "249619": 47,
-     "4151180": 48,
-     "119217": 48,
-     "3239284": 48,
-     "3654448": 51,
-     "48343": 52,
-     "248721": 53,
-     "2932096": 53,
-     "4540238": 53,
-     "1443362": 53,
-     "675013": 57,
-     "4134138": 58,
-     "4683090": 59,
-     "119259": 60,
-     "2119331": 60,
-     "57776": 62,
-     "4632544": 63,
-     "383029": 64,
-     "2569620": 64,
-     "2868149": 66,
-     "2922453": 66,
-     "10615": 68,
-     "4592187": 69,
-     "1854010": 70,
-     "3404613": 71,
-     "26707": 71,
-     "3086063": 73,
-     "4314690": 74,
-     "1737924": 74,
-     "4372346": 74,
-     "438967": 77,
-     "44532": 78,
-     "6830291": 79,
-     "4811914": 80,
-     "174952": 81,
-     "2680660": 82,
-     "686561": 83,
-     "11673": 84,
-     "3350036": 85,
-     "2424472": 85,
-     "2723973": 85,
-     "699330": 88,
-     "2037953": 89,
-     "907691": 89,
-     "3389995": 91,
-     "3298199": 91,
-     "5734029": 93,
-     "4905114": 94,
-     "5660348": 94,
-     "3794959": 94,
-     "8779992": 97,
-     "4616626": 98,
-     "8603432": 99,
-     "1967440": 100,
-     "1497357": 101,
-     "3942185": 102,
-     "1474501": 102,
-     "1183002": 104,
-     "358907": 105,
-     "4800825": 106,
-     "4439544": 107,
-     "4527650": 108,
-     "7613031": 109,
-     "6571548": 110,
-     "6598615": 111,
-     "531033": 112,
-     "9531391": 113
-    },
-    "totals": {
-     "5949580": 759,
-     "305234": 740,
-     "3991082": 736,
-     "13978": 734,
-     "1325491": 730,
-     "136653": 729,
-     "2429776": 724,
-     "1273065": 723,
-     "4722308": 722,
-     "3219276": 717,
-     "393940": 716,
-     "2671682": 715,
-     "3949616": 715,
-     "573491": 714,
-     "1902223": 711,
-     "2985014": 711,
-     "2557772": 709,
-     "3479732": 708,
-     "18991": 706,
-     "3234577": 704,
-     "5685525": 702,
-     "3323262": 700,
-     "1312692": 699,
-     "1541394": 698,
-     "780469": 697,
-     "1662734": 696,
-     "3214478": 695,
-     "107315": 695,
-     "2554077": 694,
-     "1305406": 692,
-     "6543092": 689,
-     "32831": 687,
-     "6034028": 687,
-     "42960": 686,
-     "263779": 686,
-     "710718": 685,
-     "5640988": 685,
-     "698784": 685,
-     "257074": 685,
-     "3566356": 684,
-     "10821": 683,
-     "1425044": 682,
-     "13951": 682,
-     "4558790": 681,
-     "480904": 681,
-     "3560542": 681,
-     "249619": 680,
-     "4151180": 679,
-     "119217": 679,
-     "3239284": 679,
-     "3654448": 678,
-     "48343": 677,
-     "248721": 673,
-     "2932096": 673,
-     "4540238": 673,
-     "1443362": 673,
-     "675013": 672,
-     "4134138": 670,
-     "4683090": 669,
-     "119259": 668,
-     "2119331": 668,
-     "57776": 666,
-     "4632544": 665,
-     "383029": 661,
-     "2569620": 661,
-     "2868149": 660,
-     "2922453": 660,
-     "10615": 657,
-     "4592187": 655,
-     "1854010": 654,
-     "3404613": 653,
-     "26707": 653,
-     "3086063": 652,
-     "4314690": 650,
-     "1737924": 650,
-     "4372346": 650,
-     "438967": 647,
-     "44532": 646,
-     "6830291": 644,
-     "4811914": 641,
-     "174952": 640,
-     "2680660": 639,
-     "686561": 638,
-     "11673": 637,
-     "3350036": 636,
-     "2424472": 636,
-     "2723973": 636,
-     "699330": 635,
-     "2037953": 632,
-     "907691": 632,
-     "3389995": 628,
-     "3298199": 628,
-     "5734029": 627,
-     "4905114": 625,
-     "5660348": 625,
-     "3794959": 625,
-     "8779992": 622,
-     "4616626": 621,
-     "8603432": 618,
-     "1967440": 617,
-     "1497357": 604,
-     "3942185": 595,
-     "1474501": 595,
-     "1183002": 593,
-     "358907": 591,
-     "4800825": 584,
-     "4439544": 583,
-     "4527650": 581,
-     "7613031": 577,
-     "6571548": 542,
-     "6598615": 517,
-     "531033": 511,
-     "9531391": 487
-    },
-    "ga": {
-     "526": [
-      1,
-      0
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "481": [
-      1,
-      0
-     ],
-     "499": [
-      0,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-21T17:36:08Z",
-    "next": {
-     "ko": "2026-11-22T14:00:00Z",
-     "match": "HUL v BHA"
-    }
    }
   ],
   "desk_day": {
@@ -62218,7 +62227,7 @@
     "9531391": 113
    }
   },
-  "desk_last_ok": "2026-11-21T19:09:53Z",
+  "desk_last_ok": "2026-11-21T19:33:49Z",
   "plots_v_tries": {
    "6": 2,
    "7": 1,
@@ -62296,54 +62305,18 @@
   ],
   "plots": [
    {
-    "id": "title",
-    "title": "Arora Stretches Clear",
-    "status": "Building",
-    "text": "Rajat Arora leads Neol 734 to 716, a gap of 18 after it grew from 16 last gameweek. Third-placed Aryan Khamankar sits 27 points off the top, and Arora has now led for 4 weeks running.",
-    "next": "If Arora's lead keeps growing, the chasing pack may need a major swing to catch up.",
-    "who": [
-     5949580,
-     305234
-    ],
-    "kind": "title race",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:19:11Z",
-    "question": "Can anyone stop Rajat Arora?",
-    "line": [
-     [
-      "GW7",
-      "Rajat"
-     ],
-     [
-      "GW8",
-      "Rajat"
-     ],
-     [
-      "GW9",
-      "Rajat"
-     ],
-     [
-      "GW10",
-      "Rajat"
-     ]
-    ],
-    "since": 10,
-    "streak": null
-   },
-   {
     "id": "underdog:4722308",
-    "title": "Biswadeep Keeps Rising",
-    "status": "Heating up",
-    "text": "Biswadeep has climbed from 85th in GW1 to 6th of 113 managers, a rise of 79 places. The move from 11th to 6th in the last week puts a top-5 finish within reach.",
-    "next": "If the climb continues, Biswadeep could break into the top 5 before the season ends.",
+    "title": "Biswadeep's Slide Begins",
+    "status": "Twist",
+    "text": "Biswadeep now sits 9th of 113, having started GW1 in 85th, a climb of 76 places. Last week's 6th-place finish has slipped, so the top-5 push has stalled for now.",
+    "next": "Biswadeep could rebound into the top 5 if the next few gameweeks go his way.",
     "who": [
      4722308
     ],
     "kind": "underdog",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:19:11Z",
+    "episode": 2,
+    "gw": 11,
+    "ts": "2026-11-21T19:33:49Z",
     "question": "How high can Biswadeep go?",
     "line": [
      [
@@ -62367,44 +62340,116 @@
       "11th"
      ],
      [
-      "GW10",
-      "6th"
+      "GW11",
+      "9th"
      ]
     ],
     "since": 10,
     "streak": null
    },
    {
-    "id": "gold",
-    "title": "Prathap Holds The Line",
-    "status": "Heating up",
-    "text": "Prathap is the last manager inside the top 9, with Cherag first out just 2 points behind. Cherag has spent 4 of the last 5 gameweeks in the zone, while Prathap has spent only one.",
-    "next": "Cherag could edge back into the top 9 and push Prathap out of the final place.",
+    "id": "title",
+    "title": "Arora's Lead Holds",
+    "status": "Building",
+    "text": "Rajat Arora leads Neol 759 to 740, a gap of 19 after growing from 18 last gameweek. He has now topped the table for 5 weeks in a row, with Sukrut 23 points back in third.",
+    "next": "If Arora's lead shrinks, Neol or Sukrut could make the top spot a real contest.",
     "who": [
-     1273065,
-     3219276
+     5949580,
+     305234
     ],
-    "kind": "zone line",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:19:11Z",
-    "question": "Who holds the last big-prize place?",
+    "kind": "title race",
+    "episode": 2,
+    "gw": 11,
+    "ts": "2026-11-21T19:33:49Z",
+    "question": "Can anyone stop Rajat Arora?",
     "line": [
      [
-      "GW7",
-      "Cherag +31"
-     ],
-     [
       "GW8",
-      "Cherag +35"
+      "Rajat"
      ],
      [
       "GW9",
-      "Cherag +27"
+      "Rajat"
      ],
      [
       "GW10",
-      "Prathap +2"
+      "Rajat"
+     ],
+     [
+      "GW11",
+      "Rajat"
+     ]
+    ],
+    "since": 10,
+    "streak": null
+   },
+   {
+    "id": "rivalry:780469-1541394",
+    "title": "Nanik Snatches Back Lead",
+    "status": "Twist",
+    "text": "Nanik now leads Sahil by just 1 point, after Sahil was 9 points ahead last gameweek. The 2 have swapped places 9 times this season.",
+    "next": "One result could flip this rivalry again, so Sahil has a chance to reply.",
+    "who": [
+     1541394,
+     780469
+    ],
+    "kind": "rivalry",
+    "episode": 1,
+    "gw": 11,
+    "ts": "2026-11-21T19:33:49Z",
+    "question": "Nanik v Sahil: who blinks first?",
+    "line": [
+     [
+      "GW8",
+      "Sahil +2"
+     ],
+     [
+      "GW9",
+      "Nanik +8"
+     ],
+     [
+      "GW10",
+      "Sahil +9"
+     ],
+     [
+      "GW11",
+      "Nanik +1"
+     ]
+    ],
+    "since": 11,
+    "streak": null
+   },
+   {
+    "id": "gold",
+    "title": "Biswadeep Takes The Last Spot",
+    "status": "Twist",
+    "text": "Biswadeep now holds the final big-prize place, 5 points ahead of Cherag. Cherag has spent 3 of the last 5 gameweeks in the zone, while Biswadeep has managed 2.",
+    "next": "Cherag could fight back for the 9th spot if results go their way.",
+    "who": [
+     4722308,
+     3219276
+    ],
+    "kind": "zone line",
+    "episode": 2,
+    "gw": 11,
+    "ts": "2026-11-21T19:33:49Z",
+    "question": "Who holds the last big-prize place?",
+    "line": [
+     [
+      "GW8",
+      "Cherag +33"
+     ],
+     [
+      "GW9",
+      "Cherag +21"
+     ],
+     [
+      "GW10",
+      "Biswadeep +7"
+     ],
+     [
+      "GW11",
+      "Biswadeep +5"
      ]
     ],
     "since": 10,
@@ -62412,10 +62457,10 @@
    },
    {
     "id": "champions",
-    "title": "Cherag's Title Chance",
+    "title": "Cherag Leads The Champions",
     "status": "Building",
-    "text": "Cherag is the best-placed former champion, sitting 10th with 2 titles from 2018-19 and 2015-16. Kunaal has 4 titles but is 56th, while Zorawar and Bhavin are 36th and 33rd.",
-    "next": "Cherag could climb further and turn a top-10 place into a real push for the title.",
+    "text": "Cherag remains the best-placed former champion in 10th, with 2 titles. Kunaal, who has 4 titles, is 49th, while Zorawar sits 36th and Bhavin 34th.",
+    "next": "Cherag could push further up the table, but the other former champions have a long way to climb.",
     "who": [
      119217,
      3219276,
@@ -62423,15 +62468,11 @@
      42960
     ],
     "kind": "former champions",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:19:11Z",
+    "episode": 2,
+    "gw": 11,
+    "ts": "2026-11-21T19:33:49Z",
     "question": "Can a former champion win it again?",
     "line": [
-     [
-      "GW6",
-      "3rd"
-     ],
      [
       "GW7",
       "5th"
@@ -62447,6 +62488,10 @@
      [
       "GW10",
       "10th"
+     ],
+     [
+      "GW11",
+      "10th"
      ]
     ],
     "since": 10,
@@ -62454,17 +62499,17 @@
    },
    {
     "id": "slump:10615",
-    "title": "Maanas Searches For Form",
+    "title": "Maanas Starts To Recover",
     "status": "Building",
-    "text": "Maanas has been below the league average for 6 weeks in a row. After a low of 42 in GW8, points rose to 52 and then 55 in GW10.",
-    "next": "Another strong week could start a recovery, but another dip would deepen the slump.",
+    "text": "Maanas has been below the league average for 6 weeks in a row. Points have recovered from a low of 42 in GW8 to 55 in GW10, but the slump continues.",
+    "next": "A score above the league average could be the first real sign that the slump is ending.",
     "who": [
      10615
     ],
     "kind": "slump",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:19:11Z",
+    "episode": 2,
+    "gw": 11,
+    "ts": "2026-11-21T19:33:49Z",
     "question": "Can Maanas snap out of it?",
     "line": [
      [
@@ -62490,48 +62535,12 @@
     ],
     "since": 10,
     "streak": 6
-   },
-   {
-    "id": "rivalry:107315-780469",
-    "title": "Sahej And Sahil Level",
-    "status": "Twist",
-    "text": "Sahej and Sahil are level on points in GW10, after Sahej led by 17 a week earlier. They have swapped places 6 times this season, so the rivalry remains wide open.",
-    "next": "Whoever makes the next move could take control of this rivalry.",
-    "who": [
-     107315,
-     780469
-    ],
-    "kind": "rivalry",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:19:11Z",
-    "question": "Sahej v Sahil: who blinks first?",
-    "line": [
-     [
-      "GW7",
-      "Sahej +2"
-     ],
-     [
-      "GW8",
-      "level"
-     ],
-     [
-      "GW9",
-      "Sahej +17"
-     ],
-     [
-      "GW10",
-      "level"
-     ]
-    ],
-    "since": 10,
-    "streak": null
    }
   ],
-  "plots_ts": "2026-11-21T11:19:11Z",
-  "plots_key": "10:between",
+  "plots_ts": "2026-11-21T19:33:49Z",
+  "plots_key": "11:live",
   "plots_v": 8,
-  "plots_sig": "da2e1f1d1a60",
+  "plots_sig": "c6df63331ce5",
   "gaffer_draft": {
    "gw": 10,
    "v": 3,
@@ -66356,14 +66365,13 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T19:22:16Z",
-  "issues": [
-   "desk written from older totals (9 managers changed since)"
-  ],
+  "ts": "2026-11-21T19:33:49Z",
+  "issues": [],
   "page": [],
   "wording": [
-   "wording (1 points): ...e has can't move anyone.    Konsa ARS   1 pts so far...",
-   "wording (1 points): ...y gained much from him.      Raya ARS   1 pts so far..."
+   "wording (1 points): ...u start him   0    Autosub:  Emersonn  (1 pts) comes in...",
+   "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        63...",
+   "wording (1 points): ...d much from him.      Raya ARS   Scored 1 pts        44..."
   ]
  },
  "phase": "live",
@@ -66375,6 +66383,13 @@
     "title": "Arora Stretches Clear",
     "text": "Rajat Arora leads Neol 734 to 716, a gap of 18 after it grew from 16 last gameweek. Third-placed Aryan Khamankar sits 27 points off the top, and Arora has now led for 4 weeks running.",
     "next": "If Arora's lead keeps growing, the chasing pack may need a major swing to catch up."
+   },
+   {
+    "gw": 11,
+    "day": "2026-11-21",
+    "title": "Arora's Lead Holds",
+    "text": "Rajat Arora leads Neol 759 to 740, a gap of 19 after growing from 18 last gameweek. He has now topped the table for 5 weeks in a row, with Sukrut 23 points back in third.",
+    "next": "If Arora's lead shrinks, Neol or Sukrut could make the top spot a real contest."
    }
   ],
   "underdog:4722308": [
@@ -66384,6 +66399,13 @@
     "title": "Biswadeep Keeps Rising",
     "text": "Biswadeep has climbed from 85th in GW1 to 6th of 113 managers, a rise of 79 places. The move from 11th to 6th in the last week puts a top-5 finish within reach.",
     "next": "If the climb continues, Biswadeep could break into the top 5 before the season ends."
+   },
+   {
+    "gw": 11,
+    "day": "2026-11-21",
+    "title": "Biswadeep's Slide Begins",
+    "text": "Biswadeep now sits 9th of 113, having started GW1 in 85th, a climb of 76 places. Last week's 6th-place finish has slipped, so the top-5 push has stalled for now.",
+    "next": "Biswadeep could rebound into the top 5 if the next few gameweeks go his way."
    }
   ],
   "chase:18991": [
@@ -66401,6 +66423,13 @@
     "title": "Prathap Holds The Line",
     "text": "Prathap is the last manager inside the top 9, with Cherag first out just 2 points behind. Cherag has spent 4 of the last 5 gameweeks in the zone, while Prathap has spent only one.",
     "next": "Cherag could edge back into the top 9 and push Prathap out of the final place."
+   },
+   {
+    "gw": 11,
+    "day": "2026-11-21",
+    "title": "Biswadeep Takes The Last Spot",
+    "text": "Biswadeep now holds the final big-prize place, 5 points ahead of Cherag. Cherag has spent 3 of the last 5 gameweeks in the zone, while Biswadeep has managed 2.",
+    "next": "Cherag could fight back for the 9th spot if results go their way."
    }
   ],
   "champions": [
@@ -66410,6 +66439,13 @@
     "title": "Cherag's Title Chance",
     "text": "Cherag is the best-placed former champion, sitting 10th with 2 titles from 2018-19 and 2015-16. Kunaal has 4 titles but is 56th, while Zorawar and Bhavin are 36th and 33rd.",
     "next": "Cherag could climb further and turn a top-10 place into a real push for the title."
+   },
+   {
+    "gw": 11,
+    "day": "2026-11-21",
+    "title": "Cherag Leads The Champions",
+    "text": "Cherag remains the best-placed former champion in 10th, with 2 titles. Kunaal, who has 4 titles, is 49th, while Zorawar sits 36th and Bhavin 34th.",
+    "next": "Cherag could push further up the table, but the other former champions have a long way to climb."
    }
   ],
   "chase:3991082": [
@@ -66428,6 +66464,13 @@
     "title": "Maanas Searches For Form",
     "text": "Maanas has been below the league average for 6 weeks in a row. After a low of 42 in GW8, points rose to 52 and then 55 in GW10.",
     "next": "Another strong week could start a recovery, but another dip would deepen the slump."
+   },
+   {
+    "gw": 11,
+    "day": "2026-11-21",
+    "title": "Maanas Starts To Recover",
+    "text": "Maanas has been below the league average for 6 weeks in a row. Points have recovered from a low of 42 in GW8 to 55 in GW10, but the slump continues.",
+    "next": "A score above the league average could be the first real sign that the slump is ending."
    }
   ],
   "rivalry:107315-780469": [
@@ -66437,6 +66480,15 @@
     "title": "Sahej And Sahil Level",
     "text": "Sahej and Sahil are level on points in GW10, after Sahej led by 17 a week earlier. They have swapped places 6 times this season, so the rivalry remains wide open.",
     "next": "Whoever makes the next move could take control of this rivalry."
+   }
+  ],
+  "rivalry:780469-1541394": [
+   {
+    "gw": 11,
+    "day": "2026-11-21",
+    "title": "Nanik Snatches Back Lead",
+    "text": "Nanik now leads Sahil by just 1 point, after Sahil was 9 points ahead last gameweek. The 2 have swapped places 9 times this season.",
+    "next": "One result could flip this rivalry again, so Sahil has a chance to reply."
    }
   ]
  },
@@ -66464,7 +66516,7 @@
    "623": "a|None|",
    "53": "a|100|",
    "346": "a|100|",
-   "449": "a|None|",
+   "449": "d|75|Unspecified injury - 75% chance of playing",
    "428": "a|None|",
    "379": "a|100|",
    "497": "a|None|",
@@ -66611,7 +66663,8 @@
    "455": "2026-11-21T16:34:59Z",
    "305": "2026-11-21T17:13:42Z",
    "501": "2026-11-21T17:13:42Z",
-   "1": "2026-11-21T19:09:53Z"
+   "1": "2026-11-21T19:09:53Z",
+   "449": "2026-11-21T19:33:49Z"
   },
   "price": {
    "1": 6.3,
@@ -67399,6 +67452,14 @@
     "el": 391,
     "kind": "surge",
     "net": -25647
+   },
+   {
+    "ts": "2026-11-21T19:33:49Z",
+    "el": 449,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Unspecified injury - 75% chance of playing"
    }
   ]
  },
@@ -67511,9 +67572,9 @@
     "label": "Swing player",
     "branch": "haul",
     "status": {
-     "state": "playing",
-     "label": "Playing · 1",
-     "pts": 1
+     "state": "blank",
+     "pts": 1,
+     "label": "Blanked · 1"
     }
    },
    {
@@ -67573,9 +67634,9 @@
     "label": "Swing player",
     "branch": "haul",
     "status": {
-     "state": "playing",
-     "label": "Playing · 1",
-     "pts": 1
+     "state": "blank",
+     "pts": 1,
+     "label": "Blanked · 1"
     }
    },
    {
@@ -67796,9 +67857,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -67845,9 +67906,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -67901,9 +67962,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -67989,9 +68050,9 @@
       "player": "Vuskovic"
      },
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Hall"
      }
     ]
@@ -68151,9 +68212,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -68384,9 +68445,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 7",
-      "pts": 7,
+      "state": "neither",
+      "pts": 5,
+      "label": "Quiet · 5",
       "player": "Ødegaard"
      },
      {
@@ -68467,9 +68528,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -68579,9 +68640,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -68607,9 +68668,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -69274,9 +69335,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -69309,9 +69370,9 @@
       "player": "Kinsky"
      },
      {
-      "state": "playing",
-      "label": "Playing · 7",
-      "pts": 7,
+      "state": "neither",
+      "pts": 5,
+      "label": "Quiet · 5",
       "player": "Ødegaard"
      }
     ]
@@ -69334,9 +69395,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -69445,9 +69506,9 @@
       "player": "Isak"
      },
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Rice"
      }
     ]
@@ -69550,9 +69611,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 7",
-      "pts": 7,
+      "state": "neither",
+      "pts": 5,
+      "label": "Quiet · 5",
       "player": "Ødegaard"
      },
      {
@@ -69608,9 +69669,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -69693,9 +69754,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 7",
-      "pts": 7,
+      "state": "neither",
+      "pts": 5,
+      "label": "Quiet · 5",
       "player": "Ødegaard"
      },
      {
@@ -70049,9 +70110,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 7",
-      "pts": 7,
+      "state": "neither",
+      "pts": 5,
+      "label": "Quiet · 5",
       "player": "Ødegaard"
      },
      {
@@ -70107,9 +70168,9 @@
     "text": "Aryan Khamankar's dream week: if Konsa and Isak both haul, Aryan Khamankar could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      },
      {
@@ -70150,9 +70211,9 @@
     "text": "Yash Bhatia's dream week: if Konsa and their captain Haaland both haul, Yash Bhatia could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      },
      {
@@ -70227,9 +70288,9 @@
     "text": "Prathap's dream week: if Konsa hauls, Prathap could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -70291,15 +70352,15 @@
     "text": "Clawin's dream week: if Konsa and Calafiori both haul, Clawin could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      },
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Calafiori"
      }
     ]
@@ -70332,9 +70393,9 @@
     "text": "Anurag's dream week: if Gabriel hauls, Anurag could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      }
     ]
@@ -70427,9 +70488,9 @@
     "text": "Sahil's dream week: if Konsa hauls, Sahil could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -70487,9 +70548,9 @@
     "text": "Sikander's dream week: if Konsa hauls, Sikander could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -70601,9 +70662,9 @@
     "text": "Bhavin's dream week: if Raya hauls, Bhavin could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Raya"
      }
     ]
@@ -70680,9 +70741,9 @@
       "player": "Van Hecke"
      },
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Raya"
      }
     ]
@@ -70698,9 +70759,9 @@
     "text": "Kashish's dream week: if Konsa hauls, Kashish could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -70769,9 +70830,9 @@
     "text": "Sidharth's dream week: if Gabriel hauls, Sidharth could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      }
     ]
@@ -70814,9 +70875,9 @@
     "text": "Akash's dream week: if Konsa and Verbruggen both haul, Akash could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      },
      {
@@ -70855,9 +70916,9 @@
     "text": "Sundar's dream week: if Konsa hauls, Sundar could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -70891,9 +70952,9 @@
     "text": "SHARAN's dream week: if Gabriel hauls, SHARAN could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      }
     ]
@@ -70909,9 +70970,9 @@
     "text": "Raj's dream week: if Konsa hauls, Raj could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -70962,9 +71023,9 @@
     "text": "Abhimanyu's dream week: if Konsa hauls, Abhimanyu could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -71060,9 +71121,9 @@
     "text": "Krishnaji's dream week: if Konsa and Barry both haul, Krishnaji could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      },
      {
@@ -71172,9 +71233,9 @@
     "text": "Shahan's dream week: if Konsa and Tzolakis both haul, Shahan could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      },
      {
@@ -71256,9 +71317,9 @@
     "text": "Sajeet's dream week: if Konsa hauls, Sajeet could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -71388,9 +71449,9 @@
     "text": "Karan P Nanda's dream week: if Gabriel hauls, Karan P Nanda could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      }
     ]
@@ -71406,9 +71467,9 @@
     "text": "Shantanu's dream week: if Konsa hauls, Shantanu could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -71424,9 +71485,9 @@
     "text": "Apoorvo's dream week: if Gabriel hauls, Apoorvo could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      }
     ]
@@ -71511,9 +71572,9 @@
     "text": "Abhishek Thard's dream week: if Konsa hauls, Abhishek Thard could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -71625,9 +71686,9 @@
     "text": "Umang's dream week: if Konsa hauls, Umang could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -71714,9 +71775,9 @@
     "text": "Aditya's dream week: if Konsa hauls, Aditya could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]
@@ -71776,9 +71837,9 @@
     "text": "Sanket Khandekar's dream week: if Konsa and Evanilson both haul, Sanket Khandekar could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      },
      {
@@ -71817,9 +71878,9 @@
     "text": "Vinil's dream week: if Konsa hauls, Vinil could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      }
     ]

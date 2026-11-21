@@ -2552,8 +2552,8 @@
     "entry_name": "Magic Mikel",
     "rank": 13,
     "last_rank": 13,
-    "total": 671,
-    "event_total": 24
+    "total": 669,
+    "event_total": 22
    },
    {
     "entry": 3506595,
@@ -2565,22 +2565,22 @@
     "event_total": 31
    },
    {
-    "entry": 5682768,
-    "player_name": "Vanessa Jethwani",
-    "entry_name": "super squad",
-    "rank": 15,
-    "last_rank": 15,
-    "total": 665,
-    "event_total": 31
-   },
-   {
     "entry": 6892917,
     "player_name": "Poonam Mahtani",
     "entry_name": "Fifteen Fighters",
-    "rank": 16,
+    "rank": 15,
     "last_rank": 14,
     "total": 663,
     "event_total": 27
+   },
+   {
+    "entry": 5682768,
+    "player_name": "Vanessa Jethwani",
+    "entry_name": "super squad",
+    "rank": 16,
+    "last_rank": 15,
+    "total": 663,
+    "event_total": 29
    },
    {
     "entry": 4922092,
@@ -2640,10 +2640,10 @@
     "entry": 3314780,
     "player_name": "Ravi Bhojwani",
     "entry_name": "Five Star XI",
-    "rank": 22,
+    "rank": 23,
     "last_rank": 24,
-    "total": 638,
-    "event_total": 38
+    "total": 636,
+    "event_total": 36
    },
    {
     "entry": 6159011,
@@ -9235,7 +9235,7 @@
    "15": [
     0,
     1,
-    7,
+    5,
     0,
     0,
     90,
@@ -9983,7 +9983,7 @@
    "453": [
     1,
     0,
-    6,
+    7,
     0,
     0,
     90,
@@ -10210,15 +10210,15 @@
    "5474293": 12,
    "75778": 13,
    "3506595": 14,
-   "5682768": 14,
-   "6892917": 16,
+   "6892917": 15,
+   "5682768": 15,
    "4922092": 17,
    "2934546": 18,
    "2465483": 19,
    "6279027": 20,
    "865376": 21,
    "7043406": 22,
-   "3314780": 22,
+   "3314780": 23,
    "6159011": 24,
    "6051923": 25,
    "6476662": 26
@@ -10238,8 +10238,8 @@
    "5474293": null,
    "75778": null,
    "3506595": null,
-   "5682768": null,
    "6892917": null,
+   "5682768": null,
    "4922092": null,
    "2934546": null,
    "2465483": null,
@@ -10252,7 +10252,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T19:22:29Z",
+ "updated": "2026-11-21T19:35:20Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10295,16 +10295,159 @@
     "plots": 11
    },
    "11": {
-    "in": 761002,
-    "out": 141008,
-    "calls": 58,
+    "in": 794742,
+    "out": 153689,
+    "calls": 62,
     "refreshes": 11,
-    "desks": 18,
-    "desk_in": 393811,
-    "desk_out": 114455
+    "desks": 19,
+    "desk_in": 422954,
+    "desk_out": 124421,
+    "plots": 1
    }
   },
   "desks": [
+   {
+    "headline": "Matt clings to top spot as Barcola looms for Nikhil",
+    "text": "Matt holds top spot by **1 point** over Nikhil after both banked **4 points** from Haaland's armband. Matt still has 5 players to play against Nikhil's 3, but **Barcola** is Nikhil's alone, so he could decide the title race if he scores.",
+    "you": {
+     "3029346": "Having passed Nikhil today, you sit **1 point** clear at the top with 5 players still to play.",
+     "2321301": "Matt passed you today, leaving you **1 point** behind at the top with Barcola yours alone to come.",
+     "735721": "Nikhil is 20 points above you, with the leader 21 points ahead of you.",
+     "1921902": "Your captain N.Jackson returned 4 points with the armband, but only 3 managers own him.",
+     "2687116": "Your bench call on Ødegaard backfired, since he returned 5 points with an assist.",
+     "3344797": "Chandru is 10 points above you, but 3 of your players are still to play.",
+     "1655993": "Passing Prem today lifts you to 7th, with 7 Bench Boost players still to play.",
+     "1036311": "Passing Prem today, you sit 1 point behind Sunny on your Bench Boost with 4 players to come.",
+     "4487775": "Passed by Sunny and Amit today, you still have 3 players to come.",
+     "3350483": "Sunil is 1 point behind you, with Vuskovic yours alone still to play.",
+     "3072827": "Aashiv passed you today, with Gvardiol's 1 point sitting on your bench.",
+     "5474293": "Lewis-Potter is yours alone still to play, with Marcel 7 points below you.",
+     "75778": "You dipped to 14th today before climbing back to 13th, with Calvert-Lewin's 9 points wasted on your bench.",
+     "3506595": "Passing Poonam today, you sit 2 points ahead of him with 2 players still to play.",
+     "6892917": "Hishaan passed you today, leaving A.Becker yours alone to come.",
+     "5682768": "You dipped to 16th today before recovering to 15th, with 4 players still to play.",
+     "4922092": "Benching Calafiori has backfired, with Araujo yours alone still to play.",
+     "2934546": "Madueke scored after you sold him this week, a costly sale.",
+     "2465483": "Branthwaite is yours alone still to play, so he could lift you back up.",
+     "6279027": "2 managers benched Manzambi, who now has 1 point on the pitch.",
+     "865376": "Only you captained Palmer, whose armband returned 4 points.",
+     "7043406": "Passing Vinesh today, you sit 2 points ahead of Ravi Bhojwani in the Tin Pot spots.",
+     "3314780": "Passing Vinesh today leaves you 2 points behind Rajiv, with Pickford yours alone to come.",
+     "6159011": "Your N.Jackson armband returned 4 points, but Rajiv has passed you today.",
+     "6051923": "Vinesh is 23 points above you, while Bella sits 11 points below."
+    },
+    "ts": "2026-11-21T19:35:20Z",
+    "gw": 11,
+    "moment": "day_over",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "3029346": 1,
+     "2321301": 2,
+     "735721": 3,
+     "1921902": 4,
+     "2687116": 5,
+     "3344797": 6,
+     "1655993": 7,
+     "1036311": 8,
+     "4487775": 9,
+     "3350483": 10,
+     "3072827": 11,
+     "5474293": 12,
+     "75778": 13,
+     "3506595": 14,
+     "6892917": 15,
+     "5682768": 15,
+     "4922092": 17,
+     "2934546": 18,
+     "2465483": 19,
+     "6279027": 20,
+     "865376": 21,
+     "7043406": 22,
+     "3314780": 23,
+     "6159011": 24,
+     "6051923": 25,
+     "6476662": 26
+    },
+    "totals": {
+     "3029346": 748,
+     "2321301": 747,
+     "735721": 727,
+     "1921902": 724,
+     "2687116": 721,
+     "3344797": 711,
+     "1655993": 699,
+     "1036311": 698,
+     "4487775": 684,
+     "3350483": 680,
+     "3072827": 679,
+     "5474293": 676,
+     "75778": 669,
+     "3506595": 665,
+     "6892917": 663,
+     "5682768": 663,
+     "4922092": 656,
+     "2934546": 654,
+     "2465483": 651,
+     "6279027": 646,
+     "865376": 642,
+     "7043406": 638,
+     "3314780": 636,
+     "6159011": 635,
+     "6051923": 612,
+     "6476662": 601
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "16": [
+      1,
+      0
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "60": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ]
+    },
+    "you_full_ts": "2026-11-21T19:35:20Z",
+    "next": {
+     "ko": "2026-11-22T14:00:00Z",
+     "match": "HUL v BHA"
+    }
+   },
    {
     "headline": "Naresh's sold Madueke scores 8 points as Naresh watches",
     "text": "Naresh sold Madueke this week, and the winger has just scored **8 points** that Naresh now watches from the sidelines. At the top, Matt still has **5 players** to play against Nikhil's 3, and **Barcola** is Nikhil's alone, so he could decide the title race if he scores.",
@@ -10847,137 +10990,6 @@
      "ko": "2026-11-22T14:00:00Z",
      "match": "HUL v BHA"
     }
-   },
-   {
-    "headline": "N.Jackson blanks: 3 armbands wasted in the Gold fight",
-    "text": "N.Jackson blanked in AVL v SUN, leaving **3 armbands wasted** for Ravin, Rajiv and Vinesh, who all captained him. Ravin is **2 points** ahead of Chandru for the last Gold spot, and both still have 6 players to play. NEWC v ARS could settle it.",
-    "you": {
-     "3029346": "You have passed Nikhil today. Your lead over him at the top is 3 points.",
-     "2321301": "Matt passed you today, so he now sits 3 points above you at the top.",
-     "735721": "Nikhil sits 20 points above you, so the top is out of reach for now.",
-     "1921902": "Your captain N.Jackson blanked, leaving you 2 points ahead of Chandru for the last Gold spot.",
-     "2687116": "Your bench call on Bogle has backfired, as he has now assisted.",
-     "3344797": "Chandru sits 9 points above you, with 4 of your players still to play.",
-     "1036311": "You have passed Prem today. Sunny is level with you on 696 points.",
-     "1655993": "You have passed Prem today. Amit is level with you on 696 points, with 10 of your players still to play.",
-     "4487775": "Amit and Sunny have both passed you today. Sunny sits 15 points above you.",
-     "3350483": "You have passed Sunil today. Vuskovic is yours alone still to play.",
-     "3072827": "Aashiv passed you today. Your bench call on Gvardiol has already cost you.",
-     "5474293": "Lewis-Potter is yours alone still to play, a chance to climb past Aashiv.",
-     "3506595": "You have passed Marcel and Poonam today. You dropped to 16th before climbing to 15th.",
-     "75778": "Hishaan passed you today. Calvert-Lewin's 9 points landed on your bench, too.",
-     "6892917": "Hishaan passed you today. A.Becker is yours alone still to play.",
-     "5682768": "You were as high as 14th today. Now you sit 16th after Bogle's assist followed your bench call.",
-     "4922092": "You sold Tavernier this week. He has now set one up, which stings.",
-     "2934546": "You benched Tavernier. He has now set one up.",
-     "2465483": "You were as high as 18th today. Now you sit 19th, with Branthwaite yours alone still to play.",
-     "6279027": "You dropped as low as 21st today, now back up to 20th.",
-     "865376": "Your Palmer armband flopped. He scored 2 points, 4 with the armband.",
-     "7043406": "N.Jackson blanked for you, so your armband gave only 4 points.",
-     "3314780": "You were as high as 23rd today, now 24th. Pickford and Gakpo are yours alone still to play.",
-     "6051923": "Ravi Bhojwani sits 20 points above you in the Tin Pot spots.",
-     "6476662": "Your Triple Captain on Haaland banked 6 points. Anderson is yours alone, and he has just scored."
-    },
-    "ts": "2026-11-21T17:01:38Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:f:2-0",
-    "ranks": {
-     "3029346": 1,
-     "2321301": 2,
-     "735721": 3,
-     "1921902": 4,
-     "2687116": 5,
-     "3344797": 6,
-     "1655993": 7,
-     "1036311": 7,
-     "4487775": 9,
-     "3350483": 10,
-     "3072827": 11,
-     "5474293": 12,
-     "3506595": 13,
-     "6892917": 14,
-     "75778": 14,
-     "5682768": 16,
-     "4922092": 17,
-     "2934546": 18,
-     "2465483": 19,
-     "6279027": 20,
-     "865376": 21,
-     "7043406": 22,
-     "6159011": 23,
-     "3314780": 24,
-     "6051923": 25,
-     "6476662": 26
-    },
-    "totals": {
-     "3029346": 747,
-     "2321301": 744,
-     "735721": 724,
-     "1921902": 721,
-     "2687116": 719,
-     "3344797": 710,
-     "1655993": 696,
-     "1036311": 696,
-     "4487775": 681,
-     "3350483": 678,
-     "3072827": 677,
-     "5474293": 673,
-     "3506595": 663,
-     "6892917": 662,
-     "75778": 662,
-     "5682768": 658,
-     "4922092": 656,
-     "2934546": 653,
-     "2465483": 649,
-     "6279027": 645,
-     "865376": 639,
-     "7043406": 635,
-     "6159011": 632,
-     "3314780": 631,
-     "6051923": 611,
-     "6476662": 599
-    },
-    "ga": {
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "481": [
-      1,
-      0
-     ]
-    },
-    "you_full_ts": "2026-11-21T17:01:38Z",
-    "next": {
-     "ko": "2026-11-21T17:30:00Z",
-     "match": "NEWC v ARS"
-    },
-    "buildup_for": 109
    }
   ],
   "desk_day": {
@@ -11011,28 +11023,24 @@
     "6476662": 26
    }
   },
-  "desk_last_ok": "2026-11-21T19:10:53Z",
+  "desk_last_ok": "2026-11-21T19:35:20Z",
   "plots": [
    {
     "id": "title",
-    "title": "One Point Separates Them",
-    "status": "Heating up",
-    "text": "Nikhil's lead collapsed from 24 to 1 this week, leaving Matt just one point behind on 722 to Nikhil's 723. Deepak sits 15 points off the top, and the crown has changed hands 3 times this season.",
-    "next": "If Matt completes the overtake, Nikhil could be chasing the crown back from a single point.",
+    "title": "Matt Snatches the Crown",
+    "status": "Twist",
+    "text": "Matt has flipped the table, moving 1 point ahead of Nikhil, 748 to 747, after trailing by 1 last week. Deepak sits 21 points off the lead, and the crown has changed hands 4 times this season.",
+    "next": "Nikhil could strike back next gameweek, with just 1 point separating the top 2.",
     "who": [
-     2321301,
-     3029346
+     3029346,
+     2321301
     ],
     "kind": "title race",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:22:28Z",
+    "episode": 2,
+    "gw": 11,
+    "ts": "2026-11-21T19:35:20Z",
     "question": "Who can hold the crown?",
     "line": [
-     [
-      "GW7",
-      "Ravin"
-     ],
      [
       "GW8",
       "Nikhil"
@@ -11044,6 +11052,10 @@
      [
       "GW10",
       "Nikhil"
+     ],
+     [
+      "GW11",
+      "Matt"
      ]
     ],
     "since": 10,
@@ -11051,24 +11063,20 @@
    },
    {
     "id": "rivalry:4922092-5682768",
-    "title": "Vanessa Edges Ahead",
-    "status": "Twist",
-    "text": "Vanessa has flipped the rivalry, moving 5 points clear of Ravi Mahtani after he led by 7 in GW9. The pair have swapped places 7 times this season, so neither has ever held a clear grip.",
-    "next": "Ravi Mahtani could reclaim the edge, or Vanessa could pull further away and end the back-and-forth.",
+    "title": "Vanessa Stretches Her Lead",
+    "status": "Building",
+    "text": "Vanessa has pushed her advantage over Ravi Mahtani out to 7 points, up from 5 last week. The pair have swapped places 7 times this season, so neither has held a firm grip for long.",
+    "next": "Can Ravi Mahtani respond, or will Vanessa's grip become harder to break?",
     "who": [
      5682768,
      4922092
     ],
     "kind": "rivalry",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:22:28Z",
+    "episode": 2,
+    "gw": 11,
+    "ts": "2026-11-21T19:35:20Z",
     "question": "Vanessa v Ravi Mahtani: who blinks first?",
     "line": [
-     [
-      "GW7",
-      "Vanessa +12"
-     ],
      [
       "GW8",
       "Ravi +4"
@@ -11080,6 +11088,10 @@
      [
       "GW10",
       "Vanessa +5"
+     ],
+     [
+      "GW11",
+      "Vanessa +7"
      ]
     ],
     "since": 10,
@@ -11089,15 +11101,15 @@
     "id": "slump:6051923",
     "title": "Alia's Long Struggle",
     "status": "Building",
-    "text": "Alia has now finished below the league average for 6 weeks in a row. Her 50 points this week is an improvement on 42 in GW9, but she is still stuck in the slump.",
-    "next": "If Alia builds on this week's 50, the 6-week run of underperformance could finally end.",
+    "text": "Alia's run of 6 straight weeks below the league average still stands, with 50 points in GW10 up from 42 in GW9. Her best score in this stretch was 60, in both GW6 and GW7.",
+    "next": "Could Alia score above the league average next week and finally break the run?",
     "who": [
      6051923
     ],
     "kind": "slump",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:22:28Z",
+    "episode": 2,
+    "gw": 11,
+    "ts": "2026-11-21T19:35:20Z",
     "question": "Can Alia snap out of it?",
     "line": [
      [
@@ -11125,64 +11137,44 @@
     "streak": 6
    },
    {
-    "id": "chase:4487775",
-    "title": "Prem Cuts Rohan's Lead",
-    "status": "Building",
-    "text": "Prem has closed Rohan's lead from 34 points in GW7 to just 5 in GW10. The gap has shrunk every week since the chase began.",
-    "next": "If Prem keeps this pace, Rohan could be caught before the season ends.",
-    "kept": true,
+    "id": "gold",
+    "title": "Ravin Takes the Last Gold",
+    "status": "Twist",
+    "text": "Ravin now holds the final Gold spot, with Chandru first out 3 points behind, after Matt held that seat last week. Ravin has spent 4 of the last 5 weeks in the zone, against 2 for Chandru.",
+    "next": "If Chandru finds form, the fight for the last Gold spot could tighten quickly.",
     "who": [
-     4487775,
-     3344797
+     1921902,
+     2687116
     ],
-    "kind": "chaser",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:22:28Z",
-    "question": "Can Prem catch Rohan?",
+    "kind": "zone line",
+    "episode": 2,
+    "gw": 11,
+    "ts": "2026-11-21T19:35:20Z",
+    "question": "Who holds the last Gold spot?",
     "line": [
      [
-      "GW7",
-      "Rohan +34"
-     ],
-     [
       "GW8",
-      "Rohan +27"
+      "Chandru +3"
      ],
      [
       "GW9",
-      "Rohan +21"
+      "Ravin +21"
      ],
      [
       "GW10",
-      "Rohan +5"
+      "Ravin +11"
+     ],
+     [
+      "GW11",
+      "Ravin +3"
      ]
     ],
     "since": 10,
     "streak": null
-   },
-   {
-    "id": "award:captain:3344797",
-    "title": "Rohan's Captaincy Crown",
-    "status": "Building",
-    "text": "Rohan has won Captain of the Week 5 times this season, setting the bar for everyone else. The rest of the league is still chasing that record.",
-    "next": "Could someone else finally break Rohan's grip on the captaincy award?",
-    "kept": true,
-    "who": [
-     3344797
-    ],
-    "kind": "repeat glory",
-    "episode": 1,
-    "gw": 10,
-    "ts": "2026-11-21T11:22:28Z",
-    "question": "Can anyone match Rohan?",
-    "line": [],
-    "since": 10,
-    "streak": null
    }
   ],
-  "plots_ts": "2026-11-21T11:22:28Z",
-  "plots_key": "10:between",
+  "plots_ts": "2026-11-21T19:35:20Z",
+  "plots_key": "11:live",
   "verdict_tries": {
    "10:2": 1,
    "10:3": 1,
@@ -11202,7 +11194,7 @@
    "8": 1
   },
   "plots_v": 8,
-  "plots_sig": "ee851c74a979",
+  "plots_sig": "2f1340f74c34",
   "group": {
    "text": "*Matt's Bench Boost blows the table open*\nMatt's 96 lifts Lammo's Lads to 2nd, just 1 behind Nikhil at the top.\nRavin and Lakshay's armbands both flopped with Rogers and Palmer on 2 each.\nHishaan's Barry hauled 32 for his only captain, so nobody is safe.",
    "ts": "2026-11-21T09:45:46Z",
@@ -11906,6 +11898,13 @@
     "title": "One Point Separates Them",
     "text": "Nikhil's lead collapsed from 24 to 1 this week, leaving Matt just one point behind on 722 to Nikhil's 723. Deepak sits 15 points off the top, and the crown has changed hands 3 times this season.",
     "next": "If Matt completes the overtake, Nikhil could be chasing the crown back from a single point."
+   },
+   {
+    "gw": 11,
+    "day": "2026-11-21",
+    "title": "Matt Snatches the Crown",
+    "text": "Matt has flipped the table, moving 1 point ahead of Nikhil, 748 to 747, after trailing by 1 last week. Deepak sits 21 points off the lead, and the crown has changed hands 4 times this season.",
+    "next": "Nikhil could strike back next gameweek, with just 1 point separating the top 2."
    }
   ],
   "rivalry:4922092-5682768": [
@@ -11915,6 +11914,13 @@
     "title": "Vanessa Edges Ahead",
     "text": "Vanessa has flipped the rivalry, moving 5 points clear of Ravi Mahtani after he led by 7 in GW9. The pair have swapped places 7 times this season, so neither has ever held a clear grip.",
     "next": "Ravi Mahtani could reclaim the edge, or Vanessa could pull further away and end the back-and-forth."
+   },
+   {
+    "gw": 11,
+    "day": "2026-11-21",
+    "title": "Vanessa Stretches Her Lead",
+    "text": "Vanessa has pushed her advantage over Ravi Mahtani out to 7 points, up from 5 last week. The pair have swapped places 7 times this season, so neither has held a firm grip for long.",
+    "next": "Can Ravi Mahtani respond, or will Vanessa's grip become harder to break?"
    }
   ],
   "gold": [
@@ -11923,6 +11929,13 @@
     "day": "2026-11-08",
     "title": "The Gold Spot Cliffhanger",
     "text": "Matt is the last manager in the 4 Gold spots, with Chandru first out just 3 points behind. Matt has spent only one of the last 5 weeks in the zone, while Chandru has spent 2."
+   },
+   {
+    "gw": 11,
+    "day": "2026-11-21",
+    "title": "Ravin Takes the Last Gold",
+    "text": "Ravin now holds the final Gold spot, with Chandru first out 3 points behind, after Matt held that seat last week. Ravin has spent 4 of the last 5 weeks in the zone, against 2 for Chandru.",
+    "next": "If Chandru finds form, the fight for the last Gold spot could tighten quickly."
    }
   ],
   "chase:4487775": [
@@ -11949,6 +11962,13 @@
     "title": "Alia's Long Struggle",
     "text": "Alia has now finished below the league average for 6 weeks in a row. Her 50 points this week is an improvement on 42 in GW9, but she is still stuck in the slump.",
     "next": "If Alia builds on this week's 50, the 6-week run of underperformance could finally end."
+   },
+   {
+    "gw": 11,
+    "day": "2026-11-21",
+    "title": "Alia's Long Struggle",
+    "text": "Alia's run of 6 straight weeks below the league average still stands, with 50 points in GW10 up from 42 in GW9. Her best score in this stretch was 60, in both GW6 and GW7.",
+    "next": "Could Alia score above the league average next week and finally break the run?"
    }
   ],
   "award:captain:3344797": [
@@ -12011,9 +12031,9 @@
     "label": "Title race",
     "branch": "blank",
     "status": {
-     "state": "playing",
-     "label": "Playing · 1",
-     "pts": 1
+     "state": "blank",
+     "pts": 1,
+     "label": "Blanked · 1"
     }
    },
    {
@@ -12213,9 +12233,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      },
      {
@@ -12304,9 +12324,9 @@
       "player": "Jacquet"
      },
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Rice"
      }
     ]
@@ -12650,9 +12670,9 @@
     "text": "Matt's dream week: if Gabriel hauls, Matt could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Gabriel"
      }
     ]
@@ -12688,15 +12708,15 @@
     "text": "Prem's dream week: if Konsa and Raya both haul, Prem could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      },
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Raya"
      }
     ]
@@ -12820,9 +12840,9 @@
     "text": "Inesh's dream week: if Konsa and Gomez both haul, Inesh could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      },
      {
@@ -12863,9 +12883,9 @@
     "text": "Pishu's dream week: if Raya and Tavernier both haul, Pishu could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Raya"
      },
      {
@@ -12889,9 +12909,9 @@
     "text": "Lakshay's dream week: if Konsa and Barry both haul, Lakshay could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Konsa"
      },
      {
@@ -12942,15 +12962,14 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T19:22:29Z",
-  "issues": [
-   "desk written from older totals (3 managers changed since)"
-  ],
+  "ts": "2026-11-21T19:35:20Z",
+  "issues": [],
   "page": [],
   "wording": [
-   "wording (1 points): ...start him   0    Autosub:  van Ewijk  (1 pts) comes in...",
-   "wording (1 points): ...e has can't move anyone.    Konsa ARS   1 pts so far...",
-   "wording (1 points): ...y gained much from him.      Raya ARS   1 pts so far..."
+   "wording (1 points): ...↓ doesn't   1    Autosub:  van Ewijk  (1 pts) comes in...",
+   "wording (1 points): ...y you start him   0    Autosub:  Neto  (1 pts) comes in...",
+   "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        13...",
+   "wording (1 points): ...d much from him.      Raya ARS   Scored 1 pts        13..."
   ]
  },
  "pwatch": {
@@ -13012,7 +13031,7 @@
    "289": "a|100|",
    "86": "a|None|",
    "388": "a|100|",
-   "449": "a|None|",
+   "449": "d|75|Unspecified injury - 75% chance of playing",
    "321": "a|None|",
    "350": "a|None|",
    "512": "a|100|",
@@ -13060,7 +13079,8 @@
    "391": "2026-11-20T15:37:20Z",
    "388": "2026-11-21T12:00:35Z",
    "305": "2026-11-21T17:01:38Z",
-   "1": "2026-11-21T19:10:53Z"
+   "1": "2026-11-21T19:10:53Z",
+   "449": "2026-11-21T19:35:20Z"
   },
   "price": {
    "1": 6.3,
@@ -13561,6 +13581,14 @@
     "el": 391,
     "kind": "surge",
     "net": -25647
+   },
+   {
+    "ts": "2026-11-21T19:35:20Z",
+    "el": 449,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Unspecified injury - 75% chance of playing"
    }
   ]
  },
