@@ -2439,21 +2439,21 @@
   "name": "Badmaash Premier League",
   "managers": [
    {
-    "entry": 2321301,
-    "player_name": "Nikhil Chainani",
-    "entry_name": "Umm Suqeim FC",
-    "rank": 1,
-    "last_rank": 1,
-    "total": 744,
-    "event_total": 21
-   },
-   {
     "entry": 3029346,
     "player_name": "Matt Lamming",
     "entry_name": "Lammo's Lads",
     "rank": 1,
     "last_rank": 2,
-    "total": 744,
+    "total": 746,
+    "event_total": 24
+   },
+   {
+    "entry": 2321301,
+    "player_name": "Nikhil Chainani",
+    "entry_name": "Umm Suqeim FC",
+    "rank": 2,
+    "last_rank": 1,
+    "total": 745,
     "event_total": 22
    },
    {
@@ -2462,8 +2462,8 @@
     "entry_name": "2-Hype Toffees",
     "rank": 3,
     "last_rank": 3,
-    "total": 722,
-    "event_total": 14
+    "total": 724,
+    "event_total": 16
    },
    {
     "entry": 1921902,
@@ -2471,8 +2471,8 @@
     "entry_name": "Robby's Rebels",
     "rank": 4,
     "last_rank": 4,
-    "total": 719,
-    "event_total": 12
+    "total": 721,
+    "event_total": 14
    },
    {
     "entry": 2687116,
@@ -2480,8 +2480,8 @@
     "entry_name": "Bruno Dos Tres",
     "rank": 5,
     "last_rank": 5,
-    "total": 716,
-    "event_total": 20
+    "total": 718,
+    "event_total": 22
    },
    {
     "entry": 3344797,
@@ -2489,26 +2489,26 @@
     "entry_name": "orangeblaze78",
     "rank": 6,
     "last_rank": 6,
-    "total": 706,
-    "event_total": 32
-   },
-   {
-    "entry": 1655993,
-    "player_name": "Sunny Aswani",
-    "entry_name": "RedArmy",
-    "rank": 7,
-    "last_rank": 8,
-    "total": 693,
-    "event_total": 26
+    "total": 710,
+    "event_total": 36
    },
    {
     "entry": 1036311,
     "player_name": "Amit Mahtani",
     "entry_name": "AMFC 11",
-    "rank": 8,
+    "rank": 7,
     "last_rank": 9,
-    "total": 693,
-    "event_total": 35
+    "total": 697,
+    "event_total": 39
+   },
+   {
+    "entry": 1655993,
+    "player_name": "Sunny Aswani",
+    "entry_name": "RedArmy",
+    "rank": 8,
+    "last_rank": 8,
+    "total": 696,
+    "event_total": 29
    },
    {
     "entry": 4487775,
@@ -2516,8 +2516,8 @@
     "entry_name": "Leaf Green",
     "rank": 9,
     "last_rank": 7,
-    "total": 680,
-    "event_total": 11
+    "total": 681,
+    "event_total": 12
    },
    {
     "entry": 3072827,
@@ -2525,8 +2525,8 @@
     "entry_name": "Red Devils United",
     "rank": 10,
     "last_rank": 10,
-    "total": 675,
-    "event_total": 21
+    "total": 678,
+    "event_total": 24
    },
    {
     "entry": 3350483,
@@ -2534,8 +2534,8 @@
     "entry_name": "Aashiv's 11",
     "rank": 11,
     "last_rank": 11,
-    "total": 674,
-    "event_total": 21
+    "total": 677,
+    "event_total": 24
    },
    {
     "entry": 5474293,
@@ -2543,26 +2543,26 @@
     "entry_name": "Flick Ball",
     "rank": 12,
     "last_rank": 12,
-    "total": 669,
-    "event_total": 17
-   },
-   {
-    "entry": 75778,
-    "player_name": "Marcel Smit",
-    "entry_name": "Magic Mikel",
-    "rank": 13,
-    "last_rank": 13,
-    "total": 663,
-    "event_total": 16
+    "total": 672,
+    "event_total": 20
    },
    {
     "entry": 6892917,
     "player_name": "Poonam Mahtani",
     "entry_name": "Fifteen Fighters",
-    "rank": 14,
+    "rank": 13,
     "last_rank": 14,
-    "total": 661,
-    "event_total": 25
+    "total": 664,
+    "event_total": 28
+   },
+   {
+    "entry": 75778,
+    "player_name": "Marcel Smit",
+    "entry_name": "Magic Mikel",
+    "rank": 14,
+    "last_rank": 13,
+    "total": 663,
+    "event_total": 16
    },
    {
     "entry": 3506595,
@@ -2570,8 +2570,8 @@
     "entry_name": "Jacquet Potato",
     "rank": 15,
     "last_rank": 15,
-    "total": 659,
-    "event_total": 25
+    "total": 662,
+    "event_total": 28
    },
    {
     "entry": 5682768,
@@ -2579,8 +2579,8 @@
     "entry_name": "super squad",
     "rank": 16,
     "last_rank": 15,
-    "total": 656,
-    "event_total": 22
+    "total": 660,
+    "event_total": 26
    },
    {
     "entry": 4922092,
@@ -2588,8 +2588,8 @@
     "entry_name": "Ravi's Team",
     "rank": 17,
     "last_rank": 17,
-    "total": 654,
-    "event_total": 25
+    "total": 656,
+    "event_total": 27
    },
    {
     "entry": 2934546,
@@ -2597,8 +2597,8 @@
     "entry_name": "Legends FC",
     "rank": 18,
     "last_rank": 19,
-    "total": 652,
-    "event_total": 24
+    "total": 653,
+    "event_total": 25
    },
    {
     "entry": 2465483,
@@ -2606,8 +2606,8 @@
     "entry_name": "Inu10",
     "rank": 19,
     "last_rank": 18,
-    "total": 646,
-    "event_total": 18
+    "total": 648,
+    "event_total": 20
    },
    {
     "entry": 6279027,
@@ -2615,8 +2615,8 @@
     "entry_name": "AI 11",
     "rank": 20,
     "last_rank": 20,
-    "total": 642,
-    "event_total": 23
+    "total": 644,
+    "event_total": 25
    },
    {
     "entry": 865376,
@@ -2624,8 +2624,8 @@
     "entry_name": "Net Six and Chill",
     "rank": 21,
     "last_rank": 21,
-    "total": 636,
-    "event_total": 18
+    "total": 640,
+    "event_total": 22
    },
    {
     "entry": 7043406,
@@ -2633,8 +2633,8 @@
     "entry_name": "Rajiv's Team",
     "rank": 22,
     "last_rank": 22,
-    "total": 632,
-    "event_total": 19
+    "total": 635,
+    "event_total": 22
    },
    {
     "entry": 3314780,
@@ -2642,8 +2642,8 @@
     "entry_name": "Five Star XI",
     "rank": 23,
     "last_rank": 24,
-    "total": 630,
-    "event_total": 30
+    "total": 632,
+    "event_total": 32
    },
    {
     "entry": 6159011,
@@ -2651,8 +2651,8 @@
     "entry_name": "Egg Fried Guimarães",
     "rank": 24,
     "last_rank": 23,
-    "total": 629,
-    "event_total": 17
+    "total": 631,
+    "event_total": 19
    },
    {
     "entry": 6051923,
@@ -2660,8 +2660,8 @@
     "entry_name": "Your Wirtz Nightmare",
     "rank": 25,
     "last_rank": 25,
-    "total": 608,
-    "event_total": 24
+    "total": 611,
+    "event_total": 27
    },
    {
     "entry": 6476662,
@@ -9007,7 +9007,7 @@
     3,
     1,
     0,
-    63,
+    75,
     0,
     0,
     0
@@ -9029,7 +9029,7 @@
     1,
     0,
     0,
-    63,
+    75,
     0,
     0,
     0
@@ -9191,10 +9191,10 @@
    "40": [
     0,
     1,
-    4,
+    5,
     0,
     0,
-    58,
+    71,
     0,
     0,
     0
@@ -9205,7 +9205,7 @@
     1,
     0,
     0,
-    3,
+    16,
     0,
     0,
     0
@@ -9227,7 +9227,7 @@
     1,
     0,
     0,
-    63,
+    75,
     0,
     0,
     0
@@ -9238,7 +9238,7 @@
     1,
     0,
     0,
-    63,
+    75,
     0,
     0,
     0
@@ -9257,10 +9257,10 @@
    "566": [
     0,
     0,
-    10,
+    8,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -9282,7 +9282,7 @@
     6,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -9304,7 +9304,7 @@
     14,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -9312,10 +9312,10 @@
    "316": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    1,
     0,
     0,
     0
@@ -9345,10 +9345,10 @@
    "68": [
     0,
     1,
-    6,
+    7,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -9359,7 +9359,7 @@
     3,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -9370,7 +9370,7 @@
     4,
     0,
     0,
-    58,
+    71,
     0,
     0,
     0
@@ -9378,10 +9378,10 @@
    "332": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    58,
+    71,
     0,
     0,
     0
@@ -9389,10 +9389,10 @@
    "334": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    58,
+    71,
     0,
     0,
     0
@@ -9400,10 +9400,10 @@
    "79": [
     1,
     0,
-    6,
+    7,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -9444,10 +9444,10 @@
    "346": [
     1,
     1,
-    9,
+    10,
     0,
     0,
-    58,
+    71,
     0,
     0,
     0
@@ -9524,7 +9524,7 @@
     6,
     1,
     0,
-    63,
+    75,
     0,
     0,
     0
@@ -9675,10 +9675,10 @@
    "154": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    58,
+    71,
     0,
     0,
     0
@@ -9697,10 +9697,10 @@
    "156": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    7,
     0,
     0,
     0
@@ -9744,7 +9744,7 @@
     2,
     1,
     0,
-    63,
+    72,
     0,
     0,
     0
@@ -9785,10 +9785,10 @@
    "173": [
     0,
     0,
+    3,
     0,
     0,
-    0,
-    58,
+    72,
     0,
     0,
     0
@@ -9796,10 +9796,10 @@
    "175": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    58,
+    72,
     0,
     0,
     0
@@ -9829,10 +9829,10 @@
    "183": [
     0,
     2,
-    8,
+    10,
     0,
     0,
-    58,
+    72,
     0,
     0,
     0
@@ -9887,7 +9887,7 @@
     1,
     0,
     0,
-    61,
+    71,
     0,
     0,
     0
@@ -9898,7 +9898,7 @@
     2,
     0,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -9986,7 +9986,7 @@
     7,
     1,
     0,
-    63,
+    75,
     0,
     0,
     0
@@ -10059,26 +10059,26 @@
    ],
    "_hits": {},
    "_bench": {
-    "1655993": 0,
-    "1036311": 0
+    "1036311": 0,
+    "1655993": 0
    }
   },
   "ranks": {
-   "2321301": 1,
    "3029346": 1,
+   "2321301": 2,
    "735721": 3,
    "1921902": 4,
    "2687116": 5,
    "3344797": 6,
-   "1655993": 7,
    "1036311": 7,
+   "1655993": 8,
    "4487775": 9,
    "3072827": 10,
    "3350483": 11,
    "5474293": 12,
-   "75778": 13,
-   "6892917": 14,
-   "3506595": 15,
+   "6892917": 13,
+   "75778": 14,
+   "3506595": 14,
    "5682768": 16,
    "4922092": 17,
    "2934546": 18,
@@ -10092,20 +10092,20 @@
    "6476662": 26
   },
   "zones": {
-   "2321301": "gold",
    "3029346": "gold",
+   "2321301": "gold",
    "735721": "gold",
    "1921902": "gold",
    "2687116": "silver",
    "3344797": "silver",
-   "1655993": "silver",
    "1036311": "silver",
+   "1655993": "silver",
    "4487775": null,
    "3072827": null,
    "3350483": null,
    "5474293": null,
-   "75778": null,
    "6892917": null,
+   "75778": null,
    "3506595": null,
    "5682768": null,
    "4922092": null,
@@ -10120,7 +10120,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T16:22:38Z",
+ "updated": "2026-11-21T16:36:19Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -11866,8 +11866,8 @@
     "branch": "haul",
     "status": {
      "state": "playing",
-     "label": "Playing · 6",
-     "pts": 6
+     "label": "Playing · 7",
+     "pts": 7
     }
    },
    {
@@ -11899,8 +11899,8 @@
     "branch": "haul",
     "status": {
      "state": "playing",
-     "label": "Playing · 1",
-     "pts": 1
+     "label": "Playing · 2",
+     "pts": 2
     }
    },
    {
@@ -11973,9 +11973,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Silva"
      },
      {
@@ -12192,9 +12192,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Silva"
      },
      {
@@ -12651,8 +12651,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Tavernier"
      }
     ]
@@ -12711,8 +12711,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 4",
-      "pts": 4,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Rogers"
      }
     ]
@@ -12722,12 +12722,11 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T16:22:38Z",
-  "issues": [],
-  "page": [],
-  "wording": [
-   "wording (1 points): ...have gained 6 on you.      Palmer CHE   1 pts so far..."
-  ]
+  "ts": "2026-11-21T16:36:19Z",
+  "issues": [
+   "desk written from older totals (24 managers changed since)"
+  ],
+  "page": []
  },
  "pwatch": {
   "seen": {

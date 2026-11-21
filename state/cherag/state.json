@@ -10568,8 +10568,8 @@
     "entry_name": "FPL 7",
     "rank": 1,
     "last_rank": 1,
-    "total": 749,
-    "event_total": 15
+    "total": 756,
+    "event_total": 22
    },
    {
     "entry": 305234,
@@ -10577,14 +10577,32 @@
     "entry_name": "Infamous",
     "rank": 2,
     "last_rank": 2,
-    "total": 734,
-    "event_total": 18
+    "total": 737,
+    "event_total": 21
+   },
+   {
+    "entry": 3991082,
+    "player_name": "Sukrut Thakur",
+    "entry_name": "Brahmachari Sena",
+    "rank": 3,
+    "last_rank": 6,
+    "total": 735,
+    "event_total": 36
    },
    {
     "entry": 13978,
     "player_name": "Yash Bhatia",
     "entry_name": "YB",
-    "rank": 3,
+    "rank": 4,
+    "last_rank": 4,
+    "total": 732,
+    "event_total": 30
+   },
+   {
+    "entry": 1325491,
+    "player_name": "akshat awasthi",
+    "entry_name": "Nirvana11",
+    "rank": 5,
     "last_rank": 4,
     "total": 728,
     "event_total": 26
@@ -10593,28 +10611,10 @@
     "entry": 136653,
     "player_name": "Aryan Khamankar",
     "entry_name": "AryanAK47",
-    "rank": 4,
-    "last_rank": 3,
-    "total": 724,
-    "event_total": 17
-   },
-   {
-    "entry": 1325491,
-    "player_name": "akshat awasthi",
-    "entry_name": "Nirvana11",
-    "rank": 5,
-    "last_rank": 4,
-    "total": 720,
-    "event_total": 18
-   },
-   {
-    "entry": 3991082,
-    "player_name": "Sukrut Thakur",
-    "entry_name": "Brahmachari Sena",
     "rank": 6,
-    "last_rank": 6,
-    "total": 719,
-    "event_total": 20
+    "last_rank": 3,
+    "total": 726,
+    "event_total": 19
    },
    {
     "entry": 2429776,
@@ -10622,8 +10622,8 @@
     "entry_name": "Gunners",
     "rank": 7,
     "last_rank": 8,
-    "total": 716,
-    "event_total": 21
+    "total": 723,
+    "event_total": 28
    },
    {
     "entry": 1273065,
@@ -10631,62 +10631,62 @@
     "entry_name": "Waka waka 11",
     "rank": 8,
     "last_rank": 9,
-    "total": 713,
-    "event_total": 19
+    "total": 721,
+    "event_total": 27
    },
    {
     "entry": 4722308,
     "player_name": "Biswadeep Majumdar",
     "entry_name": "quadrupliraola",
-    "rank": 9,
+    "rank": 8,
     "last_rank": 7,
-    "total": 710,
-    "event_total": 11
-   },
-   {
-    "entry": 3219276,
-    "player_name": "Cherag Ramnathan",
-    "entry_name": "Pav Bhaji+Jodi Extra",
-    "rank": 10,
-    "last_rank": 10,
-    "total": 705,
-    "event_total": 13
-   },
-   {
-    "entry": 3949616,
-    "player_name": "Utkarsh Barasia",
-    "entry_name": "The Return of Rash",
-    "rank": 11,
-    "last_rank": 12,
-    "total": 705,
-    "event_total": 18
-   },
-   {
-    "entry": 2671682,
-    "player_name": "Clawin Dsouza",
-    "entry_name": "Bruno dos tres",
-    "rank": 12,
-    "last_rank": 13,
-    "total": 704,
-    "event_total": 18
-   },
-   {
-    "entry": 2557772,
-    "player_name": "Quseem Chaudhary",
-    "entry_name": "QCH 11",
-    "rank": 13,
-    "last_rank": 11,
-    "total": 703,
-    "event_total": 16
+    "total": 721,
+    "event_total": 22
    },
    {
     "entry": 393940,
     "player_name": "Anurag Red-dy",
     "entry_name": "Easter Disaster",
-    "rank": 14,
+    "rank": 10,
     "last_rank": 15,
-    "total": 699,
-    "event_total": 18
+    "total": 714,
+    "event_total": 33
+   },
+   {
+    "entry": 3219276,
+    "player_name": "Cherag Ramnathan",
+    "entry_name": "Pav Bhaji+Jodi Extra",
+    "rank": 11,
+    "last_rank": 10,
+    "total": 714,
+    "event_total": 22
+   },
+   {
+    "entry": 573491,
+    "player_name": "nihal shetty",
+    "entry_name": "Saka Senapati XI",
+    "rank": 12,
+    "last_rank": 26,
+    "total": 713,
+    "event_total": 43
+   },
+   {
+    "entry": 3949616,
+    "player_name": "Utkarsh Barasia",
+    "entry_name": "The Return of Rash",
+    "rank": 13,
+    "last_rank": 12,
+    "total": 713,
+    "event_total": 26
+   },
+   {
+    "entry": 2671682,
+    "player_name": "Clawin Dsouza",
+    "entry_name": "Bruno dos tres",
+    "rank": 14,
+    "last_rank": 13,
+    "total": 712,
+    "event_total": 26
    },
    {
     "entry": 2985014,
@@ -10694,26 +10694,26 @@
     "entry_name": "Morning Woodwork FC",
     "rank": 15,
     "last_rank": 16,
-    "total": 698,
-    "event_total": 21
+    "total": 710,
+    "event_total": 33
+   },
+   {
+    "entry": 2557772,
+    "player_name": "Quseem Chaudhary",
+    "entry_name": "QCH 11",
+    "rank": 16,
+    "last_rank": 11,
+    "total": 709,
+    "event_total": 22
    },
    {
     "entry": 1902223,
     "player_name": "Karan Singh",
     "entry_name": "Bombay Reds",
-    "rank": 15,
-    "last_rank": 14,
-    "total": 698,
-    "event_total": 15
-   },
-   {
-    "entry": 573491,
-    "player_name": "nihal shetty",
-    "entry_name": "Saka Senapati XI",
     "rank": 17,
-    "last_rank": 26,
-    "total": 693,
-    "event_total": 23
+    "last_rank": 14,
+    "total": 708,
+    "event_total": 25
    },
    {
     "entry": 3479732,
@@ -10721,44 +10721,44 @@
     "entry_name": "Rarcusmashford",
     "rank": 18,
     "last_rank": 27,
-    "total": 692,
-    "event_total": 24
+    "total": 705,
+    "event_total": 37
    },
    {
-    "entry": 1662734,
-    "player_name": "Sikander Kamaal",
-    "entry_name": "CruelMeerkatXI",
+    "entry": 18991,
+    "player_name": "Arshad Hakim",
+    "entry_name": "Madmanhakim",
     "rank": 19,
-    "last_rank": 23,
-    "total": 691,
-    "event_total": 20
+    "last_rank": 29,
+    "total": 703,
+    "event_total": 37
+   },
+   {
+    "entry": 3234577,
+    "player_name": "Kaushik Dharmani",
+    "entry_name": "Chamelis",
+    "rank": 20,
+    "last_rank": 25,
+    "total": 700,
+    "event_total": 30
    },
    {
     "entry": 5685525,
     "player_name": "Mudit Bhatla",
     "entry_name": "ffs team name again",
-    "rank": 20,
-    "last_rank": 20,
-    "total": 690,
-    "event_total": 18
-   },
-   {
-    "entry": 3214478,
-    "player_name": "Hitesh Chopra",
-    "entry_name": "Trust the process!",
     "rank": 21,
-    "last_rank": 17,
-    "total": 690,
-    "event_total": 16
+    "last_rank": 20,
+    "total": 698,
+    "event_total": 26
    },
    {
-    "entry": 107315,
-    "player_name": "Sahej Jhamvar",
-    "entry_name": "sage",
+    "entry": 1312692,
+    "player_name": "Adrian Miranda",
+    "entry_name": "Bruno Dos Tres",
     "rank": 22,
-    "last_rank": 21,
-    "total": 690,
-    "event_total": 18
+    "last_rank": 28,
+    "total": 697,
+    "event_total": 29
    },
    {
     "entry": 3323262,
@@ -10766,287 +10766,287 @@
     "entry_name": "Choke City",
     "rank": 23,
     "last_rank": 24,
-    "total": 689,
+    "total": 697,
+    "event_total": 26
+   },
+   {
+    "entry": 1541394,
+    "player_name": "Nanik Samtani",
+    "entry_name": "Red Devils",
+    "rank": 24,
+    "last_rank": 31,
+    "total": 695,
+    "event_total": 32
+   },
+   {
+    "entry": 1662734,
+    "player_name": "Sikander Kamaal",
+    "entry_name": "CruelMeerkatXI",
+    "rank": 25,
+    "last_rank": 23,
+    "total": 694,
+    "event_total": 23
+   },
+   {
+    "entry": 780469,
+    "player_name": "Sahil Thorve",
+    "entry_name": "NotAnIsakScience",
+    "rank": 26,
+    "last_rank": 21,
+    "total": 693,
+    "event_total": 21
+   },
+   {
+    "entry": 107315,
+    "player_name": "Sahej Jhamvar",
+    "entry_name": "sage",
+    "rank": 26,
+    "last_rank": 21,
+    "total": 693,
+    "event_total": 21
+   },
+   {
+    "entry": 3214478,
+    "player_name": "Hitesh Chopra",
+    "entry_name": "Trust the process!",
+    "rank": 28,
+    "last_rank": 17,
+    "total": 692,
     "event_total": 18
    },
    {
     "entry": 2554077,
     "player_name": "soham naik",
     "entry_name": "Havertz to Be True",
-    "rank": 24,
+    "rank": 29,
     "last_rank": 19,
-    "total": 688,
-    "event_total": 16
-   },
-   {
-    "entry": 1541394,
-    "player_name": "Nanik Samtani",
-    "entry_name": "Red Devils",
-    "rank": 25,
-    "last_rank": 31,
-    "total": 688,
-    "event_total": 25
-   },
-   {
-    "entry": 18991,
-    "player_name": "Arshad Hakim",
-    "entry_name": "Madmanhakim",
-    "rank": 26,
-    "last_rank": 29,
-    "total": 687,
-    "event_total": 21
-   },
-   {
-    "entry": 3234577,
-    "player_name": "Kaushik Dharmani",
-    "entry_name": "Chamelis",
-    "rank": 27,
-    "last_rank": 25,
-    "total": 687,
-    "event_total": 17
+    "total": 691,
+    "event_total": 19
    },
    {
     "entry": 1305406,
     "player_name": "Tanmay Khullar",
     "entry_name": "I’LL BUY DALOT",
-    "rank": 28,
-    "last_rank": 18,
-    "total": 687,
-    "event_total": 13
-   },
-   {
-    "entry": 1312692,
-    "player_name": "Adrian Miranda",
-    "entry_name": "Bruno Dos Tres",
-    "rank": 29,
-    "last_rank": 28,
-    "total": 686,
-    "event_total": 18
-   },
-   {
-    "entry": 780469,
-    "player_name": "Sahil Thorve",
-    "entry_name": "NotAnIsakScience",
     "rank": 30,
-    "last_rank": 21,
-    "total": 685,
-    "event_total": 13
+    "last_rank": 18,
+    "total": 689,
+    "event_total": 15
    },
    {
-    "entry": 42960,
-    "player_name": "Bhavin Jatania",
-    "entry_name": "Bhasad 11",
+    "entry": 6034028,
+    "player_name": "Aryan Apte",
+    "entry_name": "Aztecs",
     "rank": 31,
-    "last_rank": 33,
-    "total": 678,
-    "event_total": 18
+    "last_rank": 54,
+    "total": 688,
+    "event_total": 44
+   },
+   {
+    "entry": 6543092,
+    "player_name": "Eli K",
+    "entry_name": "Liverpool X  FC",
+    "rank": 32,
+    "last_rank": 37,
+    "total": 687,
+    "event_total": 33
+   },
+   {
+    "entry": 32831,
+    "player_name": "Sidharth Shanon",
+    "entry_name": "Fail",
+    "rank": 32,
+    "last_rank": 41,
+    "total": 687,
+    "event_total": 35
    },
    {
     "entry": 263779,
     "player_name": "Aleston Fernandes",
     "entry_name": "Notsela Boys",
-    "rank": 32,
+    "rank": 34,
     "last_rank": 42,
-    "total": 677,
-    "event_total": 25
+    "total": 685,
+    "event_total": 33
    },
    {
     "entry": 710718,
     "player_name": "Nishit Reddy",
     "entry_name": "Arteta's Reign",
-    "rank": 33,
+    "rank": 35,
     "last_rank": 32,
-    "total": 675,
-    "event_total": 13
+    "total": 683,
+    "event_total": 21
+   },
+   {
+    "entry": 698784,
+    "player_name": "Zorawar Bobinmaker",
+    "entry_name": "11 Spartans",
+    "rank": 36,
+    "last_rank": 36,
+    "total": 683,
+    "event_total": 25
    },
    {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
-    "rank": 34,
+    "rank": 36,
     "last_rank": 45,
-    "total": 675,
+    "total": 683,
+    "event_total": 34
+   },
+   {
+    "entry": 42960,
+    "player_name": "Bhavin Jatania",
+    "entry_name": "Bhasad 11",
+    "rank": 38,
+    "last_rank": 33,
+    "total": 682,
+    "event_total": 22
+   },
+   {
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 39,
+    "last_rank": 45,
+    "total": 682,
+    "event_total": 33
+   },
+   {
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 40,
+    "last_rank": 48,
+    "total": 681,
+    "event_total": 33
+   },
+   {
+    "entry": 257074,
+    "player_name": "Shahaan Syed",
+    "entry_name": "Aham brahmasmi",
+    "rank": 41,
+    "last_rank": 34,
+    "total": 681,
+    "event_total": 21
+   },
+   {
+    "entry": 1425044,
+    "player_name": "Manav Malhotra",
+    "entry_name": "Brain-Heart 11",
+    "rank": 42,
+    "last_rank": 39,
+    "total": 680,
+    "event_total": 26
+   },
+   {
+    "entry": 13951,
+    "player_name": "Sagar C",
+    "entry_name": "Champs",
+    "rank": 42,
+    "last_rank": 53,
+    "total": 680,
+    "event_total": 36
+   },
+   {
+    "entry": 3560542,
+    "player_name": "Sandeepan Bhattacharya",
+    "entry_name": "Amad season ahead",
+    "rank": 44,
+    "last_rank": 65,
+    "total": 680,
+    "event_total": 45
+   },
+   {
+    "entry": 119217,
+    "player_name": "Kunaal Dadwal",
+    "entry_name": "Chutzpah",
+    "rank": 45,
+    "last_rank": 56,
+    "total": 679,
+    "event_total": 37
+   },
+   {
+    "entry": 480904,
+    "player_name": "Nehal Reddy",
+    "entry_name": "Bangchester United",
+    "rank": 45,
+    "last_rank": 35,
+    "total": 679,
+    "event_total": 20
+   },
+   {
+    "entry": 3239284,
+    "player_name": "Kabeerr Naayar",
+    "entry_name": "KABS0507",
+    "rank": 47,
+    "last_rank": 50,
+    "total": 678,
+    "event_total": 30
+   },
+   {
+    "entry": 4558790,
+    "player_name": "Rahul Malhotra",
+    "entry_name": "KTBFFH",
+    "rank": 48,
+    "last_rank": 43,
+    "total": 677,
     "event_total": 26
    },
    {
     "entry": 249619,
     "player_name": "Mayuresh Deshpande",
     "entry_name": "NetBlasters",
-    "rank": 35,
+    "rank": 49,
     "last_rank": 30,
-    "total": 675,
-    "event_total": 11
-   },
-   {
-    "entry": 3239284,
-    "player_name": "Kabeerr Naayar",
-    "entry_name": "KABS0507",
-    "rank": 35,
-    "last_rank": 50,
-    "total": 675,
-    "event_total": 27
-   },
-   {
-    "entry": 257074,
-    "player_name": "Shahaan Syed",
-    "entry_name": "Aham brahmasmi",
-    "rank": 37,
-    "last_rank": 34,
-    "total": 675,
-    "event_total": 15
-   },
-   {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 38,
-    "last_rank": 48,
-    "total": 673,
-    "event_total": 25
-   },
-   {
-    "entry": 698784,
-    "player_name": "Zorawar Bobinmaker",
-    "entry_name": "11 Spartans",
-    "rank": 39,
-    "last_rank": 36,
-    "total": 673,
-    "event_total": 15
-   },
-   {
-    "entry": 6543092,
-    "player_name": "Eli K",
-    "entry_name": "Liverpool X  FC",
-    "rank": 40,
-    "last_rank": 37,
-    "total": 672,
-    "event_total": 18
-   },
-   {
-    "entry": 32831,
-    "player_name": "Sidharth Shanon",
-    "entry_name": "Fail",
-    "rank": 41,
-    "last_rank": 41,
-    "total": 671,
-    "event_total": 19
-   },
-   {
-    "entry": 480904,
-    "player_name": "Nehal Reddy",
-    "entry_name": "Bangchester United",
-    "rank": 42,
-    "last_rank": 35,
-    "total": 671,
-    "event_total": 12
-   },
-   {
-    "entry": 13951,
-    "player_name": "Sagar C",
-    "entry_name": "Champs",
-    "rank": 43,
-    "last_rank": 53,
-    "total": 671,
-    "event_total": 27
-   },
-   {
-    "entry": 4558790,
-    "player_name": "Rahul Malhotra",
-    "entry_name": "KTBFFH",
-    "rank": 44,
-    "last_rank": 43,
-    "total": 669,
-    "event_total": 18
-   },
-   {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 45,
-    "last_rank": 45,
-    "total": 669,
-    "event_total": 20
-   },
-   {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 46,
-    "last_rank": 37,
-    "total": 668,
-    "event_total": 14
+    "total": 677,
+    "event_total": 13
    },
    {
     "entry": 3654448,
     "player_name": "Abhimanyu Pathania",
     "entry_name": "FPLXV",
-    "rank": 47,
+    "rank": 50,
     "last_rank": 56,
-    "total": 668,
-    "event_total": 26
+    "total": 676,
+    "event_total": 34
    },
    {
-    "entry": 1425044,
-    "player_name": "Manav Malhotra",
-    "entry_name": "Brain-Heart 11",
-    "rank": 47,
-    "last_rank": 39,
-    "total": 668,
-    "event_total": 14
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 51,
+    "last_rank": 37,
+    "total": 675,
+    "event_total": 21
    },
    {
     "entry": 48343,
     "player_name": "hardik s",
     "entry_name": "Pez Dispensers",
-    "rank": 49,
+    "rank": 52,
     "last_rank": 52,
-    "total": 667,
-    "event_total": 26
+    "total": 675,
+    "event_total": 34
    },
    {
-    "entry": 675013,
-    "player_name": "Amar Sarvaria",
-    "entry_name": "Wirtz Behavior",
-    "rank": 50,
-    "last_rank": 40,
-    "total": 666,
-    "event_total": 13
+    "entry": 1443362,
+    "player_name": "suraj penukonda",
+    "entry_name": "Looney Tunes",
+    "rank": 53,
+    "last_rank": 59,
+    "total": 673,
+    "event_total": 33
    },
    {
     "entry": 248721,
     "player_name": "Raj Pratik",
     "entry_name": "Mebesty",
-    "rank": 51,
-    "last_rank": 51,
-    "total": 665,
-    "event_total": 18
-   },
-   {
-    "entry": 3560542,
-    "player_name": "Sandeepan Bhattacharya",
-    "entry_name": "Amad season ahead",
-    "rank": 52,
-    "last_rank": 65,
-    "total": 665,
-    "event_total": 30
-   },
-   {
-    "entry": 6034028,
-    "player_name": "Aryan Apte",
-    "entry_name": "Aztecs",
-    "rank": 53,
-    "last_rank": 54,
-    "total": 665,
-    "event_total": 21
-   },
-   {
-    "entry": 4134138,
-    "player_name": "Rishab Bajaj",
-    "entry_name": "Rishabs11",
     "rank": 54,
-    "last_rank": 44,
-    "total": 664,
-    "event_total": 14
+    "last_rank": 51,
+    "total": 672,
+    "event_total": 25
    },
    {
     "entry": 2932096,
@@ -11054,35 +11054,35 @@
     "entry_name": "Zhavtē FC",
     "rank": 55,
     "last_rank": 58,
-    "total": 664,
-    "event_total": 24
-   },
-   {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 56,
-    "last_rank": 48,
-    "total": 663,
-    "event_total": 15
+    "total": 671,
+    "event_total": 31
    },
    {
     "entry": 4540238,
     "player_name": "Shrivar Goenka",
     "entry_name": "SG XI",
-    "rank": 57,
+    "rank": 56,
     "last_rank": 61,
-    "total": 662,
-    "event_total": 25
+    "total": 671,
+    "event_total": 34
    },
    {
-    "entry": 1443362,
-    "player_name": "suraj penukonda",
-    "entry_name": "Looney Tunes",
-    "rank": 58,
-    "last_rank": 59,
-    "total": 662,
-    "event_total": 22
+    "entry": 675013,
+    "player_name": "Amar Sarvaria",
+    "entry_name": "Wirtz Behavior",
+    "rank": 57,
+    "last_rank": 40,
+    "total": 668,
+    "event_total": 15
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 57,
+    "last_rank": 48,
+    "total": 668,
+    "event_total": 20
    },
    {
     "entry": 119259,
@@ -11090,170 +11090,170 @@
     "entry_name": "Regaling",
     "rank": 59,
     "last_rank": 64,
-    "total": 660,
-    "event_total": 25
+    "total": 667,
+    "event_total": 32
+   },
+   {
+    "entry": 4134138,
+    "player_name": "Rishab Bajaj",
+    "entry_name": "Rishabs11",
+    "rank": 59,
+    "last_rank": 44,
+    "total": 667,
+    "event_total": 17
    },
    {
     "entry": 2119331,
     "player_name": "Ajay Rachakonda",
     "entry_name": "Silent Violence",
-    "rank": 60,
+    "rank": 61,
     "last_rank": 55,
-    "total": 658,
-    "event_total": 15
-   },
-   {
-    "entry": 119217,
-    "player_name": "Kunaal Dadwal",
-    "entry_name": "Chutzpah",
-    "rank": 60,
-    "last_rank": 56,
-    "total": 658,
-    "event_total": 16
-   },
-   {
-    "entry": 2868149,
-    "player_name": "Akash Singh",
-    "entry_name": "The Gerrardians",
-    "rank": 62,
-    "last_rank": 45,
-    "total": 657,
-    "event_total": 8
+    "total": 666,
+    "event_total": 23
    },
    {
     "entry": 57776,
     "player_name": "Adwait Bhattacharya",
     "entry_name": "Xabi's Palestronomy!",
-    "rank": 63,
+    "rank": 62,
     "last_rank": 67,
-    "total": 657,
-    "event_total": 24
-   },
-   {
-    "entry": 2569620,
-    "player_name": "Adit Reddy",
-    "entry_name": "me myself ndiaye",
-    "rank": 64,
-    "last_rank": 62,
-    "total": 656,
-    "event_total": 20
+    "total": 664,
+    "event_total": 31
    },
    {
     "entry": 4632544,
     "player_name": "Sajeet Pant",
     "entry_name": "Chhota Chhattri",
-    "rank": 65,
+    "rank": 63,
     "last_rank": 68,
-    "total": 654,
-    "event_total": 25
-   },
-   {
-    "entry": 383029,
-    "player_name": "Vishva Thombare",
-    "entry_name": "VGMM",
-    "rank": 66,
-    "last_rank": 66,
-    "total": 652,
-    "event_total": 19
-   },
-   {
-    "entry": 1854010,
-    "player_name": "Shahan Irani",
-    "entry_name": "ahaonltoocnraoini.",
-    "rank": 66,
-    "last_rank": 63,
-    "total": 652,
-    "event_total": 17
-   },
-   {
-    "entry": 26707,
-    "player_name": "Krishnaji Sanas",
-    "entry_name": "Victorious Secrets",
-    "rank": 68,
-    "last_rank": 60,
-    "total": 648,
-    "event_total": 9
+    "total": 662,
+    "event_total": 33
    },
    {
     "entry": 2922453,
     "player_name": "Abhishek Yerra",
     "entry_name": "Ctrl + Alt + De Ligt",
-    "rank": 68,
+    "rank": 64,
     "last_rank": 70,
-    "total": 648,
-    "event_total": 21
+    "total": 660,
+    "event_total": 33
+   },
+   {
+    "entry": 383029,
+    "player_name": "Vishva Thombare",
+    "entry_name": "VGMM",
+    "rank": 65,
+    "last_rank": 66,
+    "total": 659,
+    "event_total": 26
+   },
+   {
+    "entry": 2868149,
+    "player_name": "Akash Singh",
+    "entry_name": "The Gerrardians",
+    "rank": 66,
+    "last_rank": 45,
+    "total": 659,
+    "event_total": 10
+   },
+   {
+    "entry": 2569620,
+    "player_name": "Adit Reddy",
+    "entry_name": "me myself ndiaye",
+    "rank": 66,
+    "last_rank": 62,
+    "total": 659,
+    "event_total": 23
    },
    {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
-    "rank": 70,
+    "rank": 68,
     "last_rank": 72,
-    "total": 647,
-    "event_total": 21
-   },
-   {
-    "entry": 4314690,
-    "player_name": "Manu P",
-    "entry_name": "Kotoshi Gambare",
-    "rank": 71,
-    "last_rank": 69,
-    "total": 646,
-    "event_total": 15
+    "total": 656,
+    "event_total": 30
    },
    {
     "entry": 10615,
     "player_name": "Maanas Gupta",
     "entry_name": "Infinity Inc",
-    "rank": 72,
+    "rank": 69,
     "last_rank": 72,
-    "total": 644,
-    "event_total": 18
+    "total": 655,
+    "event_total": 29
    },
    {
-    "entry": 3086063,
-    "player_name": "S.M. Shaligram",
-    "entry_name": "Golden Jokers FC",
-    "rank": 73,
-    "last_rank": 71,
-    "total": 644,
-    "event_total": 21
+    "entry": 1854010,
+    "player_name": "Shahan Irani",
+    "entry_name": "ahaonltoocnraoini.",
+    "rank": 70,
+    "last_rank": 63,
+    "total": 653,
+    "event_total": 18
    },
    {
     "entry": 3404613,
     "player_name": "Zishan Ali Zaidi",
     "entry_name": "Siiiiiuuuuuu",
-    "rank": 74,
+    "rank": 71,
     "last_rank": 74,
-    "total": 640,
-    "event_total": 17
+    "total": 652,
+    "event_total": 29
    },
    {
-    "entry": 6830291,
-    "player_name": "Karan P Nanda",
-    "entry_name": "Justlikethat",
+    "entry": 3086063,
+    "player_name": "S.M. Shaligram",
+    "entry_name": "Golden Jokers FC",
+    "rank": 72,
+    "last_rank": 71,
+    "total": 651,
+    "event_total": 28
+   },
+   {
+    "entry": 26707,
+    "player_name": "Krishnaji Sanas",
+    "entry_name": "Victorious Secrets",
+    "rank": 73,
+    "last_rank": 60,
+    "total": 650,
+    "event_total": 11
+   },
+   {
+    "entry": 4314690,
+    "player_name": "Manu P",
+    "entry_name": "Kotoshi Gambare",
     "rank": 74,
-    "last_rank": 76,
-    "total": 640,
-    "event_total": 19
+    "last_rank": 69,
+    "total": 648,
+    "event_total": 17
    },
    {
     "entry": 1737924,
     "player_name": "Rajat Bhalla",
     "entry_name": "Break all hell ⚽️",
-    "rank": 76,
+    "rank": 75,
     "last_rank": 75,
-    "total": 639,
-    "event_total": 17
+    "total": 646,
+    "event_total": 24
    },
    {
     "entry": 4372346,
     "player_name": "Shantanu Sharma",
     "entry_name": "Carnage1x",
-    "rank": 77,
+    "rank": 76,
     "last_rank": 78,
-    "total": 638,
-    "event_total": 19
+    "total": 646,
+    "event_total": 27
+   },
+   {
+    "entry": 44532,
+    "player_name": "Ketan Jikar",
+    "entry_name": "Yolotoure",
+    "rank": 77,
+    "last_rank": 82,
+    "total": 645,
+    "event_total": 36
    },
    {
     "entry": 438967,
@@ -11261,17 +11261,17 @@
     "entry_name": "Fantasy King",
     "rank": 78,
     "last_rank": 77,
-    "total": 635,
-    "event_total": 14
+    "total": 645,
+    "event_total": 24
    },
    {
-    "entry": 2680660,
-    "player_name": "Mohit Gang",
-    "entry_name": "BleedBlue",
+    "entry": 6830291,
+    "player_name": "Karan P Nanda",
+    "entry_name": "Justlikethat",
     "rank": 79,
-    "last_rank": 81,
-    "total": 634,
-    "event_total": 24
+    "last_rank": 76,
+    "total": 642,
+    "event_total": 21
    },
    {
     "entry": 4811914,
@@ -11279,8 +11279,8 @@
     "entry_name": "Gunners11",
     "rank": 80,
     "last_rank": 84,
-    "total": 633,
-    "event_total": 25
+    "total": 640,
+    "event_total": 32
    },
    {
     "entry": 174952,
@@ -11288,80 +11288,80 @@
     "entry_name": "Kaminey",
     "rank": 81,
     "last_rank": 83,
-    "total": 631,
-    "event_total": 23
+    "total": 638,
+    "event_total": 30
    },
    {
-    "entry": 2424472,
-    "player_name": "Apoorvo Choudhary",
-    "entry_name": "Brian Boobey",
-    "rank": 81,
-    "last_rank": 79,
-    "total": 631,
-    "event_total": 14
-   },
-   {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 81,
-    "last_rank": 89,
-    "total": 631,
+    "entry": 2680660,
+    "player_name": "Mohit Gang",
+    "entry_name": "BleedBlue",
+    "rank": 82,
+    "last_rank": 81,
+    "total": 637,
     "event_total": 27
-   },
-   {
-    "entry": 3350036,
-    "player_name": "Avinash Shaligram",
-    "entry_name": "Rusty Warrior",
-    "rank": 84,
-    "last_rank": 80,
-    "total": 630,
-    "event_total": 18
-   },
-   {
-    "entry": 44532,
-    "player_name": "Ketan Jikar",
-    "entry_name": "Yolotoure",
-    "rank": 85,
-    "last_rank": 82,
-    "total": 629,
-    "event_total": 20
-   },
-   {
-    "entry": 699330,
-    "player_name": "Pratik Bhatewara",
-    "entry_name": "Batinho XI",
-    "rank": 86,
-    "last_rank": 85,
-    "total": 629,
-    "event_total": 21
    },
    {
     "entry": 11673,
     "player_name": "Yash Gawai",
     "entry_name": "PalmerIsGlamour",
-    "rank": 87,
+    "rank": 83,
     "last_rank": 86,
-    "total": 624,
-    "event_total": 18
+    "total": 636,
+    "event_total": 30
    },
    {
-    "entry": 5734029,
-    "player_name": "Vivek Kumar",
-    "entry_name": "Bluelock",
-    "rank": 88,
-    "last_rank": 92,
-    "total": 622,
-    "event_total": 22
+    "entry": 686561,
+    "player_name": "Pranav Macker",
+    "entry_name": "Kabhi Elvedi n Kehna",
+    "rank": 84,
+    "last_rank": 91,
+    "total": 635,
+    "event_total": 34
    },
    {
-    "entry": 4905114,
-    "player_name": "Anuj Joglekar",
-    "entry_name": "Summer Tzolstis",
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 85,
+    "last_rank": 89,
+    "total": 634,
+    "event_total": 30
+   },
+   {
+    "entry": 3350036,
+    "player_name": "Avinash Shaligram",
+    "entry_name": "Rusty Warrior",
+    "rank": 86,
+    "last_rank": 80,
+    "total": 633,
+    "event_total": 21
+   },
+   {
+    "entry": 2424472,
+    "player_name": "Apoorvo Choudhary",
+    "entry_name": "Brian Boobey",
+    "rank": 87,
+    "last_rank": 79,
+    "total": 632,
+    "event_total": 15
+   },
+   {
+    "entry": 699330,
+    "player_name": "Pratik Bhatewara",
+    "entry_name": "Batinho XI",
     "rank": 88,
-    "last_rank": 87,
-    "total": 622,
-    "event_total": 17
+    "last_rank": 85,
+    "total": 631,
+    "event_total": 23
+   },
+   {
+    "entry": 907691,
+    "player_name": "Aditya Lal",
+    "entry_name": "Goal Diggers FC",
+    "rank": 89,
+    "last_rank": 97,
+    "total": 630,
+    "event_total": 36
    },
    {
     "entry": 2037953,
@@ -11369,98 +11369,98 @@
     "entry_name": "XI Marauders",
     "rank": 90,
     "last_rank": 89,
-    "total": 621,
-    "event_total": 17
-   },
-   {
-    "entry": 5660348,
-    "player_name": "Vidur Kunzroo",
-    "entry_name": "GIGN 1",
-    "rank": 91,
-    "last_rank": 96,
-    "total": 620,
+    "total": 628,
     "event_total": 24
-   },
-   {
-    "entry": 686561,
-    "player_name": "Pranav Macker",
-    "entry_name": "Kabhi Elvedi n Kehna",
-    "rank": 92,
-    "last_rank": 91,
-    "total": 619,
-    "event_total": 18
    },
    {
     "entry": 3389995,
     "player_name": "Stephen Menezes",
     "entry_name": "Goal Diggers",
-    "rank": 93,
+    "rank": 91,
     "last_rank": 87,
-    "total": 618,
-    "event_total": 13
+    "total": 627,
+    "event_total": 22
+   },
+   {
+    "entry": 5660348,
+    "player_name": "Vidur Kunzroo",
+    "entry_name": "GIGN 1",
+    "rank": 92,
+    "last_rank": 96,
+    "total": 625,
+    "event_total": 29
    },
    {
     "entry": 3298199,
     "player_name": "Abu Thomas Koshy",
     "entry_name": "Nee Poda Cunha",
-    "rank": 94,
+    "rank": 93,
     "last_rank": 93,
-    "total": 617,
-    "event_total": 17
+    "total": 625,
+    "event_total": 25
    },
    {
-    "entry": 8603432,
-    "player_name": "M Abhishek Rao",
-    "entry_name": "Panchavati FC",
-    "rank": 95,
-    "last_rank": 94,
-    "total": 616,
-    "event_total": 18
+    "entry": 5734029,
+    "player_name": "Vivek Kumar",
+    "entry_name": "Bluelock",
+    "rank": 94,
+    "last_rank": 92,
+    "total": 624,
+    "event_total": 24
    },
    {
     "entry": 3794959,
     "player_name": "chander rajput",
     "entry_name": "chander's Team",
-    "rank": 96,
+    "rank": 95,
     "last_rank": 99,
-    "total": 614,
-    "event_total": 28
+    "total": 624,
+    "event_total": 38
    },
    {
-    "entry": 907691,
-    "player_name": "Aditya Lal",
-    "entry_name": "Goal Diggers FC",
+    "entry": 4905114,
+    "player_name": "Anuj Joglekar",
+    "entry_name": "Summer Tzolstis",
     "rank": 96,
-    "last_rank": 97,
-    "total": 614,
+    "last_rank": 87,
+    "total": 623,
+    "event_total": 18
+   },
+   {
+    "entry": 8779992,
+    "player_name": "Kartik Kak",
+    "entry_name": "Top FC",
+    "rank": 97,
+    "last_rank": 100,
+    "total": 620,
+    "event_total": 34
+   },
+   {
+    "entry": 4616626,
+    "player_name": "Sanket Khandekar",
+    "entry_name": "KFA Xtreme",
+    "rank": 98,
+    "last_rank": 101,
+    "total": 620,
+    "event_total": 34
+   },
+   {
+    "entry": 8603432,
+    "player_name": "M Abhishek Rao",
+    "entry_name": "Panchavati FC",
+    "rank": 99,
+    "last_rank": 94,
+    "total": 618,
     "event_total": 20
    },
    {
     "entry": 1967440,
     "player_name": "Swapnil Limaye",
     "entry_name": "Notautdfan",
-    "rank": 98,
-    "last_rank": 95,
-    "total": 612,
-    "event_total": 14
-   },
-   {
-    "entry": 4616626,
-    "player_name": "Sanket Khandekar",
-    "entry_name": "KFA Xtreme",
-    "rank": 99,
-    "last_rank": 101,
-    "total": 610,
-    "event_total": 24
-   },
-   {
-    "entry": 8779992,
-    "player_name": "Kartik Kak",
-    "entry_name": "Top FC",
     "rank": 100,
-    "last_rank": 100,
-    "total": 609,
-    "event_total": 23
+    "last_rank": 95,
+    "total": 614,
+    "event_total": 16
    },
    {
     "entry": 1497357,
@@ -11468,8 +11468,8 @@
     "entry_name": "monty25",
     "rank": 101,
     "last_rank": 98,
-    "total": 600,
-    "event_total": 11
+    "total": 602,
+    "event_total": 13
    },
    {
     "entry": 3942185,
@@ -11477,8 +11477,8 @@
     "entry_name": "madness in blue",
     "rank": 102,
     "last_rank": 106,
-    "total": 591,
-    "event_total": 31
+    "total": 595,
+    "event_total": 35
    },
    {
     "entry": 1474501,
@@ -11486,8 +11486,8 @@
     "entry_name": "Lovdenya Bhojyam",
     "rank": 103,
     "last_rank": 102,
-    "total": 590,
-    "event_total": 12
+    "total": 593,
+    "event_total": 15
    },
    {
     "entry": 1183002,
@@ -11495,8 +11495,8 @@
     "entry_name": "Tony Singh ke 11",
     "rank": 104,
     "last_rank": 105,
-    "total": 588,
-    "event_total": 22
+    "total": 591,
+    "event_total": 25
    },
    {
     "entry": 358907,
@@ -11504,8 +11504,8 @@
     "entry_name": "COYS 11",
     "rank": 105,
     "last_rank": 104,
-    "total": 585,
-    "event_total": 14
+    "total": 587,
+    "event_total": 16
    },
    {
     "entry": 4439544,
@@ -11513,17 +11513,17 @@
     "entry_name": "ManchesterIsR3D",
     "rank": 106,
     "last_rank": 103,
-    "total": 580,
-    "event_total": 8
+    "total": 582,
+    "event_total": 10
    },
    {
     "entry": 4800825,
     "player_name": "Sourabh Narsaria",
     "entry_name": "Takatak-baba",
-    "rank": 107,
+    "rank": 106,
     "last_rank": 108,
-    "total": 574,
-    "event_total": 19
+    "total": 582,
+    "event_total": 27
    },
    {
     "entry": 4527650,
@@ -11531,8 +11531,8 @@
     "entry_name": "KM LFC_XI",
     "rank": 108,
     "last_rank": 107,
-    "total": 574,
-    "event_total": 17
+    "total": 577,
+    "event_total": 20
    },
    {
     "entry": 7613031,
@@ -11540,8 +11540,8 @@
     "entry_name": "Janak's Trass",
     "rank": 109,
     "last_rank": 109,
-    "total": 566,
-    "event_total": 19
+    "total": 573,
+    "event_total": 26
    },
    {
     "entry": 6571548,
@@ -11549,8 +11549,8 @@
     "entry_name": "Td ultimate 11",
     "rank": 110,
     "last_rank": 110,
-    "total": 538,
-    "event_total": 16
+    "total": 541,
+    "event_total": 19
    },
    {
     "entry": 6598615,
@@ -11558,8 +11558,8 @@
     "entry_name": "Comfortably Dumb",
     "rank": 111,
     "last_rank": 111,
-    "total": 516,
-    "event_total": 15
+    "total": 518,
+    "event_total": 17
    },
    {
     "entry": 531033,
@@ -11567,8 +11567,8 @@
     "entry_name": "Aritra Kumar's Team",
     "rank": 112,
     "last_rank": 112,
-    "total": 504,
-    "event_total": 18
+    "total": 508,
+    "event_total": 22
    },
    {
     "entry": 9531391,
@@ -11576,8 +11576,8 @@
     "entry_name": "jd boss",
     "rank": 113,
     "last_rank": 113,
-    "total": 482,
-    "event_total": 12
+    "total": 486,
+    "event_total": 16
    }
   ]
  },
@@ -57846,7 +57846,7 @@
     3,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -57912,7 +57912,7 @@
     7,
     1,
     0,
-    61,
+    63,
     0,
     0,
     0
@@ -57931,10 +57931,10 @@
    "529": [
     0,
     0,
-    10,
+    9,
     1,
     0,
-    61,
+    76,
     0,
     0,
     0
@@ -57986,10 +57986,10 @@
    "40": [
     0,
     1,
-    4,
+    5,
     0,
     0,
-    57,
+    71,
     0,
     0,
     0
@@ -58011,7 +58011,7 @@
     1,
     0,
     0,
-    1,
+    16,
     0,
     0,
     0
@@ -58019,10 +58019,10 @@
    "46": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    3,
     0,
     0,
     0
@@ -58055,7 +58055,7 @@
     3,
     1,
     0,
-    61,
+    76,
     0,
     0,
     0
@@ -58074,10 +58074,10 @@
    "566": [
     0,
     0,
-    10,
+    9,
     1,
     0,
-    61,
+    74,
     0,
     0,
     0
@@ -58121,7 +58121,7 @@
     6,
     1,
     0,
-    61,
+    74,
     0,
     0,
     0
@@ -58143,7 +58143,7 @@
     14,
     1,
     0,
-    61,
+    74,
     0,
     0,
     0
@@ -58154,7 +58154,7 @@
     3,
     1,
     0,
-    61,
+    74,
     0,
     0,
     0
@@ -58162,10 +58162,10 @@
    "68": [
     0,
     1,
-    6,
+    7,
     1,
     0,
-    61,
+    74,
     0,
     0,
     0
@@ -58195,10 +58195,10 @@
    "79": [
     1,
     0,
-    6,
+    7,
     1,
     0,
-    61,
+    74,
     0,
     0,
     0
@@ -58209,7 +58209,7 @@
     2,
     0,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -58242,7 +58242,7 @@
     6,
     1,
     0,
-    61,
+    76,
     0,
     0,
     0
@@ -58297,7 +58297,7 @@
     1,
     0,
     0,
-    35,
+    49,
     0,
     0,
     0
@@ -58327,10 +58327,10 @@
    "110": [
     0,
     0,
+    2,
     0,
     0,
-    0,
-    58,
+    71,
     0,
     0,
     0
@@ -58352,7 +58352,7 @@
     6,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -58492,10 +58492,10 @@
    "149": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    57,
+    71,
     0,
     0,
     0
@@ -58503,10 +58503,10 @@
    "154": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    57,
+    71,
     0,
     0,
     0
@@ -58525,10 +58525,10 @@
    "156": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    7,
     0,
     0,
     0
@@ -58550,7 +58550,7 @@
     2,
     1,
     0,
-    61,
+    72,
     0,
     0,
     0
@@ -58561,7 +58561,7 @@
     1,
     0,
     0,
-    61,
+    74,
     0,
     0,
     0
@@ -58580,10 +58580,10 @@
    "173": [
     0,
     0,
+    3,
     0,
     0,
-    0,
-    58,
+    71,
     0,
     0,
     0
@@ -58591,10 +58591,10 @@
    "175": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    58,
+    71,
     0,
     0,
     0
@@ -58602,10 +58602,10 @@
    "183": [
     0,
     2,
-    8,
+    10,
     0,
     0,
-    58,
+    71,
     0,
     0,
     0
@@ -58627,7 +58627,7 @@
     0,
     0,
     0,
-    61,
+    74,
     0,
     0,
     0
@@ -58635,10 +58635,10 @@
    "204": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    58,
+    71,
     0,
     0,
     0
@@ -58770,7 +58770,7 @@
     1,
     0,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -58924,7 +58924,7 @@
     1,
     0,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -58935,7 +58935,7 @@
     1,
     0,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -58943,10 +58943,10 @@
    "316": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    1,
     0,
     0,
     0
@@ -58979,7 +58979,7 @@
     4,
     0,
     0,
-    57,
+    71,
     0,
     0,
     0
@@ -58987,10 +58987,10 @@
    "332": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    57,
+    71,
     0,
     0,
     0
@@ -58998,10 +58998,10 @@
    "334": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    57,
+    71,
     0,
     0,
     0
@@ -59009,10 +59009,10 @@
    "346": [
     1,
     1,
-    9,
+    10,
     0,
     0,
-    57,
+    71,
     0,
     0,
     0
@@ -59108,10 +59108,10 @@
    "385": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    57,
+    71,
     0,
     0,
     0
@@ -59185,10 +59185,10 @@
    "401": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -59196,10 +59196,10 @@
    "403": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -59353,7 +59353,7 @@
     1,
     0,
     0,
-    61,
+    71,
     0,
     0,
     0
@@ -59364,7 +59364,7 @@
     1,
     0,
     0,
-    61,
+    74,
     0,
     0,
     0
@@ -59375,7 +59375,7 @@
     2,
     0,
     0,
-    61,
+    74,
     0,
     0,
     0
@@ -59408,7 +59408,7 @@
     7,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -59427,10 +59427,10 @@
    "498": [
     0,
     0,
-    6,
+    8,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -59441,7 +59441,7 @@
     11,
     1,
     0,
-    61,
+    75,
     0,
     0,
     0
@@ -59480,7 +59480,7 @@
     0
    ],
    "_hits": {
-    "48343": 5,
+    "48343": 6,
     "4632544": 3,
     "3086063": 8,
     "3794959": 2,
@@ -59495,111 +59495,111 @@
   "ranks": {
    "5949580": 1,
    "305234": 2,
-   "13978": 4,
-   "136653": 6,
-   "1325491": 5,
    "3991082": 3,
+   "13978": 4,
+   "1325491": 5,
+   "136653": 6,
    "2429776": 7,
-   "1273065": 9,
-   "4722308": 7,
-   "3219276": 11,
-   "3949616": 13,
-   "2671682": 14,
-   "2557772": 15,
+   "1273065": 8,
+   "4722308": 8,
    "393940": 10,
-   "2985014": 15,
-   "1902223": 15,
+   "3219276": 10,
    "573491": 12,
+   "3949616": 12,
+   "2671682": 14,
+   "2985014": 15,
+   "2557772": 16,
+   "1902223": 17,
    "3479732": 18,
-   "1662734": 25,
-   "5685525": 21,
-   "3214478": 27,
-   "107315": 27,
-   "3323262": 21,
-   "2554077": 29,
-   "1541394": 24,
-   "18991": 18,
+   "18991": 19,
    "3234577": 20,
+   "5685525": 21,
+   "1312692": 22,
+   "3323262": 22,
+   "1541394": 24,
+   "1662734": 25,
+   "780469": 26,
+   "107315": 26,
+   "3214478": 28,
+   "2554077": 29,
    "1305406": 30,
-   "1312692": 21,
-   "780469": 25,
-   "42960": 38,
-   "263779": 35,
-   "710718": 35,
-   "5640988": 38,
-   "249619": 47,
-   "3239284": 47,
-   "257074": 37,
-   "10821": 42,
-   "698784": 34,
+   "6034028": 31,
    "6543092": 32,
    "32831": 32,
-   "480904": 42,
-   "13951": 46,
-   "4558790": 49,
+   "263779": 34,
+   "710718": 35,
+   "698784": 35,
+   "5640988": 35,
+   "42960": 38,
    "3566356": 38,
-   "4151180": 50,
-   "3654448": 50,
-   "1425044": 41,
-   "48343": 52,
-   "675013": 58,
-   "248721": 54,
+   "10821": 40,
+   "257074": 40,
+   "1425044": 42,
+   "13951": 42,
    "3560542": 42,
-   "6034028": 30,
-   "4134138": 59,
+   "119217": 45,
+   "480904": 45,
+   "3239284": 47,
+   "4558790": 48,
+   "249619": 48,
+   "3654448": 50,
+   "4151180": 51,
+   "48343": 51,
+   "1443362": 53,
+   "248721": 54,
    "2932096": 55,
-   "4683090": 56,
-   "4540238": 56,
-   "1443362": 52,
-   "119259": 60,
-   "2119331": 60,
-   "119217": 42,
-   "2868149": 63,
+   "4540238": 55,
+   "675013": 57,
+   "4683090": 57,
+   "119259": 59,
+   "4134138": 59,
+   "2119331": 61,
    "57776": 62,
-   "2569620": 67,
    "4632544": 63,
-   "383029": 63,
-   "1854010": 70,
-   "26707": 73,
-   "2922453": 66,
+   "2922453": 64,
+   "383029": 65,
+   "2868149": 65,
+   "2569620": 65,
    "4592187": 68,
-   "4314690": 74,
    "10615": 69,
-   "3086063": 72,
+   "1854010": 70,
    "3404613": 71,
-   "6830291": 79,
+   "3086063": 72,
+   "26707": 73,
+   "4314690": 74,
    "1737924": 75,
-   "4372346": 76,
-   "438967": 78,
-   "2680660": 83,
+   "4372346": 75,
+   "44532": 77,
+   "438967": 77,
+   "6830291": 79,
    "4811914": 80,
    "174952": 81,
-   "2424472": 84,
-   "2723973": 84,
+   "2680660": 82,
+   "11673": 83,
+   "686561": 84,
+   "2723973": 85,
    "3350036": 86,
-   "44532": 76,
-   "699330": 87,
-   "11673": 82,
-   "5734029": 94,
-   "4905114": 94,
-   "2037953": 90,
-   "5660348": 93,
-   "686561": 87,
-   "3389995": 91,
-   "3298199": 92,
-   "8603432": 99,
-   "3794959": 96,
+   "2424472": 86,
+   "699330": 88,
    "907691": 89,
-   "1967440": 100,
-   "4616626": 97,
+   "2037953": 90,
+   "3389995": 91,
+   "5660348": 92,
+   "3298199": 92,
+   "5734029": 94,
+   "3794959": 94,
+   "4905114": 96,
    "8779992": 97,
+   "4616626": 97,
+   "8603432": 99,
+   "1967440": 100,
    "1497357": 101,
-   "3942185": 103,
-   "1474501": 102,
+   "3942185": 102,
+   "1474501": 103,
    "1183002": 104,
    "358907": 105,
    "4439544": 106,
-   "4800825": 107,
+   "4800825": 106,
    "4527650": 108,
    "7613031": 109,
    "6571548": 110,
@@ -59610,104 +59610,104 @@
   "zones": {
    "5949580": "gold",
    "305234": "gold",
-   "13978": "gold",
-   "136653": "gold",
-   "1325491": "gold",
    "3991082": "gold",
+   "13978": "gold",
+   "1325491": "gold",
+   "136653": "gold",
    "2429776": "gold",
    "1273065": "gold",
    "4722308": "gold",
+   "393940": "silver",
    "3219276": "silver",
+   "573491": "silver",
    "3949616": "silver",
    "2671682": "silver",
-   "2557772": "silver",
-   "393940": "silver",
    "2985014": "silver",
+   "2557772": "silver",
    "1902223": "silver",
-   "573491": "silver",
    "3479732": "silver",
-   "1662734": "silver",
-   "5685525": "silver",
-   "3214478": "silver",
-   "107315": "silver",
-   "3323262": "silver",
-   "2554077": "silver",
-   "1541394": "silver",
    "18991": "silver",
    "3234577": "silver",
-   "1305406": "silver",
+   "5685525": "silver",
    "1312692": "silver",
+   "3323262": "silver",
+   "1541394": "silver",
+   "1662734": "silver",
    "780469": "silver",
-   "42960": null,
-   "263779": null,
-   "710718": null,
-   "5640988": null,
-   "249619": null,
-   "3239284": null,
-   "257074": null,
-   "10821": null,
-   "698784": null,
+   "107315": "silver",
+   "3214478": "silver",
+   "2554077": "silver",
+   "1305406": "silver",
+   "6034028": null,
    "6543092": null,
    "32831": null,
-   "480904": null,
-   "13951": null,
-   "4558790": null,
+   "263779": null,
+   "710718": null,
+   "698784": null,
+   "5640988": null,
+   "42960": null,
    "3566356": null,
-   "4151180": null,
-   "3654448": null,
+   "10821": null,
+   "257074": null,
    "1425044": null,
-   "48343": null,
-   "675013": null,
-   "248721": null,
+   "13951": null,
    "3560542": null,
-   "6034028": "silver",
-   "4134138": null,
-   "2932096": null,
-   "4683090": null,
-   "4540238": null,
-   "1443362": null,
-   "119259": null,
-   "2119331": null,
    "119217": null,
-   "2868149": null,
+   "480904": null,
+   "3239284": null,
+   "4558790": null,
+   "249619": null,
+   "3654448": null,
+   "4151180": null,
+   "48343": null,
+   "1443362": null,
+   "248721": null,
+   "2932096": null,
+   "4540238": null,
+   "675013": null,
+   "4683090": null,
+   "119259": null,
+   "4134138": null,
+   "2119331": null,
    "57776": null,
-   "2569620": null,
    "4632544": null,
-   "383029": null,
-   "1854010": null,
-   "26707": null,
    "2922453": null,
+   "383029": null,
+   "2868149": null,
+   "2569620": null,
    "4592187": null,
-   "4314690": null,
    "10615": null,
-   "3086063": null,
+   "1854010": null,
    "3404613": null,
-   "6830291": null,
+   "3086063": null,
+   "26707": null,
+   "4314690": null,
    "1737924": null,
    "4372346": null,
+   "44532": null,
    "438967": null,
-   "2680660": null,
+   "6830291": null,
    "4811914": null,
    "174952": null,
-   "2424472": null,
+   "2680660": null,
+   "11673": null,
+   "686561": null,
    "2723973": null,
    "3350036": null,
-   "44532": null,
+   "2424472": null,
    "699330": null,
-   "11673": null,
-   "5734029": null,
-   "4905114": null,
-   "2037953": null,
-   "5660348": null,
-   "686561": null,
-   "3389995": null,
-   "3298199": null,
-   "8603432": null,
-   "3794959": null,
    "907691": null,
-   "1967440": null,
-   "4616626": null,
+   "2037953": null,
+   "3389995": null,
+   "5660348": null,
+   "3298199": null,
+   "5734029": null,
+   "3794959": null,
+   "4905114": null,
    "8779992": null,
+   "4616626": null,
+   "8603432": null,
+   "1967440": null,
    "1497357": null,
    "3942185": null,
    "1474501": null,
@@ -59723,7 +59723,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T16:20:44Z",
+ "updated": "2026-11-21T16:34:59Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -59765,13 +59765,13 @@
     "plots": 4
    },
    "11": {
-    "in": 1347276,
-    "out": 225571,
-    "calls": 90,
+    "in": 1472560,
+    "out": 245252,
+    "calls": 98,
     "refreshes": 7,
-    "desks": 12,
-    "desk_in": 1114231,
-    "desk_out": 212028
+    "desks": 13,
+    "desk_in": 1239515,
+    "desk_out": 231709
    }
   },
   "verdict_tries": {
@@ -59782,6 +59782,402 @@
    "10:t:da2e1f1d1a60": 1
   },
   "desks": [
+   {
+    "headline": "Calvert-Lewin's 10-point haul stings 15 benchers and 5 sellers",
+    "text": "**Calvert-Lewin** smashed **10 points** at CHE v LEE, leaving the 15 managers who benched him and the 5 who sold him wincing. At the top, Rajat Arora still leads Neol by **19 points**. Neol could close in when NEWC v ARS kicks off, if his players deliver.",
+    "you": {
+     "5949580": "Evanilson, the striker you sold this week, has 7 points for BOU v NFO.",
+     "305234": "Rajat Arora is 19 points ahead of you, with 5 players still to play.",
+     "3991082": "3 managers are behind you today after you passed them: Yash Bhatia, Akshat and Aryan Khamankar.",
+     "13978": "Sukrut passed you today, so you sit 3 points behind him.",
+     "1325491": "You have passed Aryan Khamankar today, though Sukrut has passed you.",
+     "136653": "Sukrut, Yash Bhatia and Akshat have all passed you today.",
+     "4722308": "Kshiteesh passed you today, leaving you 2 points behind him.",
+     "2429776": "You have passed Biswadeep today, climbing back to 7th.",
+     "1273065": "You dropped as low as 9th today, then climbed back to 8th.",
+     "393940": "You have passed Utkarsh, Clawin and Quseem today.",
+     "3219276": "You dropped as low as 11th today, now back up to 10th.",
+     "573491": "You have passed Clawin, Saeel and Quseem today, moving up to 12th.",
+     "3949616": "Anurag has passed you today.",
+     "2671682": "Anurag and Nihal have both passed you today.",
+     "1902223": "Anurag, Nihal and Saeel passed you today.",
+     "2557772": "Anurag, Nihal and Clawin have passed you today.",
+     "2985014": "Nihal has passed you today, but you did get past Quseem.",
+     "18991": "You have passed Kaushik, Mudit and Adrian today.",
+     "3479732": "You have passed Kaushik, Mudit and Sid today, with your Bench Boost still live.",
+     "3234577": "Sahilk and Arshad have passed you today.",
+     "1312692": "You passed Sikander and Sahej today, but Arshad passed you.",
+     "1541394": "You have passed Sahil, Sikander and Hitesh today without being passed.",
+     "1662734": "Nihal, Arshad and Sahilk have passed you today.",
+     "3214478": "Nihal, Sahilk and Arshad passed you today, leaving you 1 point behind Sahil.",
+     "107315": "You passed Hitesh today, but Nihal, Sahilk and Arshad passed you.",
+     "2554077": "Isak, your captain, is still to play with 4 managers on him.",
+     "6034028": "Your armband on Silva is already worth **18 points** while BOU v NFO plays on, and you have passed Eli, Sidharth and Aleston today.",
+     "1305406": "Sahilk, Arshad and Adrian have passed you today, dropping you to 30th.",
+     "6543092": "You have passed Nishit and Zorawar today, but Aryan Apte is still ahead of you on the day.",
+     "698784": "You have passed Bhavin and Shahaan today, but Aryan Apte and Eli are ahead.",
+     "1425044": "Manzambi, whom 3 of you benched, is on the pitch, and Sidharth and Aleston sit above you.",
+     "119217": "Sandeepan has passed you today, but you have passed Kabeerr and Mayuresh.",
+     "13951": "You have passed Nehal, Kabeerr and Mayuresh today, and no one has passed you yet.",
+     "48343": "Aryan Apte and Sagar have passed you today, with Sandeepan still ahead.",
+     "2932096": "Your Kunal side is on **28 points** this gameweek after Bogle set up a goal in the same round you sold him.",
+     "119259": "You have passed Ajay, Adit and Akash today, and no one has passed you yet.",
+     "57776": "You have passed Akash, Adit and Shahan today, and your 31 points have you 62nd with 5 players still to play.",
+     "2868149": "Aryan Apte, Ram and Sagar passed you today, but with 8 players still to play you have the most left in your group.",
+     "4632544": "Passing Adit, Shahan and Krishnaji today has you 63rd, with 4 players still to play.",
+     "2922453": "Your 33 points have pushed you to 64th, and Adwait and Sajeet are still just ahead.",
+     "2569620": "Sandeepan and Rahil have passed you today, so a De Cuyper captaincy haul could lift you from 65th.",
+     "4592187": "Your 30 points have lifted you to 68th, and you have passed Shahan, S.M. and Krishnaji.",
+     "10615": "Your 29 points today have you 69th, and Silva and Vuskovic are still to play for you.",
+     "1854010": "Adwait and Sajeet have passed you today, and your 2 points from Haaland's captaincy hold you at 70th.",
+     "3404613": "Your 27 points today have lifted you to 71st, and Colwill is the last player still to play for you.",
+     "3086063": "Udit and Maanas have passed you today, leaving you 72nd with 5 players still to play.",
+     "26707": "Sandeepan, Suraj and Shrivar have passed you today, and Barry and Isak are still to play for you.",
+     "4314690": "Abhishek Yerra, Udit and Maanas have passed you today, leaving you 74th with 5 players still to play.",
+     "1737924": "Your 24 points have you 75th, with 6 players still to play, and N.Jackson is your captain.",
+     "44532": "Your 36 points have carried you up to 77th, with 4 players still to play.",
+     "4372346": "Passing Avin and Karan P Nanda today has you 75th on 646 points, with 5 players still to play.",
+     "6830291": "Ketan and Shantanu have passed you today, and Bogle and Belloumi are still to play for you.",
+     "4811914": "Your 32 points have carried you up to 80th, and you have passed Mohit, Apoorvo and Avinash.",
+     "174952": "You have passed Mohit, Apoorvo and Avinash today, with 4 players still to play.",
+     "2680660": "Ketan, Aniket and Abhishek Thard have passed you today, but you have passed Apoorvo and Avinash.",
+     "2723973": "Your 30 points have you 85th, with 4 players still to play.",
+     "3350036": "Ketan, Aniket and Abhishek Thard have passed you today, leaving you 86th with 5 players still to play.",
+     "699330": "Passing Stephen and Anuj today has you 88th, with 6 players still to play.",
+     "3389995": "Rogers is already on **10 points** with his captain armband, and that is a strong start from 91st for you.",
+     "5660348": "Groß is your differential captain and is still to play, which makes this a gamble that could lift you from 93rd.",
+     "6571548": "White is the only pick you still have to play, and 19 points keeps you in contention from 110th.",
+     "9531391": "Boscagli and Maguire are your only picks still to play, and either could help you climb from 113th.",
+     "4527650": "Sourabh has passed you today, and Dunk is the only pick you still have to play from 108th.",
+     "6598615": "A.Becker is the one pick only you still have to play, and a goal could move you up from 111th.",
+     "5685525": "Nihal and Sahilk have passed you today.",
+     "3323262": "Nihal and Sahilk have passed you today.",
+     "780469": "Nihal, Sahilk and Arshad have passed you today.",
+     "32831": "You passed Nishit and Zorawar today, but Aryan Apte has got in front of you.",
+     "263779": "You have passed Nishit and Zorawar today, but Aryan Apte still sits above you.",
+     "710718": "Aryan Apte and Eli have passed you today, leaving you behind them on the day.",
+     "5640988": "You have passed Bhavin and Shahaan today, while Aryan Apte is still ahead.",
+     "42960": "Aryan Apte, Eli and Sidharth are ahead of you today, with Jackey still below.",
+     "3566356": "You have passed Shahaan and Manav today, but Aryan Apte is still ahead of you.",
+     "10821": "You have passed Manav and Nehal today, but Aryan Apte is still ahead.",
+     "257074": "Aryan Apte, Eli and Sidharth are still ahead of you today, with Mayuresh behind.",
+     "3560542": "You have passed Kunaal, Nehal and Kabeerr today, and no one has passed you on the day.",
+     "480904": "Aryan Apte and Eli are still ahead of you on the day, with Mayuresh behind.",
+     "3239284": "Triple Captain on N.Jackson is **6 points** so far, and you have passed Mayuresh and Rahul today.",
+     "249619": "Nanik, Aryan Apte and Eli have all passed you today, so the climb has stalled.",
+     "4558790": "You have passed Kashish and Amar today, but Aryan Apte and Sundar are ahead.",
+     "3654448": "You have passed Hardik and Kashish today, but Sandeepan has passed you.",
+     "4151180": "Aryan Apte, Sidharth and Aleston have all passed you today.",
+     "1443362": "You have passed Raj and Kunal today, but Sandeepan is still ahead.",
+     "248721": "Sandeepan, Kunaal and Abhimanyu have passed you today.",
+     "4540238": "You have passed Amar, SHARAN and Rishab today, but Sandeepan and Suraj are ahead.",
+     "675013": "Aryan Apte, Sidharth and Aleston have passed you today.",
+     "4683090": "You have passed Rishab and Akash today, but Aryan Apte and Sagar are ahead.",
+     "4134138": "Aryan Apte, Sundar and Jackey have passed you today.",
+     "2119331": "Haaland's **2 points** with the armband give you 4, and Sandeepan and Kunaal passed you today, so you need Konsa and Barry-type hauls to climb.",
+     "383029": "You passed Shahan and Krishnaji today, but Abhishek Yerra passed you, leaving you 65th.",
+     "438967": "Shantanu passed you today, leaving you 77th with 4 players still to play.",
+     "11673": "Your 30 points have you 83rd, and Barcola is still to play as your captain.",
+     "686561": "Your 34 points have you 84th, and Szoboszlai is the last player still to play for you.",
+     "2424472": "Ketan, Aniket and Abhishek Thard passed you today, and Jacquet is still to play for you.",
+     "907691": "Your 36 points have you 89th, and you have passed Umang, Stephen and Abu today.",
+     "2037953": "Pranav and Aditya passed you today, leaving you 90th with 4 players still to play.",
+     "3298199": "Aditya passed you today, but you have already passed Vivek and Anuj, and Haaland's 4 armband points sit at 92nd.",
+     "5734029": "Aditya and Abu have passed you today, and Haaland's 4 points as captain have not helped you climb from 94th.",
+     "3794959": "Your Bench Boost has delivered 34 points from 94th, and Egan is the only player you still have to play.",
+     "4905114": "Pranav, Arnav and Pratik have passed you today, and you are 96th with 7 players still to play.",
+     "8779992": "You have passed M, Swapnil and Monty today, and 34 points from 97th is a strong day.",
+     "8603432": "Aditya, Abu and Vidur have passed you today, and you are 99th with 6 players still to play.",
+     "1967440": "Aditya, Abu and Vidur have passed you today, and Swapnil sits 100th after 16 points.",
+     "1497357": "Kartik and Sanket Khandekar have passed you today, and you are 101st, 12 points behind Swapnil.",
+     "1474501": "Sanket Nahata has passed you today, and Isak is your captain still to play from 103rd.",
+     "1183002": "You have passed Vinil and Neil, but Sanket Nahata passed you, and 25 points lifts you from 104th.",
+     "358907": "Sanket Nahata and Varun have passed you today, and you are 105th with 8 players still to play.",
+     "4439544": "Sanket Nahata, Varun and Vinil have passed you today, and you are 106th with 6 players still to play.",
+     "4800825": "You have passed Krishna today, and 27 points keeps you level with Neil at 106th."
+    },
+    "ts": "2026-11-21T16:34:59Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:i:0-0|102:i:2-0|103:n:0-0|104:i:1-3|105:i:2-2|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:i:2-0",
+    "ranks": {
+     "5949580": 1,
+     "305234": 2,
+     "3991082": 3,
+     "13978": 4,
+     "1325491": 5,
+     "136653": 6,
+     "2429776": 7,
+     "1273065": 8,
+     "4722308": 8,
+     "393940": 10,
+     "3219276": 10,
+     "573491": 12,
+     "3949616": 12,
+     "2671682": 14,
+     "2985014": 15,
+     "2557772": 16,
+     "1902223": 17,
+     "3479732": 18,
+     "18991": 19,
+     "3234577": 20,
+     "5685525": 21,
+     "1312692": 22,
+     "3323262": 22,
+     "1541394": 24,
+     "1662734": 25,
+     "780469": 26,
+     "107315": 26,
+     "3214478": 28,
+     "2554077": 29,
+     "1305406": 30,
+     "6034028": 31,
+     "6543092": 32,
+     "32831": 32,
+     "263779": 34,
+     "710718": 35,
+     "698784": 35,
+     "5640988": 35,
+     "42960": 38,
+     "3566356": 38,
+     "10821": 40,
+     "257074": 40,
+     "1425044": 42,
+     "13951": 42,
+     "3560542": 42,
+     "119217": 45,
+     "480904": 45,
+     "3239284": 47,
+     "4558790": 48,
+     "249619": 48,
+     "3654448": 50,
+     "4151180": 51,
+     "48343": 51,
+     "1443362": 53,
+     "248721": 54,
+     "2932096": 55,
+     "4540238": 55,
+     "675013": 57,
+     "4683090": 57,
+     "119259": 59,
+     "4134138": 59,
+     "2119331": 61,
+     "57776": 62,
+     "4632544": 63,
+     "2922453": 64,
+     "383029": 65,
+     "2868149": 65,
+     "2569620": 65,
+     "4592187": 68,
+     "10615": 69,
+     "1854010": 70,
+     "3404613": 71,
+     "3086063": 72,
+     "26707": 73,
+     "4314690": 74,
+     "1737924": 75,
+     "4372346": 75,
+     "44532": 77,
+     "438967": 77,
+     "6830291": 79,
+     "4811914": 80,
+     "174952": 81,
+     "2680660": 82,
+     "11673": 83,
+     "686561": 84,
+     "2723973": 85,
+     "3350036": 86,
+     "2424472": 86,
+     "699330": 88,
+     "907691": 89,
+     "2037953": 90,
+     "3389995": 91,
+     "5660348": 92,
+     "3298199": 92,
+     "5734029": 94,
+     "3794959": 94,
+     "4905114": 96,
+     "8779992": 97,
+     "4616626": 97,
+     "8603432": 99,
+     "1967440": 100,
+     "1497357": 101,
+     "3942185": 102,
+     "1474501": 103,
+     "1183002": 104,
+     "358907": 105,
+     "4439544": 106,
+     "4800825": 106,
+     "4527650": 108,
+     "7613031": 109,
+     "6571548": 110,
+     "6598615": 111,
+     "531033": 112,
+     "9531391": 113
+    },
+    "totals": {
+     "5949580": 756,
+     "305234": 737,
+     "3991082": 735,
+     "13978": 732,
+     "1325491": 728,
+     "136653": 726,
+     "2429776": 723,
+     "1273065": 721,
+     "4722308": 721,
+     "393940": 714,
+     "3219276": 714,
+     "573491": 713,
+     "3949616": 713,
+     "2671682": 712,
+     "2985014": 710,
+     "2557772": 709,
+     "1902223": 708,
+     "3479732": 705,
+     "18991": 704,
+     "3234577": 700,
+     "5685525": 698,
+     "1312692": 697,
+     "3323262": 697,
+     "1541394": 695,
+     "1662734": 694,
+     "780469": 693,
+     "107315": 693,
+     "3214478": 692,
+     "2554077": 691,
+     "1305406": 689,
+     "6034028": 688,
+     "6543092": 687,
+     "32831": 687,
+     "263779": 685,
+     "710718": 683,
+     "698784": 683,
+     "5640988": 683,
+     "42960": 682,
+     "3566356": 682,
+     "10821": 681,
+     "257074": 681,
+     "1425044": 680,
+     "13951": 680,
+     "3560542": 680,
+     "119217": 679,
+     "480904": 679,
+     "3239284": 678,
+     "4558790": 677,
+     "249619": 677,
+     "3654448": 676,
+     "4151180": 675,
+     "48343": 675,
+     "1443362": 673,
+     "248721": 672,
+     "2932096": 671,
+     "4540238": 671,
+     "675013": 668,
+     "4683090": 668,
+     "119259": 667,
+     "4134138": 667,
+     "2119331": 666,
+     "57776": 664,
+     "4632544": 662,
+     "2922453": 660,
+     "383029": 659,
+     "2868149": 659,
+     "2569620": 659,
+     "4592187": 656,
+     "10615": 655,
+     "1854010": 653,
+     "3404613": 652,
+     "3086063": 651,
+     "26707": 650,
+     "4314690": 648,
+     "1737924": 646,
+     "4372346": 646,
+     "44532": 645,
+     "438967": 645,
+     "6830291": 642,
+     "4811914": 640,
+     "174952": 638,
+     "2680660": 637,
+     "11673": 636,
+     "686561": 635,
+     "2723973": 634,
+     "3350036": 633,
+     "2424472": 633,
+     "699330": 631,
+     "907691": 630,
+     "2037953": 628,
+     "3389995": 627,
+     "5660348": 625,
+     "3298199": 625,
+     "5734029": 624,
+     "3794959": 624,
+     "4905114": 623,
+     "8779992": 620,
+     "4616626": 620,
+     "8603432": 618,
+     "1967440": 614,
+     "1497357": 602,
+     "3942185": 595,
+     "1474501": 593,
+     "1183002": 591,
+     "358907": 587,
+     "4439544": 582,
+     "4800825": 582,
+     "4527650": 577,
+     "7613031": 573,
+     "6571548": 541,
+     "6598615": 518,
+     "531033": 508,
+     "9531391": 486
+    },
+    "ga": {
+     "526": [
+      1,
+      0
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "60": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "481": [
+      1,
+      0
+     ],
+     "499": [
+      0,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-21T16:20:44Z",
+    "next": {
+     "ko": "2026-11-21T17:30:00Z",
+     "match": "NEWC v ARS"
+    }
+   },
    {
     "headline": "Calvert-Lewin's 9 points sting 5 sellers and 15 benchers",
     "text": "Calvert-Lewin scored **9 points** at CHE v LEE, a sting for the 5 who sold him and the 15 who benched him. At the top, Rajat Arora leads Neol by **20 points**. Neol could close in when NEWC v ARS kicks off, if his players deliver.",
@@ -61293,344 +61689,6 @@
      "ko": "2026-11-21T17:30:00Z",
      "match": "NEWC v ARS"
     }
-   },
-   {
-    "headline": "Haaland blanks on 92 armbands as Rajat holds top",
-    "text": "Haaland managed just **2 points** on **92 armbands**, a blank that leaves most of the league's captains short. At the top, **Rajat Arora** still leads Neol by **18 points**, with 5 players each still to play as AVL v SUN, BOU v NFO and CHE v LEE are live.",
-    "you": {
-     "5949580": "Neol is 18 points behind you, and you both have 5 players still to play.",
-     "305234": "Rajat Arora is 18 points ahead of you, with 5 players still to play for you.",
-     "136653": "Neol is 10 points ahead of you, with 6 players still to play for you.",
-     "13978": "Aryan Khamankar is 4 points ahead of you, with 5 players still to play for you.",
-     "1325491": "Yash Bhatia is 1 point ahead of you, with 5 players still to play for you.",
-     "3991082": "Akshat is 1 point ahead of you, with 4 players still to play for you.",
-     "4722308": "You climbed as high as 6th today before slipping to 7th.",
-     "2429776": "Your bench call on Manzambi, one of 3 managers, looks shaky now he is on the pitch for AVL v SUN.",
-     "1273065": "Kshiteesh is 4 points ahead of you, with 6 players still to play for you.",
-     "3219276": "Prathap is 1 point ahead of you, with 5 players still to play for the last Top prizes place.",
-     "3949616": "Cherag is 5 points ahead of you, with 5 players still to play for you.",
-     "2671682": "You have passed Quseem today, climbing from 13th to 12th.",
-     "2557772": "Clawin passed you today, dropping you from 11th to 13th.",
-     "393940": "Manzambi is on the pitch for AVL v SUN after you benched him.",
-     "1902223": "Anurag passed you today, and sits 1 point ahead of you.",
-     "2985014": "Karan Singh is 1 point ahead of you, with 4 players still to play for you.",
-     "573491": "You have climbed 5 places to 17th, with 6 players still to play.",
-     "3214478": "Nihal passed you today, so you now sit 1 point behind him.",
-     "5685525": "Nihal has passed you today, the only overtake of your day so far.",
-     "107315": "Nihal passed you today, the only manager to overtake you so far.",
-     "1305406": "You have passed Sahil, Sid and Sikander today, after starting 24th.",
-     "780469": "Nihal and Tanmay have both passed you today.",
-     "3479732": "You have passed Sikander, Soham and Kaushik today, with Bench Boost still live.",
-     "3323262": "Nihal and Tanmay have passed you today, though you have passed Soham.",
-     "1662734": "Nihal, Tanmay and Sahilk have all passed you today.",
-     "2554077": "Nihal, Tanmay and Sahilk have all passed you today, so you need a big finish from your 5 players still to play.",
-     "3234577": "Sahilk has passed you today, leaving Van Hecke, your lone captain, to win back ground.",
-     "1312692": "You were as high as 26th today, now 28th.",
-     "18991": "Only you and Apoorvo own Rudoni, whose assist has just earned **4 points**.",
-     "1541394": "You have passed Mayuresh today, a climb that could continue with 4 players still to play.",
-     "249619": "Haaland's 2 points were a blank for your captain, but Nanik passed you today and you sit 2 places behind him with 7 players still to play.",
-     "710718": "Haaland's 2 points didn't help, but you gained 1 place today and sit 31st with 9 points this gameweek.",
-     "42960": "Haaland blanked for your captain, but you sit 33rd on 669 points with 5 players still to play for you.",
-     "698784": "You passed Nehal today and sit 35th, with Silva and Vuskovic still to play for you.",
-     "480904": "Your captain De Cuyper is still to play and only 2 managers have him, so he could lift you from 36th.",
-     "1425044": "Manzambi is on the pitch and 3 of you benched him, so Manav, you may have a bench regret to watch.",
-     "32831": "You passed Amar today and are level with Aleston, with Gabriel and Barry still to play for you.",
-     "675013": "Aleston and Sidharth passed you today, and you sit 42nd on 660 points.",
-     "3566356": "You passed Rishab today and sit 44th, with Isak and Kinsky still to play for you.",
-     "5640988": "You passed Rishab today and sit level with Jackey on 659 points.",
-     "4134138": "Jackey and Sundar passed you today, and Isak and McGinn are still to play for your team.",
-     "2868149": "Ram, SHARAN and Kabeerr passed you today, and you have 8 players still to play.",
-     "119217": "You passed Ajay and Hardik today, with Muharemović and Silva still to play for your team.",
-     "2119331": "You passed Hardik today, but Kunaal passed you, and Barry and Gomez are still to play.",
-     "48343": "Raj, Sagar and Aryan Apte passed you today, and you dropped to 56th.",
-     "1443362": "You passed Kunal, Shrivar and Krishnaji today, and Vuskovic and Kinsky are still to play for you.",
-     "4540238": "Suraj passed you today, but you passed Krishnaji, and Haaland's 2 points leave you 60th.",
-     "26707": "Suraj and Shrivar have passed you today, and Barry and Isak are still to play, so one good return could lift you from 61st.",
-     "119259": "You have passed Adit today, and your 10 points this gameweek have taken you up to 61st from 63rd.",
-     "3560542": "You have passed Adit today, and Haaland's 2 points as your captain keep you 61st with 4 still to play.",
-     "2569620": "Rahil and Sandeepan have passed you today, and De Cuyper is your captain still to play, so a haul could lift you from 64th.",
-     "383029": "You dropped as low as 67th today and are back at 66th, with 5 players still to play.",
-     "4632544": "Manu has passed you today, and Haaland's 2 points on the armband leave you 69th.",
-     "10615": "You have passed S.M. today, and Silva and Vuskovic are still to play for you.",
-     "3404613": "You have passed S.M. today, and Colwill is the only player still to play for you.",
-     "6830291": "You have passed Rajat Bhalla today, and Bogle and Belloumi are still to play for you.",
-     "2424472": "Only you and Arshad own Rudoni, whose assist has earned **4 points**.",
-     "2680660": "You dropped to 81st today before climbing back to 80th, with Haaland's 2 points keeping you in touch.",
-     "4811914": "You dropped as low as 85th today and are back at 83rd, with 4 players still to play.",
-     "2037953": "You have passed Anuj, Yash Gawai and Stephen today, and Ødegaard and Cherki are still to play.",
-     "11673": "Pratik passed you today, and Barcola is your captain and still to play.",
-     "4905114": "Pratik, Umang and Arnav have passed you today, and you have 7 players still to play.",
-     "3389995": "Pratik and Umang passed you today, and van Ewijk is your player still to play.",
-     "686561": "Your Haaland captain blanked with **2 points**, but Szoboszlai is the only pick you still have to play, and if he hauls he could lift you from 91st.",
-     "3298199": "You have passed Vivek, M and Swapnil today, and Haaland's 2 points are keeping you 1 behind Pranav on 92nd.",
-     "907691": "You have dropped as low as 97th today and are back up to 96th, with Wirtz and Silva still to play to help you climb.",
-     "5660348": "Your captain Groß is one of the few differential picks still to play, and Gibbs-White and Calvert-Lewin could help you climb from 96th.",
-     "8779992": "You are 1 place above Dinesh's 102nd and 1 below Sanket Khandekar, with N.Jackson still in play for your captain.",
-     "1474501": "Kartik is 10 above you, and Isak as captain is still to play with Ajer.",
-     "358907": "Neil is 1 place above you, and Barry and Isak still to play could help you climb from 104th.",
-     "1183002": "Vinil is 3 above you, with Varun's 105th place still open to a climb.",
-     "3942185": "Varun is 5 above you, and your 106th place is still open to a move.",
-     "4527650": "Dunk is the only pick you still have to play, so a haul could lift you from 107th.",
-     "4800825": "You dropped as low as 109th today and are back up to 108th, with Janak 1 place behind you.",
-     "6571548": "White is the only pick you still have to play, so a haul could help you climb from 110th.",
-     "6598615": "A.Becker is the one pick only you still have to play, and if he scores he could move you up from 111th.",
-     "9531391": "Boscagli and Maguire are the only picks you still have to play, and either could help you climb from 113th.",
-     "4372346": "Dipping as low as 78th today, you have climbed back to 77th.",
-     "3350036": "Apoorvo is 7 points ahead of you, with 5 players still to play for you."
-    },
-    "ts": "2026-11-21T15:18:32Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:i:0-0|102:i:0-0|103:n:0-0|104:i:0-0|105:i:1-1|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:i:1-0",
-    "ranks": {
-     "5949580": 1,
-     "305234": 2,
-     "136653": 3,
-     "13978": 4,
-     "1325491": 5,
-     "3991082": 6,
-     "4722308": 7,
-     "2429776": 8,
-     "1273065": 9,
-     "3219276": 10,
-     "3949616": 11,
-     "2671682": 12,
-     "2557772": 13,
-     "393940": 14,
-     "1902223": 15,
-     "2985014": 16,
-     "573491": 17,
-     "5685525": 18,
-     "3214478": 18,
-     "107315": 18,
-     "1305406": 18,
-     "3479732": 22,
-     "3323262": 22,
-     "780469": 22,
-     "2554077": 25,
-     "1662734": 25,
-     "18991": 27,
-     "3234577": 27,
-     "1312692": 29,
-     "1541394": 30,
-     "710718": 31,
-     "249619": 31,
-     "42960": 33,
-     "257074": 34,
-     "698784": 35,
-     "480904": 36,
-     "6543092": 37,
-     "1425044": 37,
-     "32831": 39,
-     "4151180": 39,
-     "263779": 39,
-     "4558790": 42,
-     "675013": 42,
-     "3566356": 44,
-     "5640988": 44,
-     "4134138": 46,
-     "10821": 46,
-     "4683090": 48,
-     "248721": 49,
-     "3239284": 49,
-     "2868149": 51,
-     "13951": 52,
-     "119217": 53,
-     "6034028": 53,
-     "2119331": 55,
-     "3654448": 56,
-     "48343": 56,
-     "1443362": 56,
-     "2932096": 59,
-     "4540238": 60,
-     "119259": 61,
-     "26707": 61,
-     "3560542": 61,
-     "1854010": 64,
-     "2569620": 64,
-     "383029": 66,
-     "57776": 66,
-     "4314690": 68,
-     "4632544": 69,
-     "2922453": 70,
-     "4592187": 71,
-     "10615": 72,
-     "3404613": 73,
-     "438967": 74,
-     "3086063": 74,
-     "1737924": 76,
-     "6830291": 77,
-     "4372346": 77,
-     "2424472": 79,
-     "3350036": 80,
-     "2680660": 80,
-     "44532": 80,
-     "174952": 83,
-     "4811914": 83,
-     "699330": 85,
-     "2037953": 86,
-     "11673": 87,
-     "2723973": 88,
-     "3389995": 89,
-     "4905114": 89,
-     "686561": 91,
-     "3298199": 92,
-     "5734029": 93,
-     "8603432": 94,
-     "1967440": 95,
-     "5660348": 96,
-     "907691": 96,
-     "3794959": 98,
-     "1497357": 99,
-     "4616626": 100,
-     "8779992": 101,
-     "1474501": 102,
-     "4439544": 103,
-     "358907": 104,
-     "1183002": 105,
-     "3942185": 106,
-     "4527650": 107,
-     "4800825": 109,
-     "7613031": 107,
-     "6571548": 110,
-     "6598615": 111,
-     "531033": 112,
-     "9531391": 113
-    },
-    "totals": {
-     "5949580": 743,
-     "305234": 725,
-     "136653": 715,
-     "13978": 711,
-     "1325491": 710,
-     "3991082": 709,
-     "4722308": 708,
-     "2429776": 706,
-     "1273065": 702,
-     "3219276": 701,
-     "3949616": 696,
-     "2671682": 695,
-     "2557772": 694,
-     "393940": 690,
-     "1902223": 689,
-     "2985014": 688,
-     "573491": 682,
-     "5685525": 681,
-     "3214478": 681,
-     "107315": 681,
-     "1305406": 681,
-     "3479732": 680,
-     "3323262": 680,
-     "780469": 680,
-     "2554077": 679,
-     "1662734": 679,
-     "18991": 678,
-     "3234577": 678,
-     "1312692": 677,
-     "1541394": 673,
-     "710718": 671,
-     "249619": 671,
-     "42960": 669,
-     "257074": 668,
-     "698784": 667,
-     "480904": 666,
-     "6543092": 663,
-     "1425044": 663,
-     "32831": 662,
-     "4151180": 662,
-     "263779": 662,
-     "4558790": 660,
-     "675013": 660,
-     "3566356": 659,
-     "5640988": 659,
-     "4134138": 658,
-     "10821": 658,
-     "4683090": 657,
-     "248721": 656,
-     "3239284": 656,
-     "2868149": 655,
-     "13951": 654,
-     "119217": 653,
-     "6034028": 653,
-     "2119331": 652,
-     "3654448": 651,
-     "48343": 651,
-     "1443362": 651,
-     "2932096": 648,
-     "4540238": 646,
-     "119259": 645,
-     "26707": 645,
-     "3560542": 645,
-     "1854010": 643,
-     "2569620": 643,
-     "383029": 642,
-     "57776": 642,
-     "4314690": 640,
-     "4632544": 639,
-     "2922453": 637,
-     "4592187": 636,
-     "10615": 635,
-     "3404613": 634,
-     "438967": 631,
-     "3086063": 631,
-     "1737924": 629,
-     "6830291": 628,
-     "4372346": 628,
-     "2424472": 626,
-     "3350036": 619,
-     "2680660": 619,
-     "44532": 619,
-     "174952": 618,
-     "4811914": 618,
-     "699330": 616,
-     "2037953": 615,
-     "11673": 614,
-     "2723973": 613,
-     "3389995": 612,
-     "4905114": 612,
-     "686561": 611,
-     "3298199": 609,
-     "5734029": 608,
-     "8603432": 606,
-     "1967440": 605,
-     "5660348": 604,
-     "907691": 604,
-     "3794959": 597,
-     "1497357": 596,
-     "4616626": 595,
-     "8779992": 594,
-     "1474501": 584,
-     "4439544": 580,
-     "358907": 577,
-     "1183002": 574,
-     "3942185": 569,
-     "4527650": 565,
-     "4800825": 563,
-     "7613031": 565,
-     "6571548": 529,
-     "6598615": 505,
-     "531033": 491,
-     "9531391": 478
-    },
-    "ga": {
-     "183": [
-      0,
-      1
-     ],
-     "481": [
-      1,
-      0
-     ],
-     "499": [
-      0,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-21T15:05:11Z",
-    "next": {
-     "ko": "2026-11-21T17:30:00Z",
-     "match": "NEWC v ARS"
-    }
    }
   ],
   "desk_day": {
@@ -61751,7 +61809,7 @@
     "9531391": 113
    }
   },
-  "desk_last_ok": "2026-11-21T16:20:44Z",
+  "desk_last_ok": "2026-11-21T16:34:59Z",
   "plots_v_tries": {
    "6": 2,
    "7": 1,
@@ -65889,12 +65947,9 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T16:20:44Z",
+  "ts": "2026-11-21T16:34:59Z",
   "issues": [],
-  "page": [],
-  "wording": [
-   "wording (1 points): ...have gained 6 on you.      Palmer CHE   1 pts so far..."
-  ]
+  "page": []
  },
  "phase": "live",
  "plot_log": {
@@ -66102,7 +66157,7 @@
    "101": "a|100|",
    "499": "a|100|",
    "481": "a|100|",
-   "455": "a|100|",
+   "455": "d|75|Illness - 75% chance of playing",
    "401": "a|100|",
    "495": "a|None|",
    "422": "a|100|",
@@ -66137,7 +66192,8 @@
    "251": "2026-11-20T11:59:23Z",
    "403": "2026-11-20T15:05:43Z",
    "391": "2026-11-20T15:36:56Z",
-   "388": "2026-11-21T12:12:02Z"
+   "388": "2026-11-21T12:12:02Z",
+   "455": "2026-11-21T16:34:59Z"
   },
   "price": {
    "1": 6.3,
@@ -66873,6 +66929,14 @@
     "status": "a",
     "chance": 100,
     "news": ""
+   },
+   {
+    "ts": "2026-11-21T16:34:59Z",
+    "el": 455,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Illness - 75% chance of playing"
    }
   ]
  },
@@ -66996,8 +67060,8 @@
     "branch": "haul",
     "status": {
      "state": "playing",
-     "label": "Playing · 1",
-     "pts": 1
+     "label": "Playing · 2",
+     "pts": 2
     }
    },
    {
@@ -67065,8 +67129,8 @@
     "branch": "both",
     "status": {
      "state": "playing",
-     "label": "Playing · 6",
-     "pts": 6
+     "label": "Playing · 7",
+     "pts": 7
     }
    }
   ],
@@ -67168,9 +67232,9 @@
       "player": "Barry"
      },
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      }
     ]
@@ -67220,8 +67284,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Muharemović"
      },
      {
@@ -67328,9 +67392,9 @@
       "player": "Isak"
      },
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      }
     ]
@@ -67411,8 +67475,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Muharemović"
      }
     ]
@@ -67508,9 +67572,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      },
      {
@@ -67539,9 +67603,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      },
      {
@@ -67571,8 +67635,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Justin"
      },
      {
@@ -67775,9 +67839,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      },
      {
@@ -67803,9 +67867,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      },
      {
@@ -68104,9 +68168,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 9",
-      "pts": 9,
+      "state": "happening",
+      "label": "Hauling · 10",
+      "pts": 10,
       "player": "Calvert-Lewin"
      }
     ]
@@ -68125,9 +68189,9 @@
     "you_captain": "Silva",
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      }
     ]
@@ -68176,14 +68240,14 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Muharemović"
      },
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      }
     ]
@@ -68209,9 +68273,9 @@
       "player": "Dewsbury-Hall"
      },
      {
-      "state": "playing",
-      "label": "Playing · 9",
-      "pts": 9,
+      "state": "happening",
+      "label": "Hauling · 10",
+      "pts": 10,
       "player": "Calvert-Lewin"
      }
     ]
@@ -68340,9 +68404,9 @@
       "player": "Isak"
      },
      {
-      "state": "playing",
-      "label": "Playing · 9",
-      "pts": 9,
+      "state": "happening",
+      "label": "Hauling · 10",
+      "pts": 10,
       "player": "Calvert-Lewin"
      }
     ]
@@ -68611,9 +68675,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      },
      {
@@ -69023,9 +69087,9 @@
       "player": "Cherki"
      },
      {
-      "state": "playing",
-      "label": "Playing · 9",
-      "pts": 9,
+      "state": "happening",
+      "label": "Hauling · 10",
+      "pts": 10,
       "player": "Calvert-Lewin"
      }
     ]
@@ -69191,9 +69255,9 @@
       "player": "Gibbs-White"
      },
      {
-      "state": "playing",
-      "label": "Playing · 9",
-      "pts": 9,
+      "state": "happening",
+      "label": "Hauling · 10",
+      "pts": 10,
       "player": "Calvert-Lewin"
      }
     ]
@@ -69219,9 +69283,9 @@
       "player": "Wirtz"
      },
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      }
     ]
@@ -69440,9 +69504,9 @@
       "player": "Tarkowski"
      },
      {
-      "state": "playing",
-      "label": "Playing · 9",
-      "pts": 9,
+      "state": "happening",
+      "label": "Hauling · 10",
+      "pts": 10,
       "player": "Calvert-Lewin"
      }
     ]
@@ -69624,9 +69688,9 @@
     "text": "Sukrut's dream week: if Silva hauls, Sukrut could pass you.",
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      }
     ]
@@ -69951,8 +70015,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Evanilson"
      }
     ]
@@ -70080,9 +70144,9 @@
     "text": "Zorawar's dream week: if Silva hauls, Zorawar could pass you.",
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      }
     ]
@@ -70346,9 +70410,9 @@
     "text": "Aryan Apte's dream week: if Silva hauls, Aryan Apte could pass you.",
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      }
     ]
@@ -70399,8 +70463,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Muharemović"
      }
     ]
@@ -70419,8 +70483,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Evanilson"
      },
      {
@@ -70526,8 +70590,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Evanilson"
      }
     ]
@@ -70649,8 +70713,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Tavernier"
      },
      {
@@ -70714,9 +70778,9 @@
     "text": "Maanas's dream week: if Silva hauls, Maanas could pass you.",
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      }
     ]
@@ -70733,8 +70797,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Evanilson"
      }
     ]
@@ -70875,8 +70939,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Evanilson"
      },
      {
@@ -70899,9 +70963,9 @@
     "text": "Ketan's dream week: if Silva and Kinsky both haul, Ketan could pass you.",
     "status": [
      {
-      "state": "happening",
-      "label": "Hauling · 10",
-      "pts": 10,
+      "state": "playing",
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Silva"
      },
      {
@@ -71071,8 +71135,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Evanilson"
      }
     ]
@@ -71191,8 +71255,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 6",
-      "pts": 6,
+      "label": "Playing · 7",
+      "pts": 7,
       "player": "Evanilson"
      }
     ]
