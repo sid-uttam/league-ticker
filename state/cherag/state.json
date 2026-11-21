@@ -11103,15 +11103,6 @@
     "event_total": 21
    },
    {
-    "entry": 2119331,
-    "player_name": "Ajay Rachakonda",
-    "entry_name": "Silent Violence",
-    "rank": 61,
-    "last_rank": 55,
-    "total": 668,
-    "event_total": 25
-   },
-   {
     "entry": 119259,
     "player_name": "Rahil Mirchandani",
     "entry_name": "Regaling",
@@ -11119,6 +11110,15 @@
     "last_rank": 64,
     "total": 668,
     "event_total": 33
+   },
+   {
+    "entry": 2119331,
+    "player_name": "Ajay Rachakonda",
+    "entry_name": "Silent Violence",
+    "rank": 61,
+    "last_rank": 55,
+    "total": 668,
+    "event_total": 25
    },
    {
     "entry": 4632544,
@@ -11328,6 +11328,15 @@
     "event_total": 24
    },
    {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 86,
+    "last_rank": 89,
+    "total": 636,
+    "event_total": 32
+   },
+   {
     "entry": 2037953,
     "player_name": "Umang Khurana",
     "entry_name": "XI Marauders",
@@ -11344,15 +11353,6 @@
     "last_rank": 79,
     "total": 636,
     "event_total": 19
-   },
-   {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 86,
-    "last_rank": 89,
-    "total": 636,
-    "event_total": 32
    },
    {
     "entry": 699330,
@@ -59867,8 +59867,8 @@
    "4134138": 58,
    "57776": 58,
    "4683090": 60,
-   "2119331": 61,
    "119259": 61,
+   "2119331": 61,
    "4632544": 63,
    "383029": 64,
    "2569620": 64,
@@ -59892,9 +59892,9 @@
    "686561": 83,
    "11673": 84,
    "3350036": 85,
+   "2723973": 85,
    "2037953": 85,
    "2424472": 85,
-   "2723973": 85,
    "699330": 89,
    "907691": 90,
    "3389995": 91,
@@ -59982,8 +59982,8 @@
    "4134138": null,
    "57776": null,
    "4683090": null,
-   "2119331": null,
    "119259": null,
+   "2119331": null,
    "4632544": null,
    "383029": null,
    "2569620": null,
@@ -60007,9 +60007,9 @@
    "686561": null,
    "11673": null,
    "3350036": null,
+   "2723973": null,
    "2037953": null,
    "2424472": null,
-   "2723973": null,
    "699330": null,
    "907691": null,
    "3389995": null,
@@ -60037,7 +60037,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T20:51:25Z",
+ "updated": "2026-11-21T21:02:10Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -66365,7 +66365,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T20:51:25Z",
+  "ts": "2026-11-21T21:02:10Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -66494,7 +66494,7 @@
  },
  "pwatch": {
   "seen": {
-   "1": "d|75|Unspecified injury - 75% chance of playing",
+   "1": "d|75|Shoulder injury - 75% chance of playing",
    "31": "a|100|",
    "112": "a|100|",
    "115": "a|None|",
@@ -66663,7 +66663,7 @@
    "455": "2026-11-21T20:08:23Z",
    "305": "2026-11-21T17:13:42Z",
    "501": "2026-11-21T17:13:42Z",
-   "1": "2026-11-21T19:09:53Z",
+   "1": "2026-11-21T21:02:10Z",
    "449": "2026-11-21T19:33:49Z"
   },
   "price": {
@@ -67474,6 +67474,14 @@
     "status": "a",
     "chance": 100,
     "news": ""
+   },
+   {
+    "ts": "2026-11-21T21:02:10Z",
+    "el": 1,
+    "kind": "news",
+    "status": "d",
+    "chance": 75,
+    "news": "Shoulder injury - 75% chance of playing"
    }
   ]
  },
