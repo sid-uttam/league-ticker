@@ -10986,18 +10986,18 @@
     "event_total": 0
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
     "rank": 48,
     "last_rank": 48,
     "total": 648,
     "event_total": 0
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
     "rank": 48,
     "last_rank": 48,
     "total": 648,
@@ -11193,18 +11193,18 @@
     "event_total": 0
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
+    "entry": 10615,
+    "player_name": "Maanas Gupta",
+    "entry_name": "Infinity Inc",
     "rank": 71,
     "last_rank": 72,
     "total": 626,
     "event_total": 0
    },
    {
-    "entry": 10615,
-    "player_name": "Maanas Gupta",
-    "entry_name": "Infinity Inc",
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
     "rank": 71,
     "last_rank": 72,
     "total": 626,
@@ -11337,15 +11337,6 @@
     "event_total": 0
    },
    {
-    "entry": 4905114,
-    "player_name": "Anuj Joglekar",
-    "entry_name": "Summer Tzolstis",
-    "rank": 87,
-    "last_rank": 87,
-    "total": 605,
-    "event_total": 0
-   },
-   {
     "entry": 3389995,
     "player_name": "Stephen Menezes",
     "entry_name": "Goal Diggers",
@@ -11355,18 +11346,27 @@
     "event_total": 0
    },
    {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
-    "rank": 89,
-    "last_rank": 89,
-    "total": 604,
+    "entry": 4905114,
+    "player_name": "Anuj Joglekar",
+    "entry_name": "Summer Tzolstis",
+    "rank": 87,
+    "last_rank": 87,
+    "total": 605,
     "event_total": 0
    },
    {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
+    "rank": 89,
+    "last_rank": 89,
+    "total": 604,
+    "event_total": 0
+   },
+   {
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
     "rank": 89,
     "last_rank": 89,
     "total": 604,
@@ -58791,8 +58791,8 @@
    "3566356": 45,
    "2868149": 45,
    "5640988": 45,
-   "10821": 48,
    "4683090": 48,
+   "10821": 48,
    "3239284": 48,
    "248721": 51,
    "13951": 52,
@@ -58814,8 +58814,8 @@
    "4314690": 68,
    "4632544": 69,
    "2922453": 70,
-   "4592187": 71,
    "10615": 71,
+   "4592187": 71,
    "3404613": 73,
    "3086063": 73,
    "1737924": 75,
@@ -58830,10 +58830,10 @@
    "4811914": 83,
    "699330": 83,
    "11673": 86,
-   "4905114": 87,
    "3389995": 87,
-   "2037953": 89,
+   "4905114": 87,
    "2723973": 89,
+   "2037953": 89,
    "686561": 91,
    "5734029": 92,
    "3298199": 92,
@@ -58906,8 +58906,8 @@
    "3566356": null,
    "2868149": null,
    "5640988": null,
-   "10821": null,
    "4683090": null,
+   "10821": null,
    "3239284": null,
    "248721": null,
    "13951": null,
@@ -58929,8 +58929,8 @@
    "4314690": null,
    "4632544": null,
    "2922453": null,
-   "4592187": null,
    "10615": null,
+   "4592187": null,
    "3404613": null,
    "3086063": null,
    "1737924": null,
@@ -58945,10 +58945,10 @@
    "4811914": null,
    "699330": null,
    "11673": null,
-   "4905114": null,
    "3389995": null,
-   "2037953": null,
+   "4905114": null,
    "2723973": null,
+   "2037953": null,
    "686561": null,
    "5734029": null,
    "3298199": null,
@@ -58974,7 +58974,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T11:57:45Z",
+ "updated": "2026-11-21T12:12:02Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -63625,7 +63625,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T11:57:45Z",
+  "ts": "2026-11-21T12:12:02Z",
   "issues": [],
   "page": []
  },
@@ -63828,7 +63828,7 @@
    "544": "i|0|Calf injury - Unknown return date",
    "464": "a|None|",
    "591": "a|100|",
-   "388": "d|75|Hip injury - 75% chance of playing",
+   "388": "a|100|",
    "418": "d|75|Back injury - 75% chance of playing",
    "254": "a|100|",
    "412": "a|None|",
@@ -63870,7 +63870,7 @@
    "251": "2026-11-20T11:59:23Z",
    "403": "2026-11-20T15:05:43Z",
    "391": "2026-11-20T15:36:56Z",
-   "388": "2026-11-20T17:10:15Z"
+   "388": "2026-11-21T12:12:02Z"
   },
   "price": {
    "1": 6.3,
@@ -64582,6 +64582,14 @@
     "el": 572,
     "kind": "surge",
     "net": -25345
+   },
+   {
+    "ts": "2026-11-21T12:12:02Z",
+    "el": 388,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
    }
   ]
  },
