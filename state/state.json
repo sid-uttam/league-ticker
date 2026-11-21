@@ -1,6 +1,22 @@
 {
  "stories": [
   {
+   "key": "d11:capflop:166",
+   "kind": "live",
+   "tag": "Captains",
+   "head": "Raushan and Naishadh's armband flops: N.Jackson gets 2",
+   "body": "Not the return the armband was meant for.",
+   "stat": "2 captained him",
+   "score": 66,
+   "who": [
+    1457736,
+    3359227
+   ],
+   "ts": "2026-11-21T16:58:45Z",
+   "gw": 11,
+   "img": "share/live/gw11-p166-9852f23177.png"
+  },
+  {
    "key": "d11:sold:346:1:1",
    "kind": "live",
    "tag": "Transfers",
@@ -2166,7 +2182,8 @@
   "d11:regret:330:0:1",
   "d11:regret:346:1:1",
   "z11:3552160:tin",
-  "l11:shuffle:2026-11-21T16"
+  "l11:shuffle:2026-11-21T16",
+  "d11:capflop:166"
  ],
  "done": [
   "deadline:10",
@@ -2184,7 +2201,7 @@
     2,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -2206,7 +2223,7 @@
     0,
     0,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -2283,7 +2300,7 @@
     8,
     1,
     0,
-    88,
+    90,
     0,
     0,
     0
@@ -2371,7 +2388,7 @@
     5,
     0,
     0,
-    85,
+    90,
     0,
     0,
     0
@@ -2404,7 +2421,7 @@
     1,
     0,
     0,
-    28,
+    30,
     0,
     0,
     0
@@ -2412,10 +2429,10 @@
    "304": [
     0,
     0,
-    1,
+    3,
     0,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -2448,7 +2465,7 @@
     8,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -2492,7 +2509,7 @@
     6,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -2525,7 +2542,7 @@
     6,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -2536,7 +2553,7 @@
     1,
     0,
     0,
-    13,
+    16,
     0,
     0,
     0
@@ -2547,7 +2564,7 @@
     3,
     1,
     0,
-    87,
+    89,
     0,
     0,
     0
@@ -2558,7 +2575,7 @@
     8,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -2621,10 +2638,10 @@
    "332": [
     0,
     0,
-    2,
+    4,
     0,
     0,
-    85,
+    90,
     0,
     0,
     0
@@ -2635,7 +2652,7 @@
     2,
     0,
     0,
-    85,
+    90,
     0,
     0,
     0
@@ -2646,7 +2663,7 @@
     6,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -2679,7 +2696,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -2690,7 +2707,7 @@
     9,
     0,
     0,
-    85,
+    90,
     0,
     0,
     0
@@ -2723,7 +2740,7 @@
     2,
     0,
     0,
-    63,
+    68,
     0,
     0,
     0
@@ -2789,7 +2806,7 @@
     6,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -2899,7 +2916,7 @@
     2,
     0,
     0,
-    85,
+    90,
     0,
     0,
     0
@@ -3009,7 +3026,7 @@
     1,
     0,
     0,
-    23,
+    26,
     0,
     0,
     0
@@ -3031,7 +3048,7 @@
     2,
     0,
     0,
-    85,
+    90,
     0,
     0,
     0
@@ -3053,7 +3070,7 @@
     1,
     0,
     0,
-    21,
+    26,
     0,
     0,
     0
@@ -3097,7 +3114,7 @@
     1,
     0,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -3152,7 +3169,7 @@
     3,
     0,
     0,
-    84,
+    90,
     0,
     0,
     0
@@ -3163,7 +3180,7 @@
     1,
     0,
     0,
-    84,
+    90,
     0,
     0,
     0
@@ -3174,7 +3191,7 @@
     10,
     0,
     0,
-    84,
+    90,
     0,
     0,
     0
@@ -3240,7 +3257,7 @@
     2,
     0,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -3306,7 +3323,7 @@
     7,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -3328,7 +3345,7 @@
     8,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -3336,10 +3353,10 @@
    "499": [
     0,
     1,
-    11,
+    12,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -3350,7 +3367,7 @@
     1,
     0,
     0,
-    8,
+    11,
     0,
     0,
     0
@@ -3423,8 +3440,8 @@
    "7273369": 14,
    "4841175": 16,
    "1457736": 17,
-   "5873092": 19,
    "75187": 18,
+   "5873092": 19,
    "6619523": 19,
    "6341709": 21,
    "383423": 22,
@@ -3454,8 +3471,8 @@
    "7273369": null,
    "4841175": null,
    "1457736": null,
-   "5873092": null,
    "75187": null,
+   "5873092": null,
    "6619523": null,
    "6341709": null,
    "383423": null,
@@ -3468,7 +3485,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T16:47:45Z",
+ "updated": "2026-11-21T16:58:45Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6284,16 +6301,153 @@
     "plots": 11
    },
    "11": {
-    "in": 635908,
-    "out": 121438,
-    "calls": 44,
+    "in": 663716,
+    "out": 129744,
+    "calls": 46,
     "refreshes": 9,
-    "desks": 13,
-    "desk_in": 307410,
-    "desk_out": 98681
+    "desks": 14,
+    "desk_in": 335218,
+    "desk_out": 106987
    }
   },
   "desks": [
+   {
+    "headline": "Haaland blanks on 22 armbands as Ayodele keeps top spot",
+    "text": "Haaland managed just **2 points** for the 22 managers who captained him, yet **Ayodele** still leads Cherag by **12 points** at the top. Both have 5 players left, with Gomez and Gakpo the extra threats for Ayodele and Calafiori and Groß for Cherag.",
+    "you": {
+     "1092588": "Benching Bogle is costing you, as he has assisted for **4 points** since you left him out.",
+     "3219276": "Leaving Calvert-Lewin out has cost you, as he has scored and assisted for 9 points since.",
+     "573491": "You have passed Sid today, moving you up into 3rd place.",
+     "3323262": "Nihal has passed you today, leaving 13 points between you and him.",
+     "1541394": "You were as high as 4th earlier today before slipping to 5th, 3 points behind Sid.",
+     "7471754": "B.Fernandes is the only player you still have to play, so a goal could move you up.",
+     "1378937": "King is on the pitch with 2 managers benching him, you among them.",
+     "5489583": "You dipped as low as 8th today before climbing back to 7th, level with Edd.",
+     "3506595": "You dipped as low as 10th earlier today before climbing back to 9th.",
+     "4125292": "You dropped as low as 12th today before climbing back to 10th.",
+     "363548": "You have passed Simon today, leaving you 1 point behind Bhavik.",
+     "4922092": "You have passed Simon today, sitting 5 points behind Ahmad.",
+     "3359227": "Your N.Jackson armband has returned just 2 points, a flop you share with Naishadh.",
+     "962024": "Ahmad, Ravi and Raushan have all passed you today.",
+     "7273369": "You dropped as low as 15th today before climbing back to 14th.",
+     "4841175": "You have passed Naishadh, Dominic and Justin today, climbing from 19th to 16th.",
+     "1457736": "Your N.Jackson armband managed just 2 points, sharing the flop with Raushan.",
+     "75187": "Maanav passed you today, leaving you 1 point behind Naishadh.",
+     "5873092": "Maanav passed you today, leaving you 2 points behind Dominic.",
+     "6619523": "You have passed Tomisin today, moving you 13 points clear of him.",
+     "6341709": "Lavesh passing you today leaves you 13 points behind him.",
+     "383423": "You have passed Isaiah, Dinesh and Saurabh today, with the Tin Pot now behind you.",
+     "5028423": "Tobi passed you today, though you have passed Saurabh.",
+     "1474501": "You passed Saurabh today, but Tobi has moved ahead of you.",
+     "3375627": "You have passed Elvin today, climbing from 27th to 26th.",
+     "3591460": "Garner is the only player you still have to play, with a chance to climb from 28th."
+    },
+    "ts": "2026-11-21T16:58:45Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:i:1-4|105:i:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:f:2-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "573491": 3,
+     "3323262": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "1378937": 7,
+     "5489583": 7,
+     "3506595": 9,
+     "4125292": 10,
+     "363548": 11,
+     "4922092": 12,
+     "3359227": 13,
+     "962024": 14,
+     "7273369": 14,
+     "4841175": 16,
+     "1457736": 17,
+     "75187": 18,
+     "5873092": 19,
+     "6619523": 19,
+     "6341709": 21,
+     "383423": 22,
+     "5028423": 23,
+     "1474501": 24,
+     "3552160": 25,
+     "3375627": 26,
+     "8316989": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 726,
+     "3219276": 714,
+     "573491": 711,
+     "3323262": 698,
+     "1541394": 695,
+     "7471754": 691,
+     "1378937": 669,
+     "5489583": 669,
+     "3506595": 663,
+     "4125292": 662,
+     "363548": 661,
+     "4922092": 656,
+     "3359227": 647,
+     "962024": 646,
+     "7273369": 646,
+     "4841175": 644,
+     "1457736": 636,
+     "75187": 635,
+     "5873092": 633,
+     "6619523": 633,
+     "6341709": 620,
+     "383423": 600,
+     "5028423": 595,
+     "1474501": 594,
+     "3552160": 590,
+     "3375627": 581,
+     "8316989": 574,
+     "3591460": 541,
+     "5706920": 463
+    },
+    "ga": {
+     "40": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "481": [
+      1,
+      0
+     ],
+     "499": [
+      0,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-21T16:58:45Z",
+    "next": {
+     "ko": "2026-11-21T17:30:00Z",
+     "match": "NEWC v ARS"
+    }
+   },
    {
     "headline": "Haaland's 2 points leave Ayodele 11 clear at the top",
     "text": "Haaland managed just **2 points** for the 22 managers who captained him, but **Ayodele** still leads Cherag by **11 points** at the top. Both have 5 players left, with Gomez and Gakpo the extra threats for Ayodele and Calafiori and Groß for Cherag.",
@@ -6829,131 +6983,6 @@
      "ko": "2026-11-21T17:30:00Z",
      "match": "NEWC v ARS"
     }
-   },
-   {
-    "headline": "Rogers assists as Haaland blanks on 22 armbands",
-    "text": "**Rogers** has assisted for 6 points, a windfall for the 24 managers who started him, while **Haaland** blanked on 22 armbands. At the top, **Ayodele** still leads Cherag by 14 points, with Gomez and Gakpo his alone to come.",
-    "you": {
-     "1092588": "Silva is on the pitch after you benched him, one of 2 managers who did.",
-     "3219276": "Ayodele is 14 points above you, and Rayan is yours alone to play.",
-     "573491": "Passing Sid earlier today lifted you into 3rd place.",
-     "3323262": "Nihal has passed you today, pushing you down to 4th.",
-     "1541394": "You have broken into the Gold spots, level on points with Sid behind you.",
-     "7471754": "B.Fernandes is yours alone to play, a chance to close 11 points on Sid.",
-     "1378937": "King is on the pitch after you benched him, one of 2 managers who did.",
-     "5489583": "Edd is 3 points above you, a gap one big haul could close.",
-     "3506595": "Ahmad passed you today, leaving you 1 point behind him.",
-     "363548": "You have passed Hishaan, Simon and Bhavik today, moving you up to 9th.",
-     "4922092": "Raushan passed you today, dropping you to 14th.",
-     "3359227": "You have passed Ravi today, moving you up to 13th place.",
-     "962024": "Hall is yours alone to play, a chance to close 1 point on Hishaan above.",
-     "7273369": "Ravi is 3 points above you, a gap you can start closing.",
-     "1457736": "Only 2 managers captain N.Jackson, who is already playing.",
-     "75187": "Trafford is yours alone to play, a chance to pull clear of Justin.",
-     "5873092": "Maanav passed you today, leaving you 1 point behind him.",
-     "4841175": "Rogers, your new signing, has set one up.",
-     "6619523": "You have passed Tomisin today, putting you ahead of him.",
-     "6341709": "Ajayi, Rice and Belloumi are yours alone to play, a chance to close 8 points on Lavesh.",
-     "5028423": "Tobi passed you today, leaving you 1 point behind him.",
-     "1474501": "Isak, your captain, is still to play, with only 2 managers backing him.",
-     "383423": "You have climbed out of the Tin Pot spots, up to 23rd place.",
-     "3375627": "You have passed Elvin today, moving you above him in the table.",
-     "3591460": "Garner is yours alone to play, a chance to climb from 28th.",
-     "4125292": "Ahmad and Simon both passed you today, dropping you to 12th."
-    },
-    "ts": "2026-11-21T15:29:23Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:i:0-0|102:i:1-0|103:n:0-0|104:i:1-0|105:i:1-1|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:i:1-0",
-    "ranks": {
-     "1092588": 1,
-     "3219276": 2,
-     "573491": 3,
-     "1541394": 4,
-     "3323262": 4,
-     "7471754": 6,
-     "1378937": 7,
-     "5489583": 8,
-     "363548": 9,
-     "3506595": 10,
-     "962024": 11,
-     "4125292": 12,
-     "3359227": 13,
-     "4922092": 14,
-     "7273369": 15,
-     "1457736": 16,
-     "75187": 17,
-     "4841175": 17,
-     "5873092": 19,
-     "6619523": 20,
-     "6341709": 21,
-     "3552160": 22,
-     "383423": 23,
-     "5028423": 24,
-     "1474501": 25,
-     "3375627": 26,
-     "8316989": 27,
-     "3591460": 28,
-     "5706920": 29
-    },
-    "totals": {
-     "1092588": 720,
-     "3219276": 706,
-     "573491": 694,
-     "1541394": 685,
-     "3323262": 685,
-     "7471754": 674,
-     "1378937": 667,
-     "5489583": 664,
-     "363548": 651,
-     "3506595": 650,
-     "962024": 649,
-     "4125292": 648,
-     "3359227": 644,
-     "4922092": 643,
-     "7273369": 640,
-     "1457736": 629,
-     "75187": 626,
-     "4841175": 626,
-     "5873092": 625,
-     "6619523": 622,
-     "6341709": 614,
-     "3552160": 590,
-     "383423": 588,
-     "5028423": 587,
-     "1474501": 584,
-     "3375627": 576,
-     "8316989": 572,
-     "3591460": 533,
-     "5706920": 457
-    },
-    "ga": {
-     "40": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "183": [
-      0,
-      1
-     ],
-     "481": [
-      1,
-      0
-     ],
-     "499": [
-      0,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-21T15:04:15Z",
-    "next": {
-     "ko": "2026-11-21T17:30:00Z",
-     "match": "NEWC v ARS"
-    }
    }
   ],
   "desk_day": {
@@ -6990,7 +7019,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-21T16:33:44Z",
+  "desk_last_ok": "2026-11-21T16:58:45Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -8125,8 +8154,8 @@
     "entry_name": "Ay",
     "rank": 1,
     "last_rank": 1,
-    "total": 725,
-    "event_total": 25
+    "total": 726,
+    "event_total": 26
    },
    {
     "entry": 3219276,
@@ -8152,8 +8181,8 @@
     "entry_name": "Choke City",
     "rank": 4,
     "last_rank": 3,
-    "total": 697,
-    "event_total": 26
+    "total": 698,
+    "event_total": 27
    },
    {
     "entry": 1541394,
@@ -8161,8 +8190,8 @@
     "entry_name": "Red Devils",
     "rank": 5,
     "last_rank": 5,
-    "total": 694,
-    "event_total": 31
+    "total": 695,
+    "event_total": 32
    },
    {
     "entry": 7471754,
@@ -8170,8 +8199,8 @@
     "entry_name": "Tonnatus",
     "rank": 6,
     "last_rank": 6,
-    "total": 690,
-    "event_total": 32
+    "total": 691,
+    "event_total": 33
    },
    {
     "entry": 1378937,
@@ -8188,8 +8217,8 @@
     "entry_name": "Boooooooca",
     "rank": 8,
     "last_rank": 8,
-    "total": 668,
-    "event_total": 24
+    "total": 669,
+    "event_total": 25
    },
    {
     "entry": 3506595,
@@ -8197,8 +8226,8 @@
     "entry_name": "Jacquet Potato",
     "rank": 9,
     "last_rank": 9,
-    "total": 662,
-    "event_total": 28
+    "total": 663,
+    "event_total": 29
    },
    {
     "entry": 4125292,
@@ -8206,8 +8235,8 @@
     "entry_name": "Shawshank Relegation",
     "rank": 10,
     "last_rank": 9,
-    "total": 661,
-    "event_total": 27
+    "total": 662,
+    "event_total": 28
    },
    {
     "entry": 363548,
@@ -8215,8 +8244,8 @@
     "entry_name": "Crème De La Prèm",
     "rank": 11,
     "last_rank": 12,
-    "total": 660,
-    "event_total": 30
+    "total": 661,
+    "event_total": 31
    },
    {
     "entry": 4922092,
@@ -8224,8 +8253,8 @@
     "entry_name": "Ravi's Team",
     "rank": 12,
     "last_rank": 13,
-    "total": 655,
-    "event_total": 26
+    "total": 656,
+    "event_total": 27
    },
    {
     "entry": 3359227,
@@ -8260,8 +8289,8 @@
     "entry_name": "Brewmore",
     "rank": 16,
     "last_rank": 19,
-    "total": 641,
-    "event_total": 36
+    "total": 644,
+    "event_total": 39
    },
    {
     "entry": 1457736,
@@ -8273,22 +8302,22 @@
     "event_total": 21
    },
    {
-    "entry": 5873092,
-    "player_name": "Justin Deniese",
-    "entry_name": "The Bench",
-    "rank": 18,
-    "last_rank": 17,
-    "total": 634,
-    "event_total": 22
-   },
-   {
     "entry": 75187,
     "player_name": "Dominic Hagerty",
     "entry_name": "Enzo in the City",
-    "rank": 19,
+    "rank": 18,
     "last_rank": 18,
-    "total": 634,
-    "event_total": 22
+    "total": 635,
+    "event_total": 23
+   },
+   {
+    "entry": 5873092,
+    "player_name": "Justin Deniese",
+    "entry_name": "The Bench",
+    "rank": 19,
+    "last_rank": 17,
+    "total": 633,
+    "event_total": 21
    },
    {
     "entry": 6619523,
@@ -8296,8 +8325,8 @@
     "entry_name": "Lav's Elite",
     "rank": 20,
     "last_rank": 21,
-    "total": 632,
-    "event_total": 32
+    "total": 633,
+    "event_total": 33
    },
    {
     "entry": 6341709,
@@ -8305,8 +8334,8 @@
     "entry_name": "Chalupa Batmen 3.0�",
     "rank": 21,
     "last_rank": 20,
-    "total": 619,
-    "event_total": 16
+    "total": 620,
+    "event_total": 17
    },
    {
     "entry": 383423,
@@ -8314,8 +8343,8 @@
     "entry_name": "Quantum of Tzolis",
     "rank": 22,
     "last_rank": 25,
-    "total": 599,
-    "event_total": 25
+    "total": 600,
+    "event_total": 26
    },
    {
     "entry": 5028423,
@@ -8323,8 +8352,8 @@
     "entry_name": "Kolo's sidepiece",
     "rank": 23,
     "last_rank": 23,
-    "total": 594,
-    "event_total": 15
+    "total": 595,
+    "event_total": 16
    },
    {
     "entry": 1474501,
@@ -8332,8 +8361,8 @@
     "entry_name": "Lovdenya Bhojyam",
     "rank": 24,
     "last_rank": 24,
-    "total": 593,
-    "event_total": 15
+    "total": 594,
+    "event_total": 16
    },
    {
     "entry": 3552160,
@@ -8350,8 +8379,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 582,
-    "event_total": 28
+    "total": 581,
+    "event_total": 27
    },
    {
     "entry": 8316989,
@@ -8368,8 +8397,8 @@
     "entry_name": "GoonerVision",
     "rank": 28,
     "last_rank": 28,
-    "total": 542,
-    "event_total": 21
+    "total": 541,
+    "event_total": 20
    },
    {
     "entry": 5706920,
@@ -14056,9 +14085,9 @@
     "label": "Swing player",
     "branch": "blank",
     "status": {
-     "state": "playing",
-     "label": "Playing · 2",
-     "pts": 2
+     "state": "blank",
+     "pts": 2,
+     "label": "Blanked · 2"
     }
    },
    {
@@ -14128,9 +14157,9 @@
     "label": "Gold line",
     "branch": "both",
     "status": {
-     "state": "playing",
-     "label": "Playing · 6",
-     "pts": 6
+     "state": "neither",
+     "pts": 6,
+     "label": "Returned · 6"
     }
    },
    {
@@ -14192,9 +14221,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Robertson"
      },
      {
@@ -14220,15 +14249,15 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 8",
+      "state": "neither",
       "pts": 8,
+      "label": "Returned · 8",
       "player": "Silva"
      },
      {
-      "state": "playing",
-      "label": "Playing · 7",
+      "state": "neither",
       "pts": 7,
+      "label": "Returned · 7",
       "player": "Kinsky"
      }
     ]
@@ -14254,9 +14283,9 @@
       "player": "Vuskovic"
      },
      {
-      "state": "playing",
-      "label": "Playing · 7",
+      "state": "neither",
       "pts": 7,
+      "label": "Returned · 7",
       "player": "Kinsky"
      }
     ]
@@ -14402,9 +14431,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 8",
+      "state": "neither",
       "pts": 8,
+      "label": "Returned · 8",
       "player": "Silva"
      },
      {
@@ -14435,9 +14464,9 @@
       "player": "Verbruggen"
      },
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Manzambi"
      }
     ]
@@ -14542,9 +14571,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 7",
+      "state": "neither",
       "pts": 7,
+      "label": "Returned · 7",
       "player": "Kinsky"
      },
      {
@@ -14604,9 +14633,9 @@
       "player": "Ødegaard"
      },
      {
-      "state": "playing",
-      "label": "Playing · 6",
+      "state": "neither",
       "pts": 6,
+      "label": "Returned · 6",
       "player": "Petrović"
      }
     ]
@@ -14653,15 +14682,15 @@
     "text": "Cherag's dream week: if Van Hecke and Rayan both haul, Cherag could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 6",
+      "state": "neither",
       "pts": 6,
+      "label": "Returned · 6",
       "player": "Van Hecke"
      },
      {
-      "state": "playing",
-      "label": "Playing · 3",
+      "state": "neither",
       "pts": 3,
+      "label": "Quiet · 3",
       "player": "Rayan"
      }
     ]
@@ -14701,9 +14730,9 @@
       "player": "Vuskovic"
      },
      {
-      "state": "playing",
-      "label": "Playing · 7",
+      "state": "neither",
       "pts": 7,
+      "label": "Returned · 7",
       "player": "Kinsky"
      }
     ]
@@ -14753,9 +14782,9 @@
     "text": "Ahmad's dream week: if Van Hecke hauls, Ahmad could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 6",
+      "state": "neither",
       "pts": 6,
+      "label": "Returned · 6",
       "player": "Van Hecke"
      }
     ]
@@ -14771,9 +14800,9 @@
     "text": "Ravi's dream week: if N.Jackson hauls, Ravi could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 2",
+      "state": "blank",
       "pts": 2,
+      "label": "Blanked · 2",
       "player": "N.Jackson"
      }
     ]
@@ -14791,9 +14820,9 @@
     "text": "Will's dream week: if Silva and Calafiori both haul, Will could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 8",
+      "state": "neither",
       "pts": 8,
+      "label": "Returned · 8",
       "player": "Silva"
      },
      {
@@ -14814,9 +14843,9 @@
     "text": "Naishadh's dream week: if their captain N.Jackson hauls, Naishadh could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 2",
+      "state": "blank",
       "pts": 2,
+      "label": "Blanked · 2",
       "player": "N.Jackson"
      }
     ]
@@ -14891,9 +14920,9 @@
     "text": "Isaiah's dream week: if N.Jackson hauls, Isaiah could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 2",
+      "state": "blank",
       "pts": 2,
+      "label": "Blanked · 2",
       "player": "N.Jackson"
      }
     ]
@@ -14937,10 +14966,8 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T16:47:45Z",
-  "issues": [
-   "desk written from older totals (17 managers changed since)"
-  ],
+  "ts": "2026-11-21T16:58:45Z",
+  "issues": [],
   "page": [],
   "wording": [
    "wording (1 points): ...you start him   0    Autosub:  Cherif  (1 pts) comes in..."
@@ -15659,6 +15686,11 @@
     "key": "d11:regret:330:0:1",
     "sig": "224b41b887",
     "file": "share/live/gw11-p330-224b41b887.png"
+   },
+   "p166": {
+    "key": "d11:capflop:166",
+    "sig": "9852f23177",
+    "file": "share/live/gw11-p166-9852f23177.png"
    }
   }
  }
