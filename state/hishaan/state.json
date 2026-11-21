@@ -2552,8 +2552,8 @@
     "entry_name": "Magic Mikel",
     "rank": 13,
     "last_rank": 13,
-    "total": 666,
-    "event_total": 19
+    "total": 670,
+    "event_total": 23
    },
    {
     "entry": 3506595,
@@ -2565,22 +2565,22 @@
     "event_total": 31
    },
    {
-    "entry": 6892917,
-    "player_name": "Poonam Mahtani",
-    "entry_name": "Fifteen Fighters",
-    "rank": 15,
-    "last_rank": 14,
-    "total": 663,
-    "event_total": 27
-   },
-   {
     "entry": 5682768,
     "player_name": "Vanessa Jethwani",
     "entry_name": "super squad",
-    "rank": 16,
+    "rank": 15,
     "last_rank": 15,
-    "total": 660,
-    "event_total": 26
+    "total": 664,
+    "event_total": 30
+   },
+   {
+    "entry": 6892917,
+    "player_name": "Poonam Mahtani",
+    "entry_name": "Fifteen Fighters",
+    "rank": 16,
+    "last_rank": 14,
+    "total": 663,
+    "event_total": 27
    },
    {
     "entry": 4922092,
@@ -2637,22 +2637,22 @@
     "event_total": 25
    },
    {
-    "entry": 6159011,
-    "player_name": "Vinesh Mirpuri",
-    "entry_name": "Egg Fried Guimarães",
-    "rank": 23,
-    "last_rank": 23,
-    "total": 635,
-    "event_total": 23
-   },
-   {
     "entry": 3314780,
     "player_name": "Ravi Bhojwani",
     "entry_name": "Five Star XI",
-    "rank": 24,
+    "rank": 23,
     "last_rank": 24,
-    "total": 633,
-    "event_total": 33
+    "total": 637,
+    "event_total": 37
+   },
+   {
+    "entry": 6159011,
+    "player_name": "Vinesh Mirpuri",
+    "entry_name": "Egg Fried Guimarães",
+    "rank": 24,
+    "last_rank": 23,
+    "total": 635,
+    "event_total": 23
    },
    {
     "entry": 6051923,
@@ -7616,6 +7616,36 @@
  },
  "stories": [
   {
+   "key": "d11:regret:15:0:1",
+   "kind": "live",
+   "tag": "Bench",
+   "head": "Chandru benched Ødegaard. Ødegaard sets one up",
+   "body": "Those points are sitting on the bench, unless an autosub rescues them.",
+   "stat": "Benched by 1 manager",
+   "score": 76,
+   "who": [
+    2687116
+   ],
+   "ts": "2026-11-21T19:10:53Z",
+   "gw": 11,
+   "img": "share/live/gw11-p15-b739a72229.png"
+  },
+  {
+   "key": "d11:sold:16:1:0",
+   "kind": "live",
+   "tag": "Transfers",
+   "head": "Naresh sold Madueke this week. Madueke scores",
+   "body": "That one is going to sting.",
+   "stat": "Sold by 1 manager",
+   "score": 72,
+   "who": [
+    2934546
+   ],
+   "ts": "2026-11-21T19:10:53Z",
+   "gw": 11,
+   "img": "share/live/gw11-p16-088e432b2e.png"
+  },
+  {
    "key": "d11:sold:453:1:0",
    "kind": "live",
    "tag": "Transfers",
@@ -7856,8 +7886,7 @@
     6159011
    ],
    "ts": "2026-11-21T15:31:57Z",
-   "gw": 11,
-   "img": "share/live/gw11-p60-49e1ed726e.png"
+   "gw": 11
   },
   {
    "key": "l11:ret:40:0:1",
@@ -9092,7 +9121,9 @@
   "d11:onpitch:31",
   "d11:onpitch:8",
   "d11:sold:453:1:0",
-  "l11:ret:453:1:0:bench"
+  "l11:ret:453:1:0:bench",
+  "d11:regret:15:0:1",
+  "d11:sold:16:1:0"
  ],
  "done": [
   "deadline:10",
@@ -9119,7 +9150,7 @@
     1,
     0,
     0,
-    68,
+    69,
     0,
     0,
     0
@@ -9141,7 +9172,7 @@
     1,
     0,
     0,
-    69,
+    82,
     0,
     0,
     0
@@ -9163,7 +9194,7 @@
     1,
     0,
     0,
-    69,
+    82,
     0,
     0,
     0
@@ -9196,29 +9227,29 @@
     1,
     0,
     0,
-    69,
+    82,
     0,
     0,
     0
    ],
    "15": [
     0,
+    1,
+    6,
     0,
-    2,
     0,
-    0,
-    69,
+    82,
     0,
     0,
     0
    ],
    "16": [
+    1,
+    0,
+    8,
     0,
     0,
-    2,
-    0,
-    0,
-    69,
+    82,
     0,
     0,
     0
@@ -9262,7 +9293,7 @@
     1,
     0,
     0,
-    69,
+    82,
     0,
     0,
     0
@@ -9729,17 +9760,6 @@
     0,
     0
    ],
-   "650": [
-    0,
-    0,
-    4,
-    0,
-    0,
-    90,
-    0,
-    0,
-    0
-   ],
    "138": [
     0,
     0,
@@ -9747,6 +9767,17 @@
     0,
     0,
     0,
+    0,
+    0,
+    0
+   ],
+   "650": [
+    0,
+    0,
+    4,
+    0,
+    0,
+    90,
     0,
     0,
     0
@@ -9941,10 +9972,10 @@
    "449": [
     0,
     0,
-    2,
+    1,
     0,
     0,
-    69,
+    82,
     0,
     0,
     0
@@ -9952,10 +9983,10 @@
    "453": [
     1,
     0,
-    8,
+    6,
     0,
     0,
-    69,
+    82,
     0,
     0,
     0
@@ -10179,16 +10210,16 @@
    "5474293": 12,
    "75778": 13,
    "3506595": 14,
-   "6892917": 15,
-   "5682768": 16,
+   "5682768": 15,
+   "6892917": 16,
    "4922092": 17,
    "2934546": 18,
    "2465483": 19,
    "6279027": 20,
    "865376": 21,
    "7043406": 22,
-   "6159011": 23,
-   "3314780": 24,
+   "3314780": 23,
+   "6159011": 24,
    "6051923": 25,
    "6476662": 26
   },
@@ -10207,21 +10238,21 @@
    "5474293": null,
    "75778": null,
    "3506595": null,
-   "6892917": null,
    "5682768": null,
+   "6892917": null,
    "4922092": null,
    "2934546": null,
    "2465483": null,
    "6279027": null,
    "865376": null,
    "7043406": "tinpot",
-   "6159011": "tinpot",
    "3314780": "tinpot",
+   "6159011": "tinpot",
    "6051923": "tinpot",
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T18:58:27Z",
+ "updated": "2026-11-21T19:10:53Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10251,7 +10282,7 @@
    "6051923": "You are 25th on 584 with a 50-point week. Watch Bella, 24 behind, and Ravi Bhojwani, 16 ahead."
   },
   "key": "11:live",
-  "ts": "2026-11-21T18:45:59Z",
+  "ts": "2026-11-21T19:10:53Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -10264,16 +10295,159 @@
     "plots": 11
    },
    "11": {
-    "in": 708788,
-    "out": 134715,
-    "calls": 54,
-    "refreshes": 10,
-    "desks": 17,
-    "desk_in": 375064,
-    "desk_out": 109709
+    "in": 761002,
+    "out": 141008,
+    "calls": 58,
+    "refreshes": 11,
+    "desks": 18,
+    "desk_in": 393811,
+    "desk_out": 114455
    }
   },
   "desks": [
+   {
+    "headline": "Naresh's sold Madueke scores 8 points as Naresh watches",
+    "text": "Naresh sold Madueke this week, and the winger has just scored **8 points** that Naresh now watches from the sidelines. At the top, Matt still has **5 players** to play against Nikhil's 3, and **Barcola** is Nikhil's alone, so he could decide the title race if he scores.",
+    "you": {
+     "3029346": "You have passed Nikhil today, now sitting **1 point** ahead at the top.",
+     "2321301": "Matt passed you today, leaving you **1 point** behind at the top.",
+     "735721": "Nikhil is **20 points** above you, with 2 of your players still to play.",
+     "1921902": "N.Jackson blanked on your armband, so your Gold place now rests on 3 players still to play.",
+     "2687116": "Bogle assisted after you benched him, a call now proving expensive.",
+     "3344797": "Chandru is 10 points above you. 3 of your players are still to play, so that gap could shrink.",
+     "1655993": "You have passed Prem today. 7 players on your Bench Boost are still to play, so more places could come.",
+     "4487775": "Aashiv is 4 points behind you, but you still have 3 players to play.",
+     "3350483": "You have passed Sunil today, with Vuskovic yours alone still to play.",
+     "3072827": "Aashiv passed you today, after your Gvardiol bench call cost you.",
+     "5474293": "Lewis-Potter is yours alone still to play, so his points could push you further clear of Marcel below.",
+     "3506595": "You have passed Poonam today. Gvardiol is on the pitch after you benched him, with 1 point so far.",
+     "75778": "Your day has dipped to 14th and climbed back to 13th. Calvert-Lewin's 9 points landed while he sat on your bench.",
+     "6892917": "Hishaan and Vanessa have passed you today. A.Becker is yours alone still to play, so he could win back a place.",
+     "5682768": "You have passed Poonam today. Ajayi and B.Fernandes are yours alone still to play, so they could lift you further.",
+     "4922092": "Calafiori is on the pitch after you benched him, one of 3 managers now watching him.",
+     "2934546": "Barnes scored after you sold him this week, a costly sale.",
+     "2465483": "You were as high as 18th today, now 19th.",
+     "6279027": "You dropped as low as 21st today, now back up to 20th.",
+     "865376": "Barnes scored after you benched him, costing you a useful pick.",
+     "7043406": "You have passed Vinesh today. Barnes scored after you benched him, one of your biggest misses.",
+     "6159011": "Rajiv and Ravi Bhojwani have passed you today. Your captain N.Jackson returned 4 points with the armband.",
+     "3314780": "You have passed Vinesh today. Pickford and Gakpo are yours alone still to play, so they could close the gap to Rajiv.",
+     "6051923": "Vinesh is 23 points above you, the nearest rival in the Tin Pot fight.",
+     "6476662": "Only you own Anderson, who has just scored.",
+     "1036311": "You have passed Prem today on your Bench Boost. 4 players still to play could lift you further."
+    },
+    "ts": "2026-11-21T19:10:53Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:i:2-2|110:f:2-0",
+    "ranks": {
+     "3029346": 1,
+     "2321301": 2,
+     "735721": 3,
+     "1921902": 4,
+     "2687116": 5,
+     "3344797": 6,
+     "1655993": 7,
+     "1036311": 8,
+     "4487775": 9,
+     "3350483": 10,
+     "3072827": 11,
+     "5474293": 12,
+     "75778": 13,
+     "3506595": 14,
+     "5682768": 15,
+     "6892917": 16,
+     "4922092": 17,
+     "2934546": 18,
+     "2465483": 19,
+     "6279027": 20,
+     "865376": 21,
+     "7043406": 22,
+     "3314780": 23,
+     "6159011": 24,
+     "6051923": 25,
+     "6476662": 26
+    },
+    "totals": {
+     "3029346": 748,
+     "2321301": 747,
+     "735721": 727,
+     "1921902": 724,
+     "2687116": 721,
+     "3344797": 711,
+     "1655993": 699,
+     "1036311": 698,
+     "4487775": 684,
+     "3350483": 680,
+     "3072827": 679,
+     "5474293": 676,
+     "75778": 670,
+     "3506595": 665,
+     "5682768": 664,
+     "6892917": 663,
+     "4922092": 656,
+     "2934546": 654,
+     "2465483": 651,
+     "6279027": 646,
+     "865376": 642,
+     "7043406": 638,
+     "3314780": 637,
+     "6159011": 635,
+     "6051923": 612,
+     "6476662": 601
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "16": [
+      1,
+      0
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "60": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ]
+    },
+    "you_full_ts": "2026-11-21T18:45:59Z",
+    "next": {
+     "ko": "2026-11-22T14:00:00Z",
+     "match": "HUL v BHA"
+    }
+   },
    {
     "headline": "Top spot hangs on Barcola as Matt edges Nikhil",
     "text": "**Matt** has taken top spot, **1 point** ahead of Nikhil, after both banked the same 4 points from Haaland's armband. Matt still has **5 players** to play against Nikhil's 3, and **Barcola** is Nikhil's alone, so the top spot could swing if he scores.",
@@ -10804,137 +10978,6 @@
      "match": "NEWC v ARS"
     },
     "buildup_for": 109
-   },
-   {
-    "headline": "Calvert-Lewin's 9 points punish 3 benches as Matt and Nikhil tie",
-    "text": "Calvert-Lewin has scored in CHE v LEE, and **9 points** are flowing to Rohan, Amit and Vanessa, who started him. Ravin, Aashiv and Marcel benched him and now have to watch. Matt and Nikhil are still level on **744 points** at the top.",
-    "you": {
-     "3029346": "Level with Nikhil on 744 points at the top, with 6 of your players still to play.",
-     "2321301": "Matt has drawn level with you on 744 points at the top.",
-     "735721": "Nikhil sits 22 points above you, so the gap to the top is still wide.",
-     "1921902": "Calvert-Lewin's **9 points** landed on your bench.",
-     "2687116": "Bogle has assisted after you benched him, a call that could cost you.",
-     "3344797": "Chandru is 10 points above you, with a chance to close the gap.",
-     "1036311": "You have passed Prem today, moving you up the table.",
-     "1655993": "You have passed Prem today, leaving him behind you.",
-     "4487775": "Amit and Sunny have both passed you today.",
-     "3072827": "Gvardiol is on the pitch, so the bench call on him is already costing you.",
-     "3350483": "Calvert-Lewin's **9 points** landed on your bench.",
-     "5474293": "Lewis-Potter is yours alone still to play, with a chance to move up past Aashiv.",
-     "75778": "Calvert-Lewin's **9 points** landed on your bench.",
-     "6892917": "You were as high as 13th today, now 14th.",
-     "3506595": "You dropped as low as 16th today before climbing back to 15th.",
-     "5682768": "Bogle's assist came after you benched him.",
-     "4922092": "You dropped as low as 18th today, now back up to 17th.",
-     "2934546": "You dropped as low as 19th today, now back up to 18th.",
-     "2465483": "You were as high as 17th today, now 19th.",
-     "6279027": "You dropped as low as 21st today, now back up to 20th.",
-     "865376": "You were as high as 20th today, now 21st.",
-     "7043406": "You have passed Vinesh today, leaving him 3 points behind you.",
-     "3314780": "You have passed Vinesh today, leaving him behind you.",
-     "6159011": "Rajiv and Ravi Bhojwani passed you today.",
-     "6051923": "Vinesh is 21 points above you.",
-     "6476662": "Only you own Anderson, who has just scored."
-    },
-    "ts": "2026-11-21T16:22:38Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:i:0-0|102:i:2-0|103:n:0-0|104:i:1-3|105:i:2-2|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:i:2-0",
-    "ranks": {
-     "2321301": 1,
-     "3029346": 1,
-     "735721": 3,
-     "1921902": 4,
-     "2687116": 5,
-     "3344797": 6,
-     "1655993": 7,
-     "1036311": 7,
-     "4487775": 9,
-     "3072827": 10,
-     "3350483": 11,
-     "5474293": 12,
-     "75778": 13,
-     "6892917": 14,
-     "3506595": 15,
-     "5682768": 16,
-     "4922092": 17,
-     "2934546": 18,
-     "2465483": 19,
-     "6279027": 20,
-     "865376": 21,
-     "7043406": 22,
-     "3314780": 23,
-     "6159011": 24,
-     "6051923": 25,
-     "6476662": 26
-    },
-    "totals": {
-     "2321301": 744,
-     "3029346": 744,
-     "735721": 722,
-     "1921902": 719,
-     "2687116": 716,
-     "3344797": 706,
-     "1655993": 693,
-     "1036311": 693,
-     "4487775": 680,
-     "3072827": 675,
-     "3350483": 674,
-     "5474293": 669,
-     "75778": 663,
-     "6892917": 661,
-     "3506595": 659,
-     "5682768": 656,
-     "4922092": 654,
-     "2934546": 652,
-     "2465483": 646,
-     "6279027": 642,
-     "865376": 636,
-     "7043406": 632,
-     "3314780": 630,
-     "6159011": 629,
-     "6051923": 608,
-     "6476662": 599
-    },
-    "ga": {
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "481": [
-      1,
-      0
-     ]
-    },
-    "you_full_ts": "2026-11-21T16:22:38Z",
-    "next": {
-     "ko": "2026-11-21T17:30:00Z",
-     "match": "NEWC v ARS"
-    }
    }
   ],
   "desk_day": {
@@ -10968,7 +11011,7 @@
     "6476662": 26
    }
   },
-  "desk_last_ok": "2026-11-21T18:58:27Z",
+  "desk_last_ok": "2026-11-21T19:10:53Z",
   "plots": [
    {
     "id": "title",
@@ -12899,7 +12942,7 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T18:58:27Z",
+  "ts": "2026-11-21T19:10:53Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -12910,7 +12953,7 @@
  },
  "pwatch": {
   "seen": {
-   "1": "a|None|",
+   "1": "d|75|Unspecified injury - 75% chance of playing",
    "566": "a|None|",
    "8": "a|100|",
    "31": "a|100|",
@@ -13014,7 +13057,8 @@
    "173": "2026-11-21T14:07:29Z",
    "391": "2026-11-20T15:37:20Z",
    "388": "2026-11-21T12:00:35Z",
-   "305": "2026-11-21T17:01:38Z"
+   "305": "2026-11-21T17:01:38Z",
+   "1": "2026-11-21T19:10:53Z"
   },
   "price": {
    "1": 6.3,
@@ -13129,7 +13173,7 @@
    "379": "10:up",
    "109": "10:up",
    "53": "10:up",
-   "391": "10:down",
+   "391": "11:down",
    "346": "10:down",
    "94": "10:down",
    "427": "10:down",
@@ -13501,6 +13545,20 @@
     "el": 79,
     "kind": "surge",
     "net": 25570
+   },
+   {
+    "ts": "2026-11-21T19:10:53Z",
+    "el": 1,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Unspecified injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-21T19:10:53Z",
+    "el": 391,
+    "kind": "surge",
+    "net": -25647
    }
   ]
  },
@@ -13527,11 +13585,6 @@
     "key": "d11:regret:183:0:2",
     "sig": "92783680df",
     "file": "share/live/gw11-p183-92783680df.png"
-   },
-   "p60": {
-    "key": "d11:regret:60:0:1",
-    "sig": "49e1ed726e",
-    "file": "share/live/gw11-p60-49e1ed726e.png"
    },
    "lead": {
     "key": "l11:lead:3029346:737",
@@ -13562,6 +13615,16 @@
     "key": "d11:sold:453:1:0",
     "sig": "71be646d70",
     "file": "share/live/gw11-p453-71be646d70.png"
+   },
+   "p15": {
+    "key": "d11:regret:15:0:1",
+    "sig": "b739a72229",
+    "file": "share/live/gw11-p15-b739a72229.png"
+   },
+   "p16": {
+    "key": "d11:sold:16:1:0",
+    "sig": "088e432b2e",
+    "file": "share/live/gw11-p16-088e432b2e.png"
    }
   }
  }
