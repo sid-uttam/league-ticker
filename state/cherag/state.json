@@ -9783,15 +9783,6 @@
     "event_total": 73
    },
    {
-    "entry": 1325491,
-    "player_name": "akshat awasthi",
-    "entry_name": "Nirvana11",
-    "rank": 4,
-    "last_rank": 7,
-    "total": 702,
-    "event_total": 72
-   },
-   {
     "entry": 13978,
     "player_name": "Yash Bhatia",
     "entry_name": "YB",
@@ -9799,6 +9790,15 @@
     "last_rank": 3,
     "total": 702,
     "event_total": 56
+   },
+   {
+    "entry": 1325491,
+    "player_name": "akshat awasthi",
+    "entry_name": "Nirvana11",
+    "rank": 4,
+    "last_rank": 7,
+    "total": 702,
+    "event_total": 72
    },
    {
     "entry": 3991082,
@@ -9936,15 +9936,6 @@
     "event_total": 62
    },
    {
-    "entry": 780469,
-    "player_name": "Sahil Thorve",
-    "entry_name": "NotAnIsakScience",
-    "rank": 21,
-    "last_rank": 42,
-    "total": 672,
-    "event_total": 82
-   },
-   {
     "entry": 107315,
     "player_name": "Sahej Jhamvar",
     "entry_name": "sage",
@@ -9952,6 +9943,15 @@
     "last_rank": 21,
     "total": 672,
     "event_total": 65
+   },
+   {
+    "entry": 780469,
+    "player_name": "Sahil Thorve",
+    "entry_name": "NotAnIsakScience",
+    "rank": 21,
+    "last_rank": 42,
+    "total": 672,
+    "event_total": 82
    },
    {
     "entry": 1662734,
@@ -57395,8 +57395,8 @@
    "5949580": 1,
    "305234": 2,
    "136653": 3,
-   "1325491": 4,
    "13978": 4,
+   "1325491": 4,
    "3991082": 6,
    "4722308": 7,
    "2429776": 8,
@@ -57412,8 +57412,8 @@
    "1305406": 18,
    "2554077": 19,
    "5685525": 20,
-   "780469": 21,
    "107315": 21,
+   "780469": 21,
    "1662734": 23,
    "3323262": 24,
    "3234577": 25,
@@ -57510,8 +57510,8 @@
    "5949580": "gold",
    "305234": "gold",
    "136653": "gold",
-   "1325491": "gold",
    "13978": "gold",
+   "1325491": "gold",
    "3991082": "gold",
    "4722308": "gold",
    "2429776": "gold",
@@ -57527,8 +57527,8 @@
    "1305406": "silver",
    "2554077": "silver",
    "5685525": "silver",
-   "780469": "silver",
    "107315": "silver",
+   "780469": "silver",
    "1662734": "silver",
    "3323262": "silver",
    "3234577": "silver",
@@ -57622,7 +57622,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T04:03:02Z",
+ "updated": "2026-11-21T04:33:54Z",
  "ai": {
   "briefings": {
    "5949580": "You lead on 734 after a 70-point week, 18 clear of Neol, but Haaland's blank cost you a bit of armband joy. Watch Neol's push and whether you use your Free Hit.",
@@ -63353,7 +63353,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T04:03:02Z",
+  "ts": "2026-11-21T04:33:54Z",
   "issues": [],
   "page": []
  },
