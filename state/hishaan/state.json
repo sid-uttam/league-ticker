@@ -9880,7 +9880,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T14:31:08Z",
+ "updated": "2026-11-21T14:42:35Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -9923,16 +9923,120 @@
     "plots": 11
    },
    "11": {
-    "in": 206012,
-    "out": 41141,
-    "calls": 18,
+    "in": 232913,
+    "out": 51066,
+    "calls": 20,
     "refreshes": 3,
-    "desks": 6,
-    "desk_in": 105681,
-    "desk_out": 34237
+    "desks": 7,
+    "desk_in": 132582,
+    "desk_out": 44162
    }
   },
   "desks": [
+   {
+    "headline": "Haaland blanks as 22 armbands get 4 captain points",
+    "text": "**Haaland blanks**: 22 managers captained him and got just 4 captain points from a 1-1 draw with FUL. At the top, Nikhil clings to first by **1 point** over Matt, and both are stuck on Haaland, so the next fight is over the players they alone still have to come.",
+    "you": {
+     "2321301": "Only you still have Barcola to play, so he could protect your 1 point lead over Matt.",
+     "3029346": "Nikhil sits 1 point above you at the top, so your Verbruggen, Van Hecke and Gabriel could close that gap.",
+     "735721": "Matt is 11 points above you, so your 8 players still to come face a long climb.",
+     "1921902": "Only 3 managers share your captain N.Jackson, and he has yet to play, so the AVL v SUN result is yours to shape.",
+     "2687116": "Your bench held Gvardiol, who returned 1 point from MCI v FUL.",
+     "3344797": "Chandru sits 22 points above you, so overtaking him is a long job for your 10 players still to come.",
+     "4487775": "Van de Ven is yours alone among your players still to play, a chance to close 4 points on Rohan.",
+     "1655993": "Your Bench Boost goes head to head with Amit's, so bench points decide it.",
+     "1036311": "Bench points will settle your Bench Boost showdown with Sunny.",
+     "3072827": "You benched Gvardiol, who returned 1 point from MCI v FUL.",
+     "3350483": "Vuskovic is yours alone still to play, so a haul could push you 1 point past Sunil.",
+     "5474293": "Lewis-Potter is yours alone still to play, so he could help you overtake Aashiv.",
+     "75778": "Sahil is 4 points above you, a gap your 9 players still to come could close.",
+     "3506595": "You benched Gvardiol, who scored 1 point in MCI v FUL before the bench saw him.",
+     "6892917": "A.Becker is yours alone still to play, a chance to edge clear of Vanessa.",
+     "5682768": "You slipped to 15th earlier today, then climbed back to 14th.",
+     "2465483": "Passing Ravi Mahtani today lifted you to 17th.",
+     "4922092": "Inesh went past you today, leaving you 1 point behind him.",
+     "2934546": "You were 18th earlier today, but you sit 19th now.",
+     "6279027": "White is yours alone still to play, a chance to narrow the gap to Naresh.",
+     "865376": "Rayan is yours alone among your players still to play, a chance to lift you 2 points on Pishu.",
+     "7043406": "Passing Vinesh today put you ahead of him, with Lakshay 6 points above.",
+     "6159011": "Rajiv went past you today, now 1 point above you in the table.",
+     "3314780": "Pickford and Gakpo are yours alone still to play, a chance to close the 8 points to Vinesh.",
+     "6051923": "Ravi Bhojwani sits 14 points above you, so your 7 players still to come have work to do.",
+     "6476662": "Your Triple Captain lifted your gameweek to 16 points, with Anderson's surprise already banked."
+    },
+    "ts": "2026-11-21T14:42:35Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:n:0-0|102:n:0-0|103:n:0-0|104:n:0-0|105:n:0-0|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:n:0-0",
+    "ranks": {
+     "2321301": 1,
+     "3029346": 2,
+     "735721": 3,
+     "1921902": 4,
+     "2687116": 5,
+     "3344797": 6,
+     "4487775": 7,
+     "1655993": 8,
+     "1036311": 9,
+     "3072827": 10,
+     "3350483": 11,
+     "5474293": 12,
+     "75778": 13,
+     "6892917": 14,
+     "3506595": 14,
+     "5682768": 14,
+     "2465483": 17,
+     "4922092": 18,
+     "2934546": 19,
+     "6279027": 20,
+     "865376": 21,
+     "7043406": 22,
+     "6159011": 23,
+     "3314780": 24,
+     "6051923": 25,
+     "6476662": 26
+    },
+    "totals": {
+     "2321301": 727,
+     "3029346": 726,
+     "735721": 715,
+     "1921902": 710,
+     "2687116": 700,
+     "3344797": 678,
+     "4487775": 674,
+     "1655993": 671,
+     "1036311": 662,
+     "3072827": 658,
+     "3350483": 657,
+     "5474293": 656,
+     "75778": 652,
+     "6892917": 640,
+     "3506595": 640,
+     "5682768": 640,
+     "2465483": 634,
+     "4922092": 633,
+     "2934546": 632,
+     "6279027": 623,
+     "865376": 621,
+     "7043406": 615,
+     "6159011": 614,
+     "3314780": 606,
+     "6051923": 592,
+     "6476662": 576
+    },
+    "ga": {
+     "481": [
+      1,
+      0
+     ]
+    },
+    "you_full_ts": "2026-11-21T14:42:35Z",
+    "next": {
+     "ko": "2026-11-21T15:00:00Z",
+     "match": "AVL v SUN"
+    },
+    "buildup_for": 101
+   },
    {
     "headline": "Anderson's 10-point surprise lifts Bella alone",
     "text": "Anderson scores for Bella alone, a differential return worth **10 points** that nobody else in the league collects. Bella's **Triple Captain** on Haaland is already paying with 6 captain points, while Nikhil and Matt, both on Haaland, are split by **1 point** at the top.",
@@ -10358,7 +10462,7 @@
     "6476662": 26
    }
   },
-  "desk_last_ok": "2026-11-21T13:56:08Z",
+  "desk_last_ok": "2026-11-21T14:42:35Z",
   "plots": [
    {
     "id": "title",
@@ -11235,13 +11339,7 @@
    "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil hangs on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
    "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil holds on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
    "GW10 between: Matt's 96 squeezes the summit as Nikhil hangs on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top."
-  ],
-  "desk_try": {
-   "sig": "101:n:0-0|102:n:0-0|103:n:0-0|104:n:0-0|105:n:0-0|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:n:0-0",
-   "ts": "2026-11-21T14:31:08Z",
-   "draft": "Haaland blanks as 22 armbands go to waste | Haaland's **2 points** left the **22 managers** who captained him with just 4 captain points each, a costly blank for half the league. At the top, Nikhil leads Matt by **1 point**, and Raya, Silva and Konsa are still to come for Nikhil alone. Matt needs Van Hecke and Gabriel to haul if he's to hit back when AVL v SUN kicks off.",
-   "why": "fact-check: ['headline', 'you:3506595', 'you:6476662']"
-  }
+  ]
  },
  "plot_log": {
   "gamble:3506595:10": [
@@ -12266,10 +12364,8 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T14:31:08Z",
-  "issues": [
-   "desk written from older totals (7 managers changed since)"
-  ],
+  "ts": "2026-11-21T14:42:35Z",
+  "issues": [],
   "page": []
  },
  "pwatch": {
