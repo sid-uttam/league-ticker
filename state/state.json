@@ -1,6 +1,21 @@
 {
  "stories": [
   {
+   "key": "d11:onpitch:268",
+   "kind": "live",
+   "tag": "Bench",
+   "head": "King is on the pitch. 2 of you benched him",
+   "body": "Edd and Isaiah will be watching through their fingers.",
+   "stat": "1 started him",
+   "score": 56,
+   "who": [
+    1378937,
+    5028423
+   ],
+   "ts": "2026-11-21T12:46:19Z",
+   "gw": 11
+  },
+  {
    "key": "d11:lone-wolf:1474501",
    "kind": "deadline",
    "tag": "Captains",
@@ -1714,7 +1729,8 @@
   "d11:lone-wolf:4841175",
   "d11:chip:4922092",
   "d11:chip:3375627",
-  "d11:rivals:3323262:573491"
+  "d11:rivals:3323262:573491",
+  "d11:onpitch:268"
  ],
  "done": [
   "deadline:10",
@@ -1795,10 +1811,10 @@
    "268": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    14,
     0,
     0,
     0
@@ -2422,10 +2438,10 @@
    "384": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    14,
     0,
     0,
     0
@@ -2455,10 +2471,10 @@
    "387": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    14,
     0,
     0,
     0
@@ -2466,10 +2482,10 @@
    "388": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    14,
     0,
     0,
     0
@@ -2543,10 +2559,10 @@
    "400": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    14,
     0,
     0,
     0
@@ -2587,10 +2603,10 @@
    "411": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    14,
     0,
     0,
     0
@@ -2796,10 +2812,10 @@
    "481": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    14,
     0,
     0,
     0
@@ -2829,10 +2845,10 @@
    "237": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    14,
     0,
     0,
     0
@@ -2928,10 +2944,10 @@
    "250": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    14,
     0,
     0,
     0
@@ -2963,7 +2979,7 @@
    "1378937": 7,
    "5489583": 8,
    "3506595": 9,
-   "4125292": 9,
+   "4125292": 10,
    "962024": 11,
    "363548": 12,
    "4922092": 13,
@@ -3016,7 +3032,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T12:33:07Z",
+ "updated": "2026-11-21T12:46:19Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -5701,7 +5717,7 @@
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got just 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, while Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan, whose Barry captain returned 32 points, lifting him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16. The Haaland bloc is still the biggest storyline in this league, and it is still costing them."
   ],
-  "ts": "2026-11-21T11:56:39Z",
+  "ts": "2026-11-21T12:46:19Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -5832,10 +5848,10 @@
     "plots": 11
    },
    "11": {
-    "in": 66878,
-    "out": 16499,
-    "calls": 6,
-    "refreshes": 1,
+    "in": 102867,
+    "out": 20301,
+    "calls": 8,
+    "refreshes": 2,
     "desks": 2,
     "desk_in": 30283,
     "desk_out": 13346
@@ -7213,8 +7229,8 @@
     "entry_name": "Ay",
     "rank": 1,
     "last_rank": 1,
-    "total": 700,
-    "event_total": 0
+    "total": 702,
+    "event_total": 2
    },
    {
     "entry": 3219276,
@@ -7222,8 +7238,8 @@
     "entry_name": "Pav Bhaji+Jodi Extra",
     "rank": 2,
     "last_rank": 2,
-    "total": 692,
-    "event_total": 0
+    "total": 694,
+    "event_total": 2
    },
    {
     "entry": 3323262,
@@ -7231,8 +7247,8 @@
     "entry_name": "Choke City",
     "rank": 3,
     "last_rank": 3,
-    "total": 671,
-    "event_total": 0
+    "total": 673,
+    "event_total": 2
    },
    {
     "entry": 573491,
@@ -7240,8 +7256,8 @@
     "entry_name": "Saka Senapati XI",
     "rank": 4,
     "last_rank": 4,
-    "total": 670,
-    "event_total": 0
+    "total": 672,
+    "event_total": 2
    },
    {
     "entry": 1541394,
@@ -7249,8 +7265,8 @@
     "entry_name": "Red Devils",
     "rank": 5,
     "last_rank": 5,
-    "total": 663,
-    "event_total": 0
+    "total": 665,
+    "event_total": 2
    },
    {
     "entry": 7471754,
@@ -7258,8 +7274,8 @@
     "entry_name": "Tonnatus",
     "rank": 6,
     "last_rank": 6,
-    "total": 658,
-    "event_total": 0
+    "total": 660,
+    "event_total": 2
    },
    {
     "entry": 1378937,
@@ -7267,8 +7283,8 @@
     "entry_name": "Wirtz My Jacquet",
     "rank": 7,
     "last_rank": 7,
-    "total": 650,
-    "event_total": 0
+    "total": 652,
+    "event_total": 2
    },
    {
     "entry": 5489583,
@@ -7276,8 +7292,8 @@
     "entry_name": "Boooooooca",
     "rank": 8,
     "last_rank": 8,
-    "total": 644,
-    "event_total": 0
+    "total": 646,
+    "event_total": 2
    },
    {
     "entry": 3506595,
@@ -7285,17 +7301,17 @@
     "entry_name": "Jacquet Potato",
     "rank": 9,
     "last_rank": 9,
-    "total": 634,
-    "event_total": 0
+    "total": 637,
+    "event_total": 3
    },
    {
     "entry": 4125292,
     "player_name": "Bhavik Desai",
     "entry_name": "Shawshank Relegation",
-    "rank": 9,
+    "rank": 10,
     "last_rank": 9,
-    "total": 634,
-    "event_total": 0
+    "total": 636,
+    "event_total": 2
    },
    {
     "entry": 962024,
@@ -7303,8 +7319,8 @@
     "entry_name": "Kobbie Wan Kenobi",
     "rank": 11,
     "last_rank": 11,
-    "total": 631,
-    "event_total": 0
+    "total": 633,
+    "event_total": 2
    },
    {
     "entry": 363548,
@@ -7312,8 +7328,8 @@
     "entry_name": "Crème De La Prèm",
     "rank": 12,
     "last_rank": 12,
-    "total": 630,
-    "event_total": 0
+    "total": 632,
+    "event_total": 2
    },
    {
     "entry": 4922092,
@@ -7321,8 +7337,8 @@
     "entry_name": "Ravi's Team",
     "rank": 13,
     "last_rank": 13,
-    "total": 629,
-    "event_total": 0
+    "total": 631,
+    "event_total": 2
    },
    {
     "entry": 3359227,
@@ -7330,8 +7346,8 @@
     "entry_name": "Raus' XV",
     "rank": 14,
     "last_rank": 14,
-    "total": 626,
-    "event_total": 0
+    "total": 629,
+    "event_total": 3
    },
    {
     "entry": 7273369,
@@ -7339,8 +7355,8 @@
     "entry_name": "eyezil",
     "rank": 15,
     "last_rank": 15,
-    "total": 619,
-    "event_total": 0
+    "total": 621,
+    "event_total": 2
    },
    {
     "entry": 1457736,
@@ -7348,8 +7364,8 @@
     "entry_name": "Sound of da Tzolis",
     "rank": 16,
     "last_rank": 16,
-    "total": 615,
-    "event_total": 0
+    "total": 616,
+    "event_total": 1
    },
    {
     "entry": 5873092,
@@ -7357,8 +7373,8 @@
     "entry_name": "The Bench",
     "rank": 17,
     "last_rank": 17,
-    "total": 612,
-    "event_total": 0
+    "total": 614,
+    "event_total": 2
    },
    {
     "entry": 75187,
@@ -7366,8 +7382,8 @@
     "entry_name": "Enzo in the City",
     "rank": 18,
     "last_rank": 18,
-    "total": 612,
-    "event_total": 0
+    "total": 614,
+    "event_total": 2
    },
    {
     "entry": 4841175,
@@ -7375,8 +7391,8 @@
     "entry_name": "Brewmore",
     "rank": 19,
     "last_rank": 19,
-    "total": 605,
-    "event_total": 0
+    "total": 606,
+    "event_total": 1
    },
    {
     "entry": 6341709,
@@ -7384,8 +7400,8 @@
     "entry_name": "Chalupa Batmen 3.0�",
     "rank": 20,
     "last_rank": 20,
-    "total": 603,
-    "event_total": 0
+    "total": 605,
+    "event_total": 2
    },
    {
     "entry": 6619523,
@@ -7393,8 +7409,8 @@
     "entry_name": "Lav's Elite",
     "rank": 21,
     "last_rank": 21,
-    "total": 600,
-    "event_total": 0
+    "total": 602,
+    "event_total": 2
    },
    {
     "entry": 3552160,
@@ -7402,8 +7418,8 @@
     "entry_name": "LET'S RUMBLE!!!",
     "rank": 22,
     "last_rank": 22,
-    "total": 581,
-    "event_total": 0
+    "total": 582,
+    "event_total": 1
    },
    {
     "entry": 5028423,
@@ -7411,8 +7427,8 @@
     "entry_name": "Kolo's sidepiece",
     "rank": 23,
     "last_rank": 23,
-    "total": 579,
-    "event_total": 0
+    "total": 581,
+    "event_total": 2
    },
    {
     "entry": 1474501,
@@ -7420,8 +7436,8 @@
     "entry_name": "Lovdenya Bhojyam",
     "rank": 24,
     "last_rank": 24,
-    "total": 578,
-    "event_total": 0
+    "total": 579,
+    "event_total": 1
    },
    {
     "entry": 383423,
@@ -7429,8 +7445,8 @@
     "entry_name": "Quantum of Tzolis",
     "rank": 25,
     "last_rank": 25,
-    "total": 574,
-    "event_total": 0
+    "total": 576,
+    "event_total": 2
    },
    {
     "entry": 8316989,
@@ -7438,8 +7454,8 @@
     "entry_name": "EA FC",
     "rank": 26,
     "last_rank": 26,
-    "total": 561,
-    "event_total": 0
+    "total": 562,
+    "event_total": 1
    },
    {
     "entry": 3375627,
@@ -7447,8 +7463,8 @@
     "entry_name": "Maximus",
     "rank": 27,
     "last_rank": 27,
-    "total": 554,
-    "event_total": 0
+    "total": 557,
+    "event_total": 3
    },
    {
     "entry": 3591460,
@@ -7456,8 +7472,8 @@
     "entry_name": "GoonerVision",
     "rank": 28,
     "last_rank": 28,
-    "total": 521,
-    "event_total": 0
+    "total": 523,
+    "event_total": 2
    },
    {
     "entry": 5706920,
@@ -7465,8 +7481,8 @@
     "entry_name": "Vicecityfc",
     "rank": 29,
     "last_rank": 29,
-    "total": 444,
-    "event_total": 0
+    "total": 446,
+    "event_total": 2
    }
   ]
  },
@@ -13456,14 +13472,14 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "King"
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Doku"
      }
     ]
@@ -14005,8 +14021,10 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T12:33:07Z",
-  "issues": [],
+  "ts": "2026-11-21T12:46:19Z",
+  "issues": [
+   "desk written from older totals (29 managers changed since)"
+  ],
   "page": []
  },
  "pwatch": {
