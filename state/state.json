@@ -2244,7 +2244,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -2266,7 +2266,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -2277,7 +2277,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -2307,10 +2307,10 @@
    "13": [
     0,
     0,
-    2,
+    1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -2318,10 +2318,10 @@
    "15": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -2398,7 +2398,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -3234,7 +3234,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -3245,7 +3245,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -3467,14 +3467,14 @@
    "363548": 10,
    "4125292": 10,
    "4922092": 12,
-   "3359227": 13,
    "962024": 13,
+   "3359227": 14,
    "7273369": 15,
    "4841175": 16,
    "1457736": 17,
+   "5873092": 18,
    "75187": 18,
-   "5873092": 19,
-   "6619523": 19,
+   "6619523": 18,
    "6341709": 21,
    "383423": 22,
    "5028423": 23,
@@ -3498,13 +3498,13 @@
    "363548": null,
    "4125292": null,
    "4922092": null,
-   "3359227": null,
    "962024": null,
+   "3359227": null,
    "7273369": null,
    "4841175": null,
    "1457736": null,
-   "75187": null,
    "5873092": null,
+   "75187": null,
    "6619523": null,
    "6341709": null,
    "383423": null,
@@ -3517,7 +3517,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T18:10:15Z",
+ "updated": "2026-11-21T18:21:52Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -8293,22 +8293,22 @@
     "event_total": 27
    },
    {
-    "entry": 3359227,
-    "player_name": "Raushan Uttamchandani",
-    "entry_name": "Raus' XV",
-    "rank": 13,
-    "last_rank": 14,
-    "total": 649,
-    "event_total": 23
-   },
-   {
     "entry": 962024,
     "player_name": "Simon Morrison",
     "entry_name": "Kobbie Wan Kenobi",
-    "rank": 14,
+    "rank": 13,
     "last_rank": 11,
+    "total": 650,
+    "event_total": 19
+   },
+   {
+    "entry": 3359227,
+    "player_name": "Raushan Uttamchandani",
+    "entry_name": "Raus' XV",
+    "rank": 14,
+    "last_rank": 14,
     "total": 649,
-    "event_total": 18
+    "event_total": 23
    },
    {
     "entry": 7273369,
@@ -8338,22 +8338,22 @@
     "event_total": 23
    },
    {
-    "entry": 75187,
-    "player_name": "Dominic Hagerty",
-    "entry_name": "Enzo in the City",
+    "entry": 5873092,
+    "player_name": "Justin Deniese",
+    "entry_name": "The Bench",
     "rank": 18,
-    "last_rank": 18,
+    "last_rank": 17,
     "total": 637,
     "event_total": 25
    },
    {
-    "entry": 5873092,
-    "player_name": "Justin Deniese",
-    "entry_name": "The Bench",
+    "entry": 75187,
+    "player_name": "Dominic Hagerty",
+    "entry_name": "Enzo in the City",
     "rank": 19,
-    "last_rank": 17,
-    "total": 636,
-    "event_total": 24
+    "last_rank": 18,
+    "total": 637,
+    "event_total": 25
    },
    {
     "entry": 6619523,
@@ -8361,8 +8361,8 @@
     "entry_name": "Lav's Elite",
     "rank": 20,
     "last_rank": 21,
-    "total": 636,
-    "event_total": 36
+    "total": 637,
+    "event_total": 37
    },
    {
     "entry": 6341709,
@@ -8370,8 +8370,8 @@
     "entry_name": "Chalupa Batmen 3.0�",
     "rank": 21,
     "last_rank": 20,
-    "total": 624,
-    "event_total": 21
+    "total": 623,
+    "event_total": 20
    },
    {
     "entry": 383423,
@@ -8379,8 +8379,8 @@
     "entry_name": "Quantum of Tzolis",
     "rank": 22,
     "last_rank": 25,
-    "total": 602,
-    "event_total": 28
+    "total": 603,
+    "event_total": 29
    },
    {
     "entry": 5028423,
@@ -8415,8 +8415,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 584,
-    "event_total": 30
+    "total": 585,
+    "event_total": 31
    },
    {
     "entry": 8316989,
@@ -14616,8 +14616,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      }
     ]
@@ -14668,8 +14668,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      },
      {
@@ -14703,8 +14703,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      }
     ]
@@ -15014,8 +15014,10 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T18:10:15Z",
-  "issues": [],
+  "ts": "2026-11-21T18:21:52Z",
+  "issues": [
+   "desk written from older totals (6 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...you start him   4    Autosub:  Cherif  (1 pts) comes in...",

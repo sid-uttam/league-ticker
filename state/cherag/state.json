@@ -10689,22 +10689,22 @@
     "event_total": 44
    },
    {
-    "entry": 2985014,
-    "player_name": "Saeel Ghube",
-    "entry_name": "Morning Woodwork FC",
-    "rank": 15,
-    "last_rank": 16,
-    "total": 711,
-    "event_total": 34
-   },
-   {
     "entry": 1902223,
     "player_name": "Karan Singh",
     "entry_name": "Bombay Reds",
     "rank": 15,
     "last_rank": 14,
+    "total": 712,
+    "event_total": 29
+   },
+   {
+    "entry": 2985014,
+    "player_name": "Saeel Ghube",
+    "entry_name": "Morning Woodwork FC",
+    "rank": 16,
+    "last_rank": 16,
     "total": 711,
-    "event_total": 28
+    "event_total": 34
    },
    {
     "entry": 2557772,
@@ -10977,28 +10977,28 @@
     "event_total": 46
    },
    {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 47,
+    "last_rank": 37,
+    "total": 680,
+    "event_total": 26
+   },
+   {
     "entry": 249619,
     "player_name": "Mayuresh Deshpande",
     "entry_name": "NetBlasters",
-    "rank": 47,
+    "rank": 48,
     "last_rank": 30,
     "total": 680,
     "event_total": 16
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 48,
-    "last_rank": 37,
-    "total": 679,
-    "event_total": 25
-   },
-   {
     "entry": 119217,
     "player_name": "Kunaal Dadwal",
     "entry_name": "Chutzpah",
-    "rank": 48,
+    "rank": 49,
     "last_rank": 56,
     "total": 679,
     "event_total": 37
@@ -11031,15 +11031,6 @@
     "event_total": 36
    },
    {
-    "entry": 248721,
-    "player_name": "Raj Pratik",
-    "entry_name": "Mebesty",
-    "rank": 53,
-    "last_rank": 51,
-    "total": 673,
-    "event_total": 26
-   },
-   {
     "entry": 2932096,
     "player_name": "Kunal Satpute",
     "entry_name": "Zhavtē FC",
@@ -11047,6 +11038,15 @@
     "last_rank": 58,
     "total": 673,
     "event_total": 33
+   },
+   {
+    "entry": 248721,
+    "player_name": "Raj Pratik",
+    "entry_name": "Mebesty",
+    "rank": 53,
+    "last_rank": 51,
+    "total": 673,
+    "event_total": 26
    },
    {
     "entry": 4540238,
@@ -11094,15 +11094,6 @@
     "event_total": 21
    },
    {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
-    "rank": 60,
-    "last_rank": 64,
-    "total": 668,
-    "event_total": 33
-   },
-   {
     "entry": 2119331,
     "player_name": "Ajay Rachakonda",
     "entry_name": "Silent Violence",
@@ -11112,13 +11103,22 @@
     "event_total": 25
    },
    {
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
+    "rank": 60,
+    "last_rank": 64,
+    "total": 668,
+    "event_total": 33
+   },
+   {
     "entry": 57776,
     "player_name": "Adwait Bhattacharya",
     "entry_name": "Xabi's Palestronomy!",
     "rank": 62,
     "last_rank": 67,
-    "total": 666,
-    "event_total": 33
+    "total": 667,
+    "event_total": 34
    },
    {
     "entry": 4632544,
@@ -11198,8 +11198,8 @@
     "entry_name": "Siiiiiuuuuuu",
     "rank": 71,
     "last_rank": 74,
-    "total": 653,
-    "event_total": 30
+    "total": 654,
+    "event_total": 31
    },
    {
     "entry": 26707,
@@ -11216,14 +11216,23 @@
     "entry_name": "Golden Jokers FC",
     "rank": 73,
     "last_rank": 71,
-    "total": 653,
-    "event_total": 30
+    "total": 652,
+    "event_total": 29
+   },
+   {
+    "entry": 4372346,
+    "player_name": "Shantanu Sharma",
+    "entry_name": "Carnage1x",
+    "rank": 74,
+    "last_rank": 78,
+    "total": 651,
+    "event_total": 32
    },
    {
     "entry": 4314690,
     "player_name": "Manu P",
     "entry_name": "Kotoshi Gambare",
-    "rank": 74,
+    "rank": 75,
     "last_rank": 69,
     "total": 650,
     "event_total": 19
@@ -11232,19 +11241,10 @@
     "entry": 1737924,
     "player_name": "Rajat Bhalla",
     "entry_name": "Break all hell ⚽️",
-    "rank": 75,
+    "rank": 76,
     "last_rank": 75,
     "total": 650,
     "event_total": 28
-   },
-   {
-    "entry": 4372346,
-    "player_name": "Shantanu Sharma",
-    "entry_name": "Carnage1x",
-    "rank": 76,
-    "last_rank": 78,
-    "total": 650,
-    "event_total": 31
    },
    {
     "entry": 438967,
@@ -11252,8 +11252,8 @@
     "entry_name": "Fantasy King",
     "rank": 77,
     "last_rank": 77,
-    "total": 647,
-    "event_total": 26
+    "total": 648,
+    "event_total": 27
    },
    {
     "entry": 44532,
@@ -11328,15 +11328,6 @@
     "event_total": 24
    },
    {
-    "entry": 2424472,
-    "player_name": "Apoorvo Choudhary",
-    "entry_name": "Brian Boobey",
-    "rank": 86,
-    "last_rank": 79,
-    "total": 636,
-    "event_total": 19
-   },
-   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -11346,13 +11337,22 @@
     "event_total": 32
    },
    {
+    "entry": 2424472,
+    "player_name": "Apoorvo Choudhary",
+    "entry_name": "Brian Boobey",
+    "rank": 86,
+    "last_rank": 79,
+    "total": 636,
+    "event_total": 19
+   },
+   {
     "entry": 699330,
     "player_name": "Pratik Bhatewara",
     "entry_name": "Batinho XI",
     "rank": 88,
     "last_rank": 85,
-    "total": 636,
-    "event_total": 28
+    "total": 635,
+    "event_total": 27
    },
    {
     "entry": 2037953,
@@ -11360,8 +11360,8 @@
     "entry_name": "XI Marauders",
     "rank": 89,
     "last_rank": 89,
-    "total": 632,
-    "event_total": 28
+    "total": 633,
+    "event_total": 29
    },
    {
     "entry": 907691,
@@ -11450,8 +11450,8 @@
     "entry_name": "Panchavati FC",
     "rank": 99,
     "last_rank": 94,
-    "total": 618,
-    "event_total": 20
+    "total": 619,
+    "event_total": 21
    },
    {
     "entry": 1967440,
@@ -11513,8 +11513,8 @@
     "entry_name": "Takatak-baba",
     "rank": 106,
     "last_rank": 108,
-    "total": 584,
-    "event_total": 29
+    "total": 585,
+    "event_total": 30
    },
    {
     "entry": 4439544,
@@ -58014,7 +58014,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -58025,7 +58025,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -58036,7 +58036,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -58055,10 +58055,10 @@
    "13": [
     0,
     0,
-    2,
+    1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -58077,10 +58077,10 @@
    "15": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -58102,7 +58102,7 @@
     6,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -58113,7 +58113,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -58377,7 +58377,7 @@
     0,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -59455,7 +59455,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -59466,7 +59466,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -59477,7 +59477,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -59664,8 +59664,8 @@
    "2671682": 12,
    "3949616": 12,
    "573491": 14,
-   "2985014": 15,
    "1902223": 15,
+   "2985014": 16,
    "2557772": 17,
    "3479732": 18,
    "18991": 19,
@@ -59696,21 +59696,21 @@
    "4558790": 44,
    "480904": 44,
    "3560542": 44,
+   "4151180": 47,
    "249619": 47,
-   "4151180": 48,
-   "119217": 48,
-   "3239284": 48,
+   "119217": 49,
+   "3239284": 49,
    "3654448": 51,
    "48343": 52,
-   "248721": 53,
    "2932096": 53,
+   "248721": 53,
    "4540238": 53,
    "1443362": 53,
    "675013": 57,
    "4134138": 58,
    "4683090": 59,
-   "119259": 60,
    "2119331": 60,
+   "119259": 60,
    "57776": 62,
    "4632544": 63,
    "383029": 64,
@@ -59720,12 +59720,12 @@
    "10615": 68,
    "4592187": 69,
    "1854010": 70,
-   "3404613": 71,
-   "26707": 71,
-   "3086063": 71,
-   "4314690": 74,
-   "1737924": 74,
+   "3404613": 70,
+   "26707": 72,
+   "3086063": 73,
    "4372346": 74,
+   "4314690": 75,
+   "1737924": 75,
    "438967": 77,
    "44532": 78,
    "6830291": 79,
@@ -59735,11 +59735,11 @@
    "686561": 83,
    "11673": 84,
    "3350036": 85,
-   "2424472": 85,
    "2723973": 85,
-   "699330": 85,
+   "2424472": 85,
+   "699330": 88,
    "2037953": 89,
-   "907691": 89,
+   "907691": 90,
    "3389995": 91,
    "3298199": 91,
    "5734029": 93,
@@ -59779,8 +59779,8 @@
    "2671682": "silver",
    "3949616": "silver",
    "573491": "silver",
-   "2985014": "silver",
    "1902223": "silver",
+   "2985014": "silver",
    "2557772": "silver",
    "3479732": "silver",
    "18991": "silver",
@@ -59811,21 +59811,21 @@
    "4558790": null,
    "480904": null,
    "3560542": null,
-   "249619": null,
    "4151180": null,
+   "249619": null,
    "119217": null,
    "3239284": null,
    "3654448": null,
    "48343": null,
-   "248721": null,
    "2932096": null,
+   "248721": null,
    "4540238": null,
    "1443362": null,
    "675013": null,
    "4134138": null,
    "4683090": null,
-   "119259": null,
    "2119331": null,
+   "119259": null,
    "57776": null,
    "4632544": null,
    "383029": null,
@@ -59838,9 +59838,9 @@
    "3404613": null,
    "26707": null,
    "3086063": null,
+   "4372346": null,
    "4314690": null,
    "1737924": null,
-   "4372346": null,
    "438967": null,
    "44532": null,
    "6830291": null,
@@ -59850,8 +59850,8 @@
    "686561": null,
    "11673": null,
    "3350036": null,
-   "2424472": null,
    "2723973": null,
+   "2424472": null,
    "699330": null,
    "2037953": null,
    "907691": null,
@@ -59880,7 +59880,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T18:10:49Z",
+ "updated": "2026-11-21T18:22:12Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -66098,8 +66098,10 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T18:10:49Z",
-  "issues": [],
+  "ts": "2026-11-21T18:22:12Z",
+  "issues": [
+   "desk written from older totals (11 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...e has can't move anyone.    Konsa ARS   1 pts so far...",
@@ -68100,8 +68102,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      },
      {
@@ -69025,8 +69027,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      }
     ]
@@ -69161,8 +69163,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 2",
-      "pts": 2,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Rice"
      }
     ]
@@ -69266,8 +69268,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      },
      {
@@ -69409,8 +69411,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      },
      {
@@ -69765,8 +69767,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      },
      {

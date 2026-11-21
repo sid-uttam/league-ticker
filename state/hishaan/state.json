@@ -2498,8 +2498,8 @@
     "entry_name": "RedArmy",
     "rank": 7,
     "last_rank": 8,
-    "total": 700,
-    "event_total": 33
+    "total": 699,
+    "event_total": 32
    },
    {
     "entry": 1036311,
@@ -2547,22 +2547,22 @@
     "event_total": 24
    },
    {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 13,
-    "last_rank": 15,
-    "total": 665,
-    "event_total": 31
-   },
-   {
     "entry": 75778,
     "player_name": "Marcel Smit",
     "entry_name": "Magic Mikel",
     "rank": 13,
     "last_rank": 13,
+    "total": 666,
+    "event_total": 19
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 14,
+    "last_rank": 15,
     "total": 665,
-    "event_total": 18
+    "event_total": 31
    },
    {
     "entry": 6892917,
@@ -2579,8 +2579,8 @@
     "entry_name": "super squad",
     "rank": 16,
     "last_rank": 15,
-    "total": 659,
-    "event_total": 25
+    "total": 660,
+    "event_total": 26
    },
    {
     "entry": 4922092,
@@ -2651,8 +2651,8 @@
     "entry_name": "Five Star XI",
     "rank": 24,
     "last_rank": 24,
-    "total": 632,
-    "event_total": 32
+    "total": 633,
+    "event_total": 33
    },
    {
     "entry": 6051923,
@@ -9086,7 +9086,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -9108,7 +9108,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -9130,7 +9130,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -9160,10 +9160,10 @@
    "13": [
     0,
     0,
-    2,
+    1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -9171,10 +9171,10 @@
    "15": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -9185,7 +9185,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -9229,7 +9229,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -9911,7 +9911,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -9922,7 +9922,7 @@
     1,
     0,
     0,
-    39,
+    45,
     0,
     0,
     0
@@ -10144,8 +10144,8 @@
    "3350483": 10,
    "3072827": 11,
    "5474293": 12,
-   "3506595": 13,
    "75778": 13,
+   "3506595": 14,
    "6892917": 15,
    "5682768": 16,
    "4922092": 17,
@@ -10172,8 +10172,8 @@
    "3350483": null,
    "3072827": null,
    "5474293": null,
-   "3506595": null,
    "75778": null,
+   "3506595": null,
    "6892917": null,
    "5682768": null,
    "4922092": null,
@@ -10188,7 +10188,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T18:11:21Z",
+ "updated": "2026-11-21T18:22:16Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -12211,8 +12211,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 2",
-      "pts": 2,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Rice"
      }
     ]
@@ -12848,8 +12848,10 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T18:11:21Z",
-  "issues": [],
+  "ts": "2026-11-21T18:22:16Z",
+  "issues": [
+   "desk written from older totals (4 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...start him   0    Autosub:  van Ewijk  (1 pts) comes in...",
