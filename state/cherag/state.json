@@ -11103,15 +11103,6 @@
     "event_total": 21
    },
    {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
-    "rank": 61,
-    "last_rank": 64,
-    "total": 668,
-    "event_total": 33
-   },
-   {
     "entry": 2119331,
     "player_name": "Ajay Rachakonda",
     "entry_name": "Silent Violence",
@@ -11119,6 +11110,15 @@
     "last_rank": 55,
     "total": 668,
     "event_total": 25
+   },
+   {
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
+    "rank": 61,
+    "last_rank": 64,
+    "total": 668,
+    "event_total": 33
    },
    {
     "entry": 4632544,
@@ -11328,15 +11328,6 @@
     "event_total": 24
    },
    {
-    "entry": 2424472,
-    "player_name": "Apoorvo Choudhary",
-    "entry_name": "Brian Boobey",
-    "rank": 86,
-    "last_rank": 79,
-    "total": 636,
-    "event_total": 19
-   },
-   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -11344,6 +11335,15 @@
     "last_rank": 89,
     "total": 636,
     "event_total": 32
+   },
+   {
+    "entry": 2424472,
+    "player_name": "Apoorvo Choudhary",
+    "entry_name": "Brian Boobey",
+    "rank": 86,
+    "last_rank": 79,
+    "total": 636,
+    "event_total": 19
    },
    {
     "entry": 2037953,
@@ -59867,8 +59867,8 @@
    "4134138": 58,
    "57776": 58,
    "4683090": 60,
-   "119259": 61,
    "2119331": 61,
+   "119259": 61,
    "4632544": 63,
    "383029": 64,
    "2569620": 64,
@@ -59892,8 +59892,8 @@
    "686561": 83,
    "11673": 84,
    "3350036": 85,
-   "2424472": 85,
    "2723973": 85,
+   "2424472": 85,
    "2037953": 85,
    "699330": 89,
    "907691": 90,
@@ -59982,8 +59982,8 @@
    "4134138": null,
    "57776": null,
    "4683090": null,
-   "119259": null,
    "2119331": null,
+   "119259": null,
    "4632544": null,
    "383029": null,
    "2569620": null,
@@ -60007,8 +60007,8 @@
    "686561": null,
    "11673": null,
    "3350036": null,
-   "2424472": null,
    "2723973": null,
+   "2424472": null,
    "2037953": null,
    "699330": null,
    "907691": null,
@@ -60037,7 +60037,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T19:57:38Z",
+ "updated": "2026-11-21T20:08:23Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -66365,7 +66365,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T19:57:38Z",
+  "ts": "2026-11-21T20:08:23Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -66624,7 +66624,7 @@
    "101": "a|100|",
    "499": "a|100|",
    "481": "a|100|",
-   "455": "d|75|Illness - 75% chance of playing",
+   "455": "a|100|",
    "401": "a|100|",
    "495": "a|None|",
    "422": "a|100|",
@@ -66660,7 +66660,7 @@
    "403": "2026-11-21T17:36:08Z",
    "391": "2026-11-20T15:36:56Z",
    "388": "2026-11-21T12:12:02Z",
-   "455": "2026-11-21T16:34:59Z",
+   "455": "2026-11-21T20:08:23Z",
    "305": "2026-11-21T17:13:42Z",
    "501": "2026-11-21T17:13:42Z",
    "1": "2026-11-21T19:09:53Z",
@@ -67466,6 +67466,14 @@
     "el": 411,
     "kind": "surge",
     "net": -25040
+   },
+   {
+    "ts": "2026-11-21T20:08:23Z",
+    "el": 455,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
    }
   ]
  },
