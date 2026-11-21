@@ -2453,8 +2453,8 @@
     "entry_name": "Umm Suqeim FC",
     "rank": 2,
     "last_rank": 1,
-    "total": 745,
-    "event_total": 22
+    "total": 744,
+    "event_total": 21
    },
    {
     "entry": 735721,
@@ -2489,8 +2489,8 @@
     "entry_name": "orangeblaze78",
     "rank": 6,
     "last_rank": 6,
-    "total": 710,
-    "event_total": 36
+    "total": 709,
+    "event_total": 35
    },
    {
     "entry": 1036311,
@@ -2498,8 +2498,8 @@
     "entry_name": "AMFC 11",
     "rank": 7,
     "last_rank": 9,
-    "total": 697,
-    "event_total": 39
+    "total": 696,
+    "event_total": 38
    },
    {
     "entry": 1655993,
@@ -2507,8 +2507,8 @@
     "entry_name": "RedArmy",
     "rank": 8,
     "last_rank": 8,
-    "total": 696,
-    "event_total": 29
+    "total": 695,
+    "event_total": 28
    },
    {
     "entry": 4487775,
@@ -2525,8 +2525,8 @@
     "entry_name": "Red Devils United",
     "rank": 10,
     "last_rank": 10,
-    "total": 678,
-    "event_total": 24
+    "total": 677,
+    "event_total": 23
    },
    {
     "entry": 3350483,
@@ -2552,8 +2552,8 @@
     "entry_name": "Fifteen Fighters",
     "rank": 13,
     "last_rank": 14,
-    "total": 664,
-    "event_total": 28
+    "total": 662,
+    "event_total": 26
    },
    {
     "entry": 75778,
@@ -2561,14 +2561,14 @@
     "entry_name": "Magic Mikel",
     "rank": 14,
     "last_rank": 13,
-    "total": 663,
-    "event_total": 16
+    "total": 662,
+    "event_total": 15
    },
    {
     "entry": 3506595,
     "player_name": "Hishaan Mahtani",
     "entry_name": "Jacquet Potato",
-    "rank": 15,
+    "rank": 14,
     "last_rank": 15,
     "total": 662,
     "event_total": 28
@@ -2579,8 +2579,8 @@
     "entry_name": "super squad",
     "rank": 16,
     "last_rank": 15,
-    "total": 660,
-    "event_total": 26
+    "total": 658,
+    "event_total": 24
    },
    {
     "entry": 4922092,
@@ -2588,8 +2588,8 @@
     "entry_name": "Ravi's Team",
     "rank": 17,
     "last_rank": 17,
-    "total": 656,
-    "event_total": 27
+    "total": 655,
+    "event_total": 26
    },
    {
     "entry": 2934546,
@@ -2624,8 +2624,8 @@
     "entry_name": "Net Six and Chill",
     "rank": 21,
     "last_rank": 21,
-    "total": 640,
-    "event_total": 22
+    "total": 639,
+    "event_total": 21
    },
    {
     "entry": 7043406,
@@ -2633,26 +2633,26 @@
     "entry_name": "Rajiv's Team",
     "rank": 22,
     "last_rank": 22,
-    "total": 635,
-    "event_total": 22
-   },
-   {
-    "entry": 3314780,
-    "player_name": "Ravi Bhojwani",
-    "entry_name": "Five Star XI",
-    "rank": 23,
-    "last_rank": 24,
-    "total": 632,
-    "event_total": 32
+    "total": 634,
+    "event_total": 21
    },
    {
     "entry": 6159011,
     "player_name": "Vinesh Mirpuri",
     "entry_name": "Egg Fried Guimarães",
-    "rank": 24,
+    "rank": 23,
     "last_rank": 23,
     "total": 631,
     "event_total": 19
+   },
+   {
+    "entry": 3314780,
+    "player_name": "Ravi Bhojwani",
+    "entry_name": "Five Star XI",
+    "rank": 24,
+    "last_rank": 24,
+    "total": 631,
+    "event_total": 31
    },
    {
     "entry": 6051923,
@@ -2660,8 +2660,8 @@
     "entry_name": "Your Wirtz Nightmare",
     "rank": 25,
     "last_rank": 25,
-    "total": 611,
-    "event_total": 27
+    "total": 610,
+    "event_total": 26
    },
    {
     "entry": 6476662,
@@ -9004,10 +9004,10 @@
    "512": [
     0,
     0,
-    3,
+    2,
     1,
     0,
-    75,
+    87,
     0,
     0,
     0
@@ -9026,10 +9026,10 @@
    "259": [
     0,
     0,
-    1,
     0,
     0,
-    75,
+    0,
+    87,
     0,
     0,
     0
@@ -9194,7 +9194,7 @@
     5,
     0,
     0,
-    71,
+    83,
     0,
     0,
     0
@@ -9205,7 +9205,7 @@
     1,
     0,
     0,
-    16,
+    28,
     0,
     0,
     0
@@ -9227,7 +9227,7 @@
     1,
     0,
     0,
-    75,
+    87,
     0,
     0,
     0
@@ -9238,7 +9238,7 @@
     1,
     0,
     0,
-    75,
+    82,
     0,
     0,
     0
@@ -9260,7 +9260,7 @@
     8,
     1,
     0,
-    75,
+    86,
     0,
     0,
     0
@@ -9282,7 +9282,7 @@
     6,
     1,
     0,
-    75,
+    86,
     0,
     0,
     0
@@ -9304,7 +9304,7 @@
     14,
     1,
     0,
-    75,
+    86,
     0,
     0,
     0
@@ -9315,7 +9315,7 @@
     1,
     0,
     0,
-    1,
+    13,
     0,
     0,
     0
@@ -9348,7 +9348,7 @@
     7,
     1,
     0,
-    75,
+    86,
     0,
     0,
     0
@@ -9359,7 +9359,7 @@
     3,
     1,
     0,
-    75,
+    86,
     0,
     0,
     0
@@ -9370,7 +9370,7 @@
     4,
     0,
     0,
-    71,
+    83,
     0,
     0,
     0
@@ -9381,7 +9381,7 @@
     2,
     0,
     0,
-    71,
+    83,
     0,
     0,
     0
@@ -9392,7 +9392,7 @@
     2,
     0,
     0,
-    71,
+    83,
     0,
     0,
     0
@@ -9400,10 +9400,10 @@
    "79": [
     1,
     0,
-    7,
+    6,
     1,
     0,
-    75,
+    86,
     0,
     0,
     0
@@ -9444,10 +9444,10 @@
    "346": [
     1,
     1,
-    10,
+    9,
     0,
     0,
-    71,
+    83,
     0,
     0,
     0
@@ -9524,7 +9524,7 @@
     6,
     1,
     0,
-    75,
+    87,
     0,
     0,
     0
@@ -9628,17 +9628,6 @@
     0,
     0
    ],
-   "138": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
    "650": [
     0,
     0,
@@ -9646,6 +9635,17 @@
     0,
     0,
     90,
+    0,
+    0,
+    0
+   ],
+   "138": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -9678,7 +9678,7 @@
     2,
     0,
     0,
-    71,
+    83,
     0,
     0,
     0
@@ -9700,7 +9700,7 @@
     1,
     0,
     0,
-    7,
+    19,
     0,
     0,
     0
@@ -9788,7 +9788,7 @@
     3,
     0,
     0,
-    72,
+    82,
     0,
     0,
     0
@@ -9799,7 +9799,7 @@
     1,
     0,
     0,
-    72,
+    82,
     0,
     0,
     0
@@ -9832,7 +9832,7 @@
     10,
     0,
     0,
-    72,
+    82,
     0,
     0,
     0
@@ -9898,7 +9898,7 @@
     2,
     0,
     0,
-    75,
+    86,
     0,
     0,
     0
@@ -9986,7 +9986,7 @@
     7,
     1,
     0,
-    75,
+    87,
     0,
     0,
     0
@@ -10005,10 +10005,10 @@
    "502": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    8,
     0,
     0,
     0
@@ -10074,11 +10074,11 @@
    "1655993": 8,
    "4487775": 9,
    "3072827": 10,
-   "3350483": 11,
+   "3350483": 10,
    "5474293": 12,
    "6892917": 13,
-   "75778": 14,
-   "3506595": 14,
+   "75778": 13,
+   "3506595": 13,
    "5682768": 16,
    "4922092": 17,
    "2934546": 18,
@@ -10086,8 +10086,8 @@
    "6279027": 20,
    "865376": 21,
    "7043406": 22,
+   "6159011": 23,
    "3314780": 23,
-   "6159011": 24,
    "6051923": 25,
    "6476662": 26
   },
@@ -10114,13 +10114,13 @@
    "6279027": null,
    "865376": null,
    "7043406": "tinpot",
-   "3314780": "tinpot",
    "6159011": "tinpot",
+   "3314780": "tinpot",
    "6051923": "tinpot",
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T16:36:19Z",
+ "updated": "2026-11-21T16:47:05Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -12722,7 +12722,7 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T16:36:19Z",
+  "ts": "2026-11-21T16:47:05Z",
   "issues": [
    "desk written from older totals (24 managers changed since)"
   ],

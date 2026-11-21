@@ -2181,10 +2181,10 @@
    "512": [
     0,
     0,
-    3,
+    2,
     1,
     0,
-    74,
+    87,
     0,
     0,
     0
@@ -2203,10 +2203,10 @@
    "259": [
     0,
     0,
-    1,
     0,
     0,
-    74,
+    0,
+    87,
     0,
     0,
     0
@@ -2283,7 +2283,7 @@
     8,
     1,
     0,
-    75,
+    88,
     0,
     0,
     0
@@ -2371,7 +2371,7 @@
     5,
     0,
     0,
-    70,
+    83,
     0,
     0,
     0
@@ -2404,7 +2404,7 @@
     1,
     0,
     0,
-    15,
+    28,
     0,
     0,
     0
@@ -2415,7 +2415,7 @@
     1,
     0,
     0,
-    74,
+    87,
     0,
     0,
     0
@@ -2426,7 +2426,7 @@
     1,
     0,
     0,
-    74,
+    82,
     0,
     0,
     0
@@ -2445,10 +2445,10 @@
    "566": [
     0,
     0,
-    9,
+    8,
     1,
     0,
-    74,
+    86,
     0,
     0,
     0
@@ -2492,7 +2492,7 @@
     6,
     1,
     0,
-    74,
+    86,
     0,
     0,
     0
@@ -2525,7 +2525,7 @@
     6,
     1,
     0,
-    74,
+    86,
     0,
     0,
     0
@@ -2533,10 +2533,10 @@
    "316": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    13,
     0,
     0,
     0
@@ -2547,7 +2547,7 @@
     3,
     1,
     0,
-    74,
+    86,
     0,
     0,
     0
@@ -2558,7 +2558,7 @@
     7,
     1,
     0,
-    74,
+    86,
     0,
     0,
     0
@@ -2613,7 +2613,7 @@
     4,
     0,
     0,
-    70,
+    83,
     0,
     0,
     0
@@ -2624,7 +2624,7 @@
     2,
     0,
     0,
-    70,
+    83,
     0,
     0,
     0
@@ -2635,7 +2635,7 @@
     2,
     0,
     0,
-    70,
+    83,
     0,
     0,
     0
@@ -2643,10 +2643,10 @@
    "79": [
     1,
     0,
-    7,
+    6,
     1,
     0,
-    74,
+    86,
     0,
     0,
     0
@@ -2679,7 +2679,7 @@
     1,
     0,
     0,
-    25,
+    37,
     0,
     0,
     0
@@ -2687,10 +2687,10 @@
    "346": [
     1,
     1,
-    10,
+    9,
     0,
     0,
-    70,
+    83,
     0,
     0,
     0
@@ -2720,10 +2720,10 @@
    "101": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    48,
+    61,
     0,
     0,
     0
@@ -2789,7 +2789,7 @@
     6,
     1,
     0,
-    74,
+    87,
     0,
     0,
     0
@@ -2899,7 +2899,7 @@
     2,
     0,
     0,
-    70,
+    83,
     0,
     0,
     0
@@ -3009,7 +3009,7 @@
     1,
     0,
     0,
-    10,
+    23,
     0,
     0,
     0
@@ -3031,7 +3031,7 @@
     2,
     0,
     0,
-    70,
+    83,
     0,
     0,
     0
@@ -3053,7 +3053,7 @@
     1,
     0,
     0,
-    6,
+    19,
     0,
     0,
     0
@@ -3097,7 +3097,7 @@
     1,
     0,
     0,
-    74,
+    86,
     0,
     0,
     0
@@ -3152,7 +3152,7 @@
     3,
     0,
     0,
-    70,
+    82,
     0,
     0,
     0
@@ -3163,7 +3163,7 @@
     1,
     0,
     0,
-    70,
+    82,
     0,
     0,
     0
@@ -3171,10 +3171,10 @@
    "183": [
     0,
     2,
-    9,
+    10,
     0,
     0,
-    70,
+    82,
     0,
     0,
     0
@@ -3207,7 +3207,7 @@
     0,
     0,
     0,
-    74,
+    81,
     0,
     0,
     0
@@ -3240,7 +3240,7 @@
     2,
     0,
     0,
-    74,
+    86,
     0,
     0,
     0
@@ -3306,7 +3306,7 @@
     7,
     1,
     0,
-    74,
+    87,
     0,
     0,
     0
@@ -3328,7 +3328,7 @@
     8,
     1,
     0,
-    74,
+    87,
     0,
     0,
     0
@@ -3339,7 +3339,7 @@
     11,
     1,
     0,
-    74,
+    87,
     0,
     0,
     0
@@ -3347,10 +3347,10 @@
    "502": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    8,
     0,
     0,
     0
@@ -3415,15 +3415,15 @@
    "1378937": 7,
    "5489583": 8,
    "3506595": 9,
-   "363548": 10,
    "4125292": 10,
+   "363548": 11,
    "4922092": 12,
    "3359227": 13,
-   "7273369": 13,
-   "962024": 15,
+   "962024": 14,
+   "7273369": 14,
    "4841175": 16,
    "1457736": 17,
-   "5873092": 18,
+   "5873092": 19,
    "75187": 18,
    "6619523": 20,
    "6341709": 21,
@@ -3446,12 +3446,12 @@
    "1378937": "silver",
    "5489583": "silver",
    "3506595": null,
-   "363548": null,
    "4125292": null,
+   "363548": null,
    "4922092": null,
    "3359227": null,
-   "7273369": null,
    "962024": null,
+   "7273369": null,
    "4841175": null,
    "1457736": null,
    "5873092": null,
@@ -3468,7 +3468,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T16:33:44Z",
+ "updated": "2026-11-21T16:46:38Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -8143,8 +8143,8 @@
     "entry_name": "Saka Senapati XI",
     "rank": 3,
     "last_rank": 4,
-    "total": 713,
-    "event_total": 43
+    "total": 711,
+    "event_total": 41
    },
    {
     "entry": 3323262,
@@ -8161,8 +8161,8 @@
     "entry_name": "Red Devils",
     "rank": 5,
     "last_rank": 5,
-    "total": 695,
-    "event_total": 32
+    "total": 694,
+    "event_total": 31
    },
    {
     "entry": 7471754,
@@ -8170,8 +8170,8 @@
     "entry_name": "Tonnatus",
     "rank": 6,
     "last_rank": 6,
-    "total": 691,
-    "event_total": 33
+    "total": 690,
+    "event_total": 32
    },
    {
     "entry": 1378937,
@@ -8179,8 +8179,8 @@
     "entry_name": "Wirtz My Jacquet",
     "rank": 7,
     "last_rank": 7,
-    "total": 670,
-    "event_total": 20
+    "total": 669,
+    "event_total": 19
    },
    {
     "entry": 5489583,
@@ -8188,8 +8188,8 @@
     "entry_name": "Boooooooca",
     "rank": 8,
     "last_rank": 8,
-    "total": 669,
-    "event_total": 25
+    "total": 668,
+    "event_total": 24
    },
    {
     "entry": 3506595,
@@ -8201,22 +8201,22 @@
     "event_total": 28
    },
    {
-    "entry": 363548,
-    "player_name": "Ahmad Ali",
-    "entry_name": "Crème De La Prèm",
-    "rank": 10,
-    "last_rank": 12,
-    "total": 661,
-    "event_total": 31
-   },
-   {
     "entry": 4125292,
     "player_name": "Bhavik Desai",
     "entry_name": "Shawshank Relegation",
-    "rank": 11,
+    "rank": 10,
     "last_rank": 9,
     "total": 661,
     "event_total": 27
+   },
+   {
+    "entry": 363548,
+    "player_name": "Ahmad Ali",
+    "entry_name": "Crème De La Prèm",
+    "rank": 11,
+    "last_rank": 12,
+    "total": 660,
+    "event_total": 30
    },
    {
     "entry": 4922092,
@@ -8224,8 +8224,8 @@
     "entry_name": "Ravi's Team",
     "rank": 12,
     "last_rank": 13,
-    "total": 656,
-    "event_total": 27
+    "total": 655,
+    "event_total": 26
    },
    {
     "entry": 3359227,
@@ -8233,26 +8233,26 @@
     "entry_name": "Raus' XV",
     "rank": 13,
     "last_rank": 14,
-    "total": 648,
-    "event_total": 22
-   },
-   {
-    "entry": 7273369,
-    "player_name": "Will Zahn",
-    "entry_name": "eyezil",
-    "rank": 14,
-    "last_rank": 15,
-    "total": 648,
-    "event_total": 29
+    "total": 647,
+    "event_total": 21
    },
    {
     "entry": 962024,
     "player_name": "Simon Morrison",
     "entry_name": "Kobbie Wan Kenobi",
-    "rank": 15,
+    "rank": 14,
     "last_rank": 11,
-    "total": 647,
-    "event_total": 16
+    "total": 646,
+    "event_total": 15
+   },
+   {
+    "entry": 7273369,
+    "player_name": "Will Zahn",
+    "entry_name": "eyezil",
+    "rank": 15,
+    "last_rank": 15,
+    "total": 646,
+    "event_total": 27
    },
    {
     "entry": 4841175,
@@ -8260,8 +8260,8 @@
     "entry_name": "Brewmore",
     "rank": 16,
     "last_rank": 19,
-    "total": 642,
-    "event_total": 37
+    "total": 641,
+    "event_total": 36
    },
    {
     "entry": 1457736,
@@ -8296,8 +8296,8 @@
     "entry_name": "Lav's Elite",
     "rank": 20,
     "last_rank": 21,
-    "total": 633,
-    "event_total": 33
+    "total": 632,
+    "event_total": 32
    },
    {
     "entry": 6341709,
@@ -8350,8 +8350,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 583,
-    "event_total": 29
+    "total": 582,
+    "event_total": 28
    },
    {
     "entry": 8316989,
@@ -14129,8 +14129,8 @@
     "branch": "both",
     "status": {
      "state": "playing",
-     "label": "Playing · 7",
-     "pts": 7
+     "label": "Playing · 6",
+     "pts": 6
     }
    },
    {
@@ -14193,8 +14193,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Robertson"
      },
      {
@@ -14221,8 +14221,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 9",
-      "pts": 9,
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Silva"
      },
      {
@@ -14403,8 +14403,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 9",
-      "pts": 9,
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Silva"
      },
      {
@@ -14792,8 +14792,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 9",
-      "pts": 9,
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Silva"
      },
      {
@@ -14937,8 +14937,10 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T16:33:44Z",
-  "issues": [],
+  "ts": "2026-11-21T16:46:38Z",
+  "issues": [
+   "desk written from older totals (15 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...you start him   0    Autosub:  Cherif  (1 pts) comes in..."
