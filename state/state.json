@@ -2262,7 +2262,7 @@
     1,
     0,
     0,
-    54,
+    68,
     0,
     0,
     0
@@ -2284,7 +2284,7 @@
     1,
     0,
     0,
-    54,
+    68,
     0,
     0,
     0
@@ -2295,7 +2295,7 @@
     1,
     0,
     0,
-    54,
+    68,
     0,
     0,
     0
@@ -2328,7 +2328,7 @@
     1,
     0,
     0,
-    54,
+    68,
     0,
     0,
     0
@@ -2336,10 +2336,10 @@
    "15": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    54,
+    68,
     0,
     0,
     0
@@ -2416,7 +2416,7 @@
     1,
     0,
     0,
-    54,
+    68,
     0,
     0,
     0
@@ -3249,10 +3249,10 @@
    "449": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    54,
+    68,
     0,
     0,
     0
@@ -3263,7 +3263,7 @@
     8,
     0,
     0,
-    54,
+    68,
     0,
     0,
     0
@@ -3485,14 +3485,14 @@
    "363548": 10,
    "4125292": 10,
    "4922092": 12,
-   "3359227": 13,
    "962024": 13,
+   "3359227": 14,
    "7273369": 15,
    "4841175": 16,
    "1457736": 17,
+   "5873092": 18,
    "75187": 18,
-   "5873092": 19,
-   "6619523": 19,
+   "6619523": 18,
    "6341709": 21,
    "383423": 22,
    "5028423": 23,
@@ -3516,13 +3516,13 @@
    "363548": null,
    "4125292": null,
    "4922092": null,
-   "3359227": null,
    "962024": null,
+   "3359227": null,
    "7273369": null,
    "4841175": null,
    "1457736": null,
-   "75187": null,
    "5873092": null,
+   "75187": null,
    "6619523": null,
    "6341709": null,
    "383423": null,
@@ -3535,7 +3535,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T18:43:23Z",
+ "updated": "2026-11-21T18:56:55Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6351,16 +6351,156 @@
     "plots": 11
    },
    "11": {
-    "in": 833931,
-    "out": 166598,
-    "calls": 58,
+    "in": 852794,
+    "out": 171914,
+    "calls": 60,
     "refreshes": 11,
-    "desks": 18,
-    "desk_in": 432858,
-    "desk_out": 137482
+    "desks": 19,
+    "desk_in": 451721,
+    "desk_out": 142798
    }
   },
   "desks": [
+   {
+    "headline": "Haaland blanks on 22 armbands as Ayodele holds top spot",
+    "text": "Haaland returned **2 points** on 22 armbands, yet Ayodele still leads Cherag by **11 points** at the top. Gomez and Gakpo are still to play and only Ayodele owns them, while Groß is Cherag's lone hope, so the top spot could tighten. NEWC v ARS is in play.",
+    "you": {
+     "1092588": "Benching Bogle cost you a 4-point assist this gameweek.",
+     "3219276": "Benching Calvert-Lewin cost you 9 points from his goal and assist.",
+     "573491": "Passing Sid today has lifted you into 3rd.",
+     "1541394": "Sid is 2 points ahead of you in 4th, so your next move matters.",
+     "7471754": "B.Fernandes is the only one of your players still to play.",
+     "5489583": "You have passed Edd today, moving you 1 point ahead of him.",
+     "1378937": "Omar has passed you today, leaving you 1 point behind him.",
+     "3506595": "Jacquet and Barry are yours alone still to play.",
+     "363548": "Passing Simon today has moved you level with Bhavik on 663 points.",
+     "4125292": "Level with Ahmad on 663 points, you have been as low as 11th today.",
+     "4922092": "You have passed Simon today, leaving Bhavik 7 points above you.",
+     "3359227": "Your N.Jackson armband returned just 2 points, having briefly lifted you to 13th today.",
+     "962024": "Ahmad and Ravi have passed you today, leaving Raushan 2 points behind.",
+     "7273369": "Raushan sits just 1 point above you, with 3 players still to play to close that gap.",
+     "4841175": "Passing Naishadh, Dominic and Justin today has lifted you to 16th.",
+     "1457736": "Maanav has passed you today, leaving you 8 points behind him.",
+     "75187": "Maanav passed you today, leaving Naishadh 1 point above you.",
+     "5873092": "Maanav has passed you today, so Dominic sits level with you on points.",
+     "383423": "You have passed Isaiah, Dinesh and Saurabh today, with Tomisin 20 points above you.",
+     "5028423": "Tobi has passed you today, leaving Dinesh 2 points behind you.",
+     "1474501": "Tobi has passed you today, leaving Isaiah 2 points above you.",
+     "3375627": "You have passed Elvin today, leaving Saurabh 6 points above you.",
+     "3591460": "Garner is yours alone still to play, so his points are all yours.",
+     "6619523": "You have passed Tomisin today, leaving him 14 points behind you.",
+     "6341709": "Lavesh passed you today, leaving you 14 points behind him."
+    },
+    "ts": "2026-11-21T18:56:55Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:i:2-1|110:f:2-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "573491": 3,
+     "3323262": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "5489583": 7,
+     "1378937": 8,
+     "3506595": 9,
+     "363548": 10,
+     "4125292": 10,
+     "4922092": 12,
+     "962024": 13,
+     "3359227": 14,
+     "7273369": 15,
+     "4841175": 16,
+     "1457736": 17,
+     "5873092": 18,
+     "75187": 18,
+     "6619523": 18,
+     "6341709": 21,
+     "383423": 22,
+     "5028423": 23,
+     "1474501": 24,
+     "3552160": 25,
+     "3375627": 26,
+     "8316989": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 728,
+     "3219276": 717,
+     "573491": 714,
+     "3323262": 700,
+     "1541394": 698,
+     "7471754": 692,
+     "5489583": 672,
+     "1378937": 671,
+     "3506595": 665,
+     "363548": 663,
+     "4125292": 663,
+     "4922092": 656,
+     "962024": 651,
+     "3359227": 649,
+     "7273369": 648,
+     "4841175": 646,
+     "1457736": 638,
+     "5873092": 637,
+     "75187": 637,
+     "6619523": 637,
+     "6341709": 623,
+     "383423": 603,
+     "5028423": 597,
+     "1474501": 595,
+     "3552160": 591,
+     "3375627": 585,
+     "8316989": 576,
+     "3591460": 542,
+     "5706920": 463
+    },
+    "ga": {
+     "40": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ],
+     "499": [
+      0,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-21T18:43:23Z",
+    "next": {
+     "ko": "2026-11-22T14:00:00Z",
+     "match": "HUL v BHA"
+    }
+   },
    {
     "headline": "Barnes scores 8 after 4 managers benched him",
     "text": "**Barnes scored 8 points** after 4 managers benched him: Sid, Nanik, Bhavik and Raushan. Sid sits 4th and Nanik 5th, just **2 points** apart, so that bench call could shape the Gold spots fight. With NEWC v ARS still in play, every point counts for those chasing the top.",
@@ -6901,143 +7041,6 @@
      "match": "NEWC v ARS"
     },
     "buildup_for": 109
-   },
-   {
-    "headline": "Haaland blanks on 22 armbands as Ayodele keeps top spot",
-    "text": "Haaland managed just **2 points** for the 22 managers who captained him, yet **Ayodele** still leads Cherag by **12 points** at the top. Both have 5 players left, with Gomez and Gakpo the extra threats for Ayodele and Calafiori and Groß for Cherag.",
-    "you": {
-     "1092588": "Benching Bogle is costing you, as he has assisted for **4 points** since you left him out.",
-     "3219276": "Leaving Calvert-Lewin out has cost you, as he has scored and assisted for 9 points since.",
-     "573491": "You have passed Sid today, moving you up into 3rd place.",
-     "3323262": "Nihal has passed you today, leaving 13 points between you and him.",
-     "1541394": "You were as high as 4th earlier today before slipping to 5th, 3 points behind Sid.",
-     "7471754": "B.Fernandes is the only player you still have to play, so a goal could move you up.",
-     "1378937": "King is on the pitch with 2 managers benching him, you among them.",
-     "5489583": "You dipped as low as 8th today before climbing back to 7th, level with Edd.",
-     "3506595": "You dipped as low as 10th earlier today before climbing back to 9th.",
-     "4125292": "You dropped as low as 12th today before climbing back to 10th.",
-     "363548": "You have passed Simon today, leaving you 1 point behind Bhavik.",
-     "4922092": "You have passed Simon today, sitting 5 points behind Ahmad.",
-     "3359227": "Your N.Jackson armband has returned just 2 points, a flop you share with Naishadh.",
-     "962024": "Ahmad, Ravi and Raushan have all passed you today.",
-     "7273369": "You dropped as low as 15th today before climbing back to 14th.",
-     "4841175": "You have passed Naishadh, Dominic and Justin today, climbing from 19th to 16th.",
-     "1457736": "Your N.Jackson armband managed just 2 points, sharing the flop with Raushan.",
-     "75187": "Maanav passed you today, leaving you 1 point behind Naishadh.",
-     "5873092": "Maanav passed you today, leaving you 2 points behind Dominic.",
-     "6619523": "You have passed Tomisin today, moving you 13 points clear of him.",
-     "6341709": "Lavesh passing you today leaves you 13 points behind him.",
-     "383423": "You have passed Isaiah, Dinesh and Saurabh today, with the Tin Pot now behind you.",
-     "5028423": "Tobi passed you today, though you have passed Saurabh.",
-     "1474501": "You passed Saurabh today, but Tobi has moved ahead of you.",
-     "3375627": "You have passed Elvin today, climbing from 27th to 26th.",
-     "3591460": "Garner is the only player you still have to play, with a chance to climb from 28th."
-    },
-    "ts": "2026-11-21T16:58:45Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:i:1-4|105:i:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:n:0-0|110:f:2-0",
-    "ranks": {
-     "1092588": 1,
-     "3219276": 2,
-     "573491": 3,
-     "3323262": 4,
-     "1541394": 5,
-     "7471754": 6,
-     "1378937": 7,
-     "5489583": 7,
-     "3506595": 9,
-     "4125292": 10,
-     "363548": 11,
-     "4922092": 12,
-     "3359227": 13,
-     "962024": 14,
-     "7273369": 14,
-     "4841175": 16,
-     "1457736": 17,
-     "75187": 18,
-     "5873092": 19,
-     "6619523": 19,
-     "6341709": 21,
-     "383423": 22,
-     "5028423": 23,
-     "1474501": 24,
-     "3552160": 25,
-     "3375627": 26,
-     "8316989": 27,
-     "3591460": 28,
-     "5706920": 29
-    },
-    "totals": {
-     "1092588": 726,
-     "3219276": 714,
-     "573491": 711,
-     "3323262": 698,
-     "1541394": 695,
-     "7471754": 691,
-     "1378937": 669,
-     "5489583": 669,
-     "3506595": 663,
-     "4125292": 662,
-     "363548": 661,
-     "4922092": 656,
-     "3359227": 647,
-     "962024": 646,
-     "7273369": 646,
-     "4841175": 644,
-     "1457736": 636,
-     "75187": 635,
-     "5873092": 633,
-     "6619523": 633,
-     "6341709": 620,
-     "383423": 600,
-     "5028423": 595,
-     "1474501": 594,
-     "3552160": 590,
-     "3375627": 581,
-     "8316989": 574,
-     "3591460": 541,
-     "5706920": 463
-    },
-    "ga": {
-     "40": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "481": [
-      1,
-      0
-     ],
-     "499": [
-      0,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-21T16:58:45Z",
-    "next": {
-     "ko": "2026-11-21T17:30:00Z",
-     "match": "NEWC v ARS"
-    }
    }
   ],
   "desk_day": {
@@ -7074,7 +7077,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-21T18:43:23Z",
+  "desk_last_ok": "2026-11-21T18:56:55Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -8312,22 +8315,22 @@
     "event_total": 27
    },
    {
-    "entry": 3359227,
-    "player_name": "Raushan Uttamchandani",
-    "entry_name": "Raus' XV",
-    "rank": 13,
-    "last_rank": 14,
-    "total": 649,
-    "event_total": 23
-   },
-   {
     "entry": 962024,
     "player_name": "Simon Morrison",
     "entry_name": "Kobbie Wan Kenobi",
-    "rank": 14,
+    "rank": 13,
     "last_rank": 11,
+    "total": 651,
+    "event_total": 20
+   },
+   {
+    "entry": 3359227,
+    "player_name": "Raushan Uttamchandani",
+    "entry_name": "Raus' XV",
+    "rank": 14,
+    "last_rank": 14,
     "total": 649,
-    "event_total": 18
+    "event_total": 23
    },
    {
     "entry": 7273369,
@@ -8357,22 +8360,22 @@
     "event_total": 23
    },
    {
-    "entry": 75187,
-    "player_name": "Dominic Hagerty",
-    "entry_name": "Enzo in the City",
+    "entry": 5873092,
+    "player_name": "Justin Deniese",
+    "entry_name": "The Bench",
     "rank": 18,
-    "last_rank": 18,
+    "last_rank": 17,
     "total": 637,
     "event_total": 25
    },
    {
-    "entry": 5873092,
-    "player_name": "Justin Deniese",
-    "entry_name": "The Bench",
+    "entry": 75187,
+    "player_name": "Dominic Hagerty",
+    "entry_name": "Enzo in the City",
     "rank": 19,
-    "last_rank": 17,
-    "total": 636,
-    "event_total": 24
+    "last_rank": 18,
+    "total": 637,
+    "event_total": 25
    },
    {
     "entry": 6619523,
@@ -8380,8 +8383,8 @@
     "entry_name": "Lav's Elite",
     "rank": 20,
     "last_rank": 21,
-    "total": 636,
-    "event_total": 36
+    "total": 637,
+    "event_total": 37
    },
    {
     "entry": 6341709,
@@ -8398,8 +8401,8 @@
     "entry_name": "Quantum of Tzolis",
     "rank": 22,
     "last_rank": 25,
-    "total": 602,
-    "event_total": 28
+    "total": 603,
+    "event_total": 29
    },
    {
     "entry": 5028423,
@@ -8434,8 +8437,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 584,
-    "event_total": 30
+    "total": 585,
+    "event_total": 31
    },
    {
     "entry": 8316989,
@@ -14635,8 +14638,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      }
     ]
@@ -14687,8 +14690,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      },
      {
@@ -14722,8 +14725,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Ødegaard"
      }
     ]
@@ -15033,7 +15036,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T18:43:23Z",
+  "ts": "2026-11-21T18:56:55Z",
   "issues": [],
   "page": [],
   "wording": [
