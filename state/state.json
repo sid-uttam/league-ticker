@@ -3032,7 +3032,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-21T13:19:32Z",
+ "updated": "2026-11-21T13:30:13Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -5848,16 +5848,120 @@
     "plots": 11
    },
    "11": {
-    "in": 128161,
-    "out": 28558,
-    "calls": 10,
+    "in": 153746,
+    "out": 36374,
+    "calls": 12,
     "refreshes": 2,
-    "desks": 3,
-    "desk_in": 55577,
-    "desk_out": 21603
+    "desks": 4,
+    "desk_in": 81162,
+    "desk_out": 29419
    }
   },
   "desks": [
+   {
+    "headline": "Haaland's 22 armbands yield 1 point as City trail",
+    "text": "Haaland's **22 armbands** have yielded **1 point** as MCI trail FUL **0-1** at half-time. Ayodele leads on **702 points**, 8 points clear of Cherag, and both captain him. With 10 players each still to play, Ayodele's Robertson and Gomez could decide the top spot.",
+    "you": {
+     "1092588": "**Robertson and Gomez** are yours alone to play, so they could protect your top spot.",
+     "3219276": "Rayan is yours alone to play, a chance to close the 8 points gap to Ayodele above you.",
+     "3323262": "Cherag is 21 points above you, the gap you need to close to stay in Gold.",
+     "573491": "Maanav is also on Bench Boost, so your bench could decide your Gold spot.",
+     "1541394": "Nihal sits 7 points above you, the gap to the last Gold spot.",
+     "7471754": "Only you have B.Fernandes left to play, a chance to lift you from 6th.",
+     "1378937": "You benched King, who is already on the pitch with 1 point.",
+     "5489583": "Edd sits 6 points above you, a gap one big haul could close.",
+     "3506595": "Only you have Jacquet and Barry left to play, a chance to lift you from 9th.",
+     "4125292": "You touched 9th earlier today, and Marmoush, yours alone to play, could win it back.",
+     "962024": "Hall is yours alone to play, a chance to close the 3 points gap to Bhavik.",
+     "363548": "Simon is 1 point above you, a gap one haul could close.",
+     "4922092": "Your Wildcard is the bold call, so Kudus, yours alone to play, must justify it.",
+     "3359227": "Thomas is yours alone to play, a chance to lift you from 14th.",
+     "7273369": "Raushan is 8 points above you, the closest rival you have to catch.",
+     "1457736": "Your captain N.Jackson is one of just 2 armbands still to play.",
+     "75187": "Only you have Trafford and Neto left to play, a chance to break the tie with Justin.",
+     "5873092": "Dominic is level with you on 614 points, and the next goal could settle it.",
+     "4841175": "Nihal is also on Bench Boost, so your bench could decide the Gold spot against him.",
+     "6341709": "Only you have Ajayi and Rice left to play, which could move you past Maanav, 1 point above.",
+     "6619523": "You trail Tomisin by 3 points, a gap a big haul could close.",
+     "5028423": "King is already on the pitch with 1 point, so benching him is looking costly.",
+     "1474501": "Only 2 managers captain Isak, who is still to play, so your call stands out.",
+     "383423": "Petrović is yours alone to play, a chance to close the 3 points gap to Dinesh.",
+     "3375627": "Haaland's 1 point is worth 3 points on your Triple Captain, and a goal would swing it.",
+     "3591460": "Garner is yours alone to play, a chance to climb from 28th."
+    },
+    "ts": "2026-11-21T13:30:13Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:n:0-0|102:n:0-0|103:n:0-0|104:n:0-0|105:n:0-0|106:n:0-0|107:n:0-0|108:i:0-1|109:n:0-0|110:n:0-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "3323262": 3,
+     "573491": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "1378937": 7,
+     "5489583": 8,
+     "3506595": 9,
+     "4125292": 10,
+     "962024": 11,
+     "363548": 12,
+     "4922092": 13,
+     "3359227": 14,
+     "7273369": 15,
+     "1457736": 16,
+     "5873092": 17,
+     "75187": 17,
+     "4841175": 19,
+     "6341709": 20,
+     "6619523": 21,
+     "3552160": 22,
+     "5028423": 23,
+     "1474501": 24,
+     "383423": 25,
+     "8316989": 26,
+     "3375627": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 702,
+     "3219276": 694,
+     "3323262": 673,
+     "573491": 672,
+     "1541394": 665,
+     "7471754": 660,
+     "1378937": 652,
+     "5489583": 646,
+     "3506595": 637,
+     "4125292": 636,
+     "962024": 633,
+     "363548": 632,
+     "4922092": 631,
+     "3359227": 629,
+     "7273369": 621,
+     "1457736": 616,
+     "5873092": 614,
+     "75187": 614,
+     "4841175": 606,
+     "6341709": 605,
+     "6619523": 602,
+     "3552160": 582,
+     "5028423": 581,
+     "1474501": 579,
+     "383423": 576,
+     "8316989": 562,
+     "3375627": 557,
+     "3591460": 523,
+     "5706920": 446
+    },
+    "ga": {},
+    "you_full_ts": "2026-11-21T13:30:13Z",
+    "next": {
+     "ko": "2026-11-21T15:00:00Z",
+     "match": "AVL v SUN"
+    }
+   },
    {
     "headline": "Haaland on 22 armbands as MCI v FUL trails 0-1",
     "text": "Haaland has **1 point** on 22 armbands as MCI v FUL trails **0-1** at 25 minutes, with Ayodele on **702 points** and Cherag **8 points** behind, both captaining him. The top spot now rests on the 10 players each still to play, and Ayodele's Robertson and Gomez could keep him ahead.",
@@ -6198,7 +6302,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-21T12:57:16Z",
+  "desk_last_ok": "2026-11-21T13:30:13Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -14125,7 +14229,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-21T13:19:32Z",
+  "ts": "2026-11-21T13:30:13Z",
   "issues": [],
   "page": []
  },
