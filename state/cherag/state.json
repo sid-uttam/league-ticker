@@ -10887,15 +10887,6 @@
     "event_total": 23
    },
    {
-    "entry": 698784,
-    "player_name": "Zorawar Bobinmaker",
-    "entry_name": "11 Spartans",
-    "rank": 37,
-    "last_rank": 36,
-    "total": 685,
-    "event_total": 27
-   },
-   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10903,6 +10894,15 @@
     "last_rank": 45,
     "total": 685,
     "event_total": 36
+   },
+   {
+    "entry": 698784,
+    "player_name": "Zorawar Bobinmaker",
+    "entry_name": "11 Spartans",
+    "rank": 37,
+    "last_rank": 36,
+    "total": 685,
+    "event_total": 27
    },
    {
     "entry": 257074,
@@ -10923,15 +10923,6 @@
     "event_total": 35
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 41,
-    "last_rank": 37,
-    "total": 683,
-    "event_total": 29
-   },
-   {
     "entry": 10821,
     "player_name": "Ram Narayan",
     "entry_name": "FPL Neutral",
@@ -10939,6 +10930,15 @@
     "last_rank": 48,
     "total": 683,
     "event_total": 35
+   },
+   {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 41,
+    "last_rank": 37,
+    "total": 683,
+    "event_total": 29
    },
    {
     "entry": 1425044,
@@ -59843,12 +59843,12 @@
    "42960": 34,
    "263779": 34,
    "710718": 36,
-   "698784": 36,
    "5640988": 36,
+   "698784": 36,
    "257074": 36,
    "3566356": 40,
-   "4151180": 41,
    "10821": 41,
+   "4151180": 41,
    "1425044": 43,
    "13951": 43,
    "4558790": 45,
@@ -59958,12 +59958,12 @@
    "42960": null,
    "263779": null,
    "710718": null,
-   "698784": null,
    "5640988": null,
+   "698784": null,
    "257074": null,
    "3566356": null,
-   "4151180": null,
    "10821": null,
+   "4151180": null,
    "1425044": null,
    "13951": null,
    "4558790": null,
@@ -60037,7 +60037,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-21T19:33:49Z",
+ "updated": "2026-11-21T19:46:52Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -66365,7 +66365,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-21T19:33:49Z",
+  "ts": "2026-11-21T19:46:52Z",
   "issues": [],
   "page": [],
   "wording": [
