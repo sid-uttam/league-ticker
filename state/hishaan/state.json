@@ -2444,8 +2444,8 @@
     "entry_name": "Umm Suqeim FC",
     "rank": 1,
     "last_rank": 1,
-    "total": 735,
-    "event_total": 12
+    "total": 736,
+    "event_total": 13
    },
    {
     "entry": 3029346,
@@ -2561,8 +2561,8 @@
     "entry_name": "Magic Mikel",
     "rank": 14,
     "last_rank": 13,
-    "total": 654,
-    "event_total": 7
+    "total": 655,
+    "event_total": 8
    },
    {
     "entry": 5682768,
@@ -7616,6 +7616,35 @@
  },
  "stories": [
   {
+   "key": "d11:sold:183:0:2",
+   "kind": "live",
+   "tag": "Transfers",
+   "head": "Ravi Mahtani sold Rudoni this week. Rudoni sets one up",
+   "body": "That one is going to sting.",
+   "stat": "Sold by 1 manager",
+   "score": 72,
+   "who": [
+    4922092
+   ],
+   "ts": "2026-11-21T15:45:10Z",
+   "gw": 11
+  },
+  {
+   "key": "d11:regret:183:0:2",
+   "kind": "live",
+   "tag": "Bench",
+   "head": "Ravi Mahtani benched Rudoni. Rudoni sets one up",
+   "body": "Those points are sitting on the bench, unless an autosub rescues them.",
+   "stat": "Benched by 1 manager",
+   "score": 68,
+   "who": [
+    4922092
+   ],
+   "ts": "2026-11-21T15:45:10Z",
+   "gw": 11,
+   "img": "share/live/gw11-p183-92783680df.png"
+  },
+  {
    "key": "d11:regret:60:0:1",
    "kind": "live",
    "tag": "Bench",
@@ -7690,8 +7719,7 @@
     4922092
    ],
    "ts": "2026-11-21T15:06:56Z",
-   "gw": 11,
-   "img": "share/live/gw11-p183-b610da5411.png"
+   "gw": 11
   },
   {
    "key": "d11:onpitch:53",
@@ -8849,7 +8877,9 @@
   "d11:regret:183:0:1",
   "d11:onpitch:53",
   "d11:regret:60:0:1",
-  "l11:ret:40:0:1"
+  "l11:ret:40:0:1",
+  "d11:sold:183:0:2",
+  "d11:regret:183:0:2"
  ],
  "done": [
   "deadline:10",
@@ -8865,7 +8895,7 @@
     1,
     0,
     0,
-    29,
+    43,
     0,
     0,
     0
@@ -8887,7 +8917,7 @@
     1,
     0,
     0,
-    29,
+    43,
     0,
     0,
     0
@@ -9052,7 +9082,7 @@
     5,
     0,
     0,
-    30,
+    42,
     0,
     0,
     0
@@ -9085,7 +9115,7 @@
     1,
     0,
     0,
-    29,
+    43,
     0,
     0,
     0
@@ -9096,7 +9126,7 @@
     1,
     0,
     0,
-    29,
+    43,
     0,
     0,
     0
@@ -9107,7 +9137,7 @@
     1,
     0,
     0,
-    29,
+    43,
     0,
     0,
     0
@@ -9115,10 +9145,10 @@
    "566": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    31,
+    43,
     0,
     0,
     0
@@ -9140,7 +9170,7 @@
     1,
     0,
     0,
-    31,
+    43,
     0,
     0,
     0
@@ -9162,7 +9192,7 @@
     6,
     0,
     0,
-    31,
+    43,
     0,
     0,
     0
@@ -9206,7 +9236,7 @@
     1,
     0,
     0,
-    31,
+    43,
     0,
     0,
     0
@@ -9217,7 +9247,7 @@
     1,
     0,
     0,
-    31,
+    43,
     0,
     0,
     0
@@ -9228,7 +9258,7 @@
     1,
     0,
     0,
-    30,
+    42,
     0,
     0,
     0
@@ -9236,10 +9266,10 @@
    "332": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    30,
+    42,
     0,
     0,
     0
@@ -9250,7 +9280,7 @@
     1,
     0,
     0,
-    30,
+    42,
     0,
     0,
     0
@@ -9261,7 +9291,7 @@
     8,
     0,
     0,
-    31,
+    43,
     0,
     0,
     0
@@ -9272,7 +9302,7 @@
     1,
     0,
     0,
-    29,
+    43,
     0,
     0,
     0
@@ -9305,7 +9335,7 @@
     4,
     0,
     0,
-    30,
+    42,
     0,
     0,
     0
@@ -9382,7 +9412,7 @@
     1,
     0,
     0,
-    29,
+    43,
     0,
     0,
     0
@@ -9536,7 +9566,7 @@
     1,
     0,
     0,
-    30,
+    42,
     0,
     0,
     0
@@ -9602,7 +9632,7 @@
     1,
     0,
     0,
-    29,
+    43,
     0,
     0,
     0
@@ -9646,7 +9676,7 @@
     1,
     0,
     0,
-    30,
+    43,
     0,
     0,
     0
@@ -9657,7 +9687,7 @@
     1,
     0,
     0,
-    30,
+    43,
     0,
     0,
     0
@@ -9686,11 +9716,11 @@
    ],
    "183": [
     0,
-    1,
-    4,
+    2,
+    10,
     0,
     0,
-    30,
+    43,
     0,
     0,
     0
@@ -9745,7 +9775,7 @@
     1,
     0,
     0,
-    31,
+    43,
     0,
     0,
     0
@@ -9756,7 +9786,7 @@
     1,
     0,
     0,
-    31,
+    43,
     0,
     0,
     0
@@ -9844,7 +9874,7 @@
     1,
     0,
     0,
-    29,
+    43,
     0,
     0,
     0
@@ -9936,7 +9966,7 @@
    "5474293": 12,
    "6892917": 13,
    "75778": 14,
-   "5682768": 14,
+   "5682768": 15,
    "3506595": 16,
    "4922092": 17,
    "2465483": 18,
@@ -9978,7 +10008,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-21T15:31:57Z",
+ "updated": "2026-11-21T15:45:10Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10008,7 +10038,7 @@
    "6051923": "You are 25th on 584 with a 50-point week. Watch Bella, 24 behind, and Ravi Bhojwani, 16 ahead."
   },
   "key": "11:live",
-  "ts": "2026-11-21T15:06:56Z",
+  "ts": "2026-11-21T15:45:10Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -10021,10 +10051,10 @@
     "plots": 11
    },
    "11": {
-    "in": 332132,
-    "out": 73065,
-    "calls": 28,
-    "refreshes": 4,
+    "in": 365533,
+    "out": 77267,
+    "calls": 30,
+    "refreshes": 5,
     "desks": 10,
     "desk_in": 198677,
     "desk_out": 63176
@@ -11781,8 +11811,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Silva"
      },
      {
@@ -12000,8 +12030,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Silva"
      },
      {
@@ -12529,8 +12559,10 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-21T15:31:57Z",
-  "issues": [],
+  "ts": "2026-11-21T15:45:10Z",
+  "issues": [
+   "desk written from older totals (2 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...t him gain on you.      Tavernier BOU   1 pts so far...",
@@ -13139,9 +13171,9 @@
     "file": "share/live/gw11-p411-f5a14b508e.png"
    },
    "p183": {
-    "key": "d11:regret:183:0:1",
-    "sig": "b610da5411",
-    "file": "share/live/gw11-p183-b610da5411.png"
+    "key": "d11:regret:183:0:2",
+    "sig": "92783680df",
+    "file": "share/live/gw11-p183-92783680df.png"
    },
    "p60": {
     "key": "d11:regret:60:0:1",
