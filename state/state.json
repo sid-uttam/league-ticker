@@ -3672,7 +3672,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T16:18:51Z",
+ "updated": "2026-11-22T16:29:51Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6488,14 +6488,14 @@
     "plots": 11
    },
    "11": {
-    "in": 1218662,
-    "out": 260995,
-    "calls": 88,
+    "in": 1223044,
+    "out": 263379,
+    "calls": 90,
     "refreshes": 15,
     "desks": 28,
     "desk_in": 666998,
     "desk_out": 219513,
-    "plots": 1
+    "plots": 2
    }
   },
   "desks": [
@@ -7263,17 +7263,17 @@
   "plots": [
    {
     "id": "underdog:573491",
-    "title": "Nihal Storms the Top 3",
-    "status": "Heating up",
-    "text": "Nihal has climbed from 26th of 29 in GW1 to 3rd, a rise of 23 places and a step up from 4th last week. The top 2 are now within reach of a sustained push.",
-    "next": "If Nihal keeps gaining, the question shifts from climbing the table to chasing the leader, 14 points back.",
+    "title": "Nihal Keeps Rising",
+    "status": "Building",
+    "text": "Nihal has climbed from 26th of 29 in GW1 to 3rd, a rise of 23 places. Third is 13 points behind Ayodele, so the top 2 are still within reach.",
+    "next": "If Nihal keeps gaining places, a top-2 finish could come into view.",
     "who": [
      573491
     ],
     "kind": "underdog",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-21T19:32:50Z",
+    "ts": "2026-11-22T16:29:51Z",
     "question": "How high can Nihal go?",
     "line": [
      [
@@ -7305,47 +7305,11 @@
     "streak": null
    },
    {
-    "id": "chase:573491",
-    "title": "3 Points Adrift",
-    "status": "Heating up",
-    "text": "Cherag's lead over Nihal has shrunk from 56 in GW8 to 22 in GW10, and stands at just 3 in the live GW11 figures. Nihal is closing in on the man ahead.",
-    "next": "If Nihal finishes ahead of Cherag this week, the head-to-head rivalry could flip completely.",
-    "who": [
-     573491,
-     3219276
-    ],
-    "kind": "chaser",
-    "episode": 1,
-    "gw": 11,
-    "ts": "2026-11-21T19:32:50Z",
-    "question": "Can Nihal catch Cherag?",
-    "line": [
-     [
-      "GW8",
-      "Cherag +56"
-     ],
-     [
-      "GW9",
-      "Cherag +38"
-     ],
-     [
-      "GW10",
-      "Cherag +22"
-     ],
-     [
-      "GW11",
-      "Cherag +3"
-     ]
-    ],
-    "since": 11,
-    "streak": null
-   },
-   {
     "id": "title",
-    "title": "Ayodele Stretches His Lead",
+    "title": "Ayodele's Lead Widens",
     "status": "Building",
-    "text": "Ayodele holds the top spot on 728, 11 clear of Cherag on 717, after taking the crown from Cherag's 6-week reign in GW10. The lead has changed hands 4 times this season.",
-    "next": "Cherag could strike back from second, with Nihal already 14 points further adrift in third.",
+    "text": "Ayodele leads on 732, 10 points ahead of Cherag on 722, after the gap grew from 8. Cherag held the top spot for 6 weeks, GW4 to GW9, before losing it.",
+    "next": "If Cherag cannot cut the gap, Ayodele could stretch the lead further.",
     "who": [
      1092588,
      3219276
@@ -7353,7 +7317,7 @@
     "kind": "title race",
     "episode": 3,
     "gw": 11,
-    "ts": "2026-11-21T19:32:50Z",
+    "ts": "2026-11-22T16:29:51Z",
     "question": "Who can hold the crown?",
     "line": [
      [
@@ -7377,18 +7341,54 @@
     "streak": null
    },
    {
+    "id": "chase:573491",
+    "title": "Nihal's Gap Shrinks",
+    "status": "Heating up",
+    "text": "Nihal trails Cherag by just 3 points, down from 56 in GW8, 38 in GW9 and 22 in GW10. That is a steady run of narrowing gaps.",
+    "next": "If the gap closes completely, Nihal could move into second place.",
+    "who": [
+     573491,
+     3219276
+    ],
+    "kind": "chaser",
+    "episode": 1,
+    "gw": 11,
+    "ts": "2026-11-22T16:29:51Z",
+    "question": "Can Nihal catch Cherag?",
+    "line": [
+     [
+      "GW8",
+      "Cherag +56"
+     ],
+     [
+      "GW9",
+      "Cherag +38"
+     ],
+     [
+      "GW10",
+      "Cherag +22"
+     ],
+     [
+      "GW11",
+      "Cherag +3"
+     ]
+    ],
+    "since": 11,
+    "streak": null
+   },
+   {
     "id": "hot:1378937",
-    "title": "Edd Keeps the Heat On",
+    "title": "Edd's Run Continues",
     "status": "Building",
-    "text": "Edd has been above the league average for 6 weeks in a row, with 67 points in GW10 the latest recorded return. The only dip in the run came in GW8, when Edd scored 49.",
-    "next": "If the form holds, Edd could push the streak past 6 weeks and stretch the run further.",
+    "text": "Edd has been above the league average for 6 weeks in a row, with 67 points in GW10. The only dip in the run came in GW8, when Edd scored 49.",
+    "next": "Whether Edd reaches 7 straight weeks above average is the next test.",
     "who": [
      1378937
     ],
     "kind": "hot streak",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-21T19:32:50Z",
+    "ts": "2026-11-22T16:29:51Z",
     "question": "How long can Edd stay hot?",
     "line": [
      [
@@ -7417,17 +7417,17 @@
    },
    {
     "id": "slump:383423",
-    "title": "Tobi's Slow Recovery",
+    "title": "Tobi's Slump Persists",
     "status": "Building",
-    "text": "Tobi remains below the league average, now for 6 weeks in a row. A 58 in GW10 was a sharp rebound from 37, but the run is not yet broken.",
-    "next": "A second strong week could start to lift the slump, or another low score could deepen it.",
+    "text": "Tobi is still below the league average, now for 6 weeks in a row. The 58 points in GW10 were a sharp rebound from 37 the week before.",
+    "next": "A strong run of weeks could finally break Tobi's stretch below average.",
     "who": [
      383423
     ],
     "kind": "slump",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-21T19:32:50Z",
+    "ts": "2026-11-22T16:29:51Z",
     "question": "Can Tobi snap out of it?",
     "line": [
      [
@@ -7455,7 +7455,7 @@
     "streak": 6
    }
   ],
-  "plots_ts": "2026-11-21T19:32:50Z",
+  "plots_ts": "2026-11-22T16:29:51Z",
   "plots_key": "11:live",
   "verdict_tries": {
    "10:2": 1,
@@ -7475,7 +7475,7 @@
    "8": 1
   },
   "plots_v": 8,
-  "plots_sig": "ef12ee2f4fdf",
+  "plots_sig": "16a68b9076af",
   "preview": {
    "headline": "Gameweek 11: Haaland doubts and a top-spot squeeze",
    "points": [
@@ -14163,10 +14163,10 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-21",
-    "title": "Ayodele Stretches His Lead",
-    "text": "Ayodele holds the top spot on 728, 11 clear of Cherag on 717, after taking the crown from Cherag's 6-week reign in GW10. The lead has changed hands 4 times this season.",
-    "next": "Cherag could strike back from second, with Nihal already 14 points further adrift in third."
+    "day": "2026-11-22",
+    "title": "Ayodele's Lead Widens",
+    "text": "Ayodele leads on 732, 10 points ahead of Cherag on 722, after the gap grew from 8. Cherag held the top spot for 6 weeks, GW4 to GW9, before losing it.",
+    "next": "If Cherag cannot cut the gap, Ayodele could stretch the lead further."
    }
   ],
   "gamble:3506595:10": [
@@ -14217,10 +14217,10 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-21",
-    "title": "Nihal Storms the Top 3",
-    "text": "Nihal has climbed from 26th of 29 in GW1 to 3rd, a rise of 23 places and a step up from 4th last week. The top 2 are now within reach of a sustained push.",
-    "next": "If Nihal keeps gaining, the question shifts from climbing the table to chasing the leader, 14 points back."
+    "day": "2026-11-22",
+    "title": "Nihal Keeps Rising",
+    "text": "Nihal has climbed from 26th of 29 in GW1 to 3rd, a rise of 23 places. Third is 13 points behind Ayodele, so the top 2 are still within reach.",
+    "next": "If Nihal keeps gaining places, a top-2 finish could come into view."
    }
   ],
   "chase:3506595": [
@@ -14242,10 +14242,10 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-21",
-    "title": "Edd Keeps the Heat On",
-    "text": "Edd has been above the league average for 6 weeks in a row, with 67 points in GW10 the latest recorded return. The only dip in the run came in GW8, when Edd scored 49.",
-    "next": "If the form holds, Edd could push the streak past 6 weeks and stretch the run further."
+    "day": "2026-11-22",
+    "title": "Edd's Run Continues",
+    "text": "Edd has been above the league average for 6 weeks in a row, with 67 points in GW10. The only dip in the run came in GW8, when Edd scored 49.",
+    "next": "Whether Edd reaches 7 straight weeks above average is the next test."
    }
   ],
   "slump:383423": [
@@ -14258,10 +14258,10 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-21",
-    "title": "Tobi's Slow Recovery",
-    "text": "Tobi remains below the league average, now for 6 weeks in a row. A 58 in GW10 was a sharp rebound from 37, but the run is not yet broken.",
-    "next": "A second strong week could start to lift the slump, or another low score could deepen it."
+    "day": "2026-11-22",
+    "title": "Tobi's Slump Persists",
+    "text": "Tobi is still below the league average, now for 6 weeks in a row. The 58 points in GW10 were a sharp rebound from 37 the week before.",
+    "next": "A strong run of weeks could finally break Tobi's stretch below average."
    }
   ],
   "fall:5873092": [
@@ -14276,10 +14276,10 @@
   "chase:573491": [
    {
     "gw": 11,
-    "day": "2026-11-21",
-    "title": "3 Points Adrift",
-    "text": "Cherag's lead over Nihal has shrunk from 56 in GW8 to 22 in GW10, and stands at just 3 in the live GW11 figures. Nihal is closing in on the man ahead.",
-    "next": "If Nihal finishes ahead of Cherag this week, the head-to-head rivalry could flip completely."
+    "day": "2026-11-22",
+    "title": "Nihal's Gap Shrinks",
+    "text": "Nihal trails Cherag by just 3 points, down from 56 in GW8, 38 in GW9 and 22 in GW10. That is a steady run of narrowing gaps.",
+    "next": "If the gap closes completely, Nihal could move into second place."
    }
   ]
  },
@@ -15263,7 +15263,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T16:18:51Z",
+  "ts": "2026-11-22T16:29:51Z",
   "issues": [],
   "page": [],
   "wording": [
