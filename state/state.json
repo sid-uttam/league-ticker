@@ -1,6 +1,21 @@
 {
  "stories": [
   {
+   "key": "d11:onpitch:286",
+   "kind": "live",
+   "tag": "Bench",
+   "head": "Belloumi is on the pitch. 2 of you benched him",
+   "body": "Tonna and Ahmad will be watching through their fingers.",
+   "stat": "1 started him",
+   "score": 48,
+   "who": [
+    363548,
+    7471754
+   ],
+   "ts": "2026-11-22T14:16:54Z",
+   "gw": 11
+  },
+  {
    "key": "l11:shuffle:2026-11-21T19",
    "kind": "live",
    "tag": "Table",
@@ -2249,7 +2264,8 @@
   "d11:onpitch:8",
   "d11:onpitch:31",
   "l11:ret:453:1:0:bench",
-  "l11:shuffle:2026-11-21T19"
+  "l11:shuffle:2026-11-21T19",
+  "d11:onpitch:286"
  ],
  "done": [
   "deadline:10",
@@ -2385,10 +2401,10 @@
    "279": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2418,10 +2434,10 @@
    "286": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2440,10 +2456,10 @@
    "290": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2594,10 +2610,10 @@
    "572": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2682,10 +2698,10 @@
    "586": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2836,10 +2852,10 @@
    "109": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2902,10 +2918,10 @@
    "115": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2935,10 +2951,10 @@
    "124": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2946,10 +2962,10 @@
    "127": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2968,10 +2984,10 @@
    "129": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -3441,10 +3457,10 @@
    "504": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -3497,14 +3513,14 @@
    "7471754": 6,
    "5489583": 7,
    "1378937": 8,
-   "3506595": 9,
-   "363548": 10,
+   "363548": 9,
+   "3506595": 10,
    "4125292": 10,
    "4922092": 12,
    "962024": 13,
    "3359227": 14,
-   "7273369": 15,
-   "4841175": 16,
+   "4841175": 14,
+   "7273369": 14,
    "5873092": 17,
    "6619523": 17,
    "1457736": 19,
@@ -3528,14 +3544,14 @@
    "7471754": "silver",
    "5489583": "silver",
    "1378937": "silver",
-   "3506595": null,
    "363548": null,
+   "3506595": null,
    "4125292": null,
    "4922092": null,
    "962024": null,
    "3359227": null,
-   "7273369": null,
    "4841175": null,
+   "7273369": null,
    "5873092": null,
    "6619523": null,
    "1457736": null,
@@ -3551,7 +3567,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T14:03:44Z",
+ "updated": "2026-11-22T14:16:54Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6367,13 +6383,13 @@
     "plots": 11
    },
    "11": {
-    "in": 987989,
-    "out": 209504,
-    "calls": 72,
+    "in": 1011660,
+    "out": 219374,
+    "calls": 74,
     "refreshes": 12,
-    "desks": 23,
-    "desk_in": 546292,
-    "desk_out": 174575,
+    "desks": 24,
+    "desk_in": 569963,
+    "desk_out": 184445,
     "plots": 1
    }
   },
@@ -8251,9 +8267,9 @@
   },
   "desk_try": {
    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:i:0-0|107:n:0-0|108:f:1-1|109:f:2-2|110:f:2-0",
-   "ts": "2026-11-22T14:03:44Z",
-   "draft": "Haaland blanks on 22 armbands as Ayodele holds top | **Haaland** blanked on **22 armbands**, yet **Ayodele** still leads Cherag by **11 points** at the top with HUL v BHA goalless. Cherag has no players left to play, so only Ayodele's **Gakpo** can still move the top spot.",
-   "why": "fact-check: ['headline', 'you:573491', 'you:5873092']"
+   "ts": "2026-11-22T14:16:54Z",
+   "draft": "Haaland's 2 points leave Ayodele 11 clear of Cherag | Haaland blanked on **22 armbands**, returning just **2 points**, yet Ayodele still holds top spot with an **11-point** lead over Cherag. Gomez and Gakpo are still to play for Ayodele alone, while Cherag's only player left is Groß. The gap could tighten as HUL v BHA plays on.",
+   "why": "fact-check: ['headline', 'you:3219276']"
   }
  },
  "league": {
@@ -8266,8 +8282,8 @@
     "entry_name": "Ay",
     "rank": 1,
     "last_rank": 1,
-    "total": 728,
-    "event_total": 28
+    "total": 730,
+    "event_total": 30
    },
    {
     "entry": 3219276,
@@ -8275,8 +8291,8 @@
     "entry_name": "Pav Bhaji+Jodi Extra",
     "rank": 2,
     "last_rank": 2,
-    "total": 717,
-    "event_total": 25
+    "total": 719,
+    "event_total": 27
    },
    {
     "entry": 573491,
@@ -8284,8 +8300,8 @@
     "entry_name": "Saka Senapati XI",
     "rank": 3,
     "last_rank": 4,
-    "total": 714,
-    "event_total": 44
+    "total": 716,
+    "event_total": 46
    },
    {
     "entry": 3323262,
@@ -8293,8 +8309,8 @@
     "entry_name": "Choke City",
     "rank": 4,
     "last_rank": 3,
-    "total": 700,
-    "event_total": 29
+    "total": 702,
+    "event_total": 31
    },
    {
     "entry": 1541394,
@@ -8302,8 +8318,8 @@
     "entry_name": "Red Devils",
     "rank": 5,
     "last_rank": 5,
-    "total": 698,
-    "event_total": 35
+    "total": 699,
+    "event_total": 36
    },
    {
     "entry": 7471754,
@@ -8311,8 +8327,8 @@
     "entry_name": "Tonnatus",
     "rank": 6,
     "last_rank": 6,
-    "total": 692,
-    "event_total": 34
+    "total": 693,
+    "event_total": 35
    },
    {
     "entry": 5489583,
@@ -8320,8 +8336,8 @@
     "entry_name": "Boooooooca",
     "rank": 7,
     "last_rank": 8,
-    "total": 672,
-    "event_total": 28
+    "total": 674,
+    "event_total": 30
    },
    {
     "entry": 1378937,
@@ -8329,35 +8345,35 @@
     "entry_name": "Wirtz My Jacquet",
     "rank": 8,
     "last_rank": 7,
-    "total": 671,
-    "event_total": 21
-   },
-   {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 9,
-    "last_rank": 9,
-    "total": 665,
-    "event_total": 31
+    "total": 672,
+    "event_total": 22
    },
    {
     "entry": 363548,
     "player_name": "Ahmad Ali",
     "entry_name": "Crème De La Prèm",
-    "rank": 10,
+    "rank": 9,
     "last_rank": 12,
-    "total": 663,
-    "event_total": 33
+    "total": 666,
+    "event_total": 36
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 10,
+    "last_rank": 9,
+    "total": 665,
+    "event_total": 31
    },
    {
     "entry": 4125292,
     "player_name": "Bhavik Desai",
     "entry_name": "Shawshank Relegation",
-    "rank": 11,
+    "rank": 10,
     "last_rank": 9,
-    "total": 663,
-    "event_total": 29
+    "total": 665,
+    "event_total": 31
    },
    {
     "entry": 4922092,
@@ -8365,8 +8381,8 @@
     "entry_name": "Ravi's Team",
     "rank": 12,
     "last_rank": 13,
-    "total": 656,
-    "event_total": 27
+    "total": 659,
+    "event_total": 30
    },
    {
     "entry": 962024,
@@ -8374,8 +8390,8 @@
     "entry_name": "Kobbie Wan Kenobi",
     "rank": 13,
     "last_rank": 11,
-    "total": 653,
-    "event_total": 22
+    "total": 656,
+    "event_total": 25
    },
    {
     "entry": 3359227,
@@ -8383,26 +8399,26 @@
     "entry_name": "Raus' XV",
     "rank": 14,
     "last_rank": 14,
-    "total": 649,
-    "event_total": 23
-   },
-   {
-    "entry": 7273369,
-    "player_name": "Will Zahn",
-    "entry_name": "eyezil",
-    "rank": 15,
-    "last_rank": 15,
-    "total": 648,
-    "event_total": 29
+    "total": 650,
+    "event_total": 24
    },
    {
     "entry": 4841175,
     "player_name": "Maanav Sagar",
     "entry_name": "Brewmore",
-    "rank": 16,
+    "rank": 15,
     "last_rank": 19,
-    "total": 646,
-    "event_total": 41
+    "total": 650,
+    "event_total": 45
+   },
+   {
+    "entry": 7273369,
+    "player_name": "Will Zahn",
+    "entry_name": "eyezil",
+    "rank": 16,
+    "last_rank": 15,
+    "total": 650,
+    "event_total": 31
    },
    {
     "entry": 5873092,
@@ -8410,8 +8426,8 @@
     "entry_name": "The Bench",
     "rank": 17,
     "last_rank": 17,
-    "total": 640,
-    "event_total": 28
+    "total": 641,
+    "event_total": 29
    },
    {
     "entry": 6619523,
@@ -8419,8 +8435,8 @@
     "entry_name": "Lav's Elite",
     "rank": 18,
     "last_rank": 21,
-    "total": 640,
-    "event_total": 40
+    "total": 641,
+    "event_total": 41
    },
    {
     "entry": 1457736,
@@ -8428,8 +8444,8 @@
     "entry_name": "Sound of da Tzolis",
     "rank": 19,
     "last_rank": 16,
-    "total": 638,
-    "event_total": 23
+    "total": 640,
+    "event_total": 25
    },
    {
     "entry": 75187,
@@ -8437,8 +8453,8 @@
     "entry_name": "Enzo in the City",
     "rank": 20,
     "last_rank": 18,
-    "total": 637,
-    "event_total": 25
+    "total": 638,
+    "event_total": 26
    },
    {
     "entry": 6341709,
@@ -8446,8 +8462,8 @@
     "entry_name": "Chalupa Batmen 3.0�",
     "rank": 21,
     "last_rank": 20,
-    "total": 625,
-    "event_total": 22
+    "total": 628,
+    "event_total": 25
    },
    {
     "entry": 383423,
@@ -8455,8 +8471,8 @@
     "entry_name": "Quantum of Tzolis",
     "rank": 22,
     "last_rank": 25,
-    "total": 606,
-    "event_total": 32
+    "total": 608,
+    "event_total": 34
    },
    {
     "entry": 5028423,
@@ -8464,8 +8480,8 @@
     "entry_name": "Kolo's sidepiece",
     "rank": 23,
     "last_rank": 23,
-    "total": 597,
-    "event_total": 18
+    "total": 599,
+    "event_total": 20
    },
    {
     "entry": 1474501,
@@ -8473,8 +8489,8 @@
     "entry_name": "Lovdenya Bhojyam",
     "rank": 24,
     "last_rank": 24,
-    "total": 595,
-    "event_total": 17
+    "total": 598,
+    "event_total": 20
    },
    {
     "entry": 3552160,
@@ -8491,8 +8507,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 588,
-    "event_total": 34
+    "total": 589,
+    "event_total": 35
    },
    {
     "entry": 8316989,
@@ -8500,8 +8516,8 @@
     "entry_name": "EA FC",
     "rank": 27,
     "last_rank": 26,
-    "total": 576,
-    "event_total": 15
+    "total": 577,
+    "event_total": 16
    },
    {
     "entry": 3591460,
@@ -8509,8 +8525,8 @@
     "entry_name": "GoonerVision",
     "rank": 28,
     "last_rank": 28,
-    "total": 542,
-    "event_total": 21
+    "total": 544,
+    "event_total": 23
    },
    {
     "entry": 5706920,
@@ -14378,8 +14394,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Gomez"
      }
     ]
@@ -14430,8 +14446,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Vuskovic"
      },
      {
@@ -14484,8 +14500,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Verbruggen"
      }
     ]
@@ -14505,8 +14521,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Vuskovic"
      }
     ]
@@ -14614,8 +14630,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Verbruggen"
      },
      {
@@ -14678,8 +14694,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Verbruggen"
      }
     ]
@@ -14763,8 +14779,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Verbruggen"
      }
     ]
@@ -14889,8 +14905,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Vuskovic"
      },
      {
@@ -15135,13 +15151,16 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T14:03:44Z",
-  "issues": [],
+  "ts": "2026-11-22T14:16:54Z",
+  "issues": [
+   "desk written from older totals (26 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...IB ↑ doesn't   1    Autosub:  Cherif  (1 pts) comes in...",
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
-   "wording (1 points): ...ained 6 on you.      Konsa ARS   Scored 1 pts        13..."
+   "wording (1 points): ...ained 6 on you.      Konsa ARS   Scored 1 pts        13...",
+   "wording (1 points): ...ned much from him.      De Cuyper BHA   1 pts so far..."
   ]
  },
  "pwatch": {
