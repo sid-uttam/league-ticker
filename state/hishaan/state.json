@@ -10252,7 +10252,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-22T01:00:36Z",
+ "updated": "2026-11-22T01:11:22Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -12962,7 +12962,7 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-22T01:00:36Z",
+  "ts": "2026-11-22T01:11:22Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -13188,7 +13188,7 @@
    "249": "10:up",
    "166": "10:up",
    "124": "10:up",
-   "112": "10:up",
+   "112": "11:up",
    "4": "10:up",
    "68": "11:up",
    "366": "10:up",
@@ -13657,6 +13657,12 @@
     "kind": "price",
     "change": -0.1,
     "price": 5.3
+   },
+   {
+    "ts": "2026-11-22T01:11:22Z",
+    "el": 112,
+    "kind": "surge",
+    "net": 25134
    }
   ]
  },

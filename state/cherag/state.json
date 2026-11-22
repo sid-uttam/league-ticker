@@ -10887,15 +10887,6 @@
     "event_total": 23
    },
    {
-    "entry": 698784,
-    "player_name": "Zorawar Bobinmaker",
-    "entry_name": "11 Spartans",
-    "rank": 37,
-    "last_rank": 36,
-    "total": 685,
-    "event_total": 27
-   },
-   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10903,6 +10894,15 @@
     "last_rank": 45,
     "total": 685,
     "event_total": 36
+   },
+   {
+    "entry": 698784,
+    "player_name": "Zorawar Bobinmaker",
+    "entry_name": "11 Spartans",
+    "rank": 37,
+    "last_rank": 36,
+    "total": 685,
+    "event_total": 27
    },
    {
     "entry": 257074,
@@ -11031,15 +11031,6 @@
     "event_total": 36
    },
    {
-    "entry": 248721,
-    "player_name": "Raj Pratik",
-    "entry_name": "Mebesty",
-    "rank": 53,
-    "last_rank": 51,
-    "total": 673,
-    "event_total": 26
-   },
-   {
     "entry": 2932096,
     "player_name": "Kunal Satpute",
     "entry_name": "Zhavtē FC",
@@ -11047,6 +11038,15 @@
     "last_rank": 58,
     "total": 673,
     "event_total": 33
+   },
+   {
+    "entry": 248721,
+    "player_name": "Raj Pratik",
+    "entry_name": "Mebesty",
+    "rank": 53,
+    "last_rank": 51,
+    "total": 673,
+    "event_total": 26
    },
    {
     "entry": 4540238,
@@ -11328,6 +11328,15 @@
     "event_total": 24
    },
    {
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
+    "rank": 86,
+    "last_rank": 89,
+    "total": 636,
+    "event_total": 32
+   },
+   {
     "entry": 2424472,
     "player_name": "Apoorvo Choudhary",
     "entry_name": "Brian Boobey",
@@ -11340,15 +11349,6 @@
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
-    "rank": 86,
-    "last_rank": 89,
-    "total": 636,
-    "event_total": 32
-   },
-   {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
     "rank": 86,
     "last_rank": 89,
     "total": 636,
@@ -59843,8 +59843,8 @@
    "42960": 34,
    "263779": 34,
    "710718": 36,
-   "698784": 36,
    "5640988": 36,
+   "698784": 36,
    "257074": 36,
    "3566356": 40,
    "4151180": 41,
@@ -59859,8 +59859,8 @@
    "3239284": 49,
    "3654448": 51,
    "48343": 52,
-   "248721": 53,
    "2932096": 53,
+   "248721": 53,
    "4540238": 53,
    "1443362": 53,
    "675013": 57,
@@ -59892,9 +59892,9 @@
    "686561": 83,
    "11673": 84,
    "3350036": 85,
+   "2037953": 85,
    "2424472": 85,
    "2723973": 85,
-   "2037953": 85,
    "699330": 89,
    "907691": 90,
    "3389995": 91,
@@ -59958,8 +59958,8 @@
    "42960": null,
    "263779": null,
    "710718": null,
-   "698784": null,
    "5640988": null,
+   "698784": null,
    "257074": null,
    "3566356": null,
    "4151180": null,
@@ -59974,8 +59974,8 @@
    "3239284": null,
    "3654448": null,
    "48343": null,
-   "248721": null,
    "2932096": null,
+   "248721": null,
    "4540238": null,
    "1443362": null,
    "675013": null,
@@ -60007,9 +60007,9 @@
    "686561": null,
    "11673": null,
    "3350036": null,
+   "2037953": null,
    "2424472": null,
    "2723973": null,
-   "2037953": null,
    "699330": null,
    "907691": null,
    "3389995": null,
@@ -60037,7 +60037,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T01:00:31Z",
+ "updated": "2026-11-22T01:11:17Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 734, 18 clear of Neol, after a 70-point week. Neol is the threat, so keep your Free Hit in reserve and watch Thomas's fitness.",
@@ -66365,7 +66365,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T01:00:31Z",
+  "ts": "2026-11-22T01:11:17Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -66820,7 +66820,7 @@
   "surge": {
    "1": "10:up",
    "31": "10:up",
-   "112": "10:up",
+   "112": "11:up",
    "115": "10:up",
    "427": "10:down",
    "124": "10:up",
@@ -67543,6 +67543,12 @@
     "kind": "price",
     "change": -0.1,
     "price": 5.7
+   },
+   {
+    "ts": "2026-11-22T01:11:17Z",
+    "el": 112,
+    "kind": "surge",
+    "net": 25134
    }
   ]
  },
