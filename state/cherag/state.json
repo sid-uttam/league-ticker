@@ -10923,15 +10923,6 @@
     "event_total": 35
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 41,
-    "last_rank": 48,
-    "total": 683,
-    "event_total": 35
-   },
-   {
     "entry": 4151180,
     "player_name": "kashish dadwal",
     "entry_name": "Palmer's Angels",
@@ -10941,13 +10932,13 @@
     "event_total": 29
    },
    {
-    "entry": 1425044,
-    "player_name": "Manav Malhotra",
-    "entry_name": "Brain-Heart 11",
-    "rank": 43,
-    "last_rank": 39,
-    "total": 682,
-    "event_total": 28
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 41,
+    "last_rank": 48,
+    "total": 683,
+    "event_total": 35
    },
    {
     "entry": 13951,
@@ -10957,6 +10948,15 @@
     "last_rank": 53,
     "total": 682,
     "event_total": 38
+   },
+   {
+    "entry": 1425044,
+    "player_name": "Manav Malhotra",
+    "entry_name": "Brain-Heart 11",
+    "rank": 43,
+    "last_rank": 39,
+    "total": 682,
+    "event_total": 28
    },
    {
     "entry": 4558790,
@@ -11031,15 +11031,6 @@
     "event_total": 36
    },
    {
-    "entry": 248721,
-    "player_name": "Raj Pratik",
-    "entry_name": "Mebesty",
-    "rank": 53,
-    "last_rank": 51,
-    "total": 673,
-    "event_total": 26
-   },
-   {
     "entry": 2932096,
     "player_name": "Kunal Satpute",
     "entry_name": "Zhavtē FC",
@@ -11047,6 +11038,15 @@
     "last_rank": 58,
     "total": 673,
     "event_total": 33
+   },
+   {
+    "entry": 248721,
+    "player_name": "Raj Pratik",
+    "entry_name": "Mebesty",
+    "rank": 53,
+    "last_rank": 51,
+    "total": 673,
+    "event_total": 26
    },
    {
     "entry": 4540238,
@@ -11103,15 +11103,6 @@
     "event_total": 21
    },
    {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
-    "rank": 61,
-    "last_rank": 64,
-    "total": 668,
-    "event_total": 33
-   },
-   {
     "entry": 2119331,
     "player_name": "Ajay Rachakonda",
     "entry_name": "Silent Violence",
@@ -11119,6 +11110,15 @@
     "last_rank": 55,
     "total": 668,
     "event_total": 25
+   },
+   {
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
+    "rank": 61,
+    "last_rank": 64,
+    "total": 668,
+    "event_total": 33
    },
    {
     "entry": 4632544,
@@ -59867,10 +59867,10 @@
    "698784": 36,
    "257074": 36,
    "3566356": 40,
-   "10821": 41,
    "4151180": 41,
-   "1425044": 43,
+   "10821": 41,
    "13951": 43,
+   "1425044": 43,
    "4558790": 45,
    "480904": 45,
    "3560542": 45,
@@ -59879,16 +59879,16 @@
    "3239284": 49,
    "3654448": 51,
    "48343": 52,
-   "248721": 53,
    "2932096": 53,
+   "248721": 53,
    "4540238": 53,
    "1443362": 53,
    "675013": 57,
    "4134138": 58,
    "57776": 58,
    "4683090": 60,
-   "119259": 61,
    "2119331": 61,
+   "119259": 61,
    "4632544": 63,
    "383029": 64,
    "2569620": 64,
@@ -59982,10 +59982,10 @@
    "698784": null,
    "257074": null,
    "3566356": null,
-   "10821": null,
    "4151180": null,
-   "1425044": null,
+   "10821": null,
    "13951": null,
+   "1425044": null,
    "4558790": null,
    "480904": null,
    "3560542": null,
@@ -59994,16 +59994,16 @@
    "3239284": null,
    "3654448": null,
    "48343": null,
-   "248721": null,
    "2932096": null,
+   "248721": null,
    "4540238": null,
    "1443362": null,
    "675013": null,
    "4134138": null,
    "57776": null,
    "4683090": null,
-   "119259": null,
    "2119331": null,
+   "119259": null,
    "4632544": null,
    "383029": null,
    "2569620": null,
@@ -60057,7 +60057,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T06:59:42Z",
+ "updated": "2026-11-22T07:10:25Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -66377,7 +66377,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T06:59:42Z",
+  "ts": "2026-11-22T07:10:25Z",
   "issues": [
    "desk written from older totals (2 managers changed since)"
   ],
@@ -66558,7 +66558,7 @@
    "469": "a|100|",
    "552": "i|0|Muscular injury - Unknown return date",
    "94": "a|100|",
-   "305": "d|75|Unspecified injury - 75% chance of playing",
+   "305": "d|75|Calf injury - 75% chance of playing",
    "82": "a|None|",
    "565": "a|None|",
    "15": "a|None|",
@@ -66614,7 +66614,7 @@
    "204": "a|None|",
    "597": "a|None|",
    "60": "a|None|",
-   "403": "d|75|Unspecified injury - 75% chance of playing",
+   "403": "d|75|Hamstring injury - 75% chance of playing",
    "526": "a|None|",
    "650": "a|100|",
    "110": "a|None|",
@@ -66671,11 +66671,11 @@
    "173": "2026-11-21T14:07:25Z",
    "544": "2026-11-19T14:16:19Z",
    "251": "2026-11-20T11:59:23Z",
-   "403": "2026-11-21T17:36:08Z",
+   "403": "2026-11-22T07:10:25Z",
    "391": "2026-11-20T15:36:56Z",
    "388": "2026-11-21T12:12:02Z",
    "455": "2026-11-21T20:08:23Z",
-   "305": "2026-11-21T17:13:42Z",
+   "305": "2026-11-22T07:10:25Z",
    "501": "2026-11-21T17:13:42Z",
    "1": "2026-11-21T21:02:10Z",
    "449": "2026-11-21T19:33:49Z"
@@ -67575,6 +67575,22 @@
     "el": 166,
     "kind": "surge",
     "net": 25025
+   },
+   {
+    "ts": "2026-11-22T07:10:25Z",
+    "el": 305,
+    "kind": "news",
+    "status": "d",
+    "chance": 75,
+    "news": "Calf injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-22T07:10:25Z",
+    "el": 403,
+    "kind": "news",
+    "status": "d",
+    "chance": 75,
+    "news": "Hamstring injury - 75% chance of playing"
    }
   ]
  },
