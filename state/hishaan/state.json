@@ -2444,8 +2444,8 @@
     "entry_name": "Lammo's Lads",
     "rank": 1,
     "last_rank": 2,
-    "total": 755,
-    "event_total": 33
+    "total": 760,
+    "event_total": 38
    },
    {
     "entry": 2321301,
@@ -2453,8 +2453,8 @@
     "entry_name": "Umm Suqeim FC",
     "rank": 2,
     "last_rank": 1,
-    "total": 752,
-    "event_total": 29
+    "total": 753,
+    "event_total": 30
    },
    {
     "entry": 735721,
@@ -2471,8 +2471,8 @@
     "entry_name": "Robby's Rebels",
     "rank": 4,
     "last_rank": 4,
-    "total": 729,
-    "event_total": 22
+    "total": 730,
+    "event_total": 23
    },
    {
     "entry": 2687116,
@@ -2480,8 +2480,8 @@
     "entry_name": "Bruno Dos Tres",
     "rank": 5,
     "last_rank": 5,
-    "total": 725,
-    "event_total": 29
+    "total": 729,
+    "event_total": 33
    },
    {
     "entry": 1655993,
@@ -2489,8 +2489,8 @@
     "entry_name": "RedArmy",
     "rank": 6,
     "last_rank": 8,
-    "total": 723,
-    "event_total": 56
+    "total": 728,
+    "event_total": 61
    },
    {
     "entry": 3344797,
@@ -2516,26 +2516,26 @@
     "entry_name": "Leaf Green",
     "rank": 9,
     "last_rank": 7,
-    "total": 688,
-    "event_total": 19
-   },
-   {
-    "entry": 3350483,
-    "player_name": "Aashiv Adnani",
-    "entry_name": "Aashiv's 11",
-    "rank": 10,
-    "last_rank": 11,
-    "total": 685,
-    "event_total": 32
+    "total": 690,
+    "event_total": 21
    },
    {
     "entry": 3072827,
     "player_name": "Sunil Balani",
     "entry_name": "Red Devils United",
-    "rank": 11,
+    "rank": 10,
     "last_rank": 10,
-    "total": 684,
-    "event_total": 30
+    "total": 685,
+    "event_total": 31
+   },
+   {
+    "entry": 3350483,
+    "player_name": "Aashiv Adnani",
+    "entry_name": "Aashiv's 11",
+    "rank": 11,
+    "last_rank": 11,
+    "total": 685,
+    "event_total": 32
    },
    {
     "entry": 5474293,
@@ -2552,8 +2552,8 @@
     "entry_name": "Magic Mikel",
     "rank": 13,
     "last_rank": 13,
-    "total": 676,
-    "event_total": 29
+    "total": 680,
+    "event_total": 33
    },
    {
     "entry": 5682768,
@@ -2561,8 +2561,8 @@
     "entry_name": "super squad",
     "rank": 14,
     "last_rank": 15,
-    "total": 675,
-    "event_total": 41
+    "total": 676,
+    "event_total": 42
    },
    {
     "entry": 6892917,
@@ -2570,35 +2570,35 @@
     "entry_name": "Fifteen Fighters",
     "rank": 15,
     "last_rank": 14,
-    "total": 668,
-    "event_total": 32
-   },
-   {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 16,
-    "last_rank": 15,
-    "total": 665,
-    "event_total": 31
+    "total": 669,
+    "event_total": 33
    },
    {
     "entry": 2465483,
     "player_name": "Inesh Uttamchandani",
     "entry_name": "Inu10",
-    "rank": 17,
+    "rank": 16,
     "last_rank": 18,
-    "total": 664,
-    "event_total": 36
+    "total": 668,
+    "event_total": 40
    },
    {
     "entry": 4922092,
     "player_name": "Ravi Mahtani",
     "entry_name": "Ravi's Team",
-    "rank": 18,
+    "rank": 16,
     "last_rank": 17,
-    "total": 663,
-    "event_total": 34
+    "total": 668,
+    "event_total": 39
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 18,
+    "last_rank": 15,
+    "total": 666,
+    "event_total": 32
    },
    {
     "entry": 2934546,
@@ -2606,8 +2606,8 @@
     "entry_name": "Legends FC",
     "rank": 19,
     "last_rank": 19,
-    "total": 659,
-    "event_total": 31
+    "total": 664,
+    "event_total": 36
    },
    {
     "entry": 6279027,
@@ -2615,8 +2615,8 @@
     "entry_name": "AI 11",
     "rank": 20,
     "last_rank": 20,
-    "total": 647,
-    "event_total": 28
+    "total": 651,
+    "event_total": 32
    },
    {
     "entry": 865376,
@@ -2669,8 +2669,8 @@
     "entry_name": "Haalahfame",
     "rank": 26,
     "last_rank": 26,
-    "total": 602,
-    "event_total": 42
+    "total": 604,
+    "event_total": 44
    }
   ]
  },
@@ -7616,6 +7616,34 @@
  },
  "stories": [
   {
+   "key": "d11:bought:366:1:0",
+   "kind": "live",
+   "tag": "Transfers",
+   "head": "Naresh's new signing Wirtz scores",
+   "body": "A debut worth the transfer.",
+   "stat": "Bought by 1 manager",
+   "score": 58,
+   "who": [
+    2934546
+   ],
+   "ts": "2026-11-22T16:44:49Z",
+   "gw": 11
+  },
+  {
+   "key": "d11:bought:379:0:1",
+   "kind": "live",
+   "tag": "Transfers",
+   "head": "Ravi Mahtani's new signing Isak sets one up",
+   "body": "The transfer is already paying its way.",
+   "stat": "Bought by 1 manager",
+   "score": 58,
+   "who": [
+    4922092
+   ],
+   "ts": "2026-11-22T16:44:49Z",
+   "gw": 11
+  },
+  {
    "key": "d11:sold:286:0:1",
    "kind": "live",
    "tag": "Transfers",
@@ -9269,7 +9297,9 @@
   "d11:sold:286:0:1",
   "d11:regret:286:0:1",
   "l11:cs-lost:Brighton",
-  "l11:shuffle:2026-11-22T16"
+  "l11:shuffle:2026-11-22T16",
+  "d11:bought:366:1:0",
+  "d11:bought:379:0:1"
  ],
  "done": [
   "deadline:10",
@@ -9612,10 +9642,10 @@
    "579": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    13,
     0,
     0,
     0
@@ -9744,10 +9774,10 @@
    "350": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    13,
     0,
     0,
     0
@@ -9755,10 +9785,10 @@
    "362": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    13,
     0,
     0,
     0
@@ -9775,12 +9805,12 @@
     0
    ],
    "366": [
+    1,
+    0,
+    6,
     0,
     0,
-    0,
-    0,
-    0,
-    0,
+    13,
     0,
     0,
     0
@@ -9832,21 +9862,21 @@
    "627": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    13,
     0,
     0,
     0
    ],
    "379": [
     0,
+    1,
+    4,
     0,
     0,
-    0,
-    0,
-    0,
+    13,
     0,
     0,
     0
@@ -10000,7 +10030,7 @@
     0,
     0,
     0,
-    0,
+    13,
     0,
     0,
     0
@@ -10041,10 +10071,10 @@
    "426": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    13,
     0,
     0,
     0
@@ -10052,10 +10082,10 @@
    "427": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    13,
     0,
     0,
     0
@@ -10096,10 +10126,10 @@
    "432": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    13,
     0,
     0,
     0
@@ -10351,16 +10381,16 @@
    "3344797": 7,
    "1036311": 8,
    "4487775": 9,
+   "3072827": 10,
    "3350483": 10,
-   "3072827": 11,
    "5474293": 12,
    "75778": 13,
    "5682768": 14,
    "6892917": 15,
-   "3506595": 16,
    "2465483": 17,
-   "4922092": 18,
-   "2934546": 19,
+   "4922092": 17,
+   "3506595": 19,
+   "2934546": 15,
    "6279027": 20,
    "865376": 21,
    "7043406": 21,
@@ -10379,15 +10409,15 @@
    "3344797": "silver",
    "1036311": "silver",
    "4487775": null,
-   "3350483": null,
    "3072827": null,
+   "3350483": null,
    "5474293": null,
    "75778": null,
    "5682768": null,
    "6892917": null,
-   "3506595": null,
    "2465483": null,
    "4922092": null,
+   "3506595": null,
    "2934546": null,
    "6279027": null,
    "865376": null,
@@ -10398,7 +10428,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-22T16:31:21Z",
+ "updated": "2026-11-22T16:44:49Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10428,7 +10458,7 @@
    "6051923": "You are 25th on 584 with a 50-point week. Watch Bella, 24 behind, and Ravi Bhojwani, 16 ahead."
   },
   "key": "11:live",
-  "ts": "2026-11-22T16:07:42Z",
+  "ts": "2026-11-22T16:44:49Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -10441,13 +10471,13 @@
     "plots": 11
    },
    "11": {
-    "in": 1070423,
-    "out": 224028,
-    "calls": 82,
-    "refreshes": 14,
-    "desks": 26,
-    "desk_in": 596810,
-    "desk_out": 188598,
+    "in": 1127352,
+    "out": 231287,
+    "calls": 86,
+    "refreshes": 15,
+    "desks": 27,
+    "desk_in": 620000,
+    "desk_out": 194993,
     "plots": 1
    }
   },
@@ -12062,7 +12092,13 @@
    "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil hangs on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
    "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil holds on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
    "GW10 between: Matt's 96 squeezes the summit as Nikhil hangs on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top."
-  ]
+  ],
+  "desk_try": {
+   "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:f:2-0|107:i:2-0|108:f:1-1|109:f:2-2|110:f:2-0",
+   "ts": "2026-11-22T16:44:49Z",
+   "draft": "Wirtz goal lifts Matt, Naresh and Bella in LIV v MUN | Wirtz has scored in LIV v MUN, giving **6 points** to Matt, Naresh and Bella, who all started him. Isak's assist adds **4 points** for 8 managers. Matt holds top spot on **765 points**, **12 points** clear of Nikhil, whose only player left to play is Barcola.",
+   "why": "fact-check: ['headline', 'you:2321301', 'you:6892917']"
+  }
  },
  "plot_log": {
   "gamble:3506595:10": [
@@ -12395,8 +12431,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Barcola"
      }
     ]
@@ -12424,8 +12460,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 6",
+      "pts": 6,
       "player": "Wirtz"
      }
     ]
@@ -12447,8 +12483,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Jacquet"
      },
      {
@@ -12507,8 +12543,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Jacquet"
      },
      {
@@ -12651,8 +12687,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Jacquet"
      }
     ]
@@ -12676,8 +12712,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Araujo"
      },
      {
@@ -12735,8 +12771,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 6",
+      "pts": 6,
       "player": "Wirtz"
      },
      {
@@ -12983,8 +13019,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 4",
+      "pts": 4,
       "player": "Isak"
      }
     ]
@@ -13161,12 +13197,14 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-22T16:31:21Z",
-  "issues": [],
+  "ts": "2026-11-22T16:44:49Z",
+  "issues": [
+   "desk written from older totals (16 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...d Aashiv ↓   4    Autosub:  van Ewijk  (1 pts) comes in...",
-   "wording (1 points): ...↑ and Lakshay ↓   1    Autosub:  Neto  (1 pts) comes in...",
+   "wording (1 points): ...shaan ↑ doesn't   1    Autosub:  Neto  (1 pts) comes in...",
    "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        13...",
    "wording (1 points): ...d much from him.      Raya ARS   Scored 1 pts        13..."
   ]
