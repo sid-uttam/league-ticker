@@ -1,6 +1,20 @@
 {
  "stories": [
   {
+   "key": "l11:ret:366:1:0",
+   "kind": "live",
+   "tag": "Live",
+   "head": "Wirtz scores. Only Sasha owns him",
+   "body": "A differential return: nobody else gets these points.",
+   "stat": "1 of 29 own him",
+   "score": 30,
+   "who": [
+    5706920
+   ],
+   "ts": "2026-11-22T16:55:39Z",
+   "gw": 11
+  },
+  {
    "key": "l11:ret:379:0:1",
    "kind": "live",
    "tag": "Captains",
@@ -2433,7 +2447,8 @@
   "l11:ret:379:0:1",
   "d11:bought:379:0:1",
   "d11:onpitch:427",
-  "z11:5028423:tin"
+  "z11:5028423:tin",
+  "l11:ret:366:1:0"
  ],
  "done": [
   "deadline:10",
@@ -2836,7 +2851,7 @@
     1,
     0,
     0,
-    10,
+    23,
     0,
     0,
     0
@@ -2979,7 +2994,7 @@
     1,
     0,
     0,
-    10,
+    23,
     0,
     0,
     0
@@ -3012,7 +3027,7 @@
     1,
     0,
     0,
-    10,
+    23,
     0,
     0,
     0
@@ -3029,12 +3044,12 @@
     0
    ],
    "366": [
-    0,
-    0,
     1,
     0,
+    8,
     0,
-    10,
+    0,
+    23,
     0,
     0,
     0
@@ -3075,10 +3090,10 @@
    "368": [
     1,
     0,
-    6,
+    9,
     0,
     0,
-    10,
+    23,
     0,
     0,
     0
@@ -3100,7 +3115,7 @@
     1,
     0,
     0,
-    10,
+    23,
     0,
     0,
     0
@@ -3111,7 +3126,7 @@
     4,
     0,
     0,
-    10,
+    23,
     0,
     0,
     0
@@ -3331,7 +3346,7 @@
     1,
     0,
     0,
-    10,
+    23,
     0,
     0,
     0
@@ -3386,7 +3401,7 @@
     1,
     0,
     0,
-    10,
+    23,
     0,
     0,
     0
@@ -3397,7 +3412,7 @@
     1,
     0,
     0,
-    10,
+    21,
     0,
     0,
     0
@@ -3408,7 +3423,7 @@
     1,
     0,
     0,
-    10,
+    23,
     0,
     0,
     0
@@ -3683,21 +3698,21 @@
    "1378937": 8,
    "4125292": 9,
    "363548": 10,
-   "3506595": 12,
    "4922092": 10,
+   "3506595": 12,
    "962024": 13,
    "4841175": 14,
+   "5873092": 15,
    "7273369": 15,
-   "3359227": 16,
-   "5873092": 16,
-   "6341709": 18,
+   "3359227": 17,
    "1457736": 18,
-   "6619523": 20,
+   "6341709": 18,
    "75187": 20,
+   "6619523": 20,
    "383423": 22,
+   "3552160": 23,
    "1474501": 23,
    "5028423": 25,
-   "3552160": 24,
    "3375627": 26,
    "8316989": 27,
    "3591460": 28,
@@ -3714,28 +3729,28 @@
    "1378937": "silver",
    "4125292": null,
    "363548": null,
-   "3506595": null,
    "4922092": null,
+   "3506595": null,
    "962024": null,
    "4841175": null,
+   "5873092": null,
    "7273369": null,
    "3359227": null,
-   "5873092": null,
-   "6341709": null,
    "1457736": null,
-   "6619523": null,
+   "6341709": null,
    "75187": null,
+   "6619523": null,
    "383423": null,
+   "3552160": null,
    "1474501": null,
    "5028423": "tinpot",
-   "3552160": null,
    "3375627": "tinpot",
    "8316989": "tinpot",
    "3591460": "tinpot",
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T16:42:12Z",
+ "updated": "2026-11-22T16:55:39Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6420,7 +6435,7 @@
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got just 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, while Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan, whose Barry captain returned 32 points, lifting him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16. The Haaland bloc is still the biggest storyline in this league, and it is still costing them."
   ],
-  "ts": "2026-11-22T16:18:51Z",
+  "ts": "2026-11-22T16:55:39Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -6551,17 +6566,176 @@
     "plots": 11
    },
    "11": {
-    "in": 1247715,
-    "out": 271265,
-    "calls": 92,
-    "refreshes": 15,
-    "desks": 29,
-    "desk_in": 691669,
-    "desk_out": 227399,
+    "in": 1295080,
+    "out": 277564,
+    "calls": 96,
+    "refreshes": 16,
+    "desks": 30,
+    "desk_in": 702382,
+    "desk_out": 230610,
     "plots": 2
    }
   },
   "desks": [
+   {
+    "headline": "Wirtz scores 8 points for a lone Sasha start",
+    "text": "Wirtz has scored and is worth **8 points**, but only Sasha started him, and Sasha is inactive. Meanwhile Szoboszlai has **9 points** in LIV v MUN, and Ayodele still leads Cherag by **10 points** at the top.",
+    "you": {
+     "1092588": "3 managers benched Mbeumo, who is now on the pitch for LIV v MUN.",
+     "3219276": "Mbeumo, benched by 3 managers, is on the pitch and has 1 point so far.",
+     "573491": "Cherag is 3 points above you, with your Bench Boost already in play.",
+     "3323262": "Ravi's new signing Tavernier set up a goal for you earlier in the gameweek.",
+     "7471754": "You and Ahmad benched Belloumi, who has now set up a goal.",
+     "5489583": "You benched Mbeumo, who is on the pitch for LIV v MUN.",
+     "1378937": "You dropped to 10th today before climbing back to 8th.",
+     "4125292": "You have passed Hishaan today. Edd is 6 points above you.",
+     "363548": "Belloumi, whom you benched, has just set up a goal.",
+     "4922092": "Isak, your new signing, has set up a goal for you.",
+     "962024": "You were as high as 12th today and are now 13th. Maanav is 4 points behind.",
+     "4841175": "You have passed Will and Raushan today, with one player still to play for you.",
+     "7273369": "You have passed Raushan today, though Maanav has passed you.",
+     "5873092": "You have passed Raushan today, after dropping as low as 19th earlier.",
+     "3359227": "Maanav, Justin and Will have all passed you today.",
+     "1457736": "You have passed Lavesh today, and Tomisin sits directly below you.",
+     "6341709": "You have passed Dominic and Lavesh today.",
+     "75187": "Tomisin passed you today.",
+     "6619523": "Naishadh and Tomisin passed you today.",
+     "383423": "You climbed out of the Tin Pot, up 3 places this gameweek.",
+     "1474501": "Your captain Isak has assisted. He is worth 8 points on your armband.",
+     "5028423": "You have dropped into the Tin Pot spots.",
+     "3375627": "Your Triple Captain on Haaland has returned 6 points.",
+     "3591460": "Garner is still to play for you alone."
+    },
+    "ts": "2026-11-22T16:55:39Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:f:2-0|107:i:2-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "573491": 3,
+     "3323262": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "5489583": 7,
+     "1378937": 8,
+     "4125292": 9,
+     "363548": 10,
+     "4922092": 10,
+     "3506595": 12,
+     "962024": 13,
+     "4841175": 14,
+     "5873092": 15,
+     "7273369": 15,
+     "3359227": 17,
+     "1457736": 18,
+     "6341709": 18,
+     "75187": 20,
+     "6619523": 20,
+     "383423": 22,
+     "3552160": 23,
+     "1474501": 23,
+     "5028423": 25,
+     "3375627": 26,
+     "8316989": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 732,
+     "3219276": 722,
+     "573491": 719,
+     "3323262": 709,
+     "1541394": 699,
+     "7471754": 694,
+     "5489583": 677,
+     "1378937": 675,
+     "4125292": 669,
+     "363548": 668,
+     "4922092": 668,
+     "3506595": 666,
+     "962024": 665,
+     "4841175": 661,
+     "5873092": 654,
+     "7273369": 654,
+     "3359227": 651,
+     "1457736": 644,
+     "6341709": 644,
+     "75187": 641,
+     "6619523": 641,
+     "383423": 612,
+     "3552160": 610,
+     "1474501": 610,
+     "5028423": 603,
+     "3375627": 591,
+     "8316989": 590,
+     "3591460": 548,
+     "5706920": 472
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "286": [
+      0,
+      1
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "366": [
+      1,
+      0
+     ],
+     "368": [
+      1,
+      0
+     ],
+     "379": [
+      0,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ],
+     "499": [
+      0,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-22T16:42:12Z",
+    "next": {
+     "ko": "2026-11-23T20:00:00Z",
+     "match": "BRE v EVE"
+    }
+   },
    {
     "headline": "Szoboszlai scores, Isak assists as LIV v MUN starts",
     "text": "Szoboszlai has scored for LIV v MUN, worth **6 points** to Justin, who started him. Isak has assisted, worth **4 points** to the 7 managers who started him, with Dinesh and Saurabh having captained him. At the top, Ayodele still leads Cherag by **10 points**.",
@@ -7150,151 +7324,6 @@
      "ko": "2026-11-22T16:30:00Z",
      "match": "LIV v MUN"
     }
-   },
-   {
-    "headline": "Haaland blanks on 22 armbands as Ayodele holds top",
-    "text": "Haaland blanked on **22 armbands**, returning just **2 points**, yet Ayodele holds top spot with an **11-point lead** over Cherag. Gakpo is still to play and belongs only to Ayodele, so he could stretch that lead. Cherag has no players left, so he cannot close the gap.",
-    "you": {
-     "1092588": "Your captain Haaland returned 2 points, yet your **11-point lead** over Cherag holds, with Gakpo still to play for you alone.",
-     "3219276": "Ayodele is 11 points above you at the top, and you have no players left to play.",
-     "573491": "Cherag is 3 points above you, and your Bench Boost is still live, so that gap could flip.",
-     "3323262": "Nihal is 14 points above you, and Nanik is 3 points behind, so Isak's game could matter here.",
-     "1541394": "Sid is 3 points above you, and you have no players left to play, so the gap depends on Sid's last game.",
-     "7471754": "2 managers benched Belloumi, who is on the pitch, and **B.Fernandes** is still to play for you alone.",
-     "5489583": "Tonna is 18 points above you, and Edd is 3 points behind you.",
-     "1378937": "Omar is 3 points above you, and Tarkowski is still to play for you alone.",
-     "363548": "Belloumi is on the pitch and 2 of your rivals benched him, while you have no players left to play.",
-     "4125292": "You have passed Hishaan today, and Cunha is still to play for you alone.",
-     "3506595": "Ahmad and Bhavik passed you today, and Jacquet and Barry are still to play for you alone.",
-     "4922092": "Hishaan is 5 points above you, and Tavernier, sold by you this week, has set one up.",
-     "962024": "Ravi is 3 points above you, with 2 of your players still to play.",
-     "4841175": "Only you captained Groß, and his 2 points on your armband so far could make or break your gameweek.",
-     "3359227": "N.Jackson returned 2 points on your armband, a flop shared with Naishadh.",
-     "7273369": "You dropped as low as 15th today and are back up to 14th, level with Raushan on 651 points.",
-     "6619523": "Up 4 places this gameweek, from 21st to 17th, and 1 point ahead of Justin.",
-     "5873092": "You were as high as 17th today and are now 18th, with Lavesh 1 point above you.",
-     "1457736": "N.Jackson returned 2 points on your armband, a flop shared with Raushan.",
-     "75187": "Down 3 places this gameweek, from 17th to 20th, with Naishadh 2 points above you.",
-     "6341709": "Dominic is 10 points above you, and Ajayi is still to play for you alone.",
-     "383423": "Up 3 places this gameweek and out of the Tin Pot, you are 19 points behind Tomisin.",
-     "5028423": "Barcola is still to play for you alone, and he could lift you from 23rd.",
-     "1474501": "Isak is still to play on your armband, a captain only 2 managers picked.",
-     "3375627": "Your Triple Captain on Haaland has returned 6 points, and Ayari is still to play for you alone.",
-     "3591460": "Garner is still to play for you alone, and he could lift you from 28th."
-    },
-    "ts": "2026-11-22T14:28:40Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:i:0-0|107:n:0-0|108:f:1-1|109:f:2-2|110:f:2-0",
-    "ranks": {
-     "1092588": 1,
-     "3219276": 2,
-     "573491": 3,
-     "3323262": 4,
-     "1541394": 5,
-     "7471754": 6,
-     "5489583": 7,
-     "1378937": 8,
-     "363548": 9,
-     "4125292": 10,
-     "3506595": 11,
-     "4922092": 12,
-     "962024": 13,
-     "3359227": 14,
-     "4841175": 14,
-     "7273369": 14,
-     "6619523": 17,
-     "5873092": 18,
-     "1457736": 19,
-     "75187": 20,
-     "6341709": 21,
-     "383423": 22,
-     "5028423": 23,
-     "1474501": 24,
-     "3552160": 25,
-     "3375627": 26,
-     "8316989": 27,
-     "3591460": 28,
-     "5706920": 29
-    },
-    "totals": {
-     "1092588": 731,
-     "3219276": 720,
-     "573491": 717,
-     "3323262": 703,
-     "1541394": 700,
-     "7471754": 693,
-     "5489583": 675,
-     "1378937": 672,
-     "363548": 667,
-     "4125292": 666,
-     "3506595": 665,
-     "4922092": 660,
-     "962024": 657,
-     "3359227": 651,
-     "4841175": 651,
-     "7273369": 651,
-     "6619523": 642,
-     "5873092": 641,
-     "1457736": 640,
-     "75187": 638,
-     "6341709": 628,
-     "383423": 609,
-     "5028423": 600,
-     "1474501": 599,
-     "3552160": 592,
-     "3375627": 589,
-     "8316989": 577,
-     "3591460": 545,
-     "5706920": 463
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ],
-     "499": [
-      0,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-22T14:28:40Z",
-    "next": {
-     "ko": "2026-11-22T16:30:00Z",
-     "match": "LIV v MUN"
-    }
    }
   ],
   "desk_day": {
@@ -7331,7 +7360,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-22T16:42:12Z",
+  "desk_last_ok": "2026-11-22T16:55:39Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -8493,8 +8522,8 @@
     "entry_name": "Choke City",
     "rank": 4,
     "last_rank": 3,
-    "total": 706,
-    "event_total": 35
+    "total": 709,
+    "event_total": 38
    },
    {
     "entry": 1541394,
@@ -8551,22 +8580,22 @@
     "event_total": 38
    },
    {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 11,
-    "last_rank": 9,
-    "total": 666,
-    "event_total": 32
-   },
-   {
     "entry": 4922092,
     "player_name": "Ravi Mahtani",
     "entry_name": "Ravi's Team",
-    "rank": 12,
+    "rank": 11,
     "last_rank": 13,
-    "total": 665,
-    "event_total": 36
+    "total": 668,
+    "event_total": 39
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 12,
+    "last_rank": 9,
+    "total": 666,
+    "event_total": 32
    },
    {
     "entry": 962024,
@@ -8574,8 +8603,8 @@
     "entry_name": "Kobbie Wan Kenobi",
     "rank": 13,
     "last_rank": 11,
-    "total": 662,
-    "event_total": 31
+    "total": 665,
+    "event_total": 34
    },
    {
     "entry": 4841175,
@@ -8583,14 +8612,23 @@
     "entry_name": "Brewmore",
     "rank": 14,
     "last_rank": 19,
-    "total": 658,
-    "event_total": 53
+    "total": 661,
+    "event_total": 56
+   },
+   {
+    "entry": 5873092,
+    "player_name": "Justin Deniese",
+    "entry_name": "The Bench",
+    "rank": 15,
+    "last_rank": 17,
+    "total": 654,
+    "event_total": 42
    },
    {
     "entry": 7273369,
     "player_name": "Will Zahn",
     "entry_name": "eyezil",
-    "rank": 15,
+    "rank": 16,
     "last_rank": 15,
     "total": 654,
     "event_total": 35
@@ -8599,28 +8637,10 @@
     "entry": 3359227,
     "player_name": "Raushan Uttamchandani",
     "entry_name": "Raus' XV",
-    "rank": 16,
+    "rank": 17,
     "last_rank": 14,
     "total": 651,
     "event_total": 25
-   },
-   {
-    "entry": 5873092,
-    "player_name": "Justin Deniese",
-    "entry_name": "The Bench",
-    "rank": 16,
-    "last_rank": 17,
-    "total": 651,
-    "event_total": 39
-   },
-   {
-    "entry": 6341709,
-    "player_name": "Tomisin Adeshiyan",
-    "entry_name": "Chalupa Batmen 3.0�",
-    "rank": 18,
-    "last_rank": 20,
-    "total": 644,
-    "event_total": 41
    },
    {
     "entry": 1457736,
@@ -8632,22 +8652,31 @@
     "event_total": 29
    },
    {
-    "entry": 6619523,
-    "player_name": "Lavesh Sakhrani",
-    "entry_name": "Lav's Elite",
-    "rank": 20,
-    "last_rank": 21,
-    "total": 641,
+    "entry": 6341709,
+    "player_name": "Tomisin Adeshiyan",
+    "entry_name": "Chalupa Batmen 3.0�",
+    "rank": 18,
+    "last_rank": 20,
+    "total": 644,
     "event_total": 41
    },
    {
     "entry": 75187,
     "player_name": "Dominic Hagerty",
     "entry_name": "Enzo in the City",
-    "rank": 21,
+    "rank": 20,
     "last_rank": 18,
-    "total": 638,
-    "event_total": 26
+    "total": 641,
+    "event_total": 29
+   },
+   {
+    "entry": 6619523,
+    "player_name": "Lavesh Sakhrani",
+    "entry_name": "Lav's Elite",
+    "rank": 21,
+    "last_rank": 21,
+    "total": 641,
+    "event_total": 41
    },
    {
     "entry": 383423,
@@ -8659,31 +8688,31 @@
     "event_total": 38
    },
    {
+    "entry": 3552160,
+    "player_name": "Saurabh Tiku",
+    "entry_name": "LET'S RUMBLE!!!",
+    "rank": 23,
+    "last_rank": 22,
+    "total": 610,
+    "event_total": 29
+   },
+   {
     "entry": 1474501,
     "player_name": "Dinesh Relwani",
     "entry_name": "Lovdenya Bhojyam",
-    "rank": 23,
+    "rank": 24,
     "last_rank": 24,
-    "total": 604,
-    "event_total": 26
+    "total": 610,
+    "event_total": 32
    },
    {
     "entry": 5028423,
     "player_name": "Isaiah page",
     "entry_name": "Kolo's sidepiece",
-    "rank": 24,
+    "rank": 25,
     "last_rank": 23,
     "total": 603,
     "event_total": 24
-   },
-   {
-    "entry": 3552160,
-    "player_name": "Saurabh Tiku",
-    "entry_name": "LET'S RUMBLE!!!",
-    "rank": 25,
-    "last_rank": 22,
-    "total": 601,
-    "event_total": 20
    },
    {
     "entry": 3375627,
@@ -8700,8 +8729,8 @@
     "entry_name": "EA FC",
     "rank": 27,
     "last_rank": 26,
-    "total": 587,
-    "event_total": 26
+    "total": 590,
+    "event_total": 29
    },
    {
     "entry": 3591460,
@@ -8718,8 +8747,8 @@
     "entry_name": "Vicecityfc",
     "rank": 29,
     "last_rank": 29,
-    "total": 465,
-    "event_total": 21
+    "total": 472,
+    "event_total": 28
    }
   ]
  },
@@ -15346,7 +15375,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T16:42:12Z",
+  "ts": "2026-11-22T16:55:39Z",
   "issues": [],
   "page": [],
   "wording": [
