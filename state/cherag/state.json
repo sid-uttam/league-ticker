@@ -10887,15 +10887,6 @@
     "event_total": 32
    },
    {
-    "entry": 3566356,
-    "player_name": "Jackey Boro",
-    "entry_name": "Jackey's Team",
-    "rank": 37,
-    "last_rank": 45,
-    "total": 688,
-    "event_total": 39
-   },
-   {
     "entry": 4151180,
     "player_name": "kashish dadwal",
     "entry_name": "Palmer's Angels",
@@ -10903,6 +10894,15 @@
     "last_rank": 37,
     "total": 688,
     "event_total": 34
+   },
+   {
+    "entry": 3566356,
+    "player_name": "Jackey Boro",
+    "entry_name": "Jackey's Team",
+    "rank": 37,
+    "last_rank": 45,
+    "total": 688,
+    "event_total": 39
    },
    {
     "entry": 32831,
@@ -10932,15 +10932,6 @@
     "event_total": 38
    },
    {
-    "entry": 1425044,
-    "player_name": "Manav Malhotra",
-    "entry_name": "Brain-Heart 11",
-    "rank": 42,
-    "last_rank": 39,
-    "total": 686,
-    "event_total": 32
-   },
-   {
     "entry": 13951,
     "player_name": "Sagar C",
     "entry_name": "Champs",
@@ -10948,6 +10939,15 @@
     "last_rank": 53,
     "total": 686,
     "event_total": 42
+   },
+   {
+    "entry": 1425044,
+    "player_name": "Manav Malhotra",
+    "entry_name": "Brain-Heart 11",
+    "rank": 42,
+    "last_rank": 39,
+    "total": 686,
+    "event_total": 32
    },
    {
     "entry": 257074,
@@ -11076,15 +11076,6 @@
     "event_total": 23
    },
    {
-    "entry": 4134138,
-    "player_name": "Rishab Bajaj",
-    "entry_name": "Rishabs11",
-    "rank": 58,
-    "last_rank": 44,
-    "total": 674,
-    "event_total": 24
-   },
-   {
     "entry": 119259,
     "player_name": "Rahil Mirchandani",
     "entry_name": "Regaling",
@@ -11092,6 +11083,15 @@
     "last_rank": 64,
     "total": 674,
     "event_total": 39
+   },
+   {
+    "entry": 4134138,
+    "player_name": "Rishab Bajaj",
+    "entry_name": "Rishabs11",
+    "rank": 58,
+    "last_rank": 44,
+    "total": 674,
+    "event_total": 24
    },
    {
     "entry": 4683090,
@@ -11193,15 +11193,6 @@
     "event_total": 35
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
-    "rank": 71,
-    "last_rank": 72,
-    "total": 658,
-    "event_total": 32
-   },
-   {
     "entry": 4372346,
     "player_name": "Shantanu Sharma",
     "entry_name": "Carnage1x",
@@ -11209,6 +11200,15 @@
     "last_rank": 78,
     "total": 658,
     "event_total": 39
+   },
+   {
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
+    "rank": 71,
+    "last_rank": 72,
+    "total": 658,
+    "event_total": 32
    },
    {
     "entry": 3086063,
@@ -59975,13 +59975,13 @@
    "710718": 34,
    "42960": 35,
    "698784": 35,
-   "3566356": 37,
    "4151180": 37,
+   "3566356": 37,
    "32831": 39,
    "10821": 39,
    "5640988": 39,
-   "1425044": 42,
    "13951": 42,
+   "1425044": 42,
    "257074": 42,
    "4558790": 45,
    "3239284": 45,
@@ -59996,8 +59996,8 @@
    "4540238": 54,
    "1443362": 54,
    "675013": 57,
-   "4134138": 58,
    "119259": 58,
+   "4134138": 58,
    "4683090": 60,
    "2119331": 61,
    "57776": 62,
@@ -60009,8 +60009,8 @@
    "2922453": 68,
    "10615": 69,
    "3404613": 70,
-   "4592187": 70,
    "4372346": 70,
+   "4592187": 70,
    "3086063": 73,
    "4314690": 74,
    "26707": 75,
@@ -60090,13 +60090,13 @@
    "710718": null,
    "42960": null,
    "698784": null,
-   "3566356": null,
    "4151180": null,
+   "3566356": null,
    "32831": null,
    "10821": null,
    "5640988": null,
-   "1425044": null,
    "13951": null,
+   "1425044": null,
    "257074": null,
    "4558790": null,
    "3239284": null,
@@ -60111,8 +60111,8 @@
    "4540238": null,
    "1443362": null,
    "675013": null,
-   "4134138": null,
    "119259": null,
+   "4134138": null,
    "4683090": null,
    "2119331": null,
    "57776": null,
@@ -60124,8 +60124,8 @@
    "2922453": null,
    "10615": null,
    "3404613": null,
-   "4592187": null,
    "4372346": null,
+   "4592187": null,
    "3086063": null,
    "4314690": null,
    "26707": null,
@@ -60169,7 +60169,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T14:54:41Z",
+ "updated": "2026-11-22T15:06:17Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -66514,7 +66514,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T14:54:41Z",
+  "ts": "2026-11-22T15:06:17Z",
   "issues": [
    "desk written from older totals (37 managers changed since)"
   ],
