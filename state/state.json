@@ -3057,7 +3057,7 @@
     6,
     1,
     0,
-    86,
+    90,
     0,
     0,
     0
@@ -3090,7 +3090,7 @@
     6,
     1,
     0,
-    86,
+    90,
     0,
     0,
     0
@@ -3112,7 +3112,7 @@
     14,
     1,
     0,
-    86,
+    90,
     0,
     0,
     0
@@ -3156,7 +3156,7 @@
     9,
     1,
     0,
-    86,
+    90,
     0,
     0,
     0
@@ -3409,7 +3409,7 @@
     2,
     0,
     0,
-    86,
+    90,
     0,
     0,
     0
@@ -3464,7 +3464,7 @@
     2,
     0,
     0,
-    86,
+    90,
     0,
     0,
     0
@@ -3813,7 +3813,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T18:17:30Z",
+ "updated": "2026-11-22T18:29:18Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6629,17 +6629,181 @@
     "plots": 11
    },
    "11": {
-    "in": 1407446,
-    "out": 297115,
-    "calls": 106,
+    "in": 1437216,
+    "out": 307621,
+    "calls": 110,
     "refreshes": 18,
-    "desks": 33,
-    "desk_in": 742558,
-    "desk_out": 245855,
-    "plots": 2
+    "desks": 34,
+    "desk_in": 767916,
+    "desk_out": 253963,
+    "plots": 3
    }
   },
   "desks": [
+   {
+    "headline": "Ayodele's 10-point lead holds as Liverpool thump Man Utd",
+    "text": "**Szoboszlai's 9-point goal** and Isak's assist sent Liverpool to a 4-0 win, leaving Ayodele **10 points clear** of Cherag at the top. Both have finished, so that gap is set. Further down, Edd leads Ravi by **one point** in 8th, with Tarkowski still to play for Edd.",
+    "you": {
+     "1092588": "Benching Mbeumo was your call, and he is on the pitch for LIV v MUN with 1 point so far.",
+     "573491": "Cherag is 3 points above you. One of your players is still to play.",
+     "3323262": "Tavernier's earlier assist is old news now. Nanik is 11 points behind you.",
+     "1541394": "Sid is 11 points above you. Tonna sits 4 points behind you.",
+     "7471754": "Benching Belloumi with Ahmad was costly, since he has now set up a goal.",
+     "5489583": "Benching Mbeumo is now a risk, as he is on the pitch for LIV v MUN.",
+     "1378937": "Omar is 2 points above you. Ravi is 1 point behind, with Tarkowski still to come for you.",
+     "4922092": "You have passed Hishaan, Bhavik and Ahmad today. Selling Barcola has cost you after he set up a goal.",
+     "3506595": "Ravi passed you today. Barry is still to play, and only you own him.",
+     "4125292": "Ravi passed you today. Hishaan is 2 points above you, with Ahmad 1 point behind.",
+     "363548": "Ravi passed you today. Bhavik is 1 point above you, with Simon 2 points behind.",
+     "962024": "Ahmad is 2 points above you. You were as high as 12th this gameweek.",
+     "4841175": "You have passed Will and Raushan today. Your captain Groß has 4 points, worth 8 on your armband.",
+     "5873092": "You have passed Will and Raushan this gameweek, climbing from 17th to 15th.",
+     "7273369": "You passed Raushan today, but Maanav and Justin both passed you. Raushan is 3 points behind.",
+     "3359227": "Maanav, Justin and Will passed you today. Tomisin is 2 points behind you.",
+     "6341709": "You have passed Naishadh, Dominic and Lavesh today. You climbed from 21st to 18th.",
+     "1457736": "You passed Lavesh today, but Tomisin passed you. Tomisin is 5 points above you, with Dominic 2 points behind.",
+     "75187": "You passed Lavesh today, but Tomisin passed you. Lavesh is 1 point behind you.",
+     "6619523": "Tomisin, Naishadh and Dominic passed you today. Dinesh is 29 points behind you.",
+     "1474501": "You have passed Isaiah today. Your captain Isak has set up a goal, worth 10 points on your armband.",
+     "383423": "You climbed out of the Tin Pot, up 3 places this gameweek. Isaiah is 5 points behind you.",
+     "5028423": "Dinesh and Saurabh passed you today. Barcola has set up a goal worth 5 points, and only you own him.",
+     "3375627": "Isaiah is 16 points above you. Your Triple Captain on Haaland has returned 6 points.",
+     "3591460": "Garner is still to play, and only you own him. Elvin sits 42 points above you."
+    },
+    "ts": "2026-11-22T18:29:18Z",
+    "gw": 11,
+    "moment": "day_over",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "573491": 3,
+     "3323262": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "5489583": 7,
+     "1378937": 8,
+     "4922092": 9,
+     "3506595": 10,
+     "4125292": 11,
+     "363548": 12,
+     "962024": 13,
+     "4841175": 14,
+     "5873092": 15,
+     "7273369": 16,
+     "3359227": 17,
+     "6341709": 18,
+     "1457736": 19,
+     "75187": 20,
+     "6619523": 21,
+     "3552160": 22,
+     "383423": 22,
+     "1474501": 22,
+     "5028423": 25,
+     "3375627": 26,
+     "8316989": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 732,
+     "3219276": 722,
+     "573491": 719,
+     "3323262": 710,
+     "1541394": 699,
+     "7471754": 695,
+     "5489583": 677,
+     "1378937": 675,
+     "4922092": 674,
+     "3506595": 671,
+     "4125292": 669,
+     "363548": 668,
+     "962024": 666,
+     "4841175": 662,
+     "5873092": 659,
+     "7273369": 654,
+     "3359227": 651,
+     "6341709": 649,
+     "1457736": 644,
+     "75187": 642,
+     "6619523": 641,
+     "3552160": 612,
+     "383423": 612,
+     "1474501": 612,
+     "5028423": 607,
+     "3375627": 591,
+     "8316989": 590,
+     "3591460": 548,
+     "5706920": 483
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "286": [
+      0,
+      1
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "366": [
+      1,
+      1
+     ],
+     "368": [
+      1,
+      0
+     ],
+     "627": [
+      0,
+      1
+     ],
+     "379": [
+      0,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ],
+     "499": [
+      0,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-22T18:29:18Z",
+    "next": {
+     "ko": "2026-11-23T20:00:00Z",
+     "match": "BRE v EVE"
+    }
+   },
    {
     "headline": "Wirtz's assist worth 14 points to a lone, inactive Sasha",
     "text": "Wirtz has set one up for **14 points**, but only Sasha started him, and Sasha is one of the inactive teams, so nobody actively chasing the league gets any of it. Meanwhile Liverpool lead Manchester United **4-0**, and at the top Ayodele still leads Cherag by **10 points**.",
@@ -7283,161 +7447,6 @@
      "ko": "2026-11-23T20:00:00Z",
      "match": "BRE v EVE"
     }
-   },
-   {
-    "headline": "Szoboszlai scores, Isak assists as LIV v MUN starts",
-    "text": "Szoboszlai has scored for LIV v MUN, worth **6 points** to Justin, who started him. Isak has assisted, worth **4 points** to the 7 managers who started him, with Dinesh and Saurabh having captained him. At the top, Ayodele still leads Cherag by **10 points**.",
-    "you": {
-     "1092588": "3 managers benched Mbeumo, who is now on the pitch for LIV v MUN.",
-     "3219276": "Mbeumo, benched by 3 managers, is on the pitch and has 1 point so far.",
-     "573491": "Cherag is 3 points above you, with your Bench Boost already in play.",
-     "3323262": "Ravi's new signing Tavernier set up a goal for you earlier in the gameweek.",
-     "7471754": "You and Ahmad benched Belloumi, who has now set up a goal.",
-     "5489583": "You benched Mbeumo, who is on the pitch for LIV v MUN.",
-     "1378937": "You dropped to 10th today before climbing back to 8th.",
-     "4125292": "You have passed Hishaan today. Edd is 6 points above you.",
-     "363548": "Belloumi, whom you benched, has just set up a goal.",
-     "4922092": "Isak, your new signing, has set up a goal for you.",
-     "962024": "You were as high as 12th today and are now 13th. Maanav is 4 points behind.",
-     "4841175": "You have passed Will and Raushan today.",
-     "7273369": "Maanav has passed you today. He is 7 points above you.",
-     "5873092": "You dropped as low as 19th today before climbing back to 16th.",
-     "3359227": "Maanav and Will have both passed you today.",
-     "1457736": "You have passed Lavesh today.",
-     "6341709": "You have passed Dominic and Lavesh today.",
-     "75187": "Tomisin passed you today.",
-     "6619523": "Naishadh and Tomisin passed you today.",
-     "383423": "You climbed out of the Tin Pot, up 3 places this gameweek.",
-     "1474501": "Your captain Isak has assisted. He is worth 8 points on your armband.",
-     "5028423": "You have dropped into the Tin Pot spots.",
-     "3375627": "Your Triple Captain on Haaland has returned 6 points.",
-     "3591460": "Garner is still to play for you alone."
-    },
-    "ts": "2026-11-22T16:42:12Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:f:2-0|107:i:1-0|108:f:1-1|109:f:2-2|110:f:2-0",
-    "ranks": {
-     "1092588": 1,
-     "3219276": 2,
-     "573491": 3,
-     "3323262": 4,
-     "1541394": 5,
-     "7471754": 6,
-     "5489583": 7,
-     "1378937": 8,
-     "4125292": 9,
-     "363548": 10,
-     "3506595": 12,
-     "4922092": 10,
-     "962024": 13,
-     "4841175": 14,
-     "7273369": 15,
-     "3359227": 16,
-     "5873092": 16,
-     "6341709": 18,
-     "1457736": 18,
-     "6619523": 20,
-     "75187": 20,
-     "383423": 22,
-     "1474501": 23,
-     "5028423": 25,
-     "3552160": 24,
-     "3375627": 26,
-     "8316989": 27,
-     "3591460": 28,
-     "5706920": 29
-    },
-    "totals": {
-     "1092588": 732,
-     "3219276": 722,
-     "573491": 719,
-     "3323262": 709,
-     "1541394": 699,
-     "7471754": 694,
-     "5489583": 677,
-     "1378937": 675,
-     "4125292": 669,
-     "363548": 668,
-     "3506595": 666,
-     "4922092": 668,
-     "962024": 665,
-     "4841175": 661,
-     "7273369": 654,
-     "3359227": 651,
-     "5873092": 651,
-     "6341709": 644,
-     "1457736": 644,
-     "6619523": 641,
-     "75187": 641,
-     "383423": 612,
-     "1474501": 610,
-     "5028423": 603,
-     "3552160": 607,
-     "3375627": 591,
-     "8316989": 587,
-     "3591460": 548,
-     "5706920": 465
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "286": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "368": [
-      1,
-      0
-     ],
-     "379": [
-      0,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ],
-     "499": [
-      0,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-22T16:42:12Z",
-    "next": {
-     "ko": "2026-11-23T20:00:00Z",
-     "match": "BRE v EVE"
-    }
    }
   ],
   "desk_day": {
@@ -7474,21 +7483,21 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-22T18:17:30Z",
+  "desk_last_ok": "2026-11-22T18:29:18Z",
   "plots": [
    {
     "id": "underdog:573491",
-    "title": "Nihal Keeps Rising",
+    "title": "Nihal's Long Climb",
     "status": "Building",
-    "text": "Nihal has climbed from 26th of 29 in GW1 to 3rd, a rise of 23 places. Third is 13 points behind Ayodele, so the top 2 are still within reach.",
-    "next": "If Nihal keeps gaining places, a top-2 finish could come into view.",
+    "text": "Nihal has risen from 26th of 29 in GW1 to 3rd now, a climb of 23 places. He sits 13 points behind leader Ayodele, so the top 2 are still in reach.",
+    "next": "If Ayodele and Cherag keep trading places, Nihal could be the one to slip into the top 2.",
     "who": [
      573491
     ],
     "kind": "underdog",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-22T16:29:51Z",
+    "ts": "2026-11-22T18:29:18Z",
     "question": "How high can Nihal go?",
     "line": [
      [
@@ -7523,8 +7532,8 @@
     "id": "title",
     "title": "Ayodele's Lead Widens",
     "status": "Building",
-    "text": "Ayodele leads on 732, 10 points ahead of Cherag on 722, after the gap grew from 8. Cherag held the top spot for 6 weeks, GW4 to GW9, before losing it.",
-    "next": "If Cherag cannot cut the gap, Ayodele could stretch the lead further.",
+    "text": "Ayodele leads on 732, 10 clear of Cherag on 722, after overturning Cherag's lead in GW10. The gap has grown since last week, with no sign yet of Cherag's reply.",
+    "next": "Cherag could strike back, but Nihal sits 13 points adrift in third and waiting.",
     "who": [
      1092588,
      3219276
@@ -7532,7 +7541,7 @@
     "kind": "title race",
     "episode": 3,
     "gw": 11,
-    "ts": "2026-11-22T16:29:51Z",
+    "ts": "2026-11-22T18:29:18Z",
     "question": "Who can hold the crown?",
     "line": [
      [
@@ -7557,10 +7566,10 @@
    },
    {
     "id": "chase:573491",
-    "title": "Nihal's Gap Shrinks",
+    "title": "Nihal Hunts Cherag",
     "status": "Heating up",
-    "text": "Nihal trails Cherag by just 3 points, down from 56 in GW8, 38 in GW9 and 22 in GW10. That is a steady run of narrowing gaps.",
-    "next": "If the gap closes completely, Nihal could move into second place.",
+    "text": "Cherag's lead over Nihal has shrunk to 3 points, down from 22 in GW10 and 56 in GW8. Nihal is now within touching distance of second place.",
+    "next": "If Nihal keeps up this pace, he could overtake Cherag as early as next gameweek.",
     "who": [
      573491,
      3219276
@@ -7568,7 +7577,7 @@
     "kind": "chaser",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-22T16:29:51Z",
+    "ts": "2026-11-22T18:29:18Z",
     "question": "Can Nihal catch Cherag?",
     "line": [
      [
@@ -7593,17 +7602,17 @@
    },
    {
     "id": "hot:1378937",
-    "title": "Edd's Run Continues",
+    "title": "Edd Keeps Rolling",
     "status": "Building",
-    "text": "Edd has been above the league average for 6 weeks in a row, with 67 points in GW10. The only dip in the run came in GW8, when Edd scored 49.",
-    "next": "Whether Edd reaches 7 straight weeks above average is the next test.",
+    "text": "Edd has finished above the league average 6 weeks in a row, scoring 67 in GW10. The only blip was a 49 in GW8, and the run shows no sign of stopping.",
+    "next": "Edd could extend the streak into a 7th week if the form holds.",
     "who": [
      1378937
     ],
     "kind": "hot streak",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-22T16:29:51Z",
+    "ts": "2026-11-22T18:29:18Z",
     "question": "How long can Edd stay hot?",
     "line": [
      [
@@ -7632,17 +7641,17 @@
    },
    {
     "id": "slump:383423",
-    "title": "Tobi's Slump Persists",
+    "title": "Tobi Still Searching",
     "status": "Building",
-    "text": "Tobi is still below the league average, now for 6 weeks in a row. The 58 points in GW10 were a sharp rebound from 37 the week before.",
-    "next": "A strong run of weeks could finally break Tobi's stretch below average.",
+    "text": "Tobi remains below the league average after 6 weeks in a row, though 58 in GW10 was a sharp rebound from 37. The slump is still on, but the form is turning.",
+    "next": "If Tobi builds on that 58, the run below average could finally come to an end.",
     "who": [
      383423
     ],
     "kind": "slump",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-22T16:29:51Z",
+    "ts": "2026-11-22T18:29:18Z",
     "question": "Can Tobi snap out of it?",
     "line": [
      [
@@ -7670,7 +7679,7 @@
     "streak": 6
    }
   ],
-  "plots_ts": "2026-11-22T16:29:51Z",
+  "plots_ts": "2026-11-22T18:29:18Z",
   "plots_key": "11:live",
   "verdict_tries": {
    "10:2": 1,
@@ -7690,7 +7699,7 @@
    "8": 1
   },
   "plots_v": 8,
-  "plots_sig": "16a68b9076af",
+  "plots_sig": "6865776991db",
   "preview": {
    "headline": "Gameweek 11: Haaland doubts and a top-spot squeeze",
    "points": [
@@ -14380,8 +14389,8 @@
     "gw": 11,
     "day": "2026-11-22",
     "title": "Ayodele's Lead Widens",
-    "text": "Ayodele leads on 732, 10 points ahead of Cherag on 722, after the gap grew from 8. Cherag held the top spot for 6 weeks, GW4 to GW9, before losing it.",
-    "next": "If Cherag cannot cut the gap, Ayodele could stretch the lead further."
+    "text": "Ayodele leads on 732, 10 clear of Cherag on 722, after overturning Cherag's lead in GW10. The gap has grown since last week, with no sign yet of Cherag's reply.",
+    "next": "Cherag could strike back, but Nihal sits 13 points adrift in third and waiting."
    }
   ],
   "gamble:3506595:10": [
@@ -14433,9 +14442,9 @@
    {
     "gw": 11,
     "day": "2026-11-22",
-    "title": "Nihal Keeps Rising",
-    "text": "Nihal has climbed from 26th of 29 in GW1 to 3rd, a rise of 23 places. Third is 13 points behind Ayodele, so the top 2 are still within reach.",
-    "next": "If Nihal keeps gaining places, a top-2 finish could come into view."
+    "title": "Nihal's Long Climb",
+    "text": "Nihal has risen from 26th of 29 in GW1 to 3rd now, a climb of 23 places. He sits 13 points behind leader Ayodele, so the top 2 are still in reach.",
+    "next": "If Ayodele and Cherag keep trading places, Nihal could be the one to slip into the top 2."
    }
   ],
   "chase:3506595": [
@@ -14458,9 +14467,9 @@
    {
     "gw": 11,
     "day": "2026-11-22",
-    "title": "Edd's Run Continues",
-    "text": "Edd has been above the league average for 6 weeks in a row, with 67 points in GW10. The only dip in the run came in GW8, when Edd scored 49.",
-    "next": "Whether Edd reaches 7 straight weeks above average is the next test."
+    "title": "Edd Keeps Rolling",
+    "text": "Edd has finished above the league average 6 weeks in a row, scoring 67 in GW10. The only blip was a 49 in GW8, and the run shows no sign of stopping.",
+    "next": "Edd could extend the streak into a 7th week if the form holds."
    }
   ],
   "slump:383423": [
@@ -14474,9 +14483,9 @@
    {
     "gw": 11,
     "day": "2026-11-22",
-    "title": "Tobi's Slump Persists",
-    "text": "Tobi is still below the league average, now for 6 weeks in a row. The 58 points in GW10 were a sharp rebound from 37 the week before.",
-    "next": "A strong run of weeks could finally break Tobi's stretch below average."
+    "title": "Tobi Still Searching",
+    "text": "Tobi remains below the league average after 6 weeks in a row, though 58 in GW10 was a sharp rebound from 37. The slump is still on, but the form is turning.",
+    "next": "If Tobi builds on that 58, the run below average could finally come to an end."
    }
   ],
   "fall:5873092": [
@@ -14492,9 +14501,9 @@
    {
     "gw": 11,
     "day": "2026-11-22",
-    "title": "Nihal's Gap Shrinks",
-    "text": "Nihal trails Cherag by just 3 points, down from 56 in GW8, 38 in GW9 and 22 in GW10. That is a steady run of narrowing gaps.",
-    "next": "If the gap closes completely, Nihal could move into second place."
+    "title": "Nihal Hunts Cherag",
+    "text": "Cherag's lead over Nihal has shrunk to 3 points, down from 22 in GW10 and 56 in GW8. Nihal is now within touching distance of second place.",
+    "next": "If Nihal keeps up this pace, he could overtake Cherag as early as next gameweek."
    }
   ]
  },
@@ -14611,9 +14620,9 @@
     "label": "Swing player",
     "branch": "blank",
     "status": {
-     "state": "playing",
-     "label": "Playing · 5",
-     "pts": 5
+     "state": "neither",
+     "pts": 5,
+     "label": "Quiet · 5"
     }
    },
    {
@@ -14822,9 +14831,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 5",
+      "state": "neither",
       "pts": 5,
+      "label": "Quiet · 5",
       "player": "Isak"
      },
      {
@@ -14872,15 +14881,15 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 6",
+      "state": "neither",
       "pts": 6,
+      "label": "Returned · 6",
       "player": "Araujo"
      },
      {
-      "state": "playing",
-      "label": "Playing · 5",
+      "state": "neither",
       "pts": 5,
+      "label": "Quiet · 5",
       "player": "Isak"
      }
     ]
@@ -14938,9 +14947,9 @@
       "player": "Silva"
      },
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Mbeumo"
      }
     ]
@@ -14998,9 +15007,9 @@
       "player": "Trafford"
      },
      {
-      "state": "playing",
-      "label": "Playing · 5",
+      "state": "neither",
       "pts": 5,
+      "label": "Quiet · 5",
       "player": "Isak"
      }
     ]
@@ -15021,9 +15030,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 5",
+      "state": "neither",
       "pts": 5,
+      "label": "Quiet · 5",
       "player": "Isak"
      },
      {
@@ -15056,9 +15065,9 @@
       "player": "Gabriel"
      },
      {
-      "state": "playing",
-      "label": "Playing · 6",
+      "state": "neither",
       "pts": 6,
+      "label": "Returned · 6",
       "player": "Araujo"
      }
     ]
@@ -15108,9 +15117,9 @@
     "you_captain": "Isak",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 5",
+      "state": "neither",
       "pts": 5,
+      "label": "Quiet · 5",
       "player": "Isak"
      },
      {
@@ -15387,9 +15396,9 @@
       "player": "Trafford"
      },
      {
-      "state": "playing",
-      "label": "Playing · 5",
+      "state": "neither",
       "pts": 5,
+      "label": "Quiet · 5",
       "player": "Isak"
      }
     ]
@@ -15459,9 +15468,9 @@
     "text": "Dinesh's dream week: if Isak hauls, Dinesh could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 5",
+      "state": "neither",
       "pts": 5,
+      "label": "Quiet · 5",
       "player": "Isak"
      }
     ]
@@ -15489,11 +15498,12 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T18:17:30Z",
+  "ts": "2026-11-22T18:29:18Z",
   "issues": [],
   "page": [],
   "wording": [
-   "wording (1 points): ...Iain ↓ don't   1    Autosub:  Cherif  (1 pts) comes in...",
+   "wording (1 points): ...you start him   0    Autosub:  Mbeumo  (1 pts) comes in...",
+   "wording (1 points): ...Iain ↓ don't   9    Autosub:  Cherif  (1 pts) comes in...",
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
    "wording (1 points): ...ained 6 on you.      Konsa ARS   Scored 1 pts        13...",
    "wording (1 points): ...h from him.      De Cuyper BHA   Scored 1 pts        18..."
