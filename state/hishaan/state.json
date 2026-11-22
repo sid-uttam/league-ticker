@@ -2498,8 +2498,8 @@
     "entry_name": "RedArmy",
     "rank": 7,
     "last_rank": 8,
-    "total": 711,
-    "event_total": 44
+    "total": 712,
+    "event_total": 45
    },
    {
     "entry": 1036311,
@@ -2592,22 +2592,22 @@
     "event_total": 33
    },
    {
-    "entry": 2934546,
-    "player_name": "Naresh Chugh",
-    "entry_name": "Legends FC",
+    "entry": 2465483,
+    "player_name": "Inesh Uttamchandani",
+    "entry_name": "Inu10",
     "rank": 18,
-    "last_rank": 19,
+    "last_rank": 18,
     "total": 658,
     "event_total": 30
    },
    {
-    "entry": 2465483,
-    "player_name": "Inesh Uttamchandani",
-    "entry_name": "Inu10",
+    "entry": 2934546,
+    "player_name": "Naresh Chugh",
+    "entry_name": "Legends FC",
     "rank": 19,
-    "last_rank": 18,
-    "total": 657,
-    "event_total": 29
+    "last_rank": 19,
+    "total": 658,
+    "event_total": 30
    },
    {
     "entry": 6279027,
@@ -9287,7 +9287,7 @@
     1,
     0,
     0,
-    45,
+    55,
     0,
     0,
     0
@@ -9298,7 +9298,7 @@
     1,
     0,
     0,
-    45,
+    55,
     0,
     0,
     0
@@ -9320,7 +9320,7 @@
     1,
     0,
     0,
-    45,
+    55,
     0,
     0,
     0
@@ -9331,7 +9331,7 @@
     1,
     0,
     0,
-    45,
+    55,
     0,
     0,
     0
@@ -9438,10 +9438,10 @@
    "572": [
     0,
     0,
-    5,
+    6,
     0,
     0,
-    45,
+    55,
     0,
     0,
     0
@@ -9639,7 +9639,7 @@
     2,
     0,
     0,
-    45,
+    55,
     0,
     0,
     0
@@ -9694,7 +9694,7 @@
     1,
     0,
     0,
-    45,
+    55,
     0,
     0,
     0
@@ -9727,7 +9727,7 @@
     3,
     0,
     0,
-    45,
+    55,
     0,
     0,
     0
@@ -9738,7 +9738,7 @@
     1,
     0,
     0,
-    45,
+    55,
     0,
     0,
     0
@@ -10178,7 +10178,7 @@
     0,
     0,
     0,
-    45,
+    55,
     0,
     0,
     0
@@ -10229,8 +10229,8 @@
    "6892917": 15,
    "3506595": 16,
    "4922092": 17,
+   "2465483": 18,
    "2934546": 18,
-   "2465483": 19,
    "6279027": 20,
    "865376": 21,
    "7043406": 22,
@@ -10257,8 +10257,8 @@
    "6892917": null,
    "3506595": null,
    "4922092": null,
-   "2934546": null,
    "2465483": null,
+   "2934546": null,
    "6279027": null,
    "865376": null,
    "7043406": "tinpot",
@@ -10268,7 +10268,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-22T15:06:22Z",
+ "updated": "2026-11-22T15:18:27Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10311,17 +10311,159 @@
     "plots": 11
    },
    "11": {
-    "in": 901029,
-    "out": 182575,
-    "calls": 70,
+    "in": 925666,
+    "out": 191655,
+    "calls": 72,
     "refreshes": 12,
-    "desks": 22,
-    "desk_in": 495509,
-    "desk_out": 151921,
+    "desks": 23,
+    "desk_in": 520146,
+    "desk_out": 161001,
     "plots": 1
    }
   },
   "desks": [
+   {
+    "headline": "Barcola could decide top spot as Matt leads by 3",
+    "text": "Matt holds top spot on 754 points, **3 points** clear of Nikhil. Nikhil's only player still to come is **Barcola** in LIV v MUN, so a goal from him could hand him the lead. Matt still has Wirtz and Isak to come.",
+    "you": {
+     "3029346": "Nikhil is 3 points behind you. Wirtz and Isak are yours alone to come, so they could settle top spot.",
+     "2321301": "Barcola is yours alone still to play, and a goal from him could put you top.",
+     "735721": "Nikhil sits 20 points above you. With no players left to play, your gameweek is settled.",
+     "1921902": "Your captain N.Jackson has blanked on the armband, a pick shared by only 3 managers.",
+     "2687116": "Ødegaard set up a goal after you benched him, so that call is costing you.",
+     "3344797": "With no players left to play, Chandru sits 6 points above you.",
+     "1036311": "Sunny sits 8 points above you. Your Bench Boost is up against his, so the chip race is on.",
+     "4487775": "Amit sits 17 points above you, with 2 players still to play.",
+     "3350483": "Prem sits 3 points above you, with Sunil 1 point behind.",
+     "3072827": "Belloumi, benched by 2 managers, is now on the pitch for you.",
+     "5474293": "Lewis-Potter is yours alone still to play, a chance to stretch your lead over Marcel.",
+     "75778": "Calvert-Lewin scored on your bench, leaving Sahil 5 points above you.",
+     "5682768": "Hishaan has been passed by you today. B.Fernandes is yours alone still to play.",
+     "6892917": "Hishaan is 2 points behind you after your climb past him today.",
+     "3506595": "Poonam is 2 points above you after passing you today.",
+     "4922092": "Araujo is yours alone still to play, so your Wildcard could pay off.",
+     "2465483": "Branthwaite is yours alone still to play, a chance to climb past Ravi Mahtani.",
+     "2934546": "Madueke scored after you sold him, leaving you level with Inesh.",
+     "6279027": "Manzambi, benched by 2 managers, has 1 point so far for you.",
+     "865376": "Palmer is your differential captain, with his armband returning 4 points.",
+     "7043406": "Shared by just 3 managers, N.Jackson has returned 4 points on your armband.",
+     "3314780": "Pickford and Gakpo are yours alone still to play, a chance to climb on Rajiv.",
+     "6159011": "N.Jackson, your captain, has banked 4 points on the armband.",
+     "6051923": "Vinesh sits 24 points above you. Bella is 14 points below you.",
+     "6476662": "Haaland's Triple Captain has banked 6 points for you, a big chunk of your week."
+    },
+    "ts": "2026-11-22T15:18:27Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:i:0-0|107:n:0-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "3029346": 1,
+     "2321301": 2,
+     "735721": 3,
+     "1921902": 4,
+     "2687116": 5,
+     "3344797": 6,
+     "1655993": 7,
+     "1036311": 8,
+     "4487775": 9,
+     "3350483": 10,
+     "3072827": 11,
+     "5474293": 12,
+     "75778": 13,
+     "5682768": 14,
+     "6892917": 15,
+     "3506595": 16,
+     "4922092": 17,
+     "2465483": 18,
+     "2934546": 18,
+     "6279027": 20,
+     "865376": 21,
+     "7043406": 22,
+     "3314780": 23,
+     "6159011": 24,
+     "6051923": 25,
+     "6476662": 26
+    },
+    "totals": {
+     "3029346": 754,
+     "2321301": 751,
+     "735721": 731,
+     "1921902": 728,
+     "2687116": 723,
+     "3344797": 717,
+     "1655993": 712,
+     "1036311": 704,
+     "4487775": 687,
+     "3350483": 684,
+     "3072827": 683,
+     "5474293": 680,
+     "75778": 675,
+     "5682768": 669,
+     "6892917": 667,
+     "3506595": 665,
+     "4922092": 662,
+     "2465483": 658,
+     "2934546": 658,
+     "6279027": 647,
+     "865376": 643,
+     "7043406": 642,
+     "3314780": 640,
+     "6159011": 639,
+     "6051923": 615,
+     "6476662": 601
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "16": [
+      1,
+      0
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "60": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ]
+    },
+    "you_full_ts": "2026-11-22T15:18:27Z",
+    "next": {
+     "ko": "2026-11-22T16:30:00Z",
+     "match": "LIV v MUN"
+    }
+   },
    {
     "headline": "Barcola could decide the title race as Matt leads Nikhil",
     "text": "Matt holds top spot on **755 points**, **4 points** clear of Nikhil, with HUL v BHA still goalless. Nikhil's only player left to play is **Barcola** in LIV v MUN, so a goal from him could hand Nikhil the lead. Matt still has Wirtz and Isak to come.",
@@ -10890,149 +11032,6 @@
      "ko": "2026-11-22T14:00:00Z",
      "match": "HUL v BHA"
     }
-   },
-   {
-    "headline": "Naresh's sold Madueke scores 8 points as Naresh watches",
-    "text": "Naresh sold Madueke this week, and the winger has just scored **8 points** that Naresh now watches from the sidelines. At the top, Matt still has **5 players** to play against Nikhil's 3, and **Barcola** is Nikhil's alone, so he could decide the title race if he scores.",
-    "you": {
-     "3029346": "You have passed Nikhil today, now sitting **1 point** ahead at the top.",
-     "2321301": "Matt passed you today, leaving you **1 point** behind at the top.",
-     "735721": "Nikhil is **20 points** above you, with 2 of your players still to play.",
-     "1921902": "N.Jackson blanked on your armband, so your Gold place now rests on 3 players still to play.",
-     "2687116": "Bogle assisted after you benched him, a call now proving expensive.",
-     "3344797": "Chandru is 10 points above you. 3 of your players are still to play, so that gap could shrink.",
-     "1655993": "You have passed Prem today. 7 players on your Bench Boost are still to play, so more places could come.",
-     "4487775": "Aashiv is 4 points behind you, but you still have 3 players to play.",
-     "3350483": "You have passed Sunil today, with Vuskovic yours alone still to play.",
-     "3072827": "Aashiv passed you today, after your Gvardiol bench call cost you.",
-     "5474293": "Lewis-Potter is yours alone still to play, so his points could push you further clear of Marcel below.",
-     "3506595": "You have passed Poonam today. Gvardiol is on the pitch after you benched him, with 1 point so far.",
-     "75778": "Your day has dipped to 14th and climbed back to 13th. Calvert-Lewin's 9 points landed while he sat on your bench.",
-     "6892917": "Hishaan and Vanessa have passed you today. A.Becker is yours alone still to play, so he could win back a place.",
-     "5682768": "You have passed Poonam today. Ajayi and B.Fernandes are yours alone still to play, so they could lift you further.",
-     "4922092": "Calafiori is on the pitch after you benched him, one of 3 managers now watching him.",
-     "2934546": "Barnes scored after you sold him this week, a costly sale.",
-     "2465483": "You were as high as 18th today, now 19th.",
-     "6279027": "You dropped as low as 21st today, now back up to 20th.",
-     "865376": "Barnes scored after you benched him, costing you a useful pick.",
-     "7043406": "You have passed Vinesh today. Barnes scored after you benched him, one of your biggest misses.",
-     "6159011": "Rajiv and Ravi Bhojwani have passed you today. Your captain N.Jackson returned 4 points with the armband.",
-     "3314780": "You have passed Vinesh today. Pickford and Gakpo are yours alone still to play, so they could close the gap to Rajiv.",
-     "6051923": "Vinesh is 23 points above you, the nearest rival in the Tin Pot fight.",
-     "6476662": "Only you own Anderson, who has just scored.",
-     "1036311": "You have passed Prem today on your Bench Boost. 4 players still to play could lift you further."
-    },
-    "ts": "2026-11-21T19:10:53Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:i:2-2|110:f:2-0",
-    "ranks": {
-     "3029346": 1,
-     "2321301": 2,
-     "735721": 3,
-     "1921902": 4,
-     "2687116": 5,
-     "3344797": 6,
-     "1655993": 7,
-     "1036311": 8,
-     "4487775": 9,
-     "3350483": 10,
-     "3072827": 11,
-     "5474293": 12,
-     "75778": 13,
-     "3506595": 14,
-     "5682768": 15,
-     "6892917": 16,
-     "4922092": 17,
-     "2934546": 18,
-     "2465483": 19,
-     "6279027": 20,
-     "865376": 21,
-     "7043406": 22,
-     "3314780": 23,
-     "6159011": 24,
-     "6051923": 25,
-     "6476662": 26
-    },
-    "totals": {
-     "3029346": 748,
-     "2321301": 747,
-     "735721": 727,
-     "1921902": 724,
-     "2687116": 721,
-     "3344797": 711,
-     "1655993": 699,
-     "1036311": 698,
-     "4487775": 684,
-     "3350483": 680,
-     "3072827": 679,
-     "5474293": 676,
-     "75778": 670,
-     "3506595": 665,
-     "5682768": 664,
-     "6892917": 663,
-     "4922092": 656,
-     "2934546": 654,
-     "2465483": 651,
-     "6279027": 646,
-     "865376": 642,
-     "7043406": 638,
-     "3314780": 637,
-     "6159011": 635,
-     "6051923": 612,
-     "6476662": 601
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "16": [
-      1,
-      0
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ]
-    },
-    "you_full_ts": "2026-11-21T18:45:59Z",
-    "next": {
-     "ko": "2026-11-22T14:00:00Z",
-     "match": "HUL v BHA"
-    }
    }
   ],
   "desk_day": {
@@ -11066,7 +11065,7 @@
     "6476662": 26
    }
   },
-  "desk_last_ok": "2026-11-22T14:42:23Z",
+  "desk_last_ok": "2026-11-22T15:18:27Z",
   "plots": [
    {
     "id": "title",
@@ -13014,10 +13013,8 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-22T15:06:22Z",
-  "issues": [
-   "desk written from older totals (6 managers changed since)"
-  ],
+  "ts": "2026-11-22T15:18:27Z",
+  "issues": [],
   "page": [],
   "wording": [
    "wording (1 points): ...↓ doesn't   1    Autosub:  van Ewijk  (1 pts) comes in...",
