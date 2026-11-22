@@ -10941,15 +10941,6 @@
     "event_total": 29
    },
    {
-    "entry": 1425044,
-    "player_name": "Manav Malhotra",
-    "entry_name": "Brain-Heart 11",
-    "rank": 43,
-    "last_rank": 39,
-    "total": 682,
-    "event_total": 28
-   },
-   {
     "entry": 13951,
     "player_name": "Sagar C",
     "entry_name": "Champs",
@@ -10957,6 +10948,15 @@
     "last_rank": 53,
     "total": 682,
     "event_total": 38
+   },
+   {
+    "entry": 1425044,
+    "player_name": "Manav Malhotra",
+    "entry_name": "Brain-Heart 11",
+    "rank": 43,
+    "last_rank": 39,
+    "total": 682,
+    "event_total": 28
    },
    {
     "entry": 4558790,
@@ -11103,15 +11103,6 @@
     "event_total": 21
    },
    {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
-    "rank": 61,
-    "last_rank": 64,
-    "total": 668,
-    "event_total": 33
-   },
-   {
     "entry": 2119331,
     "player_name": "Ajay Rachakonda",
     "entry_name": "Silent Violence",
@@ -11119,6 +11110,15 @@
     "last_rank": 55,
     "total": 668,
     "event_total": 25
+   },
+   {
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
+    "rank": 61,
+    "last_rank": 64,
+    "total": 668,
+    "event_total": 33
    },
    {
     "entry": 4632544,
@@ -59869,8 +59869,8 @@
    "3566356": 40,
    "10821": 41,
    "4151180": 41,
-   "1425044": 43,
    "13951": 43,
+   "1425044": 43,
    "4558790": 45,
    "480904": 45,
    "3560542": 45,
@@ -59887,8 +59887,8 @@
    "4134138": 58,
    "57776": 58,
    "4683090": 60,
-   "119259": 61,
    "2119331": 61,
+   "119259": 61,
    "4632544": 63,
    "383029": 64,
    "2569620": 64,
@@ -59984,8 +59984,8 @@
    "3566356": null,
    "10821": null,
    "4151180": null,
-   "1425044": null,
    "13951": null,
+   "1425044": null,
    "4558790": null,
    "480904": null,
    "3560542": null,
@@ -60002,8 +60002,8 @@
    "4134138": null,
    "57776": null,
    "4683090": null,
-   "119259": null,
    "2119331": null,
+   "119259": null,
    "4632544": null,
    "383029": null,
    "2569620": null,
@@ -60057,7 +60057,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T01:43:53Z",
+ "updated": "2026-11-22T01:54:39Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -66377,7 +66377,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T01:43:53Z",
+  "ts": "2026-11-22T01:54:39Z",
   "issues": [
    "desk written from older totals (2 managers changed since)"
   ],

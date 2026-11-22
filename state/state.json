@@ -3551,7 +3551,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T01:43:33Z",
+ "updated": "2026-11-22T01:54:19Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -15108,7 +15108,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T01:43:33Z",
+  "ts": "2026-11-22T01:54:19Z",
   "issues": [
    "desk written from older totals (1 managers changed since)"
   ],
