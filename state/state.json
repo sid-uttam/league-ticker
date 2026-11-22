@@ -3705,8 +3705,8 @@
    "5873092": 15,
    "7273369": 15,
    "3359227": 17,
-   "1457736": 18,
    "6341709": 18,
+   "1457736": 18,
    "75187": 20,
    "6619523": 20,
    "383423": 22,
@@ -3736,8 +3736,8 @@
    "5873092": null,
    "7273369": null,
    "3359227": null,
-   "1457736": null,
    "6341709": null,
+   "1457736": null,
    "75187": null,
    "6619523": null,
    "383423": null,
@@ -3750,7 +3750,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T17:18:41Z",
+ "updated": "2026-11-22T17:29:26Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6566,17 +6566,176 @@
     "plots": 11
    },
    "11": {
-    "in": 1295080,
-    "out": 277564,
-    "calls": 96,
+    "in": 1302478,
+    "out": 279921,
+    "calls": 98,
     "refreshes": 16,
-    "desks": 30,
-    "desk_in": 702382,
-    "desk_out": 230610,
+    "desks": 31,
+    "desk_in": 709780,
+    "desk_out": 232967,
     "plots": 2
    }
   },
   "desks": [
+   {
+    "headline": "Szoboszlai's goal and Isak's assist put Liverpool 2-0 up",
+    "text": "**Szoboszlai has scored in LIV v MUN, worth 9 points** to the 3 managers who started him, and Isak has set one up, worth **4 points** to the 7 managers who started him. At the top, Ayodele still leads Cherag by **10 points**, and the 45 minutes left in that match could decide whether Liverpool's goals keep stretching the gap.",
+    "you": {
+     "1092588": "3 managers benched Mbeumo, who is now on the pitch for LIV v MUN.",
+     "3219276": "Mbeumo, benched by 3 managers, is on the pitch and has 1 point so far.",
+     "573491": "Cherag is 3 points above you, with your Bench Boost already in play.",
+     "3323262": "Ravi's new signing Tavernier set up a goal for you earlier in the gameweek.",
+     "7471754": "You and Ahmad benched Belloumi, who has now set up a goal.",
+     "5489583": "You benched Mbeumo, who is on the pitch for LIV v MUN.",
+     "1378937": "You dropped to 10th today before climbing back to 8th.",
+     "4125292": "You have passed Hishaan today. Edd is 6 points above you.",
+     "363548": "Belloumi, whom you benched, has just set up a goal.",
+     "4922092": "Isak, your new signing, has set up a goal for you.",
+     "962024": "You were as high as 12th today and are now 13th. Maanav is 4 points behind.",
+     "4841175": "You have passed Will and Raushan today, with one player still to play for you.",
+     "7273369": "You have passed Raushan today, though Maanav has passed you.",
+     "5873092": "You have passed Raushan today, after dropping as low as 19th earlier.",
+     "3359227": "Maanav, Justin and Will have all passed you today.",
+     "1457736": "You have passed Lavesh today, and Tomisin sits directly below you.",
+     "6341709": "You have passed Dominic and Lavesh today.",
+     "75187": "Tomisin passed you today.",
+     "6619523": "Naishadh and Tomisin passed you today.",
+     "383423": "You climbed out of the Tin Pot, up 3 places this gameweek.",
+     "1474501": "Your captain Isak has assisted. He is worth 8 points on your armband.",
+     "5028423": "You have dropped into the Tin Pot spots.",
+     "3375627": "Your Triple Captain on Haaland has returned 6 points.",
+     "3591460": "Garner is still to play for you alone."
+    },
+    "ts": "2026-11-22T17:29:26Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:f:2-0|107:i:2-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "573491": 3,
+     "3323262": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "5489583": 7,
+     "1378937": 8,
+     "4125292": 9,
+     "363548": 10,
+     "4922092": 10,
+     "3506595": 12,
+     "962024": 13,
+     "4841175": 14,
+     "5873092": 15,
+     "7273369": 15,
+     "3359227": 17,
+     "6341709": 18,
+     "1457736": 18,
+     "75187": 20,
+     "6619523": 20,
+     "383423": 22,
+     "3552160": 23,
+     "1474501": 23,
+     "5028423": 25,
+     "3375627": 26,
+     "8316989": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 732,
+     "3219276": 722,
+     "573491": 719,
+     "3323262": 709,
+     "1541394": 699,
+     "7471754": 694,
+     "5489583": 677,
+     "1378937": 675,
+     "4125292": 669,
+     "363548": 668,
+     "4922092": 668,
+     "3506595": 666,
+     "962024": 665,
+     "4841175": 661,
+     "5873092": 654,
+     "7273369": 654,
+     "3359227": 651,
+     "6341709": 644,
+     "1457736": 644,
+     "75187": 641,
+     "6619523": 641,
+     "383423": 612,
+     "3552160": 610,
+     "1474501": 610,
+     "5028423": 603,
+     "3375627": 591,
+     "8316989": 590,
+     "3591460": 548,
+     "5706920": 472
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "286": [
+      0,
+      1
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "366": [
+      1,
+      0
+     ],
+     "368": [
+      1,
+      0
+     ],
+     "379": [
+      0,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ],
+     "499": [
+      0,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-22T16:42:12Z",
+    "next": {
+     "ko": "2026-11-23T20:00:00Z",
+     "match": "BRE v EVE"
+    }
+   },
    {
     "headline": "Wirtz scores 8 points for a lone Sasha start",
     "text": "Wirtz has scored and is worth **8 points**, but only Sasha started him, and Sasha is inactive. Meanwhile Szoboszlai has **9 points** in LIV v MUN, and Ayodele still leads Cherag by **10 points** at the top.",
@@ -7179,151 +7338,6 @@
      "ko": "2026-11-22T16:30:00Z",
      "match": "LIV v MUN"
     }
-   },
-   {
-    "headline": "Ayodele's top spot rests on Gakpo, Cherag has nothing left",
-    "text": "Ayodele holds top spot with **Gakpo** still to play for him alone, while Cherag sits **9 points** behind with no players left. Haaland's **2 points** on 22 armbands has left the table tight, and HUL v BHA is goalless, so Gakpo could stretch the lead or hold it.",
-    "you": {
-     "1092588": "Only you have Gakpo left to play, and he could widen your **9-point** lead over Cherag.",
-     "3219276": "Ayodele is 9 points above you, and you have no players left, so you can only wait.",
-     "573491": "Cherag is 3 points above you, and you still have 1 player to play.",
-     "3323262": "Isak is still to play for you alone, and he could help hold off Nanik, **5 points** behind.",
-     "1541394": "You have broken into the Gold spots, and Sid is 5 points above you.",
-     "7471754": "2 rivals benched Belloumi, who is now on the pitch, and you could gain on them.",
-     "5489583": "Tonna is 16 points above you, and Edd is 2 points behind you.",
-     "1378937": "Omar is 2 points above you, with Tarkowski still to play for you alone to make up ground.",
-     "363548": "You have passed Hishaan today, and Bhavik is level with you on 667 points.",
-     "4125292": "You have passed Hishaan today, and Cunha is still to play for you alone to add to that.",
-     "3506595": "Ahmad and Bhavik passed you today, but Jacquet is still to play for you alone.",
-     "4922092": "2 managers benched Calafiori, who is on the pitch, and Hishaan is 3 points above you.",
-     "962024": "Ravi is 3 points above you, and you have 2 players still to play.",
-     "4841175": "You have passed Will and Raushan today, with Groß already worth **6 points** on your armband.",
-     "3359227": "Your captain N.Jackson returned just 2 points, a flop you share with Naishadh.",
-     "7273369": "Maanav passed you today, and Raushan is 2 points behind you with one player still to play.",
-     "6619523": "Up 4 places this gameweek, from 21st to 17th, is a big move for your **41 points**.",
-     "5873092": "You dropped as low as 18th today and are back up to 17th, level with Naishadh.",
-     "1457736": "You have passed Lavesh today, and Justin is level with you on 643 points.",
-     "75187": "Down 3 places this gameweek, from 17th to 20th, and Lavesh is 4 points above you.",
-     "6341709": "Dominic is 7 points above you, and Ajayi is still to play for you alone.",
-     "383423": "You have climbed out of the Tin Pot, up 3 places this gameweek, with Tomisin 20 points above you.",
-     "5028423": "Barcola is still to play for you alone, and he could lift you from 23rd.",
-     "1474501": "You dropped as low as 24th today and are back up to 23rd, level with Isaiah.",
-     "3375627": "Saurabh is 3 points above you, and your Triple Captain on Haaland has returned 6 points.",
-     "3591460": "Elvin is 33 points above you, with Garner still to play for you alone."
-    },
-    "ts": "2026-11-22T15:05:18Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:i:0-0|107:n:0-0|108:f:1-1|109:f:2-2|110:f:2-0",
-    "ranks": {
-     "1092588": 1,
-     "3219276": 2,
-     "573491": 3,
-     "3323262": 4,
-     "1541394": 5,
-     "7471754": 6,
-     "5489583": 7,
-     "1378937": 8,
-     "363548": 9,
-     "4125292": 9,
-     "3506595": 11,
-     "4922092": 12,
-     "962024": 13,
-     "4841175": 14,
-     "7273369": 15,
-     "3359227": 16,
-     "5873092": 17,
-     "1457736": 17,
-     "6619523": 19,
-     "75187": 20,
-     "6341709": 21,
-     "383423": 22,
-     "5028423": 23,
-     "1474501": 23,
-     "3552160": 25,
-     "3375627": 26,
-     "8316989": 27,
-     "3591460": 28,
-     "5706920": 29
-    },
-    "totals": {
-     "1092588": 730,
-     "3219276": 721,
-     "573491": 718,
-     "3323262": 704,
-     "1541394": 699,
-     "7471754": 692,
-     "5489583": 676,
-     "1378937": 674,
-     "363548": 667,
-     "4125292": 667,
-     "3506595": 665,
-     "4922092": 662,
-     "962024": 659,
-     "4841175": 655,
-     "7273369": 652,
-     "3359227": 650,
-     "5873092": 643,
-     "1457736": 643,
-     "6619523": 641,
-     "75187": 637,
-     "6341709": 630,
-     "383423": 610,
-     "5028423": 601,
-     "1474501": 601,
-     "3552160": 592,
-     "3375627": 589,
-     "8316989": 579,
-     "3591460": 546,
-     "5706920": 463
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ],
-     "499": [
-      0,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-22T14:28:40Z",
-    "next": {
-     "ko": "2026-11-22T16:30:00Z",
-     "match": "LIV v MUN"
-    }
    }
   ],
   "desk_day": {
@@ -7360,7 +7374,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-22T16:55:39Z",
+  "desk_last_ok": "2026-11-22T17:29:26Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -8643,15 +8657,6 @@
     "event_total": 25
    },
    {
-    "entry": 1457736,
-    "player_name": "Naishadh Bhonsle",
-    "entry_name": "Sound of da Tzolis",
-    "rank": 18,
-    "last_rank": 16,
-    "total": 644,
-    "event_total": 29
-   },
-   {
     "entry": 6341709,
     "player_name": "Tomisin Adeshiyan",
     "entry_name": "Chalupa Batmen 3.0�",
@@ -8659,6 +8664,15 @@
     "last_rank": 20,
     "total": 644,
     "event_total": 41
+   },
+   {
+    "entry": 1457736,
+    "player_name": "Naishadh Bhonsle",
+    "entry_name": "Sound of da Tzolis",
+    "rank": 18,
+    "last_rank": 16,
+    "total": 644,
+    "event_total": 29
    },
    {
     "entry": 75187,
@@ -15375,7 +15389,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T17:18:41Z",
+  "ts": "2026-11-22T17:29:26Z",
   "issues": [],
   "page": [],
   "wording": [
