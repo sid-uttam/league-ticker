@@ -2444,8 +2444,8 @@
     "entry_name": "Lammo's Lads",
     "rank": 1,
     "last_rank": 2,
-    "total": 754,
-    "event_total": 32
+    "total": 767,
+    "event_total": 45
    },
    {
     "entry": 2321301,
@@ -2453,8 +2453,8 @@
     "entry_name": "Umm Suqeim FC",
     "rank": 2,
     "last_rank": 1,
-    "total": 751,
-    "event_total": 28
+    "total": 758,
+    "event_total": 35
    },
    {
     "entry": 735721,
@@ -2462,8 +2462,8 @@
     "entry_name": "2-Hype Toffees",
     "rank": 3,
     "last_rank": 3,
-    "total": 731,
-    "event_total": 23
+    "total": 738,
+    "event_total": 30
    },
    {
     "entry": 1921902,
@@ -2471,8 +2471,8 @@
     "entry_name": "Robby's Rebels",
     "rank": 4,
     "last_rank": 4,
-    "total": 728,
-    "event_total": 21
+    "total": 735,
+    "event_total": 28
    },
    {
     "entry": 2687116,
@@ -2480,8 +2480,8 @@
     "entry_name": "Bruno Dos Tres",
     "rank": 5,
     "last_rank": 5,
-    "total": 723,
-    "event_total": 27
+    "total": 732,
+    "event_total": 36
    },
    {
     "entry": 3344797,
@@ -2489,8 +2489,8 @@
     "entry_name": "orangeblaze78",
     "rank": 6,
     "last_rank": 6,
-    "total": 717,
-    "event_total": 43
+    "total": 730,
+    "event_total": 56
    },
    {
     "entry": 1655993,
@@ -2498,8 +2498,8 @@
     "entry_name": "RedArmy",
     "rank": 7,
     "last_rank": 8,
-    "total": 712,
-    "event_total": 45
+    "total": 726,
+    "event_total": 59
    },
    {
     "entry": 1036311,
@@ -2507,35 +2507,35 @@
     "entry_name": "AMFC 11",
     "rank": 8,
     "last_rank": 9,
-    "total": 704,
-    "event_total": 46
-   },
-   {
-    "entry": 4487775,
-    "player_name": "Prem Balani",
-    "entry_name": "Leaf Green",
-    "rank": 9,
-    "last_rank": 7,
-    "total": 687,
-    "event_total": 18
+    "total": 717,
+    "event_total": 59
    },
    {
     "entry": 3350483,
     "player_name": "Aashiv Adnani",
     "entry_name": "Aashiv's 11",
-    "rank": 10,
+    "rank": 9,
     "last_rank": 11,
-    "total": 684,
-    "event_total": 31
+    "total": 696,
+    "event_total": 43
    },
    {
     "entry": 3072827,
     "player_name": "Sunil Balani",
     "entry_name": "Red Devils United",
-    "rank": 11,
+    "rank": 10,
     "last_rank": 10,
-    "total": 683,
-    "event_total": 29
+    "total": 690,
+    "event_total": 36
+   },
+   {
+    "entry": 75778,
+    "player_name": "Marcel Smit",
+    "entry_name": "Magic Mikel",
+    "rank": 11,
+    "last_rank": 13,
+    "total": 688,
+    "event_total": 41
    },
    {
     "entry": 5474293,
@@ -2543,17 +2543,17 @@
     "entry_name": "Flick Ball",
     "rank": 12,
     "last_rank": 12,
-    "total": 680,
-    "event_total": 28
+    "total": 687,
+    "event_total": 35
    },
    {
-    "entry": 75778,
-    "player_name": "Marcel Smit",
-    "entry_name": "Magic Mikel",
-    "rank": 13,
-    "last_rank": 13,
-    "total": 675,
-    "event_total": 28
+    "entry": 4487775,
+    "player_name": "Prem Balani",
+    "entry_name": "Leaf Green",
+    "rank": 12,
+    "last_rank": 7,
+    "total": 687,
+    "event_total": 18
    },
    {
     "entry": 5682768,
@@ -2561,44 +2561,44 @@
     "entry_name": "super squad",
     "rank": 14,
     "last_rank": 15,
-    "total": 669,
-    "event_total": 35
-   },
-   {
-    "entry": 6892917,
-    "player_name": "Poonam Mahtani",
-    "entry_name": "Fifteen Fighters",
-    "rank": 15,
-    "last_rank": 14,
-    "total": 667,
-    "event_total": 31
-   },
-   {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 16,
-    "last_rank": 15,
-    "total": 665,
-    "event_total": 31
+    "total": 680,
+    "event_total": 46
    },
    {
     "entry": 4922092,
     "player_name": "Ravi Mahtani",
     "entry_name": "Ravi's Team",
-    "rank": 17,
+    "rank": 15,
     "last_rank": 17,
-    "total": 662,
-    "event_total": 33
+    "total": 675,
+    "event_total": 46
+   },
+   {
+    "entry": 6892917,
+    "player_name": "Poonam Mahtani",
+    "entry_name": "Fifteen Fighters",
+    "rank": 16,
+    "last_rank": 14,
+    "total": 674,
+    "event_total": 38
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 17,
+    "last_rank": 15,
+    "total": 665,
+    "event_total": 31
    },
    {
     "entry": 2465483,
     "player_name": "Inesh Uttamchandani",
     "entry_name": "Inu10",
-    "rank": 18,
+    "rank": 17,
     "last_rank": 18,
-    "total": 658,
-    "event_total": 30
+    "total": 665,
+    "event_total": 37
    },
    {
     "entry": 2934546,
@@ -2606,8 +2606,8 @@
     "entry_name": "Legends FC",
     "rank": 19,
     "last_rank": 19,
-    "total": 658,
-    "event_total": 30
+    "total": 665,
+    "event_total": 37
    },
    {
     "entry": 6279027,
@@ -2615,8 +2615,8 @@
     "entry_name": "AI 11",
     "rank": 20,
     "last_rank": 20,
-    "total": 647,
-    "event_total": 28
+    "total": 654,
+    "event_total": 35
    },
    {
     "entry": 865376,
@@ -2624,8 +2624,8 @@
     "entry_name": "Net Six and Chill",
     "rank": 21,
     "last_rank": 21,
-    "total": 643,
-    "event_total": 25
+    "total": 650,
+    "event_total": 32
    },
    {
     "entry": 7043406,
@@ -2633,8 +2633,8 @@
     "entry_name": "Rajiv's Team",
     "rank": 22,
     "last_rank": 22,
-    "total": 642,
-    "event_total": 29
+    "total": 649,
+    "event_total": 36
    },
    {
     "entry": 3314780,
@@ -2642,8 +2642,8 @@
     "entry_name": "Five Star XI",
     "rank": 23,
     "last_rank": 24,
-    "total": 640,
-    "event_total": 40
+    "total": 647,
+    "event_total": 47
    },
    {
     "entry": 6159011,
@@ -2651,8 +2651,8 @@
     "entry_name": "Egg Fried Guimarães",
     "rank": 24,
     "last_rank": 23,
-    "total": 639,
-    "event_total": 27
+    "total": 646,
+    "event_total": 34
    },
    {
     "entry": 6051923,
@@ -7616,6 +7616,22 @@
  },
  "stories": [
   {
+   "key": "l11:shuffle:2026-11-22T15",
+   "kind": "live",
+   "tag": "Table",
+   "head": "Table shuffle",
+   "body": "Up: Marcel 11th, Ravi Mahtani 15th. Down: Prem 12th.",
+   "stat": "3 on the move",
+   "score": 30,
+   "who": [
+    75778,
+    4487775,
+    4922092
+   ],
+   "ts": "2026-11-22T15:29:56Z",
+   "gw": 11
+  },
+  {
    "key": "d11:onpitch:286",
    "kind": "live",
    "tag": "Bench",
@@ -9139,7 +9155,8 @@
   "l11:ret:453:1:0:bench",
   "d11:regret:15:0:1",
   "d11:sold:16:1:0",
-  "d11:onpitch:286"
+  "d11:onpitch:286",
+  "l11:shuffle:2026-11-22T15"
  ],
  "done": [
   "deadline:10",
@@ -9284,10 +9301,10 @@
    "279": [
     0,
     0,
+    6,
     1,
     0,
-    0,
-    55,
+    67,
     0,
     0,
     0
@@ -9295,10 +9312,10 @@
    "286": [
     0,
     0,
+    3,
     1,
     0,
-    0,
-    55,
+    67,
     0,
     0,
     0
@@ -9317,10 +9334,10 @@
    "289": [
     0,
     0,
+    3,
     1,
     0,
-    0,
-    55,
+    67,
     0,
     0,
     0
@@ -9328,10 +9345,10 @@
    "290": [
     0,
     0,
+    3,
     1,
     0,
-    0,
-    55,
+    67,
     0,
     0,
     0
@@ -9438,10 +9455,10 @@
    "572": [
     0,
     0,
-    6,
+    11,
+    1,
     0,
-    0,
-    55,
+    67,
     0,
     0,
     0
@@ -9636,10 +9653,10 @@
    "109": [
     0,
     0,
-    2,
+    8,
+    1,
     0,
-    0,
-    55,
+    67,
     0,
     0,
     0
@@ -9691,10 +9708,10 @@
    "115": [
     0,
     0,
+    8,
     1,
     0,
-    0,
-    55,
+    67,
     0,
     0,
     0
@@ -9725,9 +9742,9 @@
     0,
     0,
     3,
+    1,
     0,
-    0,
-    55,
+    67,
     0,
     0,
     0
@@ -9735,10 +9752,10 @@
    "127": [
     0,
     0,
+    3,
     1,
     0,
-    0,
-    55,
+    67,
     0,
     0,
     0
@@ -10175,10 +10192,10 @@
    "504": [
     0,
     0,
+    5,
+    1,
     0,
-    0,
-    0,
-    55,
+    67,
     0,
     0,
     0
@@ -10220,17 +10237,17 @@
    "3344797": 6,
    "1655993": 7,
    "1036311": 8,
-   "4487775": 9,
-   "3350483": 10,
-   "3072827": 11,
+   "3350483": 9,
+   "3072827": 10,
+   "75778": 11,
    "5474293": 12,
-   "75778": 13,
+   "4487775": 12,
    "5682768": 14,
-   "6892917": 15,
-   "3506595": 16,
-   "4922092": 17,
-   "2465483": 18,
-   "2934546": 18,
+   "4922092": 15,
+   "6892917": 16,
+   "3506595": 17,
+   "2465483": 17,
+   "2934546": 17,
    "6279027": 20,
    "865376": 21,
    "7043406": 22,
@@ -10248,15 +10265,15 @@
    "3344797": "silver",
    "1655993": "silver",
    "1036311": "silver",
-   "4487775": null,
    "3350483": null,
    "3072827": null,
-   "5474293": null,
    "75778": null,
+   "5474293": null,
+   "4487775": null,
    "5682768": null,
+   "4922092": null,
    "6892917": null,
    "3506595": null,
-   "4922092": null,
    "2465483": null,
    "2934546": null,
    "6279027": null,
@@ -10268,7 +10285,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-22T15:18:27Z",
+ "updated": "2026-11-22T15:29:56Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -12224,8 +12241,8 @@
     "branch": "both",
     "status": {
      "state": "playing",
-     "label": "Playing · 1",
-     "pts": 1
+     "label": "Playing · 8",
+     "pts": 8
     }
    }
   ],
@@ -12339,8 +12356,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 3",
+      "pts": 3,
       "player": "Gomez"
      }
     ]
@@ -12392,8 +12409,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 2",
-      "pts": 2,
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Verbruggen"
      },
      {
@@ -12428,8 +12445,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Vuskovic"
      }
     ]
@@ -12479,8 +12496,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 2",
-      "pts": 2,
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Verbruggen"
      }
     ]
@@ -12536,8 +12553,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 2",
-      "pts": 2,
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Verbruggen"
      }
     ]
@@ -12561,8 +12578,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 3",
+      "pts": 3,
       "player": "Gomez"
      },
      {
@@ -12800,8 +12817,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Vuskovic"
      }
     ]
@@ -12897,8 +12914,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 3",
+      "pts": 3,
       "player": "Gomez"
      }
     ]
@@ -13013,11 +13030,13 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-22T15:18:27Z",
-  "issues": [],
+  "ts": "2026-11-22T15:29:56Z",
+  "issues": [
+   "desk written from older totals (22 managers changed since)"
+  ],
   "page": [],
   "wording": [
-   "wording (1 points): ...↓ doesn't   1    Autosub:  van Ewijk  (1 pts) comes in...",
+   "wording (1 points): ...nd Sahil ↓   1    Autosub:  van Ewijk  (1 pts) comes in...",
    "wording (1 points): ...y you start him   0    Autosub:  Neto  (1 pts) comes in...",
    "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        13...",
    "wording (1 points): ...d much from him.      Raya ARS   Scored 1 pts        13..."

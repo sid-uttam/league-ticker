@@ -1,6 +1,23 @@
 {
  "stories": [
   {
+   "key": "l11:shuffle:2026-11-22T15",
+   "kind": "live",
+   "tag": "Table",
+   "head": "Table shuffle",
+   "body": "Up: Ravi 9th. Down: Hishaan 14th, Edd 10th, Justin 19th.",
+   "stat": "4 on the move",
+   "score": 30,
+   "who": [
+    1378937,
+    3506595,
+    4922092,
+    5873092
+   ],
+   "ts": "2026-11-22T15:29:23Z",
+   "gw": 11
+  },
+  {
    "key": "l11:shuffle:2026-11-22T14",
    "kind": "live",
    "tag": "Table",
@@ -2282,7 +2299,8 @@
   "l11:ret:453:1:0:bench",
   "l11:shuffle:2026-11-21T19",
   "d11:onpitch:286",
-  "l11:shuffle:2026-11-22T14"
+  "l11:shuffle:2026-11-22T14",
+  "l11:shuffle:2026-11-22T15"
  ],
  "done": [
   "deadline:10",
@@ -2418,10 +2436,10 @@
    "279": [
     0,
     0,
+    6,
     1,
     0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -2451,10 +2469,10 @@
    "286": [
     0,
     0,
+    3,
     1,
     0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -2473,10 +2491,10 @@
    "290": [
     0,
     0,
+    3,
     1,
     0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -2627,10 +2645,10 @@
    "572": [
     0,
     0,
-    6,
+    11,
+    1,
     0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -2715,10 +2733,10 @@
    "586": [
     0,
     0,
+    5,
+    1,
     0,
-    0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -2869,10 +2887,10 @@
    "109": [
     0,
     0,
-    2,
+    8,
+    1,
     0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -2935,10 +2953,10 @@
    "115": [
     0,
     0,
+    8,
     1,
     0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -2969,9 +2987,9 @@
     0,
     0,
     3,
+    1,
     0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -2979,10 +2997,10 @@
    "127": [
     0,
     0,
+    3,
     1,
     0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -3001,10 +3019,10 @@
    "129": [
     0,
     0,
+    3,
     1,
     0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -3474,10 +3492,10 @@
    "504": [
     0,
     0,
+    5,
+    1,
     0,
-    0,
-    0,
-    53,
+    66,
     0,
     0,
     0
@@ -3529,23 +3547,23 @@
    "1541394": 5,
    "7471754": 6,
    "5489583": 7,
-   "1378937": 8,
-   "363548": 9,
-   "4125292": 9,
-   "3506595": 11,
-   "4922092": 12,
-   "962024": 13,
-   "4841175": 14,
+   "363548": 8,
+   "4922092": 9,
+   "1378937": 10,
+   "4125292": 10,
+   "962024": 12,
+   "4841175": 13,
+   "3506595": 14,
    "7273369": 15,
    "3359227": 16,
-   "5873092": 17,
    "1457736": 17,
-   "6619523": 19,
+   "6619523": 18,
+   "5873092": 19,
    "75187": 20,
    "6341709": 21,
    "383423": 22,
-   "5028423": 23,
    "1474501": 23,
+   "5028423": 24,
    "3552160": 25,
    "3375627": 26,
    "8316989": 27,
@@ -3560,23 +3578,23 @@
    "1541394": "silver",
    "7471754": "silver",
    "5489583": "silver",
-   "1378937": "silver",
-   "363548": null,
-   "4125292": null,
-   "3506595": null,
+   "363548": "silver",
    "4922092": null,
+   "1378937": null,
+   "4125292": null,
    "962024": null,
    "4841175": null,
+   "3506595": null,
    "7273369": null,
    "3359227": null,
-   "5873092": null,
    "1457736": null,
    "6619523": null,
+   "5873092": null,
    "75187": null,
    "6341709": null,
    "383423": null,
-   "5028423": null,
    "1474501": null,
+   "5028423": null,
    "3552160": "tinpot",
    "3375627": "tinpot",
    "8316989": "tinpot",
@@ -3584,7 +3602,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T15:16:43Z",
+ "updated": "2026-11-22T15:29:23Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6269,7 +6287,7 @@
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got just 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, while Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan, whose Barry captain returned 32 points, lifting him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16. The Haaland bloc is still the biggest storyline in this league, and it is still costing them."
   ],
-  "ts": "2026-11-22T14:40:13Z",
+  "ts": "2026-11-22T15:29:23Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -6400,10 +6418,10 @@
     "plots": 11
    },
    "11": {
-    "in": 1096526,
-    "out": 241543,
-    "calls": 80,
-    "refreshes": 13,
+    "in": 1133126,
+    "out": 242667,
+    "calls": 82,
+    "refreshes": 14,
     "desks": 26,
     "desk_in": 618175,
     "desk_out": 204751,
@@ -8305,8 +8323,8 @@
     "entry_name": "Ay",
     "rank": 1,
     "last_rank": 1,
-    "total": 730,
-    "event_total": 30
+    "total": 739,
+    "event_total": 39
    },
    {
     "entry": 3219276,
@@ -8314,8 +8332,8 @@
     "entry_name": "Pav Bhaji+Jodi Extra",
     "rank": 2,
     "last_rank": 2,
-    "total": 721,
-    "event_total": 29
+    "total": 728,
+    "event_total": 36
    },
    {
     "entry": 573491,
@@ -8323,8 +8341,8 @@
     "entry_name": "Saka Senapati XI",
     "rank": 3,
     "last_rank": 4,
-    "total": 718,
-    "event_total": 48
+    "total": 725,
+    "event_total": 55
    },
    {
     "entry": 3323262,
@@ -8332,8 +8350,8 @@
     "entry_name": "Choke City",
     "rank": 4,
     "last_rank": 3,
-    "total": 704,
-    "event_total": 33
+    "total": 711,
+    "event_total": 40
    },
    {
     "entry": 1541394,
@@ -8341,8 +8359,8 @@
     "entry_name": "Red Devils",
     "rank": 5,
     "last_rank": 5,
-    "total": 699,
-    "event_total": 36
+    "total": 706,
+    "event_total": 43
    },
    {
     "entry": 7471754,
@@ -8350,8 +8368,8 @@
     "entry_name": "Tonnatus",
     "rank": 6,
     "last_rank": 6,
-    "total": 692,
-    "event_total": 34
+    "total": 697,
+    "event_total": 39
    },
    {
     "entry": 5489583,
@@ -8359,71 +8377,71 @@
     "entry_name": "Boooooooca",
     "rank": 7,
     "last_rank": 8,
-    "total": 676,
-    "event_total": 32
-   },
-   {
-    "entry": 1378937,
-    "player_name": "Edd Moore",
-    "entry_name": "Wirtz My Jacquet",
-    "rank": 8,
-    "last_rank": 7,
-    "total": 674,
-    "event_total": 24
+    "total": 683,
+    "event_total": 39
    },
    {
     "entry": 363548,
     "player_name": "Ahmad Ali",
     "entry_name": "Crème De La Prèm",
-    "rank": 9,
+    "rank": 8,
     "last_rank": 12,
-    "total": 667,
-    "event_total": 37
-   },
-   {
-    "entry": 4125292,
-    "player_name": "Bhavik Desai",
-    "entry_name": "Shawshank Relegation",
-    "rank": 10,
-    "last_rank": 9,
-    "total": 667,
-    "event_total": 33
-   },
-   {
-    "entry": 3506595,
-    "player_name": "Hishaan Mahtani",
-    "entry_name": "Jacquet Potato",
-    "rank": 11,
-    "last_rank": 9,
-    "total": 665,
-    "event_total": 31
+    "total": 679,
+    "event_total": 49
    },
    {
     "entry": 4922092,
     "player_name": "Ravi Mahtani",
     "entry_name": "Ravi's Team",
-    "rank": 12,
+    "rank": 9,
     "last_rank": 13,
-    "total": 662,
-    "event_total": 33
+    "total": 675,
+    "event_total": 46
+   },
+   {
+    "entry": 1378937,
+    "player_name": "Edd Moore",
+    "entry_name": "Wirtz My Jacquet",
+    "rank": 10,
+    "last_rank": 7,
+    "total": 674,
+    "event_total": 24
+   },
+   {
+    "entry": 4125292,
+    "player_name": "Bhavik Desai",
+    "entry_name": "Shawshank Relegation",
+    "rank": 11,
+    "last_rank": 9,
+    "total": 674,
+    "event_total": 40
    },
    {
     "entry": 962024,
     "player_name": "Simon Morrison",
     "entry_name": "Kobbie Wan Kenobi",
-    "rank": 13,
+    "rank": 12,
     "last_rank": 11,
-    "total": 659,
-    "event_total": 28
+    "total": 672,
+    "event_total": 41
    },
    {
     "entry": 4841175,
     "player_name": "Maanav Sagar",
     "entry_name": "Brewmore",
-    "rank": 14,
+    "rank": 13,
     "last_rank": 19,
-    "total": 655,
-    "event_total": 50
+    "total": 668,
+    "event_total": 63
+   },
+   {
+    "entry": 3506595,
+    "player_name": "Hishaan Mahtani",
+    "entry_name": "Jacquet Potato",
+    "rank": 14,
+    "last_rank": 9,
+    "total": 665,
+    "event_total": 31
    },
    {
     "entry": 7273369,
@@ -8431,8 +8449,8 @@
     "entry_name": "eyezil",
     "rank": 15,
     "last_rank": 15,
-    "total": 652,
-    "event_total": 33
+    "total": 659,
+    "event_total": 40
    },
    {
     "entry": 3359227,
@@ -8440,35 +8458,35 @@
     "entry_name": "Raus' XV",
     "rank": 16,
     "last_rank": 14,
-    "total": 650,
-    "event_total": 24
-   },
-   {
-    "entry": 5873092,
-    "player_name": "Justin Deniese",
-    "entry_name": "The Bench",
-    "rank": 17,
-    "last_rank": 17,
-    "total": 643,
+    "total": 657,
     "event_total": 31
    },
    {
     "entry": 1457736,
     "player_name": "Naishadh Bhonsle",
     "entry_name": "Sound of da Tzolis",
-    "rank": 18,
+    "rank": 17,
     "last_rank": 16,
-    "total": 643,
-    "event_total": 28
+    "total": 649,
+    "event_total": 34
    },
    {
     "entry": 6619523,
     "player_name": "Lavesh Sakhrani",
     "entry_name": "Lav's Elite",
-    "rank": 19,
+    "rank": 18,
     "last_rank": 21,
-    "total": 641,
-    "event_total": 41
+    "total": 648,
+    "event_total": 48
+   },
+   {
+    "entry": 5873092,
+    "player_name": "Justin Deniese",
+    "entry_name": "The Bench",
+    "rank": 19,
+    "last_rank": 17,
+    "total": 643,
+    "event_total": 31
    },
    {
     "entry": 75187,
@@ -8476,8 +8494,8 @@
     "entry_name": "Enzo in the City",
     "rank": 20,
     "last_rank": 18,
-    "total": 637,
-    "event_total": 25
+    "total": 642,
+    "event_total": 30
    },
    {
     "entry": 6341709,
@@ -8485,8 +8503,8 @@
     "entry_name": "Chalupa Batmen 3.0�",
     "rank": 21,
     "last_rank": 20,
-    "total": 630,
-    "event_total": 27
+    "total": 637,
+    "event_total": 34
    },
    {
     "entry": 383423,
@@ -8494,26 +8512,26 @@
     "entry_name": "Quantum of Tzolis",
     "rank": 22,
     "last_rank": 25,
-    "total": 610,
+    "total": 617,
+    "event_total": 43
+   },
+   {
+    "entry": 1474501,
+    "player_name": "Dinesh Relwani",
+    "entry_name": "Lovdenya Bhojyam",
+    "rank": 23,
+    "last_rank": 24,
+    "total": 614,
     "event_total": 36
    },
    {
     "entry": 5028423,
     "player_name": "Isaiah page",
     "entry_name": "Kolo's sidepiece",
-    "rank": 23,
-    "last_rank": 23,
-    "total": 601,
-    "event_total": 22
-   },
-   {
-    "entry": 1474501,
-    "player_name": "Dinesh Relwani",
-    "entry_name": "Lovdenya Bhojyam",
     "rank": 24,
-    "last_rank": 24,
-    "total": 601,
-    "event_total": 23
+    "last_rank": 23,
+    "total": 608,
+    "event_total": 29
    },
    {
     "entry": 3552160,
@@ -8530,8 +8548,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 589,
-    "event_total": 35
+    "total": 591,
+    "event_total": 37
    },
    {
     "entry": 8316989,
@@ -8548,8 +8566,8 @@
     "entry_name": "GoonerVision",
     "rank": 28,
     "last_rank": 28,
-    "total": 546,
-    "event_total": 25
+    "total": 553,
+    "event_total": 32
    },
    {
     "entry": 5706920,
@@ -14417,8 +14435,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 3",
+      "pts": 3,
       "player": "Gomez"
      }
     ]
@@ -14469,8 +14487,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Vuskovic"
      },
      {
@@ -14523,8 +14541,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 2",
-      "pts": 2,
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Verbruggen"
      }
     ]
@@ -14544,8 +14562,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Vuskovic"
      }
     ]
@@ -14653,8 +14671,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 2",
-      "pts": 2,
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Verbruggen"
      },
      {
@@ -14717,8 +14735,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 2",
-      "pts": 2,
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Verbruggen"
      }
     ]
@@ -14802,8 +14820,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 2",
-      "pts": 2,
+      "label": "Playing · 8",
+      "pts": 8,
       "player": "Verbruggen"
      }
     ]
@@ -14928,8 +14946,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Vuskovic"
      },
      {
@@ -15174,14 +15192,15 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T15:16:43Z",
-  "issues": [],
+  "ts": "2026-11-22T15:29:23Z",
+  "issues": [
+   "desk written from older totals (23 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...IB ↑ doesn't   1    Autosub:  Cherif  (1 pts) comes in...",
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
-   "wording (1 points): ...ained 6 on you.      Konsa ARS   Scored 1 pts        13...",
-   "wording (1 points): ...ned much from him.      De Cuyper BHA   1 pts so far..."
+   "wording (1 points): ...ained 6 on you.      Konsa ARS   Scored 1 pts        13..."
   ]
  },
  "pwatch": {
