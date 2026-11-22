@@ -3551,7 +3551,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T13:53:00Z",
+ "updated": "2026-11-22T14:03:44Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6367,13 +6367,13 @@
     "plots": 11
    },
    "11": {
-    "in": 964694,
-    "out": 201375,
-    "calls": 70,
+    "in": 987989,
+    "out": 209504,
+    "calls": 72,
     "refreshes": 12,
-    "desks": 22,
-    "desk_in": 522997,
-    "desk_out": 166446,
+    "desks": 23,
+    "desk_in": 546292,
+    "desk_out": 174575,
     "plots": 1
    }
   },
@@ -8248,6 +8248,12 @@
   },
   "plots_sig_tries": {
    "10:n:b09a97969469": 1
+  },
+  "desk_try": {
+   "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:i:0-0|107:n:0-0|108:f:1-1|109:f:2-2|110:f:2-0",
+   "ts": "2026-11-22T14:03:44Z",
+   "draft": "Haaland blanks on 22 armbands as Ayodele holds top | **Haaland** blanked on **22 armbands**, yet **Ayodele** still leads Cherag by **11 points** at the top with HUL v BHA goalless. Cherag has no players left to play, so only Ayodele's **Gakpo** can still move the top spot.",
+   "why": "fact-check: ['headline', 'you:573491', 'you:5873092']"
   }
  },
  "league": {
@@ -14371,8 +14377,9 @@
       "player": "Robertson"
      },
      {
-      "state": "to_play",
-      "label": "Still to play",
+      "state": "playing",
+      "label": "Playing · 0",
+      "pts": 0,
       "player": "Gomez"
      }
     ]
@@ -14422,8 +14429,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "to_play",
-      "label": "Still to play",
+      "state": "playing",
+      "label": "Playing · 0",
+      "pts": 0,
       "player": "Vuskovic"
      },
      {
@@ -14475,8 +14483,9 @@
       "player": "Isak"
      },
      {
-      "state": "to_play",
-      "label": "Still to play",
+      "state": "playing",
+      "label": "Playing · 0",
+      "pts": 0,
       "player": "Verbruggen"
      }
     ]
@@ -14495,8 +14504,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "to_play",
-      "label": "Still to play",
+      "state": "playing",
+      "label": "Playing · 0",
+      "pts": 0,
       "player": "Vuskovic"
      }
     ]
@@ -14603,8 +14613,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "to_play",
-      "label": "Still to play",
+      "state": "playing",
+      "label": "Playing · 0",
+      "pts": 0,
       "player": "Verbruggen"
      },
      {
@@ -14666,8 +14677,9 @@
       "player": "Isak"
      },
      {
-      "state": "to_play",
-      "label": "Still to play",
+      "state": "playing",
+      "label": "Playing · 0",
+      "pts": 0,
       "player": "Verbruggen"
      }
     ]
@@ -14750,8 +14762,9 @@
       "player": "Isak"
      },
      {
-      "state": "to_play",
-      "label": "Still to play",
+      "state": "playing",
+      "label": "Playing · 0",
+      "pts": 0,
       "player": "Verbruggen"
      }
     ]
@@ -14875,8 +14888,9 @@
     "text": "Tonna's dream week: if Vuskovic and Kinsky both haul, Tonna could pass you.",
     "status": [
      {
-      "state": "to_play",
-      "label": "Still to play",
+      "state": "playing",
+      "label": "Playing · 0",
+      "pts": 0,
       "player": "Vuskovic"
      },
      {
@@ -15121,7 +15135,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T13:53:00Z",
+  "ts": "2026-11-22T14:03:44Z",
   "issues": [],
   "page": [],
   "wording": [
