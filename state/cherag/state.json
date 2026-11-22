@@ -10932,15 +10932,6 @@
     "event_total": 29
    },
    {
-    "entry": 480904,
-    "player_name": "Nehal Reddy",
-    "entry_name": "Bangchester United",
-    "rank": 42,
-    "last_rank": 35,
-    "total": 688,
-    "event_total": 29
-   },
-   {
     "entry": 10821,
     "player_name": "Ram Narayan",
     "entry_name": "FPL Neutral",
@@ -10948,6 +10939,15 @@
     "last_rank": 48,
     "total": 688,
     "event_total": 40
+   },
+   {
+    "entry": 480904,
+    "player_name": "Nehal Reddy",
+    "entry_name": "Bangchester United",
+    "rank": 42,
+    "last_rank": 35,
+    "total": 688,
+    "event_total": 29
    },
    {
     "entry": 32831,
@@ -11202,15 +11202,6 @@
     "event_total": 37
    },
    {
-    "entry": 26707,
-    "player_name": "Krishnaji Sanas",
-    "entry_name": "Victorious Secrets",
-    "rank": 72,
-    "last_rank": 60,
-    "total": 662,
-    "event_total": 23
-   },
-   {
     "entry": 10615,
     "player_name": "Maanas Gupta",
     "entry_name": "Infinity Inc",
@@ -11218,6 +11209,15 @@
     "last_rank": 72,
     "total": 662,
     "event_total": 36
+   },
+   {
+    "entry": 26707,
+    "player_name": "Krishnaji Sanas",
+    "entry_name": "Victorious Secrets",
+    "rank": 72,
+    "last_rank": 60,
+    "total": 662,
+    "event_total": 23
    },
    {
     "entry": 3086063,
@@ -60580,8 +60580,8 @@
    "4151180": 39,
    "5640988": 40,
    "257074": 40,
-   "480904": 42,
    "10821": 42,
+   "480904": 42,
    "32831": 44,
    "13951": 44,
    "1425044": 44,
@@ -60610,8 +60610,8 @@
    "4372346": 69,
    "2569620": 70,
    "4592187": 70,
-   "26707": 72,
    "10615": 72,
+   "26707": 72,
    "3086063": 74,
    "4314690": 75,
    "6830291": 76,
@@ -60695,8 +60695,8 @@
    "4151180": null,
    "5640988": null,
    "257074": null,
-   "480904": null,
    "10821": null,
+   "480904": null,
    "32831": null,
    "13951": null,
    "1425044": null,
@@ -60725,8 +60725,8 @@
    "4372346": null,
    "2569620": null,
    "4592187": null,
-   "26707": null,
    "10615": null,
+   "26707": null,
    "3086063": null,
    "4314690": null,
    "6830291": null,
@@ -60769,7 +60769,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T18:30:18Z",
+ "updated": "2026-11-22T18:43:19Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67194,7 +67194,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T18:30:18Z",
+  "ts": "2026-11-22T18:43:19Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -67701,7 +67701,7 @@
    "45": "10:up",
    "200": "10:down",
    "173": "10:down",
-   "334": "10:up",
+   "334": "11:up",
    "127": "10:up",
    "286": "10:down",
    "411": "11:down",
@@ -68476,6 +68476,12 @@
     "el": 449,
     "kind": "surge",
     "net": -25474
+   },
+   {
+    "ts": "2026-11-22T18:43:19Z",
+    "el": 334,
+    "kind": "surge",
+    "net": 25167
    }
   ]
  },
