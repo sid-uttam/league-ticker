@@ -10932,15 +10932,6 @@
     "event_total": 35
    },
    {
-    "entry": 13951,
-    "player_name": "Sagar C",
-    "entry_name": "Champs",
-    "rank": 42,
-    "last_rank": 53,
-    "total": 687,
-    "event_total": 43
-   },
-   {
     "entry": 1425044,
     "player_name": "Manav Malhotra",
     "entry_name": "Brain-Heart 11",
@@ -10948,6 +10939,15 @@
     "last_rank": 39,
     "total": 687,
     "event_total": 33
+   },
+   {
+    "entry": 13951,
+    "player_name": "Sagar C",
+    "entry_name": "Champs",
+    "rank": 42,
+    "last_rank": 53,
+    "total": 687,
+    "event_total": 43
    },
    {
     "entry": 257074,
@@ -10995,15 +10995,6 @@
     "event_total": 21
    },
    {
-    "entry": 119217,
-    "player_name": "Kunaal Dadwal",
-    "entry_name": "Chutzpah",
-    "rank": 49,
-    "last_rank": 56,
-    "total": 683,
-    "event_total": 41
-   },
-   {
     "entry": 480904,
     "player_name": "Nehal Reddy",
     "entry_name": "Bangchester United",
@@ -11011,6 +11002,15 @@
     "last_rank": 35,
     "total": 683,
     "event_total": 24
+   },
+   {
+    "entry": 119217,
+    "player_name": "Kunaal Dadwal",
+    "entry_name": "Chutzpah",
+    "rank": 49,
+    "last_rank": 56,
+    "total": 683,
+    "event_total": 41
    },
    {
     "entry": 3654448,
@@ -11040,15 +11040,6 @@
     "event_total": 38
    },
    {
-    "entry": 48343,
-    "player_name": "hardik s",
-    "entry_name": "Pez Dispensers",
-    "rank": 54,
-    "last_rank": 52,
-    "total": 678,
-    "event_total": 37
-   },
-   {
     "entry": 4540238,
     "player_name": "Shrivar Goenka",
     "entry_name": "SG XI",
@@ -11056,6 +11047,15 @@
     "last_rank": 61,
     "total": 678,
     "event_total": 41
+   },
+   {
+    "entry": 48343,
+    "player_name": "hardik s",
+    "entry_name": "Pez Dispensers",
+    "rank": 54,
+    "last_rank": 52,
+    "total": 678,
+    "event_total": 37
    },
    {
     "entry": 1443362,
@@ -11382,15 +11382,6 @@
     "event_total": 42
    },
    {
-    "entry": 5734029,
-    "player_name": "Vivek Kumar",
-    "entry_name": "Bluelock",
-    "rank": 92,
-    "last_rank": 92,
-    "total": 632,
-    "event_total": 32
-   },
-   {
     "entry": 3389995,
     "player_name": "Stephen Menezes",
     "entry_name": "Goal Diggers",
@@ -11398,6 +11389,15 @@
     "last_rank": 87,
     "total": 632,
     "event_total": 27
+   },
+   {
+    "entry": 5734029,
+    "player_name": "Vivek Kumar",
+    "entry_name": "Bluelock",
+    "rank": 92,
+    "last_rank": 92,
+    "total": 632,
+    "event_total": 32
    },
    {
     "entry": 3794959,
@@ -60294,20 +60294,20 @@
    "5640988": 38,
    "10821": 40,
    "32831": 41,
-   "13951": 41,
    "1425044": 41,
+   "13951": 41,
    "257074": 41,
    "4558790": 45,
    "3560542": 45,
    "3239284": 45,
    "249619": 48,
-   "119217": 49,
    "480904": 49,
+   "119217": 49,
    "3654448": 49,
    "248721": 52,
    "2932096": 53,
-   "48343": 53,
    "4540238": 53,
+   "48343": 53,
    "1443362": 53,
    "675013": 57,
    "119259": 58,
@@ -60344,8 +60344,8 @@
    "2037953": 89,
    "5660348": 90,
    "907691": 90,
-   "5734029": 92,
    "3389995": 92,
+   "5734029": 92,
    "3794959": 94,
    "3298199": 94,
    "4905114": 96,
@@ -60409,20 +60409,20 @@
    "5640988": null,
    "10821": null,
    "32831": null,
-   "13951": null,
    "1425044": null,
+   "13951": null,
    "257074": null,
    "4558790": null,
    "3560542": null,
    "3239284": null,
    "249619": null,
-   "119217": null,
    "480904": null,
+   "119217": null,
    "3654448": null,
    "248721": null,
    "2932096": null,
-   "48343": null,
    "4540238": null,
+   "48343": null,
    "1443362": null,
    "675013": null,
    "119259": null,
@@ -60459,8 +60459,8 @@
    "2037953": null,
    "5660348": null,
    "907691": null,
-   "5734029": null,
    "3389995": null,
+   "5734029": null,
    "3794959": null,
    "3298199": null,
    "4905114": null,
@@ -60483,7 +60483,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T16:06:02Z",
+ "updated": "2026-11-22T16:19:26Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -66775,7 +66775,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T16:06:02Z",
+  "ts": "2026-11-22T16:19:26Z",
   "issues": [],
   "page": [],
   "wording": [
