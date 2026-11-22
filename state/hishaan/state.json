@@ -2444,8 +2444,8 @@
     "entry_name": "Lammo's Lads",
     "rank": 1,
     "last_rank": 2,
-    "total": 755,
-    "event_total": 33
+    "total": 754,
+    "event_total": 32
    },
    {
     "entry": 2321301,
@@ -2489,8 +2489,8 @@
     "entry_name": "orangeblaze78",
     "rank": 6,
     "last_rank": 6,
-    "total": 718,
-    "event_total": 44
+    "total": 717,
+    "event_total": 43
    },
    {
     "entry": 1655993,
@@ -2507,8 +2507,8 @@
     "entry_name": "AMFC 11",
     "rank": 8,
     "last_rank": 9,
-    "total": 705,
-    "event_total": 47
+    "total": 704,
+    "event_total": 46
    },
    {
     "entry": 4487775,
@@ -2552,8 +2552,8 @@
     "entry_name": "Magic Mikel",
     "rank": 13,
     "last_rank": 13,
-    "total": 676,
-    "event_total": 29
+    "total": 675,
+    "event_total": 28
    },
    {
     "entry": 5682768,
@@ -2561,8 +2561,8 @@
     "entry_name": "super squad",
     "rank": 14,
     "last_rank": 15,
-    "total": 670,
-    "event_total": 36
+    "total": 669,
+    "event_total": 35
    },
    {
     "entry": 6892917,
@@ -2588,8 +2588,8 @@
     "entry_name": "Ravi's Team",
     "rank": 17,
     "last_rank": 17,
-    "total": 663,
-    "event_total": 34
+    "total": 662,
+    "event_total": 33
    },
    {
     "entry": 2934546,
@@ -9287,7 +9287,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -9298,7 +9298,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -9320,7 +9320,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -9331,7 +9331,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -9441,7 +9441,7 @@
     5,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -9639,7 +9639,7 @@
     2,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -9694,7 +9694,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -9727,7 +9727,7 @@
     3,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -9738,7 +9738,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -10178,7 +10178,7 @@
     0,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -10268,7 +10268,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-22T14:44:01Z",
+ "updated": "2026-11-22T14:54:57Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -13014,7 +13014,7 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-22T14:44:01Z",
+  "ts": "2026-11-22T14:54:57Z",
   "issues": [
    "desk written from older totals (6 managers changed since)"
   ],

@@ -10887,15 +10887,6 @@
     "event_total": 32
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 37,
-    "last_rank": 37,
-    "total": 688,
-    "event_total": 34
-   },
-   {
     "entry": 3566356,
     "player_name": "Jackey Boro",
     "entry_name": "Jackey's Team",
@@ -10903,6 +10894,15 @@
     "last_rank": 45,
     "total": 688,
     "event_total": 39
+   },
+   {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 37,
+    "last_rank": 37,
+    "total": 688,
+    "event_total": 34
    },
    {
     "entry": 32831,
@@ -10968,15 +10968,6 @@
     "event_total": 34
    },
    {
-    "entry": 3560542,
-    "player_name": "Sandeepan Bhattacharya",
-    "entry_name": "Amad season ahead",
-    "rank": 46,
-    "last_rank": 65,
-    "total": 685,
-    "event_total": 50
-   },
-   {
     "entry": 3239284,
     "player_name": "Kabeerr Naayar",
     "entry_name": "KABS0507",
@@ -10984,6 +10975,15 @@
     "last_rank": 50,
     "total": 685,
     "event_total": 37
+   },
+   {
+    "entry": 3560542,
+    "player_name": "Sandeepan Bhattacharya",
+    "entry_name": "Amad season ahead",
+    "rank": 46,
+    "last_rank": 65,
+    "total": 685,
+    "event_total": 50
    },
    {
     "entry": 249619,
@@ -11076,15 +11076,6 @@
     "event_total": 23
    },
    {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
-    "rank": 58,
-    "last_rank": 64,
-    "total": 674,
-    "event_total": 39
-   },
-   {
     "entry": 4134138,
     "player_name": "Rishab Bajaj",
     "entry_name": "Rishabs11",
@@ -11092,6 +11083,15 @@
     "last_rank": 44,
     "total": 674,
     "event_total": 24
+   },
+   {
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
+    "rank": 58,
+    "last_rank": 64,
+    "total": 674,
+    "event_total": 39
    },
    {
     "entry": 4683090,
@@ -11319,15 +11319,6 @@
     "event_total": 28
    },
    {
-    "entry": 2424472,
-    "player_name": "Apoorvo Choudhary",
-    "entry_name": "Brian Boobey",
-    "rank": 85,
-    "last_rank": 79,
-    "total": 640,
-    "event_total": 23
-   },
-   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -11335,6 +11326,15 @@
     "last_rank": 89,
     "total": 640,
     "event_total": 36
+   },
+   {
+    "entry": 2424472,
+    "player_name": "Apoorvo Choudhary",
+    "entry_name": "Brian Boobey",
+    "rank": 85,
+    "last_rank": 79,
+    "total": 640,
+    "event_total": 23
    },
    {
     "entry": 686561,
@@ -58578,7 +58578,7 @@
     5,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -58633,7 +58633,7 @@
     0,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -58765,7 +58765,7 @@
     2,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -58831,7 +58831,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -58853,7 +58853,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -58864,7 +58864,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -58875,7 +58875,7 @@
     3,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -58886,7 +58886,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -59282,7 +59282,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -59293,7 +59293,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -59315,7 +59315,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -59326,7 +59326,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -59337,7 +59337,7 @@
     1,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -59920,7 +59920,7 @@
     0,
     0,
     0,
-    40,
+    45,
     0,
     0,
     0
@@ -59975,8 +59975,8 @@
    "710718": 34,
    "42960": 35,
    "698784": 35,
-   "4151180": 37,
    "3566356": 37,
+   "4151180": 37,
    "32831": 39,
    "10821": 39,
    "5640988": 39,
@@ -59984,8 +59984,8 @@
    "13951": 42,
    "257074": 42,
    "4558790": 45,
-   "3560542": 45,
    "3239284": 45,
+   "3560542": 45,
    "249619": 48,
    "480904": 49,
    "119217": 50,
@@ -59996,8 +59996,8 @@
    "4540238": 54,
    "1443362": 54,
    "675013": 57,
-   "119259": 58,
    "4134138": 58,
+   "119259": 58,
    "4683090": 60,
    "2119331": 61,
    "57776": 62,
@@ -60023,8 +60023,8 @@
    "174952": 82,
    "11673": 83,
    "3350036": 84,
-   "2424472": 84,
    "2723973": 84,
+   "2424472": 84,
    "686561": 87,
    "2037953": 87,
    "699330": 87,
@@ -60090,8 +60090,8 @@
    "710718": null,
    "42960": null,
    "698784": null,
-   "4151180": null,
    "3566356": null,
+   "4151180": null,
    "32831": null,
    "10821": null,
    "5640988": null,
@@ -60099,8 +60099,8 @@
    "13951": null,
    "257074": null,
    "4558790": null,
-   "3560542": null,
    "3239284": null,
+   "3560542": null,
    "249619": null,
    "480904": null,
    "119217": null,
@@ -60111,8 +60111,8 @@
    "4540238": null,
    "1443362": null,
    "675013": null,
-   "119259": null,
    "4134138": null,
+   "119259": null,
    "4683090": null,
    "2119331": null,
    "57776": null,
@@ -60138,8 +60138,8 @@
    "174952": null,
    "11673": null,
    "3350036": null,
-   "2424472": null,
    "2723973": null,
+   "2424472": null,
    "686561": null,
    "2037953": null,
    "699330": null,
@@ -60169,7 +60169,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T14:43:56Z",
+ "updated": "2026-11-22T14:54:41Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -60203,7 +60203,7 @@
    "6034028": "{'head': 'Aryan Apte', 'body': \"You are 32nd on 687 after 43 this week, with Silva's armband worth 16. Sidharth is level on points, so the close battle is on.\"}"
   },
   "key": "11:live",
-  "ts": "2026-11-22T14:18:02Z",
+  "ts": "2026-11-22T14:54:41Z",
   "usage": {
    "10": {
     "in": 1227421,
@@ -60216,10 +60216,10 @@
     "plots": 4
    },
    "11": {
-    "in": 2648811,
-    "out": 452939,
-    "calls": 178,
-    "refreshes": 14,
+    "in": 2681467,
+    "out": 455753,
+    "calls": 180,
+    "refreshes": 15,
     "desks": 23,
     "desk_in": 2177186,
     "desk_out": 418972,
@@ -66514,7 +66514,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T14:43:56Z",
+  "ts": "2026-11-22T14:54:41Z",
   "issues": [
    "desk written from older totals (37 managers changed since)"
   ],
