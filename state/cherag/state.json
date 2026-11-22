@@ -10887,15 +10887,6 @@
     "event_total": 23
    },
    {
-    "entry": 698784,
-    "player_name": "Zorawar Bobinmaker",
-    "entry_name": "11 Spartans",
-    "rank": 37,
-    "last_rank": 36,
-    "total": 685,
-    "event_total": 27
-   },
-   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10903,6 +10894,15 @@
     "last_rank": 45,
     "total": 685,
     "event_total": 36
+   },
+   {
+    "entry": 698784,
+    "player_name": "Zorawar Bobinmaker",
+    "entry_name": "11 Spartans",
+    "rank": 37,
+    "last_rank": 36,
+    "total": 685,
+    "event_total": 27
    },
    {
     "entry": 257074,
@@ -10923,15 +10923,6 @@
     "event_total": 35
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 41,
-    "last_rank": 48,
-    "total": 683,
-    "event_total": 35
-   },
-   {
     "entry": 4151180,
     "player_name": "kashish dadwal",
     "entry_name": "Palmer's Angels",
@@ -10941,13 +10932,13 @@
     "event_total": 29
    },
    {
-    "entry": 1425044,
-    "player_name": "Manav Malhotra",
-    "entry_name": "Brain-Heart 11",
-    "rank": 43,
-    "last_rank": 39,
-    "total": 682,
-    "event_total": 28
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 41,
+    "last_rank": 48,
+    "total": 683,
+    "event_total": 35
    },
    {
     "entry": 13951,
@@ -10957,6 +10948,15 @@
     "last_rank": 53,
     "total": 682,
     "event_total": 38
+   },
+   {
+    "entry": 1425044,
+    "player_name": "Manav Malhotra",
+    "entry_name": "Brain-Heart 11",
+    "rank": 43,
+    "last_rank": 39,
+    "total": 682,
+    "event_total": 28
    },
    {
     "entry": 4558790,
@@ -11103,15 +11103,6 @@
     "event_total": 21
    },
    {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
-    "rank": 61,
-    "last_rank": 64,
-    "total": 668,
-    "event_total": 33
-   },
-   {
     "entry": 2119331,
     "player_name": "Ajay Rachakonda",
     "entry_name": "Silent Violence",
@@ -11119,6 +11110,15 @@
     "last_rank": 55,
     "total": 668,
     "event_total": 25
+   },
+   {
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
+    "rank": 61,
+    "last_rank": 64,
+    "total": 668,
+    "event_total": 33
    },
    {
     "entry": 4632544,
@@ -11337,6 +11337,15 @@
     "event_total": 24
    },
    {
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
+    "rank": 87,
+    "last_rank": 89,
+    "total": 636,
+    "event_total": 32
+   },
+   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -11353,15 +11362,6 @@
     "last_rank": 79,
     "total": 636,
     "event_total": 19
-   },
-   {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
-    "rank": 87,
-    "last_rank": 89,
-    "total": 636,
-    "event_total": 32
    },
    {
     "entry": 907691,
@@ -59863,14 +59863,14 @@
    "42960": 34,
    "263779": 34,
    "710718": 36,
-   "698784": 36,
    "5640988": 36,
+   "698784": 36,
    "257074": 36,
    "3566356": 40,
-   "10821": 41,
    "4151180": 41,
-   "1425044": 43,
+   "10821": 41,
    "13951": 43,
+   "1425044": 43,
    "4558790": 45,
    "480904": 45,
    "3560542": 45,
@@ -59887,8 +59887,8 @@
    "4134138": 58,
    "57776": 58,
    "4683090": 60,
-   "119259": 61,
    "2119331": 61,
+   "119259": 61,
    "4632544": 63,
    "383029": 64,
    "2569620": 64,
@@ -59913,9 +59913,9 @@
    "11673": 84,
    "699330": 84,
    "3350036": 86,
+   "2037953": 86,
    "2723973": 86,
    "2424472": 86,
-   "2037953": 86,
    "907691": 90,
    "3389995": 91,
    "3298199": 91,
@@ -59978,14 +59978,14 @@
    "42960": null,
    "263779": null,
    "710718": null,
-   "698784": null,
    "5640988": null,
+   "698784": null,
    "257074": null,
    "3566356": null,
-   "10821": null,
    "4151180": null,
-   "1425044": null,
+   "10821": null,
    "13951": null,
+   "1425044": null,
    "4558790": null,
    "480904": null,
    "3560542": null,
@@ -60002,8 +60002,8 @@
    "4134138": null,
    "57776": null,
    "4683090": null,
-   "119259": null,
    "2119331": null,
+   "119259": null,
    "4632544": null,
    "383029": null,
    "2569620": null,
@@ -60028,9 +60028,9 @@
    "11673": null,
    "699330": null,
    "3350036": null,
+   "2037953": null,
    "2723973": null,
    "2424472": null,
-   "2037953": null,
    "907691": null,
    "3389995": null,
    "3298199": null,
@@ -60057,7 +60057,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T02:05:28Z",
+ "updated": "2026-11-22T02:16:16Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -66377,7 +66377,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T02:05:28Z",
+  "ts": "2026-11-22T02:16:16Z",
   "issues": [
    "desk written from older totals (2 managers changed since)"
   ],
