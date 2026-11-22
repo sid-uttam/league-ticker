@@ -10252,7 +10252,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-22T10:48:02Z",
+ "updated": "2026-11-22T11:00:54Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10295,17 +10295,161 @@
     "plots": 11
    },
    "11": {
-    "in": 794742,
-    "out": 153689,
-    "calls": 62,
+    "in": 818416,
+    "out": 163375,
+    "calls": 64,
     "refreshes": 11,
-    "desks": 19,
-    "desk_in": 422954,
-    "desk_out": 124421,
+    "desks": 20,
+    "desk_in": 446628,
+    "desk_out": 134107,
     "plots": 1
    }
   },
   "desks": [
+   {
+    "headline": "Barcola could decide top spot between Matt and Nikhil",
+    "text": "Matt leads Nikhil by **1 point** at the top, with both banking 4 points from Haaland's armband. Matt still has 5 players to come against Nikhil's 3, but **Barcola** is Nikhil's alone, so a goal from him in LIV v MUN could hand Nikhil top spot.",
+    "you": {
+     "3029346": "Nikhil trails you by **1 point** at the top, so one goal from Barcola could flip it.",
+     "2321301": "Barcola is yours alone still to play, so a goal from him could lift you to the top.",
+     "735721": "Nikhil is **20 points** above you, a gap that is hard to close from here.",
+     "1921902": "Your captain N.Jackson returned **4 points** with the armband, but only 3 managers own him.",
+     "2687116": "Ravin is **3 points** above you, with Gomez still to play for your side.",
+     "3344797": "Chandru is **10 points** above you, though 3 of your players are still to come.",
+     "1655993": "Belloumi is yours alone still to play, a chance to stretch your lead over Amit.",
+     "1036311": "Sunny sits **3 points** above you, so your Bench Boost could close the gap.",
+     "4487775": "Amit is **14 points** above you, so catching him is a longer job.",
+     "3350483": "Vuskovic is yours alone still to play, a chance to close on Prem.",
+     "3072827": "Aashiv is **1 point** above you, so one goal could swap you back.",
+     "5474293": "Lewis-Potter is yours alone still to play, a bonus that could widen your gap over Marcel.",
+     "75778": "Sahil is **7 points** above you, so catching him needs a strong finish.",
+     "3506595": "Marcel is **4 points** above you, a gap your 2 players still to come could narrow.",
+     "6892917": "A.Becker is yours alone still to play, a chance to pull clear of Vanessa.",
+     "5682768": "Ajayi and B.Fernandes are yours alone to come, a chance to pass Poonam.",
+     "4922092": "Araujo is yours alone still to play, a chance to make your Wildcard pay off.",
+     "2934546": "Madueke scored after you sold him this week, a costly sale.",
+     "2465483": "Branthwaite is yours alone still to play, so he could lift you back up.",
+     "6279027": "2 managers benched Manzambi, who has returned **1 point** so far.",
+     "865376": "Only you captained Palmer, whose armband returned **4 points**.",
+     "7043406": "Your captain N.Jackson returned **4 points** with the armband, but only 3 managers share him.",
+     "3314780": "Pickford and Gakpo are yours alone still to play, a chance to climb on Rajiv.",
+     "6159011": "Ravi Bhojwani sits **1 point** above you, with Schade yours alone still to play.",
+     "6051923": "Vinesh is **23 points** above you, a big gap to close.",
+     "6476662": "Only you own Anderson, who has already scored this gameweek."
+    },
+    "ts": "2026-11-22T11:00:54Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "3029346": 1,
+     "2321301": 2,
+     "735721": 3,
+     "1921902": 4,
+     "2687116": 5,
+     "3344797": 6,
+     "1655993": 7,
+     "1036311": 8,
+     "4487775": 9,
+     "3350483": 10,
+     "3072827": 11,
+     "5474293": 12,
+     "75778": 13,
+     "3506595": 14,
+     "6892917": 15,
+     "5682768": 15,
+     "4922092": 17,
+     "2934546": 18,
+     "2465483": 19,
+     "6279027": 20,
+     "865376": 21,
+     "7043406": 22,
+     "3314780": 23,
+     "6159011": 24,
+     "6051923": 25,
+     "6476662": 26
+    },
+    "totals": {
+     "3029346": 748,
+     "2321301": 747,
+     "735721": 727,
+     "1921902": 724,
+     "2687116": 721,
+     "3344797": 711,
+     "1655993": 701,
+     "1036311": 698,
+     "4487775": 684,
+     "3350483": 680,
+     "3072827": 679,
+     "5474293": 676,
+     "75778": 669,
+     "3506595": 665,
+     "6892917": 663,
+     "5682768": 663,
+     "4922092": 656,
+     "2934546": 654,
+     "2465483": 651,
+     "6279027": 646,
+     "865376": 642,
+     "7043406": 638,
+     "3314780": 636,
+     "6159011": 635,
+     "6051923": 612,
+     "6476662": 601
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "16": [
+      1,
+      0
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "60": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ]
+    },
+    "you_full_ts": "2026-11-22T11:00:54Z",
+    "next": {
+     "ko": "2026-11-22T14:00:00Z",
+     "match": "HUL v BHA"
+    },
+    "buildup_for": 106
+   },
    {
     "headline": "Matt clings to top spot as Barcola looms for Nikhil",
     "text": "Matt holds top spot by **1 point** over Nikhil after both banked **4 points** from Haaland's armband. Matt still has 5 players to play against Nikhil's 3, but **Barcola** is Nikhil's alone, so he could decide the title race if he scores.",
@@ -10859,171 +11003,40 @@
      "ko": "2026-11-22T14:00:00Z",
      "match": "HUL v BHA"
     }
-   },
-   {
-    "headline": "Matt takes top spot by 1 point over Nikhil",
-    "text": "**Matt** has taken top spot, just **1 point** ahead of Nikhil, after both banked the same 4 points from Haaland's armband. Matt still has **5 players** to play against Nikhil's 3, and Barcola is Nikhil's alone, so the top spot could swing if he scores.",
-    "you": {
-     "3029346": "Konsa is on the pitch. 3 managers benched him, so they now watch.",
-     "2321301": "Matt passed you today. He now sits 1 point above you at the top.",
-     "735721": "Nikhil is 20 points above you. Ravin sits 3 points below you.",
-     "1921902": "Your captain N.Jackson blanked. Chandru is 3 points below you, with 4 players yet to play.",
-     "2687116": "Your bench call on Bogle has backfired, as he has now assisted.",
-     "3344797": "Chandru is **10 points** above you, with 3 of your players still to play.",
-     "1655993": "You have passed Prem today, with 7 of your players still to play on your Bench Boost.",
-     "1036311": "You have passed Prem today, leaving Sunny **2 points** above you on the Bench Boost night.",
-     "4487775": "Sunny and Amit have both passed you today. Aashiv is 4 points below you.",
-     "3350483": "You have passed Sunil today. Vuskovic is yours alone still to play.",
-     "3072827": "Aashiv passed you today. Your bench call on Gvardiol has already cost you.",
-     "5474293": "Lewis-Potter is yours alone still to play. Sunil is 3 points above you.",
-     "3506595": "You have passed Poonam today. Marcel is level with you, both on 665 points.",
-     "75778": "You dropped as low as 14th today, now back up to 13th.",
-     "6892917": "Konsa is on the pitch. You benched him, so you now watch the points.",
-     "5682768": "Calafiori is on the pitch. You benched him, one of 3 managers now watching.",
-     "4922092": "Calafiori is on the pitch. You benched him, one of 3 managers now watching.",
-     "2934546": "Konsa is on the pitch. You benched him, so you now watch.",
-     "2465483": "You were as high as 18th today, now 19th.",
-     "6279027": "You dropped as low as 21st today, now back up to 20th.",
-     "865376": "You were as high as 20th today, now 21st.",
-     "7043406": "You have passed Vinesh today. Lakshay is 4 points above you.",
-     "6159011": "Rajiv passed you today. Ravi Bhojwani is 3 points below you.",
-     "3314780": "You were as high as 23rd today, now 24th.",
-     "6051923": "Ravi Bhojwani sits 20 points above you.",
-     "6476662": "Your Triple Captain on Haaland banked 6 points."
-    },
-    "ts": "2026-11-21T18:11:21Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:i:0-1|110:f:2-0",
-    "ranks": {
-     "3029346": 1,
-     "2321301": 2,
-     "735721": 3,
-     "1921902": 4,
-     "2687116": 5,
-     "3344797": 6,
-     "1655993": 7,
-     "1036311": 8,
-     "4487775": 9,
-     "3350483": 10,
-     "3072827": 11,
-     "5474293": 12,
-     "3506595": 13,
-     "75778": 13,
-     "6892917": 15,
-     "5682768": 16,
-     "4922092": 17,
-     "2934546": 18,
-     "2465483": 19,
-     "6279027": 20,
-     "865376": 21,
-     "7043406": 22,
-     "6159011": 23,
-     "3314780": 24,
-     "6051923": 25,
-     "6476662": 26
-    },
-    "totals": {
-     "3029346": 748,
-     "2321301": 747,
-     "735721": 727,
-     "1921902": 724,
-     "2687116": 721,
-     "3344797": 711,
-     "1655993": 700,
-     "1036311": 698,
-     "4487775": 684,
-     "3350483": 680,
-     "3072827": 679,
-     "5474293": 676,
-     "3506595": 665,
-     "75778": 665,
-     "6892917": 663,
-     "5682768": 659,
-     "4922092": 656,
-     "2934546": 654,
-     "2465483": 651,
-     "6279027": 646,
-     "865376": 642,
-     "7043406": 638,
-     "6159011": 635,
-     "3314780": 632,
-     "6051923": 612,
-     "6476662": 601
-    },
-    "ga": {
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "481": [
-      1,
-      0
-     ]
-    },
-    "you_full_ts": "2026-11-21T17:37:46Z",
-    "next": {
-     "ko": "2026-11-22T14:00:00Z",
-     "match": "HUL v BHA"
-    }
    }
   ],
   "desk_day": {
-   "date": "2026-11-21",
+   "date": "2026-11-22",
    "ranks": {
-    "2321301": 1,
-    "3029346": 2,
+    "3029346": 1,
+    "2321301": 2,
     "735721": 3,
     "1921902": 4,
     "2687116": 5,
     "3344797": 6,
-    "4487775": 7,
-    "1655993": 8,
-    "1036311": 9,
-    "3072827": 10,
-    "3350483": 11,
+    "1655993": 7,
+    "1036311": 8,
+    "4487775": 9,
+    "3350483": 10,
+    "3072827": 11,
     "5474293": 12,
     "75778": 13,
-    "6892917": 14,
+    "3506595": 14,
+    "6892917": 15,
     "5682768": 15,
-    "3506595": 15,
     "4922092": 17,
-    "2465483": 18,
     "2934546": 18,
+    "2465483": 19,
     "6279027": 20,
     "865376": 21,
-    "7043406": 23,
-    "6159011": 22,
-    "3314780": 24,
+    "7043406": 22,
+    "3314780": 23,
+    "6159011": 24,
     "6051923": 25,
     "6476662": 26
    }
   },
-  "desk_last_ok": "2026-11-21T19:35:20Z",
+  "desk_last_ok": "2026-11-22T11:00:54Z",
   "plots": [
    {
     "id": "title",
@@ -12962,10 +12975,8 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-22T10:48:02Z",
-  "issues": [
-   "desk written from older totals (1 managers changed since)"
-  ],
+  "ts": "2026-11-22T11:00:54Z",
+  "issues": [],
   "page": [],
   "wording": [
    "wording (1 points): ...↓ doesn't   1    Autosub:  van Ewijk  (1 pts) comes in...",
