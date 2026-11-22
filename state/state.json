@@ -3813,7 +3813,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T18:42:49Z",
+ "updated": "2026-11-22T18:54:15Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6498,7 +6498,7 @@
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got just 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, while Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan, whose Barry captain returned 32 points, lifting him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16. The Haaland bloc is still the biggest storyline in this league, and it is still costing them."
   ],
-  "ts": "2026-11-22T18:03:54Z",
+  "ts": "2026-11-22T18:54:15Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -6629,10 +6629,10 @@
     "plots": 11
    },
    "11": {
-    "in": 1437216,
-    "out": 307621,
-    "calls": 110,
-    "refreshes": 18,
+    "in": 1473351,
+    "out": 309590,
+    "calls": 112,
+    "refreshes": 19,
     "desks": 34,
     "desk_in": 767916,
     "desk_out": 253963,
@@ -15498,7 +15498,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T18:42:49Z",
+  "ts": "2026-11-22T18:54:15Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -15771,7 +15771,7 @@
    "504": "10:up",
    "426": "10:down",
    "53": "10:up",
-   "138": "10:down",
+   "138": "11:down",
    "249": "10:up",
    "464": "10:down",
    "4": "10:up",
@@ -16355,6 +16355,12 @@
     "el": 334,
     "kind": "surge",
     "net": 25167
+   },
+   {
+    "ts": "2026-11-22T18:54:15Z",
+    "el": 138,
+    "kind": "surge",
+    "net": -25394
    }
   ]
  },
