@@ -10923,15 +10923,6 @@
     "event_total": 35
    },
    {
-    "entry": 4151180,
-    "player_name": "kashish dadwal",
-    "entry_name": "Palmer's Angels",
-    "rank": 41,
-    "last_rank": 37,
-    "total": 683,
-    "event_total": 29
-   },
-   {
     "entry": 10821,
     "player_name": "Ram Narayan",
     "entry_name": "FPL Neutral",
@@ -10939,6 +10930,15 @@
     "last_rank": 48,
     "total": 683,
     "event_total": 35
+   },
+   {
+    "entry": 4151180,
+    "player_name": "kashish dadwal",
+    "entry_name": "Palmer's Angels",
+    "rank": 41,
+    "last_rank": 37,
+    "total": 683,
+    "event_total": 29
    },
    {
     "entry": 13951,
@@ -11346,15 +11346,6 @@
     "event_total": 32
    },
    {
-    "entry": 2037953,
-    "player_name": "Umang Khurana",
-    "entry_name": "XI Marauders",
-    "rank": 87,
-    "last_rank": 89,
-    "total": 636,
-    "event_total": 32
-   },
-   {
     "entry": 2424472,
     "player_name": "Apoorvo Choudhary",
     "entry_name": "Brian Boobey",
@@ -11362,6 +11353,15 @@
     "last_rank": 79,
     "total": 636,
     "event_total": 19
+   },
+   {
+    "entry": 2037953,
+    "player_name": "Umang Khurana",
+    "entry_name": "XI Marauders",
+    "rank": 87,
+    "last_rank": 89,
+    "total": 636,
+    "event_total": 32
    },
    {
     "entry": 907691,
@@ -59867,8 +59867,8 @@
    "698784": 36,
    "257074": 36,
    "3566356": 40,
-   "4151180": 41,
    "10821": 41,
+   "4151180": 41,
    "13951": 43,
    "1425044": 43,
    "4558790": 45,
@@ -59914,8 +59914,8 @@
    "699330": 84,
    "3350036": 86,
    "2723973": 86,
-   "2037953": 86,
    "2424472": 86,
+   "2037953": 86,
    "907691": 90,
    "3389995": 91,
    "3298199": 91,
@@ -59982,8 +59982,8 @@
    "698784": null,
    "257074": null,
    "3566356": null,
-   "4151180": null,
    "10821": null,
+   "4151180": null,
    "13951": null,
    "1425044": null,
    "4558790": null,
@@ -60029,8 +60029,8 @@
    "699330": null,
    "3350036": null,
    "2723973": null,
-   "2037953": null,
    "2424472": null,
+   "2037953": null,
    "907691": null,
    "3389995": null,
    "3298199": null,
@@ -60057,7 +60057,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T06:16:23Z",
+ "updated": "2026-11-22T06:27:34Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -66377,7 +66377,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T06:16:23Z",
+  "ts": "2026-11-22T06:27:34Z",
   "issues": [
    "desk written from older totals (2 managers changed since)"
   ],
