@@ -10959,15 +10959,6 @@
     "event_total": 35
    },
    {
-    "entry": 13951,
-    "player_name": "Sagar C",
-    "entry_name": "Champs",
-    "rank": 45,
-    "last_rank": 53,
-    "total": 687,
-    "event_total": 43
-   },
-   {
     "entry": 1425044,
     "player_name": "Manav Malhotra",
     "entry_name": "Brain-Heart 11",
@@ -10975,6 +10966,15 @@
     "last_rank": 39,
     "total": 687,
     "event_total": 33
+   },
+   {
+    "entry": 13951,
+    "player_name": "Sagar C",
+    "entry_name": "Champs",
+    "rank": 45,
+    "last_rank": 53,
+    "total": 687,
+    "event_total": 43
    },
    {
     "entry": 4558790,
@@ -60583,8 +60583,8 @@
    "10821": 42,
    "480904": 42,
    "32831": 44,
-   "13951": 44,
    "1425044": 44,
+   "13951": 44,
    "4558790": 47,
    "249619": 47,
    "3560542": 47,
@@ -60698,8 +60698,8 @@
    "10821": null,
    "480904": null,
    "32831": null,
-   "13951": null,
    "1425044": null,
+   "13951": null,
    "4558790": null,
    "249619": null,
    "3560542": null,
@@ -60769,7 +60769,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T22:19:43Z",
+ "updated": "2026-11-22T22:30:31Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67194,7 +67194,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T22:19:43Z",
+  "ts": "2026-11-22T22:30:31Z",
   "issues": [],
   "page": [],
   "wording": [
