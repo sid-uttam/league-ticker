@@ -2444,8 +2444,8 @@
     "entry_name": "Lammo's Lads",
     "rank": 1,
     "last_rank": 2,
-    "total": 767,
-    "event_total": 45
+    "total": 770,
+    "event_total": 48
    },
    {
     "entry": 2321301,
@@ -2453,44 +2453,44 @@
     "entry_name": "Umm Suqeim FC",
     "rank": 2,
     "last_rank": 1,
-    "total": 753,
-    "event_total": 30
-   },
-   {
-    "entry": 735721,
-    "player_name": "Deepak Gidwani",
-    "entry_name": "2-Hype Toffees",
-    "rank": 3,
-    "last_rank": 3,
-    "total": 732,
-    "event_total": 24
+    "total": 755,
+    "event_total": 32
    },
    {
     "entry": 1921902,
     "player_name": "Ravin Melwani",
     "entry_name": "Robby's Rebels",
-    "rank": 4,
+    "rank": 3,
     "last_rank": 4,
-    "total": 730,
-    "event_total": 23
-   },
-   {
-    "entry": 2687116,
-    "player_name": "Chandru Mirchandani",
-    "entry_name": "Bruno Dos Tres",
-    "rank": 5,
-    "last_rank": 5,
-    "total": 729,
-    "event_total": 33
+    "total": 735,
+    "event_total": 28
    },
    {
     "entry": 1655993,
     "player_name": "Sunny Aswani",
     "entry_name": "RedArmy",
-    "rank": 6,
+    "rank": 4,
     "last_rank": 8,
-    "total": 728,
-    "event_total": 61
+    "total": 734,
+    "event_total": 67
+   },
+   {
+    "entry": 735721,
+    "player_name": "Deepak Gidwani",
+    "entry_name": "2-Hype Toffees",
+    "rank": 5,
+    "last_rank": 3,
+    "total": 732,
+    "event_total": 24
+   },
+   {
+    "entry": 2687116,
+    "player_name": "Chandru Mirchandani",
+    "entry_name": "Bruno Dos Tres",
+    "rank": 6,
+    "last_rank": 5,
+    "total": 730,
+    "event_total": 34
    },
    {
     "entry": 3344797,
@@ -2516,8 +2516,8 @@
     "entry_name": "Leaf Green",
     "rank": 9,
     "last_rank": 7,
-    "total": 690,
-    "event_total": 21
+    "total": 695,
+    "event_total": 26
    },
    {
     "entry": 3072827,
@@ -2552,8 +2552,8 @@
     "entry_name": "Magic Mikel",
     "rank": 13,
     "last_rank": 13,
-    "total": 680,
-    "event_total": 33
+    "total": 681,
+    "event_total": 34
    },
    {
     "entry": 5682768,
@@ -2561,53 +2561,53 @@
     "entry_name": "super squad",
     "rank": 14,
     "last_rank": 15,
-    "total": 676,
-    "event_total": 42
-   },
-   {
-    "entry": 2934546,
-    "player_name": "Naresh Chugh",
-    "entry_name": "Legends FC",
-    "rank": 15,
-    "last_rank": 19,
-    "total": 671,
+    "total": 677,
     "event_total": 43
    },
    {
     "entry": 6892917,
     "player_name": "Poonam Mahtani",
     "entry_name": "Fifteen Fighters",
-    "rank": 16,
+    "rank": 15,
     "last_rank": 14,
-    "total": 669,
-    "event_total": 33
+    "total": 674,
+    "event_total": 38
    },
    {
     "entry": 4922092,
     "player_name": "Ravi Mahtani",
     "entry_name": "Ravi's Team",
-    "rank": 17,
+    "rank": 16,
     "last_rank": 17,
-    "total": 668,
-    "event_total": 39
+    "total": 674,
+    "event_total": 45
    },
    {
-    "entry": 2465483,
-    "player_name": "Inesh Uttamchandani",
-    "entry_name": "Inu10",
+    "entry": 2934546,
+    "player_name": "Naresh Chugh",
+    "entry_name": "Legends FC",
     "rank": 17,
-    "last_rank": 18,
-    "total": 668,
-    "event_total": 40
+    "last_rank": 19,
+    "total": 674,
+    "event_total": 46
    },
    {
     "entry": 3506595,
     "player_name": "Hishaan Mahtani",
     "entry_name": "Jacquet Potato",
-    "rank": 19,
+    "rank": 18,
     "last_rank": 15,
-    "total": 666,
-    "event_total": 32
+    "total": 671,
+    "event_total": 37
+   },
+   {
+    "entry": 2465483,
+    "player_name": "Inesh Uttamchandani",
+    "entry_name": "Inu10",
+    "rank": 19,
+    "last_rank": 18,
+    "total": 669,
+    "event_total": 41
    },
    {
     "entry": 6279027,
@@ -2615,8 +2615,8 @@
     "entry_name": "AI 11",
     "rank": 20,
     "last_rank": 20,
-    "total": 651,
-    "event_total": 32
+    "total": 652,
+    "event_total": 33
    },
    {
     "entry": 865376,
@@ -2669,8 +2669,8 @@
     "entry_name": "Haalahfame",
     "rank": 26,
     "last_rank": 26,
-    "total": 611,
-    "event_total": 51
+    "total": 613,
+    "event_total": 53
    }
   ]
  },
@@ -7616,6 +7616,65 @@
  },
  "stories": [
   {
+   "key": "l11:top3:1921902:735",
+   "kind": "live",
+   "tag": "Live",
+   "head": "Live: Ravin moves into 3rd",
+   "body": "Up from 4th.",
+   "stat": "3rd (live)",
+   "score": 63,
+   "who": [
+    1921902
+   ],
+   "ts": "2026-11-22T17:53:19Z",
+   "gw": 11
+  },
+  {
+   "key": "z11:1655993:gold",
+   "kind": "live",
+   "tag": "Table",
+   "head": "Sunny breaks into the Gold spots",
+   "body": "Up to 4th. Deepak drops out to make room.",
+   "stat": "4th (live)",
+   "score": 70,
+   "who": [
+    735721,
+    1655993
+   ],
+   "ts": "2026-11-22T17:53:19Z",
+   "gw": 11
+  },
+  {
+   "key": "z11:735721:gold",
+   "kind": "live",
+   "tag": "Table",
+   "head": "Deepak drops out of the Gold spots",
+   "body": "Down to 5th. Sunny takes the place.",
+   "stat": "5th (live)",
+   "score": 66,
+   "who": [
+    735721,
+    1655993
+   ],
+   "ts": "2026-11-22T17:53:19Z",
+   "gw": 11
+  },
+  {
+   "key": "l11:shuffle:2026-11-22T17",
+   "kind": "live",
+   "tag": "Table",
+   "head": "Table shuffle",
+   "body": "Up: Ravi Mahtani 15th. Down: Inesh 19th.",
+   "stat": "2 on the move",
+   "score": 30,
+   "who": [
+    2465483,
+    4922092
+   ],
+   "ts": "2026-11-22T17:53:19Z",
+   "gw": 11
+  },
+  {
    "key": "d11:bought:366:1:0",
    "kind": "live",
    "tag": "Transfers",
@@ -9299,7 +9358,11 @@
   "l11:cs-lost:Brighton",
   "l11:shuffle:2026-11-22T16",
   "d11:bought:366:1:0",
-  "d11:bought:379:0:1"
+  "d11:bought:379:0:1",
+  "l11:top3:1921902:735",
+  "z11:1655993:gold",
+  "z11:735721:gold",
+  "l11:shuffle:2026-11-22T17"
  ],
  "done": [
   "deadline:10",
@@ -9642,10 +9705,10 @@
    "579": [
     0,
     0,
+    6,
     1,
     0,
-    0,
-    51,
+    62,
     0,
     0,
     0
@@ -9774,10 +9837,10 @@
    "350": [
     0,
     0,
+    6,
     1,
     0,
-    0,
-    51,
+    62,
     0,
     0,
     0
@@ -9785,10 +9848,10 @@
    "362": [
     0,
     0,
+    6,
     1,
     0,
-    0,
-    51,
+    62,
     0,
     0,
     0
@@ -9807,10 +9870,10 @@
    "366": [
     1,
     0,
-    8,
+    10,
+    1,
     0,
-    0,
-    51,
+    62,
     0,
     0,
     0
@@ -9862,10 +9925,10 @@
    "627": [
     0,
     0,
+    2,
     1,
     0,
-    0,
-    51,
+    62,
     0,
     0,
     0
@@ -9873,10 +9936,10 @@
    "379": [
     0,
     1,
-    4,
+    5,
+    1,
     0,
-    0,
-    51,
+    62,
     0,
     0,
     0
@@ -10027,10 +10090,10 @@
    "412": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    51,
+    62,
     0,
     0,
     0
@@ -10071,10 +10134,10 @@
    "426": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    51,
+    62,
     0,
     0,
     0
@@ -10126,10 +10189,10 @@
    "432": [
     0,
     0,
-    1,
+    4,
     0,
     0,
-    51,
+    62,
     0,
     0,
     0
@@ -10374,23 +10437,23 @@
   "ranks": {
    "3029346": 1,
    "2321301": 2,
-   "735721": 3,
-   "1921902": 4,
-   "2687116": 5,
-   "1655993": 6,
+   "1921902": 3,
+   "1655993": 4,
+   "735721": 5,
+   "2687116": 6,
    "3344797": 7,
    "1036311": 8,
    "4487775": 9,
    "3072827": 10,
    "3350483": 10,
    "5474293": 12,
-   "75778": 13,
+   "75778": 12,
    "5682768": 14,
+   "6892917": 15,
+   "4922092": 15,
    "2934546": 15,
-   "6892917": 16,
-   "4922092": 17,
-   "2465483": 17,
-   "3506595": 19,
+   "3506595": 18,
+   "2465483": 19,
    "6279027": 20,
    "865376": 21,
    "7043406": 21,
@@ -10402,10 +10465,10 @@
   "zones": {
    "3029346": "gold",
    "2321301": "gold",
-   "735721": "gold",
    "1921902": "gold",
+   "1655993": "gold",
+   "735721": "silver",
    "2687116": "silver",
-   "1655993": "silver",
    "3344797": "silver",
    "1036311": "silver",
    "4487775": null,
@@ -10414,11 +10477,11 @@
    "5474293": null,
    "75778": null,
    "5682768": null,
-   "2934546": null,
    "6892917": null,
    "4922092": null,
-   "2465483": null,
+   "2934546": null,
    "3506595": null,
+   "2465483": null,
    "6279027": null,
    "865376": null,
    "7043406": null,
@@ -10428,7 +10491,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-22T17:42:22Z",
+ "updated": "2026-11-22T17:53:19Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10458,7 +10521,7 @@
    "6051923": "You are 25th on 584 with a 50-point week. Watch Bella, 24 behind, and Ravi Bhojwani, 16 ahead."
   },
   "key": "11:live",
-  "ts": "2026-11-22T16:44:49Z",
+  "ts": "2026-11-22T17:53:19Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -10471,10 +10534,10 @@
     "plots": 11
    },
    "11": {
-    "in": 1175949,
-    "out": 245011,
-    "calls": 90,
-    "refreshes": 15,
+    "in": 1209889,
+    "out": 248491,
+    "calls": 92,
+    "refreshes": 16,
     "desks": 29,
     "desk_in": 668597,
     "desk_out": 208717,
@@ -12451,8 +12514,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Barcola"
      }
     ]
@@ -12479,9 +12542,9 @@
       "player": "Gabriel"
      },
      {
-      "state": "playing",
-      "label": "Playing · 8",
-      "pts": 8,
+      "state": "happening",
+      "label": "Hauling · 10",
+      "pts": 10,
       "player": "Wirtz"
      }
     ]
@@ -12503,8 +12566,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 6",
+      "pts": 6,
       "player": "Jacquet"
      },
      {
@@ -12563,8 +12626,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 6",
+      "pts": 6,
       "player": "Jacquet"
      },
      {
@@ -12707,8 +12770,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 6",
+      "pts": 6,
       "player": "Jacquet"
      }
     ]
@@ -12732,8 +12795,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 6",
+      "pts": 6,
       "player": "Araujo"
      },
      {
@@ -12790,9 +12853,9 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 8",
-      "pts": 8,
+      "state": "happening",
+      "label": "Hauling · 10",
+      "pts": 10,
       "player": "Wirtz"
      },
      {
@@ -13039,8 +13102,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 4",
-      "pts": 4,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Isak"
      }
     ]
@@ -13217,12 +13280,14 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-22T17:42:22Z",
-  "issues": [],
+  "ts": "2026-11-22T17:53:19Z",
+  "issues": [
+   "desk written from older totals (15 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...d Aashiv ↓   4    Autosub:  van Ewijk  (1 pts) comes in...",
-   "wording (1 points): ...shaan ↑ doesn't   1    Autosub:  Neto  (1 pts) comes in...",
+   "wording (1 points): ...Inesh ↑ doesn't   1    Autosub:  Neto  (1 pts) comes in...",
    "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        13...",
    "wording (1 points): ...d much from him.      Raya ARS   Scored 1 pts        13..."
   ]

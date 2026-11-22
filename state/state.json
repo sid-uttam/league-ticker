@@ -1,6 +1,22 @@
 {
  "stories": [
   {
+   "key": "l11:shuffle:2026-11-22T17",
+   "kind": "live",
+   "tag": "Table",
+   "head": "Table shuffle",
+   "body": "Up: Hishaan 10th. Down: Bhavik 11th, Ahmad 12th.",
+   "stat": "3 on the move",
+   "score": 30,
+   "who": [
+    363548,
+    3506595,
+    4125292
+   ],
+   "ts": "2026-11-22T17:52:42Z",
+   "gw": 11
+  },
+  {
    "key": "l11:ret:366:1:0",
    "kind": "live",
    "tag": "Live",
@@ -2448,7 +2464,8 @@
   "d11:bought:379:0:1",
   "d11:onpitch:427",
   "z11:5028423:tin",
-  "l11:ret:366:1:0"
+  "l11:ret:366:1:0",
+  "l11:shuffle:2026-11-22T17"
  ],
  "done": [
   "deadline:10",
@@ -2848,10 +2865,10 @@
    "579": [
     0,
     0,
+    6,
     1,
     0,
-    0,
-    51,
+    61,
     0,
     0,
     0
@@ -2991,10 +3008,10 @@
    "356": [
     0,
     0,
+    6,
     1,
     0,
-    0,
-    51,
+    61,
     0,
     0,
     0
@@ -3024,10 +3041,10 @@
    "362": [
     0,
     0,
+    6,
     1,
     0,
-    0,
-    51,
+    61,
     0,
     0,
     0
@@ -3046,10 +3063,10 @@
    "366": [
     1,
     0,
-    8,
+    10,
+    1,
     0,
-    0,
-    51,
+    61,
     0,
     0,
     0
@@ -3090,10 +3107,10 @@
    "368": [
     1,
     0,
-    9,
+    11,
+    1,
     0,
-    0,
-    51,
+    61,
     0,
     0,
     0
@@ -3112,10 +3129,10 @@
    "627": [
     0,
     0,
+    3,
     1,
     0,
-    0,
-    51,
+    61,
     0,
     0,
     0
@@ -3123,10 +3140,10 @@
    "379": [
     0,
     1,
-    4,
+    5,
+    1,
     0,
-    0,
-    51,
+    61,
     0,
     0,
     0
@@ -3343,10 +3360,10 @@
    "412": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    51,
+    61,
     0,
     0,
     0
@@ -3398,10 +3415,10 @@
    "426": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    51,
+    61,
     0,
     0,
     0
@@ -3696,25 +3713,25 @@
    "7471754": 6,
    "5489583": 7,
    "1378937": 8,
-   "4125292": 9,
-   "363548": 10,
-   "4922092": 10,
-   "3506595": 12,
+   "4125292": 11,
+   "363548": 12,
+   "4922092": 9,
+   "3506595": 10,
    "962024": 13,
    "4841175": 14,
    "5873092": 15,
-   "7273369": 15,
+   "7273369": 16,
    "3359227": 17,
    "6341709": 18,
-   "1457736": 18,
+   "1457736": 19,
    "75187": 20,
-   "6619523": 20,
-   "383423": 22,
-   "3552160": 23,
+   "6619523": 21,
+   "383423": 23,
+   "3552160": 22,
    "1474501": 23,
    "5028423": 25,
-   "3375627": 26,
-   "8316989": 27,
+   "3375627": 27,
+   "8316989": 26,
    "3591460": 28,
    "5706920": 29
   },
@@ -3750,7 +3767,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T17:41:58Z",
+ "updated": "2026-11-22T17:52:42Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6435,7 +6452,7 @@
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got just 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, while Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan, whose Barry captain returned 32 points, lifting him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16. The Haaland bloc is still the biggest storyline in this league, and it is still costing them."
   ],
-  "ts": "2026-11-22T16:55:39Z",
+  "ts": "2026-11-22T17:52:42Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -6566,10 +6583,10 @@
     "plots": 11
    },
    "11": {
-    "in": 1302478,
-    "out": 279921,
-    "calls": 98,
-    "refreshes": 16,
+    "in": 1338495,
+    "out": 281218,
+    "calls": 100,
+    "refreshes": 17,
     "desks": 31,
     "desk_in": 709780,
     "desk_out": 232967,
@@ -14512,8 +14529,8 @@
     "branch": "blank",
     "status": {
      "state": "playing",
-     "label": "Playing · 4",
-     "pts": 4
+     "label": "Playing · 5",
+     "pts": 5
     }
    },
    {
@@ -14723,8 +14740,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 4",
-      "pts": 4,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Isak"
      },
      {
@@ -14773,14 +14790,14 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 6",
+      "pts": 6,
       "player": "Araujo"
      },
      {
       "state": "playing",
-      "label": "Playing · 4",
-      "pts": 4,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Isak"
      }
     ]
@@ -14899,8 +14916,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 4",
-      "pts": 4,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Isak"
      }
     ]
@@ -14922,8 +14939,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 4",
-      "pts": 4,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Isak"
      },
      {
@@ -14957,8 +14974,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 6",
+      "pts": 6,
       "player": "Araujo"
      }
     ]
@@ -15009,8 +15026,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 4",
-      "pts": 4,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Isak"
      },
      {
@@ -15288,8 +15305,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 4",
-      "pts": 4,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Isak"
      }
     ]
@@ -15360,8 +15377,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 4",
-      "pts": 4,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Isak"
      }
     ]
@@ -15389,11 +15406,13 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T17:41:58Z",
-  "issues": [],
+  "ts": "2026-11-22T17:52:42Z",
+  "issues": [
+   "desk written from older totals (14 managers changed since)"
+  ],
   "page": [],
   "wording": [
-   "wording (1 points): ...Iain ↓ don't   1    Autosub:  Cherif  (1 pts) comes in...",
+   "wording (1 points): ...nd IB ↓ don't   1    Autosub:  Cherif  (1 pts) comes in...",
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
    "wording (1 points): ...ained 6 on you.      Konsa ARS   Scored 1 pts        13...",
    "wording (1 points): ...h from him.      De Cuyper BHA   Scored 1 pts        18..."
