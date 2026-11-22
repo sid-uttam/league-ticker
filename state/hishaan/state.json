@@ -2498,8 +2498,8 @@
     "entry_name": "RedArmy",
     "rank": 7,
     "last_rank": 8,
-    "total": 699,
-    "event_total": 32
+    "total": 701,
+    "event_total": 34
    },
    {
     "entry": 1036311,
@@ -9224,7 +9224,7 @@
    "13": [
     0,
     0,
-    1,
+    3,
     0,
     0,
     90,
@@ -10252,7 +10252,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-22T01:22:09Z",
+ "updated": "2026-11-22T01:33:12Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -12324,9 +12324,9 @@
       "player": "Jacquet"
      },
      {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
+      "state": "neither",
+      "pts": 3,
+      "label": "Quiet · 3",
       "player": "Rice"
      }
     ]
@@ -12962,8 +12962,10 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-22T01:22:09Z",
-  "issues": [],
+  "ts": "2026-11-22T01:33:12Z",
+  "issues": [
+   "desk written from older totals (1 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...↓ doesn't   1    Autosub:  van Ewijk  (1 pts) comes in...",
