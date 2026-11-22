@@ -10887,15 +10887,6 @@
     "event_total": 23
    },
    {
-    "entry": 698784,
-    "player_name": "Zorawar Bobinmaker",
-    "entry_name": "11 Spartans",
-    "rank": 37,
-    "last_rank": 36,
-    "total": 685,
-    "event_total": 27
-   },
-   {
     "entry": 5640988,
     "player_name": "Sundar Sravan",
     "entry_name": "Bavarian Szobo",
@@ -10903,6 +10894,15 @@
     "last_rank": 45,
     "total": 685,
     "event_total": 36
+   },
+   {
+    "entry": 698784,
+    "player_name": "Zorawar Bobinmaker",
+    "entry_name": "11 Spartans",
+    "rank": 37,
+    "last_rank": 36,
+    "total": 685,
+    "event_total": 27
    },
    {
     "entry": 257074,
@@ -10941,15 +10941,6 @@
     "event_total": 29
    },
    {
-    "entry": 1425044,
-    "player_name": "Manav Malhotra",
-    "entry_name": "Brain-Heart 11",
-    "rank": 43,
-    "last_rank": 39,
-    "total": 682,
-    "event_total": 28
-   },
-   {
     "entry": 13951,
     "player_name": "Sagar C",
     "entry_name": "Champs",
@@ -10957,6 +10948,15 @@
     "last_rank": 53,
     "total": 682,
     "event_total": 38
+   },
+   {
+    "entry": 1425044,
+    "player_name": "Manav Malhotra",
+    "entry_name": "Brain-Heart 11",
+    "rank": 43,
+    "last_rank": 39,
+    "total": 682,
+    "event_total": 28
    },
    {
     "entry": 4558790,
@@ -11031,15 +11031,6 @@
     "event_total": 36
    },
    {
-    "entry": 248721,
-    "player_name": "Raj Pratik",
-    "entry_name": "Mebesty",
-    "rank": 53,
-    "last_rank": 51,
-    "total": 673,
-    "event_total": 26
-   },
-   {
     "entry": 2932096,
     "player_name": "Kunal Satpute",
     "entry_name": "Zhavtē FC",
@@ -11047,6 +11038,15 @@
     "last_rank": 58,
     "total": 673,
     "event_total": 33
+   },
+   {
+    "entry": 248721,
+    "player_name": "Raj Pratik",
+    "entry_name": "Mebesty",
+    "rank": 53,
+    "last_rank": 51,
+    "total": 673,
+    "event_total": 26
    },
    {
     "entry": 4540238,
@@ -11337,13 +11337,13 @@
     "event_total": 24
    },
    {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
+    "entry": 2424472,
+    "player_name": "Apoorvo Choudhary",
+    "entry_name": "Brian Boobey",
     "rank": 87,
-    "last_rank": 89,
+    "last_rank": 79,
     "total": 636,
-    "event_total": 32
+    "event_total": 19
    },
    {
     "entry": 2037953,
@@ -11355,13 +11355,13 @@
     "event_total": 32
    },
    {
-    "entry": 2424472,
-    "player_name": "Apoorvo Choudhary",
-    "entry_name": "Brian Boobey",
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
     "rank": 87,
-    "last_rank": 79,
+    "last_rank": 89,
     "total": 636,
-    "event_total": 19
+    "event_total": 32
    },
    {
     "entry": 907691,
@@ -59863,14 +59863,14 @@
    "42960": 34,
    "263779": 34,
    "710718": 36,
-   "698784": 36,
    "5640988": 36,
+   "698784": 36,
    "257074": 36,
    "3566356": 40,
    "10821": 41,
    "4151180": 41,
-   "1425044": 43,
    "13951": 43,
+   "1425044": 43,
    "4558790": 45,
    "480904": 45,
    "3560542": 45,
@@ -59879,8 +59879,8 @@
    "3239284": 49,
    "3654448": 51,
    "48343": 52,
-   "248721": 53,
    "2932096": 53,
+   "248721": 53,
    "4540238": 53,
    "1443362": 53,
    "675013": 57,
@@ -59913,9 +59913,9 @@
    "11673": 84,
    "699330": 84,
    "3350036": 86,
-   "2723973": 86,
-   "2037953": 86,
    "2424472": 86,
+   "2037953": 86,
+   "2723973": 86,
    "907691": 90,
    "3389995": 91,
    "3298199": 91,
@@ -59978,14 +59978,14 @@
    "42960": null,
    "263779": null,
    "710718": null,
-   "698784": null,
    "5640988": null,
+   "698784": null,
    "257074": null,
    "3566356": null,
    "10821": null,
    "4151180": null,
-   "1425044": null,
    "13951": null,
+   "1425044": null,
    "4558790": null,
    "480904": null,
    "3560542": null,
@@ -59994,8 +59994,8 @@
    "3239284": null,
    "3654448": null,
    "48343": null,
-   "248721": null,
    "2932096": null,
+   "248721": null,
    "4540238": null,
    "1443362": null,
    "675013": null,
@@ -60028,9 +60028,9 @@
    "11673": null,
    "699330": null,
    "3350036": null,
-   "2723973": null,
-   "2037953": null,
    "2424472": null,
+   "2037953": null,
+   "2723973": null,
    "907691": null,
    "3389995": null,
    "3298199": null,
@@ -60057,7 +60057,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T13:42:35Z",
+ "updated": "2026-11-22T13:53:19Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -66389,7 +66389,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T13:42:35Z",
+  "ts": "2026-11-22T13:53:19Z",
   "issues": [],
   "page": [],
   "wording": [
