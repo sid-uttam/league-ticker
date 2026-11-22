@@ -10959,15 +10959,6 @@
     "event_total": 35
    },
    {
-    "entry": 13951,
-    "player_name": "Sagar C",
-    "entry_name": "Champs",
-    "rank": 45,
-    "last_rank": 53,
-    "total": 687,
-    "event_total": 43
-   },
-   {
     "entry": 1425044,
     "player_name": "Manav Malhotra",
     "entry_name": "Brain-Heart 11",
@@ -10975,6 +10966,15 @@
     "last_rank": 39,
     "total": 687,
     "event_total": 33
+   },
+   {
+    "entry": 13951,
+    "player_name": "Sagar C",
+    "entry_name": "Champs",
+    "rank": 45,
+    "last_rank": 53,
+    "total": 687,
+    "event_total": 43
    },
    {
     "entry": 4558790,
@@ -11202,15 +11202,6 @@
     "event_total": 37
    },
    {
-    "entry": 10615,
-    "player_name": "Maanas Gupta",
-    "entry_name": "Infinity Inc",
-    "rank": 72,
-    "last_rank": 72,
-    "total": 662,
-    "event_total": 36
-   },
-   {
     "entry": 26707,
     "player_name": "Krishnaji Sanas",
     "entry_name": "Victorious Secrets",
@@ -11218,6 +11209,15 @@
     "last_rank": 60,
     "total": 662,
     "event_total": 23
+   },
+   {
+    "entry": 10615,
+    "player_name": "Maanas Gupta",
+    "entry_name": "Infinity Inc",
+    "rank": 72,
+    "last_rank": 72,
+    "total": 662,
+    "event_total": 36
    },
    {
     "entry": 3086063,
@@ -11238,15 +11238,6 @@
     "event_total": 26
    },
    {
-    "entry": 1737924,
-    "player_name": "Rajat Bhalla",
-    "entry_name": "Break all hell ⚽️",
-    "rank": 76,
-    "last_rank": 75,
-    "total": 656,
-    "event_total": 34
-   },
-   {
     "entry": 6830291,
     "player_name": "Karan P Nanda",
     "entry_name": "Justlikethat",
@@ -11254,6 +11245,15 @@
     "last_rank": 76,
     "total": 656,
     "event_total": 35
+   },
+   {
+    "entry": 1737924,
+    "player_name": "Rajat Bhalla",
+    "entry_name": "Break all hell ⚽️",
+    "rank": 76,
+    "last_rank": 75,
+    "total": 656,
+    "event_total": 34
    },
    {
     "entry": 438967,
@@ -60583,8 +60583,8 @@
    "480904": 42,
    "10821": 42,
    "32831": 44,
-   "13951": 44,
    "1425044": 44,
+   "13951": 44,
    "4558790": 47,
    "3560542": 47,
    "249619": 47,
@@ -60610,12 +60610,12 @@
    "4372346": 69,
    "2569620": 70,
    "4592187": 70,
-   "10615": 72,
    "26707": 72,
+   "10615": 72,
    "3086063": 74,
    "4314690": 75,
-   "1737924": 76,
    "6830291": 76,
+   "1737924": 76,
    "438967": 76,
    "11673": 79,
    "44532": 80,
@@ -60698,8 +60698,8 @@
    "480904": null,
    "10821": null,
    "32831": null,
-   "13951": null,
    "1425044": null,
+   "13951": null,
    "4558790": null,
    "3560542": null,
    "249619": null,
@@ -60725,12 +60725,12 @@
    "4372346": null,
    "2569620": null,
    "4592187": null,
-   "10615": null,
    "26707": null,
+   "10615": null,
    "3086063": null,
    "4314690": null,
-   "1737924": null,
    "6830291": null,
+   "1737924": null,
    "438967": null,
    "11673": null,
    "44532": null,
@@ -60769,7 +60769,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T22:41:20Z",
+ "updated": "2026-11-22T22:52:10Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67194,7 +67194,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T22:41:20Z",
+  "ts": "2026-11-22T22:52:10Z",
   "issues": [],
   "page": [],
   "wording": [
