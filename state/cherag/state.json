@@ -11094,15 +11094,6 @@
     "event_total": 40
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 60,
-    "last_rank": 48,
-    "total": 674,
-    "event_total": 26
-   },
-   {
     "entry": 2119331,
     "player_name": "Ajay Rachakonda",
     "entry_name": "Silent Violence",
@@ -11110,6 +11101,15 @@
     "last_rank": 55,
     "total": 674,
     "event_total": 31
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 60,
+    "last_rank": 48,
+    "total": 674,
+    "event_total": 26
    },
    {
     "entry": 57776,
@@ -11238,15 +11238,6 @@
     "event_total": 26
    },
    {
-    "entry": 6830291,
-    "player_name": "Karan P Nanda",
-    "entry_name": "Justlikethat",
-    "rank": 76,
-    "last_rank": 76,
-    "total": 656,
-    "event_total": 35
-   },
-   {
     "entry": 1737924,
     "player_name": "Rajat Bhalla",
     "entry_name": "Break all hell ⚽️",
@@ -11254,6 +11245,15 @@
     "last_rank": 75,
     "total": 656,
     "event_total": 34
+   },
+   {
+    "entry": 6830291,
+    "player_name": "Karan P Nanda",
+    "entry_name": "Justlikethat",
+    "rank": 76,
+    "last_rank": 76,
+    "total": 656,
+    "event_total": 35
    },
    {
     "entry": 438967,
@@ -59345,7 +59345,7 @@
     1,
     0,
     0,
-    36,
+    45,
     0,
     0,
     0
@@ -59972,7 +59972,7 @@
     1,
     0,
     0,
-    36,
+    45,
     0,
     0,
     0
@@ -59983,7 +59983,7 @@
     1,
     0,
     0,
-    36,
+    45,
     0,
     0,
     0
@@ -59994,7 +59994,7 @@
     1,
     0,
     0,
-    36,
+    45,
     0,
     0,
     0
@@ -60005,7 +60005,7 @@
     8,
     0,
     0,
-    36,
+    45,
     0,
     0,
     0
@@ -60027,7 +60027,7 @@
     9,
     0,
     0,
-    36,
+    45,
     0,
     0,
     0
@@ -60038,7 +60038,7 @@
     4,
     0,
     0,
-    36,
+    45,
     0,
     0,
     0
@@ -60170,7 +60170,7 @@
     1,
     0,
     0,
-    36,
+    45,
     0,
     0,
     0
@@ -60181,7 +60181,7 @@
     1,
     0,
     0,
-    14,
+    23,
     0,
     0,
     0
@@ -60214,7 +60214,7 @@
     1,
     0,
     0,
-    36,
+    45,
     0,
     0,
     0
@@ -60236,7 +60236,7 @@
     1,
     0,
     0,
-    36,
+    45,
     0,
     0,
     0
@@ -60501,8 +60501,8 @@
    "48343": 55,
    "1443362": 58,
    "119259": 59,
-   "4683090": 60,
    "2119331": 60,
+   "4683090": 60,
    "57776": 60,
    "2868149": 63,
    "1854010": 64,
@@ -60517,8 +60517,8 @@
    "26707": 73,
    "3086063": 74,
    "4314690": 75,
-   "6830291": 76,
    "1737924": 76,
+   "6830291": 76,
    "438967": 76,
    "44532": 79,
    "686561": 80,
@@ -60616,8 +60616,8 @@
    "48343": null,
    "1443362": null,
    "119259": null,
-   "4683090": null,
    "2119331": null,
+   "4683090": null,
    "57776": null,
    "2868149": null,
    "1854010": null,
@@ -60632,8 +60632,8 @@
    "26707": null,
    "3086063": null,
    "4314690": null,
-   "6830291": null,
    "1737924": null,
+   "6830291": null,
    "438967": null,
    "44532": null,
    "686561": null,
@@ -60672,7 +60672,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-22T17:08:16Z",
+ "updated": "2026-11-22T17:19:01Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67006,7 +67006,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-22T17:08:16Z",
+  "ts": "2026-11-22T17:19:01Z",
   "issues": [],
   "page": [],
   "wording": [
