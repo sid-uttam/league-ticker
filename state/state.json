@@ -3551,7 +3551,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T10:04:40Z",
+ "updated": "2026-11-22T10:15:25Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -15108,7 +15108,7 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T10:04:40Z",
+  "ts": "2026-11-22T10:15:25Z",
   "issues": [
    "desk written from older totals (1 managers changed since)"
   ],
@@ -15404,7 +15404,7 @@
    "330": "10:up",
    "167": "10:up",
    "566": "10:up",
-   "385": "10:up",
+   "385": "11:up",
    "412": "10:down",
    "399": "11:down",
    "305": "10:down",
@@ -15922,6 +15922,12 @@
     "status": "d",
     "chance": 75,
     "news": "Calf injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-22T10:15:25Z",
+    "el": 385,
+    "kind": "surge",
+    "net": 25046
    }
   ]
  },
