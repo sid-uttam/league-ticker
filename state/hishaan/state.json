@@ -2444,8 +2444,8 @@
     "entry_name": "Lammo's Lads",
     "rank": 1,
     "last_rank": 2,
-    "total": 767,
-    "event_total": 45
+    "total": 768,
+    "event_total": 46
    },
    {
     "entry": 2321301,
@@ -2489,8 +2489,8 @@
     "entry_name": "orangeblaze78",
     "rank": 6,
     "last_rank": 6,
-    "total": 730,
-    "event_total": 56
+    "total": 731,
+    "event_total": 57
    },
    {
     "entry": 1655993,
@@ -2507,8 +2507,8 @@
     "entry_name": "AMFC 11",
     "rank": 8,
     "last_rank": 9,
-    "total": 717,
-    "event_total": 59
+    "total": 718,
+    "event_total": 60
    },
    {
     "entry": 3350483,
@@ -2534,8 +2534,8 @@
     "entry_name": "Magic Mikel",
     "rank": 11,
     "last_rank": 13,
-    "total": 688,
-    "event_total": 41
+    "total": 689,
+    "event_total": 42
    },
    {
     "entry": 5474293,
@@ -2561,8 +2561,8 @@
     "entry_name": "super squad",
     "rank": 14,
     "last_rank": 15,
-    "total": 680,
-    "event_total": 46
+    "total": 681,
+    "event_total": 47
    },
    {
     "entry": 4922092,
@@ -2570,8 +2570,8 @@
     "entry_name": "Ravi's Team",
     "rank": 15,
     "last_rank": 17,
-    "total": 675,
-    "event_total": 46
+    "total": 676,
+    "event_total": 47
    },
    {
     "entry": 6892917,
@@ -2642,8 +2642,8 @@
     "entry_name": "Five Star XI",
     "rank": 23,
     "last_rank": 24,
-    "total": 647,
-    "event_total": 47
+    "total": 648,
+    "event_total": 48
    },
    {
     "entry": 6159011,
@@ -2660,8 +2660,8 @@
     "entry_name": "Your Wirtz Nightmare",
     "rank": 25,
     "last_rank": 25,
-    "total": 615,
-    "event_total": 31
+    "total": 616,
+    "event_total": 32
    },
    {
     "entry": 6476662,
@@ -2669,8 +2669,8 @@
     "entry_name": "Haalahfame",
     "rank": 26,
     "last_rank": 26,
-    "total": 601,
-    "event_total": 41
+    "total": 602,
+    "event_total": 42
    }
   ]
  },
@@ -9304,7 +9304,7 @@
     6,
     1,
     0,
-    67,
+    79,
     0,
     0,
     0
@@ -9315,7 +9315,7 @@
     3,
     1,
     0,
-    67,
+    79,
     0,
     0,
     0
@@ -9348,7 +9348,7 @@
     3,
     1,
     0,
-    67,
+    79,
     0,
     0,
     0
@@ -9458,7 +9458,7 @@
     11,
     1,
     0,
-    67,
+    79,
     0,
     0,
     0
@@ -9653,10 +9653,10 @@
    "109": [
     0,
     0,
-    8,
+    9,
     1,
     0,
-    67,
+    79,
     0,
     0,
     0
@@ -9711,7 +9711,7 @@
     8,
     1,
     0,
-    67,
+    79,
     0,
     0,
     0
@@ -9744,7 +9744,7 @@
     3,
     1,
     0,
-    67,
+    79,
     0,
     0,
     0
@@ -9755,7 +9755,7 @@
     3,
     1,
     0,
-    67,
+    79,
     0,
     0,
     0
@@ -9796,10 +9796,10 @@
    "138": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    12,
     0,
     0,
     0
@@ -10195,7 +10195,7 @@
     5,
     1,
     0,
-    67,
+    79,
     0,
     0,
     0
@@ -10285,7 +10285,7 @@
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-22T15:29:56Z",
+ "updated": "2026-11-22T15:41:15Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10315,7 +10315,7 @@
    "6051923": "You are 25th on 584 with a 50-point week. Watch Bella, 24 behind, and Ravi Bhojwani, 16 ahead."
   },
   "key": "11:live",
-  "ts": "2026-11-22T14:18:13Z",
+  "ts": "2026-11-22T15:41:15Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -10328,10 +10328,10 @@
     "plots": 11
    },
    "11": {
-    "in": 925666,
-    "out": 191655,
-    "calls": 72,
-    "refreshes": 12,
+    "in": 959351,
+    "out": 194251,
+    "calls": 74,
+    "refreshes": 13,
     "desks": 23,
     "desk_in": 520146,
     "desk_out": 161001,
@@ -12409,8 +12409,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 8",
-      "pts": 8,
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Verbruggen"
      },
      {
@@ -12496,8 +12496,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 8",
-      "pts": 8,
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Verbruggen"
      }
     ]
@@ -12553,8 +12553,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 8",
-      "pts": 8,
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Verbruggen"
      }
     ]
@@ -13030,9 +13030,9 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-22T15:29:56Z",
+  "ts": "2026-11-22T15:41:15Z",
   "issues": [
-   "desk written from older totals (22 managers changed since)"
+   "desk written from older totals (24 managers changed since)"
   ],
   "page": [],
   "wording": [
@@ -13285,7 +13285,7 @@
    "286": "10:down",
    "411": "11:down",
    "229": "10:down",
-   "60": "10:up",
+   "60": "11:up",
    "268": "10:down",
    "330": "10:up",
    "566": "10:up",
@@ -13751,6 +13751,12 @@
     "el": 346,
     "kind": "surge",
     "net": 25212
+   },
+   {
+    "ts": "2026-11-22T15:41:15Z",
+    "el": 60,
+    "kind": "surge",
+    "net": 25518
    }
   ]
  },

@@ -2439,7 +2439,7 @@
     6,
     1,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -2458,10 +2458,10 @@
    "282": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -2472,7 +2472,7 @@
     3,
     1,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -2494,7 +2494,7 @@
     3,
     1,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -2648,7 +2648,7 @@
     11,
     1,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -2736,7 +2736,7 @@
     5,
     1,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -2887,10 +2887,10 @@
    "109": [
     0,
     0,
-    8,
+    9,
     1,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -2956,7 +2956,7 @@
     8,
     1,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -2989,7 +2989,7 @@
     3,
     1,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -3000,7 +3000,7 @@
     3,
     1,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -3085,10 +3085,10 @@
    "138": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -3495,7 +3495,7 @@
     5,
     1,
     0,
-    66,
+    78,
     0,
     0,
     0
@@ -3602,7 +3602,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-22T15:29:23Z",
+ "updated": "2026-11-22T15:40:25Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6418,17 +6418,157 @@
     "plots": 11
    },
    "11": {
-    "in": 1133126,
-    "out": 242667,
-    "calls": 82,
+    "in": 1157786,
+    "out": 249612,
+    "calls": 84,
     "refreshes": 14,
-    "desks": 26,
-    "desk_in": 618175,
-    "desk_out": 204751,
+    "desks": 27,
+    "desk_in": 642835,
+    "desk_out": 211696,
     "plots": 1
    }
   },
   "desks": [
+   {
+    "headline": "Ayodele top with Gakpo to come, Haaland's armband flops",
+    "text": "Ayodele holds top spot with an **11-point lead** over Cherag, despite Haaland's armband returning just 2 points. Gakpo is still to play for Ayodele alone, and he could **stretch that lead**. Cherag has no players left, so he can only wait for LIV v MUN to kick off.",
+    "you": {
+     "3219276": "Ayodele is 11 points above you, and your squad has finished for the day.",
+     "573491": "Your Bench Boost is in play, with Cherag 3 points above you.",
+     "3323262": "Ravi's new signing Tavernier has set one up for you, and Nanik sits 5 points behind.",
+     "1541394": "You have broken into the Gold spots, with Sid 5 points above you.",
+     "7471754": "2 managers benched Belloumi, who is now on the pitch, so you could gain on them.",
+     "5489583": "Tonna is 14 points above you, and Ahmad is 4 points below.",
+     "363548": "You have passed Edd and Hishaan today.",
+     "4922092": "You have passed Bhavik, Edd and Hishaan today.",
+     "4125292": "You passed Hishaan today, but Ravi passed you.",
+     "1378937": "Ahmad and Ravi have passed you today.",
+     "4841175": "Groß is worth 6 points on your armband, and you have passed Hishaan, Will and Raushan.",
+     "3506595": "Ahmad, Ravi and Bhavik have passed you today, but Jacquet is still to play for you alone.",
+     "7273369": "You passed Raushan today, but Maanav passed you.",
+     "3359227": "Maanav and Will have passed you today.",
+     "1457736": "You have passed Lavesh and Justin today.",
+     "75187": "Down 3 places this gameweek, from 17th to 20th.",
+     "6341709": "Dominic is 4 points above you.",
+     "383423": "You have climbed out of the Tin Pot, up 3 places this gameweek.",
+     "1474501": "You have passed Isaiah today.",
+     "5028423": "Dinesh passed you today.",
+     "3375627": "Your Triple Captain on Haaland has returned 6 points."
+    },
+    "ts": "2026-11-22T15:40:25Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:i:0-0|107:n:0-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "573491": 3,
+     "3323262": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "5489583": 7,
+     "363548": 8,
+     "4922092": 9,
+     "1378937": 10,
+     "4125292": 10,
+     "962024": 12,
+     "4841175": 13,
+     "3506595": 14,
+     "7273369": 15,
+     "3359227": 16,
+     "1457736": 17,
+     "6619523": 18,
+     "5873092": 19,
+     "75187": 20,
+     "6341709": 21,
+     "383423": 22,
+     "1474501": 23,
+     "5028423": 24,
+     "3552160": 25,
+     "3375627": 26,
+     "8316989": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 739,
+     "3219276": 728,
+     "573491": 725,
+     "3323262": 711,
+     "1541394": 706,
+     "7471754": 697,
+     "5489583": 683,
+     "363548": 679,
+     "4922092": 676,
+     "1378937": 674,
+     "4125292": 674,
+     "962024": 673,
+     "4841175": 669,
+     "3506595": 665,
+     "7273369": 659,
+     "3359227": 657,
+     "1457736": 650,
+     "6619523": 648,
+     "5873092": 643,
+     "75187": 642,
+     "6341709": 638,
+     "383423": 617,
+     "1474501": 615,
+     "5028423": 608,
+     "3552160": 592,
+     "3375627": 591,
+     "8316989": 580,
+     "3591460": 553,
+     "5706920": 463
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ],
+     "499": [
+      0,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-22T15:40:25Z",
+    "next": {
+     "ko": "2026-11-22T16:30:00Z",
+     "match": "LIV v MUN"
+    }
+   },
    {
     "headline": "Ayodele's top spot rests on Gakpo, Cherag has nothing left",
     "text": "Ayodele holds top spot with **Gakpo** still to play for him alone, while Cherag sits **9 points** behind with no players left. Haaland's **2 points** on 22 armbands has left the table tight, and HUL v BHA is goalless, so Gakpo could stretch the lead or hold it.",
@@ -7008,150 +7148,6 @@
      "ko": "2026-11-22T14:00:00Z",
      "match": "HUL v BHA"
     }
-   },
-   {
-    "headline": "Ødegaard's assist lifts 5 managers as Haaland flops",
-    "text": "Ødegaard **assisted a goal for 6 points** while NEWC v ARS is still on at 2-2, and 5 managers started him. Haaland's armband returned just **2 points** from 22 armbands, leaving Ayodele **11 points** clear of Cherag at the top, with Gomez and Gakpo still to play for Ayodele alone.",
-    "you": {
-     "1092588": "Benching Bogle cost you a 4-point assist this gameweek.",
-     "3219276": "Benching Calvert-Lewin cost you 9 points from his goal and assist.",
-     "573491": "Passing Sid today has lifted you into 3rd.",
-     "1541394": "Sid is 2 points ahead of you in 4th, so your next move matters.",
-     "7471754": "B.Fernandes is the only one of your players still to play.",
-     "5489583": "You have passed Edd today, moving you 1 point ahead of him.",
-     "1378937": "Omar has passed you today, leaving you 1 point behind him.",
-     "3506595": "Jacquet and Barry are yours alone still to play.",
-     "363548": "Passing Simon today has moved you level with Bhavik on 663 points.",
-     "4125292": "Level with Ahmad on 663 points, you have been as low as 11th today.",
-     "4922092": "Passing Simon today is done, but Bhavik still sits 7 points above you.",
-     "3359227": "Your N.Jackson armband returned 2 points, briefly lifting you to 13th today before a slide to 14th.",
-     "962024": "Ahmad and Ravi have both passed you today, while Raushan is 5 points behind you.",
-     "7273369": "Raushan sits just 1 point above you, with 3 players still to play to close that gap.",
-     "4841175": "You have passed Justin, Naishadh and Dominic today, and your Groß armband is still to play.",
-     "1457736": "Maanav, Justin and Lavesh have all passed you today, dropping you from 16th to 19th.",
-     "75187": "The table shuffle has dropped you from 18th to 20th, and Naishadh sits 1 point above you.",
-     "5873092": "Naishadh is behind you today, but Maanav has passed you, leaving him 5 points above you.",
-     "383423": "You have passed Isaiah, Dinesh and Saurabh today, with Tomisin 16 points above you.",
-     "5028423": "Tobi has passed you today, and Dinesh is 2 points behind you.",
-     "1474501": "Tobi has passed you today, but you have passed Saurabh, who sits 3 points behind you.",
-     "3375627": "You have passed Elvin today, and Ayari is still to play for you alone.",
-     "3591460": "Garner is still to play and his points are yours alone, which could help you climb.",
-     "6619523": "Naishadh, Dominic and Tomisin have all fallen behind you today, and Justin is level on points.",
-     "6341709": "Lavesh has passed you today, and Dominic is 14 points above you."
-    },
-    "ts": "2026-11-21T19:09:11Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:n:0-0|107:n:0-0|108:f:1-1|109:i:2-2|110:f:2-0",
-    "ranks": {
-     "1092588": 1,
-     "3219276": 2,
-     "573491": 3,
-     "3323262": 4,
-     "1541394": 5,
-     "7471754": 6,
-     "5489583": 7,
-     "1378937": 8,
-     "3506595": 9,
-     "363548": 10,
-     "4125292": 10,
-     "4922092": 12,
-     "962024": 13,
-     "3359227": 14,
-     "7273369": 15,
-     "4841175": 16,
-     "5873092": 17,
-     "6619523": 17,
-     "1457736": 19,
-     "75187": 20,
-     "6341709": 21,
-     "383423": 22,
-     "5028423": 23,
-     "1474501": 24,
-     "3552160": 25,
-     "3375627": 26,
-     "8316989": 27,
-     "3591460": 28,
-     "5706920": 29
-    },
-    "totals": {
-     "1092588": 728,
-     "3219276": 717,
-     "573491": 714,
-     "3323262": 700,
-     "1541394": 698,
-     "7471754": 692,
-     "5489583": 672,
-     "1378937": 671,
-     "3506595": 665,
-     "363548": 663,
-     "4125292": 663,
-     "4922092": 656,
-     "962024": 654,
-     "3359227": 649,
-     "7273369": 648,
-     "4841175": 646,
-     "5873092": 641,
-     "6619523": 641,
-     "1457736": 638,
-     "75187": 637,
-     "6341709": 623,
-     "383423": 607,
-     "5028423": 597,
-     "1474501": 595,
-     "3552160": 592,
-     "3375627": 589,
-     "8316989": 576,
-     "3591460": 542,
-     "5706920": 463
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ],
-     "499": [
-      0,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-21T18:43:23Z",
-    "next": {
-     "ko": "2026-11-22T14:00:00Z",
-     "match": "HUL v BHA"
-    }
    }
   ],
   "desk_day": {
@@ -7188,7 +7184,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-22T15:05:18Z",
+  "desk_last_ok": "2026-11-22T15:40:25Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -8503,8 +8499,8 @@
     "entry_name": "Chalupa Batmen 3.0�",
     "rank": 21,
     "last_rank": 20,
-    "total": 637,
-    "event_total": 34
+    "total": 638,
+    "event_total": 35
    },
    {
     "entry": 383423,
@@ -8557,8 +8553,8 @@
     "entry_name": "EA FC",
     "rank": 27,
     "last_rank": 26,
-    "total": 579,
-    "event_total": 18
+    "total": 580,
+    "event_total": 19
    },
    {
     "entry": 3591460,
@@ -14541,8 +14537,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 8",
-      "pts": 8,
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Verbruggen"
      }
     ]
@@ -14671,8 +14667,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 8",
-      "pts": 8,
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Verbruggen"
      },
      {
@@ -14735,8 +14731,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 8",
-      "pts": 8,
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Verbruggen"
      }
     ]
@@ -14820,8 +14816,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 8",
-      "pts": 8,
+      "label": "Playing · 9",
+      "pts": 9,
       "player": "Verbruggen"
      }
     ]
@@ -15192,10 +15188,8 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-22T15:29:23Z",
-  "issues": [
-   "desk written from older totals (23 managers changed since)"
-  ],
+  "ts": "2026-11-22T15:40:25Z",
+  "issues": [],
   "page": [],
   "wording": [
    "wording (1 points): ...IB ↑ doesn't   1    Autosub:  Cherif  (1 pts) comes in...",
