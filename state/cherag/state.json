@@ -10617,10 +10617,19 @@
     "event_total": 34
    },
    {
+    "entry": 4722308,
+    "player_name": "Biswadeep Majumdar",
+    "entry_name": "quadrupliraola",
+    "rank": 7,
+    "last_rank": 7,
+    "total": 731,
+    "event_total": 32
+   },
+   {
     "entry": 1273065,
     "player_name": "Prathap Devadiga",
     "entry_name": "Waka waka 11",
-    "rank": 7,
+    "rank": 8,
     "last_rank": 9,
     "total": 730,
     "event_total": 36
@@ -10629,19 +10638,10 @@
     "entry": 1902223,
     "player_name": "Karan Singh",
     "entry_name": "Bombay Reds",
-    "rank": 8,
+    "rank": 9,
     "last_rank": 14,
     "total": 730,
     "event_total": 47
-   },
-   {
-    "entry": 4722308,
-    "player_name": "Biswadeep Majumdar",
-    "entry_name": "quadrupliraola",
-    "rank": 9,
-    "last_rank": 7,
-    "total": 729,
-    "event_total": 30
    },
    {
     "entry": 2429776,
@@ -10950,15 +10950,6 @@
     "event_total": 40
    },
    {
-    "entry": 3560542,
-    "player_name": "Sandeepan Bhattacharya",
-    "entry_name": "Amad season ahead",
-    "rank": 44,
-    "last_rank": 65,
-    "total": 688,
-    "event_total": 53
-   },
-   {
     "entry": 3239284,
     "player_name": "Kabeerr Naayar",
     "entry_name": "KABS0507",
@@ -10966,6 +10957,15 @@
     "last_rank": 50,
     "total": 688,
     "event_total": 40
+   },
+   {
+    "entry": 3560542,
+    "player_name": "Sandeepan Bhattacharya",
+    "entry_name": "Amad season ahead",
+    "rank": 44,
+    "last_rank": 65,
+    "total": 688,
+    "event_total": 53
    },
    {
     "entry": 1425044,
@@ -11049,15 +11049,6 @@
     "event_total": 46
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 55,
-    "last_rank": 48,
-    "total": 680,
-    "event_total": 32
-   },
-   {
     "entry": 4134138,
     "player_name": "Rishab Bajaj",
     "entry_name": "Rishabs11",
@@ -11065,6 +11056,15 @@
     "last_rank": 44,
     "total": 680,
     "event_total": 30
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 55,
+    "last_rank": 48,
+    "total": 680,
+    "event_total": 32
    },
    {
     "entry": 2932096,
@@ -11175,13 +11175,13 @@
     "event_total": 30
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
+    "entry": 2922453,
+    "player_name": "Abhishek Yerra",
+    "entry_name": "Ctrl + Alt + De Ligt",
     "rank": 69,
-    "last_rank": 72,
+    "last_rank": 70,
     "total": 665,
-    "event_total": 39
+    "event_total": 38
    },
    {
     "entry": 26707,
@@ -11193,13 +11193,13 @@
     "event_total": 26
    },
    {
-    "entry": 2922453,
-    "player_name": "Abhishek Yerra",
-    "entry_name": "Ctrl + Alt + De Ligt",
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
     "rank": 69,
-    "last_rank": 70,
+    "last_rank": 72,
     "total": 665,
-    "event_total": 38
+    "event_total": 39
    },
    {
     "entry": 4372346,
@@ -11445,15 +11445,6 @@
     "event_total": 41
    },
    {
-    "entry": 1967440,
-    "player_name": "Swapnil Limaye",
-    "entry_name": "Notautdfan",
-    "rank": 99,
-    "last_rank": 95,
-    "total": 626,
-    "event_total": 28
-   },
-   {
     "entry": 4616626,
     "player_name": "Sanket Khandekar",
     "entry_name": "KFA Xtreme",
@@ -11461,6 +11452,15 @@
     "last_rank": 101,
     "total": 626,
     "event_total": 40
+   },
+   {
+    "entry": 1967440,
+    "player_name": "Swapnil Limaye",
+    "entry_name": "Notautdfan",
+    "rank": 99,
+    "last_rank": 95,
+    "total": 626,
+    "event_total": 28
    },
    {
     "entry": 1474501,
@@ -11477,8 +11477,8 @@
     "entry_name": "monty25",
     "rank": 102,
     "last_rank": 98,
-    "total": 613,
-    "event_total": 24
+    "total": 615,
+    "event_total": 26
    },
    {
     "entry": 358907,
@@ -11490,15 +11490,6 @@
     "event_total": 32
    },
    {
-    "entry": 1183002,
-    "player_name": "Varun Singh",
-    "entry_name": "Tony Singh ke 11",
-    "rank": 104,
-    "last_rank": 105,
-    "total": 599,
-    "event_total": 33
-   },
-   {
     "entry": 3942185,
     "player_name": "Sanket Nahata",
     "entry_name": "madness in blue",
@@ -11506,6 +11497,15 @@
     "last_rank": 106,
     "total": 599,
     "event_total": 39
+   },
+   {
+    "entry": 1183002,
+    "player_name": "Varun Singh",
+    "entry_name": "Tony Singh ke 11",
+    "rank": 104,
+    "last_rank": 105,
+    "total": 599,
+    "event_total": 33
    },
    {
     "entry": 4439544,
@@ -56404,6 +56404,20 @@
  },
  "stories": [
   {
+   "key": "z11:2429776:gold",
+   "kind": "live",
+   "tag": "Table",
+   "head": "Kshiteesh drops out of the Top prizes",
+   "body": "Down to 10th.",
+   "stat": "10th (live)",
+   "score": 66,
+   "who": [
+    2429776
+   ],
+   "ts": "2026-11-23T21:57:50Z",
+   "gw": 11
+  },
+  {
    "key": "d11:onpitch:94",
    "kind": "live",
    "tag": "Bench",
@@ -59025,7 +59039,8 @@
   "l11:top3:3991082:742",
   "l11:climb:4683090:680",
   "l11:shuffle:2026-11-23T21",
-  "d11:onpitch:94"
+  "d11:onpitch:94",
+  "z11:2429776:gold"
  ],
  "done": [
   "deadline:10",
@@ -59280,10 +59295,10 @@
    "565": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    7,
     0,
     0,
     0
@@ -59426,7 +59441,7 @@
     6,
     1,
     0,
-    75,
+    89,
     0,
     0,
     0
@@ -59448,7 +59463,7 @@
     6,
     1,
     0,
-    75,
+    89,
     0,
     0,
     0
@@ -59459,7 +59474,7 @@
     6,
     1,
     0,
-    75,
+    89,
     0,
     0,
     0
@@ -59481,7 +59496,7 @@
     1,
     0,
     0,
-    9,
+    23,
     0,
     0,
     0
@@ -59863,10 +59878,10 @@
    "233": [
     0,
     0,
+    2,
     0,
     0,
-    0,
-    75,
+    89,
     0,
     0,
     0
@@ -60694,10 +60709,10 @@
    "1325491": 3,
    "13978": 5,
    "136653": 5,
-   "1273065": 7,
-   "1902223": 7,
-   "4722308": 9,
-   "2429776": 9,
+   "4722308": 7,
+   "1273065": 8,
+   "1902223": 8,
+   "2429776": 10,
    "3949616": 11,
    "2671682": 12,
    "393940": 12,
@@ -60731,8 +60746,8 @@
    "5640988": 39,
    "257074": 39,
    "10821": 43,
-   "3560542": 43,
    "3239284": 43,
+   "3560542": 43,
    "1425044": 46,
    "13951": 46,
    "4558790": 48,
@@ -60742,8 +60757,8 @@
    "248721": 52,
    "675013": 53,
    "4540238": 53,
-   "4683090": 55,
    "4134138": 55,
+   "4683090": 55,
    "2932096": 57,
    "48343": 57,
    "2868149": 59,
@@ -60756,9 +60771,9 @@
    "4632544": 66,
    "383029": 67,
    "2569620": 68,
-   "4592187": 69,
-   "26707": 69,
    "2922453": 69,
+   "26707": 69,
+   "4592187": 69,
    "4372346": 72,
    "3086063": 72,
    "10615": 74,
@@ -60786,13 +60801,13 @@
    "3794959": 96,
    "4905114": 97,
    "8779992": 98,
-   "1967440": 99,
    "4616626": 99,
+   "1967440": 99,
    "1474501": 101,
    "1497357": 102,
    "358907": 103,
-   "1183002": 104,
    "3942185": 104,
+   "1183002": 104,
    "4439544": 106,
    "4800825": 107,
    "7613031": 108,
@@ -60809,10 +60824,10 @@
    "1325491": "gold",
    "13978": "gold",
    "136653": "gold",
+   "4722308": "gold",
    "1273065": "gold",
    "1902223": "gold",
-   "4722308": "gold",
-   "2429776": "gold",
+   "2429776": "silver",
    "3949616": "silver",
    "2671682": "silver",
    "393940": "silver",
@@ -60846,8 +60861,8 @@
    "5640988": null,
    "257074": null,
    "10821": null,
-   "3560542": null,
    "3239284": null,
+   "3560542": null,
    "1425044": null,
    "13951": null,
    "4558790": null,
@@ -60857,8 +60872,8 @@
    "248721": null,
    "675013": null,
    "4540238": null,
-   "4683090": null,
    "4134138": null,
+   "4683090": null,
    "2932096": null,
    "48343": null,
    "2868149": null,
@@ -60871,9 +60886,9 @@
    "4632544": null,
    "383029": null,
    "2569620": null,
-   "4592187": null,
-   "26707": null,
    "2922453": null,
+   "26707": null,
+   "4592187": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
@@ -60901,13 +60916,13 @@
    "3794959": null,
    "4905114": null,
    "8779992": null,
-   "1967440": null,
    "4616626": null,
+   "1967440": null,
    "1474501": null,
    "1497357": null,
    "358907": null,
-   "1183002": null,
    "3942185": null,
+   "1183002": null,
    "4439544": null,
    "4800825": null,
    "7613031": null,
@@ -60918,7 +60933,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T21:44:47Z",
+ "updated": "2026-11-23T21:57:50Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67274,8 +67289,10 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T21:44:47Z",
-  "issues": [],
+  "ts": "2026-11-23T21:57:50Z",
+  "issues": [
+   "desk written from older totals (2 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        63...",
@@ -71186,8 +71203,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Mykolenko"
      }
     ]
