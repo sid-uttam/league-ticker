@@ -10959,15 +10959,6 @@
     "event_total": 53
    },
    {
-    "entry": 13951,
-    "player_name": "Sagar C",
-    "entry_name": "Champs",
-    "rank": 45,
-    "last_rank": 53,
-    "total": 687,
-    "event_total": 43
-   },
-   {
     "entry": 1425044,
     "player_name": "Manav Malhotra",
     "entry_name": "Brain-Heart 11",
@@ -10975,6 +10966,15 @@
     "last_rank": 39,
     "total": 687,
     "event_total": 33
+   },
+   {
+    "entry": 13951,
+    "player_name": "Sagar C",
+    "entry_name": "Champs",
+    "rank": 45,
+    "last_rank": 53,
+    "total": 687,
+    "event_total": 43
    },
    {
     "entry": 3239284,
@@ -11049,15 +11049,6 @@
     "event_total": 46
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 55,
-    "last_rank": 48,
-    "total": 680,
-    "event_total": 32
-   },
-   {
     "entry": 4134138,
     "player_name": "Rishab Bajaj",
     "entry_name": "Rishabs11",
@@ -11065,6 +11056,15 @@
     "last_rank": 44,
     "total": 680,
     "event_total": 30
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 55,
+    "last_rank": 48,
+    "total": 680,
+    "event_total": 32
    },
    {
     "entry": 2932096,
@@ -11175,13 +11175,13 @@
     "event_total": 30
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
+    "entry": 2922453,
+    "player_name": "Abhishek Yerra",
+    "entry_name": "Ctrl + Alt + De Ligt",
     "rank": 69,
-    "last_rank": 72,
+    "last_rank": 70,
     "total": 665,
-    "event_total": 39
+    "event_total": 38
    },
    {
     "entry": 26707,
@@ -11193,13 +11193,13 @@
     "event_total": 26
    },
    {
-    "entry": 2922453,
-    "player_name": "Abhishek Yerra",
-    "entry_name": "Ctrl + Alt + De Ligt",
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
     "rank": 69,
-    "last_rank": 70,
+    "last_rank": 72,
     "total": 665,
-    "event_total": 38
+    "event_total": 39
    },
    {
     "entry": 4372346,
@@ -60841,8 +60841,8 @@
    "257074": 39,
    "10821": 43,
    "3560542": 43,
-   "13951": 45,
    "1425044": 45,
+   "13951": 45,
    "3239284": 45,
    "4558790": 48,
    "249619": 48,
@@ -60851,8 +60851,8 @@
    "248721": 52,
    "675013": 53,
    "4540238": 53,
-   "4683090": 55,
    "4134138": 55,
+   "4683090": 55,
    "2932096": 57,
    "48343": 57,
    "2868149": 59,
@@ -60865,9 +60865,9 @@
    "4632544": 66,
    "383029": 67,
    "2569620": 68,
-   "4592187": 69,
-   "26707": 69,
    "2922453": 69,
+   "26707": 69,
+   "4592187": 69,
    "4372346": 72,
    "3086063": 72,
    "10615": 74,
@@ -60956,8 +60956,8 @@
    "257074": null,
    "10821": null,
    "3560542": null,
-   "13951": null,
    "1425044": null,
+   "13951": null,
    "3239284": null,
    "4558790": null,
    "249619": null,
@@ -60966,8 +60966,8 @@
    "248721": null,
    "675013": null,
    "4540238": null,
-   "4683090": null,
    "4134138": null,
+   "4683090": null,
    "2932096": null,
    "48343": null,
    "2868149": null,
@@ -60980,9 +60980,9 @@
    "4632544": null,
    "383029": null,
    "2569620": null,
-   "4592187": null,
-   "26707": null,
    "2922453": null,
+   "26707": null,
+   "4592187": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
@@ -61027,7 +61027,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T23:42:10Z",
+ "updated": "2026-11-23T23:53:11Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -67340,7 +67340,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T23:42:10Z",
+  "ts": "2026-11-23T23:53:11Z",
   "issues": [],
   "page": [],
   "wording": [
