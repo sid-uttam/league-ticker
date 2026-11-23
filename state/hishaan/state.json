@@ -2507,17 +2507,8 @@
     "entry_name": "AMFC 11",
     "rank": 8,
     "last_rank": 9,
-    "total": 706,
-    "event_total": 48
-   },
-   {
-    "entry": 4487775,
-    "player_name": "Prem Balani",
-    "entry_name": "Leaf Green",
-    "rank": 9,
-    "last_rank": 7,
-    "total": 695,
-    "event_total": 26
+    "total": 707,
+    "event_total": 49
    },
    {
     "entry": 5474293,
@@ -2525,8 +2516,17 @@
     "entry_name": "Flick Ball",
     "rank": 9,
     "last_rank": 12,
+    "total": 697,
+    "event_total": 45
+   },
+   {
+    "entry": 4487775,
+    "player_name": "Prem Balani",
+    "entry_name": "Leaf Green",
+    "rank": 10,
+    "last_rank": 7,
     "total": 695,
-    "event_total": 43
+    "event_total": 26
    },
    {
     "entry": 3072827,
@@ -2534,8 +2534,8 @@
     "entry_name": "Red Devils United",
     "rank": 11,
     "last_rank": 10,
-    "total": 686,
-    "event_total": 32
+    "total": 687,
+    "event_total": 33
    },
    {
     "entry": 3350483,
@@ -2543,8 +2543,8 @@
     "entry_name": "Aashiv's 11",
     "rank": 12,
     "last_rank": 11,
-    "total": 686,
-    "event_total": 33
+    "total": 687,
+    "event_total": 34
    },
    {
     "entry": 75778,
@@ -2597,8 +2597,8 @@
     "entry_name": "Jacquet Potato",
     "rank": 18,
     "last_rank": 15,
-    "total": 672,
-    "event_total": 38
+    "total": 673,
+    "event_total": 39
    },
    {
     "entry": 2465483,
@@ -2606,8 +2606,8 @@
     "entry_name": "Inu10",
     "rank": 19,
     "last_rank": 18,
-    "total": 669,
-    "event_total": 41
+    "total": 672,
+    "event_total": 44
    },
    {
     "entry": 6279027,
@@ -2624,8 +2624,8 @@
     "entry_name": "Net Six and Chill",
     "rank": 21,
     "last_rank": 21,
-    "total": 644,
-    "event_total": 26
+    "total": 645,
+    "event_total": 27
    },
    {
     "entry": 7043406,
@@ -2633,8 +2633,8 @@
     "entry_name": "Rajiv's Team",
     "rank": 22,
     "last_rank": 22,
-    "total": 644,
-    "event_total": 31
+    "total": 645,
+    "event_total": 32
    },
    {
     "entry": 3314780,
@@ -2642,8 +2642,8 @@
     "entry_name": "Five Star XI",
     "rank": 23,
     "last_rank": 24,
-    "total": 643,
-    "event_total": 43
+    "total": 644,
+    "event_total": 44
    },
    {
     "entry": 6159011,
@@ -9902,10 +9902,10 @@
    "82": [
     0,
     0,
+    6,
     1,
     0,
-    0,
-    49,
+    62,
     0,
     0,
     0
@@ -9913,10 +9913,10 @@
    "86": [
     2,
     0,
-    14,
+    16,
+    1,
     0,
-    0,
-    49,
+    62,
     0,
     0,
     0
@@ -10397,10 +10397,10 @@
    "226": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    49,
+    62,
     0,
     0,
     0
@@ -10419,10 +10419,10 @@
    "230": [
     0,
     0,
+    3,
     0,
     0,
-    0,
-    49,
+    62,
     0,
     0,
     0
@@ -10430,10 +10430,10 @@
    "233": [
     0,
     0,
-    -1,
     0,
     0,
-    49,
+    0,
+    62,
     0,
     0,
     0
@@ -10441,10 +10441,10 @@
    "236": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    49,
+    62,
     0,
     0,
     0
@@ -10518,10 +10518,10 @@
    "249": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    49,
+    62,
     0,
     0,
     0
@@ -10552,8 +10552,8 @@
    "2687116": 6,
    "3344797": 7,
    "1036311": 8,
-   "4487775": 9,
    "5474293": 9,
+   "4487775": 10,
    "3072827": 11,
    "3350483": 11,
    "75778": 13,
@@ -10580,8 +10580,8 @@
    "2687116": "silver",
    "3344797": "silver",
    "1036311": "silver",
-   "4487775": null,
    "5474293": null,
+   "4487775": null,
    "3072827": null,
    "3350483": null,
    "75778": null,
@@ -10600,7 +10600,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-23T21:22:06Z",
+ "updated": "2026-11-23T21:33:32Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -12887,8 +12887,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Barry"
      },
      {
@@ -12916,8 +12916,8 @@
     "status": [
      {
       "state": "happening",
-      "label": "Hauling · 14",
-      "pts": 14,
+      "label": "Hauling · 16",
+      "pts": 16,
       "player": "Lewis-Potter"
      }
     ]
@@ -12968,8 +12968,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Barry"
      },
      {
@@ -13036,8 +13036,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 3",
+      "pts": 3,
       "player": "Branthwaite"
      }
     ]
@@ -13119,8 +13119,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Barry"
      },
      {
@@ -13146,8 +13146,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Dewsbury-Hall"
      }
     ]
@@ -13443,8 +13443,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Barry"
      }
     ]
@@ -13490,8 +13490,10 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-23T21:22:06Z",
-  "issues": [],
+  "ts": "2026-11-23T21:33:32Z",
+  "issues": [
+   "desk written from older totals (9 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        13...",
@@ -13597,7 +13599,6 @@
    "57": "a|None|"
   },
   "changed": {
-   "268": "2026-11-09T21:31:12Z",
    "286": "2026-11-20T15:05:51Z",
    "53": "2026-11-20T15:05:51Z",
    "469": "2026-11-21T14:07:29Z",
