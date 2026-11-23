@@ -10986,15 +10986,6 @@
     "event_total": 35
    },
    {
-    "entry": 249619,
-    "player_name": "Mayuresh Deshpande",
-    "entry_name": "NetBlasters",
-    "rank": 48,
-    "last_rank": 30,
-    "total": 686,
-    "event_total": 22
-   },
-   {
     "entry": 3560542,
     "player_name": "Sandeepan Bhattacharya",
     "entry_name": "Amad season ahead",
@@ -11002,6 +10993,15 @@
     "last_rank": 65,
     "total": 686,
     "event_total": 51
+   },
+   {
+    "entry": 249619,
+    "player_name": "Mayuresh Deshpande",
+    "entry_name": "NetBlasters",
+    "rank": 48,
+    "last_rank": 30,
+    "total": 686,
+    "event_total": 22
    },
    {
     "entry": 248721,
@@ -60586,8 +60586,8 @@
    "13951": 44,
    "1425044": 44,
    "4558790": 47,
-   "249619": 47,
    "3560542": 47,
+   "249619": 47,
    "248721": 50,
    "119217": 51,
    "675013": 51,
@@ -60701,8 +60701,8 @@
    "13951": null,
    "1425044": null,
    "4558790": null,
-   "249619": null,
    "3560542": null,
+   "249619": null,
    "248721": null,
    "119217": null,
    "675013": null,
@@ -60769,7 +60769,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T06:25:48Z",
+ "updated": "2026-11-23T06:36:34Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67194,7 +67194,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T06:25:48Z",
+  "ts": "2026-11-23T06:36:34Z",
   "issues": [],
   "page": [],
   "wording": [
