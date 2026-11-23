@@ -1,6 +1,24 @@
 {
  "stories": [
   {
+   "key": "l11:red:229",
+   "kind": "live",
+   "tag": "Live",
+   "head": "Red card: Tarkowski sent off",
+   "body": "Costly for Edd, Saurabh, Elvin and Sasha.",
+   "stat": "Sent off",
+   "score": 45,
+   "who": [
+    1378937,
+    3552160,
+    5706920,
+    8316989
+   ],
+   "ts": "2026-11-23T20:46:31Z",
+   "gw": 11,
+   "img": "share/live/gw11-p229-c65ae9f4a9.png"
+  },
+  {
    "key": "d11:onpitch:229",
    "kind": "live",
    "tag": "Bench",
@@ -748,8 +766,7 @@
     5706920
    ],
    "ts": "2026-11-21T13:53:44Z",
-   "gw": 11,
-   "img": "share/live/gw11-p481-181c868dbf.png"
+   "gw": 11
   },
   {
    "key": "d11:onpitch:268",
@@ -2527,7 +2544,8 @@
   "l11:ret:627:0:1",
   "d11:sold:627:0:1",
   "l11:ret:366:1:1",
-  "d11:onpitch:229"
+  "d11:onpitch:229",
+  "l11:red:229"
  ],
  "done": [
   "deadline:10",
@@ -3018,7 +3036,7 @@
     1,
     0,
     0,
-    32,
+    45,
     0,
     0,
     0
@@ -3029,7 +3047,7 @@
     1,
     0,
     0,
-    32,
+    45,
     0,
     0,
     0
@@ -3620,10 +3638,10 @@
    "226": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    32,
+    45,
     0,
     0,
     0
@@ -3631,10 +3649,10 @@
    "229": [
     0,
     0,
+    -3,
     0,
-    0,
-    0,
-    32,
+    1,
+    39,
     0,
     0,
     0
@@ -3656,7 +3674,7 @@
     1,
     0,
     0,
-    32,
+    45,
     0,
     0,
     0
@@ -3733,7 +3751,7 @@
     1,
     0,
     0,
-    32,
+    45,
     0,
     0,
     0
@@ -3774,9 +3792,9 @@
    "1541394": 5,
    "7471754": 6,
    "5489583": 7,
-   "1378937": 8,
-   "4922092": 9,
-   "3506595": 10,
+   "4922092": 8,
+   "1378937": 9,
+   "3506595": 9,
    "4125292": 11,
    "363548": 12,
    "962024": 13,
@@ -3789,8 +3807,8 @@
    "75187": 20,
    "6619523": 21,
    "1474501": 22,
-   "3552160": 23,
    "383423": 23,
+   "3552160": 24,
    "5028423": 25,
    "3375627": 26,
    "8316989": 27,
@@ -3805,8 +3823,8 @@
    "1541394": "silver",
    "7471754": "silver",
    "5489583": "silver",
-   "1378937": "silver",
-   "4922092": null,
+   "4922092": "silver",
+   "1378937": null,
    "3506595": null,
    "4125292": null,
    "363548": null,
@@ -3820,8 +3838,8 @@
    "75187": null,
    "6619523": null,
    "1474501": null,
-   "3552160": null,
    "383423": null,
+   "3552160": null,
    "5028423": "tinpot",
    "3375627": "tinpot",
    "8316989": "tinpot",
@@ -3829,7 +3847,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-23T20:34:02Z",
+ "updated": "2026-11-23T20:46:31Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6514,7 +6532,7 @@
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got just 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, while Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got a measly 4 points each. The real story is Hishaan, whose Barry captain returned 32 points, lifting him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek. Saurabh's Isak captain kept his Tin Pot climb going, returning 16. The Haaland bloc is still the biggest storyline in this league, and it is still costing them."
   ],
-  "ts": "2026-11-23T20:09:24Z",
+  "ts": "2026-11-23T20:46:31Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -6645,10 +6663,10 @@
     "plots": 11
    },
    "11": {
-    "in": 1566340,
-    "out": 332831,
-    "calls": 120,
-    "refreshes": 20,
+    "in": 1602368,
+    "out": 335948,
+    "calls": 122,
+    "refreshes": 21,
     "desks": 37,
     "desk_in": 824877,
     "desk_out": 276097,
@@ -8692,22 +8710,22 @@
     "event_total": 33
    },
    {
-    "entry": 1378937,
-    "player_name": "Edd Moore",
-    "entry_name": "Wirtz My Jacquet",
-    "rank": 8,
-    "last_rank": 7,
-    "total": 675,
-    "event_total": 25
-   },
-   {
     "entry": 4922092,
     "player_name": "Ravi Mahtani",
     "entry_name": "Ravi's Team",
-    "rank": 9,
+    "rank": 8,
     "last_rank": 13,
     "total": 674,
     "event_total": 45
+   },
+   {
+    "entry": 1378937,
+    "player_name": "Edd Moore",
+    "entry_name": "Wirtz My Jacquet",
+    "rank": 9,
+    "last_rank": 7,
+    "total": 672,
+    "event_total": 22
    },
    {
     "entry": 3506595,
@@ -8827,22 +8845,22 @@
     "event_total": 35
    },
    {
-    "entry": 3552160,
-    "player_name": "Saurabh Tiku",
-    "entry_name": "LET'S RUMBLE!!!",
-    "rank": 23,
-    "last_rank": 22,
-    "total": 612,
-    "event_total": 31
-   },
-   {
     "entry": 383423,
     "player_name": "Tobi Abiodun",
     "entry_name": "Quantum of Tzolis",
-    "rank": 24,
+    "rank": 23,
     "last_rank": 25,
     "total": 612,
     "event_total": 38
+   },
+   {
+    "entry": 3552160,
+    "player_name": "Saurabh Tiku",
+    "entry_name": "LET'S RUMBLE!!!",
+    "rank": 24,
+    "last_rank": 22,
+    "total": 609,
+    "event_total": 28
    },
    {
     "entry": 5028423,
@@ -8859,8 +8877,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 591,
-    "event_total": 37
+    "total": 592,
+    "event_total": 38
    },
    {
     "entry": 8316989,
@@ -8868,8 +8886,8 @@
     "entry_name": "EA FC",
     "rank": 27,
     "last_rank": 26,
-    "total": 590,
-    "event_total": 29
+    "total": 587,
+    "event_total": 26
    },
    {
     "entry": 3591460,
@@ -8877,8 +8895,8 @@
     "entry_name": "GoonerVision",
     "rank": 28,
     "last_rank": 28,
-    "total": 550,
-    "event_total": 29
+    "total": 551,
+    "event_total": 30
    },
    {
     "entry": 5706920,
@@ -8886,8 +8904,8 @@
     "entry_name": "Vicecityfc",
     "rank": 29,
     "last_rank": 29,
-    "total": 483,
-    "event_total": 39
+    "total": 481,
+    "event_total": 37
    }
   ]
  },
@@ -15516,8 +15534,10 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-23T20:34:02Z",
-  "issues": [],
+  "ts": "2026-11-23T20:46:31Z",
+  "issues": [
+   "desk written from older totals (6 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
@@ -16495,11 +16515,6 @@
  "moment_imgs": {
   "gw": 11,
   "files": {
-   "p481": {
-    "key": "d11:regret:481:1:0",
-    "sig": "181c868dbf",
-    "file": "share/live/gw11-p481-181c868dbf.png"
-   },
    "p411": {
     "key": "d11:capflop:411",
     "sig": "373c0fb5d1",
@@ -16544,6 +16559,11 @@
     "key": "d11:sold:627:0:1",
     "sig": "3eb86eb953",
     "file": "share/live/gw11-p627-3eb86eb953.png"
+   },
+   "p229": {
+    "key": "l11:red:229",
+    "sig": "c65ae9f4a9",
+    "file": "share/live/gw11-p229-c65ae9f4a9.png"
    }
   }
  }
