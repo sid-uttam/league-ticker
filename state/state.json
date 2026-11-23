@@ -3018,7 +3018,7 @@
     1,
     0,
     0,
-    21,
+    32,
     0,
     0,
     0
@@ -3029,7 +3029,7 @@
     1,
     0,
     0,
-    21,
+    32,
     0,
     0,
     0
@@ -3620,10 +3620,10 @@
    "226": [
     0,
     0,
-    4,
     0,
     0,
-    21,
+    0,
+    32,
     0,
     0,
     0
@@ -3631,10 +3631,10 @@
    "229": [
     0,
     0,
-    1,
     0,
     0,
-    21,
+    0,
+    32,
     0,
     0,
     0
@@ -3656,7 +3656,7 @@
     1,
     0,
     0,
-    21,
+    32,
     0,
     0,
     0
@@ -3733,7 +3733,7 @@
     1,
     0,
     0,
-    21,
+    32,
     0,
     0,
     0
@@ -3788,9 +3788,9 @@
    "1457736": 19,
    "75187": 20,
    "6619523": 21,
-   "3552160": 22,
    "1474501": 22,
-   "383423": 24,
+   "3552160": 23,
+   "383423": 23,
    "5028423": 25,
    "3375627": 26,
    "8316989": 27,
@@ -3819,8 +3819,8 @@
    "1457736": null,
    "75187": null,
    "6619523": null,
-   "3552160": null,
    "1474501": null,
+   "3552160": null,
    "383423": null,
    "5028423": "tinpot",
    "3375627": "tinpot",
@@ -3829,7 +3829,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-23T20:23:16Z",
+ "updated": "2026-11-23T20:34:02Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6645,17 +6645,176 @@
     "plots": 11
    },
    "11": {
-    "in": 1554802,
-    "out": 327862,
-    "calls": 118,
+    "in": 1566340,
+    "out": 332831,
+    "calls": 120,
     "refreshes": 20,
-    "desks": 36,
-    "desk_in": 813339,
-    "desk_out": 271128,
+    "desks": 37,
+    "desk_in": 824877,
+    "desk_out": 276097,
     "plots": 3
    }
   },
   "desks": [
+   {
+    "headline": "Tarkowski on the pitch as Omar and Edd's call splits",
+    "text": "BRE v EVE is **2-0** after 31 minutes, and Tarkowski is still on 0 points, started by Edd and benched by Omar. Edd sits **1 point** ahead of Ravi, and Ravi has no players left to play, so Tarkowski's next points could decide whether Edd pulls clear.",
+    "you": {
+     "1092588": "Mbeumo is on the pitch after 3 managers benched him, and that call was yours. You still hold top spot, **10 points** clear of Cherag.",
+     "3219276": "Calvert-Lewin has scored after you and Saurabh benched him. You trail Ayodele by **10 points** in 2nd.",
+     "3323262": "Tavernier's assist for you is old news now. Nanik is 11 points behind you in 5th.",
+     "1541394": "Sid is **11 points** above you. Tonna is 4 points behind you.",
+     "7471754": "Belloumi set up a goal after you and Ahmad benched him. Nanik is 4 points above you.",
+     "5489583": "Your bench call on Tarkowski is being tested now that he is on the pitch for BRE v EVE.",
+     "1378937": "Omar is 2 points above you. Tarkowski, who you started, is on the pitch with 0 points so far.",
+     "4922092": "Your new signing **Isak has set up a goal** for his side. Edd is 1 point above you, with Tarkowski still on the pitch.",
+     "4125292": "Hishaan is 3 points above you. Ahmad is 1 point behind you.",
+     "363548": "Bhavik is 1 point above you. Simon is 2 points behind you.",
+     "962024": "Ahmad is 2 points above you. Maanav is 4 points behind you.",
+     "4841175": "Your captain Groß has 4 points. On your armband that is 8.",
+     "5873092": "Maanav is 3 points above you. Will is 5 points behind you.",
+     "7273369": "Justin is 5 points above you. Raushan is 3 points behind you.",
+     "3359227": "Your captain N.Jackson has 2 points. On your armband that is 4.",
+     "6341709": "Raushan is 2 points above you. Naishadh is 5 points behind you.",
+     "1457736": "Your captain N.Jackson has 2 points. On your armband that is 4.",
+     "75187": "You have dropped 3 places this gameweek. Lavesh is 1 point behind you.",
+     "6619523": "Dominic is 1 point above you. Dinesh is 28 points behind you.",
+     "1474501": "Your captain Isak has set up a goal, worth 10 points on your armband.",
+     "383423": "You dropped to 24th earlier today and are back up to 23rd. Isaiah is 4 points behind you.",
+     "3375627": "Your bench call on Tarkowski is being tested as he is on the pitch. Isaiah is 17 points ahead of you.",
+     "5028423": "Tobi is 4 points ahead of you. Earlier this gameweek, 2 managers benched King, who is on the pitch now.",
+     "3591460": "Elvin is 40 points ahead of you. Sasha is 67 points behind you."
+    },
+    "ts": "2026-11-23T20:34:02Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:f:0-0|102:f:2-0|103:i:2-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "573491": 3,
+     "3323262": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "5489583": 7,
+     "1378937": 8,
+     "4922092": 9,
+     "3506595": 10,
+     "4125292": 11,
+     "363548": 12,
+     "962024": 13,
+     "4841175": 14,
+     "5873092": 15,
+     "7273369": 16,
+     "3359227": 17,
+     "6341709": 18,
+     "1457736": 19,
+     "75187": 20,
+     "6619523": 21,
+     "1474501": 22,
+     "3552160": 23,
+     "383423": 23,
+     "5028423": 25,
+     "3375627": 26,
+     "8316989": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 732,
+     "3219276": 722,
+     "573491": 719,
+     "3323262": 710,
+     "1541394": 699,
+     "7471754": 695,
+     "5489583": 677,
+     "1378937": 675,
+     "4922092": 674,
+     "3506595": 672,
+     "4125292": 669,
+     "363548": 668,
+     "962024": 666,
+     "4841175": 662,
+     "5873092": 659,
+     "7273369": 654,
+     "3359227": 651,
+     "6341709": 649,
+     "1457736": 644,
+     "75187": 642,
+     "6619523": 641,
+     "1474501": 613,
+     "3552160": 612,
+     "383423": 612,
+     "5028423": 608,
+     "3375627": 591,
+     "8316989": 590,
+     "3591460": 550,
+     "5706920": 483
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "286": [
+      0,
+      1
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "366": [
+      1,
+      1
+     ],
+     "368": [
+      1,
+      0
+     ],
+     "627": [
+      0,
+      1
+     ],
+     "379": [
+      0,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ],
+     "499": [
+      0,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-23T20:09:24Z"
+   },
    {
     "headline": "Tarkowski on the pitch as Edd and Ravi fight",
     "text": "BRE v EVE is goalless after 5 minutes, with Tarkowski already on **1 point**. Edd started him and sits **2 points** ahead of Ravi, who has no players left to play. If Tarkowski keeps adding points, **Edd** could stretch clear while Ravi waits.",
@@ -7304,169 +7463,6 @@
      "ko": "2026-11-23T20:00:00Z",
      "match": "BRE v EVE"
     }
-   },
-   {
-    "headline": "Ravi sold Barcola, Isaiah banks the assist",
-    "text": "Barcola has set one up, worth **5 points** to Isaiah, the only manager who started him. **Ravi sold Barcola this week**, so the assist lands on the transfer that went wrong. Isaiah sits 5 points behind Tobi in the fight to escape the **Tin Pot**.",
-    "you": {
-     "1092588": "3 managers benched Mbeumo, who is on the pitch for LIV v MUN with 1 point so far.",
-     "3219276": "3 managers benched Mbeumo, including you, and he is on the pitch for LIV v MUN.",
-     "573491": "Cherag is 3 points above you, with one of your players still to play.",
-     "3323262": "Tavernier's earlier assist for you is old news, with Nanik 11 points behind.",
-     "1541394": "Sid is 11 points above you, with Tonna 4 points behind.",
-     "7471754": "Benching Belloumi with Ahmad was costly, since he has now set up a goal.",
-     "5489583": "Benching Mbeumo is now a risk, as he is on the pitch for LIV v MUN.",
-     "1378937": "You dipped to 10th this gameweek and are back up to 8th, with Ravi 1 point behind.",
-     "4922092": "Selling Barcola this week has cost you, as he has just set up a goal.",
-     "3506595": "Barry is still to play, and only you own him, so every point is yours.",
-     "4125292": "Hishaan is 2 points above you, with Ahmad 1 point behind.",
-     "962024": "You were as high as 12th this gameweek, and Ahmad is 2 points above you now.",
-     "4841175": "Your captain Groß has 4 points, worth 8 on your armband.",
-     "5873092": "You have passed Will and Raushan this gameweek, climbing from 17th to 15th.",
-     "7273369": "Maanav and Justin have passed you this gameweek, with Raushan 3 points behind.",
-     "3359227": "Maanav, Justin and Will have all passed you this gameweek, with Tomisin 2 points behind.",
-     "6341709": "You have passed Naishadh, Dominic and Lavesh, climbing from 21st to 18th.",
-     "1457736": "Tomisin is 5 points above you, with Dominic 2 points behind.",
-     "6619523": "Tomisin, Naishadh and Dominic have all passed you this gameweek.",
-     "1474501": "Your captain Isak has set up a goal, worth 10 points on your armband.",
-     "383423": "You have climbed out of the Tin Pot, up 3 places this gameweek, with Isaiah 5 points behind.",
-     "5028423": "Barcola has set up a goal worth 5 points, and only you own him.",
-     "3375627": "Your Triple Captain on Haaland has returned 6 points, with Isaiah 16 points above you.",
-     "3591460": "Garner is still to play, and only you own him."
-    },
-    "ts": "2026-11-22T18:03:54Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:f:2-0|107:i:3-0|108:f:1-1|109:f:2-2|110:f:2-0",
-    "ranks": {
-     "1092588": 1,
-     "3219276": 2,
-     "573491": 3,
-     "3323262": 4,
-     "1541394": 5,
-     "7471754": 6,
-     "5489583": 7,
-     "1378937": 8,
-     "4922092": 9,
-     "3506595": 10,
-     "4125292": 11,
-     "363548": 12,
-     "962024": 13,
-     "4841175": 14,
-     "5873092": 15,
-     "7273369": 16,
-     "3359227": 17,
-     "6341709": 18,
-     "1457736": 19,
-     "75187": 20,
-     "6619523": 21,
-     "3552160": 22,
-     "383423": 22,
-     "1474501": 22,
-     "5028423": 25,
-     "3375627": 26,
-     "8316989": 27,
-     "3591460": 28,
-     "5706920": 29
-    },
-    "totals": {
-     "1092588": 732,
-     "3219276": 722,
-     "573491": 719,
-     "3323262": 710,
-     "1541394": 699,
-     "7471754": 695,
-     "5489583": 677,
-     "1378937": 675,
-     "4922092": 674,
-     "3506595": 671,
-     "4125292": 669,
-     "363548": 668,
-     "962024": 666,
-     "4841175": 662,
-     "5873092": 659,
-     "7273369": 654,
-     "3359227": 651,
-     "6341709": 649,
-     "1457736": 644,
-     "75187": 642,
-     "6619523": 641,
-     "3552160": 612,
-     "383423": 612,
-     "1474501": 612,
-     "5028423": 607,
-     "3375627": 591,
-     "8316989": 590,
-     "3591460": 548,
-     "5706920": 479
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "286": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "366": [
-      1,
-      0
-     ],
-     "368": [
-      1,
-      0
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      0,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ],
-     "499": [
-      0,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-22T18:03:54Z",
-    "next": {
-     "ko": "2026-11-23T20:00:00Z",
-     "match": "BRE v EVE"
-    }
    }
   ],
   "desk_day": {
@@ -7503,7 +7499,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-23T20:09:24Z",
+  "desk_last_ok": "2026-11-23T20:34:02Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -8701,8 +8697,8 @@
     "entry_name": "Wirtz My Jacquet",
     "rank": 8,
     "last_rank": 7,
-    "total": 676,
-    "event_total": 26
+    "total": 675,
+    "event_total": 25
    },
    {
     "entry": 4922092,
@@ -8822,22 +8818,22 @@
     "event_total": 41
    },
    {
-    "entry": 3552160,
-    "player_name": "Saurabh Tiku",
-    "entry_name": "LET'S RUMBLE!!!",
-    "rank": 22,
-    "last_rank": 22,
-    "total": 613,
-    "event_total": 32
-   },
-   {
     "entry": 1474501,
     "player_name": "Dinesh Relwani",
     "entry_name": "Lovdenya Bhojyam",
-    "rank": 23,
+    "rank": 22,
     "last_rank": 24,
     "total": 613,
     "event_total": 35
+   },
+   {
+    "entry": 3552160,
+    "player_name": "Saurabh Tiku",
+    "entry_name": "LET'S RUMBLE!!!",
+    "rank": 23,
+    "last_rank": 22,
+    "total": 612,
+    "event_total": 31
    },
    {
     "entry": 383423,
@@ -8863,8 +8859,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 595,
-    "event_total": 41
+    "total": 591,
+    "event_total": 37
    },
    {
     "entry": 8316989,
@@ -8872,8 +8868,8 @@
     "entry_name": "EA FC",
     "rank": 27,
     "last_rank": 26,
-    "total": 591,
-    "event_total": 30
+    "total": 590,
+    "event_total": 29
    },
    {
     "entry": 3591460,
@@ -8881,8 +8877,8 @@
     "entry_name": "GoonerVision",
     "rank": 28,
     "last_rank": 28,
-    "total": 554,
-    "event_total": 33
+    "total": 550,
+    "event_total": 29
    },
    {
     "entry": 5706920,
@@ -8890,8 +8886,8 @@
     "entry_name": "Vicecityfc",
     "rank": 29,
     "last_rank": 29,
-    "total": 488,
-    "event_total": 44
+    "total": 483,
+    "event_total": 39
    }
   ]
  },
@@ -15520,10 +15516,8 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-23T20:23:16Z",
-  "issues": [
-   "desk written from older totals (3 managers changed since)"
-  ],
+  "ts": "2026-11-23T20:34:02Z",
+  "issues": [],
   "page": [],
   "wording": [
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
