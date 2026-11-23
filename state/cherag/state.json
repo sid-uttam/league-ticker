@@ -10932,15 +10932,6 @@
     "event_total": 29
    },
    {
-    "entry": 480904,
-    "player_name": "Nehal Reddy",
-    "entry_name": "Bangchester United",
-    "rank": 42,
-    "last_rank": 35,
-    "total": 688,
-    "event_total": 29
-   },
-   {
     "entry": 10821,
     "player_name": "Ram Narayan",
     "entry_name": "FPL Neutral",
@@ -10948,6 +10939,15 @@
     "last_rank": 48,
     "total": 688,
     "event_total": 40
+   },
+   {
+    "entry": 480904,
+    "player_name": "Nehal Reddy",
+    "entry_name": "Bangchester United",
+    "rank": 42,
+    "last_rank": 35,
+    "total": 688,
+    "event_total": 29
    },
    {
     "entry": 32831,
@@ -10959,15 +10959,6 @@
     "event_total": 35
    },
    {
-    "entry": 1425044,
-    "player_name": "Manav Malhotra",
-    "entry_name": "Brain-Heart 11",
-    "rank": 45,
-    "last_rank": 39,
-    "total": 687,
-    "event_total": 33
-   },
-   {
     "entry": 13951,
     "player_name": "Sagar C",
     "entry_name": "Champs",
@@ -10975,6 +10966,15 @@
     "last_rank": 53,
     "total": 687,
     "event_total": 43
+   },
+   {
+    "entry": 1425044,
+    "player_name": "Manav Malhotra",
+    "entry_name": "Brain-Heart 11",
+    "rank": 45,
+    "last_rank": 39,
+    "total": 687,
+    "event_total": 33
    },
    {
     "entry": 4558790,
@@ -11013,15 +11013,6 @@
     "event_total": 37
    },
    {
-    "entry": 119217,
-    "player_name": "Kunaal Dadwal",
-    "entry_name": "Chutzpah",
-    "rank": 51,
-    "last_rank": 56,
-    "total": 683,
-    "event_total": 41
-   },
-   {
     "entry": 675013,
     "player_name": "Amar Sarvaria",
     "entry_name": "Wirtz Behavior",
@@ -11029,6 +11020,15 @@
     "last_rank": 40,
     "total": 683,
     "event_total": 30
+   },
+   {
+    "entry": 119217,
+    "player_name": "Kunaal Dadwal",
+    "entry_name": "Chutzpah",
+    "rank": 51,
+    "last_rank": 56,
+    "total": 683,
+    "event_total": 41
    },
    {
     "entry": 3654448,
@@ -11238,15 +11238,6 @@
     "event_total": 26
    },
    {
-    "entry": 6830291,
-    "player_name": "Karan P Nanda",
-    "entry_name": "Justlikethat",
-    "rank": 76,
-    "last_rank": 76,
-    "total": 656,
-    "event_total": 35
-   },
-   {
     "entry": 1737924,
     "player_name": "Rajat Bhalla",
     "entry_name": "Break all hell ⚽️",
@@ -11254,6 +11245,15 @@
     "last_rank": 75,
     "total": 656,
     "event_total": 34
+   },
+   {
+    "entry": 6830291,
+    "player_name": "Karan P Nanda",
+    "entry_name": "Justlikethat",
+    "rank": 76,
+    "last_rank": 76,
+    "total": 656,
+    "event_total": 35
    },
    {
     "entry": 438967,
@@ -60580,17 +60580,17 @@
    "4151180": 39,
    "5640988": 40,
    "257074": 40,
-   "480904": 42,
    "10821": 42,
+   "480904": 42,
    "32831": 44,
-   "1425044": 44,
    "13951": 44,
+   "1425044": 44,
    "4558790": 47,
    "3560542": 47,
    "249619": 47,
    "248721": 50,
-   "119217": 51,
    "675013": 51,
+   "119217": 51,
    "3654448": 51,
    "4540238": 51,
    "4134138": 55,
@@ -60614,8 +60614,8 @@
    "10615": 72,
    "3086063": 74,
    "4314690": 75,
-   "6830291": 76,
    "1737924": 76,
+   "6830291": 76,
    "438967": 76,
    "11673": 79,
    "44532": 80,
@@ -60695,17 +60695,17 @@
    "4151180": null,
    "5640988": null,
    "257074": null,
-   "480904": null,
    "10821": null,
+   "480904": null,
    "32831": null,
-   "1425044": null,
    "13951": null,
+   "1425044": null,
    "4558790": null,
    "3560542": null,
    "249619": null,
    "248721": null,
-   "119217": null,
    "675013": null,
+   "119217": null,
    "3654448": null,
    "4540238": null,
    "4134138": null,
@@ -60729,8 +60729,8 @@
    "10615": null,
    "3086063": null,
    "4314690": null,
-   "6830291": null,
    "1737924": null,
+   "6830291": null,
    "438967": null,
    "11673": null,
    "44532": null,
@@ -60769,7 +60769,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T18:22:11Z",
+ "updated": "2026-11-23T18:32:56Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67198,7 +67198,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T18:22:11Z",
+  "ts": "2026-11-23T18:32:56Z",
   "issues": [],
   "page": [],
   "wording": [
