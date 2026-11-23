@@ -3863,7 +3863,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-23T22:08:16Z",
+ "updated": "2026-11-23T22:24:18Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -15853,40 +15853,9 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-23T22:08:16Z",
+  "ts": "2026-11-23T22:24:18Z",
   "issues": [],
-  "page": [
-   "briefing for Cherag: \"You sit 2nd, 8 behind Ayodele, after Rayan blanked on 2 with the armband.\" has a gap of 8; the gaps between Ayodele / Cherag are 10",
-   "briefing for Sid: \"You are 3rd on 671 after a 60 gameweek, 21 behind Cherag and 1 ahead of Nihal.\" has a total of 671; Cherag / Nihal / Sid are on 710, 720, 722",
-   "briefing for Sid: \"You are 3rd on 671 after a 60 gameweek, 21 behind Cherag and 1 ahead of Nihal.\" has a gap of 21; the gaps between Cherag / Nihal / Sid are 2, 10, 12",
-   "briefing for Sid: \"You are 3rd on 671 after a 60 gameweek, 21 behind Cherag and 1 ahead of Nihal.\" has a gap of 1; the gaps between Cherag / Nihal / Sid are 2, 10, 12",
-   "briefing for Nihal: \"You are 4th on 670 after a 67 gameweek, 1 behind Sid and 7 clear of Nanik.\" has a total of 670; Nanik / Nihal / Sid are on 699, 710, 720",
-   "briefing for Nihal: \"You are 4th on 670 after a 67 gameweek, 1 behind Sid and 7 clear of Nanik.\" has a gap of 1; the gaps between Nanik / Nihal / Sid are 10, 11, 21",
-   "briefing for Nihal: \"You are 4th on 670 after a 67 gameweek, 1 behind Sid and 7 clear of Nanik.\" has a gap of 7; the gaps between Nanik / Nihal / Sid are 10, 11, 21",
-   "briefing for Omar: \"You are 8th on 644 after a 57 gameweek, 6 behind Edd and 10 ahead of Bhavik.\" has a total of 644; Bhavik / Edd / Omar are on 669, 671, 678",
-   "briefing for Omar: \"You are 8th on 644 after a 57 gameweek, 6 behind Edd and 10 ahead of Bhavik.\" has a gap of 6; the gaps between Bhavik / Edd / Omar are 2, 7, 9",
-   "briefing for Omar: \"You are 8th on 644 after a 57 gameweek, 6 behind Edd and 10 ahead of Bhavik.\" has a gap of 10; the gaps between Bhavik / Edd / Omar are 2, 7, 9",
-   "briefing for Bhavik: \"You are 9th on 634 after a 51 gameweek, level with Hishaan on points.\" has a total of 634; Bhavik / Hishaan are on 669, 673",
-   "briefing for Edd: \"You are 7th on 650 after scoring 67, 8 behind Tonna and 6 ahead of Omar.\" has a total of 650; Edd / Omar / Tonna are on 671, 678, 696",
-   "briefing for Edd: \"You are 7th on 650 after scoring 67, 8 behind Tonna and 6 ahead of Omar.\" has a gap of 8; the gaps between Edd / Omar / Tonna are 7, 18, 25",
-   "briefing for Edd: \"You are 7th on 650 after scoring 67, 8 behind Tonna and 6 ahead of Omar.\" has a gap of 6; the gaps between Edd / Omar / Tonna are 7, 18, 25",
-   "briefing for Ravi: \"You are 13th on 629 after a 47 gameweek, 1 behind Ahmad and 3 ahead of Raushan.\" has a total of 629; Ahmad / Raushan / Ravi are on 651, 668, 674",
-   "briefing for Ravi: \"You are 13th on 629 after a 47 gameweek, 1 behind Ahmad and 3 ahead of Raushan.\" has a gap of 1; the gaps between Ahmad / Raushan / Ravi are 6, 17, 23",
-   "briefing for Ravi: \"You are 13th on 629 after a 47 gameweek, 1 behind Ahmad and 3 ahead of Raushan.\" has a gap of 3; the gaps between Ahmad / Raushan / Ravi are 6, 17, 23",
-   "briefing for Ahmad: \"You are 12th on 630 after a 50 gameweek, 1 behind Simon and 1 ahead of Ravi.\" has a total of 630; Ahmad / Ravi / Simon are on 666, 668, 674",
-   "briefing for Ahmad: \"You are 12th on 630 after a 50 gameweek, 1 behind Simon and 1 ahead of Ravi.\" has a gap of 1; the gaps between Ahmad / Ravi / Simon are 2, 6, 8",
-   "briefing for Ahmad: \"You are 12th on 630 after a 50 gameweek, 1 behind Simon and 1 ahead of Ravi.\" has a gap of 1; the gaps between Ahmad / Ravi / Simon are 2, 6, 8",
-   "briefing for Raushan: \"You are 14th on 626 after a 59 gameweek, 3 behind Ravi and 7 ahead of Will.\" has a total of 626; Raushan / Ravi / Will are on 651, 654, 674",
-   "briefing for Raushan: \"You are 14th on 626 after a 59 gameweek, 3 behind Ravi and 7 ahead of Will.\" has a gap of 7; the gaps between Raushan / Ravi / Will are 3, 20, 23",
-   "briefing for Simon: \"You are 11th on 631 after a 64 gameweek, 3 behind Hishaan and 1 ahead of Ahmad.\" has a total of 631; Ahmad / Hishaan / Simon are on 666, 668, 673",
-   "briefing for Simon: \"You are 11th on 631 after a 64 gameweek, 3 behind Hishaan and 1 ahead of Ahmad.\" has a gap of 3; the gaps between Ahmad / Hishaan / Simon are 2, 5, 7",
-   "briefing for Simon: \"You are 11th on 631 after a 64 gameweek, 3 behind Hishaan and 1 ahead of Ahmad.\" has a gap of 1; the gaps between Ahmad / Hishaan / Simon are 2, 5, 7",
-   "briefing for Hishaan: \"You are tied 9th on 634 after Barry's 32 captain points lifted you from 14th.\" has a total of 634; Hishaan are on 673",
-   "briefing for Naishadh: \"You are 16th on 615 after a 60 gameweek, 4 behind Will and 3 ahead of Justin.\" has a total of 615; Justin / Naishadh / Will are on 644, 654, 659",
-   "briefing for Naishadh: \"You are 16th on 615 after a 60 gameweek, 4 behind Will and 3 ahead of Justin.\" has a gap of 4; the gaps between Justin / Naishadh / Will are 5, 10, 15",
-   "briefing for Naishadh: \"You are 16th on 615 after a 60 gameweek, 4 behind Will and 3 ahead of Justin.\" has a gap of 3; the gaps between Justin / Naishadh / Will are 5, 10, 15",
-   "briefing for Tomisin: \"You are 20th on 603 after a 52 gameweek, 2 behind Maanav and 3 ahead of Lavesh.\" has a total of 603; Lavesh / Maanav / Tomisin are on 641, 649, 663"
-  ],
+  "page": [],
   "wording": [
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
    "wording (1 points): ...ained 6 on you.      Konsa ARS   Scored 1 pts        13...",

@@ -10692,7 +10692,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-23T22:13:06Z",
+ "updated": "2026-11-23T22:24:52Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -13812,40 +13812,9 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-23T22:13:06Z",
+  "ts": "2026-11-23T22:24:52Z",
   "issues": [],
-  "page": [
-   "briefing for Nikhil: \"You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back.\" has a total of 723; Deepak / Matt / Nikhil are on 732, 757, 774",
-   "briefing for Nikhil: \"You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back.\" has a gap of 1; the gaps between Deepak / Matt / Nikhil are 17, 25, 42",
-   "briefing for Matt: \"You are 2nd on 722 after your 96-point Bench Boost, just 1 behind Nikhil.\" has a total of 722; Matt / Nikhil are on 757, 774",
-   "briefing for Matt: \"You are 2nd on 722 after your 96-point Bench Boost, just 1 behind Nikhil.\" has a gap of 1; the gaps between Matt / Nikhil are 17",
-   "briefing for Chandru: \"You are 5th on 696 with 11 points on Ravin.\" has a total of 696; Chandru / Ravin are on 731, 735",
-   "briefing for Rohan: \"You are 6th on 674 and remain a template owner.\" has a total of 674; Rohan are on 718",
-   "briefing for Rohan: \"Hold steady and watch Prem, only 5 points behind you.\" has a gap of 5; the gaps between Prem / Rohan are 23",
-   "briefing for Sunny: \"You are 8th on 667 after a 63-point week.\" has a total of 667; Sunny are on 734",
-   "briefing for Amit: \"You are 9th on 658, climbing from 11th.\" has a total of 658; Amit are on 707",
-   "briefing for Sunil: \"You are 10th on 654 after Evanilson's 18 as captain.\" has a total of 654; Sunil are on 687",
-   "briefing for Aashiv: \"You are 11th on 653 and just 1 point ahead of Sahil.\" has a total of 653; Aashiv / Sahil are on 687, 697",
-   "briefing for Aashiv: \"You are 11th on 653 and just 1 point ahead of Sahil.\" has a gap of 1; the gaps between Aashiv / Sahil are 10",
-   "briefing for Marcel: \"You are 13th on 647 after a 74-point week.\" has a total of 647; Marcel are on 681",
-   "briefing for Poonam: \"You are 14th on 636, 11 ahead of Marcel and 2 ahead of Hishaan.\" has a total of 636; Hishaan / Marcel / Poonam are on 673, 675, 681",
-   "briefing for Poonam: \"You are 14th on 636, 11 ahead of Marcel and 2 ahead of Hishaan.\" has a gap of 11; the gaps between Hishaan / Marcel / Poonam are 2, 6, 8",
-   "briefing for Hishaan: \"You are 15th on 634 after a 74-point week and Barry's 32 captaincy.\" has a total of 634; Hishaan are on 673",
-   "briefing for Vanessa: \"You are 15th on 634 with the Ajayi and Bogle squad.\" has a total of 634; Vanessa are on 677",
-   "briefing for Ravi Mahtani: \"You are 17th on 629 after a 47-point week.\" has a total of 629; Ravi Mahtani are on 674",
-   "briefing for Pishu: \"You are 20th on 619 after N.Jackson's 22 from your captaincy.\" has a total of 619; Pishu are on 648",
-   "briefing for Lakshay: \"You are 21st on 618 after Palmer's blank captaincy returned just 2.\" has a total of 618; Lakshay are on 645",
-   "briefing for Vinesh: \"You are 23rd on 612 and Haaland's captaincy returned 4.\" has a total of 612; Vinesh are on 641",
-   "briefing for Ravi Bhojwani: \"You are 24th on 600 after a 64-point Bench Boost week.\" has a total of 600; Ravi Bhojwani are on 643",
-   "briefing for Ravin: \"You dropped from 1st to 4th on 707 after Rogers returned just 2.\" has a total of 707; Ravin are on 735",
-   "briefing for Prem: \"You are 7th on 669, 2 points ahead of Sunny.\" has a total of 669; Prem / Sunny are on 695, 734",
-   "briefing for Prem: \"You are 7th on 669, 2 points ahead of Sunny.\" has a gap of 2; the gaps between Prem / Sunny are 39",
-   "briefing for Sahil: \"You are 12th on 652, 1 behind Aashiv and 5 ahead of Marcel.\" has a total of 652; Aashiv / Marcel / Sahil are on 681, 687, 697",
-   "briefing for Sahil: \"You are 12th on 652, 1 behind Aashiv and 5 ahead of Marcel.\" has a gap of 1; the gaps between Aashiv / Marcel / Sahil are 6, 10, 16",
-   "briefing for Sahil: \"You are 12th on 652, 1 behind Aashiv and 5 ahead of Marcel.\" has a gap of 5; the gaps between Aashiv / Marcel / Sahil are 6, 10, 16",
-   "briefing for Naresh: \"You are 19th on 628 and Naresh's Haaland captaincy returned 4.\" has a total of 628; Naresh are on 678",
-   "briefing for Bella: \"You are 26th on 560, the bottom of the table.\" has a total of 560; Bella are on 617"
-  ],
+  "page": [],
   "wording": [
    "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        13...",
    "wording (1 points): ...d much from him.      Raya ARS   Scored 1 pts        13..."

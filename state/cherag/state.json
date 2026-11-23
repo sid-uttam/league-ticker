@@ -10617,15 +10617,6 @@
     "event_total": 34
    },
    {
-    "entry": 4722308,
-    "player_name": "Biswadeep Majumdar",
-    "entry_name": "quadrupliraola",
-    "rank": 7,
-    "last_rank": 7,
-    "total": 730,
-    "event_total": 31
-   },
-   {
     "entry": 1273065,
     "player_name": "Prathap Devadiga",
     "entry_name": "Waka waka 11",
@@ -10633,6 +10624,15 @@
     "last_rank": 9,
     "total": 730,
     "event_total": 36
+   },
+   {
+    "entry": 4722308,
+    "player_name": "Biswadeep Majumdar",
+    "entry_name": "quadrupliraola",
+    "rank": 7,
+    "last_rank": 7,
+    "total": 730,
+    "event_total": 31
    },
    {
     "entry": 1902223,
@@ -11175,15 +11175,6 @@
     "event_total": 30
    },
    {
-    "entry": 2922453,
-    "player_name": "Abhishek Yerra",
-    "entry_name": "Ctrl + Alt + De Ligt",
-    "rank": 69,
-    "last_rank": 70,
-    "total": 665,
-    "event_total": 38
-   },
-   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
@@ -11200,6 +11191,15 @@
     "last_rank": 60,
     "total": 665,
     "event_total": 26
+   },
+   {
+    "entry": 2922453,
+    "player_name": "Abhishek Yerra",
+    "entry_name": "Ctrl + Alt + De Ligt",
+    "rank": 69,
+    "last_rank": 70,
+    "total": 665,
+    "event_total": 38
    },
    {
     "entry": 4372346,
@@ -11238,15 +11238,6 @@
     "event_total": 26
    },
    {
-    "entry": 1737924,
-    "player_name": "Rajat Bhalla",
-    "entry_name": "Break all hell ⚽️",
-    "rank": 76,
-    "last_rank": 75,
-    "total": 656,
-    "event_total": 34
-   },
-   {
     "entry": 6830291,
     "player_name": "Karan P Nanda",
     "entry_name": "Justlikethat",
@@ -11254,6 +11245,15 @@
     "last_rank": 76,
     "total": 656,
     "event_total": 35
+   },
+   {
+    "entry": 1737924,
+    "player_name": "Rajat Bhalla",
+    "entry_name": "Break all hell ⚽️",
+    "rank": 76,
+    "last_rank": 75,
+    "total": 656,
+    "event_total": 34
    },
    {
     "entry": 438967,
@@ -11427,15 +11427,6 @@
     "event_total": 45
    },
    {
-    "entry": 8779992,
-    "player_name": "Kartik Kak",
-    "entry_name": "Top FC",
-    "rank": 97,
-    "last_rank": 100,
-    "total": 627,
-    "event_total": 41
-   },
-   {
     "entry": 4905114,
     "player_name": "Anuj Joglekar",
     "entry_name": "Summer Tzolstis",
@@ -11443,6 +11434,15 @@
     "last_rank": 87,
     "total": 627,
     "event_total": 22
+   },
+   {
+    "entry": 8779992,
+    "player_name": "Kartik Kak",
+    "entry_name": "Top FC",
+    "rank": 97,
+    "last_rank": 100,
+    "total": 627,
+    "event_total": 41
    },
    {
     "entry": 4616626,
@@ -60803,8 +60803,8 @@
    "1325491": 3,
    "13978": 5,
    "136653": 5,
-   "4722308": 7,
    "1273065": 7,
+   "4722308": 7,
    "1902223": 7,
    "2429776": 10,
    "3949616": 11,
@@ -60865,15 +60865,15 @@
    "4632544": 66,
    "383029": 67,
    "2569620": 68,
-   "2922453": 69,
    "4592187": 69,
    "26707": 69,
+   "2922453": 69,
    "4372346": 72,
    "3086063": 72,
    "10615": 74,
    "4314690": 75,
-   "1737924": 76,
    "6830291": 76,
+   "1737924": 76,
    "438967": 76,
    "44532": 79,
    "11673": 79,
@@ -60893,8 +60893,8 @@
    "3298199": 93,
    "5734029": 95,
    "3794959": 96,
-   "8779992": 97,
    "4905114": 97,
+   "8779992": 97,
    "4616626": 99,
    "1967440": 99,
    "1474501": 101,
@@ -60918,8 +60918,8 @@
    "1325491": "gold",
    "13978": "gold",
    "136653": "gold",
-   "4722308": "gold",
    "1273065": "gold",
+   "4722308": "gold",
    "1902223": "gold",
    "2429776": "silver",
    "3949616": "silver",
@@ -60980,15 +60980,15 @@
    "4632544": null,
    "383029": null,
    "2569620": null,
-   "2922453": null,
    "4592187": null,
    "26707": null,
+   "2922453": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
    "4314690": null,
-   "1737924": null,
    "6830291": null,
+   "1737924": null,
    "438967": null,
    "44532": null,
    "11673": null,
@@ -61008,8 +61008,8 @@
    "3298199": null,
    "5734029": null,
    "3794959": null,
-   "8779992": null,
    "4905114": null,
+   "8779992": null,
    "4616626": null,
    "1967440": null,
    "1474501": null,
@@ -61027,11 +61027,11 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T22:09:28Z",
+ "updated": "2026-11-23T22:24:39Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
-  "ts": "2026-11-23T21:44:47Z",
+  "ts": "2026-11-23T22:24:39Z",
   "usage": {
    "10": {
     "in": 1227421,
@@ -61044,10 +61044,10 @@
     "plots": 4
    },
    "11": {
-    "in": 4414972,
-    "out": 782707,
-    "calls": 308,
-    "refreshes": 24,
+    "in": 4446940,
+    "out": 783913,
+    "calls": 310,
+    "refreshes": 25,
     "desks": 39,
     "desk_in": 3606633,
     "desk_out": 718324,
@@ -67340,40 +67340,9 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T22:09:28Z",
+  "ts": "2026-11-23T22:24:39Z",
   "issues": [],
-  "page": [
-   "line for Shrivar: \"Your 8-place climb to 53rd, with 46 points, put you level with Amar and 16 ahead of Rishab.\" has a gap of 16; the gaps between Amar / Rishab / Shrivar are 0, 3",
-   "briefing for Rajat Arora: \"{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to\" has a total of 759; Neol / Rajat Arora are on 745, 766",
-   "briefing for Rajat Arora: \"{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to\" has a gap of 19; the gaps between Neol / Rajat Arora are 21",
-   "briefing for Neol: \"{'head': 'Neol', 'body': \"You sit 2nd on 740, 19 behind the leader, and Vuskovic is the only one lef\" has a total of 740; Neol / Rajat Arora are on 745, 766",
-   "briefing for Neol: \"{'head': 'Neol', 'body': \"You sit 2nd on 740, 19 behind the leader, and Vuskovic is the only one lef\" has a gap of 19; the gaps between Neol / Rajat Arora are 21",
-   "briefing for Aryan Khamankar: \"{'head': 'Aryan Khamankar', 'body': \"You are 6th on 729, 1 behind Akshat and 5 ahead of Kshiteesh.\" has a gap of 5; the gaps between Akshat / Aryan Khamankar / Kshiteesh are 1, 12, 13",
-   "briefing for Akshat: \"{'head': 'Akshat', 'body': \"You are 5th on 730 with Isak's rival Mbeumo still to come in your orbit.\" has a total of 730; Akshat are on 742",
-   "briefing for Yash Bhatia: \"You are level on 702 in 4th after a 56-point week, with 19 points left on the bench.\" has a total of 702; Yash Bhatia are on 741",
-   "briefing for Biswadeep: \"{'head': 'Biswadeep', 'body': 'You are 9th on 722 and 1 behind Prathap.\" has a total of 722; Biswadeep / Prathap are on 730",
-   "briefing for Biswadeep: \"{'head': 'Biswadeep', 'body': 'You are 9th on 722 and 1 behind Prathap.\" has a gap of 1; the gaps between Biswadeep / Prathap are 0",
-   "briefing for Sukrut: \"{'head': 'Sukrut', 'body': \"You jumped to 3rd on 736 after scoring 37 this week.\" has a total of 736; Sukrut are on 742",
-   "briefing for Sukrut: \"{'head': 'Sukrut', 'body': \"You jumped to 3rd on 736 after scoring 37 this week.\" has a week score of 37; Sukrut scored 43",
-   "briefing for Kshiteesh: \"{'head': 'Kshiteesh', 'body': 'You are 7th on 724 after 29 this week, with Thiaw having scored for y\" has a total of 724; Kshiteesh are on 729",
-   "briefing for Kshiteesh: \"{'head': 'Kshiteesh', 'body': 'You are 7th on 724 after 29 this week, with Thiaw having scored for y\" has a week score of 29; Kshiteesh scored 34",
-   "briefing for Prathap: \"{'head': 'Prathap', 'body': 'You are 8th on 723 with 29 points this week.\" has a total of 723; Prathap are on 730",
-   "briefing for Prathap: \"{'head': 'Prathap', 'body': 'You are 8th on 723 with 29 points this week.\" has a week score of 29; Prathap scored 36",
-   "briefing for Cherag: \"{'head': 'Cherag', 'body': 'You are 10th on 717, 5 behind Biswadeep.\" has a total of 717; Biswadeep / Cherag are on 722, 730",
-   "briefing for Cherag: \"{'head': 'Cherag', 'body': 'You are 10th on 717, 5 behind Biswadeep.\" has a gap of 5; the gaps between Biswadeep / Cherag are 8",
-   "briefing for Quseem: \"You are 11th on 687 after a 56-point week, with Haaland's 4 armband return hurting.\" has a total of 687; Quseem are on 715",
-   "briefing for Utkarsh: \"You are 12th on 687 after a 67-point week, with Haaland's 4 armband return holding you back.\" has a total of 687; Utkarsh are on 724",
-   "briefing for Clawin: \"{'head': 'Clawin', 'body': 'You are 12th on 715, tied with Karan Singh.\" has a total of 715; Clawin / Karan Singh are on 722, 730",
-   "briefing for Karan Singh: \"{'head': 'Karan Singh', 'body': 'You are 12th on 715 with 32 this week, level with Clawin and Utkars\" has a total of 715; Clawin / Karan Singh / Utkarsh are on 722, 724, 730",
-   "briefing for Karan Singh: \"{'head': 'Karan Singh', 'body': 'You are 12th on 715 with 32 this week, level with Clawin and Utkars\" has a week score of 32; Clawin / Karan Singh / Utkarsh scored 36, 37, 47",
-   "briefing for Anurag: \"{'head': 'Anurag', 'body': 'You climbed to 11th on 716 after 35 this week.\" has a total of 716; Anurag are on 722",
-   "briefing for Anurag: \"{'head': 'Anurag', 'body': 'You climbed to 11th on 716 after 35 this week.\" has a week score of 35; Anurag scored 41",
-   "briefing for Arshad: \"You are 29th on 666 after a 79-point week, a leap from 46th, with Gabriel's 16 armband return.\" has a total of 666; Arshad are on 712",
-   "briefing for Mayuresh: \"You are 30th on 664 after a 57-point week, with Haaland's 4 armband return holding you back.\" has a total of 664; Mayuresh are on 686",
-   "briefing for Nanik: \"You are 31st on 663 after a 65-point week, with Haaland's 4 armband return.\" has a total of 663; Nanik are on 699",
-   "briefing for Nishit: \"You are 32nd on 662 after a 65-point week, with Calafiori's 12 armband return.\" has a total of 662; Nishit are on 692",
-   "briefing for Janak: \"{'head': 'Janak', 'body': \"You are 109th on 577 after 30 this week, with Haaland's 4 still to count.\" has a total of 577; Janak are on 593"
-  ],
+  "page": [],
   "wording": [
    "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        63...",
    "wording (1 points): ...d much from him.      Raya ARS   Scored 1 pts        44..."
