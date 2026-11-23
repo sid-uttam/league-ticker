@@ -10959,15 +10959,6 @@
     "event_total": 53
    },
    {
-    "entry": 13951,
-    "player_name": "Sagar C",
-    "entry_name": "Champs",
-    "rank": 45,
-    "last_rank": 53,
-    "total": 687,
-    "event_total": 43
-   },
-   {
     "entry": 1425044,
     "player_name": "Manav Malhotra",
     "entry_name": "Brain-Heart 11",
@@ -10975,6 +10966,15 @@
     "last_rank": 39,
     "total": 687,
     "event_total": 33
+   },
+   {
+    "entry": 13951,
+    "player_name": "Sagar C",
+    "entry_name": "Champs",
+    "rank": 45,
+    "last_rank": 53,
+    "total": 687,
+    "event_total": 43
    },
    {
     "entry": 3239284,
@@ -60841,8 +60841,8 @@
    "257074": 39,
    "10821": 43,
    "3560542": 43,
-   "13951": 45,
    "1425044": 45,
+   "13951": 45,
    "3239284": 45,
    "4558790": 48,
    "249619": 48,
@@ -60956,8 +60956,8 @@
    "257074": null,
    "10821": null,
    "3560542": null,
-   "13951": null,
    "1425044": null,
+   "13951": null,
    "3239284": null,
    "4558790": null,
    "249619": null,
@@ -61027,7 +61027,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T23:08:10Z",
+ "updated": "2026-11-23T23:19:02Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -67340,7 +67340,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T23:08:10Z",
+  "ts": "2026-11-23T23:19:02Z",
   "issues": [],
   "page": [],
   "wording": [
