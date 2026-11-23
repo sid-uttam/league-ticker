@@ -2619,10 +2619,19 @@
     "event_total": 34
    },
    {
+    "entry": 3314780,
+    "player_name": "Ravi Bhojwani",
+    "entry_name": "Five Star XI",
+    "rank": 21,
+    "last_rank": 24,
+    "total": 646,
+    "event_total": 46
+   },
+   {
     "entry": 865376,
     "player_name": "Lakshay Vachani",
     "entry_name": "Net Six and Chill",
-    "rank": 21,
+    "rank": 22,
     "last_rank": 21,
     "total": 644,
     "event_total": 26
@@ -2631,19 +2640,10 @@
     "entry": 7043406,
     "player_name": "Rajiv Chainani",
     "entry_name": "Rajiv's Team",
-    "rank": 22,
+    "rank": 23,
     "last_rank": 22,
     "total": 644,
     "event_total": 31
-   },
-   {
-    "entry": 3314780,
-    "player_name": "Ravi Bhojwani",
-    "entry_name": "Five Star XI",
-    "rank": 23,
-    "last_rank": 24,
-    "total": 643,
-    "event_total": 43
    },
    {
     "entry": 6159011,
@@ -7616,6 +7616,22 @@
  },
  "stories": [
   {
+   "key": "z11:3314780:tin",
+   "kind": "live",
+   "tag": "Table",
+   "head": "Ravi Bhojwani climbs out of the Tin Pot",
+   "body": "Up to 21st. Lakshay and Rajiv go down instead.",
+   "stat": "21st (live)",
+   "score": 62,
+   "who": [
+    865376,
+    3314780,
+    7043406
+   ],
+   "ts": "2026-11-23T20:23:40Z",
+   "gw": 11
+  },
+  {
    "key": "d11:onpitch:249",
    "kind": "live",
    "tag": "Bench",
@@ -9423,7 +9439,8 @@
   "l11:ret:627:0:1",
   "d11:sold:627:0:1",
   "d11:bought:366:1:1",
-  "d11:onpitch:249"
+  "d11:onpitch:249",
+  "z11:3314780:tin"
  ],
  "done": [
   "deadline:10",
@@ -9857,7 +9874,7 @@
     1,
     0,
     0,
-    10,
+    21,
     0,
     0,
     0
@@ -9868,7 +9885,7 @@
     1,
     0,
     0,
-    10,
+    21,
     0,
     0,
     0
@@ -10349,10 +10366,10 @@
    "226": [
     0,
     0,
-    1,
+    4,
     0,
     0,
-    10,
+    21,
     0,
     0,
     0
@@ -10363,7 +10380,7 @@
     1,
     0,
     0,
-    10,
+    21,
     0,
     0,
     0
@@ -10374,7 +10391,7 @@
     1,
     0,
     0,
-    10,
+    21,
     0,
     0,
     0
@@ -10385,7 +10402,7 @@
     1,
     0,
     0,
-    10,
+    21,
     0,
     0,
     0
@@ -10396,7 +10413,7 @@
     1,
     0,
     0,
-    10,
+    21,
     0,
     0,
     0
@@ -10473,7 +10490,7 @@
     1,
     0,
     0,
-    10,
+    21,
     0,
     0,
     0
@@ -10516,9 +10533,9 @@
    "3506595": 18,
    "2465483": 19,
    "6279027": 20,
-   "865376": 21,
-   "7043406": 21,
-   "3314780": 23,
+   "3314780": 21,
+   "865376": 22,
+   "7043406": 22,
    "6159011": 24,
    "6051923": 25,
    "6476662": 26
@@ -10544,15 +10561,15 @@
    "3506595": null,
    "2465483": null,
    "6279027": null,
-   "865376": null,
-   "7043406": null,
-   "3314780": "tinpot",
+   "3314780": null,
+   "865376": "tinpot",
+   "7043406": "tinpot",
    "6159011": "tinpot",
    "6051923": "tinpot",
    "6476662": "tinpot"
   }
  },
- "updated": "2026-11-23T20:12:11Z",
+ "updated": "2026-11-23T20:23:40Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -13443,8 +13460,10 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-23T20:12:11Z",
-  "issues": [],
+  "ts": "2026-11-23T20:23:40Z",
+  "issues": [
+   "desk written from older totals (1 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        13...",

@@ -3018,7 +3018,7 @@
     1,
     0,
     0,
-    8,
+    21,
     0,
     0,
     0
@@ -3029,7 +3029,7 @@
     1,
     0,
     0,
-    8,
+    21,
     0,
     0,
     0
@@ -3620,10 +3620,10 @@
    "226": [
     0,
     0,
-    1,
+    4,
     0,
     0,
-    8,
+    21,
     0,
     0,
     0
@@ -3634,7 +3634,7 @@
     1,
     0,
     0,
-    8,
+    21,
     0,
     0,
     0
@@ -3656,7 +3656,7 @@
     1,
     0,
     0,
-    8,
+    21,
     0,
     0,
     0
@@ -3733,7 +3733,7 @@
     1,
     0,
     0,
-    8,
+    21,
     0,
     0,
     0
@@ -3829,7 +3829,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-23T20:09:24Z",
+ "updated": "2026-11-23T20:23:16Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -8863,8 +8863,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 592,
-    "event_total": 38
+    "total": 595,
+    "event_total": 41
    },
    {
     "entry": 8316989,
@@ -8881,8 +8881,8 @@
     "entry_name": "GoonerVision",
     "rank": 28,
     "last_rank": 28,
-    "total": 551,
-    "event_total": 30
+    "total": 554,
+    "event_total": 33
    },
    {
     "entry": 5706920,
@@ -8890,8 +8890,8 @@
     "entry_name": "Vicecityfc",
     "rank": 29,
     "last_rank": 29,
-    "total": 485,
-    "event_total": 41
+    "total": 488,
+    "event_total": 44
    }
   ]
  },
@@ -15520,8 +15520,10 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-23T20:09:24Z",
-  "issues": [],
+  "ts": "2026-11-23T20:23:16Z",
+  "issues": [
+   "desk written from older totals (3 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
