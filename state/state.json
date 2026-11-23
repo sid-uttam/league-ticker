@@ -2832,7 +2832,7 @@
     1,
     0,
     0,
-    5,
+    8,
     0,
     0,
     0
@@ -3052,7 +3052,7 @@
     6,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -3063,7 +3063,7 @@
     6,
     1,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -3096,7 +3096,7 @@
     1,
     0,
     0,
-    21,
+    24,
     0,
     0,
     0
@@ -3654,10 +3654,10 @@
    "226": [
     0,
     0,
-    2,
+    1,
     0,
     0,
-    87,
+    90,
     0,
     0,
     0
@@ -3665,7 +3665,7 @@
    "229": [
     0,
     0,
-    -3,
+    -4,
     0,
     1,
     39,
@@ -3863,7 +3863,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-23T21:57:18Z",
+ "updated": "2026-11-23T22:08:16Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6591,37 +6591,7 @@
    "ts": "2026-11-21T09:44:35Z",
    "gw": 10
   },
-  "briefings": {
-   "3219276": "You sit 2nd, 8 behind Ayodele, after Rayan blanked on 2 with the armband. Keep an eye on Ayodele's lead and whether your Rayan captaincy recovers.",
-   "3323262": "You are 3rd on 671 after a 60 gameweek, 21 behind Cherag and 1 ahead of Nihal. Nihal is breathing down your neck, so keep an eye on your Freehit timing.",
-   "573491": "You are 4th on 670 after a 67 gameweek, 1 behind Sid and 7 clear of Nanik. Sid is the obvious target, so Bboost or Freehit could be your route to climbing.",
-   "5489583": "You are 8th on 644 after a 57 gameweek, 6 behind Edd and 10 ahead of Bhavik. Your Bboost is still available, so use it wisely to protect your place.",
-   "4125292": "You are 9th on 634 after a 51 gameweek, level with Hishaan on points. Hishaan's Barry captain surged, so watch for further gains from that differential.",
-   "1378937": "You are 7th on 650 after scoring 67, 8 behind Tonna and 6 ahead of Omar. Your Freehit is still in the bank, which could help you chase the managers above.",
-   "4922092": "You are 13th on 629 after a 47 gameweek, 1 behind Ahmad and 3 ahead of Raushan. Your Haaland captain returned just 4, so your next captain choice matters.",
-   "363548": "You are 12th on 630 after a 50 gameweek, 1 behind Simon and 1 ahead of Ravi. Your Freehit is gone, so your remaining chip is the 3xc.",
-   "3359227": "You are 14th on 626 after a 59 gameweek, 3 behind Ravi and 7 ahead of Will. Your Evanilson armband returned 18, a strong return to build on.",
-   "962024": "You are 11th on 631 after a 64 gameweek, 3 behind Hishaan and 1 ahead of Ahmad. Your Isak signing is a useful asset, so keep that in mind.",
-   "3506595": "You are tied 9th on 634 after Barry's 32 captain points lifted you from 14th. Nobody else owns Barry, so this differential could keep paying off.",
-   "1457736": "You are 16th on 615 after a 60 gameweek, 4 behind Will and 3 ahead of Justin. Your Freehit and 3xc are still in the bank.",
-   "6341709": "You are 20th on 603 after a 52 gameweek, 2 behind Maanav and 3 ahead of Lavesh. Your Freehit, 3xc and Bboost are all still available.",
-   "5873092": "You are 17th on 612 after a 63 gameweek, 3 behind Naishadh and level with Dominic. Dominic's surge of 75 is a threat, so keep your eye on that gap.",
-   "75187": "You are 18th on 612 after scoring 75, the best score of the gameweek. You have no chips left, so your strength is your current form.",
-   "6619523": "You are 21st on 600 after a 66 gameweek, 3 behind Tomisin and 19 ahead of Saurabh. Your Rogers captain returned just 4, so reconsider your picks.",
-   "3552160": "You are 22nd on 581 after a 48 gameweek, 19 behind Lavesh and 2 ahead of Isaiah. Your Isak captain returned 16, a useful boost to your season.",
-   "383423": "You are 25th on 574 after a 58 gameweek, 4 behind Dinesh and 13 ahead of Elvin. Your Freehit and Bboost are still in the bank.",
-   "3375627": "You are 27th on 554 after a 45 gameweek, 7 behind Elvin and 33 ahead of Iain. Your 3xc is still available, so use it wisely.",
-   "8316989": "You are 26th on 561 after a 63 gameweek, 13 behind Tobi and 7 ahead of IB. Your Cherki captain returned 18, a strong return to build on.",
-   "3591460": "You are 28th on 521 after a 52 gameweek, 33 behind IB and 77 ahead of Sasha. Your Haaland captain returned 4, so think about a better pick next time.",
-   "5706920": "You are 29th on 444 after a 30 gameweek, 77 behind Iain. Your Thiago captain returned -4, so your next captain pick is crucial.",
-   "1092588": "You sit top on 700, 8 clear of Cherag, after scoring 61 this week. Your Bboost is still in the bank, so watch Cherag and Sid closely before deciding when to use it.",
-   "1541394": "You are 5th on 663 after scoring 65, 7 behind Nihal and 5 ahead of Tonna. Your Haaland armband returned 4, so think about a sharper captaincy next time.",
-   "7273369": "You are 15th on 619 after a 61 with Haaland armbanded. Naishadh is 4 behind, so keep your eye on the chasing pack.",
-   "4841175": "You are 19th on 605 after a 74 with Haaland armbanded. Tomisin is 2 behind, so keep up the pressure.",
-   "5028423": "You are 23rd on 579 after a 62 with Haaland armbanded. Dinesh is 1 behind, so this is a tight pack.",
-   "1474501": "You are 24th on 578 after a 61 gameweek, 1 behind Isaiah and 4 ahead of Tobi. Your De Cuyper captain returned 12, a solid haul with your risky style.",
-   "7471754": "You are 6th on 658 after a 70, climbing back into the mix. Edd is 8 behind and Nanik 5 ahead, so keep an eye on both."
-  },
+  "briefings": {},
   "storylines": [
    {
     "title": "The Haaland armband bloc",
@@ -6679,17 +6649,180 @@
     "plots": 11
    },
    "11": {
-    "in": 1680063,
-    "out": 353956,
-    "calls": 128,
+    "in": 1714222,
+    "out": 366176,
+    "calls": 132,
     "refreshes": 22,
-    "desks": 39,
-    "desk_in": 866584,
-    "desk_out": 290880,
-    "plots": 3
+    "desks": 40,
+    "desk_in": 896484,
+    "desk_out": 300711,
+    "plots": 4
    }
   },
   "desks": [
+   {
+    "headline": "Maanav's 58-point Bench Boost wins the gameweek outright",
+    "text": "**Maanav** won the gameweek with **58 points** on a Bench Boost, climbing from 19th to 14th. **Ayodele** still leads, and his gap over Cherag grew from 8 to **10 points**. We called it: Cherki's single point kept Bhavik ahead of Naishadh.",
+    "you": {
+     "1092588": "Benching Silva was a blunder, with 8 points wasted on your bench, though you still lead.",
+     "3219276": "Nihal outscored you by 20 points this week, so second place is under real pressure from below.",
+     "573491": "Your Bench Boost returned 11 points, pushing you up to 3rd place.",
+     "3323262": "Nihal outscored you by 11 points, leaving you a place lower in 4th.",
+     "1541394": "Keeping Kinsky on your bench cost you 7 points, a call you will want back.",
+     "7471754": "You beat Omar by 4 points this week, keeping your Silver spot ahead of him.",
+     "5489583": "Ravi outscored you by 11 points, but you still sit 7th, one spot ahead of him.",
+     "4922092": "Climbing 5 places to 8th earned you the Rocket, the biggest jump of the week.",
+     "3506595": "You beat Edd by 18 points this week, but Ravi sits 1 point ahead of you.",
+     "1378937": "Your 21 points earned The Doghouse, the lowest score of the gameweek, dropping you to 10th.",
+     "4125292": "You dropped 2 places to 11th, though you did beat Edd by 14 points.",
+     "363548": "Benching Belloumi cost you 7 points, a call that left you 12th.",
+     "962024": "Maanav gained 23 points on you this week, dropping you 2 places to 13th.",
+     "4841175": "Your 58-point Bench Boost earned Manager of the Week, with Groß adding 8 on your armband.",
+     "5873092": "Benching Pedro Porro cost you 11 points, though you still climbed 2 places to 15th.",
+     "7273369": "Justin outscored you by 12 points, dropping you a place to 16th.",
+     "3359227": "Your captain N.Jackson managed 2 points, so you slid 3 places to 17th.",
+     "6341709": "You beat Raushan by 21 points, climbing 2 places to 18th.",
+     "1457736": "Tomisin gained 17 points on you, dropping you 3 places to 19th.",
+     "75187": "Lavesh outscored you by 11 points, leaving you 3 places lower in 20th.",
+     "6619523": "You beat Dominic by 11 points, but 21st is where you stay.",
+     "1474501": "Isak's 10 points made you Captain of the Week, though selling Calvert-Lewin backfired.",
+     "5028423": "Dinesh outscored you by 6 points, but Tobi finished behind you on the table.",
+     "383423": "You beat Saurabh by 11 points, climbing one place to 24th.",
+     "3375627": "Your Triple Captain returned only 6 points, but benching Tarkowski now looks shrewd.",
+     "3591460": "You beat Elvin by 13 points, keeping you in the Tin Pot spots at 28th."
+    },
+    "ts": "2026-11-23T22:08:16Z",
+    "gw": 11,
+    "moment": "gameweek_over",
+    "sig": "101:f:0-0|102:f:2-0|103:f:4-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "573491": 3,
+     "3323262": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "5489583": 7,
+     "4922092": 8,
+     "3506595": 9,
+     "1378937": 10,
+     "4125292": 11,
+     "363548": 12,
+     "962024": 13,
+     "4841175": 14,
+     "5873092": 15,
+     "7273369": 16,
+     "3359227": 17,
+     "6341709": 18,
+     "1457736": 19,
+     "75187": 20,
+     "6619523": 21,
+     "1474501": 22,
+     "5028423": 23,
+     "383423": 24,
+     "3552160": 25,
+     "3375627": 26,
+     "8316989": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 732,
+     "3219276": 722,
+     "573491": 720,
+     "3323262": 710,
+     "1541394": 699,
+     "7471754": 696,
+     "5489583": 678,
+     "4922092": 674,
+     "3506595": 673,
+     "1378937": 671,
+     "4125292": 669,
+     "363548": 668,
+     "962024": 666,
+     "4841175": 663,
+     "5873092": 659,
+     "7273369": 654,
+     "3359227": 651,
+     "6341709": 649,
+     "1457736": 644,
+     "75187": 642,
+     "6619523": 641,
+     "1474501": 618,
+     "5028423": 613,
+     "383423": 612,
+     "3552160": 608,
+     "3375627": 593,
+     "8316989": 586,
+     "3591460": 559,
+     "5706920": 481
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "286": [
+      0,
+      1
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "366": [
+      1,
+      1
+     ],
+     "368": [
+      1,
+      0
+     ],
+     "627": [
+      0,
+      1
+     ],
+     "379": [
+      0,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ],
+     "499": [
+      0,
+      1
+     ]
+    },
+    "you_full_ts": "2026-11-23T22:08:16Z",
+    "v": 6,
+    "deadline": "2026-11-27T18:30:00Z"
+   },
    {
     "headline": "Tarkowski sent off as Omar and IB's bench calls pay",
     "text": "Tarkowski's **red card** in BRE v EVE, now 3-0 at 73 minutes, is the biggest swing of the gameweek and leaves him on **-3 points**. Omar and IB benched him and look smart, while Ravi and Hishaan are just **1 point** apart in the close battle for 8th and 9th.",
@@ -7330,170 +7463,6 @@
      "match": "BRE v EVE"
     },
     "buildup_for": 103
-   },
-   {
-    "headline": "Ayodele's 10-point lead holds as Liverpool thump Man Utd",
-    "text": "**Szoboszlai's 9-point goal** and Isak's assist sent Liverpool to a 4-0 win, leaving Ayodele **10 points clear** of Cherag at the top. Both have finished, so that gap is set. Further down, Edd leads Ravi by **one point** in 8th, with Tarkowski still to play for Edd.",
-    "you": {
-     "1092588": "Benching Mbeumo was your call, and he is on the pitch for LIV v MUN with 1 point so far.",
-     "573491": "Cherag is 3 points above you. One of your players is still to play.",
-     "3323262": "Tavernier's earlier assist is old news now. Nanik is 11 points behind you.",
-     "1541394": "Sid is 11 points above you. Tonna sits 4 points behind you.",
-     "7471754": "Benching Belloumi with Ahmad was costly, since he has now set up a goal.",
-     "5489583": "Benching Mbeumo is now a risk, as he is on the pitch for LIV v MUN.",
-     "1378937": "Omar is 2 points above you. Ravi is 1 point behind, with Tarkowski still to come for you.",
-     "4922092": "You have passed Hishaan, Bhavik and Ahmad today. Selling Barcola has cost you after he set up a goal.",
-     "3506595": "Ravi passed you today. Barry is still to play, and only you own him.",
-     "4125292": "Ravi passed you today. Hishaan is 2 points above you, with Ahmad 1 point behind.",
-     "363548": "Ravi passed you today. Bhavik is 1 point above you, with Simon 2 points behind.",
-     "962024": "Ahmad is 2 points above you. You were as high as 12th this gameweek.",
-     "4841175": "You have passed Will and Raushan today. Your captain Groß has 4 points, worth 8 on your armband.",
-     "5873092": "You have passed Will and Raushan this gameweek, climbing from 17th to 15th.",
-     "7273369": "You passed Raushan today, but Maanav and Justin both passed you. Raushan is 3 points behind.",
-     "3359227": "Maanav, Justin and Will passed you today. Tomisin is 2 points behind you.",
-     "6341709": "You have passed Naishadh, Dominic and Lavesh today. You climbed from 21st to 18th.",
-     "1457736": "You passed Lavesh today, but Tomisin passed you. Tomisin is 5 points above you, with Dominic 2 points behind.",
-     "75187": "You passed Lavesh today, but Tomisin passed you. Lavesh is 1 point behind you.",
-     "6619523": "Tomisin, Naishadh and Dominic passed you today. Dinesh is 29 points behind you.",
-     "1474501": "You have passed Isaiah today. Your captain Isak has set up a goal, worth 10 points on your armband.",
-     "383423": "You climbed out of the Tin Pot, up 3 places this gameweek. Isaiah is 5 points behind you.",
-     "5028423": "Dinesh and Saurabh passed you today. Barcola has set up a goal worth 5 points, and only you own him.",
-     "3375627": "Isaiah is 16 points above you. Your Triple Captain on Haaland has returned 6 points.",
-     "3591460": "Garner is still to play, and only you own him. Elvin sits 42 points above you."
-    },
-    "ts": "2026-11-22T18:29:18Z",
-    "gw": 11,
-    "moment": "day_over",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
-    "ranks": {
-     "1092588": 1,
-     "3219276": 2,
-     "573491": 3,
-     "3323262": 4,
-     "1541394": 5,
-     "7471754": 6,
-     "5489583": 7,
-     "1378937": 8,
-     "4922092": 9,
-     "3506595": 10,
-     "4125292": 11,
-     "363548": 12,
-     "962024": 13,
-     "4841175": 14,
-     "5873092": 15,
-     "7273369": 16,
-     "3359227": 17,
-     "6341709": 18,
-     "1457736": 19,
-     "75187": 20,
-     "6619523": 21,
-     "3552160": 22,
-     "383423": 22,
-     "1474501": 22,
-     "5028423": 25,
-     "3375627": 26,
-     "8316989": 27,
-     "3591460": 28,
-     "5706920": 29
-    },
-    "totals": {
-     "1092588": 732,
-     "3219276": 722,
-     "573491": 719,
-     "3323262": 710,
-     "1541394": 699,
-     "7471754": 695,
-     "5489583": 677,
-     "1378937": 675,
-     "4922092": 674,
-     "3506595": 671,
-     "4125292": 669,
-     "363548": 668,
-     "962024": 666,
-     "4841175": 662,
-     "5873092": 659,
-     "7273369": 654,
-     "3359227": 651,
-     "6341709": 649,
-     "1457736": 644,
-     "75187": 642,
-     "6619523": 641,
-     "3552160": 612,
-     "383423": 612,
-     "1474501": 612,
-     "5028423": 607,
-     "3375627": 591,
-     "8316989": 590,
-     "3591460": 548,
-     "5706920": 483
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "286": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "366": [
-      1,
-      1
-     ],
-     "368": [
-      1,
-      0
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      0,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ],
-     "499": [
-      0,
-      1
-     ]
-    },
-    "you_full_ts": "2026-11-22T18:29:18Z",
-    "next": {
-     "ko": "2026-11-23T20:00:00Z",
-     "match": "BRE v EVE"
-    }
    }
   ],
   "desk_day": {
@@ -7530,21 +7499,21 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-23T21:43:54Z",
+  "desk_last_ok": "2026-11-23T22:08:16Z",
   "plots": [
    {
     "id": "underdog:573491",
-    "title": "Nihal's Long Climb",
-    "status": "Building",
-    "text": "Nihal has risen from 26th of 29 in GW1 to 3rd now, a climb of 23 places. He sits 13 points behind leader Ayodele, so the top 2 are still in reach.",
-    "next": "If Ayodele and Cherag keep trading places, Nihal could be the one to slip into the top 2.",
+    "title": "Nihal Keeps Rising",
+    "status": "Heating up",
+    "text": "Nihal has climbed from 26th of 29 in GW1 to 3rd, up from 4th last week. He now sits 12 points behind leader Ayodele.",
+    "next": "If Nihal keeps climbing, a place in the top 2 could be within reach.",
     "who": [
      573491
     ],
     "kind": "underdog",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-22T18:29:18Z",
+    "ts": "2026-11-23T22:08:16Z",
     "question": "How high can Nihal go?",
     "line": [
      [
@@ -7577,10 +7546,10 @@
    },
    {
     "id": "title",
-    "title": "Ayodele's Lead Widens",
+    "title": "Ayodele's Lead Grows",
     "status": "Building",
-    "text": "Ayodele leads on 732, 10 clear of Cherag on 722, after overturning Cherag's lead in GW10. The gap has grown since last week, with no sign yet of Cherag's reply.",
-    "next": "Cherag could strike back, but Nihal sits 13 points adrift in third and waiting.",
+    "text": "Ayodele has led for 2 weeks, and the lead over Cherag has grown from 8 to 10 points. Cherag held the top spot for 6 weeks before that.",
+    "next": "If Cherag responds, the 10-point gap could be tested before the next gameweek.",
     "who": [
      1092588,
      3219276
@@ -7588,7 +7557,7 @@
     "kind": "title race",
     "episode": 3,
     "gw": 11,
-    "ts": "2026-11-22T18:29:18Z",
+    "ts": "2026-11-23T22:08:16Z",
     "question": "Who can hold the crown?",
     "line": [
      [
@@ -7613,10 +7582,10 @@
    },
    {
     "id": "chase:573491",
-    "title": "Nihal Hunts Cherag",
+    "title": "Nihal Gets Closer",
     "status": "Heating up",
-    "text": "Cherag's lead over Nihal has shrunk to 3 points, down from 22 in GW10 and 56 in GW8. Nihal is now within touching distance of second place.",
-    "next": "If Nihal keeps up this pace, he could overtake Cherag as early as next gameweek.",
+    "text": "Nihal has cut his gap to Cherag from 56 points in GW8 to just 2 in GW11. Cherag still leads, but the gap has shrunk every week.",
+    "next": "If Nihal finishes the job, he could overtake Cherag for second place.",
     "who": [
      573491,
      3219276
@@ -7624,7 +7593,7 @@
     "kind": "chaser",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-22T18:29:18Z",
+    "ts": "2026-11-23T22:08:16Z",
     "question": "Can Nihal catch Cherag?",
     "line": [
      [
@@ -7641,92 +7610,89 @@
      ],
      [
       "GW11",
-      "Cherag +3"
+      "Cherag +2"
      ]
     ],
     "since": 11,
     "streak": null
    },
    {
-    "id": "hot:1378937",
-    "title": "Edd Keeps Rolling",
-    "status": "Building",
-    "text": "Edd has finished above the league average 6 weeks in a row, scoring 67 in GW10. The only blip was a 49 in GW8, and the run shows no sign of stopping.",
-    "next": "Edd could extend the streak into a 7th week if the form holds.",
+    "id": "rivalry:1378937-4922092",
+    "title": "Ravi Flips the Script",
+    "status": "Twist",
+    "text": "Ravi has swapped places with Edd for the 8th time this season. Edd was 21 points ahead in GW10, but Ravi now leads by 3.",
+    "next": "Edd could hit back next week, and the swapping could go on.",
     "who": [
+     4922092,
      1378937
     ],
-    "kind": "hot streak",
-    "episode": 2,
+    "kind": "rivalry",
+    "episode": 1,
     "gw": 11,
-    "ts": "2026-11-22T18:29:18Z",
-    "question": "How long can Edd stay hot?",
+    "ts": "2026-11-23T22:08:16Z",
+    "question": "Ravi v Edd: who blinks first?",
     "line": [
      [
-      "GW6",
-      "62 pts"
-     ],
-     [
-      "GW7",
-      "68 pts"
-     ],
-     [
       "GW8",
-      "49 pts"
+      "Ravi +2"
      ],
      [
       "GW9",
-      "61 pts"
+      "Edd +1"
      ],
      [
       "GW10",
-      "67 pts"
+      "Edd +21"
+     ],
+     [
+      "GW11",
+      "Ravi +3"
      ]
     ],
-    "since": 10,
-    "streak": 6
+    "since": 11,
+    "streak": null
    },
    {
-    "id": "slump:383423",
-    "title": "Tobi Still Searching",
+    "id": "fall:4125292",
+    "title": "Bhavik's Slide Continues",
     "status": "Building",
-    "text": "Tobi remains below the league average after 6 weeks in a row, though 58 in GW10 was a sharp rebound from 37. The slump is still on, but the form is turning.",
-    "next": "If Tobi builds on that 58, the run below average could finally come to an end.",
+    "text": "Bhavik has dropped from 4th in GW7 to 11th, falling in every gameweek since. His best rank in that time was 4th.",
+    "next": "If he keeps slipping, Bhavik could drop further, or he could finally stop the fall.",
     "who": [
-     383423
+     4125292
     ],
-    "kind": "slump",
-    "episode": 2,
+    "kind": "collapse",
+    "episode": 1,
     "gw": 11,
-    "ts": "2026-11-22T18:29:18Z",
-    "question": "Can Tobi snap out of it?",
+    "ts": "2026-11-23T22:08:16Z",
+    "question": "Can Bhavik stop the slide?",
     "line": [
      [
-      "GW6",
-      "59 pts"
-     ],
-     [
       "GW7",
-      "60 pts"
+      "4th"
      ],
      [
       "GW8",
-      "40 pts"
+      "5th"
      ],
      [
       "GW9",
-      "37 pts"
+      "8th"
      ],
      [
       "GW10",
-      "58 pts"
+      "9th"
+     ],
+     [
+      "GW11",
+      "11th"
      ]
     ],
-    "since": 10,
-    "streak": 6
+    "since": 11,
+    "streak": null
    }
   ],
-  "plots_ts": "2026-11-22T18:29:18Z",
+  "plots_ts": "2026-11-23T22:08:16Z",
   "plots_key": "11:live",
   "verdict_tries": {
    "10:2": 1,
@@ -7734,7 +7700,8 @@
    "10:4": 2,
    "10:t:b09a97969469": 1,
    "10:5": 1,
-   "10:6": 1
+   "10:6": 1,
+   "11:6": 1
   },
   "plots_v_tries": {
    "2": 1,
@@ -7746,7 +7713,7 @@
    "8": 1
   },
   "plots_v": 8,
-  "plots_sig": "6865776991db",
+  "plots_sig": "e2ebbaf51563",
   "preview": {
    "headline": "Gameweek 11: Haaland doubts and a top-spot squeeze",
    "points": [
@@ -8652,9 +8619,9 @@
    "wtries": 2
   },
   "plots_sig_tries": {
-   "10:n:b09a97969469": 1
-  },
-  "_replaced_ts": "2026-11-23T21:08:27Z"
+   "10:n:b09a97969469": 1,
+   "e2ebbaf51563": 1
+  }
  },
  "league": {
   "gw": 11,
@@ -8747,8 +8714,8 @@
     "entry_name": "Wirtz My Jacquet",
     "rank": 10,
     "last_rank": 7,
-    "total": 672,
-    "event_total": 22
+    "total": 671,
+    "event_total": 21
    },
    {
     "entry": 4125292,
@@ -8882,8 +8849,8 @@
     "entry_name": "LET'S RUMBLE!!!",
     "rank": 25,
     "last_rank": 22,
-    "total": 609,
-    "event_total": 28
+    "total": 608,
+    "event_total": 27
    },
    {
     "entry": 3375627,
@@ -8891,8 +8858,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 594,
-    "event_total": 40
+    "total": 593,
+    "event_total": 39
    },
    {
     "entry": 8316989,
@@ -8900,8 +8867,8 @@
     "entry_name": "EA FC",
     "rank": 27,
     "last_rank": 26,
-    "total": 587,
-    "event_total": 26
+    "total": 586,
+    "event_total": 25
    },
    {
     "entry": 3591460,
@@ -8909,8 +8876,8 @@
     "entry_name": "GoonerVision",
     "rank": 28,
     "last_rank": 28,
-    "total": 560,
-    "event_total": 39
+    "total": 559,
+    "event_total": 38
    },
    {
     "entry": 5706920,
@@ -8918,8 +8885,8 @@
     "entry_name": "Vicecityfc",
     "rank": 29,
     "last_rank": 29,
-    "total": 482,
-    "event_total": 38
+    "total": 480,
+    "event_total": 36
    }
   ]
  },
@@ -14400,22 +14367,87 @@
     "name": "IB",
     "stat": "45 pts"
    }
+  ],
+  "11": [
+   {
+    "key": "motw",
+    "title": "Manager of the Week",
+    "who": [
+     4841175
+    ],
+    "name": "Maanav",
+    "stat": "58 pts"
+   },
+   {
+    "key": "captain",
+    "title": "Captain of the Week",
+    "who": [
+     1474501,
+     3552160
+    ],
+    "name": "Dinesh and Saurabh",
+    "stat": "10 pts"
+   },
+   {
+    "key": "rocket",
+    "title": "Rocket",
+    "who": [
+     4841175,
+     4922092
+    ],
+    "name": "Maanav and Ravi",
+    "stat": "Up 5"
+   },
+   {
+    "key": "bench",
+    "title": "Bench Disaster",
+    "who": [
+     4922092
+    ],
+    "name": "Ravi",
+    "stat": "26 pts on the bench"
+   },
+   {
+    "key": "flop",
+    "title": "Transfer Flop",
+    "who": [
+     1474501
+    ],
+    "name": "Dinesh",
+    "stat": "-7 on the swap"
+   },
+   {
+    "key": "gotaway",
+    "title": "The One That Got Away",
+    "who": [
+     1474501
+    ],
+    "name": "Dinesh",
+    "stat": "9 pts missed"
+   },
+   {
+    "key": "spoon",
+    "title": "The Doghouse",
+    "who": [
+     1378937
+    ],
+    "name": "Edd",
+    "stat": "21 pts"
+   }
   ]
  },
  "share": {
-  "key": "14f6e3872ca6",
-  "gw": 10,
+  "key": "cbc0acc1a730",
+  "gw": 11,
   "files": {
-   "week": "share/gw10-14f6e3872ca6-week.png",
-   "motw": "share/gw10-14f6e3872ca6-motw.png",
-   "captain": "share/gw10-14f6e3872ca6-captain.png",
-   "genius": "share/gw10-14f6e3872ca6-genius.png",
-   "rocket": "share/gw10-14f6e3872ca6-rocket.png",
-   "bench": "share/gw10-14f6e3872ca6-bench.png",
-   "flop": "share/gw10-14f6e3872ca6-flop.png",
-   "gotaway": "share/gw10-14f6e3872ca6-gotaway.png",
-   "fall": "share/gw10-14f6e3872ca6-fall.png",
-   "spoon": "share/gw10-14f6e3872ca6-spoon.png"
+   "week": "share/gw11-cbc0acc1a730-week.png",
+   "motw": "share/gw11-cbc0acc1a730-motw.png",
+   "captain": "share/gw11-cbc0acc1a730-captain.png",
+   "rocket": "share/gw11-cbc0acc1a730-rocket.png",
+   "bench": "share/gw11-cbc0acc1a730-bench.png",
+   "flop": "share/gw11-cbc0acc1a730-flop.png",
+   "gotaway": "share/gw11-cbc0acc1a730-gotaway.png",
+   "spoon": "share/gw11-cbc0acc1a730-spoon.png"
   }
  },
  "plot_log": {
@@ -14435,10 +14467,10 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-22",
-    "title": "Ayodele's Lead Widens",
-    "text": "Ayodele leads on 732, 10 clear of Cherag on 722, after overturning Cherag's lead in GW10. The gap has grown since last week, with no sign yet of Cherag's reply.",
-    "next": "Cherag could strike back, but Nihal sits 13 points adrift in third and waiting."
+    "day": "2026-11-23",
+    "title": "Ayodele's Lead Grows",
+    "text": "Ayodele has led for 2 weeks, and the lead over Cherag has grown from 8 to 10 points. Cherag held the top spot for 6 weeks before that.",
+    "next": "If Cherag responds, the 10-point gap could be tested before the next gameweek."
    }
   ],
   "gamble:3506595:10": [
@@ -14489,10 +14521,10 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-22",
-    "title": "Nihal's Long Climb",
-    "text": "Nihal has risen from 26th of 29 in GW1 to 3rd now, a climb of 23 places. He sits 13 points behind leader Ayodele, so the top 2 are still in reach.",
-    "next": "If Ayodele and Cherag keep trading places, Nihal could be the one to slip into the top 2."
+    "day": "2026-11-23",
+    "title": "Nihal Keeps Rising",
+    "text": "Nihal has climbed from 26th of 29 in GW1 to 3rd, up from 4th last week. He now sits 12 points behind leader Ayodele.",
+    "next": "If Nihal keeps climbing, a place in the top 2 could be within reach."
    }
   ],
   "chase:3506595": [
@@ -14548,10 +14580,28 @@
   "chase:573491": [
    {
     "gw": 11,
-    "day": "2026-11-22",
-    "title": "Nihal Hunts Cherag",
-    "text": "Cherag's lead over Nihal has shrunk to 3 points, down from 22 in GW10 and 56 in GW8. Nihal is now within touching distance of second place.",
-    "next": "If Nihal keeps up this pace, he could overtake Cherag as early as next gameweek."
+    "day": "2026-11-23",
+    "title": "Nihal Gets Closer",
+    "text": "Nihal has cut his gap to Cherag from 56 points in GW8 to just 2 in GW11. Cherag still leads, but the gap has shrunk every week.",
+    "next": "If Nihal finishes the job, he could overtake Cherag for second place."
+   }
+  ],
+  "rivalry:1378937-4922092": [
+   {
+    "gw": 11,
+    "day": "2026-11-23",
+    "title": "Ravi Flips the Script",
+    "text": "Ravi has swapped places with Edd for the 8th time this season. Edd was 21 points ahead in GW10, but Ravi now leads by 3.",
+    "next": "Edd could hit back next week, and the swapping could go on."
+   }
+  ],
+  "fall:4125292": [
+   {
+    "gw": 11,
+    "day": "2026-11-23",
+    "title": "Bhavik's Slide Continues",
+    "text": "Bhavik has dropped from 4th in GW7 to 11th, falling in every gameweek since. His best rank in that time was 4th.",
+    "next": "If he keeps slipping, Bhavik could drop further, or he could finally stop the fall."
    }
   ]
  },
@@ -14603,6 +14653,11 @@
      "state": "blank",
      "pts": 1,
      "label": "Blanked · 1"
+    },
+    "grade": {
+     "result": "called it",
+     "pts": 1,
+     "what": "Cherki got 1. Bhavik finished ahead of Naishadh."
     }
    },
    {
@@ -14637,6 +14692,11 @@
      "state": "blank",
      "pts": 2,
      "label": "Blanked · 2"
+    },
+    "grade": {
+     "result": "called it",
+     "pts": 2,
+     "what": "N.Jackson got 2. Maanav finished ahead of Raushan."
     }
    },
    {
@@ -14671,6 +14731,11 @@
      "state": "neither",
      "pts": 5,
      "label": "Quiet · 5"
+    },
+    "grade": {
+     "result": "didn't happen",
+     "pts": 5,
+     "what": "Isak got 5."
     }
    },
    {
@@ -14710,6 +14775,11 @@
      "state": "neither",
      "pts": 6,
      "label": "Returned · 6"
+    },
+    "grade": {
+     "result": "didn't happen",
+     "pts": 6,
+     "what": "Evanilson got 6."
     }
    },
    {
@@ -14749,6 +14819,11 @@
      "state": "blank",
      "pts": 1,
      "label": "Blanked · 1"
+    },
+    "grade": {
+     "result": "called it",
+     "pts": 1,
+     "what": "Raya got 1."
     }
    }
   ],
@@ -14783,7 +14858,15 @@
       "label": "Quiet · 3",
       "player": "Gomez"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Robertson": 1,
+      "Gomez": 3
+     },
+     "rank": 1
+    }
    },
    "573491": {
     "els": [
@@ -14812,7 +14895,15 @@
       "label": "Returned · 7",
       "player": "Kinsky"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Silva": 8,
+      "Kinsky": 7
+     },
+     "rank": 3
+    }
    },
    "7471754": {
     "els": [
@@ -14841,7 +14932,15 @@
       "label": "Returned · 7",
       "player": "Kinsky"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Vuskovic": 0,
+      "Kinsky": 7
+     },
+     "rank": 6
+    }
    },
    "5489583": {
     "els": [
@@ -14857,12 +14956,19 @@
     "you_captain": null,
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 1",
+      "state": "blank",
       "pts": 1,
+      "label": "Blanked · 1",
       "player": "Schade"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Schade": 1
+     },
+     "rank": 7
+    }
    },
    "962024": {
     "els": [
@@ -14891,7 +14997,15 @@
       "label": "Blanked · 2",
       "player": "Verbruggen"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Isak": 5,
+      "Verbruggen": 2
+     },
+     "rank": 13
+    }
    },
    "363548": {
     "els": [
@@ -14912,7 +15026,14 @@
       "label": "Blanked · 0",
       "player": "Vuskovic"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Vuskovic": 0
+     },
+     "rank": 12
+    }
    },
    "4922092": {
     "els": [
@@ -14941,7 +15062,15 @@
       "label": "Quiet · 5",
       "player": "Isak"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Araujo": 6,
+      "Isak": 5
+     },
+     "rank": 8
+    }
    },
    "3359227": {
     "els": [
@@ -14972,7 +15101,15 @@
       "label": "Blanked · 2",
       "player": "Doku"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "King": 2,
+      "Doku": 2
+     },
+     "rank": 17
+    }
    },
    "7273369": {
     "els": [
@@ -15001,7 +15138,15 @@
       "label": "Blanked · 1",
       "player": "Mbeumo"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Silva": 8,
+      "Mbeumo": 1
+     },
+     "rank": 16
+    }
    },
    "1457736": {
     "els": [
@@ -15030,7 +15175,15 @@
       "label": "Blanked · 1",
       "player": "Manzambi"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Verbruggen": 2,
+      "Manzambi": 1
+     },
+     "rank": 19
+    }
    },
    "75187": {
     "els": [
@@ -15061,7 +15214,15 @@
       "label": "Quiet · 5",
       "player": "Isak"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Trafford": 2,
+      "Isak": 5
+     },
+     "rank": 20
+    }
    },
    "4841175": {
     "els": [
@@ -15090,7 +15251,15 @@
       "label": "Blanked · 2",
       "player": "Verbruggen"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Isak": 5,
+      "Verbruggen": 2
+     },
+     "rank": 14
+    }
    },
    "6341709": {
     "els": [
@@ -15119,7 +15288,15 @@
       "label": "Returned · 6",
       "player": "Araujo"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Gabriel": 1,
+      "Araujo": 6
+     },
+     "rank": 18
+    }
    },
    "6619523": {
     "els": [
@@ -15148,7 +15325,15 @@
       "label": "Quiet · 5",
       "player": "Ødegaard"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Kinsky": 7,
+      "Ødegaard": 5
+     },
+     "rank": 21
+    }
    },
    "1474501": {
     "els": [
@@ -15177,7 +15362,15 @@
       "label": "Blanked · 2",
       "player": "Verbruggen"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Isak": 5,
+      "Verbruggen": 2
+     },
+     "rank": 22
+    }
    },
    "383423": {
     "els": [
@@ -15208,7 +15401,15 @@
       "label": "Returned · 6",
       "player": "Petrović"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Ødegaard": 5,
+      "Petrović": 6
+     },
+     "rank": 24
+    }
    },
    "3375627": {
     "els": [
@@ -15237,7 +15438,15 @@
       "label": "Quiet · 5",
       "player": "Ødegaard"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Gabriel": 1,
+      "Ødegaard": 5
+     },
+     "rank": 26
+    }
    }
   },
   "rivals": {
@@ -15265,7 +15474,14 @@
       "label": "Quiet · 3",
       "player": "Rayan"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Van Hecke": 6,
+      "Rayan": 3
+     }
+    }
    },
    "3323262": {
     "rival": 573491,
@@ -15283,7 +15499,13 @@
       "label": "Blanked · 1",
       "player": "Konsa"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Konsa": 1
+     }
+    }
    },
    "1541394": {
     "rival": 7471754,
@@ -15309,7 +15531,14 @@
       "label": "Returned · 7",
       "player": "Kinsky"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Vuskovic": 0,
+      "Kinsky": 7
+     }
+    }
    },
    "1378937": {
     "rival": 5489583,
@@ -15327,7 +15556,13 @@
       "label": "Blanked · 1",
       "player": "Konsa"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Konsa": 1
+     }
+    }
    },
    "4125292": {
     "rival": 3506595,
@@ -15340,12 +15575,18 @@
     "text": "Hishaan's dream week: if Barry hauls, Hishaan could pass you.",
     "status": [
      {
-      "state": "playing",
-      "label": "Playing · 2",
+      "state": "blank",
       "pts": 2,
+      "label": "Blanked · 2",
       "player": "Barry"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Barry": 2
+     }
+    }
    },
    "962024": {
     "rival": 363548,
@@ -15363,7 +15604,13 @@
       "label": "Returned · 6",
       "player": "Van Hecke"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Van Hecke": 6
+     }
+    }
    },
    "363548": {
     "rival": 4922092,
@@ -15381,7 +15628,13 @@
       "label": "Blanked · 2",
       "player": "N.Jackson"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "N.Jackson": 2
+     }
+    }
    },
    "3359227": {
     "rival": 7273369,
@@ -15407,7 +15660,14 @@
       "label": "Blanked · 1",
       "player": "Calafiori"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Silva": 8,
+      "Calafiori": 1
+     }
+    }
    },
    "7273369": {
     "rival": 1457736,
@@ -15425,7 +15685,13 @@
       "label": "Blanked · 2",
       "player": "N.Jackson"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "N.Jackson": 2
+     }
+    }
    },
    "1457736": {
     "rival": 75187,
@@ -15451,7 +15717,14 @@
       "label": "Quiet · 5",
       "player": "Isak"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Trafford": 2,
+      "Isak": 5
+     }
+    }
    },
    "5873092": {
     "rival": 4841175,
@@ -15469,7 +15742,13 @@
       "label": "Blanked · 1",
       "player": "Konsa"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Konsa": 1
+     }
+    }
    },
    "6341709": {
     "rival": 6619523,
@@ -15487,7 +15766,13 @@
       "label": "Blanked · 1",
       "player": "Konsa"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Konsa": 1
+     }
+    }
    },
    "3552160": {
     "rival": 5028423,
@@ -15505,7 +15790,13 @@
       "label": "Blanked · 2",
       "player": "N.Jackson"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "N.Jackson": 2
+     }
+    }
    },
    "5028423": {
     "rival": 1474501,
@@ -15523,7 +15814,13 @@
       "label": "Quiet · 5",
       "player": "Isak"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Isak": 5
+     }
+    }
    },
    "8316989": {
     "rival": 3375627,
@@ -15541,16 +15838,55 @@
       "label": "Blanked · 1",
       "player": "Konsa"
      }
-    ]
+    ],
+    "grade": {
+     "result": "didn't happen",
+     "pts": {
+      "Konsa": 1
+     }
+    }
    }
   },
   "midweek": false,
-  "ts": "2026-11-21T11:56:39Z"
+  "ts": "2026-11-21T11:56:39Z",
+  "called": 3,
+  "graded": 5
  },
  "checks": {
-  "ts": "2026-11-23T21:57:18Z",
+  "ts": "2026-11-23T22:08:16Z",
   "issues": [],
-  "page": [],
+  "page": [
+   "briefing for Cherag: \"You sit 2nd, 8 behind Ayodele, after Rayan blanked on 2 with the armband.\" has a gap of 8; the gaps between Ayodele / Cherag are 10",
+   "briefing for Sid: \"You are 3rd on 671 after a 60 gameweek, 21 behind Cherag and 1 ahead of Nihal.\" has a total of 671; Cherag / Nihal / Sid are on 710, 720, 722",
+   "briefing for Sid: \"You are 3rd on 671 after a 60 gameweek, 21 behind Cherag and 1 ahead of Nihal.\" has a gap of 21; the gaps between Cherag / Nihal / Sid are 2, 10, 12",
+   "briefing for Sid: \"You are 3rd on 671 after a 60 gameweek, 21 behind Cherag and 1 ahead of Nihal.\" has a gap of 1; the gaps between Cherag / Nihal / Sid are 2, 10, 12",
+   "briefing for Nihal: \"You are 4th on 670 after a 67 gameweek, 1 behind Sid and 7 clear of Nanik.\" has a total of 670; Nanik / Nihal / Sid are on 699, 710, 720",
+   "briefing for Nihal: \"You are 4th on 670 after a 67 gameweek, 1 behind Sid and 7 clear of Nanik.\" has a gap of 1; the gaps between Nanik / Nihal / Sid are 10, 11, 21",
+   "briefing for Nihal: \"You are 4th on 670 after a 67 gameweek, 1 behind Sid and 7 clear of Nanik.\" has a gap of 7; the gaps between Nanik / Nihal / Sid are 10, 11, 21",
+   "briefing for Omar: \"You are 8th on 644 after a 57 gameweek, 6 behind Edd and 10 ahead of Bhavik.\" has a total of 644; Bhavik / Edd / Omar are on 669, 671, 678",
+   "briefing for Omar: \"You are 8th on 644 after a 57 gameweek, 6 behind Edd and 10 ahead of Bhavik.\" has a gap of 6; the gaps between Bhavik / Edd / Omar are 2, 7, 9",
+   "briefing for Omar: \"You are 8th on 644 after a 57 gameweek, 6 behind Edd and 10 ahead of Bhavik.\" has a gap of 10; the gaps between Bhavik / Edd / Omar are 2, 7, 9",
+   "briefing for Bhavik: \"You are 9th on 634 after a 51 gameweek, level with Hishaan on points.\" has a total of 634; Bhavik / Hishaan are on 669, 673",
+   "briefing for Edd: \"You are 7th on 650 after scoring 67, 8 behind Tonna and 6 ahead of Omar.\" has a total of 650; Edd / Omar / Tonna are on 671, 678, 696",
+   "briefing for Edd: \"You are 7th on 650 after scoring 67, 8 behind Tonna and 6 ahead of Omar.\" has a gap of 8; the gaps between Edd / Omar / Tonna are 7, 18, 25",
+   "briefing for Edd: \"You are 7th on 650 after scoring 67, 8 behind Tonna and 6 ahead of Omar.\" has a gap of 6; the gaps between Edd / Omar / Tonna are 7, 18, 25",
+   "briefing for Ravi: \"You are 13th on 629 after a 47 gameweek, 1 behind Ahmad and 3 ahead of Raushan.\" has a total of 629; Ahmad / Raushan / Ravi are on 651, 668, 674",
+   "briefing for Ravi: \"You are 13th on 629 after a 47 gameweek, 1 behind Ahmad and 3 ahead of Raushan.\" has a gap of 1; the gaps between Ahmad / Raushan / Ravi are 6, 17, 23",
+   "briefing for Ravi: \"You are 13th on 629 after a 47 gameweek, 1 behind Ahmad and 3 ahead of Raushan.\" has a gap of 3; the gaps between Ahmad / Raushan / Ravi are 6, 17, 23",
+   "briefing for Ahmad: \"You are 12th on 630 after a 50 gameweek, 1 behind Simon and 1 ahead of Ravi.\" has a total of 630; Ahmad / Ravi / Simon are on 666, 668, 674",
+   "briefing for Ahmad: \"You are 12th on 630 after a 50 gameweek, 1 behind Simon and 1 ahead of Ravi.\" has a gap of 1; the gaps between Ahmad / Ravi / Simon are 2, 6, 8",
+   "briefing for Ahmad: \"You are 12th on 630 after a 50 gameweek, 1 behind Simon and 1 ahead of Ravi.\" has a gap of 1; the gaps between Ahmad / Ravi / Simon are 2, 6, 8",
+   "briefing for Raushan: \"You are 14th on 626 after a 59 gameweek, 3 behind Ravi and 7 ahead of Will.\" has a total of 626; Raushan / Ravi / Will are on 651, 654, 674",
+   "briefing for Raushan: \"You are 14th on 626 after a 59 gameweek, 3 behind Ravi and 7 ahead of Will.\" has a gap of 7; the gaps between Raushan / Ravi / Will are 3, 20, 23",
+   "briefing for Simon: \"You are 11th on 631 after a 64 gameweek, 3 behind Hishaan and 1 ahead of Ahmad.\" has a total of 631; Ahmad / Hishaan / Simon are on 666, 668, 673",
+   "briefing for Simon: \"You are 11th on 631 after a 64 gameweek, 3 behind Hishaan and 1 ahead of Ahmad.\" has a gap of 3; the gaps between Ahmad / Hishaan / Simon are 2, 5, 7",
+   "briefing for Simon: \"You are 11th on 631 after a 64 gameweek, 3 behind Hishaan and 1 ahead of Ahmad.\" has a gap of 1; the gaps between Ahmad / Hishaan / Simon are 2, 5, 7",
+   "briefing for Hishaan: \"You are tied 9th on 634 after Barry's 32 captain points lifted you from 14th.\" has a total of 634; Hishaan are on 673",
+   "briefing for Naishadh: \"You are 16th on 615 after a 60 gameweek, 4 behind Will and 3 ahead of Justin.\" has a total of 615; Justin / Naishadh / Will are on 644, 654, 659",
+   "briefing for Naishadh: \"You are 16th on 615 after a 60 gameweek, 4 behind Will and 3 ahead of Justin.\" has a gap of 4; the gaps between Justin / Naishadh / Will are 5, 10, 15",
+   "briefing for Naishadh: \"You are 16th on 615 after a 60 gameweek, 4 behind Will and 3 ahead of Justin.\" has a gap of 3; the gaps between Justin / Naishadh / Will are 5, 10, 15",
+   "briefing for Tomisin: \"You are 20th on 603 after a 52 gameweek, 2 behind Maanav and 3 ahead of Lavesh.\" has a total of 603; Lavesh / Maanav / Tomisin are on 641, 649, 663"
+  ],
   "wording": [
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
    "wording (1 points): ...ained 6 on you.      Konsa ARS   Scored 1 pts        13...",
@@ -15849,7 +16185,7 @@
    "305": "10:down",
    "316": "10:down",
    "384": "10:down",
-   "497": "10:down",
+   "497": "11:down",
    "496": "11:up",
    "480": "10:down",
    "565": "10:down",
@@ -16524,6 +16860,12 @@
     "el": 229,
     "kind": "surge",
     "net": -25231
+   },
+   {
+    "ts": "2026-11-23T22:08:16Z",
+    "el": 497,
+    "kind": "surge",
+    "net": -25216
    }
   ]
  },
@@ -16536,7 +16878,8 @@
   6,
   7,
   8,
-  9
+  9,
+  10
  ],
  "moment_imgs": {
   "gw": 11,
