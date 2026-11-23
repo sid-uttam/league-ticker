@@ -10932,15 +10932,6 @@
     "event_total": 29
    },
    {
-    "entry": 10821,
-    "player_name": "Ram Narayan",
-    "entry_name": "FPL Neutral",
-    "rank": 42,
-    "last_rank": 48,
-    "total": 688,
-    "event_total": 40
-   },
-   {
     "entry": 480904,
     "player_name": "Nehal Reddy",
     "entry_name": "Bangchester United",
@@ -10948,6 +10939,15 @@
     "last_rank": 35,
     "total": 688,
     "event_total": 29
+   },
+   {
+    "entry": 10821,
+    "player_name": "Ram Narayan",
+    "entry_name": "FPL Neutral",
+    "rank": 42,
+    "last_rank": 48,
+    "total": 688,
+    "event_total": 40
    },
    {
     "entry": 32831,
@@ -60580,8 +60580,8 @@
    "4151180": 39,
    "5640988": 40,
    "257074": 40,
-   "10821": 42,
    "480904": 42,
+   "10821": 42,
    "32831": 44,
    "1425044": 44,
    "13951": 44,
@@ -60695,8 +60695,8 @@
    "4151180": null,
    "5640988": null,
    "257074": null,
-   "10821": null,
    "480904": null,
+   "10821": null,
    "32831": null,
    "1425044": null,
    "13951": null,
@@ -60769,7 +60769,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T18:11:26Z",
+ "updated": "2026-11-23T18:22:11Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67198,7 +67198,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T18:11:26Z",
+  "ts": "2026-11-23T18:22:11Z",
   "issues": [],
   "page": [],
   "wording": [
