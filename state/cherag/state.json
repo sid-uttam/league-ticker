@@ -11049,15 +11049,6 @@
     "event_total": 46
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 55,
-    "last_rank": 48,
-    "total": 680,
-    "event_total": 32
-   },
-   {
     "entry": 4134138,
     "player_name": "Rishab Bajaj",
     "entry_name": "Rishabs11",
@@ -11065,6 +11056,15 @@
     "last_rank": 44,
     "total": 680,
     "event_total": 30
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 55,
+    "last_rank": 48,
+    "total": 680,
+    "event_total": 32
    },
    {
     "entry": 2932096,
@@ -11445,15 +11445,6 @@
     "event_total": 22
    },
    {
-    "entry": 1967440,
-    "player_name": "Swapnil Limaye",
-    "entry_name": "Notautdfan",
-    "rank": 99,
-    "last_rank": 95,
-    "total": 626,
-    "event_total": 28
-   },
-   {
     "entry": 4616626,
     "player_name": "Sanket Khandekar",
     "entry_name": "KFA Xtreme",
@@ -11461,6 +11452,15 @@
     "last_rank": 101,
     "total": 626,
     "event_total": 40
+   },
+   {
+    "entry": 1967440,
+    "player_name": "Swapnil Limaye",
+    "entry_name": "Notautdfan",
+    "rank": 99,
+    "last_rank": 95,
+    "total": 626,
+    "event_total": 28
    },
    {
     "entry": 1474501,
@@ -60851,8 +60851,8 @@
    "248721": 52,
    "675013": 53,
    "4540238": 53,
-   "4683090": 55,
    "4134138": 55,
+   "4683090": 55,
    "2932096": 57,
    "48343": 57,
    "2868149": 59,
@@ -60895,8 +60895,8 @@
    "3794959": 96,
    "8779992": 97,
    "4905114": 97,
-   "1967440": 99,
    "4616626": 99,
+   "1967440": 99,
    "1474501": 101,
    "1497357": 102,
    "358907": 103,
@@ -60966,8 +60966,8 @@
    "248721": null,
    "675013": null,
    "4540238": null,
-   "4683090": null,
    "4134138": null,
+   "4683090": null,
    "2932096": null,
    "48343": null,
    "2868149": null,
@@ -61010,8 +61010,8 @@
    "3794959": null,
    "8779992": null,
    "4905114": null,
-   "1967440": null,
    "4616626": null,
+   "1967440": null,
    "1474501": null,
    "1497357": null,
    "358907": null,
@@ -61027,7 +61027,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T23:20:11Z",
+ "updated": "2026-11-23T23:31:10Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -67340,7 +67340,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T23:20:11Z",
+  "ts": "2026-11-23T23:31:10Z",
   "issues": [],
   "page": [],
   "wording": [
