@@ -10986,15 +10986,6 @@
     "event_total": 35
    },
    {
-    "entry": 249619,
-    "player_name": "Mayuresh Deshpande",
-    "entry_name": "NetBlasters",
-    "rank": 48,
-    "last_rank": 30,
-    "total": 686,
-    "event_total": 22
-   },
-   {
     "entry": 3560542,
     "player_name": "Sandeepan Bhattacharya",
     "entry_name": "Amad season ahead",
@@ -11002,6 +10993,15 @@
     "last_rank": 65,
     "total": 686,
     "event_total": 51
+   },
+   {
+    "entry": 249619,
+    "player_name": "Mayuresh Deshpande",
+    "entry_name": "NetBlasters",
+    "rank": 48,
+    "last_rank": 30,
+    "total": 686,
+    "event_total": 22
    },
    {
     "entry": 248721,
@@ -11112,15 +11112,6 @@
     "event_total": 42
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 62,
-    "last_rank": 48,
-    "total": 674,
-    "event_total": 26
-   },
-   {
     "entry": 2119331,
     "player_name": "Ajay Rachakonda",
     "entry_name": "Silent Violence",
@@ -11128,6 +11119,15 @@
     "last_rank": 55,
     "total": 674,
     "event_total": 31
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 62,
+    "last_rank": 48,
+    "total": 674,
+    "event_total": 26
    },
    {
     "entry": 3404613,
@@ -11202,15 +11202,6 @@
     "event_total": 37
    },
    {
-    "entry": 10615,
-    "player_name": "Maanas Gupta",
-    "entry_name": "Infinity Inc",
-    "rank": 72,
-    "last_rank": 72,
-    "total": 662,
-    "event_total": 36
-   },
-   {
     "entry": 26707,
     "player_name": "Krishnaji Sanas",
     "entry_name": "Victorious Secrets",
@@ -11218,6 +11209,15 @@
     "last_rank": 60,
     "total": 662,
     "event_total": 23
+   },
+   {
+    "entry": 10615,
+    "player_name": "Maanas Gupta",
+    "entry_name": "Infinity Inc",
+    "rank": 72,
+    "last_rank": 72,
+    "total": 662,
+    "event_total": 36
    },
    {
     "entry": 3086063,
@@ -60586,8 +60586,8 @@
    "1425044": 44,
    "13951": 44,
    "4558790": 47,
-   "249619": 47,
    "3560542": 47,
+   "249619": 47,
    "248721": 50,
    "675013": 51,
    "119217": 51,
@@ -60600,8 +60600,8 @@
    "1443362": 58,
    "119259": 60,
    "57776": 60,
-   "4683090": 62,
    "2119331": 62,
+   "4683090": 62,
    "3404613": 64,
    "1854010": 65,
    "4632544": 65,
@@ -60610,8 +60610,8 @@
    "4372346": 69,
    "2569620": 70,
    "4592187": 70,
-   "10615": 72,
    "26707": 72,
+   "10615": 72,
    "3086063": 74,
    "4314690": 75,
    "1737924": 76,
@@ -60701,8 +60701,8 @@
    "1425044": null,
    "13951": null,
    "4558790": null,
-   "249619": null,
    "3560542": null,
+   "249619": null,
    "248721": null,
    "675013": null,
    "119217": null,
@@ -60715,8 +60715,8 @@
    "1443362": null,
    "119259": null,
    "57776": null,
-   "4683090": null,
    "2119331": null,
+   "4683090": null,
    "3404613": null,
    "1854010": null,
    "4632544": null,
@@ -60725,8 +60725,8 @@
    "4372346": null,
    "2569620": null,
    "4592187": null,
-   "10615": null,
    "26707": null,
+   "10615": null,
    "3086063": null,
    "4314690": null,
    "1737924": null,
@@ -60769,7 +60769,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T07:42:04Z",
+ "updated": "2026-11-23T07:52:46Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67194,7 +67194,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T07:42:04Z",
+  "ts": "2026-11-23T07:52:46Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -67670,8 +67670,8 @@
    "1": "11:down",
    "31": "10:up",
    "112": "11:up",
-   "115": "10:up",
-   "427": "10:down",
+   "115": "11:up",
+   "427": "11:down",
    "124": "10:up",
    "68": "11:up",
    "249": "10:up",
@@ -68563,6 +68563,18 @@
     "kind": "price",
     "change": -0.1,
     "price": 5.3
+   },
+   {
+    "ts": "2026-11-23T07:52:46Z",
+    "el": 115,
+    "kind": "surge",
+    "net": 25023
+   },
+   {
+    "ts": "2026-11-23T07:52:46Z",
+    "el": 427,
+    "kind": "surge",
+    "net": -25192
    }
   ]
  },
