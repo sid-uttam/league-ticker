@@ -10600,7 +10600,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-23T20:58:06Z",
+ "updated": "2026-11-23T21:10:44Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10630,7 +10630,7 @@
    "6051923": "You are 25th on 584 with a 50-point week. Watch Bella, 24 behind, and Ravi Bhojwani, 16 ahead."
   },
   "key": "11:live",
-  "ts": "2026-11-23T20:35:25Z",
+  "ts": "2026-11-23T21:10:44Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -10643,13 +10643,13 @@
     "plots": 11
    },
    "11": {
-    "in": 1499727,
-    "out": 313212,
-    "calls": 116,
-    "refreshes": 20,
-    "desks": 36,
-    "desk_in": 819581,
-    "desk_out": 262723,
+    "in": 1545449,
+    "out": 322595,
+    "calls": 119,
+    "refreshes": 21,
+    "desks": 37,
+    "desk_in": 831783,
+    "desk_out": 269263,
     "plots": 2
    }
   },
@@ -12374,7 +12374,13 @@
    "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil hangs on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
    "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil holds on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
    "GW10 between: Matt's 96 squeezes the summit as Nikhil hangs on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top."
-  ]
+  ],
+  "desk_try": {
+   "sig": "101:f:0-0|102:f:2-0|103:i:2-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
+   "ts": "2026-11-23T21:10:44Z",
+   "draft": "Lewis-Potter's brace hands Sahil 14 points, nobody else owns him | Lewis-Potter has bagged **2 goals** for BRE v EVE, worth **14 points** to Sahil alone, and that lifts him from 12th to 9th. Lakshay and Rajiv remain **level on 644 points** in the Tin Pot fight, with Barry and Dewsbury-Hall on 1 point each.",
+   "why": "numbers: [] words: ['brace'] empty: False keys: ['headline', 'text', 'you']"
+  }
  },
  "plot_log": {
   "gamble:3506595:10": [
@@ -13491,7 +13497,7 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-23T20:58:06Z",
+  "ts": "2026-11-23T21:10:44Z",
   "issues": [
    "desk written from older totals (3 managers changed since)"
   ],
@@ -13578,7 +13584,7 @@
    "667": "a|None|",
    "453": "a|None|",
    "502": "a|100|",
-   "229": "a|None|",
+   "229": "s|0|Suspended until 13 Dec",
    "156": "a|None|",
    "82": "a|None|",
    "10": "a|100|",
@@ -13610,7 +13616,8 @@
    "305": "2026-11-22T07:10:30Z",
    "1": "2026-11-23T14:31:26Z",
    "449": "2026-11-21T19:35:20Z",
-   "367": "2026-11-22T16:31:21Z"
+   "367": "2026-11-22T16:31:21Z",
+   "229": "2026-11-23T21:10:44Z"
   },
   "price": {
    "1": 6.3,
@@ -14368,6 +14375,14 @@
     "el": 367,
     "kind": "surge",
     "net": -25120
+   },
+   {
+    "ts": "2026-11-23T21:10:44Z",
+    "el": 229,
+    "kind": "flag",
+    "status": "s",
+    "chance": 0,
+    "news": "Suspended until 13 Dec"
    }
   ]
  },
