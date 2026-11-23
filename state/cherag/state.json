@@ -10590,15 +10590,6 @@
     "event_total": 40
    },
    {
-    "entry": 3991082,
-    "player_name": "Sukrut Thakur",
-    "entry_name": "Brahmachari Sena",
-    "rank": 4,
-    "last_rank": 6,
-    "total": 741,
-    "event_total": 42
-   },
-   {
     "entry": 13978,
     "player_name": "Yash Bhatia",
     "entry_name": "YB",
@@ -10606,6 +10597,15 @@
     "last_rank": 4,
     "total": 741,
     "event_total": 39
+   },
+   {
+    "entry": 3991082,
+    "player_name": "Sukrut Thakur",
+    "entry_name": "Brahmachari Sena",
+    "rank": 4,
+    "last_rank": 6,
+    "total": 741,
+    "event_total": 42
    },
    {
     "entry": 136653,
@@ -10932,15 +10932,6 @@
     "event_total": 36
    },
    {
-    "entry": 480904,
-    "player_name": "Nehal Reddy",
-    "entry_name": "Bangchester United",
-    "rank": 42,
-    "last_rank": 35,
-    "total": 688,
-    "event_total": 29
-   },
-   {
     "entry": 10821,
     "player_name": "Ram Narayan",
     "entry_name": "FPL Neutral",
@@ -10948,6 +10939,15 @@
     "last_rank": 48,
     "total": 688,
     "event_total": 40
+   },
+   {
+    "entry": 480904,
+    "player_name": "Nehal Reddy",
+    "entry_name": "Bangchester United",
+    "rank": 42,
+    "last_rank": 35,
+    "total": 688,
+    "event_total": 29
    },
    {
     "entry": 3239284,
@@ -10959,15 +10959,6 @@
     "event_total": 40
    },
    {
-    "entry": 13951,
-    "player_name": "Sagar C",
-    "entry_name": "Champs",
-    "rank": 45,
-    "last_rank": 53,
-    "total": 687,
-    "event_total": 43
-   },
-   {
     "entry": 1425044,
     "player_name": "Manav Malhotra",
     "entry_name": "Brain-Heart 11",
@@ -10975,6 +10966,15 @@
     "last_rank": 39,
     "total": 687,
     "event_total": 33
+   },
+   {
+    "entry": 13951,
+    "player_name": "Sagar C",
+    "entry_name": "Champs",
+    "rank": 45,
+    "last_rank": 53,
+    "total": 687,
+    "event_total": 43
    },
    {
     "entry": 3560542,
@@ -11103,13 +11103,13 @@
     "event_total": 43
    },
    {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
+    "entry": 2119331,
+    "player_name": "Ajay Rachakonda",
+    "entry_name": "Silent Violence",
     "rank": 61,
-    "last_rank": 64,
+    "last_rank": 55,
     "total": 675,
-    "event_total": 40
+    "event_total": 32
    },
    {
     "entry": 4683090,
@@ -11121,13 +11121,13 @@
     "event_total": 27
    },
    {
-    "entry": 2119331,
-    "player_name": "Ajay Rachakonda",
-    "entry_name": "Silent Violence",
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
     "rank": 61,
-    "last_rank": 55,
+    "last_rank": 64,
     "total": 675,
-    "event_total": 32
+    "event_total": 40
    },
    {
     "entry": 3404613,
@@ -11184,15 +11184,6 @@
     "event_total": 28
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
-    "rank": 70,
-    "last_rank": 72,
-    "total": 664,
-    "event_total": 38
-   },
-   {
     "entry": 4372346,
     "player_name": "Shantanu Sharma",
     "entry_name": "Carnage1x",
@@ -11200,6 +11191,15 @@
     "last_rank": 78,
     "total": 664,
     "event_total": 45
+   },
+   {
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
+    "rank": 70,
+    "last_rank": 72,
+    "total": 664,
+    "event_total": 38
    },
    {
     "entry": 26707,
@@ -59352,7 +59352,7 @@
     1,
     0,
     0,
-    45,
+    49,
     0,
     0,
     0
@@ -59374,7 +59374,7 @@
     1,
     0,
     0,
-    45,
+    49,
     0,
     0,
     0
@@ -59385,7 +59385,7 @@
     1,
     0,
     0,
-    45,
+    49,
     0,
     0,
     0
@@ -59792,7 +59792,7 @@
     -1,
     0,
     0,
-    45,
+    49,
     0,
     0,
     0
@@ -59803,7 +59803,7 @@
     1,
     0,
     0,
-    45,
+    49,
     0,
     0,
     0
@@ -59825,7 +59825,7 @@
     1,
     0,
     0,
-    45,
+    49,
     0,
     0,
     0
@@ -60617,8 +60617,8 @@
    "5949580": 1,
    "305234": 2,
    "1325491": 3,
-   "3991082": 4,
    "13978": 4,
+   "3991082": 4,
    "136653": 4,
    "1902223": 7,
    "1273065": 8,
@@ -60655,11 +60655,11 @@
    "5640988": 39,
    "257074": 39,
    "32831": 41,
-   "480904": 41,
    "10821": 41,
+   "480904": 41,
    "3239284": 41,
-   "13951": 45,
    "1425044": 45,
+   "13951": 45,
    "3560542": 45,
    "4558790": 48,
    "249619": 48,
@@ -60674,17 +60674,17 @@
    "2868149": 58,
    "1443362": 58,
    "57776": 60,
-   "119259": 61,
-   "4683090": 61,
    "2119331": 61,
+   "4683090": 61,
+   "119259": 61,
    "3404613": 64,
    "1854010": 65,
    "4632544": 65,
    "383029": 67,
    "2922453": 68,
    "2569620": 69,
-   "4592187": 69,
    "4372346": 69,
+   "4592187": 69,
    "26707": 72,
    "10615": 73,
    "3086063": 74,
@@ -60732,8 +60732,8 @@
    "5949580": "gold",
    "305234": "gold",
    "1325491": "gold",
-   "3991082": "gold",
    "13978": "gold",
+   "3991082": "gold",
    "136653": "gold",
    "1902223": "gold",
    "1273065": "gold",
@@ -60770,11 +60770,11 @@
    "5640988": null,
    "257074": null,
    "32831": null,
-   "480904": null,
    "10821": null,
+   "480904": null,
    "3239284": null,
-   "13951": null,
    "1425044": null,
+   "13951": null,
    "3560542": null,
    "4558790": null,
    "249619": null,
@@ -60789,17 +60789,17 @@
    "2868149": null,
    "1443362": null,
    "57776": null,
-   "119259": null,
-   "4683090": null,
    "2119331": null,
+   "4683090": null,
+   "119259": null,
    "3404613": null,
    "1854010": null,
    "4632544": null,
    "383029": null,
    "2922453": null,
    "2569620": null,
-   "4592187": null,
    "4372346": null,
+   "4592187": null,
    "26707": null,
    "10615": null,
    "3086063": null,
@@ -60844,7 +60844,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T21:09:15Z",
+ "updated": "2026-11-23T21:22:02Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67190,7 +67190,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T21:09:15Z",
+  "ts": "2026-11-23T21:22:02Z",
   "issues": [],
   "page": [],
   "wording": [
