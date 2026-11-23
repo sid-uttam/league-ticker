@@ -1,6 +1,21 @@
 {
  "stories": [
   {
+   "key": "d11:onpitch:94",
+   "kind": "live",
+   "tag": "Bench",
+   "head": "Schade is on the pitch. 2 of you benched him",
+   "body": "Dominic and Iain will be watching through their fingers.",
+   "stat": "5 started him",
+   "score": 48,
+   "who": [
+    75187,
+    3591460
+   ],
+   "ts": "2026-11-23T21:43:54Z",
+   "gw": 11
+  },
+  {
    "key": "l11:red:229",
    "kind": "live",
    "tag": "Live",
@@ -2545,7 +2560,8 @@
   "d11:sold:627:0:1",
   "l11:ret:366:1:1",
   "d11:onpitch:229",
-  "l11:red:229"
+  "l11:red:229",
+  "d11:onpitch:94"
  ],
  "done": [
   "deadline:10",
@@ -3036,7 +3052,7 @@
     6,
     1,
     0,
-    62,
+    75,
     0,
     0,
     0
@@ -3047,7 +3063,7 @@
     6,
     1,
     0,
-    62,
+    75,
     0,
     0,
     0
@@ -3077,10 +3093,10 @@
    "94": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    9,
     0,
     0,
     0
@@ -3641,7 +3657,7 @@
     2,
     0,
     0,
-    62,
+    75,
     0,
     0,
     0
@@ -3674,7 +3690,7 @@
     4,
     0,
     0,
-    62,
+    75,
     0,
     0,
     0
@@ -3751,7 +3767,7 @@
     2,
     0,
     0,
-    62,
+    68,
     0,
     0,
     0
@@ -3847,7 +3863,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-23T21:33:05Z",
+ "updated": "2026-11-23T21:43:54Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6663,51 +6679,51 @@
     "plots": 11
    },
    "11": {
-    "in": 1625331,
-    "out": 343072,
-    "calls": 124,
+    "in": 1644075,
+    "out": 350731,
+    "calls": 126,
     "refreshes": 21,
-    "desks": 38,
-    "desk_in": 847840,
-    "desk_out": 283221,
+    "desks": 39,
+    "desk_in": 866584,
+    "desk_out": 290880,
     "plots": 3
    }
   },
   "desks": [
    {
-    "headline": "Tarkowski sent off: Omar and IB's bench calls pay",
-    "text": "Tarkowski has been sent off in BRE v EVE, which is **2-0** at 45 minutes, leaving him on **-3 points**. Edd, Saurabh, Elvin and Sasha started him, while Omar and IB benched him. Edd sits **2 points** behind Ravi, who has no one left to play.",
+    "headline": "Tarkowski sent off as Omar and IB's bench calls pay",
+    "text": "Tarkowski's **red card** in BRE v EVE, now 3-0 at 73 minutes, is the biggest swing of the gameweek and leaves him on **-3 points**. Omar and IB benched him and look smart, while Ravi and Hishaan are just **1 point** apart in the close battle for 8th and 9th.",
     "you": {
      "1092588": "3 managers benched Mbeumo, who is now on the pitch. That call was yours.",
-     "3219276": "Ayodele sits **10 points** above you at the top.",
-     "573491": "Your live climb has taken you into 3rd place.",
-     "3323262": "Tavernier set up a goal for you earlier this gameweek. That's old news now.",
+     "3219276": "Ayodele leads you by **10 points** at the top. Closing that gap is the job now.",
+     "573491": "Cherag is **2 points** above you. Your Bench Boost is live, so your climb into 3rd is yours to defend.",
+     "3323262": "Nihal is **10 points** above you. Tavernier's earlier set-up is old news now.",
      "1541394": "Sid is **11 points** above you in 4th place.",
-     "7471754": "Belloumi has set up a goal since you benched him, along with Ahmad.",
-     "5489583": "Your bench call on Tarkowski looks sharp now he has been sent off.",
-     "4922092": "You have passed Edd today, and he is **2 points** behind you.",
-     "1378937": "Ravi has passed you today. Tarkowski, who you started, has been sent off.",
-     "3506595": "You dropped as low as 10th today before climbing back to 9th.",
-     "4125292": "Hishaan is **3 points** above you in 9th place.",
+     "7471754": "Nanik is **3 points** above you. Belloumi, benched by you and Ahmad, has set up a goal since.",
+     "5489583": "Your bench call on Tarkowski looks sharp now he has been **sent off**.",
+     "4922092": "You have passed Edd today, leaving him **2 points** behind you.",
+     "1378937": "Ravi and Hishaan have passed you today. Tarkowski, who you started, has been sent off.",
+     "3506595": "You passed Edd today. He sits **1 point** behind you in 10th.",
+     "4125292": "Edd is **3 points** above you in 10th place.",
      "363548": "Bhavik is **1 point** above you in 11th place.",
      "962024": "Ahmad is **2 points** above you in 12th place.",
-     "4841175": "Your captain Groß has 4 points, which is **8 points** on your armband.",
-     "5873092": "Maanav is **3 points** above you in 14th place.",
+     "4841175": "Your Groß captaincy is paying: 4 points on the pitch, **8 points** on your armband.",
+     "5873092": "Pedro Porro set up a goal after you benched him, a call that's now old news.",
      "7273369": "Justin is **5 points** above you in 15th place.",
      "3359227": "Your captain N.Jackson has 2 points, which is **4 points** on your armband.",
      "6341709": "Raushan is **2 points** above you in 17th place.",
      "75187": "You have dropped 3 places this gameweek.",
-     "6619523": "Dominic is **1 point** above you in 20th place.",
-     "1474501": "Your captain Isak has set up a goal, worth **10 points** on your armband.",
+     "6619523": "Dominic sits **1 point** above you in 20th place.",
+     "1474501": "Isak has set up a goal for your captaincy, worth **10 points** on your armband.",
      "383423": "You dipped to 24th today before climbing back to 23rd.",
-     "5028423": "Saurabh is **1 point** above you, and Tarkowski could help decide that.",
-     "3375627": "Your bench call on Tarkowski looks sharp now he has been sent off.",
-     "3591460": "Elvin is **34 points** above you in the Tin Pot zone."
+     "5028423": "You have passed Tobi and Saurabh today. Tarkowski's red card could help keep them behind.",
+     "3375627": "Benching Tarkowski looks shrewd now he has been **sent off**.",
+     "3591460": "Schade is on the pitch after you benched him, with one other manager doing the same."
     },
-    "ts": "2026-11-23T21:08:27Z",
+    "ts": "2026-11-23T21:43:54Z",
     "gw": 11,
     "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:i:2-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "sig": "101:f:0-0|102:f:2-0|103:i:3-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
     "ranks": {
      "1092588": 1,
      "3219276": 2,
@@ -6717,8 +6733,8 @@
      "7471754": 6,
      "5489583": 7,
      "4922092": 8,
-     "1378937": 9,
      "3506595": 9,
+     "1378937": 10,
      "4125292": 11,
      "363548": 12,
      "962024": 13,
@@ -6731,9 +6747,9 @@
      "75187": 20,
      "6619523": 21,
      "1474501": 22,
-     "383423": 23,
-     "3552160": 24,
-     "5028423": 25,
+     "5028423": 23,
+     "383423": 24,
+     "3552160": 25,
      "3375627": 26,
      "8316989": 27,
      "3591460": 28,
@@ -6742,18 +6758,18 @@
     "totals": {
      "1092588": 732,
      "3219276": 722,
-     "573491": 719,
+     "573491": 720,
      "3323262": 710,
      "1541394": 699,
-     "7471754": 695,
-     "5489583": 677,
+     "7471754": 696,
+     "5489583": 678,
      "4922092": 674,
+     "3506595": 673,
      "1378937": 672,
-     "3506595": 672,
      "4125292": 669,
      "363548": 668,
      "962024": 666,
-     "4841175": 662,
+     "4841175": 663,
      "5873092": 659,
      "7273369": 654,
      "3359227": 651,
@@ -6761,14 +6777,14 @@
      "1457736": 644,
      "75187": 642,
      "6619523": 641,
-     "1474501": 613,
+     "1474501": 618,
+     "5028423": 613,
      "383423": 612,
      "3552160": 609,
-     "5028423": 608,
-     "3375627": 592,
+     "3375627": 594,
      "8316989": 587,
-     "3591460": 553,
-     "5706920": 481
+     "3591460": 560,
+     "5706920": 482
     },
     "ga": {
      "15": [
@@ -7514,7 +7530,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-23T21:08:27Z",
+  "desk_last_ok": "2026-11-23T21:43:54Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -8637,7 +8653,8 @@
   },
   "plots_sig_tries": {
    "10:n:b09a97969469": 1
-  }
+  },
+  "_replaced_ts": "2026-11-23T21:08:27Z"
  },
  "league": {
   "gw": 11,
@@ -8667,8 +8684,8 @@
     "entry_name": "Saka Senapati XI",
     "rank": 3,
     "last_rank": 4,
-    "total": 719,
-    "event_total": 49
+    "total": 720,
+    "event_total": 50
    },
    {
     "entry": 3323262,
@@ -8694,8 +8711,8 @@
     "entry_name": "Tonnatus",
     "rank": 6,
     "last_rank": 6,
-    "total": 695,
-    "event_total": 37
+    "total": 696,
+    "event_total": 38
    },
    {
     "entry": 5489583,
@@ -8703,8 +8720,8 @@
     "entry_name": "Boooooooca",
     "rank": 7,
     "last_rank": 8,
-    "total": 677,
-    "event_total": 33
+    "total": 678,
+    "event_total": 34
    },
    {
     "entry": 4922092,
@@ -8766,8 +8783,8 @@
     "entry_name": "Brewmore",
     "rank": 14,
     "last_rank": 19,
-    "total": 662,
-    "event_total": 57
+    "total": 663,
+    "event_total": 58
    },
    {
     "entry": 5873092,
@@ -8874,8 +8891,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 27,
-    "total": 593,
-    "event_total": 39
+    "total": 594,
+    "event_total": 40
    },
    {
     "entry": 8316989,
@@ -14841,8 +14858,8 @@
     "status": [
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Schade"
      }
     ]
@@ -15531,10 +15548,8 @@
   "ts": "2026-11-21T11:56:39Z"
  },
  "checks": {
-  "ts": "2026-11-23T21:33:05Z",
-  "issues": [
-   "desk written from older totals (6 managers changed since)"
-  ],
+  "ts": "2026-11-23T21:43:54Z",
+  "issues": [],
   "page": [],
   "wording": [
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
@@ -15820,7 +15835,7 @@
    "411": "11:down",
    "397": "10:down",
    "579": "10:up",
-   "229": "10:down",
+   "229": "11:down",
    "129": "10:up",
    "356": "10:down",
    "569": "10:down",
@@ -16503,6 +16518,12 @@
     "status": "s",
     "chance": 0,
     "news": "Suspended until 13 Dec"
+   },
+   {
+    "ts": "2026-11-23T21:43:54Z",
+    "el": 229,
+    "kind": "surge",
+    "net": -25231
    }
   ]
  },

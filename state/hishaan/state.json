@@ -2489,8 +2489,8 @@
     "entry_name": "Bruno Dos Tres",
     "rank": 6,
     "last_rank": 5,
-    "total": 730,
-    "event_total": 34
+    "total": 731,
+    "event_total": 35
    },
    {
     "entry": 3344797,
@@ -2651,8 +2651,8 @@
     "entry_name": "Egg Fried Guimarães",
     "rank": 24,
     "last_rank": 23,
-    "total": 640,
-    "event_total": 28
+    "total": 641,
+    "event_total": 29
    },
    {
     "entry": 6476662,
@@ -7616,6 +7616,21 @@
  },
  "stories": [
   {
+   "key": "d11:onpitch:94",
+   "kind": "live",
+   "tag": "Bench",
+   "head": "Schade is on the pitch. 2 of you benched him",
+   "body": "Inesh and Alia will be watching through their fingers.",
+   "stat": "2 started him",
+   "score": 48,
+   "who": [
+    2465483,
+    6051923
+   ],
+   "ts": "2026-11-23T21:46:22Z",
+   "gw": 11
+  },
+  {
    "key": "l11:red:229",
    "kind": "live",
    "tag": "Live",
@@ -9471,7 +9486,8 @@
   "d11:onpitch:249",
   "z11:3314780:tin",
   "l11:ret:86:2:0",
-  "l11:red:229"
+  "l11:red:229",
+  "d11:onpitch:94"
  ],
  "done": [
   "deadline:10",
@@ -9905,7 +9921,7 @@
     6,
     1,
     0,
-    62,
+    77,
     0,
     0,
     0
@@ -9916,7 +9932,7 @@
     16,
     1,
     0,
-    62,
+    73,
     0,
     0,
     0
@@ -9935,10 +9951,10 @@
    "94": [
     0,
     0,
+    1,
     0,
     0,
-    0,
-    0,
+    11,
     0,
     0,
     0
@@ -10400,7 +10416,7 @@
     2,
     0,
     0,
-    62,
+    77,
     0,
     0,
     0
@@ -10422,7 +10438,7 @@
     3,
     0,
     0,
-    62,
+    77,
     0,
     0,
     0
@@ -10433,7 +10449,7 @@
     0,
     0,
     0,
-    62,
+    77,
     0,
     0,
     0
@@ -10444,7 +10460,7 @@
     2,
     0,
     0,
-    62,
+    68,
     0,
     0,
     0
@@ -10521,7 +10537,7 @@
     2,
     0,
     0,
-    62,
+    68,
     0,
     0,
     0
@@ -10600,7 +10616,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-23T21:33:32Z",
+ "updated": "2026-11-23T21:46:22Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -10630,7 +10646,7 @@
    "6051923": "You are 25th on 584 with a 50-point week. Watch Bella, 24 behind, and Ravi Bhojwani, 16 ahead."
   },
   "key": "11:live",
-  "ts": "2026-11-23T21:10:44Z",
+  "ts": "2026-11-23T21:46:22Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -10643,17 +10659,175 @@
     "plots": 11
    },
    "11": {
-    "in": 1569714,
-    "out": 332370,
-    "calls": 121,
-    "refreshes": 21,
-    "desks": 38,
-    "desk_in": 856048,
-    "desk_out": 279038,
+    "in": 1622023,
+    "out": 340299,
+    "calls": 125,
+    "refreshes": 22,
+    "desks": 39,
+    "desk_in": 874851,
+    "desk_out": 285290,
     "plots": 2
    }
   },
   "desks": [
+   {
+    "headline": "Lewis-Potter's 2 goals hand Sahil a big lift",
+    "text": "**Lewis-Potter** has bagged **2 goals** as BRE v EVE leads 3-0 after 77 minutes, and Sahil is the only manager in the league who owns him. Lakshay and Rajiv are level on 645 points in the Tin Pot fight, so any further BRE v EVE goal could decide who escapes.",
+    "you": {
+     "3029346": "3 managers benched Konsa, who is on the pitch now. You still hold **top spot**, 17 points clear of Nikhil.",
+     "2321301": "You benched Barry, who is on the pitch now with 1 point. You sit 17 points behind Matt in 2nd.",
+     "1921902": "Only 3 managers own your captain N.Jackson, who has 4 points with the armband. Nikhil is 22 points above you.",
+     "1655993": "Your **Bench Boost** has pushed you up 4 places this gameweek, to 4th. Ravin is 1 point above you in 3rd.",
+     "735721": "Benching **Barry** looks risky now he is on the pitch. Sunny is 2 points ahead of you in 4th.",
+     "2687116": "Deepak is 1 point ahead of you in 5th. Benching Ødegaard has backfired, as he has set up a goal.",
+     "3344797": "Chandru is 13 points ahead of you in 6th, with no players left to play for you.",
+     "1036311": "Your **Bench Boost** is in a showdown with Sunny's, with 48 points so far this gameweek.",
+     "4487775": "Sahil has passed you today, leaving you 2 points behind him.",
+     "5474293": "You have passed Prem, Aashiv and Sunil today, the best of it from **Lewis-Potter**, who only you own.",
+     "3350483": "Sahil has passed you today, leaving you 9 points behind him.",
+     "3072827": "Sahil has passed you today, with Marcel 5 points behind you.",
+     "75778": "You were as high as 12th today before slipping to 13th.",
+     "5682768": "Naresh sits 1 point above you in 14th, with 43 points so far this gameweek.",
+     "6892917": "Vanessa is 2 points above you, with 39 points so far this gameweek.",
+     "4922092": "Poonam is 1 point ahead of you, after Barcola set up a goal following your sale.",
+     "3506595": "You have dropped 3 places this gameweek, with Inesh 1 point behind you.",
+     "2465483": "Schade is on the pitch now that you have benched him, with Hishaan 1 point ahead of you.",
+     "6279027": "Belloumi, whom you sold this week, has set up a goal.",
+     "865376": "Only 1 manager owns **Palmer**, your captain, who has 4 points with the armband.",
+     "7043406": "Only 3 managers own your captain N.Jackson, who has 4 points with the armband.",
+     "3314780": "Rajiv is 1 point ahead of you, leaving you in the Tin Pot spots.",
+     "6159011": "Only 3 managers share your captain N.Jackson, who has 4 points with the armband.",
+     "6476662": "You dropped as low as 26th today, now back up to 25th.",
+     "6051923": "Tarkowski, one of your starters, has been sent off, leaving him on -3 points."
+    },
+    "ts": "2026-11-23T21:46:22Z",
+    "gw": 11,
+    "moment": "matches_on",
+    "sig": "101:f:0-0|102:f:2-0|103:i:3-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "ranks": {
+     "3029346": 1,
+     "2321301": 2,
+     "1921902": 3,
+     "1655993": 4,
+     "735721": 5,
+     "2687116": 6,
+     "3344797": 7,
+     "1036311": 8,
+     "5474293": 9,
+     "4487775": 10,
+     "3072827": 11,
+     "3350483": 11,
+     "75778": 13,
+     "2934546": 14,
+     "5682768": 15,
+     "6892917": 16,
+     "4922092": 17,
+     "3506595": 18,
+     "2465483": 19,
+     "6279027": 20,
+     "865376": 21,
+     "7043406": 21,
+     "3314780": 23,
+     "6159011": 24,
+     "6476662": 25,
+     "6051923": 26
+    },
+    "totals": {
+     "3029346": 774,
+     "2321301": 757,
+     "1921902": 735,
+     "1655993": 734,
+     "735721": 732,
+     "2687116": 731,
+     "3344797": 718,
+     "1036311": 707,
+     "5474293": 697,
+     "4487775": 695,
+     "3072827": 687,
+     "3350483": 687,
+     "75778": 681,
+     "2934546": 678,
+     "5682768": 677,
+     "6892917": 675,
+     "4922092": 674,
+     "3506595": 673,
+     "2465483": 672,
+     "6279027": 649,
+     "865376": 645,
+     "7043406": 645,
+     "3314780": 644,
+     "6159011": 641,
+     "6476662": 617,
+     "6051923": 614
+    },
+    "ga": {
+     "15": [
+      0,
+      1
+     ],
+     "16": [
+      1,
+      0
+     ],
+     "286": [
+      0,
+      1
+     ],
+     "40": [
+      0,
+      1
+     ],
+     "60": [
+      0,
+      1
+     ],
+     "68": [
+      0,
+      1
+     ],
+     "330": [
+      0,
+      1
+     ],
+     "79": [
+      1,
+      0
+     ],
+     "86": [
+      2,
+      0
+     ],
+     "346": [
+      1,
+      1
+     ],
+     "366": [
+      1,
+      1
+     ],
+     "627": [
+      0,
+      1
+     ],
+     "379": [
+      0,
+      1
+     ],
+     "183": [
+      0,
+      2
+     ],
+     "453": [
+      1,
+      0
+     ],
+     "481": [
+      1,
+      0
+     ]
+    },
+    "you_full_ts": "2026-11-23T21:22:06Z"
+   },
    {
     "headline": "Lewis-Potter's 2 goals lift Sahil as Tin Pot tightens",
     "text": "Lewis-Potter has bagged **2 goals** for BRE v EVE, worth **14 points** to Sahil alone, lifting him to 9th. Lakshay and Rajiv are level on 644 points in the Tin Pot fight, and any further BRE v EVE goal could decide who climbs out.",
@@ -11285,165 +11459,6 @@
      "match": "BRE v EVE"
     },
     "buildup_for": 103
-   },
-   {
-    "headline": "Matt holds top spot, 17 points clear of Nikhil",
-    "text": "**Wirtz's 14 points** in LIV v MUN lifted Matt, Naresh and Bella, while Barcola's assist kept Nikhil in the chase. Matt now holds top spot, **17 points** clear of Nikhil, with no players left to play. Nikhil needs Barcola's points to hold on to any hope of catching him.",
-    "you": {
-     "3029346": "3 managers benched Konsa, who is now on the pitch, exposing their call. Your lead of 17 points stands.",
-     "2321301": "Matt sits 17 points above you at the top, the gap you need to close.",
-     "1921902": "You passed Deepak today, moving you into 3rd place.",
-     "1655993": "You passed Deepak, Chandru and Rohan today, breaking into 4th place.",
-     "735721": "Ravin and Sunny both passed you today, dropping you to 5th.",
-     "2687116": "Sunny passed you today, so Deepak is now 2 points ahead of you.",
-     "3344797": "Sunny passed you today, so Chandru is now 12 points ahead of you.",
-     "1036311": "Your Bench Boost is head to head with Sunny's this week.",
-     "4487775": "Amit is 10 points above you in 8th place.",
-     "3350483": "Prem is 10 points above you in the table.",
-     "3072827": "You dropped as low as 11th today, then climbed back to 10th.",
-     "75778": "You dropped as low as 13th today, then climbed back to 12th.",
-     "5474293": "Lewis-Potter is your last player still to play.",
-     "2934546": "You passed Vanessa, Poonam and Ravi Mahtani today.",
-     "5682768": "You passed Hishaan today, but Naresh passed you.",
-     "6892917": "Hishaan fell behind you today, though Naresh passed you.",
-     "4922092": "You passed Hishaan today, but Naresh has gone past you.",
-     "3506595": "Naresh, Vanessa and Poonam all passed you today.",
-     "2465483": "Branthwaite is your only player still to play.",
-     "6279027": "The Belloumi you sold this week has set up a goal.",
-     "865376": "Palmer is your captain, a pick only 1 manager shares, and he has played.",
-     "7043406": "N.Jackson is your captain, a pick only 3 managers share, and he has played.",
-     "3314780": "Pickford is your only player still to play.",
-     "6159011": "N.Jackson blanked as your captain, a pick only 3 managers share.",
-     "6051923": "Vinesh is 23 points above you, the gap to close from the Tin Pot zone.",
-     "6476662": "Your Triple Captain on Haaland delivered 6 points."
-    },
-    "ts": "2026-11-22T18:43:23Z",
-    "gw": 11,
-    "moment": "day_over",
-    "sig": "101:f:0-0|102:f:2-0|103:n:0-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
-    "ranks": {
-     "3029346": 1,
-     "2321301": 2,
-     "1921902": 3,
-     "1655993": 4,
-     "735721": 5,
-     "2687116": 6,
-     "3344797": 7,
-     "1036311": 8,
-     "4487775": 9,
-     "3072827": 10,
-     "3350483": 10,
-     "5474293": 12,
-     "75778": 12,
-     "2934546": 14,
-     "5682768": 15,
-     "6892917": 16,
-     "4922092": 17,
-     "3506595": 18,
-     "2465483": 19,
-     "6279027": 20,
-     "865376": 21,
-     "7043406": 21,
-     "3314780": 23,
-     "6159011": 24,
-     "6051923": 25,
-     "6476662": 25
-    },
-    "totals": {
-     "3029346": 774,
-     "2321301": 757,
-     "1921902": 735,
-     "1655993": 734,
-     "735721": 732,
-     "2687116": 730,
-     "3344797": 718,
-     "1036311": 705,
-     "4487775": 695,
-     "3072827": 685,
-     "3350483": 685,
-     "5474293": 681,
-     "75778": 681,
-     "2934546": 678,
-     "5682768": 677,
-     "6892917": 675,
-     "4922092": 674,
-     "3506595": 671,
-     "2465483": 669,
-     "6279027": 652,
-     "865376": 643,
-     "7043406": 643,
-     "3314780": 642,
-     "6159011": 640,
-     "6051923": 617,
-     "6476662": 617
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "16": [
-      1,
-      0
-     ],
-     "286": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "366": [
-      1,
-      1
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      0,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ]
-    },
-    "you_full_ts": "2026-11-22T18:43:23Z",
-    "next": {
-     "ko": "2026-11-23T20:00:00Z",
-     "match": "BRE v EVE"
-    }
    }
   ],
   "desk_day": {
@@ -11477,7 +11492,7 @@
     "6476662": 25
    }
   },
-  "desk_last_ok": "2026-11-23T21:22:06Z",
+  "desk_last_ok": "2026-11-23T21:46:22Z",
   "plots": [
    {
     "id": "title",
@@ -13175,8 +13190,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 0",
-      "pts": 0,
+      "label": "Playing · 1",
+      "pts": 1,
       "player": "Schade"
      }
     ]
@@ -13490,10 +13505,8 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-23T21:33:32Z",
-  "issues": [
-   "desk written from older totals (9 managers changed since)"
-  ],
+  "ts": "2026-11-23T21:46:22Z",
+  "issues": [],
   "page": [],
   "wording": [
    "wording (1 points): ...an't move anyone.    Konsa ARS   Scored 1 pts        13...",
@@ -13743,7 +13756,7 @@
    "127": "10:up",
    "286": "10:down",
    "411": "11:down",
-   "229": "10:down",
+   "229": "11:down",
    "60": "11:up",
    "268": "10:down",
    "330": "11:up",
@@ -14375,6 +14388,12 @@
     "status": "s",
     "chance": 0,
     "news": "Suspended until 13 Dec"
+   },
+   {
+    "ts": "2026-11-23T21:46:22Z",
+    "el": 229,
+    "kind": "surge",
+    "net": -25231
    }
   ]
  },
