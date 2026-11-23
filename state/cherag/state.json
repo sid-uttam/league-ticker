@@ -11013,15 +11013,6 @@
     "event_total": 42
    },
    {
-    "entry": 248721,
-    "player_name": "Raj Pratik",
-    "entry_name": "Mebesty",
-    "rank": 51,
-    "last_rank": 51,
-    "total": 684,
-    "event_total": 37
-   },
-   {
     "entry": 3654448,
     "player_name": "Abhimanyu Pathania",
     "entry_name": "FPLXV",
@@ -11029,6 +11020,15 @@
     "last_rank": 56,
     "total": 684,
     "event_total": 42
+   },
+   {
+    "entry": 248721,
+    "player_name": "Raj Pratik",
+    "entry_name": "Mebesty",
+    "rank": 51,
+    "last_rank": 51,
+    "total": 684,
+    "event_total": 37
    },
    {
     "entry": 675013,
@@ -11103,13 +11103,13 @@
     "event_total": 43
    },
    {
-    "entry": 2119331,
-    "player_name": "Ajay Rachakonda",
-    "entry_name": "Silent Violence",
+    "entry": 119259,
+    "player_name": "Rahil Mirchandani",
+    "entry_name": "Regaling",
     "rank": 61,
-    "last_rank": 55,
+    "last_rank": 64,
     "total": 675,
-    "event_total": 32
+    "event_total": 40
    },
    {
     "entry": 4683090,
@@ -11121,13 +11121,13 @@
     "event_total": 27
    },
    {
-    "entry": 119259,
-    "player_name": "Rahil Mirchandani",
-    "entry_name": "Regaling",
+    "entry": 2119331,
+    "player_name": "Ajay Rachakonda",
+    "entry_name": "Silent Violence",
     "rank": 61,
-    "last_rank": 64,
+    "last_rank": 55,
     "total": 675,
-    "event_total": 40
+    "event_total": 32
    },
    {
     "entry": 3404613,
@@ -11184,15 +11184,6 @@
     "event_total": 28
    },
    {
-    "entry": 4372346,
-    "player_name": "Shantanu Sharma",
-    "entry_name": "Carnage1x",
-    "rank": 70,
-    "last_rank": 78,
-    "total": 664,
-    "event_total": 45
-   },
-   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
@@ -11200,6 +11191,15 @@
     "last_rank": 72,
     "total": 664,
     "event_total": 38
+   },
+   {
+    "entry": 4372346,
+    "player_name": "Shantanu Sharma",
+    "entry_name": "Carnage1x",
+    "rank": 70,
+    "last_rank": 78,
+    "total": 664,
+    "event_total": 45
    },
    {
     "entry": 26707,
@@ -11238,15 +11238,6 @@
     "event_total": 26
    },
    {
-    "entry": 1737924,
-    "player_name": "Rajat Bhalla",
-    "entry_name": "Break all hell ⚽️",
-    "rank": 76,
-    "last_rank": 75,
-    "total": 656,
-    "event_total": 34
-   },
-   {
     "entry": 6830291,
     "player_name": "Karan P Nanda",
     "entry_name": "Justlikethat",
@@ -11254,6 +11245,15 @@
     "last_rank": 76,
     "total": 656,
     "event_total": 35
+   },
+   {
+    "entry": 1737924,
+    "player_name": "Rajat Bhalla",
+    "entry_name": "Break all hell ⚽️",
+    "rank": 76,
+    "last_rank": 75,
+    "total": 656,
+    "event_total": 34
    },
    {
     "entry": 438967,
@@ -60664,8 +60664,8 @@
    "4558790": 48,
    "249619": 48,
    "119217": 50,
-   "248721": 50,
    "3654448": 50,
+   "248721": 50,
    "675013": 53,
    "4540238": 53,
    "4134138": 55,
@@ -60674,23 +60674,23 @@
    "2868149": 58,
    "1443362": 58,
    "57776": 60,
-   "2119331": 61,
-   "4683090": 61,
    "119259": 61,
+   "4683090": 61,
+   "2119331": 61,
    "3404613": 64,
    "1854010": 65,
    "4632544": 65,
    "383029": 67,
    "2922453": 68,
    "2569620": 69,
-   "4372346": 69,
    "4592187": 69,
+   "4372346": 69,
    "26707": 72,
    "10615": 73,
    "3086063": 74,
    "4314690": 75,
-   "1737924": 76,
    "6830291": 76,
+   "1737924": 76,
    "438967": 76,
    "11673": 79,
    "44532": 80,
@@ -60779,8 +60779,8 @@
    "4558790": null,
    "249619": null,
    "119217": null,
-   "248721": null,
    "3654448": null,
+   "248721": null,
    "675013": null,
    "4540238": null,
    "4134138": null,
@@ -60789,23 +60789,23 @@
    "2868149": null,
    "1443362": null,
    "57776": null,
-   "2119331": null,
-   "4683090": null,
    "119259": null,
+   "4683090": null,
+   "2119331": null,
    "3404613": null,
    "1854010": null,
    "4632544": null,
    "383029": null,
    "2922453": null,
    "2569620": null,
-   "4372346": null,
    "4592187": null,
+   "4372346": null,
    "26707": null,
    "10615": null,
    "3086063": null,
    "4314690": null,
-   "1737924": null,
    "6830291": null,
+   "1737924": null,
    "438967": null,
    "11673": null,
    "44532": null,
@@ -60844,7 +60844,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T20:47:05Z",
+ "updated": "2026-11-23T20:58:01Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67213,7 +67213,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T20:47:05Z",
+  "ts": "2026-11-23T20:58:01Z",
   "issues": [
    "desk written from older totals (6 managers changed since)"
   ],

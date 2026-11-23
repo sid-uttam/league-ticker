@@ -2511,15 +2511,6 @@
     "event_total": 48
    },
    {
-    "entry": 4487775,
-    "player_name": "Prem Balani",
-    "entry_name": "Leaf Green",
-    "rank": 9,
-    "last_rank": 7,
-    "total": 695,
-    "event_total": 26
-   },
-   {
     "entry": 5474293,
     "player_name": "Sahil Mirchandani",
     "entry_name": "Flick Ball",
@@ -2527,6 +2518,15 @@
     "last_rank": 12,
     "total": 695,
     "event_total": 43
+   },
+   {
+    "entry": 4487775,
+    "player_name": "Prem Balani",
+    "entry_name": "Leaf Green",
+    "rank": 9,
+    "last_rank": 7,
+    "total": 695,
+    "event_total": 26
    },
    {
     "entry": 3072827,
@@ -10552,8 +10552,8 @@
    "2687116": 6,
    "3344797": 7,
    "1036311": 8,
-   "4487775": 9,
    "5474293": 9,
+   "4487775": 9,
    "3072827": 11,
    "3350483": 11,
    "75778": 13,
@@ -10580,8 +10580,8 @@
    "2687116": "silver",
    "3344797": "silver",
    "1036311": "silver",
-   "4487775": null,
    "5474293": null,
+   "4487775": null,
    "3072827": null,
    "3350483": null,
    "75778": null,
@@ -10600,7 +10600,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-23T20:47:20Z",
+ "updated": "2026-11-23T20:58:06Z",
  "ai": {
   "briefings": {
    "2321301": "You lead on 723 and remain 1 point ahead of Matt, with Deepak 15 back. Watch Matt's Bench Boost chase and keep an eye on Barcola, the only new arrival you own.",
@@ -13491,7 +13491,7 @@
   "ts": "2026-11-21T12:00:35Z"
  },
  "checks": {
-  "ts": "2026-11-23T20:47:20Z",
+  "ts": "2026-11-23T20:58:06Z",
   "issues": [
    "desk written from older totals (3 managers changed since)"
   ],
