@@ -10959,15 +10959,6 @@
     "event_total": 35
    },
    {
-    "entry": 1425044,
-    "player_name": "Manav Malhotra",
-    "entry_name": "Brain-Heart 11",
-    "rank": 45,
-    "last_rank": 39,
-    "total": 687,
-    "event_total": 33
-   },
-   {
     "entry": 13951,
     "player_name": "Sagar C",
     "entry_name": "Champs",
@@ -10975,6 +10966,15 @@
     "last_rank": 53,
     "total": 687,
     "event_total": 43
+   },
+   {
+    "entry": 1425044,
+    "player_name": "Manav Malhotra",
+    "entry_name": "Brain-Heart 11",
+    "rank": 45,
+    "last_rank": 39,
+    "total": 687,
+    "event_total": 33
    },
    {
     "entry": 4558790,
@@ -11013,15 +11013,6 @@
     "event_total": 37
    },
    {
-    "entry": 119217,
-    "player_name": "Kunaal Dadwal",
-    "entry_name": "Chutzpah",
-    "rank": 51,
-    "last_rank": 56,
-    "total": 683,
-    "event_total": 41
-   },
-   {
     "entry": 675013,
     "player_name": "Amar Sarvaria",
     "entry_name": "Wirtz Behavior",
@@ -11029,6 +11020,15 @@
     "last_rank": 40,
     "total": 683,
     "event_total": 30
+   },
+   {
+    "entry": 119217,
+    "player_name": "Kunaal Dadwal",
+    "entry_name": "Chutzpah",
+    "rank": 51,
+    "last_rank": 56,
+    "total": 683,
+    "event_total": 41
    },
    {
     "entry": 3654448,
@@ -11202,15 +11202,6 @@
     "event_total": 37
    },
    {
-    "entry": 26707,
-    "player_name": "Krishnaji Sanas",
-    "entry_name": "Victorious Secrets",
-    "rank": 72,
-    "last_rank": 60,
-    "total": 662,
-    "event_total": 23
-   },
-   {
     "entry": 10615,
     "player_name": "Maanas Gupta",
     "entry_name": "Infinity Inc",
@@ -11218,6 +11209,15 @@
     "last_rank": 72,
     "total": 662,
     "event_total": 36
+   },
+   {
+    "entry": 26707,
+    "player_name": "Krishnaji Sanas",
+    "entry_name": "Victorious Secrets",
+    "rank": 72,
+    "last_rank": 60,
+    "total": 662,
+    "event_total": 23
    },
    {
     "entry": 3086063,
@@ -60583,14 +60583,14 @@
    "480904": 42,
    "10821": 42,
    "32831": 44,
-   "1425044": 44,
    "13951": 44,
+   "1425044": 44,
    "4558790": 47,
    "249619": 47,
    "3560542": 47,
    "248721": 50,
-   "119217": 51,
    "675013": 51,
+   "119217": 51,
    "3654448": 51,
    "4540238": 51,
    "4134138": 55,
@@ -60610,8 +60610,8 @@
    "4372346": 69,
    "2569620": 70,
    "4592187": 70,
-   "26707": 72,
    "10615": 72,
+   "26707": 72,
    "3086063": 74,
    "4314690": 75,
    "1737924": 76,
@@ -60698,14 +60698,14 @@
    "480904": null,
    "10821": null,
    "32831": null,
-   "1425044": null,
    "13951": null,
+   "1425044": null,
    "4558790": null,
    "249619": null,
    "3560542": null,
    "248721": null,
-   "119217": null,
    "675013": null,
+   "119217": null,
    "3654448": null,
    "4540238": null,
    "4134138": null,
@@ -60725,8 +60725,8 @@
    "4372346": null,
    "2569620": null,
    "4592187": null,
-   "26707": null,
    "10615": null,
+   "26707": null,
    "3086063": null,
    "4314690": null,
    "1737924": null,
@@ -60769,7 +60769,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T09:29:02Z",
+ "updated": "2026-11-23T09:39:44Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67194,7 +67194,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T09:29:02Z",
+  "ts": "2026-11-23T09:39:44Z",
   "issues": [],
   "page": [],
   "wording": [
