@@ -10986,15 +10986,6 @@
     "event_total": 35
    },
    {
-    "entry": 3560542,
-    "player_name": "Sandeepan Bhattacharya",
-    "entry_name": "Amad season ahead",
-    "rank": 48,
-    "last_rank": 65,
-    "total": 686,
-    "event_total": 51
-   },
-   {
     "entry": 249619,
     "player_name": "Mayuresh Deshpande",
     "entry_name": "NetBlasters",
@@ -11002,6 +10993,15 @@
     "last_rank": 30,
     "total": 686,
     "event_total": 22
+   },
+   {
+    "entry": 3560542,
+    "player_name": "Sandeepan Bhattacharya",
+    "entry_name": "Amad season ahead",
+    "rank": 48,
+    "last_rank": 65,
+    "total": 686,
+    "event_total": 51
    },
    {
     "entry": 248721,
@@ -11112,15 +11112,6 @@
     "event_total": 42
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 62,
-    "last_rank": 48,
-    "total": 674,
-    "event_total": 26
-   },
-   {
     "entry": 2119331,
     "player_name": "Ajay Rachakonda",
     "entry_name": "Silent Violence",
@@ -11128,6 +11119,15 @@
     "last_rank": 55,
     "total": 674,
     "event_total": 31
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 62,
+    "last_rank": 48,
+    "total": 674,
+    "event_total": 26
    },
    {
     "entry": 3404613,
@@ -11202,15 +11202,6 @@
     "event_total": 37
    },
    {
-    "entry": 26707,
-    "player_name": "Krishnaji Sanas",
-    "entry_name": "Victorious Secrets",
-    "rank": 72,
-    "last_rank": 60,
-    "total": 662,
-    "event_total": 23
-   },
-   {
     "entry": 10615,
     "player_name": "Maanas Gupta",
     "entry_name": "Infinity Inc",
@@ -11218,6 +11209,15 @@
     "last_rank": 72,
     "total": 662,
     "event_total": 36
+   },
+   {
+    "entry": 26707,
+    "player_name": "Krishnaji Sanas",
+    "entry_name": "Victorious Secrets",
+    "rank": 72,
+    "last_rank": 60,
+    "total": 662,
+    "event_total": 23
    },
    {
     "entry": 3086063,
@@ -11517,22 +11517,22 @@
     "event_total": 25
    },
    {
-    "entry": 7613031,
-    "player_name": "Janak Malkani",
-    "entry_name": "Janak's Trass",
-    "rank": 107,
-    "last_rank": 109,
-    "total": 594,
-    "event_total": 47
-   },
-   {
     "entry": 4800825,
     "player_name": "Sourabh Narsaria",
     "entry_name": "Takatak-baba",
-    "rank": 108,
+    "rank": 107,
     "last_rank": 108,
     "total": 594,
     "event_total": 39
+   },
+   {
+    "entry": 7613031,
+    "player_name": "Janak Malkani",
+    "entry_name": "Janak's Trass",
+    "rank": 108,
+    "last_rank": 109,
+    "total": 593,
+    "event_total": 46
    },
    {
     "entry": 4527650,
@@ -60484,7 +60484,7 @@
    "499": [
     0,
     1,
-    12,
+    11,
     1,
     0,
     90,
@@ -60586,8 +60586,8 @@
    "1425044": 44,
    "13951": 44,
    "4558790": 47,
-   "3560542": 47,
    "249619": 47,
+   "3560542": 47,
    "248721": 50,
    "675013": 51,
    "119217": 51,
@@ -60600,8 +60600,8 @@
    "1443362": 58,
    "119259": 60,
    "57776": 60,
-   "4683090": 62,
    "2119331": 62,
+   "4683090": 62,
    "3404613": 64,
    "1854010": 65,
    "4632544": 65,
@@ -60610,8 +60610,8 @@
    "4372346": 69,
    "2569620": 70,
    "4592187": 70,
-   "26707": 72,
    "10615": 72,
+   "26707": 72,
    "3086063": 74,
    "4314690": 75,
    "1737924": 76,
@@ -60645,8 +60645,8 @@
    "358907": 104,
    "1183002": 105,
    "4439544": 106,
-   "7613031": 107,
    "4800825": 107,
+   "7613031": 108,
    "4527650": 109,
    "6571548": 110,
    "6598615": 111,
@@ -60701,8 +60701,8 @@
    "1425044": null,
    "13951": null,
    "4558790": null,
-   "3560542": null,
    "249619": null,
+   "3560542": null,
    "248721": null,
    "675013": null,
    "119217": null,
@@ -60715,8 +60715,8 @@
    "1443362": null,
    "119259": null,
    "57776": null,
-   "4683090": null,
    "2119331": null,
+   "4683090": null,
    "3404613": null,
    "1854010": null,
    "4632544": null,
@@ -60725,8 +60725,8 @@
    "4372346": null,
    "2569620": null,
    "4592187": null,
-   "26707": null,
    "10615": null,
+   "26707": null,
    "3086063": null,
    "4314690": null,
    "1737924": null,
@@ -60760,8 +60760,8 @@
    "358907": null,
    "1183002": null,
    "4439544": null,
-   "7613031": null,
    "4800825": null,
+   "7613031": null,
    "4527650": null,
    "6571548": null,
    "6598615": null,
@@ -60769,7 +60769,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T10:33:13Z",
+ "updated": "2026-11-23T10:43:55Z",
  "ai": {
   "briefings": {
    "5949580": "{'head': 'Rajat Arora', 'body': 'You lead on 759, 19 clear of Neol, with Barry the only one still to play for you. Your 4-point Haaland armband is the weak spot, so watch Neol closely.'}",
@@ -67194,8 +67194,10 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T10:33:13Z",
-  "issues": [],
+  "ts": "2026-11-23T10:43:55Z",
+  "issues": [
+   "desk written from older totals (1 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...gar ↓ don't   0    Autosub:  Manzambi  (1 pts) comes in...",
