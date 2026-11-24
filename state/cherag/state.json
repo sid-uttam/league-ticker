@@ -10959,15 +10959,6 @@
     "event_total": 53
    },
    {
-    "entry": 13951,
-    "player_name": "Sagar C",
-    "entry_name": "Champs",
-    "rank": 45,
-    "last_rank": 53,
-    "total": 687,
-    "event_total": 43
-   },
-   {
     "entry": 1425044,
     "player_name": "Manav Malhotra",
     "entry_name": "Brain-Heart 11",
@@ -10975,6 +10966,15 @@
     "last_rank": 39,
     "total": 687,
     "event_total": 33
+   },
+   {
+    "entry": 13951,
+    "player_name": "Sagar C",
+    "entry_name": "Champs",
+    "rank": 45,
+    "last_rank": 53,
+    "total": 687,
+    "event_total": 43
    },
    {
     "entry": 3239284,
@@ -11175,15 +11175,6 @@
     "event_total": 30
    },
    {
-    "entry": 2922453,
-    "player_name": "Abhishek Yerra",
-    "entry_name": "Ctrl + Alt + De Ligt",
-    "rank": 69,
-    "last_rank": 70,
-    "total": 665,
-    "event_total": 38
-   },
-   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
@@ -11200,6 +11191,15 @@
     "last_rank": 60,
     "total": 665,
     "event_total": 26
+   },
+   {
+    "entry": 2922453,
+    "player_name": "Abhishek Yerra",
+    "entry_name": "Ctrl + Alt + De Ligt",
+    "rank": 69,
+    "last_rank": 70,
+    "total": 665,
+    "event_total": 38
    },
    {
     "entry": 4372346,
@@ -11427,15 +11427,6 @@
     "event_total": 45
    },
    {
-    "entry": 4905114,
-    "player_name": "Anuj Joglekar",
-    "entry_name": "Summer Tzolstis",
-    "rank": 97,
-    "last_rank": 87,
-    "total": 627,
-    "event_total": 22
-   },
-   {
     "entry": 8779992,
     "player_name": "Kartik Kak",
     "entry_name": "Top FC",
@@ -11445,13 +11436,13 @@
     "event_total": 41
    },
    {
-    "entry": 4616626,
-    "player_name": "Sanket Khandekar",
-    "entry_name": "KFA Xtreme",
-    "rank": 99,
-    "last_rank": 101,
-    "total": 626,
-    "event_total": 40
+    "entry": 4905114,
+    "player_name": "Anuj Joglekar",
+    "entry_name": "Summer Tzolstis",
+    "rank": 97,
+    "last_rank": 87,
+    "total": 627,
+    "event_total": 22
    },
    {
     "entry": 1967440,
@@ -11461,6 +11452,15 @@
     "last_rank": 95,
     "total": 626,
     "event_total": 28
+   },
+   {
+    "entry": 4616626,
+    "player_name": "Sanket Khandekar",
+    "entry_name": "KFA Xtreme",
+    "rank": 99,
+    "last_rank": 101,
+    "total": 626,
+    "event_total": 40
    },
    {
     "entry": 1474501,
@@ -60832,8 +60832,8 @@
    "257074": 39,
    "10821": 43,
    "3560542": 43,
-   "13951": 45,
    "1425044": 45,
+   "13951": 45,
    "3239284": 45,
    "4558790": 48,
    "249619": 48,
@@ -60856,9 +60856,9 @@
    "4632544": 66,
    "383029": 67,
    "2569620": 68,
-   "2922453": 69,
    "4592187": 69,
    "26707": 69,
+   "2922453": 69,
    "4372346": 72,
    "3086063": 72,
    "10615": 74,
@@ -60884,10 +60884,10 @@
    "3298199": 93,
    "5734029": 95,
    "3794959": 96,
-   "4905114": 97,
    "8779992": 97,
-   "4616626": 99,
+   "4905114": 97,
    "1967440": 99,
+   "4616626": 99,
    "1474501": 101,
    "1497357": 102,
    "358907": 103,
@@ -60947,8 +60947,8 @@
    "257074": null,
    "10821": null,
    "3560542": null,
-   "13951": null,
    "1425044": null,
+   "13951": null,
    "3239284": null,
    "4558790": null,
    "249619": null,
@@ -60971,9 +60971,9 @@
    "4632544": null,
    "383029": null,
    "2569620": null,
-   "2922453": null,
    "4592187": null,
    "26707": null,
+   "2922453": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
@@ -60999,10 +60999,10 @@
    "3298199": null,
    "5734029": null,
    "3794959": null,
-   "4905114": null,
    "8779992": null,
-   "4616626": null,
+   "4905114": null,
    "1967440": null,
+   "4616626": null,
    "1474501": null,
    "1497357": null,
    "358907": null,
@@ -61018,7 +61018,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-24T09:33:28Z",
+ "updated": "2026-11-24T09:44:21Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -67330,7 +67330,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-24T09:33:28Z",
+  "ts": "2026-11-24T09:44:21Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -67836,7 +67836,7 @@
    "236": "10:up",
    "138": "11:down",
    "426": "10:down",
-   "106": "10:down",
+   "106": "11:down",
    "366": "11:up",
    "464": "10:down",
    "388": "10:down",
@@ -68823,6 +68823,12 @@
     "el": 183,
     "kind": "surge",
     "net": 25002
+   },
+   {
+    "ts": "2026-11-24T09:44:21Z",
+    "el": 106,
+    "kind": "surge",
+    "net": -25041
    }
   ]
  },
