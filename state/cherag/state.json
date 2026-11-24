@@ -10617,15 +10617,6 @@
     "event_total": 34
    },
    {
-    "entry": 4722308,
-    "player_name": "Biswadeep Majumdar",
-    "entry_name": "quadrupliraola",
-    "rank": 7,
-    "last_rank": 7,
-    "total": 730,
-    "event_total": 31
-   },
-   {
     "entry": 1273065,
     "player_name": "Prathap Devadiga",
     "entry_name": "Waka waka 11",
@@ -10633,6 +10624,15 @@
     "last_rank": 9,
     "total": 730,
     "event_total": 36
+   },
+   {
+    "entry": 4722308,
+    "player_name": "Biswadeep Majumdar",
+    "entry_name": "quadrupliraola",
+    "rank": 7,
+    "last_rank": 7,
+    "total": 730,
+    "event_total": 31
    },
    {
     "entry": 1902223,
@@ -11175,15 +11175,6 @@
     "event_total": 30
    },
    {
-    "entry": 2922453,
-    "player_name": "Abhishek Yerra",
-    "entry_name": "Ctrl + Alt + De Ligt",
-    "rank": 69,
-    "last_rank": 70,
-    "total": 665,
-    "event_total": 38
-   },
-   {
     "entry": 26707,
     "player_name": "Krishnaji Sanas",
     "entry_name": "Victorious Secrets",
@@ -11191,6 +11182,15 @@
     "last_rank": 60,
     "total": 665,
     "event_total": 26
+   },
+   {
+    "entry": 2922453,
+    "player_name": "Abhishek Yerra",
+    "entry_name": "Ctrl + Alt + De Ligt",
+    "rank": 69,
+    "last_rank": 70,
+    "total": 665,
+    "event_total": 38
    },
    {
     "entry": 4592187,
@@ -11238,15 +11238,6 @@
     "event_total": 26
    },
    {
-    "entry": 1737924,
-    "player_name": "Rajat Bhalla",
-    "entry_name": "Break all hell ⚽️",
-    "rank": 76,
-    "last_rank": 75,
-    "total": 656,
-    "event_total": 34
-   },
-   {
     "entry": 6830291,
     "player_name": "Karan P Nanda",
     "entry_name": "Justlikethat",
@@ -11254,6 +11245,15 @@
     "last_rank": 76,
     "total": 656,
     "event_total": 35
+   },
+   {
+    "entry": 1737924,
+    "player_name": "Rajat Bhalla",
+    "entry_name": "Break all hell ⚽️",
+    "rank": 76,
+    "last_rank": 75,
+    "total": 656,
+    "event_total": 34
    },
    {
     "entry": 438967,
@@ -11427,15 +11427,6 @@
     "event_total": 45
    },
    {
-    "entry": 8779992,
-    "player_name": "Kartik Kak",
-    "entry_name": "Top FC",
-    "rank": 97,
-    "last_rank": 100,
-    "total": 627,
-    "event_total": 41
-   },
-   {
     "entry": 4905114,
     "player_name": "Anuj Joglekar",
     "entry_name": "Summer Tzolstis",
@@ -11445,13 +11436,13 @@
     "event_total": 22
    },
    {
-    "entry": 4616626,
-    "player_name": "Sanket Khandekar",
-    "entry_name": "KFA Xtreme",
-    "rank": 99,
-    "last_rank": 101,
-    "total": 626,
-    "event_total": 40
+    "entry": 8779992,
+    "player_name": "Kartik Kak",
+    "entry_name": "Top FC",
+    "rank": 97,
+    "last_rank": 100,
+    "total": 627,
+    "event_total": 41
    },
    {
     "entry": 1967440,
@@ -11461,6 +11452,15 @@
     "last_rank": 95,
     "total": 626,
     "event_total": 28
+   },
+   {
+    "entry": 4616626,
+    "player_name": "Sanket Khandekar",
+    "entry_name": "KFA Xtreme",
+    "rank": 99,
+    "last_rank": 101,
+    "total": 626,
+    "event_total": 40
    },
    {
     "entry": 1474501,
@@ -60803,8 +60803,8 @@
    "1325491": 3,
    "13978": 5,
    "136653": 5,
-   "4722308": 7,
    "1273065": 7,
+   "4722308": 7,
    "1902223": 7,
    "2429776": 10,
    "3949616": 11,
@@ -60865,15 +60865,15 @@
    "4632544": 66,
    "383029": 67,
    "2569620": 68,
-   "2922453": 69,
    "26707": 69,
+   "2922453": 69,
    "4592187": 69,
    "4372346": 72,
    "3086063": 72,
    "10615": 74,
    "4314690": 75,
-   "1737924": 76,
    "6830291": 76,
+   "1737924": 76,
    "438967": 76,
    "44532": 79,
    "11673": 79,
@@ -60893,10 +60893,10 @@
    "3298199": 93,
    "5734029": 95,
    "3794959": 96,
-   "8779992": 97,
    "4905114": 97,
-   "4616626": 99,
+   "8779992": 97,
    "1967440": 99,
+   "4616626": 99,
    "1474501": 101,
    "1497357": 102,
    "358907": 103,
@@ -60918,8 +60918,8 @@
    "1325491": "gold",
    "13978": "gold",
    "136653": "gold",
-   "4722308": "gold",
    "1273065": "gold",
+   "4722308": "gold",
    "1902223": "gold",
    "2429776": "silver",
    "3949616": "silver",
@@ -60980,15 +60980,15 @@
    "4632544": null,
    "383029": null,
    "2569620": null,
-   "2922453": null,
    "26707": null,
+   "2922453": null,
    "4592187": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
    "4314690": null,
-   "1737924": null,
    "6830291": null,
+   "1737924": null,
    "438967": null,
    "44532": null,
    "11673": null,
@@ -61008,10 +61008,10 @@
    "3298199": null,
    "5734029": null,
    "3794959": null,
-   "8779992": null,
    "4905114": null,
-   "4616626": null,
+   "8779992": null,
    "1967440": null,
+   "4616626": null,
    "1474501": null,
    "1497357": null,
    "358907": null,
@@ -61027,7 +61027,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-24T03:21:14Z",
+ "updated": "2026-11-24T03:32:11Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -67340,7 +67340,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-24T03:21:14Z",
+  "ts": "2026-11-24T03:32:11Z",
   "issues": [],
   "page": [],
   "wording": [
