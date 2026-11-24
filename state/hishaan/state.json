@@ -2525,8 +2525,8 @@
     "entry_name": "Leaf Green",
     "rank": 10,
     "last_rank": 7,
-    "total": 695,
-    "event_total": 26
+    "total": 696,
+    "event_total": 27
    },
    {
     "entry": 3072827,
@@ -2615,8 +2615,8 @@
     "entry_name": "AI 11",
     "rank": 20,
     "last_rank": 20,
-    "total": 648,
-    "event_total": 29
+    "total": 649,
+    "event_total": 30
    },
    {
     "entry": 865376,
@@ -2642,8 +2642,8 @@
     "entry_name": "Five Star XI",
     "rank": 23,
     "last_rank": 24,
-    "total": 643,
-    "event_total": 43
+    "total": 644,
+    "event_total": 44
    },
    {
     "entry": 6159011,
@@ -10692,7 +10692,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-24T10:29:30Z",
+ "updated": "2026-11-24T10:40:28Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -13812,7 +13812,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-24T10:29:30Z",
+  "ts": "2026-11-24T10:40:28Z",
   "issues": [],
   "page": [],
   "wording": [

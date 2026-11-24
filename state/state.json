@@ -3822,10 +3822,10 @@
    "1457736": 19,
    "75187": 20,
    "6619523": 21,
+   "3552160": 25,
    "1474501": 22,
    "5028423": 23,
    "383423": 24,
-   "3552160": 25,
    "3375627": 26,
    "8316989": 27,
    "3591460": 28,
@@ -3853,17 +3853,17 @@
    "1457736": null,
    "75187": null,
    "6619523": null,
+   "3552160": "tinpot",
    "1474501": null,
    "5028423": null,
    "383423": null,
-   "3552160": "tinpot",
    "3375627": "tinpot",
    "8316989": "tinpot",
    "3591460": "tinpot",
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-24T10:28:55Z",
+ "updated": "2026-11-24T10:39:55Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -8633,8 +8633,8 @@
     "entry_name": "Ay",
     "rank": 1,
     "last_rank": 1,
-    "total": 732,
-    "event_total": 32
+    "total": 733,
+    "event_total": 33
    },
    {
     "entry": 3219276,
@@ -8817,10 +8817,19 @@
     "event_total": 41
    },
    {
+    "entry": 3552160,
+    "player_name": "Saurabh Tiku",
+    "entry_name": "LET'S RUMBLE!!!",
+    "rank": 22,
+    "last_rank": 22,
+    "total": 623,
+    "event_total": 42
+   },
+   {
     "entry": 1474501,
     "player_name": "Dinesh Relwani",
     "entry_name": "Lovdenya Bhojyam",
-    "rank": 22,
+    "rank": 23,
     "last_rank": 24,
     "total": 618,
     "event_total": 40
@@ -8829,7 +8838,7 @@
     "entry": 5028423,
     "player_name": "Isaiah page",
     "entry_name": "Kolo's sidepiece",
-    "rank": 23,
+    "rank": 24,
     "last_rank": 23,
     "total": 613,
     "event_total": 34
@@ -8838,19 +8847,10 @@
     "entry": 383423,
     "player_name": "Tobi Abiodun",
     "entry_name": "Quantum of Tzolis",
-    "rank": 24,
+    "rank": 25,
     "last_rank": 25,
     "total": 612,
     "event_total": 38
-   },
-   {
-    "entry": 3552160,
-    "player_name": "Saurabh Tiku",
-    "entry_name": "LET'S RUMBLE!!!",
-    "rank": 25,
-    "last_rank": 22,
-    "total": 608,
-    "event_total": 27
    },
    {
     "entry": 3375627,
@@ -8867,8 +8867,8 @@
     "entry_name": "EA FC",
     "rank": 27,
     "last_rank": 26,
-    "total": 586,
-    "event_total": 25
+    "total": 587,
+    "event_total": 26
    },
    {
     "entry": 3591460,
@@ -8885,8 +8885,8 @@
     "entry_name": "Vicecityfc",
     "rank": 29,
     "last_rank": 29,
-    "total": 480,
-    "event_total": 36
+    "total": 491,
+    "event_total": 47
    }
   ]
  },
@@ -15852,7 +15852,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-24T10:28:55Z",
+  "ts": "2026-11-24T10:39:55Z",
   "issues": [],
   "page": [],
   "wording": [
