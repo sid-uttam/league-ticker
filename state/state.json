@@ -3822,10 +3822,10 @@
    "1457736": 19,
    "75187": 20,
    "6619523": 21,
-   "3552160": 25,
-   "1474501": 22,
-   "5028423": 23,
-   "383423": 24,
+   "3552160": 22,
+   "1474501": 23,
+   "5028423": 24,
+   "383423": 25,
    "3375627": 26,
    "8316989": 27,
    "3591460": 28,
@@ -3853,17 +3853,17 @@
    "1457736": null,
    "75187": null,
    "6619523": null,
-   "3552160": "tinpot",
+   "3552160": null,
    "1474501": null,
    "5028423": null,
-   "383423": null,
+   "383423": "tinpot",
    "3375627": "tinpot",
    "8316989": "tinpot",
    "3591460": "tinpot",
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-24T10:50:53Z",
+ "updated": "2026-11-24T11:01:51Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -6649,49 +6649,49 @@
     "plots": 11
    },
    "11": {
-    "in": 1714222,
-    "out": 366176,
-    "calls": 132,
+    "in": 1748938,
+    "out": 376977,
+    "calls": 136,
     "refreshes": 22,
-    "desks": 40,
-    "desk_in": 896484,
-    "desk_out": 300711,
-    "plots": 4
+    "desks": 41,
+    "desk_in": 927076,
+    "desk_out": 309546,
+    "plots": 5
    }
   },
   "desks": [
    {
     "headline": "Maanav's 58-point Bench Boost wins the gameweek outright",
-    "text": "**Maanav** won the gameweek with **58 points** on a Bench Boost, climbing from 19th to 14th. **Ayodele** still leads, and his gap over Cherag grew from 8 to **10 points**. We called it: Cherki's single point kept Bhavik ahead of Naishadh.",
+    "text": "**Maanav** won the week with **58 points** on a Bench Boost, while **Ayodele** still leads, now **11 points clear** of Cherag. Edd's 21 points earned The Doghouse and a drop to 10th. We called it: Maanav passed Raushan once N.Jackson blanked on 2 points.",
     "you": {
-     "1092588": "Benching Silva was a blunder, with 8 points wasted on your bench, though you still lead.",
-     "3219276": "Nihal outscored you by 20 points this week, so second place is under real pressure from below.",
-     "573491": "Your Bench Boost returned 11 points, pushing you up to 3rd place.",
-     "3323262": "Nihal outscored you by 11 points, leaving you a place lower in 4th.",
-     "1541394": "Keeping Kinsky on your bench cost you 7 points, a call you will want back.",
-     "7471754": "You beat Omar by 4 points this week, keeping your Silver spot ahead of him.",
-     "5489583": "Ravi outscored you by 11 points, but you still sit 7th, one spot ahead of him.",
-     "4922092": "Climbing 5 places to 8th earned you the Rocket, the biggest jump of the week.",
-     "3506595": "You beat Edd by 18 points this week, but Ravi sits 1 point ahead of you.",
-     "1378937": "Your 21 points earned The Doghouse, the lowest score of the gameweek, dropping you to 10th.",
-     "4125292": "You dropped 2 places to 11th, though you did beat Edd by 14 points.",
-     "363548": "Benching Belloumi cost you 7 points, a call that left you 12th.",
-     "962024": "Maanav gained 23 points on you this week, dropping you 2 places to 13th.",
-     "4841175": "Your 58-point Bench Boost earned Manager of the Week, with Groß adding 8 on your armband.",
+     "1092588": "Benching Silva cost you 8 points on the bench, though you still lead the table by 11 points.",
+     "3219276": "Nihal outscored you by 20 points, so second place now has Nihal breathing down your neck.",
+     "573491": "Your Bench Boost returned 11 points, lifting you from 4th to 3rd in a 50-point week.",
+     "3323262": "Nihal outscored you by 11 points, dropping you from 3rd to 4th in the Gold spots.",
+     "1541394": "Keeping Kinsky on the bench cost you 7 points, a call you will want back.",
+     "7471754": "You beat Omar by 4 points, keeping your Silver spot ahead of him.",
+     "5489583": "Ravi outscored you by 11 points, but you stay 7th, one spot ahead of him.",
+     "4922092": "Climbing 5 places to 8th earned you the Rocket, though 26 points on the bench stung.",
+     "3506595": "You beat Edd by 18 points, but Ravi stays 1 point ahead of you.",
+     "1378937": "The Doghouse came with 21 points, the week's lowest, dropping you 3 places to 10th.",
+     "4125292": "Beating Edd by 14 points could not stop you sliding 2 places to 11th.",
+     "363548": "Your Vuskovic signing scored nothing, earning the Transfer Flop and leaving you 12th.",
+     "962024": "Maanav gained 23 points on you, dropping you 2 places to 13th.",
+     "4841175": "Your 58-point Bench Boost won Manager of the Week, with Groß adding 8 on your armband.",
      "5873092": "Benching Pedro Porro cost you 11 points, though you still climbed 2 places to 15th.",
      "7273369": "Justin outscored you by 12 points, dropping you a place to 16th.",
-     "3359227": "Your captain N.Jackson managed 2 points, so you slid 3 places to 17th.",
+     "3359227": "Your captain N.Jackson managed 2 points, sliding you 3 places to 17th.",
      "6341709": "You beat Raushan by 21 points, climbing 2 places to 18th.",
      "1457736": "Tomisin gained 17 points on you, dropping you 3 places to 19th.",
-     "75187": "Lavesh outscored you by 11 points, leaving you 3 places lower in 20th.",
+     "75187": "Lavesh outscored you by 11 points, dropping you 3 places to 20th.",
      "6619523": "You beat Dominic by 11 points, but 21st is where you stay.",
-     "1474501": "Isak's 10 points made you Captain of the Week, though selling Calvert-Lewin backfired.",
+     "1474501": "Isak's 10 points won you Captain of the Week, though selling Calvert-Lewin, who then scored 9, stung.",
      "5028423": "Dinesh outscored you by 6 points, but Tobi finished behind you on the table.",
-     "383423": "You beat Saurabh by 11 points, climbing one place to 24th.",
-     "3375627": "Your Triple Captain returned only 6 points, but benching Tarkowski now looks shrewd.",
-     "3591460": "You beat Elvin by 13 points, keeping you in the Tin Pot spots at 28th."
+     "383423": "You outscored Isaiah by 4 points, though you remain in the Tin Pot spots at 25th.",
+     "3375627": "Your Triple Captain returned only 6 points, not enough to lift you out of the Tin Pot spots.",
+     "3591460": "You outscored Elvin by 12 points, keeping you in the Tin Pot spots at 28th."
     },
-    "ts": "2026-11-23T22:08:16Z",
+    "ts": "2026-11-24T11:01:51Z",
     "gw": 11,
     "moment": "gameweek_over",
     "sig": "101:f:0-0|102:f:2-0|103:f:4-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
@@ -6717,17 +6717,17 @@
      "1457736": 19,
      "75187": 20,
      "6619523": 21,
-     "1474501": 22,
-     "5028423": 23,
-     "383423": 24,
-     "3552160": 25,
+     "3552160": 22,
+     "1474501": 23,
+     "5028423": 24,
+     "383423": 25,
      "3375627": 26,
      "8316989": 27,
      "3591460": 28,
      "5706920": 29
     },
     "totals": {
-     "1092588": 732,
+     "1092588": 733,
      "3219276": 722,
      "573491": 720,
      "3323262": 710,
@@ -6748,14 +6748,14 @@
      "1457736": 644,
      "75187": 642,
      "6619523": 641,
+     "3552160": 623,
      "1474501": 618,
      "5028423": 613,
      "383423": 612,
-     "3552160": 608,
      "3375627": 593,
-     "8316989": 586,
+     "8316989": 587,
      "3591460": 559,
-     "5706920": 481
+     "5706920": 491
     },
     "ga": {
      "15": [
@@ -6819,7 +6819,7 @@
       1
      ]
     },
-    "you_full_ts": "2026-11-23T22:08:16Z",
+    "you_full_ts": "2026-11-24T11:01:51Z",
     "v": 6,
     "deadline": "2026-11-27T18:30:00Z"
    },
@@ -7466,7 +7466,7 @@
    }
   ],
   "desk_day": {
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "ranks": {
     "1092588": 1,
     "3219276": 2,
@@ -7475,9 +7475,9 @@
     "1541394": 5,
     "7471754": 6,
     "5489583": 7,
-    "1378937": 8,
-    "4922092": 9,
-    "3506595": 10,
+    "4922092": 8,
+    "3506595": 9,
+    "1378937": 10,
     "4125292": 11,
     "363548": 12,
     "962024": 13,
@@ -7490,102 +7490,23 @@
     "75187": 20,
     "6619523": 21,
     "3552160": 22,
-    "383423": 22,
-    "1474501": 22,
-    "5028423": 25,
+    "1474501": 23,
+    "5028423": 24,
+    "383423": 25,
     "3375627": 26,
     "8316989": 27,
     "3591460": 28,
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-23T22:08:16Z",
+  "desk_last_ok": "2026-11-24T11:01:51Z",
   "plots": [
    {
-    "id": "underdog:573491",
-    "title": "Nihal Keeps Rising",
-    "status": "Heating up",
-    "text": "Nihal has climbed from 26th of 29 in GW1 to 3rd, up from 4th last week. He now sits 12 points behind leader Ayodele.",
-    "next": "If Nihal keeps climbing, a place in the top 2 could be within reach.",
-    "who": [
-     573491
-    ],
-    "kind": "underdog",
-    "episode": 2,
-    "gw": 11,
-    "ts": "2026-11-23T22:08:16Z",
-    "question": "How high can Nihal go?",
-    "line": [
-     [
-      "GW1",
-      "26th"
-     ],
-     [
-      "GW3",
-      "22nd"
-     ],
-     [
-      "GW5",
-      "16th"
-     ],
-     [
-      "GW7",
-      "7th"
-     ],
-     [
-      "GW9",
-      "4th"
-     ],
-     [
-      "GW11",
-      "3rd"
-     ]
-    ],
-    "since": 10,
-    "streak": null
-   },
-   {
-    "id": "title",
-    "title": "Ayodele's Lead Grows",
-    "status": "Building",
-    "text": "Ayodele has led for 2 weeks, and the lead over Cherag has grown from 8 to 10 points. Cherag held the top spot for 6 weeks before that.",
-    "next": "If Cherag responds, the 10-point gap could be tested before the next gameweek.",
-    "who": [
-     1092588,
-     3219276
-    ],
-    "kind": "title race",
-    "episode": 3,
-    "gw": 11,
-    "ts": "2026-11-23T22:08:16Z",
-    "question": "Who can hold the crown?",
-    "line": [
-     [
-      "GW8",
-      "Cherag"
-     ],
-     [
-      "GW9",
-      "Cherag"
-     ],
-     [
-      "GW10",
-      "Ayodele"
-     ],
-     [
-      "GW11",
-      "Ayodele"
-     ]
-    ],
-    "since": 10,
-    "streak": null
-   },
-   {
     "id": "chase:573491",
-    "title": "Nihal Gets Closer",
+    "title": "2 Points Behind",
     "status": "Heating up",
-    "text": "Nihal has cut his gap to Cherag from 56 points in GW8 to just 2 in GW11. Cherag still leads, but the gap has shrunk every week.",
-    "next": "If Nihal finishes the job, he could overtake Cherag for second place.",
+    "text": "Nihal has cut the gap to Cherag from 56 points in GW8 to just 2 now. The chase has tightened every week since GW8.",
+    "next": "If Nihal keeps closing in, Cherag could be caught this week.",
     "who": [
      573491,
      3219276
@@ -7593,7 +7514,7 @@
     "kind": "chaser",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-23T22:08:16Z",
+    "ts": "2026-11-24T11:01:51Z",
     "question": "Can Nihal catch Cherag?",
     "line": [
      [
@@ -7617,11 +7538,47 @@
     "streak": null
    },
    {
+    "id": "title",
+    "title": "Ayodele Pulls Clear",
+    "status": "Heating up",
+    "text": "Ayodele leads on 733, 11 points clear of Cherag on 722, after 2 weeks on top. Cherag held the crown for 6 weeks before losing it.",
+    "next": "Cherag could fight back, or Ayodele could stretch the lead further.",
+    "who": [
+     1092588,
+     3219276
+    ],
+    "kind": "title race",
+    "episode": 3,
+    "gw": 11,
+    "ts": "2026-11-24T11:01:51Z",
+    "question": "Who can hold the crown?",
+    "line": [
+     [
+      "GW8",
+      "Cherag"
+     ],
+     [
+      "GW9",
+      "Cherag"
+     ],
+     [
+      "GW10",
+      "Ayodele"
+     ],
+     [
+      "GW11",
+      "Ayodele"
+     ]
+    ],
+    "since": 10,
+    "streak": null
+   },
+   {
     "id": "rivalry:1378937-4922092",
-    "title": "Ravi Flips the Script",
+    "title": "Ravi Strikes Back",
     "status": "Twist",
-    "text": "Ravi has swapped places with Edd for the 8th time this season. Edd was 21 points ahead in GW10, but Ravi now leads by 3.",
-    "next": "Edd could hit back next week, and the swapping could go on.",
+    "text": "Ravi has moved ahead of Edd by 3 points after Edd led by 21 in GW10. The 2 have swapped places 8 times this season.",
+    "next": "Edd could hit back, and this rivalry may swing again soon.",
     "who": [
      4922092,
      1378937
@@ -7629,7 +7586,7 @@
     "kind": "rivalry",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-23T22:08:16Z",
+    "ts": "2026-11-24T11:01:51Z",
     "question": "Ravi v Edd: who blinks first?",
     "line": [
      [
@@ -7654,17 +7611,17 @@
    },
    {
     "id": "fall:4125292",
-    "title": "Bhavik's Slide Continues",
+    "title": "Bhavik's Slide",
     "status": "Building",
-    "text": "Bhavik has dropped from 4th in GW7 to 11th, falling in every gameweek since. His best rank in that time was 4th.",
-    "next": "If he keeps slipping, Bhavik could drop further, or he could finally stop the fall.",
+    "text": "Bhavik has dropped from 4th in GW7 to 11th now, with a fall every week since GW8. The slide has been steady.",
+    "next": "Bhavik could stop the fall if a few results go their way.",
     "who": [
      4125292
     ],
     "kind": "collapse",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-23T22:08:16Z",
+    "ts": "2026-11-24T11:01:51Z",
     "question": "Can Bhavik stop the slide?",
     "line": [
      [
@@ -7692,7 +7649,7 @@
     "streak": null
    }
   ],
-  "plots_ts": "2026-11-23T22:08:16Z",
+  "plots_ts": "2026-11-24T11:01:51Z",
   "plots_key": "11:live",
   "verdict_tries": {
    "10:2": 1,
@@ -7701,7 +7658,8 @@
    "10:t:b09a97969469": 1,
    "10:5": 1,
    "10:6": 1,
-   "11:6": 1
+   "11:6": 2,
+   "11:t:aa88f3d24981": 1
   },
   "plots_v_tries": {
    "2": 1,
@@ -7713,7 +7671,7 @@
    "8": 1
   },
   "plots_v": 8,
-  "plots_sig": "e2ebbaf51563",
+  "plots_sig": "aa88f3d24981",
   "preview": {
    "headline": "Gameweek 11: Haaland doubts and a top-spot squeeze",
    "points": [
@@ -8620,8 +8578,10 @@
   },
   "plots_sig_tries": {
    "10:n:b09a97969469": 1,
-   "e2ebbaf51563": 1
-  }
+   "e2ebbaf51563": 1,
+   "aa88f3d24981": 1
+  },
+  "_replaced_ts": "2026-11-23T22:08:16Z"
  },
  "league": {
   "gw": 11,
@@ -14436,17 +14396,17 @@
   ]
  },
  "share": {
-  "key": "abef6562681f",
+  "key": "7cb6cd5d9535",
   "gw": 11,
   "files": {
-   "week": "share/gw11-abef6562681f-week.png",
-   "motw": "share/gw11-abef6562681f-motw.png",
-   "captain": "share/gw11-abef6562681f-captain.png",
-   "rocket": "share/gw11-abef6562681f-rocket.png",
-   "bench": "share/gw11-abef6562681f-bench.png",
-   "flop": "share/gw11-abef6562681f-flop.png",
-   "gotaway": "share/gw11-abef6562681f-gotaway.png",
-   "spoon": "share/gw11-abef6562681f-spoon.png"
+   "week": "share/gw11-7cb6cd5d9535-week.png",
+   "motw": "share/gw11-7cb6cd5d9535-motw.png",
+   "captain": "share/gw11-7cb6cd5d9535-captain.png",
+   "rocket": "share/gw11-7cb6cd5d9535-rocket.png",
+   "bench": "share/gw11-7cb6cd5d9535-bench.png",
+   "flop": "share/gw11-7cb6cd5d9535-flop.png",
+   "gotaway": "share/gw11-7cb6cd5d9535-gotaway.png",
+   "spoon": "share/gw11-7cb6cd5d9535-spoon.png"
   }
  },
  "plot_log": {
@@ -14466,10 +14426,10 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-23",
-    "title": "Ayodele's Lead Grows",
-    "text": "Ayodele has led for 2 weeks, and the lead over Cherag has grown from 8 to 10 points. Cherag held the top spot for 6 weeks before that.",
-    "next": "If Cherag responds, the 10-point gap could be tested before the next gameweek."
+    "day": "2026-11-24",
+    "title": "Ayodele Pulls Clear",
+    "text": "Ayodele leads on 733, 11 points clear of Cherag on 722, after 2 weeks on top. Cherag held the crown for 6 weeks before losing it.",
+    "next": "Cherag could fight back, or Ayodele could stretch the lead further."
    }
   ],
   "gamble:3506595:10": [
@@ -14579,28 +14539,28 @@
   "chase:573491": [
    {
     "gw": 11,
-    "day": "2026-11-23",
-    "title": "Nihal Gets Closer",
-    "text": "Nihal has cut his gap to Cherag from 56 points in GW8 to just 2 in GW11. Cherag still leads, but the gap has shrunk every week.",
-    "next": "If Nihal finishes the job, he could overtake Cherag for second place."
+    "day": "2026-11-24",
+    "title": "2 Points Behind",
+    "text": "Nihal has cut the gap to Cherag from 56 points in GW8 to just 2 now. The chase has tightened every week since GW8.",
+    "next": "If Nihal keeps closing in, Cherag could be caught this week."
    }
   ],
   "rivalry:1378937-4922092": [
    {
     "gw": 11,
-    "day": "2026-11-23",
-    "title": "Ravi Flips the Script",
-    "text": "Ravi has swapped places with Edd for the 8th time this season. Edd was 21 points ahead in GW10, but Ravi now leads by 3.",
-    "next": "Edd could hit back next week, and the swapping could go on."
+    "day": "2026-11-24",
+    "title": "Ravi Strikes Back",
+    "text": "Ravi has moved ahead of Edd by 3 points after Edd led by 21 in GW10. The 2 have swapped places 8 times this season.",
+    "next": "Edd could hit back, and this rivalry may swing again soon."
    }
   ],
   "fall:4125292": [
    {
     "gw": 11,
-    "day": "2026-11-23",
-    "title": "Bhavik's Slide Continues",
-    "text": "Bhavik has dropped from 4th in GW7 to 11th, falling in every gameweek since. His best rank in that time was 4th.",
-    "next": "If he keeps slipping, Bhavik could drop further, or he could finally stop the fall."
+    "day": "2026-11-24",
+    "title": "Bhavik's Slide",
+    "text": "Bhavik has dropped from 4th in GW7 to 11th now, with a fall every week since GW8. The slide has been steady.",
+    "next": "Bhavik could stop the fall if a few results go their way."
    }
   ]
  },
@@ -14820,7 +14780,7 @@
      "label": "Blanked · 1"
     },
     "grade": {
-     "result": "called it",
+     "result": "half right",
      "pts": 1,
      "what": "Raya got 1."
     }
@@ -15368,7 +15328,7 @@
       "Isak": 5,
       "Verbruggen": 2
      },
-     "rank": 22
+     "rank": 23
     }
    },
    "383423": {
@@ -15407,7 +15367,7 @@
       "Ødegaard": 5,
       "Petrović": 6
      },
-     "rank": 24
+     "rank": 25
     }
    },
    "3375627": {
@@ -15848,11 +15808,11 @@
   },
   "midweek": false,
   "ts": "2026-11-21T11:56:39Z",
-  "called": 3,
+  "called": 2,
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-24T10:50:53Z",
+  "ts": "2026-11-24T11:01:51Z",
   "issues": [],
   "page": [],
   "wording": [
