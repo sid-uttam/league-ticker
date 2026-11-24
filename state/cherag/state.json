@@ -11049,15 +11049,6 @@
     "event_total": 46
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 55,
-    "last_rank": 48,
-    "total": 680,
-    "event_total": 32
-   },
-   {
     "entry": 4134138,
     "player_name": "Rishab Bajaj",
     "entry_name": "Rishabs11",
@@ -11065,6 +11056,15 @@
     "last_rank": 44,
     "total": 680,
     "event_total": 30
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 55,
+    "last_rank": 48,
+    "total": 680,
+    "event_total": 32
    },
    {
     "entry": 2932096,
@@ -11184,15 +11184,6 @@
     "event_total": 30
    },
    {
-    "entry": 2922453,
-    "player_name": "Abhishek Yerra",
-    "entry_name": "Ctrl + Alt + De Ligt",
-    "rank": 70,
-    "last_rank": 70,
-    "total": 665,
-    "event_total": 38
-   },
-   {
     "entry": 26707,
     "player_name": "Krishnaji Sanas",
     "entry_name": "Victorious Secrets",
@@ -11200,6 +11191,15 @@
     "last_rank": 60,
     "total": 665,
     "event_total": 26
+   },
+   {
+    "entry": 2922453,
+    "player_name": "Abhishek Yerra",
+    "entry_name": "Ctrl + Alt + De Ligt",
+    "rank": 70,
+    "last_rank": 70,
+    "total": 665,
+    "event_total": 38
    },
    {
     "entry": 4592187,
@@ -11238,15 +11238,6 @@
     "event_total": 36
    },
    {
-    "entry": 6830291,
-    "player_name": "Karan P Nanda",
-    "entry_name": "Justlikethat",
-    "rank": 76,
-    "last_rank": 76,
-    "total": 656,
-    "event_total": 35
-   },
-   {
     "entry": 1737924,
     "player_name": "Rajat Bhalla",
     "entry_name": "Break all hell ⚽️",
@@ -11254,6 +11245,15 @@
     "last_rank": 75,
     "total": 656,
     "event_total": 34
+   },
+   {
+    "entry": 6830291,
+    "player_name": "Karan P Nanda",
+    "entry_name": "Justlikethat",
+    "rank": 76,
+    "last_rank": 76,
+    "total": 656,
+    "event_total": 35
    },
    {
     "entry": 438967,
@@ -11445,15 +11445,6 @@
     "event_total": 41
    },
    {
-    "entry": 1967440,
-    "player_name": "Swapnil Limaye",
-    "entry_name": "Notautdfan",
-    "rank": 99,
-    "last_rank": 95,
-    "total": 626,
-    "event_total": 28
-   },
-   {
     "entry": 4616626,
     "player_name": "Sanket Khandekar",
     "entry_name": "KFA Xtreme",
@@ -11461,6 +11452,15 @@
     "last_rank": 101,
     "total": 626,
     "event_total": 40
+   },
+   {
+    "entry": 1967440,
+    "player_name": "Swapnil Limaye",
+    "entry_name": "Notautdfan",
+    "rank": 99,
+    "last_rank": 95,
+    "total": 626,
+    "event_total": 28
    },
    {
     "entry": 1474501,
@@ -63691,8 +63691,8 @@
    "248721": 52,
    "675013": 53,
    "4540238": 54,
-   "4683090": 55,
    "4134138": 55,
+   "4683090": 55,
    "2932096": 57,
    "48343": 58,
    "2868149": 59,
@@ -63706,14 +63706,14 @@
    "383029": 67,
    "4314690": 68,
    "2569620": 69,
-   "2922453": 70,
    "26707": 70,
+   "2922453": 70,
    "4592187": 70,
    "4372346": 73,
    "3086063": 74,
    "10615": 75,
-   "6830291": 76,
    "1737924": 76,
+   "6830291": 76,
    "438967": 78,
    "44532": 79,
    "11673": 80,
@@ -63735,8 +63735,8 @@
    "3794959": 96,
    "4905114": 97,
    "8779992": 97,
-   "1967440": 99,
    "4616626": 99,
+   "1967440": 99,
    "1474501": 101,
    "1497357": 102,
    "358907": 103,
@@ -63806,8 +63806,8 @@
    "248721": null,
    "675013": null,
    "4540238": null,
-   "4683090": null,
    "4134138": null,
+   "4683090": null,
    "2932096": null,
    "48343": null,
    "2868149": null,
@@ -63821,14 +63821,14 @@
    "383029": null,
    "4314690": null,
    "2569620": null,
-   "2922453": null,
    "26707": null,
+   "2922453": null,
    "4592187": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
-   "6830291": null,
    "1737924": null,
+   "6830291": null,
    "438967": null,
    "44532": null,
    "11673": null,
@@ -63850,8 +63850,8 @@
    "3794959": null,
    "4905114": null,
    "8779992": null,
-   "1967440": null,
    "4616626": null,
+   "1967440": null,
    "1474501": null,
    "1497357": null,
    "358907": null,
@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-24T17:02:49Z",
+ "updated": "2026-11-24T17:32:50Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol. Your Haaland armband returned just 4, so watch Neol and Sukrut closing in next week.",
@@ -70039,7 +70039,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-24T17:02:49Z",
+  "ts": "2026-11-24T17:32:50Z",
   "issues": [],
   "page": [],
   "wording": [
