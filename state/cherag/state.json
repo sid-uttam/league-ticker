@@ -11193,15 +11193,6 @@
     "event_total": 26
    },
    {
-    "entry": 2922453,
-    "player_name": "Abhishek Yerra",
-    "entry_name": "Ctrl + Alt + De Ligt",
-    "rank": 70,
-    "last_rank": 70,
-    "total": 665,
-    "event_total": 38
-   },
-   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
@@ -11209,6 +11200,15 @@
     "last_rank": 72,
     "total": 665,
     "event_total": 39
+   },
+   {
+    "entry": 2922453,
+    "player_name": "Abhishek Yerra",
+    "entry_name": "Ctrl + Alt + De Ligt",
+    "rank": 70,
+    "last_rank": 70,
+    "total": 665,
+    "event_total": 38
    },
    {
     "entry": 4372346,
@@ -11355,15 +11355,6 @@
     "event_total": 43
    },
    {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 89,
-    "last_rank": 89,
-    "total": 641,
-    "event_total": 37
-   },
-   {
     "entry": 3389995,
     "player_name": "Stephen Menezes",
     "entry_name": "Goal Diggers",
@@ -11371,6 +11362,15 @@
     "last_rank": 87,
     "total": 641,
     "event_total": 36
+   },
+   {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 89,
+    "last_rank": 89,
+    "total": 641,
+    "event_total": 37
    },
    {
     "entry": 2037953,
@@ -11427,15 +11427,6 @@
     "event_total": 45
    },
    {
-    "entry": 4905114,
-    "player_name": "Anuj Joglekar",
-    "entry_name": "Summer Tzolstis",
-    "rank": 97,
-    "last_rank": 87,
-    "total": 627,
-    "event_total": 22
-   },
-   {
     "entry": 8779992,
     "player_name": "Kartik Kak",
     "entry_name": "Top FC",
@@ -11443,6 +11434,15 @@
     "last_rank": 100,
     "total": 627,
     "event_total": 41
+   },
+   {
+    "entry": 4905114,
+    "player_name": "Anuj Joglekar",
+    "entry_name": "Summer Tzolstis",
+    "rank": 97,
+    "last_rank": 87,
+    "total": 627,
+    "event_total": 22
    },
    {
     "entry": 1967440,
@@ -60858,8 +60858,8 @@
    "4314690": 75,
    "2569620": 68,
    "26707": 69,
-   "2922453": 69,
    "4592187": 69,
+   "2922453": 69,
    "4372346": 72,
    "3086063": 72,
    "10615": 74,
@@ -60876,16 +60876,16 @@
    "174952": 86,
    "699330": 87,
    "8603432": 88,
-   "2723973": 88,
    "3389995": 88,
+   "2723973": 88,
    "2037953": 91,
    "3350036": 92,
    "5660348": 93,
    "3298199": 93,
    "5734029": 95,
    "3794959": 96,
-   "4905114": 97,
    "8779992": 97,
+   "4905114": 97,
    "1967440": 99,
    "4616626": 99,
    "1474501": 101,
@@ -60973,8 +60973,8 @@
    "4314690": null,
    "2569620": null,
    "26707": null,
-   "2922453": null,
    "4592187": null,
+   "2922453": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
@@ -60991,16 +60991,16 @@
    "174952": null,
    "699330": null,
    "8603432": null,
-   "2723973": null,
    "3389995": null,
+   "2723973": null,
    "2037953": null,
    "3350036": null,
    "5660348": null,
    "3298199": null,
    "5734029": null,
    "3794959": null,
-   "4905114": null,
    "8779992": null,
+   "4905114": null,
    "1967440": null,
    "4616626": null,
    "1474501": null,
@@ -61018,7 +61018,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-24T13:59:07Z",
+ "updated": "2026-11-24T14:10:04Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -67330,7 +67330,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-24T13:59:07Z",
+  "ts": "2026-11-24T14:10:04Z",
   "issues": [],
   "page": [],
   "wording": [
