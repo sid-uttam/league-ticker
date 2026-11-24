@@ -45,6 +45,7 @@ jobs:
           git config user.email "micromanager-bot@users.noreply.github.com"
           start=$(date +%s)
           while true; do
+            round=$(date +%s)
             git pull -q --rebase origin main || echo "Couldn't pull the pages; using what's here."
             if [ -d engine/.git ]; then
               git -C engine pull -q --ff-only || echo "Couldn't update the engine; using the version here."
@@ -62,6 +63,13 @@ jobs:
             fi
             phase=$(python -c "import json;print(json.load(open('state/state.json')).get('phase',''))" 2>/dev/null || true)
             if [ "$phase" = "live" ]; then wait=600; else wait=1800; fi
+            # 23 Nov (GW11 audit): the wait used to start after the round, so a 12-minute round made a 22-minute gap
+            # while the footer promised 10. Now the 10 (or 30) minutes run from the start of the round.
+            wait=$(( wait - ($(date +%s) - round) )); [ $wait -lt 60 ] && wait=60
+            # ...and the ticker wakes for the deadline instead of sleeping through it (2 minutes after, for FPL).
+            dl=$(python -c "import json,datetime as d;x=json.load(open('state/state.json')).get('next_deadline') or '';print(int(d.datetime.fromisoformat(x.replace('Z','+00:00')).timestamp()) if x else 0)" 2>/dev/null || echo 0)
+            now=$(date +%s)
+            if [ "$dl" -gt "$now" ] && [ $(( dl + 120 - now )) -lt $wait ]; then wait=$(( dl + 120 - now )); fi
             elapsed=$(( $(date +%s) - start ))
             if [ $(( elapsed + wait )) -gt 19800 ]; then break; fi  # leave room before the 6-hour limit
             echo "Next check in $(( wait / 60 )) minutes."
