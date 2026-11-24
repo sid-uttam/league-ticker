@@ -3863,7 +3863,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-24T13:25:57Z",
+ "updated": "2026-11-24T13:36:52Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -15812,7 +15812,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-24T13:25:57Z",
+  "ts": "2026-11-24T13:36:52Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -15873,7 +15873,7 @@
    "237": "a|None|",
    "249": "a|None|",
    "565": "a|None|",
-   "423": "i|0|Unspecified injury - Unknown return date",
+   "423": "d|75|Unspecified injury - 75% chance of playing",
    "15": "a|None|",
    "649": "a|None|",
    "259": "a|None|",
@@ -15947,7 +15947,8 @@
    "1": "2026-11-23T14:31:00Z",
    "449": "2026-11-21T19:32:50Z",
    "367": "2026-11-22T16:42:12Z",
-   "229": "2026-11-23T21:08:27Z"
+   "229": "2026-11-23T21:08:27Z",
+   "423": "2026-11-24T13:36:52Z"
   },
   "price": {
    "1": 6.3,
@@ -16859,6 +16860,14 @@
     "el": 124,
     "kind": "surge",
     "net": 25037
+   },
+   {
+    "ts": "2026-11-24T13:36:52Z",
+    "el": 423,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Unspecified injury - 75% chance of playing"
    }
   ]
  },
