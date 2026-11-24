@@ -11383,7 +11383,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-24T20:32:58Z",
+ "updated": "2026-11-24T21:02:58Z",
  "ai": {
   "briefings": {
    "3029346": "You sit top on 774 points after a 52-point week, 17 ahead of Nikhil. Keep an eye on Sunny and Ravin in the chase and watch the Haaland armband call.",
@@ -15099,7 +15099,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-24T20:32:58Z",
+  "ts": "2026-11-24T21:02:58Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -15382,12 +15382,6 @@
    "350": "11:up"
   },
   "log": [
-   {
-    "ts": "2026-11-14T21:00:26Z",
-    "el": 229,
-    "kind": "surge",
-    "net": -25007
-   },
    {
     "ts": "2026-11-15T00:06:37Z",
     "el": 31,
