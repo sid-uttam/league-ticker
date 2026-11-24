@@ -159,6 +159,13 @@ h2{font-family:'Barlow Condensed',Inter,sans-serif;text-transform:uppercase;font
 .awards span{display:inline-flex;align-items:center;gap:7px;background:#fff;border-radius:999px;padding:7px 12px 7px 9px;font-size:13.5px;font-weight:700}
 .awards i{width:9px;height:9px;border-radius:50%;display:block}
 
+/* organisers */
+.org{background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.org-list{margin-top:22px;display:grid;grid-template-columns:1fr;gap:10px;max-width:640px}
+.org-list div{display:grid;grid-template-columns:128px 1fr;gap:10px;align-items:baseline;font-size:16px;line-height:1.45}
+.org-list b{white-space:nowrap;font-family:'Barlow Condensed',sans-serif;font-size:20px;text-transform:uppercase;color:var(--green)}
+.org .btn{margin-top:26px}
+
 /* join */
 .join-sec{background:var(--ink);color:#fff}
 .join-sec .label{color:var(--gold)}
@@ -209,7 +216,7 @@ footer a{color:rgba(255,255,255,.8)}
   <div>
     <div class="label">For Fantasy Premier League mini-leagues</div>
     <h1>Every mini-league has a story.<span class="now">Now someone's telling yours.</span></h1>
-    <p class="lead">A daily show for your group, and a game plan for every manager in it. Built from your league's own FPL data. One link, no app.</p>
+    <p class="lead">Not just a table. A whole season of fun: a weekly show for your group, a game plan for every manager, and the Gaffer rating everyone after each gameweek. One link, no app.</p>
     <div class="cta">
       <a class="btn" href="#join">Send us your league ID</a>
       <span class="status">Setting up a few leagues at a time.<br><b>Opening to league admins in December.</b></span>
@@ -316,6 +323,18 @@ footer a{color:rgba(255,255,255,.8)}
       </div>
     </div>
   </div>
+</div></section>
+
+<section class="org" id="organisers"><div class="wrap">
+  <div class="label">Running a league?</div>
+  <h2>Give them a reason to join</h2>
+  <p class="intro">"Join my league" is a hard sell. "Join a league with its own show" isn't. People stay hooked all season and come back next year.</p>
+  <div class="org-list">
+    <div><b>The show</b><span>Stories, awards and a picture of the week for the group chat.</span></div>
+    <div><b>The plan</b><span>A plan for every manager, worked out against their rivals.</span></div>
+    <div><b>The verdict</b><span>The Gaffer rates everyone out of 10 after every gameweek.</span></div>
+  </div>
+  <a class="btn" href="#join">Send us your league ID →</a>
 </div></section>
 
 <section class="join-sec" id="join"><div class="wrap">
