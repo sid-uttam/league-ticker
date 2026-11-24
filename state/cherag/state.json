@@ -10617,15 +10617,6 @@
     "event_total": 34
    },
    {
-    "entry": 4722308,
-    "player_name": "Biswadeep Majumdar",
-    "entry_name": "quadrupliraola",
-    "rank": 7,
-    "last_rank": 7,
-    "total": 730,
-    "event_total": 31
-   },
-   {
     "entry": 1273065,
     "player_name": "Prathap Devadiga",
     "entry_name": "Waka waka 11",
@@ -10633,6 +10624,15 @@
     "last_rank": 9,
     "total": 730,
     "event_total": 36
+   },
+   {
+    "entry": 4722308,
+    "player_name": "Biswadeep Majumdar",
+    "entry_name": "quadrupliraola",
+    "rank": 7,
+    "last_rank": 7,
+    "total": 730,
+    "event_total": 31
    },
    {
     "entry": 1902223,
@@ -11355,15 +11355,6 @@
     "event_total": 43
    },
    {
-    "entry": 3389995,
-    "player_name": "Stephen Menezes",
-    "entry_name": "Goal Diggers",
-    "rank": 89,
-    "last_rank": 87,
-    "total": 641,
-    "event_total": 36
-   },
-   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -11371,6 +11362,15 @@
     "last_rank": 89,
     "total": 641,
     "event_total": 37
+   },
+   {
+    "entry": 3389995,
+    "player_name": "Stephen Menezes",
+    "entry_name": "Goal Diggers",
+    "rank": 89,
+    "last_rank": 87,
+    "total": 641,
+    "event_total": 36
    },
    {
     "entry": 2037953,
@@ -11445,15 +11445,6 @@
     "event_total": 41
    },
    {
-    "entry": 1967440,
-    "player_name": "Swapnil Limaye",
-    "entry_name": "Notautdfan",
-    "rank": 99,
-    "last_rank": 95,
-    "total": 626,
-    "event_total": 28
-   },
-   {
     "entry": 4616626,
     "player_name": "Sanket Khandekar",
     "entry_name": "KFA Xtreme",
@@ -11461,6 +11452,15 @@
     "last_rank": 101,
     "total": 626,
     "event_total": 40
+   },
+   {
+    "entry": 1967440,
+    "player_name": "Swapnil Limaye",
+    "entry_name": "Notautdfan",
+    "rank": 99,
+    "last_rank": 95,
+    "total": 626,
+    "event_total": 28
    },
    {
     "entry": 1474501,
@@ -60794,8 +60794,8 @@
    "1325491": 3,
    "13978": 5,
    "136653": 5,
-   "4722308": 7,
    "1273065": 7,
+   "4722308": 7,
    "1902223": 7,
    "2429776": 10,
    "3949616": 11,
@@ -60876,8 +60876,8 @@
    "174952": 86,
    "699330": 87,
    "8603432": 88,
-   "3389995": 88,
    "2723973": 88,
+   "3389995": 88,
    "2037953": 91,
    "3350036": 92,
    "5660348": 93,
@@ -60886,8 +60886,8 @@
    "3794959": 96,
    "4905114": 97,
    "8779992": 97,
-   "1967440": 99,
    "4616626": 99,
+   "1967440": 99,
    "1474501": 101,
    "1497357": 102,
    "358907": 103,
@@ -60909,8 +60909,8 @@
    "1325491": "gold",
    "13978": "gold",
    "136653": "gold",
-   "4722308": "gold",
    "1273065": "gold",
+   "4722308": "gold",
    "1902223": "gold",
    "2429776": "silver",
    "3949616": "silver",
@@ -60991,8 +60991,8 @@
    "174952": null,
    "699330": null,
    "8603432": null,
-   "3389995": null,
    "2723973": null,
+   "3389995": null,
    "2037953": null,
    "3350036": null,
    "5660348": null,
@@ -61001,8 +61001,8 @@
    "3794959": null,
    "4905114": null,
    "8779992": null,
-   "1967440": null,
    "4616626": null,
+   "1967440": null,
    "1474501": null,
    "1497357": null,
    "358907": null,
@@ -61018,7 +61018,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-24T11:25:57Z",
+ "updated": "2026-11-24T11:37:01Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -67330,7 +67330,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-24T11:25:57Z",
+  "ts": "2026-11-24T11:37:01Z",
   "issues": [],
   "page": [],
   "wording": [
