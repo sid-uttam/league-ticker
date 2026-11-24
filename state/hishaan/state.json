@@ -31,104 +31,8 @@
   }
  },
  "hist": {
-  "key": "11:live",
+  "key": "11:between",
   "data": {
-   "2321301": {
-    "past": 5,
-    "cur": [
-     [
-      1,
-      55,
-      0,
-      0,
-      6
-     ],
-     [
-      2,
-      133,
-      0,
-      0,
-      0
-     ],
-     [
-      3,
-      56,
-      2,
-      0,
-      8
-     ],
-     [
-      4,
-      95,
-      1,
-      0,
-      10
-     ],
-     [
-      5,
-      45,
-      1,
-      0,
-      9
-     ],
-     [
-      6,
-      68,
-      0,
-      0,
-      7
-     ],
-     [
-      7,
-      84,
-      0,
-      0,
-      4
-     ],
-     [
-      8,
-      47,
-      2,
-      0,
-      3
-     ],
-     [
-      9,
-      67,
-      1,
-      0,
-      17
-     ],
-     [
-      10,
-      73,
-      1,
-      0,
-      12
-     ],
-     [
-      11,
-      0,
-      0,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "bboost",
-      2
-     ],
-     [
-      "wildcard",
-      6
-     ],
-     [
-      "3xc",
-      7
-     ]
-    ]
-   },
    "3029346": {
     "past": 5,
     "cur": [
@@ -204,10 +108,10 @@
      ],
      [
       11,
+      52,
       0,
       0,
-      0,
-      0
+      13
      ]
     ],
     "chips": [
@@ -225,99 +129,99 @@
      ]
     ]
    },
-   "735721": {
-    "past": 15,
+   "2321301": {
+    "past": 5,
     "cur": [
      [
       1,
-      66,
+      55,
+      0,
+      0,
+      6
+     ],
+     [
+      2,
+      133,
       0,
       0,
       0
      ],
      [
-      2,
-      119,
-      0,
-      0,
-      19
-     ],
-     [
       3,
-      51,
+      56,
       2,
       0,
-      14
+      8
      ],
      [
       4,
-      85,
+      95,
+      1,
       0,
-      0,
-      4
+      10
      ],
      [
       5,
-      40,
+      45,
       1,
       0,
-      17
+      9
      ],
      [
       6,
-      86,
-      1,
+      68,
       0,
-      4
+      0,
+      7
      ],
      [
       7,
       84,
-      2,
-      4,
+      0,
+      0,
       4
      ],
      [
       8,
-      46,
-      1,
+      47,
+      2,
       0,
-      1
+      3
      ],
      [
       9,
-      62,
+      67,
       1,
       0,
-      11
+      17
      ],
      [
       10,
       73,
       1,
       0,
-      17
+      12
      ],
      [
       11,
+      34,
       0,
       0,
-      0,
-      0
+      5
      ]
     ],
     "chips": [
      [
       "bboost",
-      1
-     ],
-     [
-      "3xc",
-      3
+      2
      ],
      [
       "wildcard",
-      4
+      6
+     ],
+     [
+      "3xc",
+      7
      ]
     ]
    },
@@ -396,8 +300,100 @@
      ],
      [
       11,
-      0,
+      28,
       1,
+      0,
+      14
+     ]
+    ],
+    "chips": [
+     [
+      "3xc",
+      3
+     ],
+     [
+      "freehit",
+      9
+     ]
+    ]
+   },
+   "1655993": {
+    "past": 15,
+    "cur": [
+     [
+      1,
+      56,
+      0,
+      0,
+      3
+     ],
+     [
+      2,
+      107,
+      1,
+      0,
+      17
+     ],
+     [
+      3,
+      59,
+      0,
+      0,
+      6
+     ],
+     [
+      4,
+      89,
+      1,
+      0,
+      3
+     ],
+     [
+      5,
+      49,
+      0,
+      0,
+      2
+     ],
+     [
+      6,
+      63,
+      2,
+      0,
+      5
+     ],
+     [
+      7,
+      67,
+      2,
+      0,
+      1
+     ],
+     [
+      8,
+      55,
+      0,
+      0,
+      10
+     ],
+     [
+      9,
+      59,
+      0,
+      0,
+      19
+     ],
+     [
+      10,
+      63,
+      1,
+      0,
+      12
+     ],
+     [
+      11,
+      67,
+      0,
       0,
       0
      ]
@@ -409,7 +405,111 @@
      ],
      [
       "freehit",
+      8
+     ],
+     [
+      "wildcard",
       9
+     ],
+     [
+      "bboost",
+      11
+     ]
+    ]
+   },
+   "735721": {
+    "past": 15,
+    "cur": [
+     [
+      1,
+      66,
+      0,
+      0,
+      0
+     ],
+     [
+      2,
+      119,
+      0,
+      0,
+      19
+     ],
+     [
+      3,
+      51,
+      2,
+      0,
+      14
+     ],
+     [
+      4,
+      85,
+      0,
+      0,
+      4
+     ],
+     [
+      5,
+      40,
+      1,
+      0,
+      17
+     ],
+     [
+      6,
+      86,
+      1,
+      0,
+      4
+     ],
+     [
+      7,
+      84,
+      2,
+      4,
+      4
+     ],
+     [
+      8,
+      46,
+      1,
+      0,
+      1
+     ],
+     [
+      9,
+      62,
+      1,
+      0,
+      11
+     ],
+     [
+      10,
+      73,
+      1,
+      0,
+      17
+     ],
+     [
+      11,
+      24,
+      0,
+      0,
+      6
+     ]
+    ],
+    "chips": [
+     [
+      "bboost",
+      1
+     ],
+     [
+      "3xc",
+      3
+     ],
+     [
+      "wildcard",
+      4
      ]
     ]
    },
@@ -488,10 +588,10 @@
      ],
      [
       11,
+      35,
       0,
       0,
-      0,
-      0
+      12
      ]
     ],
     "chips": [
@@ -584,10 +684,10 @@
      ],
      [
       11,
-      0,
+      44,
       2,
       0,
-      0
+      11
      ]
     ],
     "chips": [
@@ -597,6 +697,186 @@
      ],
      [
       "3xc",
+      3
+     ]
+    ]
+   },
+   "1036311": {
+    "past": 10,
+    "cur": [
+     [
+      1,
+      51,
+      0,
+      0,
+      6
+     ],
+     [
+      2,
+      113,
+      0,
+      0,
+      21
+     ],
+     [
+      3,
+      51,
+      1,
+      0,
+      15
+     ],
+     [
+      4,
+      94,
+      0,
+      0,
+      10
+     ],
+     [
+      5,
+      40,
+      3,
+      0,
+      20
+     ],
+     [
+      6,
+      73,
+      1,
+      0,
+      9
+     ],
+     [
+      7,
+      76,
+      2,
+      4,
+      4
+     ],
+     [
+      8,
+      43,
+      1,
+      0,
+      11
+     ],
+     [
+      9,
+      52,
+      1,
+      0,
+      26
+     ],
+     [
+      10,
+      69,
+      1,
+      0,
+      4
+     ],
+     [
+      11,
+      49,
+      1,
+      0,
+      0
+     ]
+    ],
+    "chips": [
+     [
+      "3xc",
+      3
+     ],
+     [
+      "bboost",
+      11
+     ]
+    ]
+   },
+   "5474293": {
+    "past": 14,
+    "cur": [
+     [
+      1,
+      46,
+      0,
+      0,
+      2
+     ],
+     [
+      2,
+      107,
+      0,
+      0,
+      4
+     ],
+     [
+      3,
+      57,
+      0,
+      0,
+      1
+     ],
+     [
+      4,
+      86,
+      2,
+      0,
+      7
+     ],
+     [
+      5,
+      52,
+      1,
+      0,
+      10
+     ],
+     [
+      6,
+      67,
+      0,
+      0,
+      3
+     ],
+     [
+      7,
+      72,
+      2,
+      0,
+      10
+     ],
+     [
+      8,
+      46,
+      1,
+      0,
+      1
+     ],
+     [
+      9,
+      60,
+      1,
+      0,
+      10
+     ],
+     [
+      10,
+      59,
+      0,
+      0,
+      4
+     ],
+     [
+      11,
+      45,
+      0,
+      0,
+      3
+     ]
+    ],
+    "chips": [
+     [
+      "wildcard",
       3
      ]
     ]
@@ -676,205 +956,13 @@
      ],
      [
       11,
-      0,
+      27,
       0,
       0,
       0
      ]
     ],
     "chips": []
-   },
-   "1655993": {
-    "past": 15,
-    "cur": [
-     [
-      1,
-      56,
-      0,
-      0,
-      3
-     ],
-     [
-      2,
-      107,
-      1,
-      0,
-      17
-     ],
-     [
-      3,
-      59,
-      0,
-      0,
-      6
-     ],
-     [
-      4,
-      89,
-      1,
-      0,
-      3
-     ],
-     [
-      5,
-      49,
-      0,
-      0,
-      2
-     ],
-     [
-      6,
-      63,
-      2,
-      0,
-      5
-     ],
-     [
-      7,
-      67,
-      2,
-      0,
-      1
-     ],
-     [
-      8,
-      55,
-      0,
-      0,
-      10
-     ],
-     [
-      9,
-      59,
-      0,
-      0,
-      19
-     ],
-     [
-      10,
-      63,
-      1,
-      0,
-      12
-     ],
-     [
-      11,
-      0,
-      0,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "3xc",
-      3
-     ],
-     [
-      "freehit",
-      8
-     ],
-     [
-      "wildcard",
-      9
-     ],
-     [
-      "bboost",
-      11
-     ]
-    ]
-   },
-   "1036311": {
-    "past": 10,
-    "cur": [
-     [
-      1,
-      51,
-      0,
-      0,
-      6
-     ],
-     [
-      2,
-      113,
-      0,
-      0,
-      21
-     ],
-     [
-      3,
-      51,
-      1,
-      0,
-      15
-     ],
-     [
-      4,
-      94,
-      0,
-      0,
-      10
-     ],
-     [
-      5,
-      40,
-      3,
-      0,
-      20
-     ],
-     [
-      6,
-      73,
-      1,
-      0,
-      9
-     ],
-     [
-      7,
-      76,
-      2,
-      4,
-      4
-     ],
-     [
-      8,
-      43,
-      1,
-      0,
-      11
-     ],
-     [
-      9,
-      52,
-      1,
-      0,
-      26
-     ],
-     [
-      10,
-      69,
-      1,
-      0,
-      4
-     ],
-     [
-      11,
-      0,
-      1,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "3xc",
-      3
-     ],
-     [
-      "bboost",
-      11
-     ]
-    ]
    },
    "3072827": {
     "past": 20,
@@ -951,10 +1039,10 @@
      ],
      [
       11,
+      33,
       0,
       0,
-      0,
-      0
+      10
      ]
     ],
     "chips": [
@@ -1043,10 +1131,10 @@
      ],
      [
       11,
-      0,
+      34,
       2,
       0,
-      0
+      12
      ]
     ],
     "chips": [
@@ -1061,94 +1149,6 @@
      [
       "3xc",
       4
-     ]
-    ]
-   },
-   "5474293": {
-    "past": 14,
-    "cur": [
-     [
-      1,
-      46,
-      0,
-      0,
-      2
-     ],
-     [
-      2,
-      107,
-      0,
-      0,
-      4
-     ],
-     [
-      3,
-      57,
-      0,
-      0,
-      1
-     ],
-     [
-      4,
-      86,
-      2,
-      0,
-      7
-     ],
-     [
-      5,
-      52,
-      1,
-      0,
-      10
-     ],
-     [
-      6,
-      67,
-      0,
-      0,
-      3
-     ],
-     [
-      7,
-      72,
-      2,
-      0,
-      10
-     ],
-     [
-      8,
-      46,
-      1,
-      0,
-      1
-     ],
-     [
-      9,
-      60,
-      1,
-      0,
-      10
-     ],
-     [
-      10,
-      59,
-      0,
-      0,
-      4
-     ],
-     [
-      11,
-      0,
-      0,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "wildcard",
-      3
      ]
     ]
    },
@@ -1227,10 +1227,10 @@
      ],
      [
       11,
+      34,
       0,
       0,
-      0,
-      0
+      18
      ]
     ],
     "chips": [
@@ -1246,6 +1246,182 @@
       "wildcard",
       4
      ],
+     [
+      "3xc",
+      7
+     ]
+    ]
+   },
+   "2934546": {
+    "past": 20,
+    "cur": [
+     [
+      1,
+      44,
+      0,
+      0,
+      5
+     ],
+     [
+      2,
+      53,
+      1,
+      0,
+      9
+     ],
+     [
+      3,
+      66,
+      1,
+      0,
+      7
+     ],
+     [
+      4,
+      77,
+      1,
+      0,
+      30
+     ],
+     [
+      5,
+      45,
+      0,
+      0,
+      11
+     ],
+     [
+      6,
+      80,
+      1,
+      0,
+      3
+     ],
+     [
+      7,
+      65,
+      2,
+      0,
+      3
+     ],
+     [
+      8,
+      73,
+      1,
+      0,
+      16
+     ],
+     [
+      9,
+      61,
+      0,
+      0,
+      22
+     ],
+     [
+      10,
+      64,
+      2,
+      0,
+      5
+     ],
+     [
+      11,
+      50,
+      0,
+      0,
+      17
+     ]
+    ],
+    "chips": [
+     [
+      "wildcard",
+      11
+     ]
+    ]
+   },
+   "5682768": {
+    "past": 8,
+    "cur": [
+     [
+      1,
+      49,
+      0,
+      0,
+      1
+     ],
+     [
+      2,
+      101,
+      0,
+      0,
+      4
+     ],
+     [
+      3,
+      53,
+      1,
+      0,
+      7
+     ],
+     [
+      4,
+      92,
+      2,
+      0,
+      2
+     ],
+     [
+      5,
+      55,
+      0,
+      0,
+      0
+     ],
+     [
+      6,
+      50,
+      1,
+      0,
+      8
+     ],
+     [
+      7,
+      82,
+      2,
+      0,
+      4
+     ],
+     [
+      8,
+      38,
+      1,
+      0,
+      0
+     ],
+     [
+      9,
+      55,
+      1,
+      0,
+      6
+     ],
+     [
+      10,
+      59,
+      0,
+      0,
+      7
+     ],
+     [
+      11,
+      43,
+      2,
+      0,
+      5
+     ]
+    ],
+    "chips": [
      [
       "3xc",
       7
@@ -1327,10 +1503,10 @@
      ],
      [
       11,
+      39,
       0,
       0,
-      0,
-      0
+      13
      ]
     ],
     "chips": [
@@ -1341,182 +1517,6 @@
      [
       "wildcard",
       4
-     ]
-    ]
-   },
-   "3506595": {
-    "past": 8,
-    "cur": [
-     [
-      1,
-      48,
-      0,
-      0,
-      11
-     ],
-     [
-      2,
-      96,
-      0,
-      0,
-      5
-     ],
-     [
-      3,
-      70,
-      1,
-      0,
-      10
-     ],
-     [
-      4,
-      76,
-      2,
-      0,
-      8
-     ],
-     [
-      5,
-      53,
-      0,
-      0,
-      2
-     ],
-     [
-      6,
-      55,
-      2,
-      0,
-      7
-     ],
-     [
-      7,
-      57,
-      0,
-      0,
-      4
-     ],
-     [
-      8,
-      37,
-      1,
-      0,
-      9
-     ],
-     [
-      9,
-      68,
-      2,
-      0,
-      9
-     ],
-     [
-      10,
-      74,
-      0,
-      0,
-      1
-     ],
-     [
-      11,
-      0,
-      0,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "3xc",
-      2
-     ]
-    ]
-   },
-   "5682768": {
-    "past": 8,
-    "cur": [
-     [
-      1,
-      49,
-      0,
-      0,
-      1
-     ],
-     [
-      2,
-      101,
-      0,
-      0,
-      4
-     ],
-     [
-      3,
-      53,
-      1,
-      0,
-      7
-     ],
-     [
-      4,
-      92,
-      2,
-      0,
-      2
-     ],
-     [
-      5,
-      55,
-      0,
-      0,
-      0
-     ],
-     [
-      6,
-      50,
-      1,
-      0,
-      8
-     ],
-     [
-      7,
-      82,
-      2,
-      0,
-      4
-     ],
-     [
-      8,
-      38,
-      1,
-      0,
-      0
-     ],
-     [
-      9,
-      55,
-      1,
-      0,
-      6
-     ],
-     [
-      10,
-      59,
-      0,
-      0,
-      7
-     ],
-     [
-      11,
-      0,
-      2,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "3xc",
-      7
      ]
     ]
    },
@@ -1595,10 +1595,10 @@
      ],
      [
       11,
+      45,
       0,
       0,
-      0,
-      0
+      26
      ]
     ],
     "chips": [
@@ -1613,6 +1613,94 @@
      [
       "wildcard",
       11
+     ]
+    ]
+   },
+   "3506595": {
+    "past": 8,
+    "cur": [
+     [
+      1,
+      48,
+      0,
+      0,
+      11
+     ],
+     [
+      2,
+      96,
+      0,
+      0,
+      5
+     ],
+     [
+      3,
+      70,
+      1,
+      0,
+      10
+     ],
+     [
+      4,
+      76,
+      2,
+      0,
+      8
+     ],
+     [
+      5,
+      53,
+      0,
+      0,
+      2
+     ],
+     [
+      6,
+      55,
+      2,
+      0,
+      7
+     ],
+     [
+      7,
+      57,
+      0,
+      0,
+      4
+     ],
+     [
+      8,
+      37,
+      1,
+      0,
+      9
+     ],
+     [
+      9,
+      68,
+      2,
+      0,
+      9
+     ],
+     [
+      10,
+      74,
+      0,
+      0,
+      1
+     ],
+     [
+      11,
+      39,
+      0,
+      0,
+      2
+     ]
+    ],
+    "chips": [
+     [
+      "3xc",
+      2
      ]
     ]
    },
@@ -1691,10 +1779,10 @@
      ],
      [
       11,
-      0,
+      43,
       1,
       0,
-      0
+      5
      ]
     ],
     "chips": [
@@ -1709,94 +1797,6 @@
      [
       "wildcard",
       6
-     ]
-    ]
-   },
-   "2934546": {
-    "past": 20,
-    "cur": [
-     [
-      1,
-      44,
-      0,
-      0,
-      5
-     ],
-     [
-      2,
-      53,
-      1,
-      0,
-      9
-     ],
-     [
-      3,
-      66,
-      1,
-      0,
-      7
-     ],
-     [
-      4,
-      77,
-      1,
-      0,
-      30
-     ],
-     [
-      5,
-      45,
-      0,
-      0,
-      11
-     ],
-     [
-      6,
-      80,
-      1,
-      0,
-      3
-     ],
-     [
-      7,
-      65,
-      2,
-      0,
-      3
-     ],
-     [
-      8,
-      73,
-      1,
-      0,
-      16
-     ],
-     [
-      9,
-      61,
-      0,
-      0,
-      22
-     ],
-     [
-      10,
-      64,
-      2,
-      0,
-      5
-     ],
-     [
-      11,
-      0,
-      0,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "wildcard",
-      11
      ]
     ]
    },
@@ -1875,10 +1875,10 @@
      ],
      [
       11,
-      0,
+      30,
       1,
       0,
-      0
+      10
      ]
     ],
     "chips": [
@@ -1967,10 +1967,10 @@
      ],
      [
       11,
+      27,
       0,
       0,
-      0,
-      0
+      12
      ]
     ],
     "chips": [
@@ -2055,10 +2055,10 @@
      ],
      [
       11,
-      0,
+      32,
       1,
       0,
-      0
+      22
      ]
     ],
     "chips": [
@@ -2073,98 +2073,6 @@
      [
       "bboost",
       8
-     ]
-    ]
-   },
-   "6159011": {
-    "past": 1,
-    "cur": [
-     [
-      1,
-      71,
-      0,
-      0,
-      3
-     ],
-     [
-      2,
-      103,
-      0,
-      0,
-      2
-     ],
-     [
-      3,
-      34,
-      2,
-      0,
-      10
-     ],
-     [
-      4,
-      54,
-      1,
-      0,
-      1
-     ],
-     [
-      5,
-      48,
-      0,
-      0,
-      5
-     ],
-     [
-      6,
-      67,
-      0,
-      0,
-      9
-     ],
-     [
-      7,
-      71,
-      0,
-      0,
-      5
-     ],
-     [
-      8,
-      58,
-      2,
-      0,
-      7
-     ],
-     [
-      9,
-      55,
-      2,
-      4,
-      6
-     ],
-     [
-      10,
-      55,
-      1,
-      0,
-      2
-     ],
-     [
-      11,
-      0,
-      1,
-      0,
-      0
-     ]
-    ],
-    "chips": [
-     [
-      "freehit",
-      5
-     ],
-     [
-      "wildcard",
-      6
      ]
     ]
    },
@@ -2243,10 +2151,10 @@
      ],
      [
       11,
+      44,
       0,
       0,
-      0,
-      0
+      9
      ]
     ],
     "chips": [
@@ -2256,88 +2164,92 @@
      ]
     ]
    },
-   "6051923": {
-    "past": 5,
+   "6159011": {
+    "past": 1,
     "cur": [
      [
       1,
-      49,
+      71,
+      0,
+      0,
+      3
+     ],
+     [
+      2,
+      103,
+      0,
+      0,
+      2
+     ],
+     [
+      3,
+      34,
+      2,
+      0,
+      10
+     ],
+     [
+      4,
+      54,
+      1,
+      0,
+      1
+     ],
+     [
+      5,
+      48,
       0,
       0,
       5
      ],
      [
-      2,
-      96,
-      0,
-      0,
-      10
-     ],
-     [
-      3,
-      56,
-      1,
-      0,
-      8
-     ],
-     [
-      4,
-      98,
-      2,
-      0,
-      2
-     ],
-     [
-      5,
-      38,
-      1,
-      0,
-      13
-     ],
-     [
       6,
-      60,
+      67,
       0,
       0,
       9
      ],
      [
       7,
-      60,
+      71,
       0,
       0,
-      10
+      5
      ],
      [
       8,
-      35,
+      58,
+      2,
       0,
-      0,
-      4
+      7
      ],
      [
       9,
-      42,
-      3,
-      0,
-      10
+      55,
+      2,
+      4,
+      6
      ],
      [
       10,
-      50,
+      55,
+      1,
       0,
-      0,
-      8
+      2
      ],
      [
       11,
+      29,
+      1,
       0,
-      0,
-      0,
-      0
+      18
      ]
     ],
     "chips": [
+     [
+      "freehit",
+      5
+     ],
      [
       "wildcard",
       6
@@ -2419,16 +2331,104 @@
      ],
      [
       11,
-      0,
+      57,
       1,
       0,
-      0
+      -3
      ]
     ],
     "chips": [
      [
       "3xc",
       11
+     ]
+    ]
+   },
+   "6051923": {
+    "past": 5,
+    "cur": [
+     [
+      1,
+      49,
+      0,
+      0,
+      5
+     ],
+     [
+      2,
+      96,
+      0,
+      0,
+      10
+     ],
+     [
+      3,
+      56,
+      1,
+      0,
+      8
+     ],
+     [
+      4,
+      98,
+      2,
+      0,
+      2
+     ],
+     [
+      5,
+      38,
+      1,
+      0,
+      13
+     ],
+     [
+      6,
+      60,
+      0,
+      0,
+      9
+     ],
+     [
+      7,
+      60,
+      0,
+      0,
+      10
+     ],
+     [
+      8,
+      35,
+      0,
+      0,
+      4
+     ],
+     [
+      9,
+      42,
+      3,
+      0,
+      10
+     ],
+     [
+      10,
+      50,
+      0,
+      0,
+      8
+     ],
+     [
+      11,
+      29,
+      0,
+      0,
+      14
+     ]
+    ],
+    "chips": [
+     [
+      "wildcard",
+      6
      ]
     ]
    }
@@ -6854,6 +6854,606 @@
      138
     ]
    ]
+  },
+  "11": {
+   "3029346": [
+    411,
+    [
+     109,
+     115,
+     112,
+     4,
+     68,
+     40,
+     124,
+     366,
+     411,
+     166,
+     379
+    ],
+    166,
+    [
+     496,
+     31,
+     53,
+     332
+    ]
+   ],
+   "2321301": [
+    411,
+    [
+     1,
+     566,
+     31,
+     115,
+     8,
+     124,
+     627,
+     40,
+     154,
+     411,
+     166
+    ],
+    166,
+    [
+     497,
+     249,
+     268,
+     305
+    ]
+   ],
+   "1921902": [
+    166,
+    [
+     1,
+     8,
+     31,
+     362,
+     115,
+     399,
+     124,
+     154,
+     40,
+     411,
+     166
+    ],
+    411,
+    [
+     111,
+     334,
+     346,
+     290
+    ]
+   ],
+   "1655993": [
+    411,
+    [
+     1,
+     112,
+     115,
+     31,
+     13,
+     68,
+     124,
+     40,
+     79,
+     411,
+     379
+    ],
+    79,
+    [
+     572,
+     362,
+     286,
+     277
+    ]
+   ],
+   "735721": [
+    411,
+    [
+     1,
+     31,
+     8,
+     115,
+     124,
+     40,
+     154,
+     237,
+     399,
+     411,
+     166
+    ],
+    154,
+    [
+     497,
+     249,
+     233,
+     173
+    ]
+   ],
+   "2687116": [
+    411,
+    [
+     496,
+     8,
+     31,
+     115,
+     94,
+     127,
+     68,
+     154,
+     379,
+     166,
+     411
+    ],
+    166,
+    [
+     109,
+     391,
+     15,
+     330
+    ]
+   ],
+   "3344797": [
+    411,
+    [
+     109,
+     8,
+     112,
+     115,
+     40,
+     154,
+     124,
+     68,
+     166,
+     346,
+     411
+    ],
+    166,
+    [
+     496,
+     427,
+     334,
+     305
+    ]
+   ],
+   "1036311": [
+    411,
+    [
+     109,
+     8,
+     115,
+     112,
+     40,
+     236,
+     124,
+     154,
+     480,
+     166,
+     411
+    ],
+    166,
+    [
+     496,
+     346,
+     31,
+     175
+    ]
+   ],
+   "5474293": [
+    411,
+    [
+     1,
+     8,
+     31,
+     115,
+     154,
+     124,
+     40,
+     68,
+     86,
+     411,
+     166
+    ],
+    8,
+    [
+     497,
+     388,
+     449,
+     321
+    ]
+   ],
+   "4487775": [
+    411,
+    [
+     1,
+     31,
+     8,
+     362,
+     503,
+     40,
+     427,
+     399,
+     124,
+     411,
+     166
+    ],
+    1,
+    [
+     497,
+     165,
+     175,
+     212
+    ]
+   ],
+   "3072827": [
+    411,
+    [
+     1,
+     31,
+     112,
+     115,
+     40,
+     124,
+     154,
+     427,
+     79,
+     411,
+     249
+    ],
+    79,
+    [
+     250,
+     286,
+     391,
+     176
+    ]
+   ],
+   "3350483": [
+    411,
+    [
+     1,
+     504,
+     115,
+     8,
+     112,
+     40,
+     154,
+     124,
+     68,
+     411,
+     249
+    ],
+    154,
+    [
+     301,
+     346,
+     277,
+     289
+    ]
+   ],
+   "75778": [
+    411,
+    [
+     109,
+     115,
+     566,
+     8,
+     31,
+     399,
+     124,
+     15,
+     154,
+     411,
+     379
+    ],
+    379,
+    [
+     497,
+     346,
+     334,
+     286
+    ]
+   ],
+   "2934546": [
+    411,
+    [
+     496,
+     112,
+     8,
+     115,
+     40,
+     45,
+     366,
+     124,
+     379,
+     166,
+     411
+    ],
+    379,
+    [
+     109,
+     68,
+     362,
+     31
+    ]
+   ],
+   "5682768": [
+    411,
+    [
+     109,
+     175,
+     390,
+     279,
+     15,
+     426,
+     124,
+     154,
+     79,
+     346,
+     411
+    ],
+    154,
+    [
+     497,
+     212,
+     8,
+     330
+    ]
+   ],
+   "6892917": [
+    411,
+    [
+     350,
+     8,
+     115,
+     112,
+     40,
+     512,
+     154,
+     124,
+     53,
+     411,
+     79
+    ],
+    40,
+    [
+     572,
+     390,
+     31,
+     321
+    ]
+   ],
+   "4922092": [
+    411,
+    [
+     109,
+     579,
+     112,
+     115,
+     512,
+     40,
+     124,
+     68,
+     166,
+     379,
+     411
+    ],
+    166,
+    [
+     496,
+     183,
+     8,
+     566
+    ]
+   ],
+   "3506595": [
+    411,
+    [
+     1,
+     112,
+     362,
+     8,
+     237,
+     40,
+     68,
+     154,
+     166,
+     411,
+     249
+    ],
+    154,
+    [
+     497,
+     391,
+     565,
+     423
+    ]
+   ],
+   "2465483": [
+    411,
+    [
+     572,
+     31,
+     230,
+     8,
+     40,
+     400,
+     68,
+     127,
+     411,
+     166,
+     379
+    ],
+    379,
+    [
+     667,
+     94,
+     449,
+     173
+    ]
+   ],
+   "6279027": [
+    411,
+    [
+     1,
+     115,
+     229,
+     112,
+     10,
+     40,
+     45,
+     68,
+     411,
+     166,
+     379
+    ],
+    40,
+    [
+     82,
+     156,
+     53,
+     304
+    ]
+   ],
+   "865376": [
+    154,
+    [
+     1,
+     8,
+     391,
+     115,
+     31,
+     40,
+     154,
+     67,
+     79,
+     411,
+     249
+    ],
+    411,
+    [
+     109,
+     268,
+     449,
+     453
+    ]
+   ],
+   "7043406": [
+    166,
+    [
+     1,
+     8,
+     31,
+     115,
+     124,
+     154,
+     68,
+     236,
+     166,
+     79,
+     411
+    ],
+    1,
+    [
+     572,
+     332,
+     453,
+     175
+    ]
+   ],
+   "3314780": [
+    411,
+    [
+     226,
+     388,
+     60,
+     115,
+     367,
+     15,
+     40,
+     124,
+     411,
+     138,
+     79
+    ],
+    124,
+    [
+     412,
+     8,
+     259,
+     453
+    ]
+   ],
+   "6159011": [
+    166,
+    [
+     1,
+     115,
+     8,
+     31,
+     124,
+     40,
+     68,
+     94,
+     53,
+     411,
+     166
+    ],
+    1,
+    [
+     497,
+     60,
+     650,
+     165
+    ]
+   ],
+   "6476662": [
+    411,
+    [
+     57,
+     4,
+     60,
+     8,
+     53,
+     427,
+     366,
+     481,
+     166,
+     411,
+     138
+    ],
+    8,
+    [
+     301,
+     229,
+     469,
+     212
+    ]
+   ],
+   "6051923": [
+    411,
+    [
+     250,
+     229,
+     391,
+     8,
+     40,
+     399,
+     68,
+     124,
+     411,
+     79,
+     138
+    ],
+    68,
+    [
+     572,
+     94,
+     259,
+     173
+    ]
+   ]
   }
  },
  "awards_hist": {
@@ -7691,6 +8291,92 @@
   ]
  },
  "stories": [
+  {
+   "key": "w11",
+   "kind": "wrap",
+   "tag": "Wrap",
+   "head": "GW11 wrap: Sunny wins the week with 67",
+   "body": "Manager of the week: Sunny · 67 pts\nCaptain call: Bella's Haaland · 6\nTransfer of the week: Naresh's Wirtz · 14\nThe one that got away: Ravi Mahtani sold Rudoni · 10\nBench Disaster: Ravi Mahtani · 26 pts on the bench\nClimber of the week: Naresh · up 5 to 14th\nThe Doghouse: Deepak · 24 pts",
+   "stat": "Top: 1 Matt · 2 Nikhil · 3 Ravin",
+   "score": 95,
+   "who": [
+    1655993
+   ],
+   "ts": "2026-11-24T14:28:13Z",
+   "gw": 11
+  },
+  {
+   "key": "w11:zones",
+   "kind": "wrap",
+   "tag": "Table",
+   "head": "Sunny breaks into the Gold spots",
+   "body": "Sunny moves into the Gold spots while Deepak drops out of them this gameweek.",
+   "stat": "GW11 table zones",
+   "score": 80,
+   "who": [
+    735721,
+    1655993
+   ],
+   "ts": "2026-11-24T14:28:13Z",
+   "gw": 11,
+   "plain": {
+    "head": "Sunny breaks into the Gold spots",
+    "body": "Into the Gold spots: Sunny\nOut of the Gold spots: Deepak"
+   },
+   "ai": true
+  },
+  {
+   "key": "news:1:Shoulder injury - 50% chance of playing",
+   "kind": "news",
+   "tag": "News",
+   "head": "Injury watch: Raya",
+   "body": "Raya has a shoulder injury and a 50% chance of playing. 13 of you own him.",
+   "stat": "50% to play",
+   "score": 48,
+   "who": [
+    735721,
+    865376,
+    1655993,
+    1921902,
+    2321301,
+    3072827,
+    3350483,
+    3506595,
+    4487775,
+    5474293,
+    6159011,
+    6279027,
+    7043406
+   ],
+   "ts": "2026-11-24T14:28:13Z",
+   "gw": 11,
+   "plain": {
+    "head": "Injury watch: Raya",
+    "body": "Shoulder injury - 50% chance of playing. 13 of you own him."
+   },
+   "ai": true
+  },
+  {
+   "key": "news:449:Unspecified injury - 75% chance of playing",
+   "kind": "news",
+   "tag": "News",
+   "head": "Injury watch: Hall",
+   "body": "Hall has an unspecified injury and a 75% chance of playing. 3 of you own him.",
+   "stat": "75% to play",
+   "score": 38,
+   "who": [
+    865376,
+    2465483,
+    5474293
+   ],
+   "ts": "2026-11-24T14:28:13Z",
+   "gw": 11,
+   "plain": {
+    "head": "Injury watch: Hall",
+    "body": "Unspecified injury - 75% chance of playing. 3 of you own him."
+   },
+   "ai": true
+  },
   {
    "key": "d11:onpitch:94",
    "kind": "live",
@@ -9563,12 +10249,17 @@
   "z11:3314780:tin",
   "l11:ret:86:2:0",
   "l11:red:229",
-  "d11:onpitch:94"
+  "d11:onpitch:94",
+  "w11",
+  "w11:zones",
+  "news:1:Shoulder injury - 50% chance of playing",
+  "news:449:Unspecified injury - 75% chance of playing"
  ],
  "done": [
   "deadline:10",
   "deadline:11",
-  "wrap:10"
+  "wrap:10",
+  "wrap:11"
  ],
  "snap": {
   "gw": 11,
@@ -10647,7 +11338,7 @@
    "5474293": 9,
    "4487775": 10,
    "3072827": 11,
-   "3350483": 11,
+   "3350483": 12,
    "75778": 13,
    "2934546": 14,
    "5682768": 15,
@@ -10657,7 +11348,7 @@
    "2465483": 19,
    "6279027": 20,
    "865376": 21,
-   "7043406": 21,
+   "7043406": 22,
    "3314780": 23,
    "6159011": 24,
    "6476662": 25,
@@ -10685,18 +11376,45 @@
    "2465483": null,
    "6279027": null,
    "865376": null,
-   "7043406": null,
+   "7043406": "tinpot",
    "3314780": "tinpot",
    "6159011": "tinpot",
    "6476662": "tinpot",
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-24T14:10:13Z",
+ "updated": "2026-11-24T14:28:13Z",
  "ai": {
-  "briefings": {},
-  "key": "11:live",
-  "ts": "2026-11-23T21:46:22Z",
+  "briefings": {
+   "3029346": "You sit top on 774 points after a 52-point week, 17 ahead of Nikhil. Keep an eye on Sunny and Ravin in the chase and watch the Haaland armband call.",
+   "2321301": "You are 2nd on 757 points, 17 behind Matt, after a 34-point week. Your main threat is Matt at the top, so watch your Haaland captaincy.",
+   "1921902": "You are 3rd on 735 points after a 28-point week, 22 behind Nikhil. Your N.Jackson armband only returned 4, so watch the armband and the Sunny chase.",
+   "1655993": "You are 4th on 734 points after a 67-point Bench Boost week that climbed you from 8th. Keep Ravin and Deepak in your sights for the Gold spots.",
+   "735721": "You are 5th on 732 points after a 24-point week, dropping out of the Gold spots. Sunny is 2 points ahead, so watch that gap next week.",
+   "2687116": "You are 6th on 731 points after a 35-point week. Deepak is 1 point ahead, so a fight for the Gold spots looms.",
+   "3344797": "You are 7th on 718 points after a 44-point week. Chandru is 13 ahead, so watch your squad moves to close the gap.",
+   "1036311": "You are 8th on 707 points after a 49-point Bench Boost week. Rohan is 11 ahead, so keep your momentum going.",
+   "5474293": "You are 9th on 697 points after a 45-point week, climbing from 12th. Prem is 1 point behind, so watch that closely.",
+   "4487775": "You are 10th on 696 points after a 27-point week. Sahil is 1 point ahead, so a rally is needed.",
+   "3072827": "You are 11th on 687 points after a 33-point week. Aashiv is level on points, so the battle is tight.",
+   "3350483": "You are 12th on 687 points after a 34-point week. Sunil is level, and Marcel is 6 points behind you.",
+   "75778": "You are 13th on 681 points after a 34-point week. Aashiv is 6 ahead, and Naresh is 3 behind you.",
+   "2934546": "You are 14th on 678 points after a 50-point wildcard week, climbing from 19th. Marcel is 3 ahead, so keep the momentum.",
+   "5682768": "You are 15th on 677 points after a 43-point week. Naresh is 1 ahead, so watch your position.",
+   "6892917": "You are 16th on 675 points after a 39-point week, dropping from 14th. Vanessa is 2 ahead.",
+   "4922092": "You are 17th on 674 points after a 45-point wildcard week, but 26 bench points hurt. Poonam is 1 ahead.",
+   "3506595": "You are 18th on 673 points after a 39-point week. Ravi Mahtani is 1 ahead, so watch that gap.",
+   "2465483": "You are 19th on 671 points after a 43-point week. Hishaan is 2 ahead of you.",
+   "6279027": "You are 20th on 649 points after a 30-point week. Inesh is 22 ahead, so the chase is long.",
+   "865376": "You are 21st on 645 points after a 27-point week. Pishu is 4 ahead, and Rajiv is level.",
+   "7043406": "You are 22nd on 645 points after a 32-point week, with 22 bench points. Lakshay is level, so the Tin Pot fight goes on.",
+   "3314780": "You are 23rd on 644 points after a 44-point week. Rajiv is 1 ahead of you.",
+   "6159011": "You are 24th on 641 points after a 29-point week. Bhojwani is 3 ahead of you.",
+   "6476662": "You are 25th on 617 points after a 57-point triple captain week. Vinesh is 24 ahead, so the climb is steep.",
+   "6051923": "You are 26th on 613 points after a 29-point week. Bella is 4 ahead, and you have no one behind you."
+  },
+  "key": "11:between",
+  "ts": "2026-11-24T14:28:13Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -10709,14 +11427,14 @@
     "plots": 11
    },
    "11": {
-    "in": 1693724,
-    "out": 361718,
-    "calls": 133,
-    "refreshes": 22,
+    "in": 1728419,
+    "out": 369766,
+    "calls": 137,
+    "refreshes": 23,
     "desks": 41,
     "desk_in": 937345,
     "desk_out": 301465,
-    "plots": 4
+    "plots": 5
    }
   },
   "desks": [
@@ -11551,10 +12269,10 @@
   "plots": [
    {
     "id": "title",
-    "title": "Matt Takes the Crown",
+    "title": "Matt Seizes the Crown",
     "status": "Twist",
-    "text": "Matt has flipped the race, moving 17 points clear of Nikhil, who led by 1 last week. Matt has held the top spot for just one week, and Ravin sits 39 points back in third.",
-    "next": "Nikhil could hit back with a big week, or Matt could stretch his lead further.",
+    "text": "Matt has overturned Nikhil's one-point lead to go 17 clear on 774 to 757, with Ravin third 39 points off the top. The crown has now changed hands 4 times this season, and Matt is top for the first time in this run.",
+    "next": "Nikhil could fight back, but Ravin is 39 points adrift and needs a big swing.",
     "who": [
      3029346,
      2321301
@@ -11562,7 +12280,7 @@
     "kind": "title race",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-24T11:03:23Z",
+    "ts": "2026-11-24T14:28:13Z",
     "question": "Who can hold the crown?",
     "line": [
      [
@@ -11587,10 +12305,10 @@
    },
    {
     "id": "gold",
-    "title": "Sunny Grabs the Last Spot",
+    "title": "Sunny Snatches Gold",
     "status": "Twist",
-    "text": "Sunny has taken the final Gold spot from Deepak, who now sits 2 points behind. Sunny has spent only 1 of the last 5 weeks in the zone, while Deepak has spent 4.",
-    "next": "Deepak could overtake Sunny for the last Gold place if he gains ground this week.",
+    "text": "Sunny has taken the last Gold spot from Deepak, who dropped out this week, leaving a 2-point gap between them. Sunny has spent just 1 of the last 5 weeks in the zone, while Deepak has spent 4.",
+    "next": "Deepak could fight back into the last Gold spot if Sunny's form dips.",
     "who": [
      1655993,
      735721
@@ -11598,7 +12316,7 @@
     "kind": "zone line",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-24T11:03:23Z",
+    "ts": "2026-11-24T14:28:13Z",
     "question": "Who holds the last Gold spot?",
     "line": [
      [
@@ -11623,17 +12341,17 @@
    },
    {
     "id": "slump:6051923",
-    "title": "Alia's Lowest Point",
+    "title": "Alia's Lowest Ebb",
     "status": "Building",
-    "text": "Alia has now finished below the league average for 7 weeks in a row. Her 29 points this week is the lowest of her run, down from 50 in GW10.",
-    "next": "A strong bounce-back week could end the streak, or the slump could run on longer.",
+    "text": "Alia scored 29 this week, her lowest figure of the run, extending her streak below the league average to 7 weeks in a row. The slump is deepening rather than easing.",
+    "next": "Alia could snap out of it soon, or the streak could stretch further still.",
     "who": [
      6051923
     ],
     "kind": "slump",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-24T11:03:23Z",
+    "ts": "2026-11-24T14:28:13Z",
     "question": "Can Alia snap out of it?",
     "line": [
      [
@@ -11662,10 +12380,10 @@
    },
    {
     "id": "rivalry:4922092-5682768",
-    "title": "Vanessa's Narrow Lead",
+    "title": "Vanessa's Lead Narrows",
     "status": "Heating up",
-    "text": "Vanessa leads Ravi Mahtani by 3 points, down from 5 last week. The pair have swapped places 7 times this season, so neither has ever held a clear grip.",
-    "next": "Ravi Mahtani could draw level or go ahead again if he wins the next week.",
+    "text": "Vanessa still leads Ravi Mahtani, but her advantage has shrunk from 5 points to 3 this week. The pair have swapped places 7 times this season, so the lead has never been secure.",
+    "next": "Ravi Mahtani could draw level if he keeps gaining on Vanessa.",
     "who": [
      5682768,
      4922092
@@ -11673,7 +12391,7 @@
     "kind": "rivalry",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-24T11:03:23Z",
+    "ts": "2026-11-24T14:28:13Z",
     "question": "Vanessa v Ravi Mahtani: who blinks first?",
     "line": [
      [
@@ -11702,13 +12420,14 @@
     "status": "Building",
     "text": "Naresh has risen from 25th in GW7 to 14th now, climbing in every week except GW10, when he held at 18. His jump to 14th this week was the biggest of his run.",
     "next": "If he keeps climbing, Naresh could push into the top 10 before the season ends.",
+    "kept": true,
     "who": [
      2934546
     ],
     "kind": "rise",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-24T11:03:23Z",
+    "ts": "2026-11-24T14:28:13Z",
     "question": "How far can Naresh's climb go?",
     "line": [
      [
@@ -11736,8 +12455,8 @@
     "streak": null
    }
   ],
-  "plots_ts": "2026-11-24T11:03:23Z",
-  "plots_key": "11:live",
+  "plots_ts": "2026-11-24T14:28:13Z",
+  "plots_key": "11:between",
   "verdict_tries": {
    "10:2": 1,
    "10:3": 1,
@@ -11761,34 +12480,27 @@
   "plots_v": 8,
   "plots_sig": "986334780213",
   "group": {
-   "text": "*Matt's Bench Boost blows the table open*\nMatt's 96 lifts Lammo's Lads to 2nd, just 1 behind Nikhil at the top.\nRavin and Lakshay's armbands both flopped with Rogers and Palmer on 2 each.\nHishaan's Barry hauled 32 for his only captain, so nobody is safe.",
-   "ts": "2026-11-21T09:45:46Z",
-   "gw": 10
+   "text": "*Sunny storms the Gold spots*\nBench Boost hauls 67 and Sunny climbs from 8th to 4th.\nHaaland blanks for 22 armbands, so 4 points each. Matt still leads Nikhil by 17.",
+   "ts": "2026-11-24T14:28:13Z",
+   "gw": 11
   },
   "storylines": [
    {
-    "title": "The summit squeeze",
-    "text": "Nikhil leads Matt by just 1 point, with Deepak 14 further back. The top spot is genuinely up for grabs.",
+    "title": "Summit squeeze fades",
+    "text": "Matt has pulled 17 clear of Nikhil after Haaland blanked for 22 managers, so the top is no longer tight.",
     "who": [
-     2321301,
      3029346,
-     735721
-    ]
-   },
-   {
-    "title": "Bench Boost bragging",
-    "text": "Matt's 96-point Bench Boost is the week's best haul and has lifted him into title contention.",
-    "who": [
-     3029346
+     2321301
     ]
    },
    {
     "title": "Armband agony",
-    "text": "Ravin's Rogers and Lakshay's Palmer both returned just 2, while Pishu's N.Jackson captaincy hauled 22.",
+    "text": "Haaland blanked for 22 managers, and N.Jackson's 3 owners also scored 4 each.",
     "who": [
+     3029346,
+     2321301,
      1921902,
-     865376,
-     6279027
+     6159011
     ]
    }
   ],
@@ -11799,312 +12511,876 @@
    "986334780213": 1
   },
   "gaffer_draft": {
-   "gw": 10,
+   "gw": 11,
    "v": 3,
-   "ts": "2026-11-10T17:30:06Z",
+   "ts": "2026-11-24T14:28:13Z",
    "model": "claude-sonnet-5-5",
    "draft": true,
    "piece": {
-    "headline": "MATT'S BENCH BOOST BITES, NIKHIL HANGS ON BY ONE",
-    "standfirst": "Matt's chip turned a title chase into a one-point scrap, and Haaland's blank hurt 15 captains.",
-    "big_picture": "Nikhil was 24 clear a week ago. Now he leads by a single point, with the lead changed hands 3 times this season. This is no longer a procession. Matt has the momentum, Nikhil has the nerve test.",
-    "decision_of_the_week": "Hishaan ignored the crowd and put the armband on Barry. It brought 32 against the 4 that Haaland's captains got. A 28-point swing, and the bravest call of the week.",
-    "one_to_watch": "Nikhil against Matt, with just 1 point between them. Nikhil has led for 3 weeks, but Matt has the form. If either of them backs the wrong captain, the lead could flip again.",
+    "headline": "MATT TAKES THE CROWN AS HAALAND BLANKS",
+    "standfirst": "",
+    "big_picture": "Nikhil had been alone at the top for 1 week in a row (from GW10). Matt takes top spot from Nikhil, 17 points clear. 22 of 26 managers captained Haaland. He scored 2, so 4 each with the armband (6 for the 1 on Triple Captain).",
+    "decision_of_the_week": "",
+    "one_to_watch": "Rajiv and Lakshay are level on the Tin Pot line, with nothing between them. One good week could split them. One more bench blunder could sink either.",
     "winners": [
      {
+      "name": "Sunny",
+      "verdict": "Bench Boost brought 23 points off the bench. Sunny also backed Belloumi alone and he delivered. Skill and nerve, with a touch of luck."
+     },
+     {
       "name": "Matt",
-      "verdict": "3 weeks above average, and the climb from 7th is now a proper charge. Not a one-week fluke. Nikhil will be checking his mirrors."
+      "verdict": "4 straight weeks above the league average. No fireworks, just a side that kept ticking until the crown came free."
      },
      {
-      "name": "Hishaan",
-      "verdict": "The only manager brave enough to back Barry with the armband. Brave, lucky or both? The league will say lucky. Hishaan will say visionary."
-     },
-     {
-      "name": "Inesh",
-      "verdict": "Tzolakis, started by nobody else, quietly paid off. Isak in as a signing, too. Sensible week, and sometimes sensible is the cheeky move."
+      "name": "Bella",
+      "verdict": "Anderson scored 10 and no other manager here started him. A proper punt, and the Triple Captain made it sweeter."
      }
     ],
     "losers": [
      {
-      "name": "Ravi Mahtani",
-      "verdict": "Worst week of the season, and the Wooden Spoon to show for it. Vanessa has snatched the bragging rights back. The tide keeps turning."
-     },
-     {
-      "name": "Rohan",
-      "verdict": "5th-time Captain of the Week winner, yet this time the armband went to Haaland too. The man who knows captaincy got it wrong."
+      "name": "Alia",
+      "verdict": "7 weeks in a row below the league average. Gentle one, but the 14 points on the bench won't help the mood."
      }
     ]
    },
    "ratings": [
     {
+     "name": "Sunny",
+     "rating": 10,
+     "points": 67,
+     "line": "Belloumi was Sunny's secret and it paid. The Gold spots beckon.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "67 points, 28 above the league average",
+        3.1
+       ],
+       [
+        "Up 4 places in the table, 8th to 4th",
+        0.5
+       ],
+       [
+        "Bench Boost worth 23 points",
+        0.5
+       ]
+      ],
+      "total": 9.6,
+      "note": ""
+     }
+    },
+    {
      "name": "Matt",
      "rating": 9,
-     "points": 96,
-     "line": "Justin, started by nobody else, was a nice extra on top of a Bench Boost.",
-     "plain": false
+     "points": 52,
+     "line": "A quiet climb from 6th to the top. Patience paid.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "52 points, 13 above the league average",
+        1.5
+       ],
+       [
+        "13 points left on the bench",
+        -0.8
+       ],
+       [
+        "Took top spot in the league",
+        2.5
+       ],
+       [
+        "Up 1 place in the table, 2nd to 1st",
+        0.2
+       ]
+      ],
+      "total": 8.9,
+      "note": ""
+     }
     },
     {
-     "name": "Hishaan",
-     "rating": 9,
-     "points": 74,
-     "line": "Backed Barry alone. Brave, bold and vindicated. Insufferable until at least Tuesday.",
-     "plain": false
-    },
-    {
-     "name": "Inesh",
+     "name": "Bella",
      "rating": 8,
-     "points": 63,
-     "line": "Tzolakis for 6 points. A goalkeeper nobody else fancied came good.",
-     "plain": false
-    },
-    {
-     "name": "Marcel",
-     "rating": 7,
-     "points": 74,
-     "line": "Silva and Isak in, and a climb back to 13th. Transfers did the job.",
-     "plain": false
+     "points": 57,
+     "line": "Anderson came good for nobody else. Climbing out of the basement takes nerve like that.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "57 points, 18 above the league average",
+        2.0
+       ],
+       [
+        "Captain Haaland: 6 points (captains here averaged 4)",
+        0.4
+       ],
+       [
+        "Transfers: new players +4 points on the ones sold",
+        0.7
+       ],
+       [
+        "Up 1 place in the table, 26th to 25th",
+        0.2
+       ],
+       [
+        "Triple Captain worth 2 points extra",
+        -0.5
+       ]
+      ],
+      "total": 8.3,
+      "note": ""
+     }
     },
     {
      "name": "Amit",
-     "rating": 7,
-     "points": 69,
-     "line": "Dewsbury-Hall was a lone punt that came off. Nice bit of independent thinking.",
-     "plain": false
+     "rating": 8,
+     "points": 49,
+     "line": "Bench Boost and Van Hecke both landed. Rohan bought him too, so no gloating.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "49 points, 10 above the league average",
+        1.1
+       ],
+       [
+        "Transfers: new players +5 points on the ones sold",
+        0.8
+       ],
+       [
+        "Up 1 place in the table, 9th to 8th",
+        0.2
+       ],
+       [
+        "Bench Boost worth 18 points",
+        0.5
+       ]
+      ],
+      "total": 8.1,
+      "note": ""
+     }
     },
     {
-     "name": "Sunil",
+     "name": "Sahil",
      "rating": 7,
-     "points": 68,
-     "line": "Evanilson at captain was a sound call. 12 benched points stop it being a great one.",
-     "plain": false
+     "points": 45,
+     "line": "Lewis-Potter was a lone pick and he rewarded the faith. Up to 9th.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "45 points, 6 above the league average",
+        0.7
+       ],
+       [
+        "Up 3 places in the table, 12th to 9th",
+        0.5
+       ]
+      ],
+      "total": 6.7,
+      "note": ""
+     }
     },
     {
-     "name": "Chandru",
+     "name": "Vanessa",
      "rating": 7,
-     "points": 67,
-     "line": "23 points benched. Fix that and the top is in reach again.",
-     "plain": false
-    },
-    {
-     "name": "Prem",
-     "rating": 7,
-     "points": 67,
-     "line": "Quiet, steady, and still creeping up on Rohan. Watch this space.",
-     "plain": false
-    },
-    {
-     "name": "Rajiv",
-     "rating": 7,
-     "points": 65,
-     "line": "Konsa captain, alone. The idea was fine. The bench ruined it.",
-     "plain": false
-    },
-    {
-     "name": "Nikhil",
-     "rating": 6,
-     "points": 73,
-     "line": "5 weeks above average. Still only one point of cushion at the top.",
-     "plain": false
+     "points": 43,
+     "line": "Ajayi was a private punt that paid. Still parked mid-table, 15th.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "43 points, 4 above the league average",
+        0.5
+       ],
+       [
+        "Transfers: new players +4 points on the ones sold",
+        0.7
+       ]
+      ],
+      "total": 6.7,
+      "note": ""
+     }
     },
     {
      "name": "Naresh",
      "rating": 6,
-     "points": 64,
-     "line": "Isak and Groß in, and a third straight week above average. Sneaky progress.",
-     "plain": false
-    },
-    {
-     "name": "Poonam",
-     "rating": 6,
-     "points": 62,
-     "line": "Evanilson captain brought 18. Slightly under average, but a respectable shout.",
-     "plain": false
-    },
-    {
-     "name": "Pishu",
-     "rating": 6,
-     "points": 58,
-     "line": "N.Jackson as sole captain returned 22. Lone-wolf captaincy at its best.",
-     "plain": false
-    },
-    {
-     "name": "Deepak",
-     "rating": 5,
-     "points": 73,
-     "line": "Barry in, 17 benched. A big week left some points behind.",
-     "plain": false
+     "points": 50,
+     "line": "Wildcard played, Rocket won. 17 on the bench is the only blot.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "50 points, 11 above the league average",
+        1.2
+       ],
+       [
+        "17 points left on the bench",
+        -1.5
+       ],
+       [
+        "Up 4 places in the table, 18th to 14th",
+        0.5
+       ]
+      ],
+      "total": 5.7,
+      "note": ""
+     }
     },
     {
      "name": "Ravi Bhojwani",
+     "rating": 6,
+     "points": 44,
+     "line": "Slow climb out of the bottom end continues. Another step up from 25th.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "44 points, 5 above the league average",
+        0.6
+       ],
+       [
+        "Up 1 place in the table, 24th to 23rd",
+        0.2
+       ]
+      ],
+      "total": 6.3,
+      "note": ""
+     }
+    },
+    {
+     "name": "Rohan",
+     "rating": 6,
+     "points": 44,
+     "line": "Van Hecke and N.Jackson in, Konsa and João Pedro out. Transfer Genius, no argument.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "44 points, 5 above the league average",
+        0.6
+       ],
+       [
+        "Transfers: new players +7 points on the ones sold",
+        1.0
+       ],
+       [
+        "11 points left on the bench",
+        -0.8
+       ],
+       [
+        "Down 1 place in the table, 6th to 7th",
+        -0.2
+       ]
+      ],
+      "total": 6.1,
+      "note": ""
+     }
+    },
+    {
+     "name": "Inesh",
+     "rating": 6,
+     "points": 43,
+     "line": "Above average, though a season low. The slide from 16th needs stopping.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "43 points, 4 above the league average",
+        0.5
+       ],
+       [
+        "Down 1 place in the table, 18th to 19th",
+        -0.2
+       ]
+      ],
+      "total": 5.8,
+      "note": ""
+     }
+    },
+    {
+     "name": "Ravi Mahtani",
      "rating": 5,
-     "points": 64,
-     "line": "Bench Boost played, still 24th in the table. Chip came too late to rescue anything.",
-     "plain": false
+     "points": 45,
+     "line": "Wildcard week with a huge bench. Araujo's 6 was a lone shout.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "45 points, 6 above the league average",
+        0.7
+       ],
+       [
+        "26 points left on the bench",
+        -1.5
+       ]
+      ],
+      "total": 4.7,
+      "note": ""
+     }
     },
     {
-     "name": "Sahil",
-     "rating": 4,
-     "points": 59,
-     "line": "Down to 12th. A drift downwards that needs arresting before it becomes a habit.",
-     "plain": false
-    },
-    {
-     "name": "Vanessa",
-     "rating": 4,
-     "points": 59,
-     "line": "B.Fernandes came good, and nobody else owns him. Cheers for the lone ranger.",
-     "plain": false
+     "name": "Hishaan",
+     "rating": 5,
+     "points": 39,
+     "line": "On the average, but 3 places lost. Free Fall hurts even when level.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "Down 3 places in the table, 15th to 18th",
+        -0.5
+       ]
+      ],
+      "total": 5.0,
+      "note": ""
+     }
     },
     {
      "name": "Aashiv",
+     "rating": 5,
+     "points": 34,
+     "line": "Vuskovic bought, zero returned. 4th week below average and counting.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "34 points, 5 below the league average",
+        -0.6
+       ],
+       [
+        "Transfers: new players +5 points on the ones sold",
+        0.8
+       ],
+       [
+        "12 points left on the bench",
+        -0.8
+       ]
+      ],
+      "total": 4.9,
+      "note": ""
+     }
+    },
+    {
+     "name": "Poonam",
      "rating": 4,
-     "points": 57,
-     "line": "Third week below average. The slide from the top 6 is now a habit.",
-     "plain": false
+     "points": 39,
+     "line": "A.Becker was a private pick that paid. The bench cost more.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "13 points left on the bench",
+        -0.8
+       ],
+       [
+        "Down 2 places in the table, 14th to 16th",
+        -0.3
+       ]
+      ],
+      "total": 4.4,
+      "note": ""
+     }
     },
     {
-     "name": "Bella",
+     "name": "Chandru",
      "rating": 4,
-     "points": 55,
-     "line": "8 under average with nothing to hide behind. A week to forget.",
-     "plain": false
+     "points": 35,
+     "line": "Once led the table alone. Slid to 6th.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "35 points, 4 below the league average",
+        -0.4
+       ],
+       [
+        "12 points left on the bench",
+        -0.8
+       ],
+       [
+        "Down 1 place in the table, 5th to 6th",
+        -0.2
+       ]
+      ],
+      "total": 4.1,
+      "note": ""
+     }
     },
     {
-     "name": "Sunny",
-     "rating": 3,
-     "points": 63,
-     "line": "Rice cost a hit, and the hit won the Transfer Flop. A pricey lesson.",
-     "plain": false
+     "name": "Nikhil",
+     "rating": 4,
+     "points": 34,
+     "line": "Lost the lead on the season's worst week. This one will sting.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "34 points, 5 below the league average",
+        -0.6
+       ],
+       [
+        "Lost top spot",
+        -1.0
+       ],
+       [
+        "Down 1 place in the table, 1st to 2nd",
+        -0.2
+       ]
+      ],
+      "total": 3.7,
+      "note": ""
+     }
     },
     {
-     "name": "Lakshay",
-     "rating": 3,
-     "points": 57,
-     "line": "Rayan, Raya and Barry in. 19 on the bench. A busy week, to little effect.",
-     "plain": false
+     "name": "Sunil",
+     "rating": 4,
+     "points": 33,
+     "line": "Slipped back a place to 11th after a brief rise.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "33 points, 6 below the league average",
+        -0.7
+       ],
+       [
+        "10 points left on the bench",
+        -0.8
+       ],
+       [
+        "Down 1 place in the table, 10th to 11th",
+        -0.2
+       ]
+      ],
+      "total": 3.8,
+      "note": ""
+     }
     },
     {
-     "name": "Vinesh",
+     "name": "Ravin",
+     "rating": 4,
+     "points": 28,
+     "line": "28 points, 11 below the league average.",
+     "plain": true,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "28 points, 11 below the league average",
+        -1.2
+       ],
+       [
+        "14 points left on the bench",
+        -0.8
+       ],
+       [
+        "Up 1 place in the table, 4th to 3rd",
+        0.2
+       ]
+      ],
+      "total": 3.7,
+      "note": ""
+     }
+    },
+    {
+     "name": "Prem",
+     "rating": 4,
+     "points": 27,
+     "line": "27 points, 12 below the league average.",
+     "plain": true,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "27 points, 12 below the league average",
+        -1.3
+       ],
+       [
+        "Down 3 places in the table, 7th to 10th",
+        -0.5
+       ]
+      ],
+      "total": 3.7,
+      "note": ""
+     }
+    },
+    {
+     "name": "Deepak",
+     "rating": 4,
+     "points": 24,
+     "line": "Out of the Gold spots and into the Doghouse. Fewest points of the week.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "24 points, 15 below the league average",
+        -1.7
+       ],
+       [
+        "Down 2 places in the table, 3rd to 5th",
+        -0.3
+       ]
+      ],
+      "total": 3.5,
+      "note": ""
+     }
+    },
+    {
+     "name": "Marcel",
      "rating": 3,
-     "points": 55,
-     "line": "Another week near the foot of the table. Getting comfortable down there.",
-     "plain": false
+     "points": 34,
+     "line": "Wrong 11 picked, 18 points left behind.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "34 points, 5 below the league average",
+        -0.6
+       ],
+       [
+        "18 points left on the bench",
+        -1.5
+       ]
+      ],
+      "total": 3.4,
+      "note": ""
+     }
+    },
+    {
+     "name": "Rajiv",
+     "rating": 3,
+     "points": 32,
+     "line": "22 benched points. That's a lineup problem, not a luck problem.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "32 points, 7 below the league average",
+        -0.8
+       ],
+       [
+        "22 points left on the bench",
+        -1.5
+       ],
+       [
+        "Up 1 place in the table, 22nd to 21st",
+        0.2
+       ]
+      ],
+      "total": 3.4,
+      "note": ""
+     }
+    },
+    {
+     "name": "Pishu",
+     "rating": 3,
+     "points": 30,
+     "line": "Sold Belloumi, who scored. A season low and the one that got away.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "30 points, 9 below the league average",
+        -1.0
+       ],
+       [
+        "Transfers: new players -6 points on the ones sold",
+        -1.0
+       ],
+       [
+        "10 points left on the bench",
+        -0.8
+       ]
+      ],
+      "total": 2.7,
+      "note": ""
+     }
     },
     {
      "name": "Alia",
      "rating": 3,
-     "points": 50,
-     "line": "6th week below average. Better than last week, but the streak lives on.",
-     "plain": false
+     "points": 29,
+     "line": "7 weeks below average. Still waiting for the bounce.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "29 points, 10 below the league average",
+        -1.1
+       ],
+       [
+        "14 points left on the bench",
+        -0.8
+       ],
+       [
+        "Down 1 place in the table, 25th to 26th",
+        -0.2
+       ]
+      ],
+      "total": 3.4,
+      "note": ""
+     }
     },
     {
-     "name": "Ravin",
-     "rating": 2,
-     "points": 57,
-     "line": "Transfer Genius and 4th place in one week. Football can be cruel.",
-     "plain": false
+     "name": "Vinesh",
+     "rating": 3,
+     "points": 29,
+     "line": "Slid every week lately, now 24th.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "29 points, 10 below the league average",
+        -1.1
+       ],
+       [
+        "18 points left on the bench",
+        -1.5
+       ],
+       [
+        "Down 1 place in the table, 23rd to 24th",
+        -0.2
+       ]
+      ],
+      "total": 2.7,
+      "note": ""
+     }
     },
     {
-     "name": "Rohan",
-     "rating": 2,
-     "points": 51,
-     "line": "4 weeks ago Rohan was third. The captaincy king needs a new trick.",
-     "plain": false
-    },
-    {
-     "name": "Ravi Mahtani",
-     "rating": 2,
-     "points": 47,
-     "line": "Worst week of the season, and the Wooden Spoon to prove it. Vanessa will be delighted.",
-     "plain": false
+     "name": "Lakshay",
+     "rating": 3,
+     "points": 27,
+     "line": "27 points, 12 below the league average.",
+     "plain": true,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "27 points, 12 below the league average",
+        -1.3
+       ],
+       [
+        "12 points left on the bench",
+        -0.8
+       ]
+      ],
+      "total": 3.4,
+      "note": ""
+     }
     }
    ],
    "editor": [
     {
-     "item": "losers:2",
+     "item": "big_picture",
      "reason": "fresh: copies an example or an earlier line",
-     "before": "Konsa and N.Jackson arrived and delivered. Then 19 points sat on the bench. Won the transfer award and lost the top spot.",
+     "before": "The crown has changed hands 4 times this season, and Matt now holds it. Nikhil led for one week, then had his worst week of the season. A steady 4 weeks above average got Matt here. Nikhil has the nerve test next.",
      "after": null,
      "still": "fresh: copies an example or an earlier line"
     },
     {
-     "item": "rating:Aashiv",
+     "item": "decision_of_the_week",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Rajiv picked the wrong 11 and left 22 points on the bench. That's the biggest swing in the league after Ravi Mahtani's. It's a costly week for Rajiv, and the lineup needs another look.",
+     "after": null,
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "winners:1",
+     "reason": "numbers: 5 numbers, at most 2",
+     "before": "4 weeks above the league average, climbing 6th, 5th, 2nd, 1st. That's no fluke. Matt didn't need a big haul, just consistency.",
+     "after": "4 straight weeks above the league average. No fireworks, just a side that kept ticking until the crown came free."
+    },
+    {
+     "item": "winners:2",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Anderson scored 10 and nobody else here owned him. That's a proper punt. Bella has been stuck near the foot of the table, so this is a welcome rise.",
+     "after": "Anderson scored 10 and no other manager here started him. A proper punt, and the Triple Captain made it sweeter."
+    },
+    {
+     "item": "losers:0",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Worst week of the season so far. The 12 points left on the bench make it hurt more. Lakshay needs a reset.",
+     "after": null,
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "losers:1",
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "3 weeks below average now, and the slide from 18th to 24th is clear. Tough run. A good week would turn it round.",
+     "after": null,
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "rating:Sunny",
+     "reason": "numbers: 4 numbers, at most 1; fresh: copies an example or an earlier line",
+     "before": "8th, 7th, 8th, now 4th. Belloumi was a lone punt that paid off.",
+     "after": "Belloumi was Sunny's secret and it paid. The Gold spots beckon."
+    },
+    {
+     "item": "rating:Poonam",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "A.Becker was a lone pick for 7 points. 13 benched ruined it.",
+     "after": "A.Becker was a private pick that paid. The bench cost more."
+    },
+    {
+     "item": "rating:Chandru",
+     "reason": "numbers: 3 numbers, at most 1; fresh: copies an example or an earlier line",
+     "before": "Once 2nd, now 6th over 4 weeks. Worst week of the season didn't help.",
+     "after": "Once led the table alone. Slid to 6th."
+    },
+    {
+     "item": "rating:Sunil",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Worst week of the season, and 10 sat on the bench. Shaky.",
+     "after": "Slipped back a place to 11th after a brief rise."
+    },
+    {
+     "item": "rating:Ravin",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Third place intact, but this was the worst week of the season so far.",
+     "after": null,
+     "still": "true: numbers not in the sheet ['39']"
+    },
+    {
+     "item": "rating:Prem",
      "reason": "numbers: 3 numbers, at most 1",
-     "before": "3 weeks below average, sliding from 6th to 11th. Time to stop the rot.",
-     "after": "Third week below average. The slide from the top 6 is now a habit."
+     "before": "Free Fall winner. Slid from 7th down to 10th in 4 weeks.",
+     "after": null,
+     "still": "fresh: copies an example or an earlier line"
     },
     {
      "item": "rating:Vinesh",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "8 below average, still 23rd. The bottom end is getting comfortable.",
-     "after": "Another week near the foot of the table. Getting comfortable down there."
-    },
-    {
-     "item": "rating:Alia",
-     "reason": "true: numbers not in the sheet ['42']; numbers: 3 numbers, at most 1",
-     "before": "6 weeks below average, but 50 beats 42. Baby steps count.",
-     "after": "6th week below average. Better than last week, but the streak lives on."
-    },
-    {
-     "item": "rating:Rohan",
      "reason": "numbers: 3 numbers, at most 1",
-     "before": "Slipping from 3rd to 6th over 4 weeks. The captaincy king needs a new trick.",
-     "after": "4 weeks ago Rohan was third. The captaincy king needs a new trick."
+     "before": "18 on the bench and a slide from 18th to 24th. Needs a reset.",
+     "after": "Slid every week lately, now 24th."
+    },
+    {
+     "item": "rating:Lakshay",
+     "reason": "empty",
+     "before": "",
+     "after": null,
+     "still": "true: numbers not in the sheet ['2']; numbers: 2 numbers, at most 1"
     },
     {
      "item": "rating:Matt",
-     "reason": "fresh: \"cherry on a Bench Boost cake\" is a stock phrase.",
-     "before": "Justin, started by nobody else, was the cherry on a Bench Boost cake.",
-     "after": "Justin, started by nobody else, was a nice extra on top of a Bench Boost."
+     "reason": "fresh: \"above\" is already in their verdict above; make a different point",
+     "before": "4 weeks above average and a first spell on top. The quiet route works.",
+     "after": "A quiet climb from 6th to the top. Patience paid."
     },
     {
-     "item": "rating:Nikhil",
-     "reason": "kind: \"Harsh\" is a verdict on the lead, not savage; not a failure.",
-     "before": "5 weeks above average, and still the lead is down to a point. Harsh.",
-     "after": "5 weeks above average. Still only one point of cushion at the top."
+     "item": "rating:Bella",
+     "reason": "fresh: \"anderson\" is already in their verdict above; make a different point",
+     "before": "Anderson came good for nobody else. Climbing out of the basement takes nerve like that.",
+     "after": "(kept: the rewrite was worse)",
+     "still": "fresh: copies an example or an earlier line"
     },
     {
-     "item": "rating:Ravi Mahtani",
-     "reason": "fun: \"17th and sinking\" reads as stats filler with no joke or sting.",
-     "before": "Worst week of the season, and the table shows it. 17th and sinking.",
-     "after": "Worst week of the season, and the Wooden Spoon to prove it. Vanessa will be delighted."
+     "item": "rating:Alia",
+     "reason": "fresh: \"average\" is already in their verdict above; make a different point",
+     "before": "7 weeks below average. Still waiting for the bounce.",
+     "after": "(kept: the rewrite was worse)",
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "standfirst",
+     "reason": "true: says Nikhil's lead lasted one week, but SHEET shows he led GW8-10; 'one week' is only the latest run, so it is misleading.",
+     "before": "Nikhil's lead lasted one week. Matt now sits 17 clear while 22 armbands on Haaland returned next to nothing.",
+     "after": null,
+     "still": "numbers: 3 numbers, at most 2"
+    },
+    {
+     "item": "one_to_watch",
+     "reason": "fresh: opens with a stock 'One good week could' construction and misses the title race story.",
+     "before": "Rajiv and Lakshay are level on the Tin Pot line, with nothing between them. One good week could split them. One more bench blunder could sink either.",
+     "after": "(kept: the rewrite was worse)",
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "losers:2",
+     "reason": "true: claims 'the lowest score of the run' and 'deepening' are unsupported as stated beyond Alia's streak; the 7-week streak is Alia, not this loser.",
+     "before": "7 weeks below average, and the lowest score of the run. The slump is deepening. A turning point is overdue, and the next week is a good place to start.",
+     "after": "7 weeks in a row below the league average. Gentle one, but the 14 points on the bench won't help the mood."
+    },
+    {
+     "item": "rating:Amit",
+     "reason": "fun: reads like a stats summary with no sting or verdict beyond 'tidy'.",
+     "before": "Van Hecke arrived and the bench boost paid. Smart, tidy week.",
+     "after": "Bench Boost and Van Hecke both landed. Rohan bought him too, so no gloating."
+    },
+    {
+     "item": "rating:Vanessa",
+     "reason": "true: 'steady climb' contradicts SHEET, which shows her flat at 14th-15th.",
+     "before": "Ajayi was a private punt for 6 points. Small gains, steady climb.",
+     "after": "Ajayi was a private punt that paid. Still parked mid-table, 15th."
+    },
+    {
+     "item": "rating:Deepak",
+     "reason": "true: 'Haaland didn't help' is unsupported; Deepak's captain is not shown as Haaland's outcome beyond the general fact.",
+     "before": "Dropped out of the Gold spots on the Doghouse score. Haaland didn't help.",
+     "after": "Out of the Gold spots and into the Doghouse. Fewest points of the week."
+    },
+    {
+     "item": "rating:Marcel",
+     "reason": "true: 'Right players owned, wrong ones picked' is an unsupported claim about ownership not in SHEET.",
+     "before": "18 points benched. Right players owned, wrong ones picked.",
+     "after": "Wrong 11 picked, 18 points left behind."
     }
    ],
    "usage": {
-    "in": 29355,
-    "out": 2340,
+    "in": 31631,
+    "out": 6542,
     "calls": 3
    },
-   "sent_back": 8,
+   "sent_back": 24,
    "unknown_names": [],
    "top_3": [
     {
-     "name": "Nikhil",
-     "total": 723,
+     "name": "Matt",
+     "total": 774,
      "rank": 1
     },
     {
-     "name": "Matt",
-     "total": 722,
+     "name": "Nikhil",
+     "total": 757,
      "rank": 2
     },
     {
-     "name": "Deepak",
-     "total": 708,
+     "name": "Ravin",
+     "total": 735,
      "rank": 3
     }
    ],
-   "week_average": 63,
-   "tries": 2,
-   "wsig": "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
-   "wtries": 3,
-   "wtried": [
-    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)"
-   ],
-   "sig": "ee851c74a979",
-   "resigned": true,
-   "bd": "mismatch",
-   "published": "2026-11-21T11:22:28Z"
+   "week_average": 39,
+   "not_rated": [],
+   "tries": 1,
+   "sig": "986334780213",
+   "resigned": false,
+   "bd": "ok",
+   "published": "2026-11-24T14:28:13Z"
   },
   "gaffer_backfill_tries": {
    "1": 1,
@@ -12422,19 +13698,23 @@
    ]
   },
   "preview": {
-   "headline": "Gameweek 11: the summit squeeze tightens",
+   "headline": "Gameweek 12: Armbands, injuries and chips loaded",
    "points": [
     {
      "label": "Title race",
-     "text": "Nikhil leads Matt by just 1 point, with Deepak 14 further back. One big week could flip the top spot."
+     "text": "Matt leads Nikhil by 17 points, with Ravin 39 back. A Haaland blank again would keep the gap in play for the chasers."
     },
     {
      "label": "Armband dilemma",
-     "text": "Haaland has been captained by 15 managers but returned just 2. Brave captains like Barry's 32 could decide the week."
+     "text": "Haaland blanked for 22 managers. N.Jackson was picked by 3 managers, including Rajiv, Ravin and Vinesh, so the captaincy call matters again."
+    },
+    {
+     "label": "Injury sweat",
+     "text": "Raya is 50% to play and 13 of you own him. Hall is 75% and Davis is 75% with 2 owners."
     }
    ],
-   "gw": 11,
-   "ts": "2026-11-21T09:45:46Z"
+   "gw": 12,
+   "ts": "2026-11-24T14:28:13Z"
   },
   "column": {
    "headline": "Matt's Bench Boost squeezes the summit as Nikhil holds on",
@@ -12469,9 +13749,9 @@
    {
     "gw": 11,
     "day": "2026-11-24",
-    "title": "Matt Takes the Crown",
-    "text": "Matt has flipped the race, moving 17 points clear of Nikhil, who led by 1 last week. Matt has held the top spot for just one week, and Ravin sits 39 points back in third.",
-    "next": "Nikhil could hit back with a big week, or Matt could stretch his lead further."
+    "title": "Matt Seizes the Crown",
+    "text": "Matt has overturned Nikhil's one-point lead to go 17 clear on 774 to 757, with Ravin third 39 points off the top. The crown has now changed hands 4 times this season, and Matt is top for the first time in this run.",
+    "next": "Nikhil could fight back, but Ravin is 39 points adrift and needs a big swing."
    }
   ],
   "rivalry:4922092-5682768": [
@@ -12485,9 +13765,9 @@
    {
     "gw": 11,
     "day": "2026-11-24",
-    "title": "Vanessa's Narrow Lead",
-    "text": "Vanessa leads Ravi Mahtani by 3 points, down from 5 last week. The pair have swapped places 7 times this season, so neither has ever held a clear grip.",
-    "next": "Ravi Mahtani could draw level or go ahead again if he wins the next week."
+    "title": "Vanessa's Lead Narrows",
+    "text": "Vanessa still leads Ravi Mahtani, but her advantage has shrunk from 5 points to 3 this week. The pair have swapped places 7 times this season, so the lead has never been secure.",
+    "next": "Ravi Mahtani could draw level if he keeps gaining on Vanessa."
    }
   ],
   "gold": [
@@ -12500,9 +13780,9 @@
    {
     "gw": 11,
     "day": "2026-11-24",
-    "title": "Sunny Grabs the Last Spot",
-    "text": "Sunny has taken the final Gold spot from Deepak, who now sits 2 points behind. Sunny has spent only 1 of the last 5 weeks in the zone, while Deepak has spent 4.",
-    "next": "Deepak could overtake Sunny for the last Gold place if he gains ground this week."
+    "title": "Sunny Snatches Gold",
+    "text": "Sunny has taken the last Gold spot from Deepak, who dropped out this week, leaving a 2-point gap between them. Sunny has spent just 1 of the last 5 weeks in the zone, while Deepak has spent 4.",
+    "next": "Deepak could fight back into the last Gold spot if Sunny's form dips."
    }
   ],
   "chase:4487775": [
@@ -12533,9 +13813,9 @@
    {
     "gw": 11,
     "day": "2026-11-24",
-    "title": "Alia's Lowest Point",
-    "text": "Alia has now finished below the league average for 7 weeks in a row. Her 29 points this week is the lowest of her run, down from 50 in GW10.",
-    "next": "A strong bounce-back week could end the streak, or the slump could run on longer."
+    "title": "Alia's Lowest Ebb",
+    "text": "Alia scored 29 this week, her lowest figure of the run, extending her streak below the league average to 7 weeks in a row. The slump is deepening rather than easing.",
+    "next": "Alia could snap out of it soon, or the streak could stretch further still."
    }
   ],
   "award:captain:3344797": [
@@ -12558,21 +13838,21 @@
   ]
  },
  "share": {
-  "key": "1ac1254582d1",
+  "key": "387cce393821",
   "gw": 11,
   "files": {
-   "week": "share/gw11-1ac1254582d1-week.png",
-   "motw": "share/gw11-1ac1254582d1-motw.png",
-   "genius": "share/gw11-1ac1254582d1-genius.png",
-   "rocket": "share/gw11-1ac1254582d1-rocket.png",
-   "bench": "share/gw11-1ac1254582d1-bench.png",
-   "flop": "share/gw11-1ac1254582d1-flop.png",
-   "gotaway": "share/gw11-1ac1254582d1-gotaway.png",
-   "fall": "share/gw11-1ac1254582d1-fall.png",
-   "spoon": "share/gw11-1ac1254582d1-spoon.png"
+   "week": "share/gw11-387cce393821-week.png",
+   "motw": "share/gw11-387cce393821-motw.png",
+   "genius": "share/gw11-387cce393821-genius.png",
+   "rocket": "share/gw11-387cce393821-rocket.png",
+   "bench": "share/gw11-387cce393821-bench.png",
+   "flop": "share/gw11-387cce393821-flop.png",
+   "gotaway": "share/gw11-387cce393821-gotaway.png",
+   "fall": "share/gw11-387cce393821-fall.png",
+   "spoon": "share/gw11-387cce393821-spoon.png"
   }
  },
- "phase": "live",
+ "phase": "between",
  "preview": {
   "gw": 11,
   "haul": 10,
@@ -13051,7 +14331,7 @@
       "Barry": 2,
       "Vuskovic": 0
      },
-     "rank": 11
+     "rank": 12
     }
    },
    "5474293": {
@@ -13374,7 +14654,7 @@
      "pts": {
       "Dewsbury-Hall": 2
      },
-     "rank": 21
+     "rank": 22
     }
    },
    "6159011": {
@@ -13819,7 +15099,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-24T14:10:13Z",
+  "ts": "2026-11-24T14:28:13Z",
   "issues": [],
   "page": [],
   "wording": [
