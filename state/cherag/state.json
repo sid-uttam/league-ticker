@@ -10617,15 +10617,6 @@
     "event_total": 34
    },
    {
-    "entry": 1273065,
-    "player_name": "Prathap Devadiga",
-    "entry_name": "Waka waka 11",
-    "rank": 7,
-    "last_rank": 9,
-    "total": 730,
-    "event_total": 36
-   },
-   {
     "entry": 4722308,
     "player_name": "Biswadeep Majumdar",
     "entry_name": "quadrupliraola",
@@ -10633,6 +10624,15 @@
     "last_rank": 7,
     "total": 730,
     "event_total": 31
+   },
+   {
+    "entry": 1273065,
+    "player_name": "Prathap Devadiga",
+    "entry_name": "Waka waka 11",
+    "rank": 7,
+    "last_rank": 9,
+    "total": 730,
+    "event_total": 36
    },
    {
     "entry": 1902223,
@@ -11049,15 +11049,6 @@
     "event_total": 46
    },
    {
-    "entry": 4134138,
-    "player_name": "Rishab Bajaj",
-    "entry_name": "Rishabs11",
-    "rank": 55,
-    "last_rank": 44,
-    "total": 680,
-    "event_total": 30
-   },
-   {
     "entry": 4683090,
     "player_name": "SHARAN R",
     "entry_name": "Shan FC",
@@ -11065,6 +11056,15 @@
     "last_rank": 48,
     "total": 680,
     "event_total": 32
+   },
+   {
+    "entry": 4134138,
+    "player_name": "Rishab Bajaj",
+    "entry_name": "Rishabs11",
+    "rank": 55,
+    "last_rank": 44,
+    "total": 680,
+    "event_total": 30
    },
    {
     "entry": 2932096,
@@ -11175,15 +11175,6 @@
     "event_total": 30
    },
    {
-    "entry": 2922453,
-    "player_name": "Abhishek Yerra",
-    "entry_name": "Ctrl + Alt + De Ligt",
-    "rank": 69,
-    "last_rank": 70,
-    "total": 665,
-    "event_total": 38
-   },
-   {
     "entry": 26707,
     "player_name": "Krishnaji Sanas",
     "entry_name": "Victorious Secrets",
@@ -11200,6 +11191,15 @@
     "last_rank": 72,
     "total": 665,
     "event_total": 39
+   },
+   {
+    "entry": 2922453,
+    "player_name": "Abhishek Yerra",
+    "entry_name": "Ctrl + Alt + De Ligt",
+    "rank": 69,
+    "last_rank": 70,
+    "total": 665,
+    "event_total": 38
    },
    {
     "entry": 4372346,
@@ -11355,15 +11355,6 @@
     "event_total": 43
    },
    {
-    "entry": 3389995,
-    "player_name": "Stephen Menezes",
-    "entry_name": "Goal Diggers",
-    "rank": 89,
-    "last_rank": 87,
-    "total": 641,
-    "event_total": 36
-   },
-   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -11371,6 +11362,15 @@
     "last_rank": 89,
     "total": 641,
     "event_total": 37
+   },
+   {
+    "entry": 3389995,
+    "player_name": "Stephen Menezes",
+    "entry_name": "Goal Diggers",
+    "rank": 89,
+    "last_rank": 87,
+    "total": 641,
+    "event_total": 36
    },
    {
     "entry": 2037953,
@@ -56459,15 +56459,6 @@
     "stat": "2 pts"
    },
    {
-    "key": "flop",
-    "title": "Transfer Flop",
-    "who": [
-     3794959
-    ],
-    "name": "Chander",
-    "stat": "-10 on the swap"
-   },
-   {
     "key": "gotaway",
     "title": "The One That Got Away",
     "who": [
@@ -60803,8 +60794,8 @@
    "1325491": 3,
    "13978": 5,
    "136653": 5,
-   "1273065": 7,
    "4722308": 7,
+   "1273065": 7,
    "1902223": 7,
    "2429776": 10,
    "3949616": 11,
@@ -60851,8 +60842,8 @@
    "248721": 52,
    "675013": 53,
    "4540238": 53,
-   "4134138": 55,
    "4683090": 55,
+   "4134138": 55,
    "2932096": 57,
    "48343": 57,
    "2868149": 59,
@@ -60865,9 +60856,9 @@
    "4632544": 66,
    "383029": 67,
    "2569620": 68,
-   "2922453": 69,
    "26707": 69,
    "4592187": 69,
+   "2922453": 69,
    "4372346": 72,
    "3086063": 72,
    "10615": 74,
@@ -60885,8 +60876,8 @@
    "174952": 86,
    "699330": 87,
    "8603432": 88,
-   "3389995": 88,
    "2723973": 88,
+   "3389995": 88,
    "2037953": 91,
    "3350036": 92,
    "5660348": 93,
@@ -60918,8 +60909,8 @@
    "1325491": "gold",
    "13978": "gold",
    "136653": "gold",
-   "1273065": "gold",
    "4722308": "gold",
+   "1273065": "gold",
    "1902223": "gold",
    "2429776": "silver",
    "3949616": "silver",
@@ -60966,8 +60957,8 @@
    "248721": null,
    "675013": null,
    "4540238": null,
-   "4134138": null,
    "4683090": null,
+   "4134138": null,
    "2932096": null,
    "48343": null,
    "2868149": null,
@@ -60980,9 +60971,9 @@
    "4632544": null,
    "383029": null,
    "2569620": null,
-   "2922453": null,
    "26707": null,
    "4592187": null,
+   "2922453": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
@@ -61000,8 +60991,8 @@
    "174952": null,
    "699330": null,
    "8603432": null,
-   "3389995": null,
    "2723973": null,
+   "3389995": null,
    "2037953": null,
    "3350036": null,
    "5660348": null,
@@ -61027,7 +61018,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-24T07:00:49Z",
+ "updated": "2026-11-24T07:11:46Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -67323,24 +67314,23 @@
   }
  },
  "share": {
-  "key": "c15dce46cab4",
+  "key": "54641b95a8f9",
   "gw": 11,
   "files": {
-   "week": "share/gw11-c15dce46cab4-week.png",
-   "motw": "share/gw11-c15dce46cab4-motw.png",
-   "captain": "share/gw11-c15dce46cab4-captain.png",
-   "genius": "share/gw11-c15dce46cab4-genius.png",
-   "rocket": "share/gw11-c15dce46cab4-rocket.png",
-   "bench": "share/gw11-c15dce46cab4-bench.png",
-   "armband": "share/gw11-c15dce46cab4-armband.png",
-   "flop": "share/gw11-c15dce46cab4-flop.png",
-   "gotaway": "share/gw11-c15dce46cab4-gotaway.png",
-   "fall": "share/gw11-c15dce46cab4-fall.png",
-   "spoon": "share/gw11-c15dce46cab4-spoon.png"
+   "week": "share/gw11-54641b95a8f9-week.png",
+   "motw": "share/gw11-54641b95a8f9-motw.png",
+   "captain": "share/gw11-54641b95a8f9-captain.png",
+   "genius": "share/gw11-54641b95a8f9-genius.png",
+   "rocket": "share/gw11-54641b95a8f9-rocket.png",
+   "bench": "share/gw11-54641b95a8f9-bench.png",
+   "armband": "share/gw11-54641b95a8f9-armband.png",
+   "gotaway": "share/gw11-54641b95a8f9-gotaway.png",
+   "fall": "share/gw11-54641b95a8f9-fall.png",
+   "spoon": "share/gw11-54641b95a8f9-spoon.png"
   }
  },
  "checks": {
-  "ts": "2026-11-24T07:00:49Z",
+  "ts": "2026-11-24T07:11:46Z",
   "issues": [],
   "page": [],
   "wording": [

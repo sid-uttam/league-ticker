@@ -3863,7 +3863,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-24T07:00:27Z",
+ "updated": "2026-11-24T07:11:20Z",
  "hist": {
   "key": "11:live",
   "data": {
@@ -14382,10 +14382,9 @@
     "key": "captain",
     "title": "Captain of the Week",
     "who": [
-     1474501,
-     3552160
+     1474501
     ],
-    "name": "Dinesh and Saurabh",
+    "name": "Dinesh",
     "stat": "10 pts"
    },
    {
@@ -14395,7 +14394,7 @@
      4841175,
      4922092
     ],
-    "name": "Maanav and Ravi",
+    "name": "Ravi and Maanav",
     "stat": "Up 5"
    },
    {
@@ -14411,10 +14410,10 @@
     "key": "flop",
     "title": "Transfer Flop",
     "who": [
-     1474501
+     363548
     ],
-    "name": "Dinesh",
-    "stat": "-7 on the swap"
+    "name": "Ahmad",
+    "stat": "0 pts from the new signing"
    },
    {
     "key": "gotaway",
@@ -14437,17 +14436,17 @@
   ]
  },
  "share": {
-  "key": "cbc0acc1a730",
+  "key": "abef6562681f",
   "gw": 11,
   "files": {
-   "week": "share/gw11-cbc0acc1a730-week.png",
-   "motw": "share/gw11-cbc0acc1a730-motw.png",
-   "captain": "share/gw11-cbc0acc1a730-captain.png",
-   "rocket": "share/gw11-cbc0acc1a730-rocket.png",
-   "bench": "share/gw11-cbc0acc1a730-bench.png",
-   "flop": "share/gw11-cbc0acc1a730-flop.png",
-   "gotaway": "share/gw11-cbc0acc1a730-gotaway.png",
-   "spoon": "share/gw11-cbc0acc1a730-spoon.png"
+   "week": "share/gw11-abef6562681f-week.png",
+   "motw": "share/gw11-abef6562681f-motw.png",
+   "captain": "share/gw11-abef6562681f-captain.png",
+   "rocket": "share/gw11-abef6562681f-rocket.png",
+   "bench": "share/gw11-abef6562681f-bench.png",
+   "flop": "share/gw11-abef6562681f-flop.png",
+   "gotaway": "share/gw11-abef6562681f-gotaway.png",
+   "spoon": "share/gw11-abef6562681f-spoon.png"
   }
  },
  "plot_log": {
@@ -15853,7 +15852,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-24T07:00:27Z",
+  "ts": "2026-11-24T07:11:20Z",
   "issues": [],
   "page": [],
   "wording": [

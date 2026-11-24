@@ -7639,7 +7639,7 @@
      1655993,
      2934546
     ],
-    "name": "Naresh and Sunny",
+    "name": "Sunny and Naresh",
     "stat": "Up 4"
    },
    {
@@ -7655,10 +7655,10 @@
     "key": "flop",
     "title": "Transfer Flop",
     "who": [
-     6279027
+     3350483
     ],
-    "name": "Pishu",
-    "stat": "-6 on the swap"
+    "name": "Aashiv",
+    "stat": "0 pts from the new signing"
    },
    {
     "key": "gotaway",
@@ -7676,7 +7676,7 @@
      3506595,
      4487775
     ],
-    "name": "Hishaan and Prem",
+    "name": "Prem and Hishaan",
     "stat": "Down 3"
    },
    {
@@ -10692,7 +10692,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-24T07:00:58Z",
+ "updated": "2026-11-24T07:12:00Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -12551,18 +12551,18 @@
   ]
  },
  "share": {
-  "key": "b8cb2422d673",
+  "key": "1ac1254582d1",
   "gw": 11,
   "files": {
-   "week": "share/gw11-b8cb2422d673-week.png",
-   "motw": "share/gw11-b8cb2422d673-motw.png",
-   "genius": "share/gw11-b8cb2422d673-genius.png",
-   "rocket": "share/gw11-b8cb2422d673-rocket.png",
-   "bench": "share/gw11-b8cb2422d673-bench.png",
-   "flop": "share/gw11-b8cb2422d673-flop.png",
-   "gotaway": "share/gw11-b8cb2422d673-gotaway.png",
-   "fall": "share/gw11-b8cb2422d673-fall.png",
-   "spoon": "share/gw11-b8cb2422d673-spoon.png"
+   "week": "share/gw11-1ac1254582d1-week.png",
+   "motw": "share/gw11-1ac1254582d1-motw.png",
+   "genius": "share/gw11-1ac1254582d1-genius.png",
+   "rocket": "share/gw11-1ac1254582d1-rocket.png",
+   "bench": "share/gw11-1ac1254582d1-bench.png",
+   "flop": "share/gw11-1ac1254582d1-flop.png",
+   "gotaway": "share/gw11-1ac1254582d1-gotaway.png",
+   "fall": "share/gw11-1ac1254582d1-fall.png",
+   "spoon": "share/gw11-1ac1254582d1-spoon.png"
   }
  },
  "phase": "live",
@@ -13812,7 +13812,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-24T07:00:58Z",
+  "ts": "2026-11-24T07:12:00Z",
   "issues": [],
   "page": [],
   "wording": [
