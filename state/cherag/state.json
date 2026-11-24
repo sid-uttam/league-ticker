@@ -11175,6 +11175,15 @@
     "event_total": 30
    },
    {
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
+    "rank": 69,
+    "last_rank": 72,
+    "total": 665,
+    "event_total": 39
+   },
+   {
     "entry": 2922453,
     "player_name": "Abhishek Yerra",
     "entry_name": "Ctrl + Alt + De Ligt",
@@ -11191,15 +11200,6 @@
     "last_rank": 60,
     "total": 665,
     "event_total": 26
-   },
-   {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
-    "rank": 69,
-    "last_rank": 72,
-    "total": 665,
-    "event_total": 39
    },
    {
     "entry": 4372346,
@@ -11238,15 +11238,6 @@
     "event_total": 26
    },
    {
-    "entry": 1737924,
-    "player_name": "Rajat Bhalla",
-    "entry_name": "Break all hell ⚽️",
-    "rank": 76,
-    "last_rank": 75,
-    "total": 656,
-    "event_total": 34
-   },
-   {
     "entry": 6830291,
     "player_name": "Karan P Nanda",
     "entry_name": "Justlikethat",
@@ -11254,6 +11245,15 @@
     "last_rank": 76,
     "total": 656,
     "event_total": 35
+   },
+   {
+    "entry": 1737924,
+    "player_name": "Rajat Bhalla",
+    "entry_name": "Break all hell ⚽️",
+    "rank": 76,
+    "last_rank": 75,
+    "total": 656,
+    "event_total": 34
    },
    {
     "entry": 438967,
@@ -11355,15 +11355,6 @@
     "event_total": 43
    },
    {
-    "entry": 3389995,
-    "player_name": "Stephen Menezes",
-    "entry_name": "Goal Diggers",
-    "rank": 89,
-    "last_rank": 87,
-    "total": 641,
-    "event_total": 36
-   },
-   {
     "entry": 2723973,
     "player_name": "Arnav Khamankar",
     "entry_name": "arnav3ggmu",
@@ -11371,6 +11362,15 @@
     "last_rank": 89,
     "total": 641,
     "event_total": 37
+   },
+   {
+    "entry": 3389995,
+    "player_name": "Stephen Menezes",
+    "entry_name": "Goal Diggers",
+    "rank": 89,
+    "last_rank": 87,
+    "total": 641,
+    "event_total": 36
    },
    {
     "entry": 2037953,
@@ -11427,15 +11427,6 @@
     "event_total": 45
    },
    {
-    "entry": 4905114,
-    "player_name": "Anuj Joglekar",
-    "entry_name": "Summer Tzolstis",
-    "rank": 97,
-    "last_rank": 87,
-    "total": 627,
-    "event_total": 22
-   },
-   {
     "entry": 8779992,
     "player_name": "Kartik Kak",
     "entry_name": "Top FC",
@@ -11445,13 +11436,13 @@
     "event_total": 41
    },
    {
-    "entry": 4616626,
-    "player_name": "Sanket Khandekar",
-    "entry_name": "KFA Xtreme",
-    "rank": 99,
-    "last_rank": 101,
-    "total": 626,
-    "event_total": 40
+    "entry": 4905114,
+    "player_name": "Anuj Joglekar",
+    "entry_name": "Summer Tzolstis",
+    "rank": 97,
+    "last_rank": 87,
+    "total": 627,
+    "event_total": 22
    },
    {
     "entry": 1967440,
@@ -11461,6 +11452,15 @@
     "last_rank": 95,
     "total": 626,
     "event_total": 28
+   },
+   {
+    "entry": 4616626,
+    "player_name": "Sanket Khandekar",
+    "entry_name": "KFA Xtreme",
+    "rank": 99,
+    "last_rank": 101,
+    "total": 626,
+    "event_total": 40
    },
    {
     "entry": 1474501,
@@ -60865,15 +60865,15 @@
    "4632544": 66,
    "383029": 67,
    "2569620": 68,
+   "4592187": 69,
    "2922453": 69,
    "26707": 69,
-   "4592187": 69,
    "4372346": 72,
    "3086063": 72,
    "10615": 74,
    "4314690": 75,
-   "1737924": 76,
    "6830291": 76,
+   "1737924": 76,
    "438967": 76,
    "44532": 79,
    "11673": 79,
@@ -60885,18 +60885,18 @@
    "174952": 86,
    "699330": 87,
    "8603432": 88,
-   "3389995": 88,
    "2723973": 88,
+   "3389995": 88,
    "2037953": 91,
    "3350036": 92,
    "5660348": 93,
    "3298199": 93,
    "5734029": 95,
    "3794959": 96,
-   "4905114": 97,
    "8779992": 97,
-   "4616626": 99,
+   "4905114": 97,
    "1967440": 99,
+   "4616626": 99,
    "1474501": 101,
    "1497357": 102,
    "358907": 103,
@@ -60980,15 +60980,15 @@
    "4632544": null,
    "383029": null,
    "2569620": null,
+   "4592187": null,
    "2922453": null,
    "26707": null,
-   "4592187": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
    "4314690": null,
-   "1737924": null,
    "6830291": null,
+   "1737924": null,
    "438967": null,
    "44532": null,
    "11673": null,
@@ -61000,18 +61000,18 @@
    "174952": null,
    "699330": null,
    "8603432": null,
-   "3389995": null,
    "2723973": null,
+   "3389995": null,
    "2037953": null,
    "3350036": null,
    "5660348": null,
    "3298199": null,
    "5734029": null,
    "3794959": null,
-   "4905114": null,
    "8779992": null,
-   "4616626": null,
+   "4905114": null,
    "1967440": null,
+   "4616626": null,
    "1474501": null,
    "1497357": null,
    "358907": null,
@@ -61027,7 +61027,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-23T23:53:11Z",
+ "updated": "2026-11-24T00:04:10Z",
  "ai": {
   "briefings": {},
   "key": "11:live",
@@ -67340,7 +67340,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-23T23:53:11Z",
+  "ts": "2026-11-24T00:04:10Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -67676,7 +67676,7 @@
    "427": 7.8,
    "124": 6.3,
    "154": 9.8,
-   "68": 6.7,
+   "68": 6.8,
    "411": 15.8,
    "249": 5.7,
    "79": 6.6,
@@ -67739,8 +67739,8 @@
    "569": 5.8,
    "332": 4.5,
    "321": 4.4,
-   "277": 4.1,
-   "183": 4.9,
+   "277": 4.0,
+   "183": 5.0,
    "261": 5.4,
    "651": 4.5,
    "251": 4.0,
@@ -68794,6 +68794,27 @@
     "el": 156,
     "kind": "surge",
     "net": -25009
+   },
+   {
+    "ts": "2026-11-24T00:04:10Z",
+    "el": 68,
+    "kind": "price",
+    "change": 0.1,
+    "price": 6.8
+   },
+   {
+    "ts": "2026-11-24T00:04:10Z",
+    "el": 183,
+    "kind": "price",
+    "change": 0.1,
+    "price": 5.0
+   },
+   {
+    "ts": "2026-11-24T00:04:10Z",
+    "el": 277,
+    "kind": "price",
+    "change": -0.1,
+    "price": 4.0
    }
   ]
  },
