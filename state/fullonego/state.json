@@ -10784,7 +10784,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-25T19:40:23Z",
+ "updated": "2026-11-25T20:10:23Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms in as Sukrut keeps the top spot",
@@ -12654,7 +12654,7 @@
    "110": "a|None|",
    "599": "a|None|",
    "212": "a|None|",
-   "423": "d|75|Unspecified injury - 75% chance of playing",
+   "423": "a|100|",
    "350": "a|None|",
    "356": "a|100|",
    "15": "a|None|",
@@ -12713,7 +12713,8 @@
    "88": "a|None|"
   },
   "changed": {
-   "367": "2026-11-25T12:37:30Z"
+   "367": "2026-11-25T12:37:30Z",
+   "423": "2026-11-25T20:10:23Z"
   },
   "price": {
    "496": 4.4,
@@ -12877,11 +12878,19 @@
     "el": 579,
     "kind": "surge",
     "net": 25026
+   },
+   {
+    "ts": "2026-11-25T20:10:23Z",
+    "el": 423,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
    }
   ]
  },
  "checks": {
-  "ts": "2026-11-25T19:40:23Z",
+  "ts": "2026-11-25T20:10:23Z",
   "issues": [],
   "page": [],
   "wording": [
