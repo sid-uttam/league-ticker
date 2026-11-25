@@ -11383,7 +11383,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-25T05:35:21Z",
+ "updated": "2026-11-25T06:05:21Z",
  "ai": {
   "briefings": {
    "3029346": "You top the table on 774 after a 52-point week, with Nikhil 17 behind. Watch the injury news on your squad, and be wary of Ravin and Sunny closing in.",
@@ -15099,7 +15099,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-25T05:35:21Z",
+  "ts": "2026-11-25T06:05:21Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -15339,7 +15339,7 @@
    "165": "11:down",
    "79": "11:up",
    "236": "10:up",
-   "388": "10:down",
+   "388": "11:down",
    "449": "11:down",
    "426": "10:down",
    "464": "10:down",
@@ -16057,6 +16057,12 @@
     "kind": "price",
     "change": 0.1,
     "price": 5.7
+   },
+   {
+    "ts": "2026-11-25T06:05:21Z",
+    "el": 388,
+    "kind": "surge",
+    "net": -25053
    }
   ]
  },
