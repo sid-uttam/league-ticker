@@ -10784,7 +10784,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-25T22:10:33Z",
+ "updated": "2026-11-25T22:40:22Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms in as Sukrut keeps the top spot",
@@ -12862,7 +12862,8 @@
    "367": "11:down",
    "388": "11:down",
    "368": "11:up",
-   "579": "11:up"
+   "579": "11:up",
+   "464": "11:down"
   },
   "log": [
    {
@@ -12886,11 +12887,17 @@
     "status": "a",
     "chance": 100,
     "news": ""
+   },
+   {
+    "ts": "2026-11-25T22:40:22Z",
+    "el": 464,
+    "kind": "surge",
+    "net": -25068
    }
   ]
  },
  "checks": {
-  "ts": "2026-11-25T22:10:33Z",
+  "ts": "2026-11-25T22:40:22Z",
   "issues": [],
   "page": [],
   "wording": [
