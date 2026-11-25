@@ -3,9 +3,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex">
 <title>MicroManager · Every mini-league has a story</title>
-<meta name="description" content="A daily show for your Fantasy Premier League mini-league, and a game plan for every manager in it. Built from your league's own FPL data. One link, no app.">
+<meta name="description" content="A weekly show for your Fantasy Premier League mini-league, a game plan for every manager in it, and the Gaffer rating everyone after each gameweek. One link, no app.">
 <meta property="og:title" content="MicroManager · Every mini-league has a story. Now someone's telling yours.">
-<meta property="og:description" content="A daily show for your FPL mini-league, a game plan for every manager in it, and the Gaffer rating everyone out of 10 after each gameweek.">
+<meta property="og:description" content="A weekly show for your FPL mini-league, a game plan for every manager in it, and the Gaffer rating everyone out of 10 after each gameweek.">
 <meta name="theme-color" content="#15171C">
 <script>
 // Links shared before Shoaru's Revenge moved to its own address carried ?from=...; those still go there.
@@ -98,6 +98,15 @@ h1 .now{display:block;margin-top:10px;font-size:.56em;line-height:1;color:var(--
 .me .lbl{font-size:10.5px;font-weight:800;letter-spacing:.14em;color:#8A6A10;text-transform:uppercase}
 .me .pts{font-weight:700;font-size:17px;line-height:1.25}
 .me .why{display:inline-block;margin-top:5px;font-size:12px;font-weight:700;color:#8A6A10;border:1px solid #E6C866;border-radius:999px;padding:2px 9px}
+.ftb{flex:none;width:52px;height:52px}
+.gq{margin:0 0 4px;padding:2px 0 2px 14px;border-left:4px solid #E8C14A}
+.gq p{margin:0;font-family:Georgia,'Times New Roman',serif;font-weight:400;font-size:16.5px;line-height:1.5;color:#1b3226}
+.gq cite{display:block;margin-top:8px;font-style:normal;font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#8A6A10}
+.gq cite:before{content:"— "}
+.me{flex-direction:column;align-items:stretch;gap:0}
+.me .mh{display:flex;gap:12px;align-items:center}
+.me .mline{margin:10px 0 0;font-family:Georgia,'Times New Roman',serif;font-size:14.5px;line-height:1.45;color:var(--ink)}
+.me .why{align-self:flex-start}
 .rows{margin-top:14px;border-top:1px solid #ECE8DE;padding-top:12px}
 .rows h4{font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;margin:0 0 8px}
 .rows h4.w{color:var(--green)} .rows h4.l{color:var(--red);margin-top:14px}
@@ -207,7 +216,7 @@ footer a{color:rgba(255,255,255,.8)}
   <a class="join" href="#join">Get it for your league →</a>
 </div></header>
 <div class="ticker" aria-hidden="true"><div class="wrap">
-  <span class="dot"></span><span><b>Live</b> in three pilot leagues this season</span>
+  <span class="dot"></span><span><b>Live</b> in four pilot leagues this season</span>
   <span class="more">Updates every 10 minutes on match days</span>
 </div></div>
 
@@ -219,7 +228,7 @@ footer a{color:rgba(255,255,255,.8)}
     <p class="lead">Not just a table. A whole season of fun: a weekly show for your group, a game plan for every manager, and the Gaffer rating everyone after each gameweek. One link, no app.</p>
     <div class="cta">
       <a class="btn" href="#join">Send us your league ID</a>
-      <span class="status">Setting up a few leagues at a time.<br><b>Opening to league admins in December.</b></span>
+      <span class="status">Setting up a few leagues at a time.<br><b>Opening to every league this Christmas.</b></span>
     </div>
     <nav class="three" aria-label="What your league gets">
       <a href="#week">The show <span>for the group</span></a>
@@ -269,17 +278,17 @@ footer a{color:rgba(255,255,255,.8)}
           <div class="gf" role="img" aria-label="Example of the Gaffer's Gameweek card for a made-up league">
             <div class="gf-head">
               <div class="gf-mast">
-                <div class="ft">FT</div>
+                <svg class="ftb" width="52" height="52" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="19" fill="#0f2a1d"/><circle cx="20" cy="20" r="15" fill="none" stroke="rgba(255,255,255,.25)" stroke-width="3"/><circle cx="20" cy="20" r="15" fill="none" stroke="#f2c94c" stroke-width="3" stroke-linecap="round" stroke-dasharray="94.2 94.2" transform="rotate(-90 20 20)"/><text x="20" y="24" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" font-family="Barlow Condensed,sans-serif">FT</text></svg>
                 <div class="gf-np"><div class="t">The Gaffer's</div><div class="s">GAMEWEEK</div><div class="k">GW11 · final scores</div></div>
               </div>
               <div class="gf-hl">Tom's lone captain pays off as Jamie's bench costs him top spot</div>
             </div>
             <div class="gf-body">
-              <p class="gf-sf">Tom captained a player nobody else had and won the week with 81. The lead changed hands for the third time this season.</p>
-              <div class="me">
+              <blockquote class="gq"><p>Tom captained a player nobody else had and won the week with 81. The lead changed hands for the third time this season.</p><cite>The Gaffer</cite></blockquote>
+              <div class="me"><div class="mh">
                 <div class="score">7<small>/10</small></div>
-                <div><div class="lbl">The Gaffer's rating for you</div><div class="pts">64 pts this week</div><span class="why">Why 7? ▾</span></div>
-              </div>
+                <div><div class="lbl">The Gaffer's rating for you</div><div class="pts">64 pts this week</div></div>
+              </div><p class="mline">Kept pace with Ben on a week Tom ran away. Not pretty, but it does the job.</p><span class="why">Why 7? ▾</span></div>
               <div class="rows">
                 <h4 class="w">Winners</h4>
                 <div class="r"><span class="n g">9</span><p><b>Tom</b> · Went alone on the armband and got 26 back. Brave, and this time right.</p></div>
@@ -340,7 +349,7 @@ footer a{color:rgba(255,255,255,.8)}
 <section class="join-sec" id="join"><div class="wrap">
   <div class="label">Get it for your league</div>
   <h2>Want to see<br>your league like this?</h2>
-  <p class="intro">We're setting leagues up a few at a time before opening in December. Send your league ID and we'll be in touch.</p>
+  <p class="intro">We're setting leagues up a few at a time before opening this Christmas. Send your league ID and we'll be in touch.</p>
   <div class="join-grid">
     <form id="gi-form" data-to="hello@yourmicromanager.com" novalidate>
       <label>FPL league ID<input name="league" inputmode="numeric" pattern="[0-9]*" maxlength="9" placeholder="e.g. 123456" required autocomplete="off"><small>The number in your league's address on the FPL site</small></label>
