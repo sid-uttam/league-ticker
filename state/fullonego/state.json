@@ -10784,7 +10784,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-25T18:40:25Z",
+ "updated": "2026-11-25T19:13:07Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms in as Sukrut keeps the top spot",
@@ -11811,6 +11811,729 @@
   },
   "plots_sig_tries": {
    "11:n:7233dbac4912": 1
+  },
+  "gaffer_candidate": {
+   "gw": 11,
+   "v": 4,
+   "ts": "2026-11-25T19:13:07Z",
+   "model": "claude-sonnet-5-5",
+   "draft": true,
+   "piece": {
+    "headline": "SUKRUT STRETCHES CLEAR AS THE ARMBAND FLOPS",
+    "standfirst": "",
+    "big_picture": "",
+    "decision_of_the_week": "",
+    "one_to_watch": "Aryamann and Anuj are 6 points apart at the Gold spots line. Aryamann has momentum, Anuj has a slump. If Anuj sorts his bench, he could snatch the place back.",
+    "winners": [
+     {
+      "name": "Pradnyesh",
+      "verdict": "The only manager to back Tavernier, and it paid with 16 from the armband. Call it nerve with a bit of luck."
+     },
+     {
+      "name": "Arya",
+      "verdict": "A.Becker was a pick nobody else made, and he returned 7. Kalash sits just above, within reach."
+     }
+    ],
+    "losers": [
+     {
+      "name": "Aryan",
+      "verdict": "A 5-week run above average ended with a bump. The transfer hit for McGinn and Dasilva made it worse. Aryamann sailed past."
+     },
+     {
+      "name": "Aary",
+      "verdict": "Selling Lewis-Potter hurt, as he then scored 16. A calm rebuild is the answer here, not another big reshuffle."
+     },
+     {
+      "name": "Anuj",
+      "verdict": "Was top in GW6, now 5th and dropped again. Leaving 18 points on the bench makes the slump a self-inflicted one."
+     }
+    ]
+   },
+   "ratings": [
+    {
+     "name": "Aryamann",
+     "rating": 9,
+     "points": 52,
+     "line": "Last week looked predictable. This week, the season high and a Transfer Genius award say otherwise.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "52 points, 16 above the league average",
+        2.1
+       ],
+       [
+        "Captain N.Jackson: 4 points (captains here averaged 6)",
+        -0.3
+       ],
+       [
+        "Transfers: new players +18 points on the ones sold",
+        1.0
+       ],
+       [
+        "Up 3 places in the table, 7th to 4th",
+        0.5
+       ]
+      ],
+      "total": 8.8,
+      "note": ""
+     }
+    },
+    {
+     "name": "Pradnyesh",
+     "rating": 7,
+     "points": 51,
+     "line": "Stuck in the lower reaches for weeks, then a captain pick the league ignored lifted the whole squad.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "51 points, 15 above the league average",
+        1.9
+       ],
+       [
+        "Captain Tavernier: 16 points (captains here averaged 6)",
+        1.5
+       ],
+       [
+        "21 points left on the bench",
+        -1.5
+       ]
+      ],
+      "total": 7.4,
+      "note": ""
+     }
+    },
+    {
+     "name": "Arya",
+     "rating": 7,
+     "points": 41,
+     "line": "Climbing steadily, with a differential pick nobody else owned. Kalash is the next target.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "41 points, 5 above the league average",
+        0.6
+       ],
+       [
+        "Captain Groß: 8 points (captains here averaged 6)",
+        0.5
+       ]
+      ],
+      "total": 6.6,
+      "note": ""
+     }
+    },
+    {
+     "name": "Sukrut",
+     "rating": 6,
+     "points": 43,
+     "line": "Silva was his alone, and a quiet week was enough to stay clear. 3 weeks on top.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "43 points, 7 above the league average",
+        0.9
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ]
+      ],
+      "total": 6.1,
+      "note": ""
+     }
+    },
+    {
+     "name": "Rushikesh",
+     "rating": 6,
+     "points": 42,
+     "line": "Beat the average from the very bottom of the table. Kayode was a lone pick.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "42 points, 6 above the league average",
+        0.7
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ]
+      ],
+      "total": 5.9,
+      "note": ""
+     }
+    },
+    {
+     "name": "Aditya Dharap",
+     "rating": 6,
+     "points": 41,
+     "line": "Back from the low of 18th. Atharva Kshirsagar is the next scalp.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "41 points, 5 above the league average",
+        0.6
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ],
+       [
+        "Transfers: new players +6 points on the ones sold",
+        1.0
+       ],
+       [
+        "15 points left on the bench",
+        -1.5
+       ],
+       [
+        "Up 2 places in the table, 13th to 11th",
+        0.3
+       ]
+      ],
+      "total": 5.6,
+      "note": ""
+     }
+    },
+    {
+     "name": "Prerana",
+     "rating": 6,
+     "points": 39,
+     "line": "Third for a few weeks now. Close to the top, yet not quite on the chase.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "39 points, 3 above the league average",
+        0.3
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ]
+      ],
+      "total": 5.5,
+      "note": ""
+     }
+    },
+    {
+     "name": "Sahil Phadnis",
+     "rating": 6,
+     "points": 39,
+     "line": "Evanilson armband worked again, and Phadnis was the only one to pick him. The bench cost another proper week.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "39 points, 3 above the league average",
+        0.3
+       ],
+       [
+        "Captain Evanilson: 12 points (captains here averaged 6)",
+        1.2
+       ],
+       [
+        "18 points left on the bench",
+        -1.5
+       ]
+      ],
+      "total": 5.5,
+      "note": ""
+     }
+    },
+    {
+     "name": "Aditya Dalal",
+     "rating": 5,
+     "points": 37,
+     "line": "Alone at the top for 2 weeks (GW7 to GW8), lost it in GW9, 2nd now.",
+     "plain": true,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "37 points, 1 above the league average",
+        0.1
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ]
+      ],
+      "total": 5.3,
+      "note": ""
+     }
+    },
+    {
+     "name": "Sudev",
+     "rating": 5,
+     "points": 31,
+     "line": "Below average for a 4th week running. Time to shake the XI up.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "31 points, 5 below the league average",
+        -0.7
+       ],
+       [
+        "Captain Palmer: 4 points (captains here averaged 6)",
+        -0.3
+       ]
+      ],
+      "total": 4.5,
+      "note": ""
+     }
+    },
+    {
+     "name": "Aarin",
+     "rating": 4,
+     "points": 35,
+     "line": "Down 4 weeks in a row, from 6th to 15th.",
+     "plain": true,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "35 points, 1 below the league average",
+        -0.2
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ],
+       [
+        "11 points left on the bench",
+        -0.8
+       ],
+       [
+        "Down 1 place in the table, 14th to 15th",
+        -0.2
+       ]
+      ],
+      "total": 4.0,
+      "note": ""
+     }
+    },
+    {
+     "name": "Atharva Kshirsagar",
+     "rating": 3,
+     "points": 31,
+     "line": "Bench Disaster. The wrong 11 left a big total idle.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "31 points, 5 below the league average",
+        -0.7
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ],
+       [
+        "36 points left on the bench",
+        -1.5
+       ]
+      ],
+      "total": 3.0,
+      "note": ""
+     }
+    },
+    {
+     "name": "Nihar",
+     "rating": 3,
+     "points": 31,
+     "line": "Slipping from 9th. Solanke was a solo bet that gave little.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "31 points, 5 below the league average",
+        -0.7
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ],
+       [
+        "18 points left on the bench",
+        -1.5
+       ]
+      ],
+      "total": 3.0,
+      "note": ""
+     }
+    },
+    {
+     "name": "Atharva Singh",
+     "rating": 3,
+     "points": 28,
+     "line": "Hits for Kusi-Asare, Vuskovic and N.Jackson cost more than they brought. Still passed Sujal.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "28 points, 8 below the league average",
+        -1.1
+       ],
+       [
+        "Captain N.Jackson: 4 points (captains here averaged 6)",
+        -0.3
+       ],
+       [
+        "Transfers: new players -13 points on the ones sold",
+        -1.0
+       ]
+      ],
+      "total": 3.1,
+      "note": ""
+     }
+    },
+    {
+     "name": "Kalash",
+     "rating": 3,
+     "points": 24,
+     "line": "Haaland armband flopped. Aryamann sailed past into the places above.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "24 points, 12 below the league average",
+        -1.7
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ],
+       [
+        "Down 1 place in the table, 6th to 7th",
+        -0.2
+       ]
+      ],
+      "total": 3.3,
+      "note": ""
+     }
+    },
+    {
+     "name": "Sujal",
+     "rating": 3,
+     "points": 22,
+     "line": "The Doghouse and Free Fall in one week. The best place of the season, 10th, now looks distant.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "22 points, 14 below the league average",
+        -1.9
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ],
+       [
+        "Down 3 places in the table, 11th to 14th",
+        -0.5
+       ]
+      ],
+      "total": 2.8,
+      "note": ""
+     }
+    },
+    {
+     "name": "Anuj",
+     "rating": 2,
+     "points": 28,
+     "line": "First place in GW6, now sliding. Idle bench points did the damage.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "28 points, 8 below the league average",
+        -1.1
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ],
+       [
+        "18 points left on the bench",
+        -1.5
+       ],
+       [
+        "Down 1 place in the table, 4th to 5th",
+        -0.2
+       ]
+      ],
+      "total": 2.4,
+      "note": ""
+     }
+    },
+    {
+     "name": "Aary",
+     "rating": 2,
+     "points": 25,
+     "line": "7 points from a pick nobody else owned. The only bright spot in a long drought.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "25 points, 11 below the league average",
+        -1.5
+       ],
+       [
+        "Captain Rogers: 10 points (captains here averaged 6)",
+        0.8
+       ],
+       [
+        "Transfers: new players -14 points on the ones sold",
+        -1.0
+       ],
+       [
+        "21 points left on the bench",
+        -1.5
+       ]
+      ],
+      "total": 2.3,
+      "note": ""
+     }
+    },
+    {
+     "name": "Aryan",
+     "rating": 2,
+     "points": 24,
+     "line": "A 5-week run above average ended. The transfer hit added to the damage.",
+     "plain": false,
+     "breakdown": {
+      "start": 5.5,
+      "parts": [
+       [
+        "24 points, 12 below the league average",
+        -1.7
+       ],
+       [
+        "Captain Haaland: 4 points (captains here averaged 6)",
+        -0.3
+       ],
+       [
+        "Transfers: new players -6 points on the ones sold",
+        -1.0
+       ],
+       [
+        "Down 1 place in the table, 5th to 6th",
+        -0.2
+       ]
+      ],
+      "total": 2.3,
+      "note": ""
+     }
+    }
+   ],
+   "editor": [
+    {
+     "item": "standfirst",
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "15 managers trusted Haaland and he gave 2 back. Sukrut barely blinked, and the gap to Aditya Dalal grew to 24.",
+     "after": null,
+     "still": "numbers: 3 numbers, at most 2; fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "decision_of_the_week",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Atharva Kshirsagar picked the wrong 11 and left 36 points on the bench. That is more than most managers scored all week. With 216 benched this season, it is now a habit.",
+     "after": null,
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "winners:0",
+     "reason": "true: numbers not in the sheet ['20']; fresh: copies an example or an earlier line",
+     "before": "Wirtz and Evanilson in, and the swap paid off. Up from 20th in GW2 to the highest place of the season, so this is a climb, not a fluke.",
+     "after": null,
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "winners:2",
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "Quiet week, but A.Becker was a point nobody else had. 2 weeks level in 8th shows a steady hand, though Kalash is only 4 points ahead.",
+     "after": "A.Becker was a pick nobody else made, and he returned 7. Kalash sits just above, within reach."
+    },
+    {
+     "item": "rating:Rushikesh",
+     "reason": "numbers: 2 numbers, at most 1; true: a 10-week run against the average isn't right (there's no run of 3+ weeks)",
+     "before": "Stuck in 24th for 10 weeks, yet above average again. Kayode was the lone punt.",
+     "after": "Beat the average from the very bottom of the table. Kayode was a lone pick."
+    },
+    {
+     "item": "rating:Aditya Dharap",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Down at 18th by GW8, now 11th. The comeback keeps going and Atharva is one point away.",
+     "after": "Back from the low of 18th. Atharva Kshirsagar is the next scalp."
+    },
+    {
+     "item": "rating:Sudev",
+     "reason": "numbers: 3 numbers, at most 1",
+     "before": "4 weeks below average and stuck in 18th. Nihar's 11 points ahead is the target.",
+     "after": "Below average for a 4th week running. Time to shake the XI up."
+    },
+    {
+     "item": "rating:Aarin",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Down 4 weeks running from 6th. The slide needs stopping before it becomes the story.",
+     "after": null,
+     "still": "numbers: 2 numbers, at most 1"
+    },
+    {
+     "item": "rating:Nihar",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "5 weeks below average and falling from 9th. Solanke was a lone bet that gave little.",
+     "after": "Slipping from 9th. Solanke was a solo bet that gave little."
+    },
+    {
+     "item": "rating:Sujal",
+     "reason": "numbers: 3 numbers, at most 1",
+     "before": "Dropped 3 places and bottom of the week. 3 weeks under average since a best of 10th.",
+     "after": "The Doghouse and Free Fall in one week. The best place of the season, 10th, now looks distant."
+    },
+    {
+     "item": "rating:Pradnyesh",
+     "reason": "fresh: \"nobody\" is already in their verdict above; make a different point",
+     "before": "From 19th to a captain's haul nobody else saw coming. Backed the outsider and was right.",
+     "after": "Stuck in the lower reaches for weeks, then a captain pick the league ignored lifted the whole squad."
+    },
+    {
+     "item": "rating:Arya",
+     "reason": "fresh: \"becker\" is already in their verdict above; make a different point",
+     "before": "A.Becker was his alone. A small differential that kept a steady climb going.",
+     "after": "Climbing steadily, with a differential pick nobody else owned. Kalash is the next target."
+    },
+    {
+     "item": "rating:Aary",
+     "reason": "fresh: \"scored\" is already in their verdict above; make a different point",
+     "before": "Thiaw scored 7 and no one else had him. A rare bright spot.",
+     "after": "7 points from a pick nobody else owned. The only bright spot in a long drought."
+    },
+    {
+     "item": "rating:Aryan",
+     "reason": "fresh: \"dasilva\" is already in their verdict above; make a different point",
+     "before": "The streak ended with a thud. Hits for McGinn and Dasilva did not help.",
+     "after": "A 5-week run above average ended. The transfer hit added to the damage."
+    },
+    {
+     "item": "headline",
+     "reason": "fresh: reuses the 'Haaland blanks' stock phrasing from the previous edition's headline",
+     "before": "HAALAND BLANKS AGAIN, SUKRUT STRETCHES CLEAR",
+     "after": "SUKRUT STRETCHES CLEAR AS THE ARMBAND FLOPS"
+    },
+    {
+     "item": "big_picture",
+     "reason": "true: says Dalal's run is under pressure, which SHEET supports, but 'everyone had a bad week' is unsupported given 19 active managers and a 36 average",
+     "before": "Sukrut has sat alone on top for 3 weeks, and this was the week the chasing pack could have pounced. Aditya Dalal was the main chaser and he scored 37 with the armband on a blanking Haaland. Everyone had a bad week, yet the leader's was the least bad. Dalal's run above average is now under real pressure.",
+     "after": "Sukrut has been alone on top for 3 weeks, and this was the week the chasers could have pounced. They did not. Aditya Dalal captained Haaland, scored 37 and watched the gap grow to 24. It was the lowest score of his 10-week run above average. The league's worst week of the season so far gave the leader cover."
+    },
+    {
+     "item": "losers:0",
+     "reason": "true: says McGinn and Dasilva brought nothing back, which SHEET does not show",
+     "before": "A 5-week run above average ended with the week's joint lowest score. McGinn and Dasilva cost a hit and brought nothing back. Aryamann sailed past.",
+     "after": "A 5-week run above average ended with a bump. The transfer hit for McGinn and Dasilva made it worse. Aryamann sailed past."
+    },
+    {
+     "item": "losers:1",
+     "reason": "true: claims 6 weeks below average, but SHEET shows Aary has the streak, not Lewis-Potter's ownerer; attribution to 'this manager' is unsupported",
+     "before": "Selling Lewis-Potter hurt, as he then scored 16. 6 weeks below average is a hard run, so a calm rebuild is the answer, not another big reshuffle.",
+     "after": "Selling Lewis-Potter hurt, as he then scored 16. A calm rebuild is the answer here, not another big reshuffle."
+    },
+    {
+     "item": "winners:1",
+     "reason": "true: 'the only manager to back Tavernier' is supported, but 'nobody else dared' is an unsupported claim about others' motives",
+     "before": "The only manager to back Tavernier, and it paid. Nobody else dared, so call it nerve with a bit of luck.",
+     "after": "The only manager to back Tavernier, and it paid with 16 from the armband. Call it nerve with a bit of luck."
+    },
+    {
+     "item": "rating:Aditya Dalal",
+     "reason": "true: 'lowest of the run' is supported, but the phrase 'Haaland armband again looks costly' repeats the Haaland-armband framing used elsewhere, making it stock",
+     "before": "8 weeks above average, but the lowest of the run. Haaland armband again looks costly.",
+     "after": null,
+     "still": "true: a 10-week run against the average isn't right (the real run: 8)"
+    },
+    {
+     "item": "rating:Atharva Kshirsagar",
+     "reason": "kind: 'the sort of mistake that follows a whole season' is savage and personal rather than about the decision",
+     "before": "Bench Disaster again. 36 points idle is the sort of mistake that follows a whole season.",
+     "after": "Bench Disaster. The wrong 11 left a big total idle."
+    },
+    {
+     "item": "rating:Kalash",
+     "reason": "fresh: 'A popular call, a familiar sting' is a stock-phrase construction",
+     "before": "Haaland armband flopped again, and Aryamann sailed past. A popular call, a familiar sting.",
+     "after": "Haaland armband flopped. Aryamann sailed past into the places above."
+    },
+    {
+     "item": "rating:Anuj",
+     "reason": "true: 'First place in GW6' is supported, but 'bench is where it keeps leaking' overstates a single bench-driven pattern",
+     "before": "First place in GW6, now sliding. The bench is where it keeps leaking.",
+     "after": "First place in GW6, now sliding. Idle bench points did the damage."
+    },
+    "second rewrite skipped: Extra data: line 3 column 1 (char 249)",
+    "big_picture: \"Aditya Dalal captained Haaland, scored 37 and watched the gap grow to 24.\" says Haaland scored 37; he scored 2"
+   ],
+   "usage": {
+    "in": 57881,
+    "out": 3333,
+    "calls": 4
+   },
+   "sent_back": 23,
+   "unknown_names": [],
+   "top_3": [
+    {
+     "name": "Sukrut",
+     "total": 742,
+     "rank": 1
+    },
+    {
+     "name": "Aditya Dalal",
+     "total": 718,
+     "rank": 2
+    },
+    {
+     "name": "Prerana",
+     "total": 715,
+     "rank": 3
+    }
+   ],
+   "week_average": 36,
+   "not_rated": [
+    "Omkar",
+    "Parth",
+    "Pruthviraj",
+    "Sahil Gore",
+    "Shantanu"
+   ],
+   "tries": 1,
+   "wsig": "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
+   "wtries": 0,
+   "wtried": [
+    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)"
+   ]
   }
  },
  "plot_log": {
@@ -12158,7 +12881,7 @@
   ]
  },
  "checks": {
-  "ts": "2026-11-25T18:40:25Z",
+  "ts": "2026-11-25T19:13:07Z",
   "issues": [],
   "page": [],
   "wording": [
