@@ -11383,7 +11383,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-25T12:07:51Z",
+ "updated": "2026-11-25T12:37:51Z",
  "ai": {
   "briefings": {
    "3029346": "You top the table on 774 after a 52-point week, with Nikhil 17 behind. Watch the injury news on your squad, and be wary of Ravin and Sunny closing in.",
@@ -15099,7 +15099,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-25T12:07:51Z",
+  "ts": "2026-11-25T12:37:51Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -15194,7 +15194,7 @@
    "650": "a|100|",
    "226": "a|None|",
    "259": "a|None|",
-   "367": "d|75|Calf injury - 75% chance of playing",
+   "367": "i|0|Calf injury - Expected back 2 Dec",
    "138": "a|None|",
    "412": "a|None|",
    "481": "a|100|",
@@ -15215,7 +15215,7 @@
    "305": "2026-11-22T07:10:30Z",
    "1": "2026-11-23T14:31:26Z",
    "449": "2026-11-21T19:35:20Z",
-   "367": "2026-11-22T16:31:21Z",
+   "367": "2026-11-25T12:37:51Z",
    "229": "2026-11-23T21:10:44Z",
    "423": "2026-11-24T13:37:24Z"
   },
@@ -16057,6 +16057,14 @@
     "el": 388,
     "kind": "surge",
     "net": -25053
+   },
+   {
+    "ts": "2026-11-25T12:37:51Z",
+    "el": 367,
+    "kind": "flag",
+    "status": "i",
+    "chance": 0,
+    "news": "Calf injury - Expected back 2 Dec"
    }
   ]
  },
