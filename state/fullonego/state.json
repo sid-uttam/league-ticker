@@ -7867,6 +7867,514 @@
      168
     ]
    ]
+  },
+  "1": {
+   "3991082": [
+    426,
+    [
+     109,
+     8,
+     4,
+     152,
+     40,
+     426,
+     427,
+     557,
+     379,
+     346,
+     165
+    ],
+    427,
+    [
+     496,
+     236,
+     418,
+     305
+    ]
+   ],
+   "6543415": [
+    411,
+    [
+     496,
+     423,
+     8,
+     259,
+     426,
+     368,
+     40,
+     427,
+     411,
+     165,
+     346
+    ],
+    426,
+    [
+     497,
+     124,
+     175,
+     31
+    ]
+   ],
+   "8849458": [
+    346,
+    [
+     496,
+     259,
+     8,
+     469,
+     532,
+     127,
+     368,
+     427,
+     124,
+     346,
+     165
+    ],
+    496,
+    [
+     109,
+     418,
+     426,
+     411
+    ]
+   ],
+   "3504829": [
+    557,
+    [
+     412,
+     112,
+     387,
+     8,
+     40,
+     427,
+     481,
+     557,
+     411,
+     165,
+     552
+    ],
+    412,
+    [
+     140,
+     452,
+     31,
+     175
+    ]
+   ],
+   "2994764": [
+    411,
+    [
+     1,
+     388,
+     423,
+     259,
+     8,
+     557,
+     426,
+     368,
+     237,
+     411,
+     346
+    ],
+    426,
+    [
+     412,
+     391,
+     212,
+     552
+    ]
+   ],
+   "1310155": [
+    411,
+    [
+     1,
+     142,
+     112,
+     8,
+     426,
+     427,
+     237,
+     557,
+     411,
+     552,
+     165
+    ],
+    426,
+    [
+     111,
+     212,
+     306,
+     277
+    ]
+   ],
+   "224457": [
+    426,
+    [
+     140,
+     423,
+     8,
+     175,
+     502,
+     40,
+     397,
+     426,
+     237,
+     411,
+     165
+    ],
+    411,
+    [
+     110,
+     552,
+     182,
+     212
+    ]
+   ],
+   "5703947": [
+    411,
+    [
+     350,
+     387,
+     356,
+     8,
+     149,
+     426,
+     427,
+     15,
+     237,
+     411,
+     346
+    ],
+    426,
+    [
+     495,
+     38,
+     50,
+     169
+    ]
+   ],
+   "8893621": [
+    411,
+    [
+     140,
+     8,
+     391,
+     469,
+     498,
+     13,
+     43,
+     40,
+     248,
+     411,
+     165
+    ],
+    140,
+    [
+     386,
+     31,
+     428,
+     415
+    ]
+   ],
+   "2784861": [
+    411,
+    [
+     496,
+     8,
+     418,
+     362,
+     426,
+     427,
+     368,
+     557,
+     346,
+     552,
+     411
+    ],
+    426,
+    [
+     109,
+     112,
+     329,
+     127
+    ]
+   ],
+   "3234443": [
+    426,
+    [
+     497,
+     423,
+     8,
+     259,
+     557,
+     40,
+     427,
+     426,
+     481,
+     411,
+     165
+    ],
+    497,
+    [
+     496,
+     31,
+     321,
+     175
+    ]
+   ],
+   "5772383": [
+    426,
+    [
+     109,
+     8,
+     387,
+     4,
+     426,
+     40,
+     398,
+     15,
+     480,
+     165,
+     106
+    ],
+    165,
+    [
+     496,
+     272,
+     469,
+     329
+    ]
+   ],
+   "6519111": [
+    426,
+    [
+     140,
+     8,
+     423,
+     10,
+     366,
+     426,
+     154,
+     397,
+     427,
+     106,
+     165
+    ],
+    165,
+    [
+     110,
+     346,
+     173,
+     175
+    ]
+   ],
+   "1979363": [
+    411,
+    [
+     1,
+     142,
+     423,
+     579,
+     427,
+     399,
+     13,
+     366,
+     40,
+     411,
+     106
+    ],
+    366,
+    [
+     497,
+     31,
+     259,
+     272
+    ]
+   ],
+   "748886": [
+    411,
+    [
+     412,
+     8,
+     469,
+     87,
+     426,
+     427,
+     40,
+     368,
+     411,
+     165,
+     346
+    ],
+    427,
+    [
+     273,
+     175,
+     173,
+     212
+    ]
+   ],
+   "7244060": [
+    411,
+    [
+     109,
+     201,
+     8,
+     387,
+     423,
+     557,
+     426,
+     429,
+     346,
+     411,
+     165
+    ],
+    109,
+    [
+     171,
+     175,
+     67,
+     212
+    ]
+   ],
+   "5781412": [
+    165,
+    [
+     57,
+     391,
+     8,
+     423,
+     426,
+     40,
+     397,
+     366,
+     55,
+     379,
+     165
+    ],
+    57,
+    [
+     301,
+     427,
+     259,
+     586
+    ]
+   ],
+   "4979869": [
+    557,
+    [
+     597,
+     418,
+     8,
+     112,
+     368,
+     426,
+     557,
+     427,
+     165,
+     379,
+     26
+    ],
+    426,
+    [
+     109,
+     366,
+     503,
+     504
+    ]
+   ],
+   "4875847": [
+    411,
+    [
+     140,
+     142,
+     581,
+     445,
+     447,
+     397,
+     40,
+     260,
+     67,
+     411,
+     26
+    ],
+    140,
+    [
+     412,
+     203,
+     236,
+     125
+    ]
+   ],
+   "8824397": [
+    55,
+    [
+     529,
+     533,
+     579,
+     8,
+     418,
+     426,
+     399,
+     366,
+     368,
+     55,
+     165
+    ],
+    529,
+    [
+     172,
+     60,
+     155,
+     223
+    ]
+   ],
+   "5733897": [
+    411,
+    [
+     497,
+     419,
+     391,
+     499,
+     426,
+     427,
+     542,
+     13,
+     411,
+     346,
+     165
+    ],
+    426,
+    [
+     58,
+     159,
+     259,
+     175
+    ]
+   ],
+   "3188980": [
+    411,
+    [
+     350,
+     10,
+     418,
+     388,
+     417,
+     112,
+     426,
+     368,
+     557,
+     481,
+     411
+    ],
+    426,
+    [
+     497,
+     552,
+     50,
+     168
+    ]
+   ]
   }
  },
  "awards_hist": {
@@ -8256,13 +8764,312 @@
     "name": "Atharva Singh",
     "stat": "32 pts"
    }
+  ],
+  "1": [
+   {
+    "key": "motw",
+    "title": "Manager of the Week",
+    "who": [
+     3991082
+    ],
+    "name": "Sukrut",
+    "stat": "70 pts"
+   },
+   {
+    "key": "captain",
+    "title": "Captain of the Week",
+    "who": [
+     5781412
+    ],
+    "name": "Nihar",
+    "stat": "22 pts"
+   },
+   {
+    "key": "bench",
+    "title": "Bench Disaster",
+    "who": [
+     2784861
+    ],
+    "name": "Atharva Kshirsagar",
+    "stat": "19 pts on the bench"
+   },
+   {
+    "key": "armband",
+    "title": "Armband Agony",
+    "who": [
+     8849458
+    ],
+    "name": "Prerana",
+    "stat": "2 pts"
+   },
+   {
+    "key": "spoon",
+    "title": "The Doghouse",
+    "who": [
+     4875847
+    ],
+    "name": "Pradnyesh",
+    "stat": "34 pts"
+   }
+  ],
+  "6": [
+   {
+    "key": "motw",
+    "title": "Manager of the Week",
+    "who": [
+     2994764
+    ],
+    "name": "Anuj",
+    "stat": "92 pts"
+   },
+   {
+    "key": "captain",
+    "title": "Captain of the Week",
+    "who": [
+     5703947,
+     5781412
+    ],
+    "name": "Arya and Nihar",
+    "stat": "24 pts"
+   },
+   {
+    "key": "genius",
+    "title": "Transfer Genius",
+    "who": [
+     5703947
+    ],
+    "name": "Arya",
+    "stat": "+14 on the swap"
+   },
+   {
+    "key": "rocket",
+    "title": "Rocket",
+    "who": [
+     2784861
+    ],
+    "name": "Atharva Kshirsagar",
+    "stat": "Up 6"
+   },
+   {
+    "key": "bench",
+    "title": "Bench Disaster",
+    "who": [
+     4979869
+    ],
+    "name": "Sudev",
+    "stat": "21 pts on the bench"
+   },
+   {
+    "key": "armband",
+    "title": "Armband Agony",
+    "who": [
+     3188980
+    ],
+    "name": "Aary",
+    "stat": "2 pts"
+   },
+   {
+    "key": "gotaway",
+    "title": "The One That Got Away",
+    "who": [
+     7244060
+    ],
+    "name": "Sahil Phadnis",
+    "stat": "15 pts missed"
+   },
+   {
+    "key": "fall",
+    "title": "Free Fall",
+    "who": [
+     5772383
+    ],
+    "name": "Atharva Singh",
+    "stat": "Down 4"
+   },
+   {
+    "key": "spoon",
+    "title": "The Doghouse",
+    "who": [
+     3188980
+    ],
+    "name": "Aary",
+    "stat": "34 pts"
+   }
+  ],
+  "7": [
+   {
+    "key": "motw",
+    "title": "Manager of the Week",
+    "who": [
+     3504829,
+     6543415
+    ],
+    "name": "Aditya Dalal and Aryamann",
+    "stat": "82 pts"
+   },
+   {
+    "key": "captain",
+    "title": "Captain of the Week",
+    "who": [
+     6543415
+    ],
+    "name": "Aditya Dalal",
+    "stat": "39 pts"
+   },
+   {
+    "key": "genius",
+    "title": "Transfer Genius",
+    "who": [
+     748886
+    ],
+    "name": "Aarin",
+    "stat": "+10 on the swap"
+   },
+   {
+    "key": "rocket",
+    "title": "Rocket",
+    "who": [
+     3504829
+    ],
+    "name": "Aryamann",
+    "stat": "Up 6"
+   },
+   {
+    "key": "bench",
+    "title": "Bench Disaster",
+    "who": [
+     2784861
+    ],
+    "name": "Atharva Kshirsagar",
+    "stat": "17 pts on the bench"
+   },
+   {
+    "key": "flop",
+    "title": "Transfer Flop",
+    "who": [
+     748886,
+     7244060
+    ],
+    "name": "Aarin and Sahil Phadnis",
+    "stat": "0 pts from the new signing"
+   },
+   {
+    "key": "fall",
+    "title": "Free Fall",
+    "who": [
+     6519111
+    ],
+    "name": "Parth",
+    "stat": "Down 7"
+   },
+   {
+    "key": "spoon",
+    "title": "The Doghouse",
+    "who": [
+     3188980
+    ],
+    "name": "Aary",
+    "stat": "38 pts"
+   }
+  ],
+  "8": [
+   {
+    "key": "motw",
+    "title": "Manager of the Week",
+    "who": [
+     3991082
+    ],
+    "name": "Sukrut",
+    "stat": "71 pts"
+   },
+   {
+    "key": "captain",
+    "title": "Captain of the Week",
+    "who": [
+     224457,
+     748886,
+     1310155,
+     1979363,
+     2784861,
+     2994764,
+     3504829,
+     3991082,
+     4979869,
+     5703947,
+     6543415,
+     7244060,
+     8849458,
+     10320954
+    ],
+    "name": "Haaland",
+    "stat": "16 pts"
+   },
+   {
+    "key": "genius",
+    "title": "Transfer Genius",
+    "who": [
+     224457
+    ],
+    "name": "Kalash",
+    "stat": "+17 on the swap"
+   },
+   {
+    "key": "rocket",
+    "title": "Rocket",
+    "who": [
+     1979363
+    ],
+    "name": "Sujal",
+    "stat": "Up 4"
+   },
+   {
+    "key": "bench",
+    "title": "Bench Disaster",
+    "who": [
+     2784861
+    ],
+    "name": "Atharva Kshirsagar",
+    "stat": "28 pts on the bench"
+   },
+   {
+    "key": "armband",
+    "title": "Armband Agony",
+    "who": [
+     5772383
+    ],
+    "name": "Atharva Singh",
+    "stat": "-2 pts"
+   },
+   {
+    "key": "gotaway",
+    "title": "The One That Got Away",
+    "who": [
+     3234443,
+     5703947
+    ],
+    "name": "Aditya Dharap and Arya",
+    "stat": "8 pts missed"
+   },
+   {
+    "key": "spoon",
+    "title": "The Doghouse",
+    "who": [
+     3188980
+    ],
+    "name": "Aary",
+    "stat": "26 pts"
+   }
   ]
  },
  "awards_full": [
   2,
   3,
   4,
-  5
+  5,
+  1,
+  6,
+  7,
+  8
  ],
  "stories": [
   {
@@ -9807,7 +10614,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-25T07:35:21Z",
+ "updated": "2026-11-25T08:05:20Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms in as Sukrut keeps the top spot",
@@ -9870,11 +10677,11 @@
   "ts": "2026-11-25T07:35:21Z",
   "usage": {
    "11": {
-    "in": 31025,
-    "out": 11535,
-    "calls": 4,
+    "in": 34901,
+    "out": 13780,
+    "calls": 6,
     "refreshes": 1,
-    "plots": 1
+    "plots": 2
    }
   },
   "plots_v_tries": {
@@ -9885,15 +10692,15 @@
     "id": "hot:6543415",
     "title": "The Streak Wobbles",
     "status": "Heating up",
-    "text": "Aditya Dalal has beaten the league average for 10 weeks in a row, but GW11's 37 was the lowest of the run. The streak is alive, but the next few weeks will decide if it lasts.",
-    "next": "If the dip continues, the streak could end sooner than expected.",
+    "text": "Aditya Dalal has been above the league average for 10 weeks in a row, with 112 points in GW2 and 37 in GW11. His GW11 score is the lowest of the whole run, so the streak is now under real pressure.",
+    "next": "If the points stay low, the run could end and the streak could be settled.",
     "who": [
      6543415
     ],
     "kind": "hot streak",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-25T07:35:21Z",
+    "ts": "2026-11-25T08:05:20Z",
     "question": "How long can Aditya Dalal stay hot?",
     "line": [
      [
@@ -9922,17 +10729,17 @@
    },
    {
     "id": "bench:2784861",
-    "title": "Bench Burning Points",
+    "title": "Bench Blunders Pile Up",
     "status": "Building",
-    "text": "Atharva Kshirsagar has left 216 points on the bench this season, against a league average of 89. Every missed pick is a reminder that the right 11 is still out there.",
-    "next": "If the bench keeps costing points, the next big lineup call could define the season.",
+    "text": "Atharva Kshirsagar has left 216 points on the bench this season, while the league average is 89. The bench keeps costing him, and the season-long question of picking the right 11 is still open.",
+    "next": "If the bench keeps costing points, the curse could become the league's talking point.",
     "who": [
      2784861
     ],
     "kind": "bench curse",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-25T07:35:21Z",
+    "ts": "2026-11-25T08:05:20Z",
     "question": "Will Atharva Kshirsagar ever pick the right 11?",
     "line": [],
     "since": 11,
@@ -9940,17 +10747,17 @@
    },
    {
     "id": "underdog:3504829",
-    "title": "Aryamann's Long Climb",
+    "title": "Aryamann Keeps Climbing",
     "status": "Heating up",
-    "text": "Aryamann began at 20th in GW2, the lowest rank this season, and now sits 4th of 24 after climbing 16 places. A 3-place rise came in GW11 alone, and the top spots are the next target.",
-    "next": "If the climb continues, a top-3 finish could be on the cards.",
+    "text": "Aryamann started GW2 in 20th place and now sits 4th out of 24, climbing 16 places since. The rise has been steady, with 8th in GW8, 7th in GW10 and 4th in GW11.",
+    "next": "If the climb continues, a place in the top 3 could be within reach.",
     "who": [
      3504829
     ],
     "kind": "underdog",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-25T07:35:21Z",
+    "ts": "2026-11-25T08:05:20Z",
     "question": "How high can Aryamann go?",
     "line": [
      [
@@ -9983,10 +10790,10 @@
    },
    {
     "id": "chase:3234443",
-    "title": "One Point Between Them",
+    "title": "The Gap Shrinks to One",
     "status": "Heating up",
-    "text": "Aditya Dharap was 44 points behind Atharva Kshirsagar in GW8 and has cut that gap to just 1 point. Kshirsagar is still ahead, and the gap has shrunk every week since GW8.",
-    "next": "One result could decide whether Dharap goes past Kshirsagar.",
+    "text": "Aditya Dharap has cut Atharva Kshirsagar's lead from 44 in GW8 to just 1 in GW11. Atharva is still ahead, but the gap has been shrinking every week.",
+    "next": "If Aditya Dharap gets past Atharva, the chase could flip in a single gameweek.",
     "who": [
      3234443,
      2784861
@@ -9994,7 +10801,7 @@
     "kind": "chaser",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-25T07:35:21Z",
+    "ts": "2026-11-25T08:05:20Z",
     "question": "Can Aditya Dharap catch Atharva Kshirsagar?",
     "line": [
      [
@@ -10019,10 +10826,10 @@
    },
    {
     "id": "title",
-    "title": "Sukrut's Lead Grows",
+    "title": "Sukrut Pulls Clear",
     "status": "Building",
-    "text": "Sukrut leads on 742, 24 ahead of Aditya Dalal's 718, and the gap grew from 18 last week. The crown has changed hands 5 times this season, and Sukrut has been top for 3 weeks running.",
-    "next": "If the leaders slip, Prerana, 27 behind, could be the next threat.",
+    "text": "Sukrut leads on 742 points, 24 ahead of Aditya Dalal on 718, and that gap has grown from 18. Sukrut has now been top for 3 weeks in a row, and the lead has changed hands 5 times this season.",
+    "next": "If Aditya Dalal, who led in GW7 and GW8, can win points back, the crown could be contested again.",
     "who": [
      3991082,
      6543415
@@ -10030,7 +10837,7 @@
     "kind": "title race",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-25T07:35:21Z",
+    "ts": "2026-11-25T08:05:20Z",
     "question": "Who can hold the crown?",
     "line": [
      [
@@ -10054,7 +10861,7 @@
     "streak": null
    }
   ],
-  "plots_ts": "2026-11-25T07:35:21Z",
+  "plots_ts": "2026-11-25T08:05:20Z",
   "plots_key": "11:between",
   "plots_v": 8,
   "plots_sig": "7233dbac4912",
@@ -10829,9 +11636,12 @@
    "6": 1,
    "7": 1,
    "8": 1,
-   "9": 1
+   "9": 1,
+   "10": 1
   },
-  "plots_recheck": "11:n:7233dbac4912"
+  "plots_sig_tries": {
+   "11:n:7233dbac4912": 1
+  }
  },
  "plot_log": {
   "hot:6543415": [
@@ -10839,44 +11649,44 @@
     "gw": 11,
     "day": "2026-11-25",
     "title": "The Streak Wobbles",
-    "text": "Aditya Dalal has beaten the league average for 10 weeks in a row, but GW11's 37 was the lowest of the run. The streak is alive, but the next few weeks will decide if it lasts.",
-    "next": "If the dip continues, the streak could end sooner than expected."
+    "text": "Aditya Dalal has been above the league average for 10 weeks in a row, with 112 points in GW2 and 37 in GW11. His GW11 score is the lowest of the whole run, so the streak is now under real pressure.",
+    "next": "If the points stay low, the run could end and the streak could be settled."
    }
   ],
   "bench:2784861": [
    {
     "gw": 11,
     "day": "2026-11-25",
-    "title": "Bench Burning Points",
-    "text": "Atharva Kshirsagar has left 216 points on the bench this season, against a league average of 89. Every missed pick is a reminder that the right 11 is still out there.",
-    "next": "If the bench keeps costing points, the next big lineup call could define the season."
+    "title": "Bench Blunders Pile Up",
+    "text": "Atharva Kshirsagar has left 216 points on the bench this season, while the league average is 89. The bench keeps costing him, and the season-long question of picking the right 11 is still open.",
+    "next": "If the bench keeps costing points, the curse could become the league's talking point."
    }
   ],
   "underdog:3504829": [
    {
     "gw": 11,
     "day": "2026-11-25",
-    "title": "Aryamann's Long Climb",
-    "text": "Aryamann began at 20th in GW2, the lowest rank this season, and now sits 4th of 24 after climbing 16 places. A 3-place rise came in GW11 alone, and the top spots are the next target.",
-    "next": "If the climb continues, a top-3 finish could be on the cards."
+    "title": "Aryamann Keeps Climbing",
+    "text": "Aryamann started GW2 in 20th place and now sits 4th out of 24, climbing 16 places since. The rise has been steady, with 8th in GW8, 7th in GW10 and 4th in GW11.",
+    "next": "If the climb continues, a place in the top 3 could be within reach."
    }
   ],
   "chase:3234443": [
    {
     "gw": 11,
     "day": "2026-11-25",
-    "title": "One Point Between Them",
-    "text": "Aditya Dharap was 44 points behind Atharva Kshirsagar in GW8 and has cut that gap to just 1 point. Kshirsagar is still ahead, and the gap has shrunk every week since GW8.",
-    "next": "One result could decide whether Dharap goes past Kshirsagar."
+    "title": "The Gap Shrinks to One",
+    "text": "Aditya Dharap has cut Atharva Kshirsagar's lead from 44 in GW8 to just 1 in GW11. Atharva is still ahead, but the gap has been shrinking every week.",
+    "next": "If Aditya Dharap gets past Atharva, the chase could flip in a single gameweek."
    }
   ],
   "title": [
    {
     "gw": 11,
     "day": "2026-11-25",
-    "title": "Sukrut's Lead Grows",
-    "text": "Sukrut leads on 742, 24 ahead of Aditya Dalal's 718, and the gap grew from 18 last week. The crown has changed hands 5 times this season, and Sukrut has been top for 3 weeks running.",
-    "next": "If the leaders slip, Prerana, 27 behind, could be the next threat."
+    "title": "Sukrut Pulls Clear",
+    "text": "Sukrut leads on 742 points, 24 ahead of Aditya Dalal on 718, and that gap has grown from 18. Sukrut has now been top for 3 weeks in a row, and the lead has changed hands 5 times this season.",
+    "next": "If Aditya Dalal, who led in GW7 and GW8, can win points back, the crown could be contested again."
    }
   ]
  },
@@ -11160,11 +11970,9 @@
   "log": []
  },
  "checks": {
-  "ts": "2026-11-25T07:35:21Z",
+  "ts": "2026-11-25T08:05:20Z",
   "issues": [],
-  "page": [
-   "storyline \"Can Aditya Dharap catch Atharva Kshirsagar?\": \"Aditya Dharap was 44 points behind Atharva Kshirsagar in GW8 and has cut that gap to just 1 point.\" has a gap of 44; the gaps between Aditya Dharap / Atharva Kshirsagar are 1"
-  ],
+  "page": [],
   "wording": [
    "wording (1 points): ...move anyone.    De Cuyper BHA   Scored 1 pts        13...",
    "wording (1 points): ...much from him.      Cherki MCI   Scored 1 pts        10...",
