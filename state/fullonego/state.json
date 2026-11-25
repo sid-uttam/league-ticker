@@ -9059,6 +9059,174 @@
     "name": "Aary",
     "stat": "26 pts"
    }
+  ],
+  "9": [
+   {
+    "key": "motw",
+    "title": "Manager of the Week",
+    "who": [
+     8849458
+    ],
+    "name": "Prerana",
+    "stat": "88 pts"
+   },
+   {
+    "key": "captain",
+    "title": "Captain of the Week",
+    "who": [
+     3991082
+    ],
+    "name": "Sukrut",
+    "stat": "18 pts"
+   },
+   {
+    "key": "genius",
+    "title": "Transfer Genius",
+    "who": [
+     8849458
+    ],
+    "name": "Prerana",
+    "stat": "+35 on the swap"
+   },
+   {
+    "key": "rocket",
+    "title": "Rocket",
+    "who": [
+     2784861
+    ],
+    "name": "Atharva Kshirsagar",
+    "stat": "Up 5"
+   },
+   {
+    "key": "bench",
+    "title": "Bench Disaster",
+    "who": [
+     2784861
+    ],
+    "name": "Atharva Kshirsagar",
+    "stat": "29 pts on the bench"
+   },
+   {
+    "key": "armband",
+    "title": "Armband Agony",
+    "who": [
+     5781412
+    ],
+    "name": "Nihar",
+    "stat": "0 pts"
+   },
+   {
+    "key": "flop",
+    "title": "Transfer Flop",
+    "who": [
+     1310155
+    ],
+    "name": "Aryan",
+    "stat": "1 pt from the new signing"
+   },
+   {
+    "key": "fall",
+    "title": "Free Fall",
+    "who": [
+     5781412
+    ],
+    "name": "Nihar",
+    "stat": "Down 3"
+   },
+   {
+    "key": "spoon",
+    "title": "The Doghouse",
+    "who": [
+     10320954
+    ],
+    "name": "Rushikesh",
+    "stat": "33 pts"
+   }
+  ],
+  "10": [
+   {
+    "key": "motw",
+    "title": "Manager of the Week",
+    "who": [
+     3234443
+    ],
+    "name": "Aditya Dharap",
+    "stat": "90 pts"
+   },
+   {
+    "key": "captain",
+    "title": "Captain of the Week",
+    "who": [
+     5772383,
+     7244060
+    ],
+    "name": "Atharva Singh and Sahil Phadnis",
+    "stat": "18 pts"
+   },
+   {
+    "key": "genius",
+    "title": "Transfer Genius",
+    "who": [
+     2994764
+    ],
+    "name": "Anuj",
+    "stat": "+19 on the swap"
+   },
+   {
+    "key": "rocket",
+    "title": "Rocket",
+    "who": [
+     5703947
+    ],
+    "name": "Arya",
+    "stat": "Up 5"
+   },
+   {
+    "key": "bench",
+    "title": "Bench Disaster",
+    "who": [
+     8849458
+    ],
+    "name": "Prerana",
+    "stat": "21 pts on the bench"
+   },
+   {
+    "key": "flop",
+    "title": "Transfer Flop",
+    "who": [
+     5781412
+    ],
+    "name": "Nihar",
+    "stat": "0 pts from the new signing"
+   },
+   {
+    "key": "gotaway",
+    "title": "The One That Got Away",
+    "who": [
+     4979869
+    ],
+    "name": "Sudev",
+    "stat": "10 pts missed"
+   },
+   {
+    "key": "fall",
+    "title": "Free Fall",
+    "who": [
+     748886,
+     6519111
+    ],
+    "name": "Aarin and Parth",
+    "stat": "Down 3"
+   },
+   {
+    "key": "spoon",
+    "title": "The Doghouse",
+    "who": [
+     5781412
+    ],
+    "name": "Nihar",
+    "stat": "36 pts"
+   }
   ]
  },
  "awards_full": [
@@ -9069,7 +9237,9 @@
   1,
   6,
   7,
-  8
+  8,
+  9,
+  10
  ],
  "stories": [
   {
@@ -10614,7 +10784,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-25T08:05:20Z",
+ "updated": "2026-11-25T08:07:30Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms in as Sukrut keeps the top spot",
@@ -11970,7 +12140,7 @@
   "log": []
  },
  "checks": {
-  "ts": "2026-11-25T08:05:20Z",
+  "ts": "2026-11-25T08:07:30Z",
   "issues": [],
   "page": [],
   "wording": [
