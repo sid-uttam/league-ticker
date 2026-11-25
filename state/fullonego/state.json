@@ -10784,7 +10784,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-25T12:37:30Z",
+ "updated": "2026-11-25T13:07:30Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms in as Sukrut keeps the top spot",
@@ -12137,7 +12137,8 @@
    "597": "11:up",
    "367": "11:down",
    "388": "11:down",
-   "368": "11:up"
+   "368": "11:up",
+   "579": "11:up"
   },
   "log": [
    {
@@ -12147,11 +12148,17 @@
     "status": "i",
     "chance": 0,
     "news": "Calf injury - Expected back 2 Dec"
+   },
+   {
+    "ts": "2026-11-25T13:07:30Z",
+    "el": 579,
+    "kind": "surge",
+    "net": 25026
    }
   ]
  },
  "checks": {
-  "ts": "2026-11-25T12:37:30Z",
+  "ts": "2026-11-25T13:07:30Z",
   "issues": [],
   "page": [],
   "wording": [
