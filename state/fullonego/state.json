@@ -10069,7 +10069,7 @@
     "standfirst": "",
     "big_picture": "15 of 24 managers captained Haaland. He scored 2, so 4 each with the armband. The best of the 9 who went elsewhere: Pradnyesh with Tavernier, 16 with the armband. Rocket: Aryamann (Up 3). Now 4th.",
     "decision_of_the_week": "Atharva Kshirsagar picked the wrong 11 and left 36 points on the bench. The biggest bench loss of the week. The squad was fine, the team sheet was not.",
-    "one_to_watch": "Shantanu and Pradnyesh are 8 points apart at the Tin Pot line. If Pradnyesh's Tavernier gamble keeps paying, that gap could close.",
+    "one_to_watch": "Shantanu and Pradnyesh are 8 points apart at the Tin Pot line. One good week from Shantanu could swap them over.",
     "winners": [
      {
       "name": "Aryamann",
@@ -10077,7 +10077,7 @@
      },
      {
       "name": "Pradnyesh",
-      "verdict": "The only manager to back Tavernier with the armband. He scored 16 points, and that was pure nerve. Bold, brave and paid for."
+      "verdict": "The only manager to back Tavernier with the armband. 16 points with the armband, and that was pure nerve. Bold, brave and paid for."
      },
      {
       "name": "Arya",
@@ -10160,7 +10160,7 @@
      "name": "Arya",
      "rating": 7,
      "points": 41,
-     "line": "Worst week of the season so far was not this one. Up from 8th is the next test.",
+     "line": "Up a place to 8th, with a lone pick that landed.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -10182,7 +10182,7 @@
      "name": "Sukrut",
      "rating": 6,
      "points": 43,
-     "line": "Leads again. Silva, a private pick, returned 8.",
+     "line": "Still top, and further clear. Silva, a private pick, returned 8.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -10382,7 +10382,7 @@
      "name": "Atharva Kshirsagar",
      "rating": 3,
      "points": 31,
-     "line": "The wrong 11 started. The Bench Disaster award is the first of the season.",
+     "line": "The wrong 11 started, and 36 points sat on the bench.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -10659,7 +10659,7 @@
      "item": "rating:Arya",
      "reason": "fresh: \"becker\" is already in their verdict above; make a different point",
      "before": "A.Becker was a pick nobody else dared. Smart, and it lifted a mid-table run.",
-     "after": "Worst week of the season so far was not this one. Up from 8th is the next test."
+     "after": "Up a place to 8th, with a lone pick that landed."
     },
     {
      "item": "rating:Anuj",
@@ -10704,7 +10704,7 @@
      "item": "one_to_watch",
      "reason": "true: \"Shantanu has a head start\" is unsupported; sheet shows only the 8-point gap, not who is ahead by standing claims beyond that.",
      "before": "Shantanu and Pradnyesh are separated by 8 points at the Tin Pot line. If Pradnyesh's Tavernier gamble keeps paying, the gap could close fast. Shantanu has a head start but not much margin.",
-     "after": "Shantanu and Pradnyesh are 8 points apart at the Tin Pot line. If Pradnyesh's Tavernier gamble keeps paying, that gap could close."
+     "after": "Shantanu and Pradnyesh are 8 points apart at the Tin Pot line. One good week from Shantanu could swap them over."
     },
     {
      "item": "winners:0",
@@ -10728,7 +10728,7 @@
      "item": "rating:Sukrut",
      "reason": "true: \"Silva was a private pick that helped keep the crown safe\" overclaims causation the sheet does not show.",
      "before": "Leads again. Silva was a private pick that helped keep the crown safe.",
-     "after": "Leads again. Silva, a private pick, returned 8."
+     "after": "Still top, and further clear. Silva, a private pick, returned 8."
     },
     {
      "item": "rating:Rushikesh",
@@ -10767,7 +10767,7 @@
      "item": "rating:Atharva Kshirsagar",
      "reason": "fresh: \"Bench Disaster again\" repeats the sheet award name and the headline framing; \"again\" is unsupported as he has won it once.",
      "before": "Bench Disaster again. The right 11 sat on the bench all week.",
-     "after": "The wrong 11 started. The Bench Disaster award is the first of the season."
+     "after": "The wrong 11 started, and 36 points sat on the bench."
     },
     {
      "item": "rating:Nihar",
