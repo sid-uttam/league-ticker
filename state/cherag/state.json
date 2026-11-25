@@ -11049,15 +11049,6 @@
     "event_total": 46
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 55,
-    "last_rank": 48,
-    "total": 680,
-    "event_total": 32
-   },
-   {
     "entry": 4134138,
     "player_name": "Rishab Bajaj",
     "entry_name": "Rishabs11",
@@ -11065,6 +11056,15 @@
     "last_rank": 44,
     "total": 680,
     "event_total": 30
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 55,
+    "last_rank": 48,
+    "total": 680,
+    "event_total": 32
    },
    {
     "entry": 2932096,
@@ -11355,15 +11355,6 @@
     "event_total": 43
    },
    {
-    "entry": 2723973,
-    "player_name": "Arnav Khamankar",
-    "entry_name": "arnav3ggmu",
-    "rank": 89,
-    "last_rank": 89,
-    "total": 641,
-    "event_total": 37
-   },
-   {
     "entry": 3389995,
     "player_name": "Stephen Menezes",
     "entry_name": "Goal Diggers",
@@ -11371,6 +11362,15 @@
     "last_rank": 87,
     "total": 641,
     "event_total": 36
+   },
+   {
+    "entry": 2723973,
+    "player_name": "Arnav Khamankar",
+    "entry_name": "arnav3ggmu",
+    "rank": 89,
+    "last_rank": 89,
+    "total": 641,
+    "event_total": 37
    },
    {
     "entry": 2037953,
@@ -63691,8 +63691,8 @@
    "248721": 52,
    "675013": 53,
    "4540238": 54,
-   "4683090": 55,
    "4134138": 55,
+   "4683090": 55,
    "2932096": 57,
    "48343": 58,
    "2868149": 59,
@@ -63725,8 +63725,8 @@
    "174952": 86,
    "699330": 87,
    "8603432": 88,
-   "2723973": 89,
    "3389995": 89,
+   "2723973": 89,
    "2037953": 91,
    "3350036": 92,
    "5660348": 93,
@@ -63806,8 +63806,8 @@
    "248721": null,
    "675013": null,
    "4540238": null,
-   "4683090": null,
    "4134138": null,
+   "4683090": null,
    "2932096": null,
    "48343": null,
    "2868149": null,
@@ -63840,8 +63840,8 @@
    "174952": null,
    "699330": null,
    "8603432": null,
-   "2723973": null,
    "3389995": null,
+   "2723973": null,
    "2037953": null,
    "3350036": null,
    "5660348": null,
@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-25T20:10:13Z",
+ "updated": "2026-11-25T20:40:13Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week. Watch out for Neol and Sukrut, and remember Haaland's armband still isn't paying off.",
@@ -73734,7 +73734,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-25T20:10:13Z",
+  "ts": "2026-11-25T20:40:13Z",
   "issues": [],
   "page": [],
   "wording": [
