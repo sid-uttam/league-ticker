@@ -3914,7 +3914,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-26T07:14:22Z",
+ "updated": "2026-11-26T07:44:22Z",
  "hist": {
   "key": "11:between",
   "data": {
@@ -17707,14 +17707,9 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-26T07:14:22Z",
+  "ts": "2026-11-26T07:44:22Z",
   "issues": [],
-  "page": [],
-  "wording": [
-   "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
-   "wording (1 points): ...ained 6 on you.      Konsa ARS   Scored 1 pts        13...",
-   "wording (1 points): ...h from him.      De Cuyper BHA   Scored 1 pts        18..."
-  ]
+  "page": []
  },
  "pwatch": {
   "seen": {

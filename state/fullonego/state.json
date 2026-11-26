@@ -10784,7 +10784,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-26T07:14:55Z",
+ "updated": "2026-11-26T07:44:55Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms in as Sukrut keeps the top spot",
@@ -12938,14 +12938,9 @@
   ]
  },
  "checks": {
-  "ts": "2026-11-26T07:14:55Z",
+  "ts": "2026-11-26T07:44:55Z",
   "issues": [],
-  "page": [],
-  "wording": [
-   "wording (1 points): ...move anyone.    De Cuyper BHA   Scored 1 pts        13...",
-   "wording (1 points): ...much from him.      Cherki MCI   Scored 1 pts        10...",
-   "wording (1 points): ...much from him.      Konsa ARS   Scored 1 pts        10..."
-  ]
+  "page": []
  },
  "phase": "between",
  "next_deadline": "2026-11-27T18:30:00Z"
