@@ -10784,7 +10784,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-26T22:19:34Z",
+ "updated": "2026-11-26T22:49:34Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms in as Sukrut keeps the top spot",
@@ -12911,7 +12911,8 @@
    "499": "11:up",
    "4": "11:up",
    "356": "11:up",
-   "8": "11:down"
+   "8": "11:down",
+   "566": "11:up"
   },
   "log": [
    {
@@ -13001,11 +13002,17 @@
     "status": "d",
     "chance": 75,
     "news": "Illness - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-26T22:49:34Z",
+    "el": 566,
+    "kind": "surge",
+    "net": 25036
    }
   ]
  },
  "checks": {
-  "ts": "2026-11-26T22:19:34Z",
+  "ts": "2026-11-26T22:49:34Z",
   "issues": [],
   "page": []
  },
