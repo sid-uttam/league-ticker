@@ -11184,6 +11184,15 @@
     "event_total": 30
    },
    {
+    "entry": 2922453,
+    "player_name": "Abhishek Yerra",
+    "entry_name": "Ctrl + Alt + De Ligt",
+    "rank": 70,
+    "last_rank": 70,
+    "total": 665,
+    "event_total": 38
+   },
+   {
     "entry": 4592187,
     "player_name": "Udit Ruia",
     "entry_name": "Neville Wears Prada",
@@ -11200,15 +11209,6 @@
     "last_rank": 60,
     "total": 665,
     "event_total": 26
-   },
-   {
-    "entry": 2922453,
-    "player_name": "Abhishek Yerra",
-    "entry_name": "Ctrl + Alt + De Ligt",
-    "rank": 70,
-    "last_rank": 70,
-    "total": 665,
-    "event_total": 38
    },
    {
     "entry": 4372346,
@@ -63706,9 +63706,9 @@
    "383029": 67,
    "4314690": 68,
    "2569620": 69,
+   "2922453": 70,
    "4592187": 70,
    "26707": 70,
-   "2922453": 70,
    "4372346": 73,
    "3086063": 74,
    "10615": 75,
@@ -63821,9 +63821,9 @@
    "383029": null,
    "4314690": null,
    "2569620": null,
+   "2922453": null,
    "4592187": null,
    "26707": null,
-   "2922453": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-26T01:43:07Z",
+ "updated": "2026-11-26T02:13:07Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week with Haaland on the armband. Watch Neol and your free hit, and keep an eye on the Calafiori and Rogers crowd you don't own.",
@@ -73741,7 +73741,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-26T01:43:07Z",
+  "ts": "2026-11-26T02:13:07Z",
   "issues": [],
   "page": [],
   "wording": [
