@@ -11049,15 +11049,6 @@
     "event_total": 46
    },
    {
-    "entry": 4134138,
-    "player_name": "Rishab Bajaj",
-    "entry_name": "Rishabs11",
-    "rank": 55,
-    "last_rank": 44,
-    "total": 680,
-    "event_total": 30
-   },
-   {
     "entry": 4683090,
     "player_name": "SHARAN R",
     "entry_name": "Shan FC",
@@ -11065,6 +11056,15 @@
     "last_rank": 48,
     "total": 680,
     "event_total": 32
+   },
+   {
+    "entry": 4134138,
+    "player_name": "Rishab Bajaj",
+    "entry_name": "Rishabs11",
+    "rank": 55,
+    "last_rank": 44,
+    "total": 680,
+    "event_total": 30
    },
    {
     "entry": 2932096,
@@ -11193,15 +11193,6 @@
     "event_total": 38
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
-    "rank": 70,
-    "last_rank": 72,
-    "total": 665,
-    "event_total": 39
-   },
-   {
     "entry": 26707,
     "player_name": "Krishnaji Sanas",
     "entry_name": "Victorious Secrets",
@@ -11209,6 +11200,15 @@
     "last_rank": 60,
     "total": 665,
     "event_total": 26
+   },
+   {
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
+    "rank": 70,
+    "last_rank": 72,
+    "total": 665,
+    "event_total": 39
    },
    {
     "entry": 4372346,
@@ -11238,15 +11238,6 @@
     "event_total": 36
    },
    {
-    "entry": 6830291,
-    "player_name": "Karan P Nanda",
-    "entry_name": "Justlikethat",
-    "rank": 76,
-    "last_rank": 76,
-    "total": 656,
-    "event_total": 35
-   },
-   {
     "entry": 1737924,
     "player_name": "Rajat Bhalla",
     "entry_name": "Break all hell ⚽️",
@@ -11254,6 +11245,15 @@
     "last_rank": 75,
     "total": 656,
     "event_total": 34
+   },
+   {
+    "entry": 6830291,
+    "player_name": "Karan P Nanda",
+    "entry_name": "Justlikethat",
+    "rank": 76,
+    "last_rank": 76,
+    "total": 656,
+    "event_total": 35
    },
    {
     "entry": 438967,
@@ -63691,8 +63691,8 @@
    "248721": 52,
    "675013": 53,
    "4540238": 54,
-   "4134138": 55,
    "4683090": 55,
+   "4134138": 55,
    "2932096": 57,
    "48343": 58,
    "2868149": 59,
@@ -63707,13 +63707,13 @@
    "4314690": 68,
    "2569620": 69,
    "2922453": 70,
-   "4592187": 70,
    "26707": 70,
+   "4592187": 70,
    "4372346": 73,
    "3086063": 74,
    "10615": 75,
-   "6830291": 76,
    "1737924": 76,
+   "6830291": 76,
    "438967": 78,
    "44532": 79,
    "11673": 80,
@@ -63806,8 +63806,8 @@
    "248721": null,
    "675013": null,
    "4540238": null,
-   "4134138": null,
    "4683090": null,
+   "4134138": null,
    "2932096": null,
    "48343": null,
    "2868149": null,
@@ -63822,13 +63822,13 @@
    "4314690": null,
    "2569620": null,
    "2922453": null,
-   "4592187": null,
    "26707": null,
+   "4592187": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
-   "6830291": null,
    "1737924": null,
+   "6830291": null,
    "438967": null,
    "44532": null,
    "11673": null,
@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-26T02:13:07Z",
+ "updated": "2026-11-26T02:43:05Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week with Haaland on the armband. Watch Neol and your free hit, and keep an eye on the Calafiori and Rogers crowd you don't own.",
@@ -73741,7 +73741,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-26T02:13:07Z",
+  "ts": "2026-11-26T02:43:05Z",
   "issues": [],
   "page": [],
   "wording": [
