@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-26T22:49:22Z",
+ "updated": "2026-11-26T23:19:22Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week with Haaland on the armband. Watch Neol and your free hit, and keep an eye on the Calafiori and Rogers crowd you don't own.",
@@ -73736,7 +73736,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-26T22:49:22Z",
+  "ts": "2026-11-26T23:19:22Z",
   "issues": [],
   "page": []
  },
@@ -74221,7 +74221,7 @@
    "427": "11:down",
    "124": "11:up",
    "68": "11:up",
-   "249": "10:up",
+   "249": "11:down",
    "79": "11:up",
    "109": "11:up",
    "391": "11:down",
@@ -75313,6 +75313,12 @@
     "el": 566,
     "kind": "surge",
     "net": 25036
+   },
+   {
+    "ts": "2026-11-26T23:19:22Z",
+    "el": 249,
+    "kind": "surge",
+    "net": -25256
    }
   ]
  },
