@@ -10617,15 +10617,6 @@
     "event_total": 34
    },
    {
-    "entry": 1273065,
-    "player_name": "Prathap Devadiga",
-    "entry_name": "Waka waka 11",
-    "rank": 7,
-    "last_rank": 9,
-    "total": 730,
-    "event_total": 36
-   },
-   {
     "entry": 4722308,
     "player_name": "Biswadeep Majumdar",
     "entry_name": "quadrupliraola",
@@ -10633,6 +10624,15 @@
     "last_rank": 7,
     "total": 730,
     "event_total": 31
+   },
+   {
+    "entry": 1273065,
+    "player_name": "Prathap Devadiga",
+    "entry_name": "Waka waka 11",
+    "rank": 7,
+    "last_rank": 9,
+    "total": 730,
+    "event_total": 36
    },
    {
     "entry": 1902223,
@@ -11049,15 +11049,6 @@
     "event_total": 46
    },
    {
-    "entry": 4683090,
-    "player_name": "SHARAN R",
-    "entry_name": "Shan FC",
-    "rank": 55,
-    "last_rank": 48,
-    "total": 680,
-    "event_total": 32
-   },
-   {
     "entry": 4134138,
     "player_name": "Rishab Bajaj",
     "entry_name": "Rishabs11",
@@ -11065,6 +11056,15 @@
     "last_rank": 44,
     "total": 680,
     "event_total": 30
+   },
+   {
+    "entry": 4683090,
+    "player_name": "SHARAN R",
+    "entry_name": "Shan FC",
+    "rank": 55,
+    "last_rank": 48,
+    "total": 680,
+    "event_total": 32
    },
    {
     "entry": 2932096,
@@ -11427,15 +11427,6 @@
     "event_total": 45
    },
    {
-    "entry": 8779992,
-    "player_name": "Kartik Kak",
-    "entry_name": "Top FC",
-    "rank": 97,
-    "last_rank": 100,
-    "total": 627,
-    "event_total": 41
-   },
-   {
     "entry": 4905114,
     "player_name": "Anuj Joglekar",
     "entry_name": "Summer Tzolstis",
@@ -11443,6 +11434,15 @@
     "last_rank": 87,
     "total": 627,
     "event_total": 22
+   },
+   {
+    "entry": 8779992,
+    "player_name": "Kartik Kak",
+    "entry_name": "Top FC",
+    "rank": 97,
+    "last_rank": 100,
+    "total": 627,
+    "event_total": 41
    },
    {
     "entry": 1967440,
@@ -63643,8 +63643,8 @@
    "1325491": 4,
    "13978": 5,
    "136653": 6,
-   "1273065": 7,
    "4722308": 7,
+   "1273065": 7,
    "1902223": 9,
    "2429776": 10,
    "3949616": 11,
@@ -63691,8 +63691,8 @@
    "248721": 52,
    "675013": 53,
    "4540238": 54,
-   "4683090": 55,
    "4134138": 55,
+   "4683090": 55,
    "2932096": 57,
    "48343": 58,
    "2868149": 59,
@@ -63733,8 +63733,8 @@
    "3298199": 94,
    "5734029": 95,
    "3794959": 96,
-   "8779992": 97,
    "4905114": 97,
+   "8779992": 97,
    "1967440": 99,
    "4616626": 99,
    "1474501": 101,
@@ -63758,8 +63758,8 @@
    "1325491": "gold",
    "13978": "gold",
    "136653": "gold",
-   "1273065": "gold",
    "4722308": "gold",
+   "1273065": "gold",
    "1902223": "gold",
    "2429776": "silver",
    "3949616": "silver",
@@ -63806,8 +63806,8 @@
    "248721": null,
    "675013": null,
    "4540238": null,
-   "4683090": null,
    "4134138": null,
+   "4683090": null,
    "2932096": null,
    "48343": null,
    "2868149": null,
@@ -63848,8 +63848,8 @@
    "3298199": null,
    "5734029": null,
    "3794959": null,
-   "8779992": null,
    "4905114": null,
+   "8779992": null,
    "1967440": null,
    "4616626": null,
    "1474501": null,
@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-26T05:14:49Z",
+ "updated": "2026-11-26T05:44:46Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week with Haaland on the armband. Watch Neol and your free hit, and keep an eye on the Calafiori and Rogers crowd you don't own.",
@@ -73741,7 +73741,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-26T05:14:49Z",
+  "ts": "2026-11-26T05:44:46Z",
   "issues": [],
   "page": [],
   "wording": [
