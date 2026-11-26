@@ -10617,15 +10617,6 @@
     "event_total": 34
    },
    {
-    "entry": 4722308,
-    "player_name": "Biswadeep Majumdar",
-    "entry_name": "quadrupliraola",
-    "rank": 7,
-    "last_rank": 7,
-    "total": 730,
-    "event_total": 31
-   },
-   {
     "entry": 1273065,
     "player_name": "Prathap Devadiga",
     "entry_name": "Waka waka 11",
@@ -10633,6 +10624,15 @@
     "last_rank": 9,
     "total": 730,
     "event_total": 36
+   },
+   {
+    "entry": 4722308,
+    "player_name": "Biswadeep Majumdar",
+    "entry_name": "quadrupliraola",
+    "rank": 7,
+    "last_rank": 7,
+    "total": 730,
+    "event_total": 31
    },
    {
     "entry": 1902223,
@@ -11184,13 +11184,13 @@
     "event_total": 30
    },
    {
-    "entry": 2922453,
-    "player_name": "Abhishek Yerra",
-    "entry_name": "Ctrl + Alt + De Ligt",
+    "entry": 4592187,
+    "player_name": "Udit Ruia",
+    "entry_name": "Neville Wears Prada",
     "rank": 70,
-    "last_rank": 70,
+    "last_rank": 72,
     "total": 665,
-    "event_total": 38
+    "event_total": 39
    },
    {
     "entry": 26707,
@@ -11202,13 +11202,13 @@
     "event_total": 26
    },
    {
-    "entry": 4592187,
-    "player_name": "Udit Ruia",
-    "entry_name": "Neville Wears Prada",
+    "entry": 2922453,
+    "player_name": "Abhishek Yerra",
+    "entry_name": "Ctrl + Alt + De Ligt",
     "rank": 70,
-    "last_rank": 72,
+    "last_rank": 70,
     "total": 665,
-    "event_total": 39
+    "event_total": 38
    },
    {
     "entry": 4372346,
@@ -63643,8 +63643,8 @@
    "1325491": 4,
    "13978": 5,
    "136653": 6,
-   "4722308": 7,
    "1273065": 7,
+   "4722308": 7,
    "1902223": 9,
    "2429776": 10,
    "3949616": 11,
@@ -63706,9 +63706,9 @@
    "383029": 67,
    "4314690": 68,
    "2569620": 69,
-   "2922453": 70,
-   "26707": 70,
    "4592187": 70,
+   "26707": 70,
+   "2922453": 70,
    "4372346": 73,
    "3086063": 74,
    "10615": 75,
@@ -63758,8 +63758,8 @@
    "1325491": "gold",
    "13978": "gold",
    "136653": "gold",
-   "4722308": "gold",
    "1273065": "gold",
+   "4722308": "gold",
    "1902223": "gold",
    "2429776": "silver",
    "3949616": "silver",
@@ -63821,9 +63821,9 @@
    "383029": null,
    "4314690": null,
    "2569620": null,
-   "2922453": null,
-   "26707": null,
    "4592187": null,
+   "26707": null,
+   "2922453": null,
    "4372346": null,
    "3086063": null,
    "10615": null,
@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-26T07:44:46Z",
+ "updated": "2026-11-26T08:14:47Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week with Haaland on the armband. Watch Neol and your free hit, and keep an eye on the Calafiori and Rogers crowd you don't own.",
@@ -73741,7 +73741,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-26T07:44:46Z",
+  "ts": "2026-11-26T08:14:47Z",
   "issues": [],
   "page": []
  },
@@ -74238,7 +74238,7 @@
    "449": "11:down",
    "379": "11:up",
    "165": "11:down",
-   "4": "10:up",
+   "4": "11:up",
    "453": "10:down",
    "94": "11:down",
    "504": "11:up",
@@ -75310,6 +75310,12 @@
     "el": 499,
     "kind": "surge",
     "net": 25027
+   },
+   {
+    "ts": "2026-11-26T08:14:47Z",
+    "el": 4,
+    "kind": "surge",
+    "net": 25073
    }
   ]
  },
