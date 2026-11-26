@@ -3914,7 +3914,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-26T11:45:55Z",
+ "updated": "2026-11-26T12:15:55Z",
  "hist": {
   "key": "11:between",
   "data": {
@@ -8800,37 +8800,37 @@
   "gaffer_candidate": {
    "gw": 11,
    "v": 4,
-   "ts": "2026-11-25T19:09:50Z",
+   "ts": "2026-11-26T12:15:55Z",
    "model": "claude-sonnet-5-5",
    "draft": true,
    "piece": {
-    "headline": "Ayodele stretches the lead as Nihal closes on Cherag",
-    "standfirst": "Haaland blanked for 22 captains, Ayodele still stretched the lead, and Maanav's Bench Boost made him the week's best.",
-    "big_picture": "Ayodele had a below-par week and still stretched the lead, because Cherag had a worse one. The real noise is behind them: Nihal is now just 2 off Cherag and has cut that gap every week since GW8. If Ayodele keeps stumbling, a 3-way scrap looks likelier than a procession.",
-    "decision_of_the_week": "Ravi played the Wildcard, then left 26 points on the bench. Still climbed 5 places, which shows how rough the week was for everyone. Sort the selection and that rise could be bigger.",
-    "one_to_watch": "Tobi and Isaiah are split by a single point at the Tin Pot line. If either leaves points on the bench again, the other could slip past.",
+    "headline": "Ayodele wobbles and nobody pounces",
+    "standfirst": "Haaland gave 22 captains 4 points each, and Ayodele still stretched the lead to 11 while Nihal crept up behind.",
+    "big_picture": "Cherag held the crown for 6 weeks, then lost it. Ayodele had a poor week, 5 below average, and nobody punished it. Nihal is 2 behind Cherag now, so the fight for second matters. Ayodele's biggest danger may be a chaser who hasn't worn the crown yet.",
+    "decision_of_the_week": "Wildcard week, wrong 11, 26 points benched. Still up to 8th, which says the squad itself is sound.",
+    "one_to_watch": "Tobi and Isaiah are one point apart at the Tin Pot line. Whoever gets the better of next week's captain pick could decide who slips into the bottom group.",
     "winners": [
      {
       "name": "Maanav",
-      "verdict": "Bench Boost worth 18 points capped a climb that started in 23rd. Well timed, and well earned."
+      "verdict": "Bench Boost worth 18 did the heavy lifting. Third week up in a row, and Simon is 3 ahead."
      },
      {
       "name": "Nihal",
-      "verdict": "6 weeks running above the league average. That is a habit, not a fluke."
-     },
-     {
-      "name": "Tomisin",
-      "verdict": "Backed Belloumi alone and he returned 7. After last week's lone punt missed, this one landed."
+      "verdict": "6 weeks above average in a row, and a Bench Boost worth 11 on top. Third is a season high."
      }
     ],
     "losers": [
      {
       "name": "Edd",
-      "verdict": "The good run ended in the Doghouse. Edd was 21 points clear a week ago, and now Ravi leads by 3."
+      "verdict": "The 6-week run above average is over. Last week 21 clear of Ravi, now 3 behind."
      },
      {
       "name": "Raushan",
-      "verdict": "Dropped 3 places to 17th, a week after the Evanilson armband paid. Bold calls only help if they keep landing."
+      "verdict": "Down 3 to 17th, passed by Maanav, Justin and Will. Last week's Evanilson armband feels a long way back."
+     },
+     {
+      "name": "Naishadh",
+      "verdict": "Manzambi and Van Hecke came in. Naishadh still dropped to 19th, with Maanav, Justin and Tomisin all sailing past."
      }
     ]
    },
@@ -8839,7 +8839,7 @@
      "name": "Maanav",
      "rating": 10,
      "points": 58,
-     "line": "A month ago stuck near the bottom. Now in the mix, and still climbing.",
+     "line": "Van Hecke, Rogers and De Cuyper came in and the Bench Boost cashed in.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -8873,7 +8873,7 @@
      "name": "Nihal",
      "rating": 9,
      "points": 50,
-     "line": "First time in the top 3 this season. Cherag is now in the mirror.",
+     "line": "A season high at 3rd, and Cherag now within reach.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -8903,7 +8903,7 @@
      "name": "Tomisin",
      "rating": 7,
      "points": 46,
-     "line": "Belloumi, picked by nobody else, delivered. Last week's gamble gets its answer.",
+     "line": "Passed Naishadh and Dominic. Last week's low rating is forgotten.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -8929,7 +8929,7 @@
      "name": "Justin",
      "rating": 6,
      "points": 47,
-     "line": "Rebuilding after the slump that followed GW5. 3 rivals passed this week.",
+     "line": "From 4th in GW5 to 18th, now clawing back. The comeback has legs.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -8959,7 +8959,7 @@
      "name": "Ravi",
      "rating": 6,
      "points": 45,
-     "line": "Last week was the season's low. This week, back inside the top 10.",
+     "line": "Last week looked like a collapse. This week says comeback, bench blunder aside.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -8989,8 +8989,8 @@
      "name": "Lavesh",
      "rating": 6,
      "points": 41,
-     "line": "10th in GW3, down to 24th by GW8, back up to 21st now.",
-     "plain": true,
+     "line": "3 weeks above average, and 21st finally has some daylight.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -9011,7 +9011,7 @@
      "name": "Dinesh",
      "rating": 6,
      "points": 40,
-     "line": "Right armband on Isak. Selling Calvert-Lewin cost the rest.",
+     "line": "Isak on the armband won Captain of the Week. Selling Calvert-Lewin stings.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9041,7 +9041,7 @@
      "name": "Hishaan",
      "rating": 6,
      "points": 39,
-     "line": "Jacquet, backed by nobody else, returned 6. Quiet lone wolf, third week above average.",
+     "line": "Jacquet, a lone pick, returned 6. 9 places up from the GW8 low.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9063,7 +9063,7 @@
      "name": "IB",
      "rating": 6,
      "points": 39,
-     "line": "Triple Captain added only 2, yet Elvin was passed. Gentle progress at the foot.",
+     "line": "Triple Captain on Haaland was a gift to the rest. Still near the foot.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9093,7 +9093,7 @@
      "name": "Sid",
      "rating": 6,
      "points": 39,
-     "line": "3 weeks in third ended as Nihal went past. The bench did not help.",
+     "line": "Third place became 4th. Bench points keep leaking out of the title push.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9127,7 +9127,7 @@
      "name": "Iain",
      "rating": 6,
      "points": 38,
-     "line": "Level with the average, which is progress of a sort. Still planted in 28th.",
+     "line": "Level with the average, and still planted on 28th. Steady, if parked.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9149,7 +9149,7 @@
      "name": "Ahmad",
      "rating": 5,
      "points": 38,
-     "line": "Vuskovic scored nothing. A far cry from the GW3 days on top.",
+     "line": "Vuskovic scored nothing. A reminder the GW3 peak is long gone.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9175,7 +9175,7 @@
      "name": "Tobi",
      "rating": 5,
      "points": 38,
-     "line": "Matched the average, ending a long run below it. Petrović, backed alone, scored 6.",
+     "line": "Level with the average ends the 6-week low streak. A small step.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9231,7 +9231,7 @@
      "name": "Simon",
      "rating": 5,
      "points": 35,
-     "line": "2 rivals went by. The tidy Isak week now feels distant.",
+     "line": "Passed by Ravi and Ahmad. The quiet drift is getting noticed.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9257,8 +9257,8 @@
      "name": "Will",
      "rating": 5,
      "points": 35,
-     "line": "35 points, 3 below the league average.",
-     "plain": true,
+     "line": "Another dull week in 16th. Parked, and Maanav drove past.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -9283,7 +9283,7 @@
      "name": "Isaiah",
      "rating": 5,
      "points": 34,
-     "line": "Dinesh went past. The bottom end is getting crowded.",
+     "line": "Dinesh went past. Nothing about 24th suggests a plan.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9309,7 +9309,7 @@
      "name": "Ayodele",
      "rating": 5,
      "points": 33,
-     "line": "A quiet week with plenty on the bench, yet the lead grew. Fortunate.",
+     "line": "Top spot kept on a poor week. Cherag's worse one helped.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9339,7 +9339,7 @@
      "name": "Tonna",
      "rating": 4,
      "points": 38,
-     "line": "Long run above average ended level. The bench is the culprit.",
+     "line": "5 good weeks ended level. 15 benched points did the damage.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9365,7 +9365,7 @@
      "name": "Bhavik",
      "rating": 4,
      "points": 35,
-     "line": "Down again, and the slide from 4th is still running. Time for a plan.",
+     "line": "4th week down in a row, 9th to 11th. Still no brake.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9395,7 +9395,7 @@
      "name": "Omar",
      "rating": 4,
      "points": 34,
-     "line": "Slide snapped, with Edd passed. Still below average 4 weeks running.",
+     "line": "The slide is over, a place gained. A start, not a recovery.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9425,7 +9425,7 @@
      "name": "Cherag",
      "rating": 4,
      "points": 30,
-     "line": "Crown gone, and now 11 behind. The bench keeps leaking points.",
+     "line": "Dethroned in GW10, now Nihal is 2 points behind. Bench trouble persists.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9455,7 +9455,7 @@
      "name": "Dominic",
      "rating": 4,
      "points": 30,
-     "line": "Last week's Trafford punt paid. This week, 2 rivals went past.",
+     "line": "Trafford's punt paid last week. This week Maanav and Tomisin passed.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9481,7 +9481,7 @@
      "name": "Naishadh",
      "rating": 4,
      "points": 29,
-     "line": "Best place this season was 9th in GW4. That feels a long time ago.",
+     "line": "Manzambi and Van Hecke arrived, the table slipped anyway. 3 teams went past.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9511,7 +9511,7 @@
      "name": "Raushan",
      "rating": 3,
      "points": 25,
-     "line": "3 rivals went past. Last week's big armband call feels far away.",
+     "line": "Passed by Maanav, Justin and Will. A fast drop from a decent run.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9537,7 +9537,7 @@
      "name": "Edd",
      "rating": 2,
      "points": 21,
-     "line": "The best place of the season came last week. Doghouse this week.",
+     "line": "A 6-week run above average ended. Ravi, Omar and Hishaan all passed.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -9562,215 +9562,143 @@
    ],
    "editor": [
     {
-     "item": "losers:2",
-     "reason": "numbers: 4 numbers, at most 2",
-     "before": "Parked in 16th for 3 weeks, then dropped to 19th. 2 new signings did not stop the fall.",
-     "after": null,
-     "still": "numbers: 4 numbers, at most 2"
-    },
-    {
-     "item": "rating:Nihal",
+     "item": "winners:1",
      "reason": "fresh: copies an example or an earlier line",
-     "before": "Highest place of the season, and the chase on Cherag is properly on.",
-     "after": "First time in the top 3 this season. Cherag is now in the mirror."
+     "before": "Highest place of the season, and the Bench Boost was timed well. The chase of Cherag is now a proper fight. Skill, and a bit of nerve.",
+     "after": "6 weeks above average in a row, and a Bench Boost worth 11 on top. Third is a season high."
     },
     {
-     "item": "rating:Tomisin",
+     "item": "winners:2",
      "reason": "fresh: copies an example or an earlier line",
-     "before": "Belloumi, started by nobody else, returned 7. Last week's miss is forgotten.",
-     "after": "Belloumi, picked by nobody else, delivered. Last week's gamble gets its answer."
-    },
-    {
-     "item": "rating:Lavesh",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "3 weeks above average, yet still 21st. The hole is deep.",
+     "before": "Belloumi, picked by nobody else, returned 7. A lone pick that worked after last week's one did not. Nerve, with a dash of luck.",
      "after": null,
-     "still": "numbers: 2 numbers, at most 1"
+     "still": "fresh: copies an example or an earlier line"
     },
     {
      "item": "rating:Dinesh",
      "reason": "true: numbers not in the sheet ['9']",
-     "before": "Right armband, wrong sale. Calvert-Lewin scored 9 after leaving.",
-     "after": "Right armband on Isak. Selling Calvert-Lewin cost the rest."
+     "before": "Right armband, wrong sale. Calvert-Lewin's 9 stings in a slump.",
+     "after": "Isak on the armband won Captain of the Week. Selling Calvert-Lewin stings."
     },
     {
      "item": "rating:Nanik",
      "reason": "fresh: copies an example or an earlier line",
-     "before": "Held 5th for weeks, then selection let the side down. Points sat on the bench.",
+     "before": "Van Hecke arrived, 18 points sat on the bench. Gold is slipping away.",
      "after": null,
-     "still": "numbers: 2 numbers, at most 1"
-    },
-    {
-     "item": "rating:Will",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "15th for 3 weeks, now 16th. The spark has not arrived.",
-     "after": null,
-     "still": "numbers: 2 numbers, at most 1; fresh: copies an example or an earlier line"
-    },
-    {
-     "item": "rating:Tonna",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "5-week run above average ended level. 15 on the bench is the culprit.",
-     "after": "Long run above average ended level. The bench is the culprit."
+     "still": "numbers: 3 numbers, at most 2"
     },
     {
      "item": "rating:Bhavik",
-     "reason": "true: numbers not in the sheet ['7']; fresh: copies an example or an earlier line",
-     "before": "Falling every week since GW7. The slide needs a plan, not patience.",
-     "after": "Down again, and the slide from 4th is still running. Time for a plan."
-    },
-    {
-     "item": "rating:Cherag",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "6 weeks on top, now 11 back. Another week of leaving points on the bench.",
-     "after": "Crown gone, and now 11 behind. The bench keeps leaking points."
-    },
-    {
-     "item": "rating:Edd",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Season high of 7th last week, now back in 10th. A quick fall.",
-     "after": "The best place of the season came last week. Doghouse this week."
-    },
-    {
-     "item": "big_picture",
-     "reason": "fresh: repeats 22 from standfirst; say something new",
-     "before": "Haaland let down 22 captain pickers, yet the top barely flinched. Ayodele had a below-par week and still ended 11 clear, because Cherag had a worse one. The real noise is behind them: Nihal is now just 2 off Cherag. If Ayodele keeps stumbling, a 3-way scrap looks likelier than a procession.",
-     "after": "Ayodele had a below-par week and still stretched the lead, because Cherag had a worse one. The real noise is behind them: Nihal is now just 2 off Cherag and has cut that gap every week since GW8. If Ayodele keeps stumbling, a 3-way scrap looks likelier than a procession."
-    },
-    {
-     "item": "rating:Maanav",
-     "reason": "fresh: \"boost\" is already in their verdict above; make a different point",
-     "before": "A month ago stuck near the bottom. Bench Boost crowned the climb.",
-     "after": "A month ago stuck near the bottom. Now in the mix, and still climbing."
-    },
-    {
-     "item": "rating:Raushan",
-     "reason": "fresh: \"evanilson\" is already in their verdict above; make a different point",
-     "before": "Last week's lone Evanilson armband seems far away. 3 rivals went past.",
-     "after": "3 rivals went past. Last week's big armband call feels far away."
-    },
-    {
-     "item": "headline",
-     "reason": "fresh: 'Nobody lays a glove on' is a stock phrase; also 'Nihal lurks' is vague against the sheet",
-     "before": "Nobody lays a glove on Ayodele as Nihal lurks",
-     "after": "Ayodele stretches the lead as Nihal closes on Cherag"
-    },
-    {
-     "item": "decision_of_the_week",
-     "reason": "true: Ravi's 'Wildcard' is supported, but 'climbed 5 places' fine; 'left 26 points on the bench' supported",
-     "before": "Ravi played the Wildcard, then left 26 points on the bench. Still climbed 5 places, which says plenty about how rough the week was for everyone. Fix the selection and that rise could be bigger.",
-     "after": "Ravi played the Wildcard, then left 26 points on the bench. Still climbed 5 places, which shows how rough the week was for everyone. Sort the selection and that rise could be bigger."
-    },
-    {
-     "item": "one_to_watch",
-     "reason": "true: says Tobi and Isaiah split by 'a single point' at the Tin Pot line, sheet says gap 1, supported",
-     "before": "Tobi and Isaiah are split by a single point at the Tin Pot line. If either leaves points on the bench again, the other could slip past.",
-     "after": "Tobi and Isaiah are split by a single point at the Tin Pot line. If either leaves points on the bench again, the other could slip past."
-    },
-    {
-     "item": "winners:0",
-     "reason": "true: says 'climb that started in 23rd' but sheet shows Maanav climbing from 23rd to 14th, supported; 'this was skill rather than luck' is an unsupported claim",
-     "before": "Bench Boost worth 18 points capped a climb that started in 23rd. Well timed, so this was skill rather than luck.",
-     "after": "Bench Boost worth 18 points capped a climb that started in 23rd. Well timed, and well earned."
-    },
-    {
-     "item": "winners:1",
-     "reason": "true: '6 weeks running above the league average' is wrong, sheet shows Maanav at 3 weeks in a row; Nihal has 6 weeks",
-     "before": "6 weeks running above the league average. That is a habit, not a fluke.",
-     "after": "6 weeks running above the league average. That is a habit, not a fluke."
-    },
-    {
-     "item": "winners:2",
-     "reason": "true: 'Backed Belloumi alone and he returned 7' is Tomisin, but sheet says 'last week's lone punt missed' supported; 'this one landed' is supported",
-     "before": "Backed Belloumi alone and he returned 7. After last week's lone punt missed, this one landed: nerve, with a bit of luck.",
-     "after": "Backed Belloumi alone and he returned 7. After last week's lone punt missed, this one landed."
-    },
-    {
-     "item": "losers:0",
-     "reason": "true: 'Ravi was 21 points behind a week ago' is wrong, Edd was 21 clear; Ravi now leads by 3, the sentence misattributes the 21-point lead",
-     "before": "The good run ended in the Doghouse. Ravi was 21 points behind a week ago and now leads by 3.",
-     "after": "The good run ended in the Doghouse. Edd was 21 points clear a week ago, and now Ravi leads by 3."
-    },
-    {
-     "item": "losers:1",
-     "reason": "true: 'a week after the Evanilson armband gamble paid' is wrong, Raushan's Evanilson returned 18 last week, that's supported; but 'Dropped 3 places to 17th' is ",
-     "before": "Dropped 3 places to 17th, a week after the Evanilson armband gamble paid. Brave calls only help if they keep landing.",
-     "after": "Dropped 3 places to 17th, a week after the Evanilson armband paid. Bold calls only help if they keep landing."
-    },
-    {
-     "item": "rating:Ravi",
-     "reason": "true: 'back inside the top 10' supported at 8th; 'season's low' is supported",
-     "before": "Last week was the season's low. This week, back inside the top 10.",
-     "after": "Last week was the season's low. This week, back inside the top 10."
-    },
-    {
-     "item": "rating:Hishaan",
-     "reason": "true: 'third week above average' supported; 'Quiet lone wolf' fine",
-     "before": "Jacquet, backed by nobody else, returned 6. Quiet lone wolf, third week above average.",
-     "after": "Jacquet, backed by nobody else, returned 6. Quiet lone wolf, third week above average."
-    },
-    {
-     "item": "rating:Sid",
-     "reason": "true: 'the bench did not help' supported by 13 points on bench; '3 weeks in third' supported",
-     "before": "3 weeks in third ended as Nihal went past. The bench did not help.",
-     "after": "3 weeks in third ended as Nihal went past. The bench did not help."
-    },
-    {
-     "item": "rating:Iain",
-     "reason": "true: 'Level with the average' supported; 'planted in 28th' supported",
-     "before": "Level with the average, which is progress of a sort. Still planted in 28th.",
-     "after": "Level with the average, which is progress of a sort. Still planted in 28th."
-    },
-    {
-     "item": "rating:Ahmad",
-     "reason": "true: 'A far cry from the GW3 days on top' supported (best place 1st GW3)",
-     "before": "Vuskovic scored nothing. A far cry from the GW3 days on top.",
-     "after": "Vuskovic scored nothing. A far cry from the GW3 days on top."
-    },
-    {
-     "item": "rating:Tobi",
-     "reason": "true: 'long run below it' supported, but 'Petrović, backed alone, scored 6' supported",
-     "before": "Matched the average, ending a long run below it. Petrović, backed alone, scored 6.",
-     "after": "Matched the average, ending a long run below it. Petrović, backed alone, scored 6."
-    },
-    {
-     "item": "rating:Simon",
-     "reason": "true: '2 rivals went by' supported; 'tidy Isak week' supported",
-     "before": "2 rivals went by. The tidy Isak week now feels distant.",
-     "after": "2 rivals went by. The tidy Isak week now feels distant."
-    },
-    {
-     "item": "rating:Isaiah",
-     "reason": "true: 'Dinesh went past' supported",
-     "before": "Dinesh went past. The bottom end is getting crowded.",
-     "after": "Dinesh went past. The bottom end is getting crowded."
-    },
-    {
-     "item": "rating:Ayodele",
-     "reason": "true: 'A quiet week with 14 on the bench' supported; 'Fortunate' is opinion but acceptable",
-     "before": "A quiet week with 14 on the bench, yet the lead grew. Fortunate.",
-     "after": "A quiet week with plenty on the bench, yet the lead grew. Fortunate."
-    },
-    {
-     "item": "rating:Dominic",
-     "reason": "true: 'Trafford punt paid' supported; '2 rivals went past' supported by sheet",
-     "before": "Last week's Trafford punt paid. This week 2 rivals went past.",
-     "after": "Last week's Trafford punt paid. This week, 2 rivals went past."
+     "reason": "true: 4th to 11th isn't a real move (it was 9th to 11th)",
+     "before": "4th straight drop, 4th to 11th. The slide needs a stop sign.",
+     "after": "4th week down in a row, 9th to 11th. Still no brake."
     },
     {
      "item": "rating:Naishadh",
-     "reason": "true: 'Best place this season was 9th in GW4' supported",
-     "before": "Best place this season was 9th in GW4. That feels a long time ago.",
-     "after": "Best place this season was 9th in GW4. That feels a long time ago."
+     "reason": "empty",
+     "before": "",
+     "after": null,
+     "still": "numbers: 3 numbers, at most 2"
     },
-    "second rewrite skipped: Extra data: line 3 column 1 (char 334)"
+    {
+     "item": "big_picture",
+     "reason": "fresh: repeats 11 from standfirst; say something new",
+     "before": "2 weeks ago the crown looked loose. Cherag held it for 6 weeks, then lost it. This week Ayodele had the lower score and still stretched the lead to 11, because Cherag had the lower one. Nihal is now 2 behind Cherag. Ayodele's real threat may no longer be Cherag.",
+     "after": "Cherag held the crown for 6 weeks, then lost it. Ayodele had a poor week, 5 below average, and nobody punished it. Nihal is 2 behind Cherag now, so the fight for second matters. Ayodele's biggest danger may be a chaser who hasn't worn the crown yet."
+    },
+    {
+     "item": "decision_of_the_week",
+     "reason": "fresh: repeats 11 from standfirst; say something new",
+     "before": "Ravi picked the wrong 11 and left 26 points on the bench. It nearly sank a Wildcard week, and the rise to 8th came despite it. A costly lesson in selection.",
+     "after": "Wildcard week, wrong 11, 26 points benched. Still up to 8th, which says the squad itself is sound."
+    },
+    {
+     "item": "rating:Maanav",
+     "reason": "fresh: \"climbing\" is already in their verdict above; make a different point",
+     "before": "3 weeks of climbing, and the chip finally turned the lights on.",
+     "after": "Van Hecke, Rogers and De Cuyper came in and the Bench Boost cashed in."
+    },
+    {
+     "item": "rating:Nihal",
+     "reason": "fresh: \"cherag\" is already in their verdict above; make a different point",
+     "before": "A season high at 3rd, and Cherag now within reach.",
+     "after": "(kept: the rewrite was worse)",
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "rating:Tomisin",
+     "reason": "fresh: \"belloumi\" is already in their verdict above; make a different point",
+     "before": "Belloumi was a lone pick that landed. The shot paid off.",
+     "after": "Passed Naishadh and Dominic. Last week's low rating is forgotten."
+    },
+    {
+     "item": "rating:Edd",
+     "reason": "fresh: \"doghouse\" is already in their verdict above; make a different point",
+     "before": "The longest run in the league ended in the Doghouse.",
+     "after": "A 6-week run above average ended. Ravi, Omar and Hishaan all passed."
+    },
+    {
+     "item": "headline",
+     "reason": "fresh: 'blanks again' repeats the pattern without new story; weak but acceptable",
+     "before": "Haaland blanks again, Ayodele still stands",
+     "after": "Ayodele wobbles and nobody pounces"
+    },
+    {
+     "item": "winners:0",
+     "reason": "true: 'The transfers did the quiet work' and 'Skill, mostly' are unsupported verdicts; sheet shows transfers +6 but Bench Boost worth 18 is the bigger driver.",
+     "before": "Bench Boost banked a big return. 3 weeks of climbing came with a nudge from the chip, but the transfers did the quiet work. Skill, mostly.",
+     "after": "Bench Boost worth 18 did the heavy lifting. Third week up in a row, and Simon is 3 ahead."
+    },
+    {
+     "item": "losers:0",
+     "reason": "true: 'Ravi has taken the bragging rights' is unsupported; Ravi is not in SHEET's streak data, and Edd's streak is the 6-week one ended, but the 'bragging right",
+     "before": "A 6-week run above average is over, and Ravi has taken the bragging rights. The Doghouse is rarely kind to a streak that long.",
+     "after": "The 6-week run above average is over. Last week 21 clear of Ravi, now 3 behind."
+    },
+    {
+     "item": "losers:1",
+     "reason": "true: '3 places lost' is correct, but '12th of GW3' and 'last week's brave armband has no follow-up' are unsupported by Raushan's season data pattern beyond 12t",
+     "before": "3 places lost, and 17th is a long way from the 12th of GW3. Last week's brave armband has no follow-up.",
+     "after": "Down 3 to 17th, passed by Maanav, Justin and Will. Last week's Evanilson armband feels a long way back."
+    },
+    {
+     "item": "losers:2",
+     "reason": "true: 'Busy, not clever' and 'Tomisin and Maanav both went past' is not in Naishadh's data as a 5-transfer claim; sheet says transfers +5 (in: Manzambi and Van ",
+     "before": "5 transfers' worth of new signings, and the table still dropped them 3 places. Tomisin and Maanav both went past. Busy, not clever.",
+     "after": null,
+     "still": "numbers: 4 numbers, at most 3"
+    },
+    {
+     "item": "rating:Ayodele",
+     "reason": "true: 'Lucky rivals, not luck' is a verdict not supported; sheet shows Ayodele's gap grew from 8 to 11, not rival luck.",
+     "before": "Lowest of the 3 leaders, yet still alone on top. Lucky rivals, not luck.",
+     "after": "Top spot kept on a poor week. Cherag's worse one helped."
+    },
+    {
+     "item": "rating:Dominic",
+     "reason": "kind/important: story leads with Maanav and Tomisin passing, missing that his GW10 Trafford punt paid off; minor, but misses the obvious angle.",
+     "before": "Last week's sharp punt was forgotten fast. Maanav and Tomisin went past.",
+     "after": "Trafford's punt paid last week. This week Maanav and Tomisin passed."
+    },
+    {
+     "item": "rating:Naishadh",
+     "reason": "second try",
+     "before": "",
+     "after": "Manzambi and Van Hecke arrived, the table slipped anyway. 3 teams went past."
+    },
+    {
+     "item": "losers:2",
+     "reason": "second try",
+     "before": "5 transfers' worth of new signings, and the table still dropped them 3 places. Tomisin and Maanav both went past. Busy, not clever.",
+     "after": "Manzambi and Van Hecke came in. Naishadh still dropped to 19th, with Maanav, Justin and Tomisin all sailing past."
+    }
    ],
    "usage": {
-    "in": 64902,
-    "out": 9089,
+    "in": 64012,
+    "out": 5568,
     "calls": 4
    },
-   "sent_back": 33,
+   "sent_back": 19,
    "unknown_names": [],
    "top_3": [
     {
@@ -9795,11 +9723,12 @@
     "Sasha",
     "Saurabh"
    ],
-   "tries": 1,
-   "wsig": "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
-   "wtries": 0,
+   "tries": 2,
+   "wsig": "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 4)",
+   "wtries": 1,
    "wtried": [
-    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)"
+    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
+    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 4)"
    ]
   },
   "plots_sig_tries": {
@@ -17707,7 +17636,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-26T11:45:55Z",
+  "ts": "2026-11-26T12:15:55Z",
   "issues": [],
   "page": []
  },

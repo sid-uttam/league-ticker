@@ -11383,7 +11383,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-26T11:46:50Z",
+ "updated": "2026-11-26T12:20:19Z",
  "ai": {
   "briefings": {
    "3029346": "You top the table on 774 after a 52-point week, with Nikhil 17 back. Watch the armband carefully, as your Haaland captaincy only returned 4.",
@@ -13396,28 +13396,41 @@
   "gaffer_candidate": {
    "gw": 11,
    "v": 4,
-   "ts": "2026-11-25T19:13:59Z",
+   "ts": "2026-11-26T12:20:19Z",
    "model": "claude-sonnet-5-5",
    "draft": true,
    "piece": {
-    "headline": "MATT SEIZES THE CROWN AS NIKHIL SLIPS",
-    "standfirst": "Matt goes top for the first time this season while Nikhil's armband on Haaland backfires and Sunny storms into the Gold spots.",
-    "big_picture": "Nikhil had been alone at the top for 1 week in a row (from GW10). Matt takes top spot from Nikhil, 17 points clear. 22 of 26 managers captained Haaland. He scored 2, so 4 each with the armband (6 for the 1 on Triple Captain).",
-    "decision_of_the_week": "Ravi Mahtani picked the wrong 11 and left 26 points on the bench. The Wildcard was meant to fix the squad. The selection let it down.",
-    "one_to_watch": "Rajiv and Lakshay are level on points at the Tin Pot line. If either one picks the right 11 next week, they could break clear. Neither can afford another bench blunder.",
-    "winners": [],
+    "headline": "Matt takes the throne as Haaland lets Nikhil down",
+    "standfirst": "Matt goes top for the first time, Nikhil drops to 2nd, and Sunny's Bench Boost tears up the script.",
+    "big_picture": "Matt is top alone for the first time, 17 clear. A month ago he was 8th at his lowest. 4 weeks above average did it, not a lucky week. Nikhil's single week on top ended with the armband blank that 22 managers shared. Sunny's Bench Boost is the other headline, a jump into the Gold spots.",
+    "decision_of_the_week": "Ravi Mahtani played a Wildcard, then left 26 points sitting on the bench. Fresh squad, wrong XI. The Wildcard did its job. The Sunday team sheet did not.",
+    "one_to_watch": "Rajiv and Lakshay are level at the Tin Pot line. Rajiv has outscored Lakshay more often this season. If Lakshay's bench behaves, that could flip.",
+    "winners": [
+     {
+      "name": "Sunny",
+      "verdict": "Belloumi, started by nobody else, returned 7 on top of the Bench Boost. That is skill and nerve, with a season high of 4th to show for it."
+     },
+     {
+      "name": "Matt",
+      "verdict": "4 weeks above average in a row, with 13 benched points to spare. That is a habit, not a fluke."
+     },
+     {
+      "name": "Bella",
+      "verdict": "Anderson, started by nobody else, returned 10. First step off the bottom rung in 4 weeks, and it was earned."
+     }
+    ],
     "losers": [
      {
       "name": "Lakshay",
-      "verdict": "Lakshay left 12 on the bench. Pishu sits just above, and a better XI would have closed that gap."
+      "verdict": "12 points benched, a week after 19 sat out. Pishu is only 4 ahead, so the damage is fixable."
      },
      {
       "name": "Vinesh",
-      "verdict": "Vinesh slipped behind Ravi Bhojwani. 3 weeks below average, still going, and the bench did not help."
+      "verdict": "18 points stayed on the bench, which is a cruel way to lose a place. Ravi Bhojwani is only 3 ahead, so it can turn."
      },
      {
       "name": "Alia",
-      "verdict": "Alia has gone 7 weeks below average, and Bella just went past. Hard going, but the next good week could change the mood."
+      "verdict": "7 weeks below average and a low of 29. The slump is real, but 14 benched points say the scores are in the squad."
      }
     ]
    },
@@ -13426,7 +13439,7 @@
      "name": "Sunny",
      "rating": 10,
      "points": 67,
-     "line": "Season high, and Ravin is one point ahead. Last week's Rice hit now feels a long way back.",
+     "line": "Passed Deepak, Chandru, Rohan and Prem in one go. Gold spot taken.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13452,7 +13465,7 @@
      "name": "Matt",
      "rating": 9,
      "points": 52,
-     "line": "First time alone on top. 4 steady weeks of quiet pressure finally broke Nikhil.",
+     "line": "4 weeks above average, each one a step up. First time alone at the top.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13482,7 +13495,7 @@
      "name": "Bella",
      "rating": 8,
      "points": 57,
-     "line": "Anderson, owned by nobody else, lifted Bella to a season high. Last week's shrug is forgotten.",
+     "line": "Anderson, started by nobody else, paid 10. A season-high 25th, up from the basement.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13516,7 +13529,7 @@
      "name": "Amit",
      "rating": 8,
      "points": 49,
-     "line": "Van Hecke arrived and the Bench Boost worked. 8th is a quiet success.",
+     "line": "Bench Boost paid off. Up to 8th, and Prem has been passed.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13546,7 +13559,7 @@
      "name": "Sahil",
      "rating": 7,
      "points": 45,
-     "line": "Lewis-Potter, owned by nobody else, did the heavy lifting. The best place of the season so far.",
+     "line": "Season-high 9th, and Lewis-Potter's 16 points did the heavy lifting. Nobody else owns him.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13568,7 +13581,7 @@
      "name": "Vanessa",
      "rating": 7,
      "points": 43,
-     "line": "The 3-week slump is over. Naresh is just one point ahead now.",
+     "line": "A 3-week run below average is over. Ajayi, owned by nobody else, helped.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13590,7 +13603,7 @@
      "name": "Naresh",
      "rating": 6,
      "points": 50,
-     "line": "Season-high 14th, and Rocket. Wildcard week paid off.",
+     "line": "Wildcard played, and 14th is a season high. 17 benched points kept it from more.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13616,7 +13629,7 @@
      "name": "Ravi Bhojwani",
      "rating": 6,
      "points": 44,
-     "line": "Quietly leapfrogged Vinesh. A small step, but a step.",
+     "line": "Passed Vinesh. A slow, steady crawl away from the bottom.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13638,7 +13651,7 @@
      "name": "Rohan",
      "rating": 6,
      "points": 44,
-     "line": "Transfer Genius, yet Sunny still slipped past. Smart swap, wasted by a quiet bench.",
+     "line": "Van Hecke and N.Jackson earned Transfer Genius. The swap was smart, the armband was not.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13668,7 +13681,7 @@
      "name": "Inesh",
      "rating": 6,
      "points": 43,
-     "line": "Down the table for 4 weeks running. Steady points, but the drift needs stopping.",
+     "line": "4 weeks of sliding, one place at a time. Hishaan is the next target.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13690,7 +13703,7 @@
      "name": "Ravi Mahtani",
      "rating": 5,
      "points": 45,
-     "line": "Araujo, owned by nobody else, gave a lone-ranger return. The bench cancelled the benefit.",
+     "line": "Araujo, started by nobody else, scored. The bench ate the rest.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13712,7 +13725,7 @@
      "name": "Hishaan",
      "rating": 5,
      "points": 39,
-     "line": "Slipped back after a recovery from 23rd. The comeback stalled, not ended.",
+     "line": "The comeback from 23rd has stalled. Free Fall means the climb has to restart.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13730,7 +13743,7 @@
      "name": "Aashiv",
      "rating": 5,
      "points": 34,
-     "line": "Vuskovic blanked, and the Transfer Flop trophy arrives. 4th week below average.",
+     "line": "Vuskovic in, nothing back. 4 weeks below average and counting.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13756,7 +13769,7 @@
      "name": "Poonam",
      "rating": 4,
      "points": 39,
-     "line": "Becker, owned by nobody else, could not stop the drop down the table.",
+     "line": "Best place of the season came last week. Naresh and Vanessa both went past this week.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13778,7 +13791,7 @@
      "name": "Chandru",
      "rating": 4,
      "points": 35,
-     "line": "Top in GW3, 6th now. The drift has a clear direction.",
+     "line": "From 2nd to 6th in 4 weeks. Sunny has now gone past.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13804,7 +13817,7 @@
      "name": "Nikhil",
      "rating": 4,
      "points": 34,
-     "line": "A run above average ended at the worst possible moment. The crown slipped.",
+     "line": "One week on top, then back to 2nd. A 4-week above-average run ends.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13830,7 +13843,7 @@
      "name": "Sunil",
      "rating": 4,
      "points": 33,
-     "line": "Sahil has gone past. Early-season form is fading.",
+     "line": "10 points benched, and Sahil has gone past. Prem is 9 ahead.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13856,7 +13869,7 @@
      "name": "Ravin",
      "rating": 4,
      "points": 28,
-     "line": "Top spot 2 weeks ago, now watching Sunny close in from behind. Football is cruel.",
+     "line": "Top of the table 2 weeks ago. 14 benched points explain part of the fall.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13882,7 +13895,7 @@
      "name": "Prem",
      "rating": 4,
      "points": 27,
-     "line": "Sunny, Amit and Sahil all went past. A busy week on the wrong side of the traffic.",
+     "line": "Free Fall by 3 places, passed by Sunny, Amit and Sahil.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13904,7 +13917,7 @@
      "name": "Deepak",
      "rating": 4,
      "points": 24,
-     "line": "Doghouse week. Gold spot lost to Sunny by 2 points.",
+     "line": "Won The Doghouse. 2 places lost, and Sunny is 2 points ahead.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13926,7 +13939,7 @@
      "name": "Marcel",
      "rating": 3,
      "points": 34,
-     "line": "Benched points undid a climb back up from the dip of GW9.",
+     "line": "The comeback from 16th stalled on the bench. 18 points sat unused.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13948,7 +13961,7 @@
      "name": "Rajiv",
      "rating": 3,
      "points": 32,
-     "line": "Level with Lakshay at the Tin Pot line, undone by 22 benched points.",
+     "line": "22 points benched. Level with Lakshay at the Tin Pot line, and that is where it hurts.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -13974,7 +13987,7 @@
      "name": "Pishu",
      "rating": 3,
      "points": 30,
-     "line": "McGinn cost a hit. Selling Belloumi stung more. A week of wrong turns.",
+     "line": "Sold Belloumi, and he scored. That is how The One That Got Away is earned.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -14000,7 +14013,7 @@
      "name": "Alia",
      "rating": 3,
      "points": 29,
-     "line": "7 weeks of the same story. The slump needs a plan, not hope.",
+     "line": "7 weeks below average. Bella has gone past, and a first win over this run is overdue.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -14026,7 +14039,7 @@
      "name": "Vinesh",
      "rating": 3,
      "points": 29,
-     "line": "Passed by Ravi Bhojwani. 18 benched points made that overtake easier.",
+     "line": "Passed by Ravi Bhojwani. 18 points on the bench made it easier for him.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -14052,7 +14065,7 @@
      "name": "Lakshay",
      "rating": 3,
      "points": 27,
-     "line": "Stuck in the low twenties. A better selection was sitting on the bench.",
+     "line": "12 points benched again. Pishu is 4 ahead, a gap one good bench call could close.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -14074,229 +14087,139 @@
    "editor": [
     {
      "item": "big_picture",
-     "reason": "numbers: 6 numbers, at most 5",
-     "before": "A week ago Nikhil led by a single point and Matt was the nearest chaser. This week Matt was above average for the 4th week running, Nikhil fell below it, and the gap is 17. Matt has climbed 6th, 5th, 2nd, 1st. That is a steady climb, not a lucky week. Nikhil now needs a response.",
-     "after": null,
-     "still": "numbers: 6 numbers, at most 5"
-    },
-    {
-     "item": "winners:0",
-     "reason": "numbers: 6 numbers, at most 2",
-     "before": "8th, 7th, 8th, then 4th. Sunny's Bench Boost paid 23 from the bench, and Belloumi, owned by nobody else, added 7. Smart timing, not luck.",
-     "after": null,
-     "still": "numbers: 4 numbers, at most 2"
-    },
-    {
-     "item": "winners:1",
      "reason": "fresh: copies an example or an earlier line",
-     "before": "Top for the first time this season, with 13 points left on the bench. Not a big score, but a steady one, and that is how crowns are won.",
+     "before": "Matt has climbed 6th, 5th, 2nd, 1st in 4 weeks, and this is the first time he has led alone. Nikhil lasted 1 week at the top. Both captained Haaland and both got the same blank, so the gap is Matt's depth, not luck. He is now 17 clear. This is no longer a duel of nerve. It is a test of squad strength.",
+     "after": "Matt is top alone for the first time, 17 clear. A month ago he was 8th at his lowest. 4 weeks above average did it, not a lucky week. Nikhil's single week on top ended with the armband blank that 22 managers shared. Sunny's Bench Boost is the other headline, a jump into the Gold spots."
+    },
+    {
+     "item": "decision_of_the_week",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Ravi Mahtani built a fresh Wildcard squad, then picked the wrong 11. The 26 points left on the bench were the biggest swing of the week. The squad is fine. The selection let it down.",
+     "after": "Ravi Mahtani played a Wildcard, then left 26 points sitting on the bench. Fresh squad, wrong XI. The Wildcard did its job. The Sunday team sheet did not."
+    },
+    {
+     "item": "rating:Bella",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Petrović in, 4 extra points. Sensible tinkering from the foot of the table.",
      "after": null,
      "still": "fresh: copies an example or an earlier line"
     },
     {
-     "item": "losers:0",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "12 points sat on the bench, and Pishu is only 4 points ahead. A better XI would have made that gap disappear.",
-     "after": "Lakshay left 12 on the bench. Pishu sits just above, and a better XI would have closed that gap."
+     "item": "rating:Amit",
+     "reason": "true: 10th to 8th isn't a real move (it was 9th to 8th)",
+     "before": "Bench Boost brought 18 points. Quiet climb from 10th to 8th.",
+     "after": "Bench Boost paid off. Up to 8th, and Prem has been passed."
     },
     {
-     "item": "rating:Matt",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "4 weeks above average, and the first time alone on top. Deserved.",
-     "after": "First time alone on top. 4 steady weeks of quiet pressure finally broke Nikhil."
-    },
-    {
-     "item": "rating:Sahil",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "Lewis-Potter, owned by nobody else, did the heavy lifting. Highest place of the season.",
-     "after": "Lewis-Potter, owned by nobody else, did the heavy lifting. The best place of the season so far."
-    },
-    {
-     "item": "rating:Naresh",
-     "reason": "true: numbers not in the sheet ['7']",
-     "before": "Wildcard played, 14th reached, a climb that began in GW7 keeps going.",
-     "after": null,
-     "still": "numbers: 2 numbers, at most 1"
-    },
-    {
-     "item": "rating:Rohan",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Transfer Genius, yet Sunny still slipped past. Third 4 weeks ago, 7th now.",
-     "after": "Transfer Genius, yet Sunny still slipped past. Smart swap, wasted by a quiet bench."
-    },
-    {
-     "item": "rating:Ravi Mahtani",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Araujo gave a lone-ranger 6. 26 benched points cancelled the benefit.",
-     "after": "Araujo, owned by nobody else, gave a lone-ranger return. The bench cancelled the benefit."
+     "item": "rating:Inesh",
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "Sliding from 16th to 19th over 4 weeks. Hishaan, 2 points ahead, is the target.",
+     "after": "4 weeks of sliding, one place at a time. Hishaan is the next target."
     },
     {
      "item": "rating:Hishaan",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Down 3 places, but the climb from 23rd is still a real recovery.",
-     "after": "Slipped back after a recovery from 23rd. The comeback stalled, not ended."
-    },
-    {
-     "item": "rating:Aashiv",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "Vuskovic scored nothing, and the slide from the top 6 continues.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "The comeback from 23rd stalled. Free Fall cost 3 places, to 18th.",
+     "after": "The comeback from 23rd has stalled. Free Fall means the climb has to restart."
     },
     {
      "item": "rating:Poonam",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Becker's 7, owned by nobody else, could not stop a 2-place drop.",
-     "after": "Becker, owned by nobody else, could not stop the drop down the table."
+     "reason": "fresh: \"by nobody else\" is already in 2 other lines; find this manager's own story",
+     "before": "A.Becker, owned by nobody else, did his bit. Still, 16th is a step back from 14th.",
+     "after": "Best place of the season came last week. Naresh and Vanessa both went past this week."
     },
     {
      "item": "rating:Ravin",
-     "reason": "true: numbers not in the sheet ['39']; numbers: 2 numbers, at most 1",
-     "before": "Top spot 2 weeks ago, now 39 off the lead. Football is cruel.",
-     "after": "Top spot 2 weeks ago, now watching Sunny close in from behind. Football is cruel."
+     "reason": "numbers: 4 numbers, at most 2",
+     "before": "Was 1st 2 weeks ago, now 3rd. 14 benched points did not help.",
+     "after": "Top of the table 2 weeks ago. 14 benched points explain part of the fall."
     },
     {
      "item": "rating:Marcel",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "18 benched points undid the climb back up from the 16th place of GW9.",
-     "after": "Benched points undid a climb back up from the dip of GW9."
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "18 benched points undid the comeback from 16th. Stuck on 13th.",
+     "after": "The comeback from 16th stalled on the bench. 18 points sat unused."
+    },
+    {
+     "item": "rating:Rajiv",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "22 points on the bench. 3 weeks below average and counting.",
+     "after": "22 points benched. Level with Lakshay at the Tin Pot line, and that is where it hurts."
+    },
+    {
+     "item": "rating:Pishu",
+     "reason": "true: numbers not in the sheet ['7']",
+     "before": "Sold Belloumi, who then scored 7. The One That Got Away fits.",
+     "after": "Sold Belloumi, and he scored. That is how The One That Got Away is earned."
+    },
+    {
+     "item": "rating:Vinesh",
+     "reason": "fresh: \"th to th\" is already in 2 other lines; find this manager's own story",
+     "before": "Down from 18th to 24th in 4 weeks. A fresh start is due.",
+     "after": "Passed by Ravi Bhojwani. 18 points on the bench made it easier for him."
     },
     {
      "item": "one_to_watch",
      "reason": "fresh: repeats 11 from decision_of_the_week; say something new",
-     "before": "Rajiv and Lakshay are level on points at the Tin Pot line. If either one picks the right 11 next week, they could break clear. Neither can afford another bench blunder.",
-     "after": "(kept: the rewrite was worse)",
-     "still": "fresh: copies an example or an earlier line"
-    },
-    {
-     "item": "rating:Bella",
-     "reason": "fresh: \"bottom\" is already in their verdict above; make a different point",
-     "before": "Climbing out of the bottom 3 at last, thanks to a solo pick nobody else made.",
-     "after": "Anderson, owned by nobody else, lifted Bella to a season high. Last week's shrug is forgotten."
-    },
-    {
-     "item": "rating:Alia",
-     "reason": "fresh: \"average\" is already in their verdict above; make a different point",
-     "before": "A 7th straight week under the average. The slump needs a plan.",
-     "after": "7 weeks of the same story. The slump needs a plan, not hope."
-    },
-    {
-     "item": "rating:Vinesh",
-     "reason": "fresh: \"average\" is already in their verdict above; make a different point",
-     "before": "3 weeks under average and sliding. Ravi Bhojwani's pass hurts.",
-     "after": "Passed by Ravi Bhojwani. 18 benched points made that overtake easier."
-    },
-    {
-     "item": "rating:Lakshay",
-     "reason": "fresh: \"pishu\" is already in their verdict above; make a different point",
-     "before": "Stuck in the low twenties, with only Pishu in sight.",
-     "after": "Stuck in the low twenties. A better selection was sitting on the bench."
-    },
-    {
-     "item": "decision_of_the_week",
-     "reason": "true: Ravi Mahtani's Wildcard squad 'was fine' is unsupported by SHEET; the 'more than half a decent week' claim is an unsupported comparison.",
-     "before": "Ravi Mahtani picked the wrong 11 and left 26 points on the bench. That is more than half a decent week sitting in the dugout. The Wildcard squad was fine. The selection was not.",
-     "after": "Ravi Mahtani picked the wrong 11 and left 26 points on the bench. The Wildcard was meant to fix the squad. The selection let it down."
-    },
-    {
-     "item": "winners:2",
-     "reason": "true: 'started by nobody else' is supported, but 'The Triple Captain helped too' is not in SHEET for Anderson's manager. Anderson was started by Bella, not 3 we",
-     "before": "Anderson, started by nobody else, returned 10. 3 straight weeks at the very bottom, now a season high. The Triple Captain helped too.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
-    },
-    {
-     "item": "losers:1",
-     "reason": "true: Ravi Bhojwani is not the one who hopped over Lakshay; the 3-week below-average run belongs to Rajiv, not the named manager.",
-     "before": "3 weeks below average, and Ravi Bhojwani has now hopped over. A tough run, but 3 points is not far to claw back.",
-     "after": "Vinesh slipped behind Ravi Bhojwani. 3 weeks below average, still going, and the bench did not help."
-    },
-    {
-     "item": "losers:2",
-     "reason": "true: 'Bella just went past' is supported, but '7 weeks below average' belongs to Alia, and the claim of the lowest score of the run is unsupported.",
-     "before": "7 weeks below average and the lowest score of the run. Bella just went past. Hard going, but the next good week could change the mood.",
-     "after": "Alia has gone 7 weeks below average, and Bella just went past. Hard going, but the next good week could change the mood."
+     "before": "Rajiv and Lakshay are level on points at the Tin Pot line. Rajiv has the better of the season, outscoring Lakshay in 6 of 11 weeks. If Lakshay's bench behaves, that could flip.",
+     "after": "Rajiv and Lakshay are level at the Tin Pot line. Rajiv has outscored Lakshay more often this season. If Lakshay's bench behaves, that could flip."
     },
     {
      "item": "rating:Sunny",
-     "reason": "true: 'Season high' is supported, but 'Ravin is one point ahead' is correct; 'last week's Rice hit is forgotten' is not supported as a verdict on Sunny's week.",
-     "before": "Last week's Rice hit is forgotten. Season high, and Ravin is one point ahead.",
-     "after": "Season high, and Ravin is one point ahead. Last week's Rice hit now feels a long way back."
+     "reason": "fresh: 'Gold spot taken' echoes the Sunny-takes-Gold headline already in use",
+     "before": "Passed Deepak, Chandru, Rohan and Prem in one go. Gold spot taken.",
+     "after": "(kept: the rewrite was worse)",
+     "still": "numbers: 4 numbers, at most 2"
     },
     {
-     "item": "rating:Ravi Bhojwani",
-     "reason": "true: 'Quietly leapfrogged Vinesh' is supported, but 'the direction is up' overreads a single week of movement.",
-     "before": "Quietly leapfrogged Vinesh. Still low in the table, but the direction is up.",
-     "after": "Quietly leapfrogged Vinesh. A small step, but a step."
-    },
-    {
-     "item": "rating:Inesh",
-     "reason": "true: '4 weeks sliding down the table' is supported by the sheet's 16th to 19th run only in part; the drift is fair.",
-     "before": "4 weeks sliding down the table. Steady points, but the drift needs stopping.",
-     "after": "Down the table for 4 weeks running. Steady points, but the drift needs stopping."
-    },
-    {
-     "item": "rating:Chandru",
-     "reason": "true: 'Second place a month ago' is unsupported; the sheet shows 1st at GW3 and 2nd at GW7-ish, not a month-ago second place.",
-     "before": "Second place a month ago, 6th now. The drift has a clear direction.",
-     "after": "Top in GW3, 6th now. The drift has a clear direction."
-    },
-    {
-     "item": "rating:Nikhil",
-     "reason": "true: '4-week run above average' is supported, and 'worst possible moment' is a fair verdict.",
-     "before": "A 4-week run above average ended at the worst possible moment.",
-     "after": "A run above average ended at the worst possible moment. The crown slipped."
-    },
-    {
-     "item": "rating:Sunil",
-     "reason": "true: 'Sahil has gone past' is supported; 'decent start fading' is a fair verdict.",
-     "before": "Sahil has gone past. A decent start to the season is fading.",
-     "after": "Sahil has gone past. Early-season form is fading."
-    },
-    {
-     "item": "rating:Prem",
-     "reason": "true: '3 places lost' is supported, but Sunny, Amit and Sahil passing Prem is supported.",
-     "before": "3 places lost, and Sunny, Amit and Sahil all went past.",
-     "after": "Sunny, Amit and Sahil all went past. A busy week on the wrong side of the traffic."
-    },
-    {
-     "item": "rating:Deepak",
-     "reason": "true: 'Out of the Gold spots after 3 weeks inside' is unsupported; the sheet shows 4 of the last 5 weeks in the zone.",
-     "before": "Out of the Gold spots after 3 weeks inside. The Doghouse is an unwelcome place.",
-     "after": null,
-     "still": "numbers: 2 numbers, at most 1"
-    },
-    {
-     "item": "rating:Pishu",
-     "reason": "true: 'McGinn cost a hit' is supported; 'selling Belloumi hurt more' is supported by the One That Got Away award.",
-     "before": "McGinn cost a hit, and selling Belloumi hurt more. A week of wrong turns.",
-     "after": "McGinn cost a hit. Selling Belloumi stung more. A week of wrong turns."
+     "item": "rating:Matt",
+     "reason": "true: 'Lowest was 8th, back in GW3' is supported, but 'Alone at the top' is only a single week, acceptable; fresh: opener matches standfirst phrasing weakly",
+     "before": "Alone at the top for the first time. Lowest was 8th, back in GW3.",
+     "after": "4 weeks above average, each one a step up. First time alone at the top."
     },
     {
      "item": "rating:Naresh",
-     "reason": "second try",
-     "before": "Wildcard played, 14th reached, a climb that began in GW7 keeps going.",
-     "after": "Season-high 14th, and Rocket. Wildcard week paid off."
+     "reason": "true: 'Biggest jump of the whole climb' is a claim SHEET only partly supports; 14th is his best but the jump claim is unverified",
+     "before": "Wildcard played, 14th reached. Biggest jump of the whole climb.",
+     "after": "Wildcard played, and 14th is a season high. 17 benched points kept it from more."
     },
     {
-     "item": "rating:Aashiv",
-     "reason": "second try",
-     "before": "Vuskovic scored nothing, and the slide from the top 6 continues.",
-     "after": "Vuskovic blanked, and the Transfer Flop trophy arrives. 4th week below average."
+     "item": "rating:Ravi Bhojwani",
+     "reason": "true: 'Up from 25th to 23rd over a month' misstates; the sheet shows 25th to 23rd over four weeks, but 'Rajiv is one point ahead' is supported, so only minor; f",
+     "before": "Up from 25th to 23rd over a month. Rajiv is one point ahead.",
+     "after": "Passed Vinesh. A slow, steady crawl away from the bottom."
     },
     {
-     "item": "rating:Deepak",
+     "item": "rating:Rohan",
+     "reason": "fun: reads as a stats line with a weak sting, and 'Transfer Genius' repeats the award wording without a verdict",
+     "before": "Van Hecke and N.Jackson in. Transfer Genius, though 3rd place is a distant memory.",
+     "after": "Van Hecke and N.Jackson earned Transfer Genius. The swap was smart, the armband was not."
+    },
+    {
+     "item": "rating:Alia",
+     "reason": "kind: 'Sunnier days are on the fixture list' is a flat jab at a go_easy manager on a slump",
+     "before": "Best place was 11th in GW4. Sunnier days are on the fixture list.",
+     "after": "7 weeks below average. Bella has gone past, and a first win over this run is overdue."
+    },
+    {
+     "item": "rating:Lakshay",
+     "reason": "fun: 'It feels a long way back' is filler with no verdict or joke",
+     "before": "Best place was 16th in GW6. It feels a long way back.",
+     "after": "12 points benched again. Pishu is 4 ahead, a gap one good bench call could close."
+    },
+    {
+     "item": "rating:Bella",
      "reason": "second try",
-     "before": "Out of the Gold spots after 3 weeks inside. The Doghouse is an unwelcome place.",
-     "after": "Doghouse week. Gold spot lost to Sunny by 2 points."
+     "before": "Petrović in, 4 extra points. Sensible tinkering from the foot of the table.",
+     "after": "Anderson, started by nobody else, paid 10. A season-high 25th, up from the basement."
     }
    ],
    "usage": {
-    "in": 67608,
-    "out": 4340,
+    "in": 66477,
+    "out": 6938,
     "calls": 4
    },
-   "sent_back": 32,
+   "sent_back": 20,
    "unknown_names": [],
    "top_3": [
     {
@@ -14317,12 +14240,13 @@
    ],
    "week_average": 39,
    "not_rated": [],
-   "tries": 1,
-   "wsig": "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
-   "wtries": 0,
+   "tries": 2,
+   "wsig": "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 4)",
+   "wtries": 1,
    "wtried": [
     "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
-    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)"
+    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
+    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 4)"
    ]
   },
   "preview": {
@@ -15727,7 +15651,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-26T11:46:50Z",
+  "ts": "2026-11-26T12:20:19Z",
   "issues": [],
   "page": []
  },

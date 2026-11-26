@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-26T11:46:19Z",
+ "updated": "2026-11-26T12:17:01Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week with Haaland on the armband. Watch Neol and your free hit, and keep an eye on the Calafiori and Rogers crowd you don't own.",
@@ -70024,41 +70024,37 @@
   "gaffer_candidate": {
    "gw": 11,
    "v": 4,
-   "ts": "2026-11-25T19:11:19Z",
+   "ts": "2026-11-26T12:17:01Z",
    "model": "claude-sonnet-5-5",
    "draft": true,
    "piece": {
-    "headline": "ARORA'S LEAD GROWS ON A BAD DAY",
-    "standfirst": "Haaland blanked on 92 armbands and the leader had a poor week. Still, nobody got close enough to matter.",
-    "big_picture": "Alone on top for 5 weeks running, Rajat Arora has now had a week where the leader looked ordinary: a below-average score, and the lead still grew to 21. Haaland's 2 points hit nearly everyone, so the chasers fell with him. A leader can have a bad week and still win it if the field has a worse one. That is the argument for Arora.",
-    "decision_of_the_week": "Krishna picked the wrong XI. 26 points sat idle, more than most managers scored in total. A cruel way to earn Bench Disaster.",
-    "one_to_watch": "Karan Singh and Kshiteesh are split by 1 point at the Top prizes line. If either one lands a good captain next week, the line could change hands again.",
+    "headline": "HAALAND BLANKS ON 92 ARMBANDS, ARORA STILL CLEAR",
+    "standfirst": "Haaland blanked on 92 armbands, the leader had a poor week, and the chasers still couldn't close the gap.",
+    "big_picture": "Rajat Arora: Alone at the top for 5 weeks in a row, since GW7. Karan Singh: 14th in GW8, down to 21st by GW9, back up to 7th now.",
+    "decision_of_the_week": "Krishna won Bench Disaster. A full week of points sat out on the bench, the most in the league. One for the team sheet next time.",
+    "one_to_watch": "Karan Singh holds the last Top prizes place by 1 point over Kshiteesh. Kshiteesh was in the zone for 4 of the last 5 weeks, so one good week could swing it back.",
     "winners": [
      {
       "name": "Aditya",
-      "verdict": "Sat 97th, the lowest place of his season, a week ago. The week's best score was the answer. A comeback worth admiring."
+      "verdict": "Last week was a Transfer Flop after a 7-point hit. This week he won the whole league, up from 97th. That is skill, and a recovery."
      },
      {
       "name": "Sandeepan",
-      "verdict": "Tavernier turned up and the cold run ended. Up 20 places in one go."
+      "verdict": "4 weeks below average, then Tavernier and a 20-place leap. That transfer deserves the credit."
      },
      {
       "name": "Nihal",
-      "verdict": "6 weeks of climbing, and the Bench Boost paid 11. That is a plan working, not luck."
+      "verdict": "Up 6 weeks running, from 72nd to 15th. The Bench Boost helped, but this climb has been building for a while."
      }
     ],
     "losers": [
      {
       "name": "Monty",
-      "verdict": "Mbeumo and N.Jackson came in at a cost of 4 points. The Doghouse is earned, and 102nd is another step in a slow drift."
+      "verdict": "Mbeumo and N.Jackson came in for a 4-point hit. The Doghouse is the reward, and 102nd is the lowest of the run."
      },
      {
       "name": "Mayuresh",
-      "verdict": "Free Fall is the right name. The slide has run since 7th place, with 20 benched points."
-     },
-     {
-      "name": "Anuj",
-      "verdict": "A 3-week good run ended with 19 points benched. That one was selection, not luck."
+      "verdict": "7th to 48th in 4 weeks, and the best place this season was 5th. Free Fall fits, and this slide has a trend, not just a bad week."
      }
     ]
    },
@@ -70067,7 +70063,7 @@
      "name": "Aditya",
      "rating": 9,
      "points": 56,
-     "line": "A week ago, 97th and a hit. Now the week's best score and a comeback.",
+     "line": "Last week's low, this week's crown. Comeback from 97th is on.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70093,7 +70089,7 @@
      "name": "Sandeepan",
      "rating": 9,
      "points": 53,
-     "line": "Tavernier ended the cold run. Manav is now level on points.",
+     "line": "4 poor weeks, then a 20-place leap. Passed Shrivar, Sagar and Kunaal on the way.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70127,7 +70123,7 @@
      "name": "Nihal",
      "rating": 9,
      "points": 50,
-     "line": "6 weeks of climbing, and Cherag is next in the sights.",
+     "line": "Up 6 weeks running, 72nd to 15th. Cherag is next in the sights.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70157,7 +70153,7 @@
      "name": "Karan Singh",
      "rating": 9,
      "points": 47,
-     "line": "Back into the Top prizes after a dip to 21st. Nerve held.",
+     "line": "Back from 21st in GW9 to 7th, and into the Top prizes. Nerve rewarded.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70183,8 +70179,8 @@
      "name": "Sahilk",
      "rating": 9,
      "points": 47,
-     "line": "14th in GW7, down to 27th by GW10, back up to 17th now.",
-     "plain": true,
+     "line": "Bench Boost paid 19 and the table lifted. Last week's slip forgotten.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -70217,7 +70213,7 @@
      "name": "Aryan Apte",
      "rating": 8,
      "points": 50,
-     "line": "Only manager to captain Silva, and it came good. Up 21 places.",
+     "line": "Only one to captain Silva, and it paid 16. Best armband in the league.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70247,7 +70243,7 @@
      "name": "Zishan",
      "rating": 8,
      "points": 50,
-     "line": "Rahil is next above and the gap is small. The recovery goes on.",
+     "line": "79th, 75th, 74th, 64th. 3 good weeks and the climb is picking up.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70273,7 +70269,7 @@
      "name": "Shrivar",
      "rating": 8,
      "points": 46,
-     "line": "Van Hecke arrived, yet Sandeepan still nipped past. Back up after a dip.",
+     "line": "Van Hecke came in and 61st became 53rd. Sandeepan went past anyway.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70307,7 +70303,7 @@
      "name": "Kaushik",
      "rating": 8,
      "points": 38,
-     "line": "Van Hecke as sole captain pick returned 12. Nobody else saw it coming.",
+     "line": "Van Hecke as captain, and nobody else dared. 12 points say the lone call was right.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70333,7 +70329,7 @@
      "name": "Pranav",
      "rating": 7,
      "points": 47,
-     "line": "Szoboszlai started for nobody else here. He gave 9. A lone pick that paid.",
+     "line": "Only Pranav started Szoboszlai, and he paid 9. Lone pick, real reward.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70363,7 +70359,7 @@
      "name": "Tanish",
      "rating": 7,
      "points": 47,
-     "line": "Ahead of 110th at last. A decent week to build from.",
+     "line": "A decent week from a tough spot. Krishna is the next target.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70385,7 +70381,7 @@
      "name": "Arshad",
      "rating": 7,
      "points": 46,
-     "line": "Once second, then lost for weeks, now climbing again. Quseem is next.",
+     "line": "From 64th to 19th in 4 weeks. Quseem is next above.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70415,7 +70411,7 @@
      "name": "Yash Gawai",
      "rating": 7,
      "points": 46,
-     "line": "17 points benched dented an otherwise real recovery.",
+     "line": "Out of the 104th low in GW8 and into 79th. Bench cost plenty, though.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70445,7 +70441,7 @@
      "name": "Jackey",
      "rating": 7,
      "points": 45,
-     "line": "Eli sits one point ahead. An easy target.",
+     "line": "Up 13 places, past Eli's neighbourhood. One point from a place higher.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70471,7 +70467,7 @@
      "name": "Shantanu",
      "rating": 7,
      "points": 45,
-     "line": "A busy overtaking week: Maanas and Avin among the victims.",
+     "line": "4 rivals passed in one week. The recovery from 85th is quietly real.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70497,7 +70493,7 @@
      "name": "Adwait",
      "rating": 7,
      "points": 44,
-     "line": "Suraj is just ahead. A dip repaired, nothing more yet.",
+     "line": "Back to 61st after a dip. Suraj is one point ahead and catchable.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70523,7 +70519,7 @@
      "name": "Sagar",
      "rating": 7,
      "points": 43,
-     "line": "Sandeepan overtook, but the slump recovery continues.",
+     "line": "Back up from 63rd in GW8, though Sandeepan went past. Sharing the neighbourhood.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70549,7 +70545,7 @@
      "name": "Sukrut",
      "rating": 7,
      "points": 43,
-     "line": "Overtook Yash Bhatia and Aryan Khamankar on the way to the podium. Neol is next.",
+     "line": "3 weeks of climbing from 12th, and now on the podium. Neol is the next name on the list.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70575,7 +70571,7 @@
      "name": "Aleston",
      "rating": 7,
      "points": 41,
-     "line": "A past league leader repairing a slump. Van Hecke helped.",
+     "line": "Led alone for 2 weeks once. Now rebuilding from the 41st low.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70605,8 +70601,8 @@
      "name": "Anurag",
      "rating": 7,
      "points": 41,
-     "line": "23rd in GW3, down to 47th by GW8, back up to 12th now.",
-     "plain": true,
+     "line": "Up from 15th to 12th, and Quseem was passed on the way.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -70631,7 +70627,7 @@
      "name": "Adrian",
      "rating": 6,
      "points": 43,
-     "line": "Back to 20th after a wobble. Arshad passed him though.",
+     "line": "Bench cost a bigger week. Arshad went past, a real irritant.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70661,7 +70657,7 @@
      "name": "Ketan",
      "rating": 6,
      "points": 43,
-     "line": "Passed Apoorvo, Mohit and Avinash as the cold run ended.",
+     "line": "Ended a 4-week below-average run and passed 3 rivals. Relief.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70691,7 +70687,7 @@
      "name": "Kunaal",
      "rating": 6,
      "points": 43,
-     "line": "Sandeepan edged past, but Mayuresh is the next target.",
+     "line": "From 72nd back to 50th. Mayuresh, just above, is in range.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70721,7 +70717,7 @@
      "name": "Eli",
      "rating": 6,
      "points": 41,
-     "line": "A new season peak. Nanik is the next scalp.",
+     "line": "31st is a season high. Nanik is 4 points ahead.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70751,7 +70747,7 @@
      "name": "Akshat",
      "rating": 6,
      "points": 40,
-     "line": "Wirtz and Van Hecke did the job. Transfer Genius for a reason.",
+     "line": "Wirtz and Van Hecke in, Transfer Genius earned. Third place holds.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70785,7 +70781,7 @@
      "name": "Aniket",
      "rating": 6,
      "points": 40,
-     "line": "Slow, steady, still going. Yash Gawai and Aditya slipped past though.",
+     "line": "5 straight rises, then Yash Gawai and Aditya went past. Still a climb from 104th.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70811,7 +70807,7 @@
      "name": "Dinesh",
      "rating": 6,
      "points": 40,
-     "line": "3 weeks below average, then this. The run ends, still deep in the hundreds.",
+     "line": "Ended a 3-week slump despite the 7-point hit. Passed Monty on the way.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70841,7 +70837,7 @@
      "name": "Ram",
      "rating": 6,
      "points": 40,
-     "line": "Aryan Apte slipped past, but Shahaan is within reach.",
+     "line": "Aryan Apte slipped past. Shahaan, just above, is the one to catch.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70867,7 +70863,7 @@
      "name": "Saeel",
      "rating": 6,
      "points": 40,
-     "line": "Evanilson arrived, 11 points stayed on the bench. Near, but not quite.",
+     "line": "Evanilson in, 11 points benched. Good week, left some on the shelf.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70897,7 +70893,7 @@
      "name": "Sundar",
      "rating": 6,
      "points": 40,
-     "line": "Season high of 39th. A good result from a steady week.",
+     "line": "39th is a season high. Aryan Apte went past, but the peak is real.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70923,7 +70919,7 @@
      "name": "Vidur",
      "rating": 6,
      "points": 40,
-     "line": "Vivek, Anuj and Swapnil left behind. Avinash is next.",
+     "line": "Passed Vivek, Anuj and Swapnil. 12 benched points kept it from being bigger.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70953,7 +70949,7 @@
      "name": "Kabeerr",
      "rating": 6,
      "points": 39,
-     "line": "Triple Captain added only 2 extra. A chip spent for a small return.",
+     "line": "Triple Captain added just 2. Chip played, shrug earned.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -70983,7 +70979,7 @@
      "name": "Kunal",
      "rating": 6,
      "points": 39,
-     "line": "Akash and Ajay passed. SHARAN is next.",
+     "line": "Akash and Ajay passed. Steady recovery from the 60th dip.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71009,8 +71005,8 @@
      "name": "Sid",
      "rating": 6,
      "points": 39,
-     "line": "39 points, 2 above the league average.",
-     "plain": true,
+     "line": "Tavernier in, but 13 sat on the bench. Top 10 is a memory.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -71043,7 +71039,7 @@
      "name": "Udit",
      "rating": 6,
      "points": 39,
-     "line": "A tiny gain after a long slide.",
+     "line": "Up 2 places to 70th. Shantanu is one point behind.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71069,7 +71065,7 @@
      "name": "Abhishek Thard",
      "rating": 6,
      "points": 37,
-     "line": "Groß came in and the table slipped to 86th. A tricky patch.",
+     "line": "Groß in, down to 86th. Mohit is one point ahead.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71095,7 +71091,7 @@
      "name": "Arnav",
      "rating": 6,
      "points": 37,
-     "line": "Level with the average after 3 weeks below. A slight pause in the slump.",
+     "line": "Level with the average ends a 3-week slump. Passed Avinash and Anuj.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71117,7 +71113,7 @@
      "name": "Kashish",
      "rating": 6,
      "points": 36,
-     "line": "Van Hecke arrived and Nehal, Shahaan and Mayuresh fell behind.",
+     "line": "Van Hecke in, 3 rivals passed. A quiet climb from 51st.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71147,7 +71143,7 @@
      "name": "Prathap",
      "rating": 6,
      "points": 36,
-     "line": "Overtook Kshiteesh, which matters for the last prize place. The good run ended.",
+     "line": "Passed Kshiteesh to hold 7th. The last Top prizes place has a new owner.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71173,7 +71169,7 @@
      "name": "Soham",
      "rating": 6,
      "points": 36,
-     "line": "Slipped from the GW9 peak. A small step back.",
+     "line": "Down to 22nd. Last week's 18th was the season best.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71199,7 +71195,7 @@
      "name": "Umang",
      "rating": 6,
      "points": 34,
-     "line": "Van Hecke came in and Avinash and Anuj fell behind.",
+     "line": "Castagne's cheeky pick last week, then 91st. The mini-league's Stephen is 3 points up the road.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71229,8 +71225,8 @@
      "name": "Abhimanyu",
      "rating": 5,
      "points": 43,
-     "line": "The bench ate 21 points, and Sandeepan overtook anyway.",
-     "plain": false,
+     "line": "42nd in GW9, down to 56th by GW10, back up to 50th now.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -71259,7 +71255,7 @@
      "name": "M",
      "rating": 5,
      "points": 43,
-     "line": "Last week sinking, this week a rebound. 20 benched points kept it from being better.",
+     "line": "Back from 94th. Pratik, just ahead, is the next to catch.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71289,7 +71285,7 @@
      "name": "Chander",
      "rating": 5,
      "points": 41,
-     "line": "Bench Boost played, Kudus and Vuskovic in. A 4-week run below average is over.",
+     "line": "Bench Boost and a hit, and Anuj, Swapnil and Monty all passed. Worth it.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71323,7 +71319,7 @@
      "name": "Kartik",
      "rating": 5,
      "points": 41,
-     "line": "Swapnil and Monty passed after last week's season best.",
+     "line": "A season best last week, then 97th. The climb from 108th goes on quietly.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71353,7 +71349,7 @@
      "name": "Rahil",
      "rating": 5,
      "points": 40,
-     "line": "Ajay sits one point ahead. The climb is stuck in traffic.",
+     "line": "Third climb on the bounce last week. Ajay now sits a point above, within reach.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71379,7 +71375,7 @@
      "name": "Sanket Khandekar",
      "rating": 5,
      "points": 40,
-     "line": "18 benched points explain why the hundreds feel permanent.",
+     "line": "18 left on the bench, and the late nineties stay home. A fix is overdue.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71409,7 +71405,7 @@
      "name": "Yash Bhatia",
      "rating": 5,
      "points": 39,
-     "line": "Sukrut passed, and Akshat is next above. A slide that can still be fixed.",
+     "line": "2nd, 3rd, 4th, 5th. A slow bleed with the podium now behind.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71439,7 +71435,7 @@
      "name": "Abhishek Yerra",
      "rating": 5,
      "points": 38,
-     "line": "Zishan sneaked past, and the drift down is looking like a rut.",
+     "line": "Parked on 70th, and Zishan has just gone past.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71465,7 +71461,7 @@
      "name": "Raj",
      "rating": 5,
      "points": 37,
-     "line": "Level with the average, yet Amar, Rishab, SHARAN and Akash were passed.",
+     "line": "Level with the average. 4 rivals were passed anyway, a quiet step up.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71487,8 +71483,8 @@
      "name": "S.M.",
      "rating": 5,
      "points": 37,
-     "line": "Down in 3 of the last 4 weeks, from 37th to 73rd.",
-     "plain": true,
+     "line": "2 signings did nothing for the slide. Zishan and Udit both went past.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -71517,7 +71513,7 @@
      "name": "Maanas",
      "rating": 5,
      "points": 36,
-     "line": "7 weeks below average now. The drift down the table keeps going.",
+     "line": "7 below-average weeks. Zishan and Shantanu both strolled past.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71543,7 +71539,7 @@
      "name": "Mohit",
      "rating": 5,
      "points": 36,
-     "line": "Peak came last week. This week gave 4 places back.",
+     "line": "A best-ever 81st last week, now back to 85th. De Cuyper's glow has faded.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71569,7 +71565,7 @@
      "name": "Nanik",
      "rating": 5,
      "points": 36,
-     "line": "Van Hecke came in, and 18 points stayed on the bench. Selection is the leak.",
+     "line": "Van Hecke arrived, 18 stayed home. Bench is the leak.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71603,7 +71599,7 @@
      "name": "Pratik",
      "rating": 5,
      "points": 36,
-     "line": "Suzuki arrived, the table still sagged. 3 weeks below average now.",
+     "line": "Suzuki arrived, 87th followed. 3 weeks of dropping, with Abhishek Thard one point above.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71633,7 +71629,7 @@
      "name": "Stephen",
      "rating": 5,
      "points": 36,
-     "line": "Quiet week in the eighties. 15 benched points are the lone talking point.",
+     "line": "Hovering in the high eighties for a month. Umang is closing from behind.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71663,7 +71659,7 @@
      "name": "Avin",
      "rating": 5,
      "points": 35,
-     "line": "Last week's quiet progress stalled. Shantanu slipped past.",
+     "line": "Shantanu went past. Quiet progress has hit the brakes.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71685,7 +71681,7 @@
      "name": "Sahej",
      "rating": 5,
      "points": 35,
-     "line": "The good run ended with a drop of 5 places.",
+     "line": "3 above-average weeks, then a stumble to 24th. The run ends here.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71711,7 +71707,7 @@
      "name": "Shahan",
      "rating": 5,
      "points": 35,
-     "line": "Early form feels long gone. The nearest rival is Zishan, just above.",
+     "line": "4 weeks down from 44th to 65th. Zishan is the next target.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71737,7 +71733,7 @@
      "name": "Vishva",
      "rating": 5,
      "points": 35,
-     "line": "Season-best 66th was last week. This week slipped back a place.",
+     "line": "Season high came last week. This one is a pause, nothing worse.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71763,7 +71759,7 @@
      "name": "Aryan Khamankar",
      "rating": 5,
      "points": 34,
-     "line": "Podium place gone. Sukrut and Akshat both went past.",
+     "line": "Sukrut and Akshat both passed. 2 weeks alone on top this season, and 5th now.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71789,7 +71785,7 @@
      "name": "Hardik",
      "rating": 5,
      "points": 34,
-     "line": "Evanilson and De Cuyper came in, and 5 places went. Not the payback wanted.",
+     "line": "Evanilson and De Cuyper in, down to 57th. A 12th-place high in GW3 feels distant.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71819,7 +71815,7 @@
      "name": "Biswadeep",
      "rating": 5,
      "points": 31,
-     "line": "Best place of the season came last week. Van Hecke arrived, the run snapped.",
+     "line": "A 6th-place high last week, then 6 above-average weeks ended. Van Hecke could not keep it going.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71849,7 +71845,7 @@
      "name": "Sourabh",
      "rating": 4,
      "points": 39,
-     "line": "Escaped the below-average run, yet 108th is the lowest place of the season.",
+     "line": "6 weeks below average, finally ended. The hit for De Cuyper hurt.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71883,7 +71879,7 @@
      "name": "Sanket Nahata",
      "rating": 4,
      "points": 38,
-     "line": "Finally above average. 21 benched points show how much more was there.",
+     "line": "21 stranded on the bench. Run below average over, 105th untouched.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71913,7 +71909,7 @@
      "name": "Suraj",
      "rating": 4,
      "points": 38,
-     "line": "Passed Ajay, then Sandeepan and Shrivar stormed past. Slide still on.",
+     "line": "4 weeks of falling. Sandeepan and Shrivar both passed, and 20 sat out.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71943,7 +71939,7 @@
      "name": "Sidharth",
      "rating": 4,
      "points": 37,
-     "line": "Climbing since 82nd. Level with the average this week, so the run only paused.",
+     "line": "4 rises in a row from 82nd. Bang on average this week, keeping that run alive.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71969,7 +71965,7 @@
      "name": "Utkarsh",
      "rating": 4,
      "points": 37,
-     "line": "Parked in 11th for a month. The N.Jackson hit bought no movement.",
+     "line": "N.Jackson cost a 7-point hit. 11th is now home.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -71991,7 +71987,7 @@
      "name": "Abu",
      "rating": 4,
      "points": 36,
-     "line": "Down from 69th with no brake. Passed Anuj, then Aditya and M passed back.",
+     "line": "7 weeks below average. Aditya and M both slipped past.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72021,7 +72017,7 @@
      "name": "Clawin",
      "rating": 4,
      "points": 36,
-     "line": "Yo-yo season, back to 12th. Utkarsh sits just above, within reach.",
+     "line": "Quseem passed, 12th held. Utkarsh sits 2 points ahead.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72051,8 +72047,8 @@
      "name": "Sajeet",
      "rating": 4,
      "points": 36,
-     "line": "36 points, 1 below the league average.",
-     "plain": true,
+     "line": "Stuck on 66th for a second week, with 12 benched points to blame.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -72077,7 +72073,7 @@
      "name": "Karan P Nanda",
      "rating": 4,
      "points": 35,
-     "line": "Only manager to start Belloumi, who returned 7. Brave, and it nearly worked.",
+     "line": "Belloumi scored 7, a solo pick that paid. The rest let it down.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72103,7 +72099,7 @@
      "name": "Manu",
      "rating": 4,
      "points": 35,
-     "line": "Passed Krishnaji, a crumb of comfort. The slide from 22nd still defines the month.",
+     "line": "Krishnaji passed. The slide from 22nd is long.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72133,7 +72129,7 @@
      "name": "Rahul",
      "rating": 4,
      "points": 35,
-     "line": "Slipped 5 places. Benched points are becoming this team's signature.",
+     "line": "Down 5 places. 11 benched points are the leak.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72163,7 +72159,7 @@
      "name": "Kshiteesh",
      "rating": 4,
      "points": 34,
-     "line": "A 7-point hit for N.Jackson. Prathap and Karan Singh both passed.",
+     "line": "A 7-point hit for N.Jackson, and the Top prizes slipped away. Karan Singh and Prathap passed.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72219,7 +72215,7 @@
      "name": "Rajat Bhalla",
      "rating": 4,
      "points": 34,
-     "line": "The week's second-biggest benching, 24 points. Van Hecke arrived but selection let it down.",
+     "line": "24 stranded on the bench. Selection is the whole problem.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72253,7 +72249,7 @@
      "name": "Vivek",
      "rating": 4,
      "points": 33,
-     "line": "Konsa and Evanilson in, and 95th out. Passed Anuj on the way down.",
+     "line": "Konsa and Evanilson in, and still falling. 5 weeks of it.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72287,7 +72283,7 @@
      "name": "SHARAN",
      "rating": 4,
      "points": 32,
-     "line": "A good run ended. Last week's season-best place was a brief visit.",
+     "line": "4 good weeks ended with a drop. Last week's high is gone.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72313,7 +72309,7 @@
      "name": "Vinil",
      "rating": 4,
      "points": 32,
-     "line": "A month camped around 103rd. The bench cost more than any rival did.",
+     "line": "12 on the bench. Stuck near 103rd and going nowhere.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72343,7 +72339,7 @@
      "name": "Apoorvo",
      "rating": 4,
      "points": 31,
-     "line": "Jacquet was a solo pick that returned 6. Last week's high is gone.",
+     "line": "Jacquet, picked by nobody else, gave 6. Last week's 9 rating now looks a long way back.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72369,7 +72365,7 @@
      "name": "Cherag",
      "rating": 4,
      "points": 30,
-     "line": "Third week running below average. Top 3 in GW6 feels far away.",
+     "line": "From 3rd to 12th in a month. Karan Singh and Utkarsh both went past.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72403,7 +72399,7 @@
      "name": "Nishit",
      "rating": 4,
      "points": 30,
-     "line": "4 managers jumped past in one week. Aleston is just one point up the road.",
+     "line": "Eli, Jackey, Aryan Apte and Aleston all passed. Slow leak, still leaking.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72429,7 +72425,7 @@
      "name": "Rishab",
      "rating": 4,
      "points": 30,
-     "line": "Down 11 places. Last week's rise was a fix that did not last.",
+     "line": "Shrivar sits above. A drop of 11 places undid the fix.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72455,7 +72451,7 @@
      "name": "Mudit",
      "rating": 3,
      "points": 35,
-     "line": "17 points rotting on the bench. Kaushik sits just above, close enough to haunt.",
+     "line": "17 on the bench. Climbing out of 10th feels long ago.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72485,7 +72481,7 @@
      "name": "Ajay",
      "rating": 3,
      "points": 33,
-     "line": "Dropped behind Adwait. The bench was the leak.",
+     "line": "12 points benched, 62nd now. Adwait sits a point up, a quick swap away.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72515,8 +72511,8 @@
      "name": "Varun",
      "rating": 3,
      "points": 33,
-     "line": "Camped near 104th all month. Nothing has changed except the date.",
-     "plain": false,
+     "line": "33 points, 4 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -72545,7 +72541,7 @@
      "name": "Zorawar",
      "rating": 3,
      "points": 33,
-     "line": "Climbed past Nehal, Shahaan and Mayuresh. The bench kept it from being a bigger week.",
+     "line": "3 rivals passed on the way up. 21 benched points kept it modest.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72571,7 +72567,7 @@
      "name": "Hitesh",
      "rating": 3,
      "points": 32,
-     "line": "A 7-point hit for Barry. One week on top in GW4 is a distant memory.",
+     "line": "Barry came in for a 7-point hit and the week sank. Sahej is a point ahead.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72601,7 +72597,7 @@
      "name": "Rajat Arora",
      "rating": 3,
      "points": 32,
-     "line": "Still alone on top. The N.Jackson hit returned little, and the lead survived anyway.",
+     "line": "Still top after 5 weeks alone. A 7-point... no hit, just a quiet week with N.Jackson in.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72631,7 +72627,7 @@
      "name": "Sahil",
      "rating": 3,
      "points": 31,
-     "line": "Fell 9 places. Last week's leapfrogging act did not get an encore.",
+     "line": "Van Hecke arrived, 15 sat out. The leap now feels rented.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72665,8 +72661,8 @@
      "name": "Sikander",
      "rating": 3,
      "points": 31,
-     "line": "36th in GW6, down to 40th by GW8, back up to 29th now.",
-     "plain": true,
+     "line": "23rd was the season high. Sahil, just above, is the one to catch.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -72695,7 +72691,7 @@
      "name": "Tanmay",
      "rating": 3,
      "points": 31,
-     "line": "Season high of 17th, gone within a week.",
+     "line": "Season-best 17th last week, then a 10-place tumble. The summit was a short visit.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72725,7 +72721,7 @@
      "name": "Adit",
      "rating": 3,
      "points": 30,
-     "line": "Armband Agony winner. Sliding back from last week's high.",
+     "line": "Armband Agony is the trophy. Krishnaji was the only name passed.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72751,7 +72747,7 @@
      "name": "Amar",
      "rating": 3,
      "points": 30,
-     "line": "Down again, and Raj is the one above. The slide has become a pattern.",
+     "line": "From 24th to 53rd in 4 weeks. Raj sits just above.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72781,7 +72777,7 @@
      "name": "Nehal",
      "rating": 3,
      "points": 30,
-     "line": "Armband Agony winner, and the armband did the damage. Down again to 39th.",
+     "line": "Armband Agony earned. Last week's armband paid 16, this week's did the reverse.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72807,7 +72803,7 @@
      "name": "Neol",
      "rating": 3,
      "points": 29,
-     "line": "5 good weeks ended with the week's worst blow to the title chase.",
+     "line": "5 above-average weeks ended. Second place held, but Arora is 21 clear.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72833,8 +72829,8 @@
      "name": "Quseem",
      "rating": 3,
      "points": 28,
-     "line": "28 points, 9 below the league average.",
-     "plain": true,
+     "line": "Barry and Van Hecke came in, 18 points sat benched. 17th is the price.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -72867,7 +72863,7 @@
      "name": "Krishnaji",
      "rating": 3,
      "points": 26,
-     "line": "Slide since 32nd keeps going. Passed Manu's spot for nobody's comfort.",
+     "line": "3 weeks sliding from 57th. Last week's Barry and Rogers moves have not helped.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72893,7 +72889,7 @@
      "name": "Bhavin",
      "rating": 2,
      "points": 31,
-     "line": "Slow decline since 26th. Nishit is the next target up.",
+     "line": "4 straight drops from 26th. Nishit is a point ahead and well within reach.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72923,7 +72919,7 @@
      "name": "Krishna",
      "rating": 2,
      "points": 30,
-     "line": "Bench Disaster winner. The wrong 11 started, and 26 points watched from the sideline.",
+     "line": "Bench Disaster is the badge. 26 points sat idle, so the team sheet deserves a rethink.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -72953,8 +72949,8 @@
      "name": "Akash",
      "rating": 2,
      "points": 29,
-     "line": "Down in 3 of the last 4 weeks, from 19th to 59th.",
-     "plain": true,
+     "line": "Down 14 places, with 16 stranded. Hardik is within sight.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -72983,7 +72979,7 @@
      "name": "Shahaan",
      "rating": 2,
      "points": 29,
-     "line": "Alone on Fernandes captain last week. This week the armband magic vanished and the bench bled.",
+     "line": "A 20-point captain call last week. This week 17 sat on the bench.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -73013,7 +73009,7 @@
      "name": "Swapnil",
      "rating": 2,
      "points": 28,
-     "line": "Aditya, Vidur, Chander and Kartik all jumped past. 19 benched points explain it.",
+     "line": "Passed by Aditya, Vidur, Chander and Kartik. 4 rivals went by while this side stood still.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -73043,8 +73039,8 @@
      "name": "Avinash",
      "rating": 2,
      "points": 25,
-     "line": "25 points, 12 below the league average.",
-     "plain": true,
+     "line": "McGinn arrived and 12 places left. Dearest signing of the week.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -73073,7 +73069,7 @@
      "name": "Neil",
      "rating": 2,
      "points": 25,
-     "line": "Vinil, Varun and Sanket Nahata all passed. Sliding since 81st.",
+     "line": "Down 4 weeks running, 81st to 106th. Sanket Nahata went past too.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -73103,7 +73099,7 @@
      "name": "Anuj",
      "rating": 2,
      "points": 22,
-     "line": "A good run ended with a thud. The bench was the culprit.",
+     "line": "3 good weeks ended. Last week's praise aged badly.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -73133,7 +73129,7 @@
      "name": "Mayuresh",
      "rating": 2,
      "points": 22,
-     "line": "Free Fall fits. 5th place in GW5 feels like another life.",
+     "line": "Free Fall won. 7th to 48th is a long way down in 4 weeks.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -73163,7 +73159,7 @@
      "name": "Monty",
      "rating": 1,
      "points": 21,
-     "line": "Mbeumo and N.Jackson cost a hit and returned little. Dinesh sits just above.",
+     "line": "The Doghouse again, and 102nd. Dinesh is 4 points ahead and in range.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -73196,501 +73192,499 @@
    ],
    "editor": [
     {
-     "item": "winners:1",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "A 4-week run below the league average is over. Tavernier did the job, and the drop from 17th in GW6 looks like it has stopped.",
-     "after": "Tavernier turned up and the cold run ended. Up 20 places in one go."
-    },
-    {
-     "item": "losers:1",
-     "reason": "numbers: 4 numbers, at most 2",
-     "before": "From 7th to 48th in 4 weeks. Free Fall is the right name for it, and the bench held 20 points of the damage.",
-     "after": "Free Fall is the right name. The slide has run since 7th place, with 20 benched points."
-    },
-    {
-     "item": "losers:2",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "3 good weeks were ended by 19 points sitting on the bench. A selection error, not bad luck.",
-     "after": "A 3-week good run ended with 19 points benched. That one was selection, not luck."
-    },
-    {
-     "item": "rating:Sandeepan",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "4 weeks of below-average ended. The slide from 17th has a brake on it.",
-     "after": "Tavernier ended the cold run. Manav is now level on points."
-    },
-    {
-     "item": "rating:Zishan",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "3 weeks above average, and the climb from 79th goes on.",
-     "after": "Rahil is next above and the gap is small. The recovery goes on."
-    },
-    {
-     "item": "rating:Shrivar",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Van Hecke arrived and 53rd was reached. A slow recovery from 61st.",
-     "after": "Van Hecke arrived, yet Sandeepan still nipped past. Back up after a dip."
-    },
-    {
      "item": "rating:Kaushik",
      "reason": "fresh: copies an example or an earlier line",
-     "before": "Alone on Van Hecke as captain, and it paid 12. Shrewd.",
-     "after": "Van Hecke as sole captain pick returned 12. Nobody else saw it coming."
-    },
-    {
-     "item": "rating:Arshad",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "4 weeks above average, up from 64th to 19th. The quiet climber keeps going.",
-     "after": "Once second, then lost for weeks, now climbing again. Quseem is next."
-    },
-    {
-     "item": "rating:Yash Gawai",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Up from 104th in GW8 to 79th. The recovery is real.",
-     "after": "17 points benched dented an otherwise real recovery."
-    },
-    {
-     "item": "rating:Jackey",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Climbed 13 places. Eli is now only 1 point away.",
-     "after": "Eli sits one point ahead. An easy target."
-    },
-    {
-     "item": "rating:Shantanu",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "4 rivals passed in one week. The climb from 85th continues.",
-     "after": "A busy overtaking week: Maanas and Avin among the victims."
-    },
-    {
-     "item": "rating:Adwait",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Back above 61st after a dip. Suraj is just 1 point ahead.",
-     "after": "Suraj is just ahead. A dip repaired, nothing more yet."
-    },
-    {
-     "item": "rating:Sagar",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Sandeepan overtook him, though 46th is still a recovery from 63rd.",
-     "after": "Sandeepan overtook, but the slump recovery continues."
+     "before": "Only manager on Van Hecke as captain, and it paid 12. Rebel rewarded.",
+     "after": "Van Hecke as captain, and nobody else dared. 12 points say the lone call was right."
     },
     {
      "item": "rating:Sukrut",
-     "reason": "fresh: \"weeks above average\" is already in 2 other lines; find this manager's own story",
-     "before": "Third place and 4 weeks above average. The title chase is now real.",
-     "after": "Overtook Yash Bhatia and Aryan Khamankar on the way to the podium. Neol is next."
-    },
-    {
-     "item": "rating:Aleston",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Led alone in GW3. Back up to 34th after the slump to 41st.",
-     "after": "A past league leader repairing a slump. Van Hecke helped."
+     "reason": "fresh: \"above average...\" already opens 2 other lines; fresh: \"above average weeks\" is already in 2 other lines; find this manager's own story",
+     "before": "4 above-average weeks, and Yash Bhatia and Aryan Khamankar passed. The comeback is serious.",
+     "after": "3 weeks of climbing from 12th, and now on the podium. Neol is the next name on the list."
     },
     {
      "item": "rating:Anurag",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"weeks above...\" already opens 2 other lines; fresh: \"weeks above average\" is already in 2 other lines; find this manager's own story",
-     "before": "3 weeks above average, up from 47th. Quseem was passed along the way.",
+     "reason": "numbers: 3 numbers, at most 2; fresh: copies an example or an earlier line",
+     "before": "12th, up from 47th 3 weeks ago. The quiet climb is getting loud.",
      "after": null,
-     "still": "true: \"dozen\" hides a number the sheet can't confirm; use the digit"
+     "still": "true: 47th to 12th isn't a real move (it was 15th to 12th)"
     },
     {
-     "item": "rating:Ketan",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "A 4-week run below average is over. 3 rivals passed.",
-     "after": "Passed Apoorvo, Mohit and Avinash as the cold run ended."
+     "item": "rating:Adrian",
+     "reason": "true: numbers not in the sheet ['19']",
+     "before": "11 benched points cost a better week. Arshad slipped past into 19th.",
+     "after": "Bench cost a bigger week. Arshad went past, a real irritant."
     },
     {
      "item": "rating:Kunaal",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"weeks above...\" already opens 2 other lines; fresh: \"weeks above average\" is already in 2 other lines; find this manager's own story",
-     "before": "3 weeks above average and climbing from 72nd.",
-     "after": "Sandeepan edged past, but Mayuresh is the next target."
-    },
-    {
-     "item": "rating:Eli",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "Highest place of the season. 31st is a new high.",
-     "after": "A new season peak. Nanik is the next scalp."
+     "reason": "numbers: 3 numbers, at most 2; fresh: \"above average...\" already opens 2 other lines; fresh: \"above average weeks\" is already in 2 other lines; find this manager's own story",
+     "before": "3 above-average weeks. The climb from 72nd continues, 50th now.",
+     "after": "From 72nd back to 50th. Mayuresh, just above, is in range."
     },
     {
      "item": "rating:Aniket",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "5 weeks of climbing, from 104th. Slow, steady, still going.",
-     "after": "Slow, steady, still going. Yash Gawai and Aditya slipped past though."
+     "reason": "true: numbers not in the sheet ['2']; numbers: 3 numbers, at most 2",
+     "before": "5 straight rises ended with 2 rivals passing. Still a climb from 104th.",
+     "after": "5 straight rises, then Yash Gawai and Aditya went past. Still a climb from 104th."
     },
     {
      "item": "rating:Ram",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"weeks above...\" already opens 2 other lines; fresh: \"above average and\" is already in 2 other lines; find this manager's own story",
-     "before": "3 weeks above average and a slow climb back from 55th.",
-     "after": "Aryan Apte slipped past, but Shahaan is within reach."
-    },
-    {
-     "item": "rating:Vidur",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Passed 3 rivals, though 93rd is still a long way from the top.",
-     "after": "Vivek, Anuj and Swapnil left behind. Avinash is next."
-    },
-    {
-     "item": "rating:Kunal",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Passed 2 managers this week. A quiet recovery from 60th.",
-     "after": "Akash and Ajay passed. SHARAN is next."
+     "reason": "fresh: \"above average...\" already opens 2 other lines; fresh: \"above average weeks\" is already in 2 other lines; find this manager's own story",
+     "before": "3 above-average weeks. Shahaan sits one point ahead, within reach.",
+     "after": "Aryan Apte slipped past. Shahaan, just above, is the one to catch."
     },
     {
      "item": "rating:Sid",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "Tavernier arrived but 13 points sat on the bench. A missed opportunity.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "Tavernier in, 13 on the bench. 21st is a long way from 6th.",
+     "after": "Tavernier in, but 13 sat on the bench. Top 10 is a memory."
     },
     {
-     "item": "rating:Udit",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "Up 2 places to 70th. Small gains after a long slide from 47th.",
-     "after": "A tiny gain after a long slide."
+     "item": "rating:M",
+     "reason": "true: numbers not in the sheet ['16']; numbers: 3 numbers, at most 2",
+     "before": "Back from 94th, with Pratik 3 points ahead. Still 16 places short of the season high.",
+     "after": "Back from 94th. Pratik, just ahead, is the next to catch."
     },
     {
-     "item": "rating:Kashish",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Passed 3 rivals this week. Van Hecke came in and the recovery from 51st goes on.",
-     "after": "Van Hecke arrived and Nehal, Shahaan and Mayuresh fell behind."
-    },
-    {
-     "item": "rating:Prathap",
-     "reason": "fresh: \"a week...\" already opens 2 other lines; fresh: \"a week run\" is already in 2 other lines; find this manager's own story",
-     "before": "A 4-week run above average ended. Kshiteesh was overtaken though.",
-     "after": "Overtook Kshiteesh, which matters for the last prize place. The good run ended."
-    },
-    {
-     "item": "rating:Soham",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Slipped to 22nd after a peak of 18th. A small step back.",
-     "after": "Slipped from the GW9 peak. A small step back."
-    },
-    {
-     "item": "rating:Umang",
-     "reason": "numbers: 3 numbers, at most 1; fresh: \"passed rivals...\" already opens 2 other lines",
-     "before": "Passed 2 rivals, yet 91st is still a long way from the 68th of GW3.",
-     "after": "Van Hecke came in and Avinash and Anuj fell behind."
-    },
-    {
-     "item": "rating:Abhimanyu",
-     "reason": "numbers: 2 numbers, at most 1; fresh: copies an example or an earlier line",
-     "before": "21 points sat on the bench. That is the only thing standing between 50th and a bigger leap.",
-     "after": "The bench ate 21 points, and Sandeepan overtook anyway."
-    },
-    {
-     "item": "rating:Kartik",
-     "reason": "fresh: \"climb from th\" is already in 2 other lines; find this manager's own story",
-     "before": "A steady climb from 108th, one place at a time. Quiet, but it is working.",
-     "after": "Swapnil and Monty passed after last week's season best."
-    },
-    {
-     "item": "rating:Rahil",
-     "reason": "numbers: 2 numbers, at most 1; fresh: copies an example or an earlier line; fresh: \"weeks above...\" already opens 2 other lines; fresh: \"above average and\" is already in 2 other lines; find this manager's own story",
-     "before": "3 weeks above average and still 63rd-ish. Climbing, but the table is stubborn.",
-     "after": "Ajay sits one point ahead. The climb is stuck in traffic."
+     "item": "rating:Chander",
+     "reason": "fresh: \"below average run\" is already in 2 other lines; find this manager's own story",
+     "before": "Bench Boost and a hit, and the below-average run is over. Worth it.",
+     "after": "Bench Boost and a hit, and Anuj, Swapnil and Monty all passed. Worth it."
     },
     {
      "item": "rating:Sanket Khandekar",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Stuck around 100th for a month. The bench ate 18 points.",
-     "after": "18 benched points explain why the hundreds feel permanent."
-    },
-    {
-     "item": "rating:Yash Bhatia",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "From 2nd to 5th in 4 weeks. Akshat is one point away, so the slide is fixable.",
-     "after": "Sukrut passed, and Akshat is next above. A slide that can still be fixed."
+     "reason": "fresh: \"benched points...\" already opens 2 other lines",
+     "before": "18 benched points. That is the story of a week stuck in the high nineties.",
+     "after": "18 left on the bench, and the late nineties stay home. A fix is overdue."
     },
     {
      "item": "rating:Abhishek Yerra",
      "reason": "true: numbers not in the sheet ['2']",
-     "before": "Zishan sneaked past. Seventieth for 2 weeks running smells like a rut.",
-     "after": "Zishan sneaked past, and the drift down is looking like a rut."
-    },
-    {
-     "item": "rating:Raj",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Bang on average and Abhimanyu one point away. 4 rivals passed, so the climb to 52nd goes on.",
-     "after": "Level with the average, yet Amar, Rishab, SHARAN and Akash were passed."
+     "before": "Parked on 70th for 2 weeks. Zishan has just gone past.",
+     "after": "Parked on 70th, and Zishan has just gone past."
     },
     {
      "item": "rating:S.M.",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"slide from th\" is already in 2 other lines; find this manager's own story",
-     "before": "8 points of transfers bought N.Jackson and Van Hecke. The slide from 36th goes on.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "true: 36th to 73rd isn't a real move (it was 70th to 73rd)",
+     "before": "2 new signings did nothing to stop a slide from 36th to 73rd.",
+     "after": "2 signings did nothing for the slide. Zishan and Udit both went past."
     },
     {
-     "item": "rating:Mohit",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Peak of 81st came last week. This week gave 4 places back.",
-     "after": "Peak came last week. This week gave 4 places back."
+     "item": "rating:Nanik",
+     "reason": "fresh: copies an example or an earlier line; fresh: \"van hecke...\" already opens 2 other lines",
+     "before": "Van Hecke arrived, and 18 points sat on the bench. 30th is still safe.",
+     "after": "Van Hecke arrived, 18 stayed home. Bench is the leak."
     },
     {
      "item": "rating:Stephen",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "Hovering in the high eighties. 15 on the bench is the only drama.",
-     "after": "Quiet week in the eighties. 15 benched points are the lone talking point."
+     "reason": "true: numbers not in the sheet ['3']",
+     "before": "Hovering around 88th for a month. Umang is only 3 points behind.",
+     "after": "Hovering in the high eighties for a month. Umang is closing from behind."
     },
     {
-     "item": "rating:Sahej",
-     "reason": "numbers: 3 numbers, at most 1; fresh: \"a week...\" already opens 2 other lines",
-     "before": "A 3-week good run ended, and 24th is 5 places lower.",
-     "after": "The good run ended with a drop of 5 places."
+     "item": "rating:Avin",
+     "reason": "fresh: \"last week's...\" already opens 2 other lines",
+     "before": "Last week's quiet progress stalled. Shantanu passed, and 76th is where things sit.",
+     "after": "Shantanu went past. Quiet progress has hit the brakes."
     },
     {
-     "item": "rating:Shahan",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"weeks below average\" is already in 2 other lines; find this manager's own story",
-     "before": "4 weeks below average, down from 41st. The early form is a distant memory.",
-     "after": "Early form feels long gone. The nearest rival is Zishan, just above."
-    },
-    {
-     "item": "rating:Biswadeep",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"weeks above...\" already opens 2 other lines; fresh: \"weeks above average\" is already in 2 other lines; find this manager's own story",
-     "before": "6 weeks above average came to an end. Still sitting a healthy 7th.",
-     "after": "Best place of the season came last week. Van Hecke arrived, the run snapped."
+     "item": "rating:Vishva",
+     "reason": "fresh: \"a season high\" is already in 2 other lines; find this manager's own story",
+     "before": "A season high of 66th last week. This week is a pause, nothing worse.",
+     "after": "Season high came last week. This one is a pause, nothing worse."
     },
     {
      "item": "rating:Sourabh",
-     "reason": "numbers: 3 numbers, at most 1; fresh: \"a week...\" already opens 2 other lines; fresh: \"run below average\" is already in 2 other lines; find this manager's own story",
-     "before": "A 6-week run below average is over. De Cuyper cost 5 in hits, yet 108th hurts.",
-     "after": "Escaped the below-average run, yet 108th is the lowest place of the season."
+     "reason": "fresh: \"a week...\" already opens 2 other lines",
+     "before": "A 6-week run below average is over. The hit for De Cuyper hurt, though.",
+     "after": "6 weeks below average, finally ended. The hit for De Cuyper hurt."
+    },
+    {
+     "item": "rating:Sanket Nahata",
+     "reason": "fresh: \"benched points...\" already opens 2 other lines; fresh: \"below average run\" is already in 2 other lines; find this manager's own story",
+     "before": "21 benched points. The below-average run is over, but 105th hasn't moved.",
+     "after": "21 stranded on the bench. Run below average over, 105th untouched."
     },
     {
      "item": "rating:Suraj",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Passed Ajay but Sandeepan and Shrivar passed back. 4 weeks down from 37th.",
-     "after": "Passed Ajay, then Sandeepan and Shrivar stormed past. Slide still on."
-    },
-    {
-     "item": "rating:Sidharth",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "4 weeks climbing from 82nd to 39th. Level with the average this time, still a good run.",
-     "after": "Climbing since 82nd. Level with the average this week, so the run only paused."
+     "reason": "numbers: 3 numbers, at most 2; fresh: copies an example or an earlier line; fresh: \"th to th\" is already in 2 other lines; find this manager's own story",
+     "before": "4 weeks of falling, from 37th to 59th. 20 on the bench didn't help.",
+     "after": "4 weeks of falling. Sandeepan and Shrivar both passed, and 20 sat out."
     },
     {
      "item": "rating:Utkarsh",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "11th for 4 weeks running. 7 points of hits for N.Jackson, no move.",
-     "after": "Parked in 11th for a month. The N.Jackson hit bought no movement."
-    },
-    {
-     "item": "rating:Abu",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"weeks below...\" already opens 2 other lines; fresh: \"weeks below average\" is already in 2 other lines; find this manager's own story",
-     "before": "7 weeks below average. The slide from 69th has no end in sight.",
-     "after": "Down from 69th with no brake. Passed Anuj, then Aditya and M passed back."
-    },
-    {
-     "item": "rating:Clawin",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Yo-yo season, back to 12th. Utkarsh is just 2 points up the road.",
-     "after": "Yo-yo season, back to 12th. Utkarsh sits just above, within reach."
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "N.Jackson cost a 7-point hit. 11th has been home for 4 weeks.",
+     "after": "N.Jackson cost a 7-point hit. 11th is now home."
     },
     {
      "item": "rating:Sajeet",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"weeks below...\" already opens 2 other lines; fresh: \"weeks below average\" is already in 2 other lines; find this manager's own story",
-     "before": "3 weeks below average and 66th again. The table is going nowhere.",
+     "reason": "true: \"twice\" hides a number the sheet can't confirm; use the digit; fresh: \"weeks below...\" already opens 2 other lines; fresh: \"weeks below average\" is already in 2 other lines; find this manager's own story",
+     "before": "3 weeks below average, and 66th has now been home twice.",
      "after": null,
-     "still": "numbers: 2 numbers, at most 1"
+     "still": "true: numbers not in the sheet ['2']"
+    },
+    {
+     "item": "rating:Karan P Nanda",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Belloumi scored 7 and nobody else owned him. A cheeky pick.",
+     "after": "Belloumi scored 7, a solo pick that paid. The rest let it down."
     },
     {
      "item": "rating:Manu",
-     "reason": "numbers: 2 numbers, at most 1; true: 22nd to 68th isn't a real move (it was 69th to 68th); fresh: \"nd to th\" is already in 2 other lines; find this manager's own story",
-     "before": "Down from 22nd to 68th. Krishnaji passed, a small crumb of comfort.",
-     "after": "Passed Krishnaji, a crumb of comfort. The slide from 22nd still defines the month."
+     "reason": "true: 22nd to 68th isn't a real move (it was 69th to 68th)",
+     "before": "Down from 22nd to 68th. Krishnaji passed, but the slide is long.",
+     "after": "Krishnaji passed. The slide from 22nd is long."
     },
     {
      "item": "rating:Rahul",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "5 places lost, with 11 points benched. Selection stung again.",
-     "after": "Slipped 5 places. Benched points are becoming this team's signature."
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "Down 5 places to 48th. 11 benched points are the leak.",
+     "after": "Down 5 places. 11 benched points are the leak."
+    },
+    {
+     "item": "rating:Manav",
+     "reason": "fresh: \"back from th\" is already in 2 other lines; find this manager's own story",
+     "before": "The One That Got Away is won. Back from 55th, up the table slowly.",
+     "after": "Sold Tzolakis, who then scored 10. The One That Got Away is earned."
+    },
+    {
+     "item": "rating:Rajat Bhalla",
+     "reason": "fresh: \"benched points...\" already opens 2 other lines",
+     "before": "24 benched points. That is the week, and the slide goes on.",
+     "after": "24 stranded on the bench. Selection is the whole problem."
     },
     {
      "item": "rating:Vivek",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"weeks below...\" already opens 2 other lines; fresh: \"weeks below average\" is already in 2 other lines; find this manager's own story",
-     "before": "5 weeks below average. Konsa and Evanilson came in, and 95th is the result.",
-     "after": "Konsa and Evanilson in, and 95th out. Passed Anuj on the way down."
+     "reason": "fresh: \"weeks below average\" is already in 2 other lines; find this manager's own story",
+     "before": "Konsa and Evanilson in, and still falling. 5 weeks below average.",
+     "after": "Konsa and Evanilson in, and still falling. 5 weeks of it."
     },
     {
      "item": "rating:SHARAN",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "4-week good run ended. Last week's peak of 48th is now a memory.",
-     "after": "A good run ended. Last week's season-best place was a brief visit."
+     "reason": "fresh: \"a week...\" already opens 2 other lines; fresh: \"a week run\" is already in 2 other lines; find this manager's own story",
+     "before": "A 4-week run above average ended. Down 7 places from last week's high.",
+     "after": "4 good weeks ended with a drop. Last week's high is gone."
     },
     {
      "item": "rating:Vinil",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Hovering at 103rd for a month. 12 benched points did not help.",
-     "after": "A month camped around 103rd. The bench cost more than any rival did."
+     "reason": "fresh: \"benched points...\" already opens 2 other lines",
+     "before": "12 benched points. Still stuck near 103rd and going nowhere fast.",
+     "after": "12 on the bench. Stuck near 103rd and going nowhere."
+    },
+    {
+     "item": "rating:Cherag",
+     "reason": "fresh: \"week below average\" is already in 2 other lines; find this manager's own story",
+     "before": "Third week below average. The slide from 3rd now has a 6th-place gap.",
+     "after": "From 3rd to 12th in a month. Karan Singh and Utkarsh both went past."
+    },
+    {
+     "item": "rating:Nishit",
+     "reason": "true: numbers not in the sheet ['2']",
+     "before": "Aleston, Eli and 2 others went past. Slow leak, still leaking.",
+     "after": "Eli, Jackey, Aryan Apte and Aleston all passed. Slow leak, still leaking."
+    },
+    {
+     "item": "rating:Rishab",
+     "reason": "fresh: \"last week's...\" already opens 2 other lines",
+     "before": "Last week's fix stalled. Shrivar is 3 points up the road.",
+     "after": "Shrivar sits above. A drop of 11 places undid the fix."
     },
     {
      "item": "rating:Mudit",
-     "reason": "numbers: 4 numbers, at most 1",
-     "before": "17 on the bench. 10th to 24th in 4 weeks is a proper fall.",
-     "after": "17 points rotting on the bench. Kaushik sits just above, close enough to haunt."
-    },
-    {
-     "item": "rating:Ajay",
-     "reason": "fresh: \"is one point\" is already in 2 other lines; find this manager's own story",
-     "before": "12 left on the bench. Adwait is one point ahead, so the gap is small.",
-     "after": "Dropped behind Adwait. The bench was the leak."
+     "reason": "fresh: \"benched points...\" already opens 2 other lines",
+     "before": "17 benched points. Climbing out of 10th feels like a long time ago.",
+     "after": "17 on the bench. Climbing out of 10th feels long ago."
     },
     {
      "item": "rating:Varun",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"weeks below...\" already opens 2 other lines; fresh: \"weeks below average\" is already in 2 other lines; find this manager's own story",
-     "before": "4 weeks below average, yet the table barely moved. Parked near 104th.",
-     "after": "Camped near 104th all month. Nothing has changed except the date."
-    },
-    {
-     "item": "rating:Zorawar",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "3 rivals passed on the way up. 21 benched points kept it from more.",
-     "after": "Climbed past Nehal, Shahaan and Mayuresh. The bench kept it from being a bigger week."
-    },
-    {
-     "item": "rating:Rajat Arora",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Still on top after 5 weeks. N.Jackson cost 4 and returned little.",
-     "after": "Still alone on top. The N.Jackson hit returned little, and the lead survived anyway."
-    },
-    {
-     "item": "rating:Sahil",
-     "reason": "fresh: \"van hecke...\" already opens 2 other lines; fresh: \"hecke came in\" is already in 2 other lines; find this manager's own story",
-     "before": "Van Hecke came in. The 9 from last week did not repeat.",
-     "after": "Fell 9 places. Last week's leapfrogging act did not get an encore."
-    },
-    {
-     "item": "rating:Sikander",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "Highest place of the season came last week. This week handed some of it back.",
-     "after": null,
-     "still": "numbers: 2 numbers, at most 1"
-    },
-    {
-     "item": "rating:Tanmay",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Season best of 17th lasted one week. 10 places gone in a flash.",
-     "after": "Season high of 17th, gone within a week."
-    },
-    {
-     "item": "rating:Amar",
-     "reason": "numbers: 3 numbers, at most 1; true: 24th to 53rd isn't a real move (it was 40th to 53rd); fresh: \"is one point\" is already in 2 other lines; find this manager's own story",
-     "before": "4th week of sliding, from 24th to 53rd. Raj is one point ahead.",
-     "after": "Down again, and Raj is the one above. The slide has become a pattern."
-    },
-    {
-     "item": "rating:Quseem",
-     "reason": "numbers: 2 numbers, at most 1; fresh: copies an example or an earlier line; fresh: \"and van hecke\" is already in 2 other lines; find this manager's own story",
-     "before": "Barry and Van Hecke in, 17th out. 18 benched points hurt more.",
+     "reason": "true: numbers not in the sheet ['100']; fresh: \"weeks below...\" already opens 2 other lines; fresh: \"weeks below average\" is already in 2 other lines; find this manager's own story",
+     "before": "4 weeks below average, yet the table barely shifted. Parked in the 100s.",
      "after": null,
      "still": "fresh: copies an example or an earlier line"
     },
     {
-     "item": "rating:Krishnaji",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "4th week of decline since 32nd. The slide is now a habit.",
-     "after": "Slide since 32nd keeps going. Passed Manu's spot for nobody's comfort."
+     "item": "rating:Sahil",
+     "reason": "fresh: \"van hecke...\" already opens 2 other lines",
+     "before": "Van Hecke arrived, 15 points sat out. Last week's leap now feels rented.",
+     "after": "Van Hecke arrived, 15 sat out. The leap now feels rented."
     },
     {
-     "item": "rating:Bhavin",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"one point ahead\" is already in 2 other lines; find this manager's own story",
-     "before": "Down 4 weeks running from 26th. Nishit is one point ahead.",
-     "after": "Slow decline since 26th. Nishit is the next target up."
+     "item": "rating:Sikander",
+     "reason": "fresh: \"the next target\" is already in 2 other lines; find this manager's own story",
+     "before": "A high of 23rd last week. Sahil, one point ahead, is the next target.",
+     "after": "23rd was the season high. Sahil, just above, is the one to catch."
+    },
+    {
+     "item": "rating:Amar",
+     "reason": "fresh: \"one point ahead\" is already in 2 other lines; find this manager's own story",
+     "before": "From 24th to 53rd in 4 weeks. Raj, one point ahead, is within reach.",
+     "after": "From 24th to 53rd in 4 weeks. Raj sits just above."
     },
     {
      "item": "rating:Akash",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"in one week\" is already in 2 other lines; find this manager's own story",
-     "before": "14 places gone in one week. The fall from 14th is steep.",
-     "after": null,
-     "still": "numbers: 2 numbers, at most 1"
+     "reason": "fresh: \"one point away\" is already in 2 other lines; find this manager's own story",
+     "before": "Down 14 places, with 16 benched points. Hardik is one point away.",
+     "after": "Down 14 places, with 16 stranded. Hardik is within sight."
     },
     {
      "item": "rating:Shahaan",
      "reason": "fresh: \"last week's...\" already opens 2 other lines",
-     "before": "Last week's captain heroics did not repeat. 17 benched points added to it.",
-     "after": "Alone on Fernandes captain last week. This week the armband magic vanished and the bench bled."
+     "before": "Last week's 20-point captain call. This week, 17 points stayed on the bench.",
+     "after": "A 20-point captain call last week. This week 17 sat on the bench."
     },
     {
      "item": "rating:Swapnil",
-     "reason": "numbers: 2 numbers, at most 1; fresh: copies an example or an earlier line",
-     "before": "4 managers overtook in one go. 19 points on the bench didn't help.",
-     "after": "Aditya, Vidur, Chander and Kartik all jumped past. 19 benched points explain it."
+     "reason": "fresh: \"benched points are\" is already in 2 other lines; find this manager's own story",
+     "before": "4 rivals overtook. 19 benched points are the obvious place to start.",
+     "after": "Passed by Aditya, Vidur, Chander and Kartik. 4 rivals went by while this side stood still."
     },
     {
      "item": "rating:Avinash",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"cost in hits\" is already in 2 other lines; find this manager's own story",
-     "before": "McGinn cost 6 in hits. 12 places lost, with nothing to show.",
-     "after": null,
-     "still": "true: numbers not in the sheet ['90']"
+     "reason": "fresh: \"a point hit\" is already in 2 other lines; find this manager's own story",
+     "before": "McGinn cost a 6-point hit. 12 places gone is a steep invoice.",
+     "after": "McGinn arrived and 12 places left. Dearest signing of the week."
     },
     {
      "item": "rating:Neil",
-     "reason": "numbers: 3 numbers, at most 1; true: 81st to 106th isn't a real move (it was 103rd to 106th); fresh: \"th week...\" already opens 2 other lines",
-     "before": "4th week sliding, from 81st to 106th. Varun passed too.",
-     "after": "Vinil, Varun and Sanket Nahata all passed. Sliding since 81st."
+     "reason": "fresh: \"is one point\" is already in 2 other lines; find this manager's own story",
+     "before": "4 straight drops. Sanket Nahata is one point ahead, so the gap is tiny.",
+     "after": "Down 4 weeks running, 81st to 106th. Sanket Nahata went past too."
     },
     {
      "item": "rating:Anuj",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "3 good weeks ended with a thud. 19 benched points was the cost.",
-     "after": "A good run ended with a thud. The bench was the culprit."
+     "reason": "numbers: 3 numbers, at most 2",
+     "before": "3 good weeks ended. 22 points and 19 benched is a harsh reset.",
+     "after": "3 good weeks ended. Last week's praise aged badly."
     },
     {
      "item": "rating:Mayuresh",
-     "reason": "numbers: 3 numbers, at most 1; fresh: \"th in weeks\" is already in 2 other lines; find this manager's own story",
-     "before": "Won Free Fall. 8th to 48th in 4 weeks is a proper tumble.",
-     "after": "Free Fall fits. 5th place in GW5 feels like another life."
+     "reason": "fresh: \"th to th\" is already in 2 other lines; find this manager's own story",
+     "before": "Free Fall won, and it fits. 8th to 48th in 4 weeks.",
+     "after": "Free Fall won. 7th to 48th is a long way down in 4 weeks."
+    },
+    {
+     "item": "losers:1",
+     "reason": "fresh: repeats 20 from winners:1; say something new",
+     "before": "From 7th to 48th in 4 weeks, with 20 points benched this time. That is selection, not bad luck, and Free Fall fits.",
+     "after": "7th to 48th in 4 weeks, and the best place this season was 5th. Free Fall fits, and this slide has a trend, not just a bad week."
     },
     {
      "item": "decision_of_the_week",
      "reason": "fresh: repeats 11 from winners:2; say something new",
-     "before": "Krishna picked the wrong 11 and left 26 points on the bench. That is more than most managers scored from the whole XI. Bench Disaster, and a tough one to take.",
-     "after": "Krishna picked the wrong XI. 26 points sat idle, more than most managers scored in total. A cruel way to earn Bench Disaster."
+     "before": "Krishna left 26 points on the bench, the most in the league. The wrong 11 swung the whole week. A cruel one to get wrong, and one for the team sheet next time.",
+     "after": "Krishna won Bench Disaster. A full week of points sat out on the bench, the most in the league. One for the team sheet next time."
     },
     {
      "item": "rating:Aditya",
      "reason": "fresh: \"transfer\" is already in their verdict above; make a different point",
-     "before": "Last week's Transfer Flop, this week's Manager of the Week. Quite the turnaround.",
-     "after": "A week ago, 97th and a hit. Now the week's best score and a comeback."
+     "before": "Last week's Transfer Flop, this week's winner. The comeback from 97th is real.",
+     "after": "Last week's low, this week's crown. Comeback from 97th is on."
+    },
+    {
+     "item": "rating:Sandeepan",
+     "reason": "fresh: \"average\" is already in their verdict above; make a different point",
+     "before": "4 below-average weeks ended with a Tavernier-powered leap. Comeback complete.",
+     "after": "4 poor weeks, then a 20-place leap. Passed Shrivar, Sagar and Kunaal on the way."
     },
     {
      "item": "rating:Nihal",
      "reason": "fresh: \"boost\" is already in their verdict above; make a different point",
-     "before": "6 straight weeks of climbing. Bench Boost showed what the squad can do.",
-     "after": "6 weeks of climbing, and Cherag is next in the sights."
+     "before": "6 rises running and a Bench Boost to show for it. Steady beats flashy.",
+     "after": "Up 6 weeks running, 72nd to 15th. Cherag is next in the sights."
     },
     {
      "item": "rating:Monty",
-     "reason": "fresh: \"doghouse\" is already in their verdict above; make a different point",
-     "before": "Won The Doghouse. Mbeumo and N.Jackson in, and 102nd was the result.",
-     "after": "Mbeumo and N.Jackson cost a hit and returned little. Dinesh sits just above."
+     "reason": "fresh: \"jackson\" is already in their verdict above; make a different point",
+     "before": "Mbeumo and N.Jackson in, 102nd out. The Doghouse is a fair reward.",
+     "after": "The Doghouse again, and 102nd. Dinesh is 4 points ahead and in range."
     },
     {
-     "item": "winners:0",
-     "reason": "true: \"Sat 97th a week ago after a transfer hit that backfired\" is not supported; SHEET shows Aditya 97th in GW10 with a -7 hit, not a clear backfire claim, and",
-     "before": "Sat 97th a week ago after a transfer hit that backfired. The best score of the week was a proper answer. Skill, with a bit of rebound luck.",
-     "after": "Sat 97th, the lowest place of his season, a week ago. The week's best score was the answer. A comeback worth admiring."
+     "item": "headline",
+     "reason": "fresh: 'nobody lays a glove' is a stock phrase, and the headline doesn't match the Haaland story",
+     "before": "ARORA'S SHOCKER and nobody lays a glove",
+     "after": "HAALAND BLANKS ON 92 ARMBANDS, ARORA STILL CLEAR"
+    },
+    {
+     "item": "big_picture",
+     "reason": "true: says the bench 'bled again' and 'lead went from 18 to 21' is supported, but 'Neol had a week as bad as Arora's' is false: Neol scored 29, Arora 32",
+     "before": "Rajat Arora has been alone on top for 5 weeks. This was his shakiest yet: the Haaland armband blanked, and the bench bled again. Nobody punished it. The lead went from 18 to 21, because Neol had a week as bad as Arora's. The leader is not being caught so much as left alone. Until a rival has a big week, the title race stays his to lose.",
+     "after": null,
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "winners:1",
+     "reason": "true: 'Tavernier and 20-place leap' is wrong; Sandeepan's leap was 20 places, but the 'Tavernier' transfer is only supported by the sheet, and '4 weeks below av",
+     "before": "4 weeks below average ended with Tavernier and a 20-place leap. The transfer did the work, so call it skill.",
+     "after": "4 weeks below average, then Tavernier and a 20-place leap. That transfer deserves the credit."
+    },
+    {
+     "item": "winners:2",
+     "reason": "true: 'Up 6 weeks running, from 72nd to 15th' is supported, but 'Bench Boost paid 11' is correct; no false claim here, so fail on fun: reads like a stats sheet",
+     "before": "Up 6 weeks running, from 72nd to 15th. The Bench Boost paid 11, so the climb has a chip behind it as well as form.",
+     "after": "Up 6 weeks running, from 72nd to 15th. The Bench Boost helped, but this climb has been building for a while."
     },
     {
      "item": "losers:0",
-     "reason": "kind: savage tone toward Monty; the sheet says 102nd is not his lowest ever, so \"lowest he has ever been\" is unsupported.",
-     "before": "Mbeumo and N.Jackson came in at a cost of 4 points. The Doghouse is earned, and 102nd is the lowest he has ever been.",
-     "after": "Mbeumo and N.Jackson came in at a cost of 4 points. The Doghouse is earned, and 102nd is another step in a slow drift."
+     "reason": "true: says 'Mbeumo and N.Jackson came in for a 4-point hit' is supported, but 'new shirts still haven't moved the spot' misdescribes a 98th-to-102nd drop",
+     "before": "Mbeumo and N.Jackson came in for a 4-point hit. 102nd is the reward, and the new shirts still haven't moved the spot.",
+     "after": "Mbeumo and N.Jackson came in for a 4-point hit. The Doghouse is the reward, and 102nd is the lowest of the run."
+    },
+    {
+     "item": "losers:2",
+     "reason": "true: 'third good week running' is wrong; Mayuresh had 4 weeks below average, and the loser here is Anuj, not a rated good-form manager",
+     "before": "Last week's third good week running ended with 19 points benched. The form was real. The team sheet let it down.",
+     "after": null,
+     "still": "fresh: copies an example or an earlier line"
     },
     {
      "item": "rating:Sahilk",
-     "reason": "true: \"biggest chip return\" claim is not supported; Bench Boost was worth 19 but Rajat Bhalla's bench loss is not compared to a chip return in SHEET.",
-     "before": "Bench Boost was worth 19. That was the week's biggest chip return.",
+     "reason": "fresh: 'Last week's slip forgotten' is a stock phrase that repeats a pattern used elsewhere",
+     "before": "Bench Boost paid 19 and the table lifted. Last week's slip forgotten.",
+     "after": "(kept: the rewrite was worse)",
+     "still": "numbers: 4 numbers, at most 2"
+    },
+    {
+     "item": "rating:Aryan Apte",
+     "reason": "true: 'Silva armband, nobody else on him' is supported, but 'The Rocket launched from 53rd' is wrong; he was up from 53rd to 32nd, which matches; fail on fun: n",
+     "before": "Silva armband, nobody else on him. The Rocket launched from 53rd.",
+     "after": "Only one to captain Silva, and it paid 16. Best armband in the league."
+    },
+    {
+     "item": "rating:Zishan",
+     "reason": "important: misses the 79th-to-64th climb story and talks about streak minutiae",
+     "before": "3 above-average weeks running. The climb back from 79th is gathering pace.",
+     "after": "79th, 75th, 74th, 64th. 3 good weeks and the climb is picking up."
+    },
+    {
+     "item": "rating:Shrivar",
+     "reason": "true: 'Van Hecke in, and a bounce back to 53rd' is supported, but 'Last week's drop looks like a blip' is an unsupported claim about the future",
+     "before": "Van Hecke in, and a bounce back to 53rd. Last week's drop looks like a blip.",
+     "after": "Van Hecke came in and 61st became 53rd. Sandeepan went past anyway."
+    },
+    {
+     "item": "rating:Pranav",
+     "reason": "true: 'Last week's Wildcard doubts quieted, slightly' is a claim the sheet does not support; the Wildcard line is a tip, not a fact",
+     "before": "A solo Szoboszlai pick paid 9. Last week's Wildcard doubts quieted, slightly.",
+     "after": "Only Pranav started Szoboszlai, and he paid 9. Lone pick, real reward."
+    },
+    {
+     "item": "rating:Tanish",
+     "reason": "kind: 'a good week while stuck on 110th' is savage about someone marked go_easy",
+     "before": "A good week while stuck on 110th for 4 weeks. Gentle progress, keep going.",
+     "after": "A decent week from a tough spot. Krishna is the next target."
+    },
+    {
+     "item": "rating:Arshad",
+     "reason": "fun: reads like a stats sheet, no verdict or sting beyond 'quiet climbers keep coming'",
+     "before": "4 above-average weeks running, from 64th to 19th. Quiet climbers keep coming.",
+     "after": "From 64th to 19th in 4 weeks. Quseem is next above."
+    },
+    {
+     "item": "rating:Yash Gawai",
+     "reason": "true: '17 benched points still sting' is supported, but 'Up from the 104th low in GW8' is correct; fail on fresh: repeats the same bench-points opening used for",
+     "before": "Up from the 104th low in GW8. 17 benched points still sting.",
+     "after": "Out of the 104th low in GW8 and into 79th. Bench cost plenty, though."
+    },
+    {
+     "item": "rating:Jackey",
+     "reason": "fun: 'Up 13 places and one point behind Eli. Hunting.' is a stats-sheet line with no verdict",
+     "before": "Up 13 places and one point behind Eli. Hunting.",
+     "after": "Up 13 places, past Eli's neighbourhood. One point from a place higher."
+    },
+    {
+     "item": "rating:Adwait",
+     "reason": "fun: 'Up to 61st' with no verdict or sting",
+     "before": "Up to 61st. Last week's bench pain is forgotten for now.",
+     "after": "Back to 61st after a dip. Suraj is one point ahead and catchable."
+    },
+    {
+     "item": "rating:Sagar",
+     "reason": "true: 'Back up from 63rd in GW8, though Sandeepan went past' is supported; fail on fresh: 'Progress with company' is a stock phrase",
+     "before": "Back up from 63rd in GW8, though Sandeepan went past. Progress with company.",
+     "after": "Back up from 63rd in GW8, though Sandeepan went past. Sharing the neighbourhood."
+    },
+    {
+     "item": "rating:Eli",
+     "reason": "true: '31st is a season high' is supported, but '11 benched points are the only blemish' is unsupported, since the sheet shows Eli's week otherwise unremarkable",
+     "before": "31st is a season high. 11 benched points are the only blemish.",
+     "after": "31st is a season high. Nanik is 4 points ahead."
+    },
+    {
+     "item": "rating:Akshat",
+     "reason": "true: 'Third place again, quietly' is supported; fail on fresh: 'quietly' repeats the phrase used for Arshad and others",
+     "before": "Wirtz and Van Hecke made Transfer Genius. Third place again, quietly.",
+     "after": "Wirtz and Van Hecke in, Transfer Genius earned. Third place holds."
+    },
+    {
+     "item": "rating:Dinesh",
+     "reason": "true: 'N.Jackson earned his keep' is an unsupported claim about who did what",
+     "before": "A 3-week below-average run ended despite the 7-point hit. N.Jackson earned his keep.",
+     "after": "Ended a 3-week slump despite the 7-point hit. Passed Monty on the way."
+    },
+    {
+     "item": "rating:Saeel",
+     "reason": "fun: 'A decent week with leaks' is a filler verdict with no sting",
+     "before": "Evanilson in, 11 points benched. A decent week with leaks.",
+     "after": "Evanilson in, 11 points benched. Good week, left some on the shelf."
+    },
+    {
+     "item": "rating:Sundar",
+     "reason": "true: 'Last week's Triple Captain doubts fade' is an unsupported claim about his past doubts",
+     "before": "39th is a season high. Last week's Triple Captain doubts fade.",
+     "after": "39th is a season high. Aryan Apte went past, but the peak is real."
+    },
+    {
+     "item": "rating:Vidur",
+     "reason": "fresh: 'The climb from 97th gathers' repeats the climb phrasing used for Kartik and Sidharth",
+     "before": "Vivek, Anuj and Swapnil all passed. The climb from 97th gathers.",
+     "after": "Passed Vivek, Anuj and Swapnil. 12 benched points kept it from being bigger."
+    },
+    {
+     "item": "rating:Kabeerr",
+     "reason": "fun: 'A small return and a small climb' is a stats-sheet line with no verdict",
+     "before": "Triple Captain added 2. A small return and a small climb.",
+     "after": "Triple Captain added just 2. Chip played, shrug earned."
+    },
+    {
+     "item": "rating:Udit",
+     "reason": "true: 'The Wildcard is still waiting to pay' is an unsupported claim about a future payoff",
+     "before": "A small step up to 70th. The Wildcard is still waiting to pay.",
+     "after": "Up 2 places to 70th. Shantanu is one point behind."
+    },
+    {
+     "item": "rating:Abhishek Thard",
+     "reason": "fun: 'Not the return wanted' is a flat verdict with no joke or sting",
+     "before": "Groß in, down to 86th. Not the return wanted.",
+     "after": "Groß in, down to 86th. Mohit is one point ahead."
+    },
+    {
+     "item": "rating:Arnav",
+     "reason": "true: 'A first pause in the slide' is an unsupported claim; the sheet shows no prior pause to compare",
+     "before": "Level with the average ended a 3-week slump. A first pause in the slide.",
+     "after": "Level with the average ends a 3-week slump. Passed Avinash and Anuj."
+    },
+    {
+     "item": "rating:Prathap",
+     "reason": "true: 'The last big-prize place' is supported, but 'a 4-week run above average ended' is correct; fail on important: misses the Top prizes story of holding 7th",
+     "before": "A 4-week run above average ended, though Kshiteesh was passed anyway. 7th holds.",
      "after": null,
-     "still": "numbers: 2 numbers, at most 1"
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "rating:Soham",
+     "reason": "true: 'the 18th was the season best' is supported; fail on fun: 'drifting back' with no sting",
+     "before": "Down to 22nd. Last week's 18th was the season best; drifting back.",
+     "after": "Down to 22nd. Last week's 18th was the season best."
     }
    ],
    "usage": {
-    "in": 270991,
-    "out": 13447,
-    "calls": 8
+    "in": 308605,
+    "out": 16769,
+    "calls": 9
    },
-   "sent_back": 102,
+   "sent_back": 106,
    "unknown_names": [],
    "top_3": [
     {
@@ -73716,11 +73710,12 @@
     "Janit",
     "Rohan"
    ],
-   "tries": 1,
-   "wsig": "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
-   "wtries": 0,
+   "tries": 2,
+   "wsig": "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 4)",
+   "wtries": 1,
    "wtried": [
-    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)"
+    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
+    "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 4)"
    ]
   }
  },
@@ -73741,7 +73736,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-26T11:46:19Z",
+  "ts": "2026-11-26T12:17:01Z",
   "issues": [],
   "page": []
  },
