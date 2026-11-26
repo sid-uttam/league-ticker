@@ -11383,7 +11383,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-26T18:48:22Z",
+ "updated": "2026-11-26T19:18:20Z",
  "ai": {
   "briefings": {
    "3029346": "You top the table on 774 after a 52-point week, with Nikhil 17 back. Watch the armband carefully, as your Haaland captaincy only returned 4.",
@@ -15651,7 +15651,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-26T18:48:22Z",
+  "ts": "2026-11-26T19:18:20Z",
   "issues": [],
   "page": []
  },
@@ -15932,14 +15932,6 @@
    "237": "11:down"
   },
   "log": [
-   {
-    "ts": "2026-11-16T19:01:27Z",
-    "el": 469,
-    "kind": "flag",
-    "status": "d",
-    "chance": 75,
-    "news": "Ankle injury - 75% chance of playing"
-   },
    {
     "ts": "2026-11-18T00:30:06Z",
     "el": 453,
