@@ -3914,7 +3914,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-26T00:09:49Z",
+ "updated": "2026-11-26T00:12:42Z",
  "hist": {
   "key": "11:between",
   "data": {
@@ -17707,11 +17707,9 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-26T00:09:49Z",
+  "ts": "2026-11-26T00:12:42Z",
   "issues": [],
-  "page": [
-   "briefing for Nanik: \"Your bench cost you 18 points this week, so tighten your bench order.\" has a week score of 18; Nanik scored 36"
-  ],
+  "page": [],
   "wording": [
    "wording (1 points): ...can't move anyone.    Raya ARS   Scored 1 pts        16...",
    "wording (1 points): ...ained 6 on you.      Konsa ARS   Scored 1 pts        13...",
