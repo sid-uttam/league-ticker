@@ -11383,7 +11383,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-26T03:43:40Z",
+ "updated": "2026-11-26T04:13:39Z",
  "ai": {
   "briefings": {
    "3029346": "You top the table on 774 after a 52-point week, with Nikhil 17 back. Watch the armband carefully, as your Haaland captaincy only returned 4.",
@@ -15727,7 +15727,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-26T03:43:40Z",
+  "ts": "2026-11-26T04:13:39Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -16008,7 +16008,8 @@
    "400": "11:down",
    "183": "11:up",
    "350": "11:up",
-   "579": "11:up"
+   "579": "11:up",
+   "237": "11:down"
   },
   "log": [
    {
@@ -16728,6 +16729,12 @@
     "kind": "price",
     "change": -0.1,
     "price": 6.2
+   },
+   {
+    "ts": "2026-11-26T04:13:39Z",
+    "el": 237,
+    "kind": "surge",
+    "net": -25035
    }
   ]
  },
