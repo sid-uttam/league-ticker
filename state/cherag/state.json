@@ -64364,7 +64364,7 @@
     2,
     0,
     0,
-    76,
+    85,
     0,
     0,
     0
@@ -64397,7 +64397,7 @@
     2,
     0,
     0,
-    76,
+    85,
     0,
     0,
     0
@@ -64727,7 +64727,7 @@
     1,
     0,
     0,
-    76,
+    84,
     0,
     0,
     0
@@ -64925,7 +64925,7 @@
     1,
     0,
     0,
-    20,
+    29,
     0,
     0,
     0
@@ -64936,7 +64936,7 @@
     2,
     0,
     0,
-    76,
+    85,
     0,
     0,
     0
@@ -64958,7 +64958,7 @@
     4,
     0,
     0,
-    76,
+    85,
     0,
     0,
     0
@@ -65046,7 +65046,7 @@
     5,
     0,
     0,
-    76,
+    85,
     0,
     0,
     0
@@ -65783,7 +65783,7 @@
     2,
     0,
     0,
-    76,
+    85,
     0,
     0,
     0
@@ -65794,7 +65794,7 @@
     2,
     0,
     0,
-    76,
+    85,
     0,
     0,
     0
@@ -65805,7 +65805,7 @@
     15,
     0,
     0,
-    76,
+    85,
     0,
     0,
     0
@@ -66154,7 +66154,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-27T21:35:07Z",
+ "updated": "2026-11-27T21:44:54Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week. Neol is the main threat, so watch the Haaland armband and whether you hold your Free Hit for later.",
@@ -66207,13 +66207,13 @@
     "plots": 5
    },
    "12": {
-    "in": 465838,
-    "out": 77778,
-    "calls": 35,
+    "in": 482522,
+    "out": 83559,
+    "calls": 36,
     "refreshes": 6,
-    "desks": 6,
-    "desk_in": 266265,
-    "desk_out": 63129
+    "desks": 7,
+    "desk_in": 282949,
+    "desk_out": 68910
    }
   },
   "verdict_tries": {
@@ -75757,8 +75757,8 @@
   },
   "desk_try": {
    "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:i:3-1|120:n:0-0",
-   "ts": "2026-11-27T21:35:07Z",
-   "draft": "Gibbs-White's 15 points sting the managers who sold him | **Gibbs-White** has scored twice in NFO v CHE for **15 points**, and Biswadeep, Sid and Ajay are wincing after selling him this week. Aleston, Adwait and Rohan are watching from the bench as Rajat Arora still leads, with **Calvert-Lewin**, captained by 33 managers, yet to play.",
+   "ts": "2026-11-27T21:44:54Z",
+   "draft": "Gibbs-White nets twice, Biswadeep, Sid and Ajay wince | Gibbs-White has smashed in 2 goals for NFO, and **Gibbs-White is on 15 points** for the 20 managers who started him. **Biswadeep, Sid and Ajay** are wincing after selling him this week, while Aleston and Adwait watch him from their benches. **Calvert-Lewin**, captained by 33 managers, is still to play at the summit.",
    "why": "numbers: [] words: ['twice'] empty: False keys: ['headline', 'text', 'you']"
   }
  },
@@ -75779,7 +75779,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-27T21:35:07Z",
+  "ts": "2026-11-27T21:44:54Z",
   "issues": [
    "desk written from older totals (106 managers changed since)"
   ],
