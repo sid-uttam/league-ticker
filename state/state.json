@@ -18,9 +18,9 @@
    "key": "d12:bandwagon:366",
    "kind": "deadline",
    "tag": "Transfers",
-   "head": "Everyone wants Wirtz: 11 of you bring him in",
-   "body": "Ayodele, Dominic, Edd and 8 others all moved for Wirtz this week.",
-   "stat": "11 buys",
+   "head": "Everyone wants Wirtz: 10 of you bring him in",
+   "body": "Ayodele, Dominic, Edd and 7 others all moved for Wirtz this week.",
+   "stat": "10 buys",
    "score": 50,
    "who": [],
    "ts": "2026-11-27T19:14:15Z",
@@ -91,7 +91,7 @@
    "kind": "deadline",
    "tag": "Chips",
    "head": "Hishaan tears it up with a Wildcard",
-   "body": "0 new faces this week.",
+   "body": "10 new faces this week.",
    "stat": "Wildcard",
    "score": 65,
    "who": [
@@ -120,7 +120,7 @@
    "kind": "deadline",
    "tag": "Rivalry",
    "head": "Ravi vs Hishaan: 1 point apart",
-   "body": "8th and 9th going into the weekend. Isak for Ravi, N.Jackson for Hishaan: the armband could settle it. Hishaan's Wildcard could settle it.",
+   "body": "8th and 9th going into the weekend. Isak for Ravi, N.Jackson for Hishaan, with Hishaan's Wildcard on top.",
    "stat": "Gap: 1 pt",
    "score": 40,
    "who": [
@@ -3985,7 +3985,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-27T19:34:16Z",
+ "updated": "2026-11-27T19:44:16Z",
  "hist": {
   "key": "12:live",
   "data": {
@@ -16982,7 +16982,7 @@
   "ts": "2026-11-27T19:04:16Z"
  },
  "checks": {
-  "ts": "2026-11-27T19:34:16Z",
+  "ts": "2026-11-27T19:44:16Z",
   "issues": [],
   "page": []
  },

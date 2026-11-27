@@ -9442,9 +9442,9 @@
    "key": "d12:bandwagon:366",
    "kind": "deadline",
    "tag": "Transfers",
-   "head": "Everyone wants Wirtz: 6 of you bring him in",
-   "body": "Aarin, Aditya Dalal, Aryan, Pradnyesh, Sahil Phadnis and Sukrut all moved for Wirtz this week.",
-   "stat": "6 buys",
+   "head": "Everyone wants Wirtz: 5 of you bring him in",
+   "body": "Aarin, Aryan, Pradnyesh, Sahil Phadnis and Sukrut all moved for Wirtz this week.",
+   "stat": "5 buys",
    "score": 50,
    "who": [],
    "ts": "2026-11-27T19:17:16Z",
@@ -9528,7 +9528,7 @@
    "kind": "deadline",
    "tag": "Chips",
    "head": "Pruthviraj tears it up with a Wildcard",
-   "body": "0 new faces this week.",
+   "body": "7 new faces this week.",
    "stat": "Wildcard",
    "score": 65,
    "who": [
@@ -9542,7 +9542,7 @@
    "kind": "deadline",
    "tag": "Rivalry",
    "head": "Aditya Dalal vs Prerana: 3 points apart",
-   "body": "2nd and 3rd going into the weekend. Calvert-Lewin for Aditya Dalal, Haaland for Prerana: the armband could settle it. Aditya Dalal's Free Hit could settle it.",
+   "body": "2nd and 3rd going into the weekend. Calvert-Lewin for Aditya Dalal, Haaland for Prerana, with Aditya Dalal's Free Hit on top.",
    "stat": "Gap: 3 pts",
    "score": 58,
    "who": [
@@ -11137,7 +11137,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-27T19:35:14Z",
+ "updated": "2026-11-27T19:44:41Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms up as Haaland armband backfires",
@@ -13585,7 +13585,7 @@
   ]
  },
  "checks": {
-  "ts": "2026-11-27T19:35:14Z",
+  "ts": "2026-11-27T19:44:41Z",
   "issues": [],
   "page": []
  },

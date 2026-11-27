@@ -8544,9 +8544,9 @@
    "key": "d12:bandwagon:366",
    "kind": "deadline",
    "tag": "Transfers",
-   "head": "Everyone wants Wirtz: 7 of you bring him in",
-   "body": "Alia, Amit, Deepak and 4 others all moved for Wirtz this week.",
-   "stat": "7 buys",
+   "head": "Everyone wants Wirtz: 6 of you bring him in",
+   "body": "Alia, Amit, Hishaan, Marcel, Nikhil and Sunny all moved for Wirtz this week.",
+   "stat": "6 buys",
    "score": 50,
    "who": [],
    "ts": "2026-11-27T19:08:21Z",
@@ -8556,9 +8556,9 @@
    "key": "d12:bandwagon:379",
    "kind": "deadline",
    "tag": "Transfers",
-   "head": "Everyone wants Isak: 6 of you bring him in",
-   "body": "Alia, Deepak, Hishaan, Nikhil, Prem and Sunil all moved for Isak this week.",
-   "stat": "6 buys",
+   "head": "Everyone wants Isak: 5 of you bring him in",
+   "body": "Alia, Hishaan, Nikhil, Prem and Sunil all moved for Isak this week.",
+   "stat": "5 buys",
    "score": 50,
    "who": [],
    "ts": "2026-11-27T19:08:21Z",
@@ -11638,7 +11638,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-27T19:35:44Z",
+ "updated": "2026-11-27T19:44:58Z",
  "ai": {
   "briefings": {
    "3029346": "You sit top on 774 after 52 this week, with Nikhil 17 behind. Keep an eye on Haaland's armband and Calafiori, who you don't own but many others do.",
@@ -14990,7 +14990,7 @@
   "ts": "2026-11-27T19:08:21Z"
  },
  "checks": {
-  "ts": "2026-11-27T19:35:44Z",
+  "ts": "2026-11-27T19:44:58Z",
   "issues": [],
   "page": []
  },
