@@ -59089,6 +59089,73 @@
  },
  "stories": [
   {
+   "key": "news:1:Shoulder injury - 75% chance of playing",
+   "kind": "news",
+   "tag": "News",
+   "head": "Injury watch: Raya doubtful with shoulder knock",
+   "body": "Raya has a shoulder injury and a 75% chance of playing. 49 of you own him, so check before the deadline.",
+   "stat": "75% to play",
+   "score": 84,
+   "who": [
+    10615,
+    10821,
+    13951,
+    18991,
+    26707,
+    32831,
+    42960,
+    249619,
+    305234,
+    358907,
+    393940,
+    573491,
+    675013,
+    780469,
+    1183002,
+    1273065,
+    1541394,
+    1737924,
+    1902223,
+    2429776,
+    2554077,
+    2557772,
+    2569620,
+    2723973,
+    2932096,
+    2985014,
+    3086063,
+    3214478,
+    3219276,
+    3234577,
+    3323262,
+    3350036,
+    3654448,
+    4134138,
+    4527650,
+    4540238,
+    4558790,
+    4616626,
+    4632544,
+    4683090,
+    4722308,
+    4800825,
+    4905114,
+    5640988,
+    5685525,
+    5734029,
+    5949580,
+    6543092,
+    6830291
+   ],
+   "ts": "2026-11-27T18:35:36Z",
+   "gw": 11,
+   "plain": {
+    "head": "Injury watch: Raya",
+    "body": "Shoulder injury - 75% chance of playing. 49 of you own him."
+   },
+   "ai": true
+  },
+  {
    "key": "l11:climb:1312692:711",
    "kind": "live",
    "tag": "Live",
@@ -61973,7 +62040,8 @@
   "w11:hit:3086063",
   "w11:zones",
   "news:1:Shoulder injury - 50% chance of playing",
-  "news:449:Unspecified injury - 75% chance of playing"
+  "news:449:Unspecified injury - 75% chance of playing",
+  "news:1:Shoulder injury - 75% chance of playing"
  ],
  "done": [
   "deadline:10",
@@ -63640,28 +63708,28 @@
    "5949580": 1,
    "305234": 2,
    "3991082": 3,
-   "1325491": 4,
+   "1325491": 3,
    "13978": 5,
-   "136653": 6,
+   "136653": 5,
    "1273065": 7,
    "4722308": 7,
-   "1902223": 9,
+   "1902223": 7,
    "2429776": 10,
    "3949616": 11,
    "2671682": 12,
-   "393940": 13,
-   "3219276": 14,
+   "393940": 12,
+   "3219276": 12,
    "573491": 15,
    "2985014": 16,
    "3479732": 17,
-   "2557772": 18,
+   "2557772": 17,
    "18991": 19,
    "1312692": 20,
    "3323262": 21,
    "2554077": 22,
-   "3234577": 23,
+   "3234577": 22,
    "5685525": 24,
-   "107315": 25,
+   "107315": 24,
    "3214478": 26,
    "1305406": 27,
    "780469": 28,
@@ -63669,72 +63737,72 @@
    "1541394": 30,
    "6543092": 31,
    "3566356": 32,
-   "6034028": 33,
+   "6034028": 32,
    "263779": 34,
    "710718": 35,
    "42960": 36,
-   "698784": 37,
+   "698784": 36,
    "4151180": 38,
    "32831": 39,
-   "480904": 40,
-   "5640988": 41,
-   "257074": 42,
+   "480904": 39,
+   "5640988": 39,
+   "257074": 39,
    "10821": 43,
-   "1425044": 44,
-   "3560542": 45,
+   "1425044": 43,
+   "3560542": 43,
    "13951": 46,
-   "3239284": 47,
+   "3239284": 46,
    "4558790": 48,
-   "249619": 49,
+   "249619": 48,
    "119217": 50,
-   "3654448": 51,
+   "3654448": 50,
    "248721": 52,
    "675013": 53,
-   "4540238": 54,
+   "4540238": 53,
    "4134138": 55,
    "4683090": 55,
    "2932096": 57,
-   "48343": 58,
-   "2868149": 59,
-   "1443362": 60,
-   "57776": 61,
-   "2119331": 62,
-   "119259": 63,
+   "48343": 62,
+   "2868149": 58,
+   "1443362": 58,
+   "57776": 60,
+   "2119331": 61,
+   "119259": 62,
    "3404613": 64,
    "1854010": 65,
-   "4632544": 66,
-   "383029": 67,
-   "4314690": 68,
-   "2569620": 69,
-   "26707": 70,
-   "2922453": 70,
-   "4592187": 70,
+   "4632544": 69,
+   "383029": 66,
+   "4314690": 67,
+   "2569620": 67,
+   "26707": 69,
+   "2922453": 69,
+   "4592187": 69,
    "4372346": 73,
-   "3086063": 74,
-   "10615": 75,
+   "3086063": 75,
+   "10615": 74,
    "1737924": 76,
    "6830291": 76,
-   "438967": 78,
+   "438967": 76,
    "44532": 79,
-   "11673": 80,
+   "11673": 79,
    "907691": 81,
    "686561": 82,
-   "2424472": 83,
-   "4811914": 84,
+   "2424472": 82,
+   "4811914": 82,
    "2680660": 85,
    "174952": 86,
    "699330": 87,
    "8603432": 88,
-   "2723973": 89,
-   "3389995": 89,
+   "2723973": 88,
+   "3389995": 88,
    "2037953": 91,
    "3350036": 92,
    "5660348": 93,
-   "3298199": 94,
+   "3298199": 93,
    "5734029": 95,
    "3794959": 96,
-   "4905114": 97,
-   "8779992": 97,
+   "4905114": 96,
+   "8779992": 96,
    "1967440": 99,
    "4616626": 99,
    "1474501": 101,
@@ -63867,36 +63935,37 @@
    "9531391": null
   }
  },
- "updated": "2026-11-27T13:22:41Z",
+ "updated": "2026-11-27T18:35:36Z",
  "ai": {
   "briefings": {
-   "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week. Watch Sukrut and Akshat, who are only 24 behind you, and your Freehit chip still in the bank.",
-   "305234": "You sit 2nd on 745, 21 behind Rajat Arora. Sukrut is only 3 points back, so keep a close eye on him ahead of gameweek 12.",
-   "1325491": "You hold 4th on 742 after a 40-point week. Sukrut is level on points, so there is an opening to climb if your captain delivers again.",
-   "13978": "You sit 5th on 741 after a 39-point week. Aryan Khamankar is level on points behind you, so keep your position secure in the next gameweek.",
-   "136653": "You slipped from 3rd to 6th despite 34 points. Yash Bhatia is level on points above you, so a recovery needs a bigger week.",
-   "4722308": "You are 7th on 730, level with Prathap and 11 behind Aryan Khamankar. Your Free Hit is still available, so consider it for a late surge.",
-   "1273065": "You moved up to 7th on 730 after 36 points. Biswadeep is level above you, so keep chasing the Top prizes places.",
+   "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week. Neol is the main threat, so watch the Haaland armband and whether you hold your Free Hit for later.",
+   "305234": "You are second on 745, 21 behind Rajat Arora after a 29-point week. Closing the gap needs a bigger return, so watch your captaincy and Vuskovic's form.",
+   "1325491": "You are third on 742 after a 40-point week, 24 back of the leader. N.Jackson's captaincy paid 4, so keep an eye on the chasers.",
+   "13978": "You are 5th on 741 after a 39-point week, level with Aryan Khamankar. Your steady week kept you in the mix, so watch for Biswadeep behind you.",
+   "136653": "You are 5th on 741 after a 34-point week, 1 behind Sukrut. Haaland's 4 points hurt, so watch the armband and your next transfer.",
+   "4722308": "You are 7th on 730 after a 31-point week, 11 behind Yash Bhatia. Your Haaland captaincy paid 4, so watch Karan Singh pushing up behind you.",
+   "1273065": "You are 7th on 730 after a 36-point week, level with Karan Singh. Haaland's 4 points held you back, so check your captaincy and Kshiteesh behind you.",
    "1902223": "You jumped from 14th to 9th on 730 with a 47-point week, powered by Isak's armband worth 10. Kshiteesh is just 1 point behind, so keep the momentum going.",
-   "2429776": "You dropped from 8th to 10th on 729, 1 behind Karan Singh. Your Free Hit is still in the bag, so use it wisely to climb back.",
-   "3949616": "You are 11th on 724, 5 behind Kshiteesh and 2 clear of Clawin. Your Haaland armband returned 4, so think carefully about your captain for gameweek 12.",
-   "2671682": "You are 12th on 722 after a 36-point week, with 17 bench points wasted. Your 3xc and Free Hit are still available for a boost.",
-   "393940": "You are 13th on 722 after a 41-point week. Clawin is level above you, so a few more strong gameweeks could carry you higher.",
-   "3219276": "You dropped from 10th to 14th on 722 despite a 30-point week. Your chips are spent, so you will need solid transfers.",
+   "2429776": "You are 10th on 729 after a 34-point week, 1 behind Prathap. Your captaincy paid 4, so watch Utkarsh and Anurag closing in.",
+   "3949616": "You are 11th on 724 after a 37-point week. Haaland paid 4 as captain, so watch Kshiteesh ahead and Anurag chasing from behind.",
+   "2671682": "You are 12th on 722 after a 36-point week, level with Cherag. Your bench scored 17, so you were unlucky on the armband.",
+   "393940": "You climbed to 12th on 722 after a 41-point week. Haaland's armband paid 4, so keep an eye on Cherag and Clawin just ahead.",
+   "3219276": "You are 12th on 722 after a 30-point week, level with Clawin. Your bench scored 12, so watch Anurag and Clawin.",
    "573491": "You jumped from 25th to 15th with a 50-point Bboost week. Your Free Hit is still available for another push.",
-   "1662734": "You are 29th on 702 after a 31-point week, 1 behind Sahil. Your 3xc is your last chip, so save it for a big week.",
-   "1541394": "You are 30th on 699 after a 36-point week, 3 behind Sikander. Your chips are spent, so you need steady points.",
-   "6543092": "You are 31st on 695 after a 41-point week, 4 behind Nanik. You still have your 3xc and Free Hit available.",
+   "1662734": "You are 29th on 702 after a 31-point week, 1 behind Sahil. Your bench scored 13, so watch Nanik closing in from below.",
+   "1541394": "You are 30th on 699 after a 36-point week. Your bench scored 18, so check Eli and Sikander around you.",
+   "6543092": "You are 31st on 695 after a 41-point week. Watch Aryan Apte chasing and Nanik just ahead.",
    "3566356": "You jumped from 45th to 32nd with a 45-point week. Your Bboost and Free Hit are still available for a strong finish.",
-   "4527650": "You are 109th on 587 after a 30-point week, 6 behind Janak. Your Bboost and Free Hit remain, so you can still push up.",
-   "6571548": "You are 110th on 569 after a 47-point week. Your Barkley and White moves are working, and Calafiori and Palmer are the crowd you don't own.",
-   "6598615": "You are 111th on 541 after a 40-point week. Your Isak armband was worth 10, but your chips are all unused.",
+   "4527650": "You are 109th on 587 after a 30-point week. Your bench scored 26, so the luck was against you. Watch Tanish and Janak.",
+   "6571548": "You are 110th on 569 after a 47-point week, with Free Hit and Bboost still to play. Watch Rohan just below.",
+   "6598615": "You are 111th on 541 after a 40-point week. Your Isak armband paid 10, so check Aritra and Tanish around you.",
    "531033": "You are 112th on 540 after a 54-point week. Your Mbeumo armband was worth 2, so your captaincy was not the reason for your rise.",
-   "9531391": "You are 113th on 518 after a 48-point week. Your chips are all unused, so you still have room to build a strong run.",
-   "3991082": "You climbed from 6th to 3rd on 43 points, a sharp week. Neol is 3 points ahead, so another strong gameweek could move you above him."
+   "9531391": "You are 113th on 518 after a 48-point week. Watch Aritra just above you.",
+   "3991082": "You climbed from 6th to 3rd on 43 points, a sharp week. Neol is 3 points ahead, so another strong gameweek could move you above him.",
+   "6034028": "You climbed to 32nd on 694 after a 50-point week, with Silva's armband worth 16. Watch Jackey and Eli around you."
   },
   "key": "11:between",
-  "ts": "2026-11-27T12:53:01Z",
+  "ts": "2026-11-27T18:35:36Z",
   "usage": {
    "10": {
     "in": 1227421,
@@ -63909,14 +63978,14 @@
     "plots": 4
    },
    "11": {
-    "in": 4775531,
-    "out": 841563,
-    "calls": 334,
-    "refreshes": 32,
-    "desks": 40,
-    "desk_in": 3737408,
-    "desk_out": 741081,
-    "plots": 4
+    "in": 4937026,
+    "out": 873088,
+    "calls": 346,
+    "refreshes": 33,
+    "desks": 41,
+    "desk_in": 3866068,
+    "desk_out": 764125,
+    "plots": 5
    }
   },
   "verdict_tries": {
@@ -63925,89 +63994,103 @@
    "10:5": 1,
    "10:6": 2,
    "10:t:da2e1f1d1a60": 1,
-   "11:6": 2,
-   "11:t:346c7715accb": 1
+   "11:6": 3,
+   "11:t:346c7715accb": 1,
+   "11:t:a8473509bc99": 1
   },
   "desks": [
    {
-    "headline": "Haaland blanks on 92 armbands; Aditya wins the week",
-    "text": "Haaland blanked on **92 armbands**, and Aditya's 56 points took the week outright. Rajat Arora stays top with a **21-point lead** over Neol. We said Tavernier could push Utkarsh above Kshiteesh, but he got 8 and it didn't happen.",
+    "headline": "Haaland blanks on 92 armbands as Aditya takes the week",
+    "text": "Aditya won the week with **56 points**, while Haaland's blank wasted **92 armbands**. Rajat Arora finished top, **21 points** clear of Neol. We said Tavernier could push Utkarsh above Kshiteesh, but he managed 8 and it didn't happen.",
     "you": {
-     "5949580": "Benching Ajayi was a costly call, as he went on to score 6 points.",
-     "305234": "Sukrut outscored you by 14 points this week, leaving you just 3 points clear of him.",
-     "1325491": "Your Wirtz and Van Hecke swap earned Transfer Genius, worth 12 points on the swap.",
-     "13978": "Beating Aryan Khamankar by 5 points this week kept you in 5th, 1 point behind Akshat.",
-     "136653": "Your slide from 3rd to 6th came after Yash Bhatia outscored you by 5 points.",
-     "4722308": "Prathap outscored you by 5 points, leaving you 11 behind Aryan Khamankar.",
-     "1273065": "Climbing from 9th to 7th came with a 5-point win over Biswadeep.",
-     "1902223": "Your Isak captaincy scored 10 points and lifted you from 14th to 9th.",
+     "5949580": "Benching Ajayi cost you, as he went on to score 6 points from your bench.",
+     "305234": "Akshat's 40-point week closed to 3 points behind you, so the top 2 are now tight.",
+     "1325491": "You closed 11 points on Neol this week, leaving only 3 between you.",
+     "3991082": "Your 43-point week lifted you level with Akshat on 742 points, a 3-point gain.",
+     "136653": "Sukrut's 43 points cut your gap to 1 point, dropping you from 3rd to 5th.",
+     "13978": "Beating Aryan Khamankar by 5 points this week lifted you level with him on 741 points.",
+     "4722308": "Karan Singh overtook you with 47 points, leaving you level on 730 total.",
+     "1902223": "Captaining Isak for 10 points helped your 47-point week climb from 14th to 7th.",
+     "1273065": "Your 36-point week kept you level with Karan Singh, one point ahead of Kshiteesh.",
      "2429776": "Selling Calvert-Lewin, who then scored 9 points, dropped you from 8th to 10th.",
-     "3949616": "Selling Calvert-Lewin backfired, as he went on to score 9 points.",
-     "2671682": "Anurag outscored you by 5 points this week, leaving you level with him on total points.",
-     "393940": "A 41-point week lifted you from 15th to 13th, with Clawin directly above you.",
-     "3219276": "Benching Calvert-Lewin cost you 9 points and dropped you from 10th to 14th.",
-     "573491": "Your Bench Boost returned 11 points and lifted you from 25th to 15th.",
-     "2985014": "Nihal outscored you by 10 points, leaving you 3 points behind him.",
-     "3479732": "Your Bench Boost returned 19 points and lifted you from 27th to 17th.",
-     "2557772": "Benching Szoboszlai cost you 9 points, dropping you from 11th to 18th.",
-     "18991": "Rudoni's 10 points led your 10-place climb from 29th to 19th.",
-     "1312692": "Climbing from 27th to 20th came despite benching Calvert-Lewin, who then scored 9 points.",
+     "3949616": "Selling Calvert-Lewin backfired, as he scored 9 points after leaving your squad.",
+     "393940": "Your 41-point week lifted you from 15th to 12th, level on points with Cherag.",
+     "3219276": "Benching Calvert-Lewin cost you 9 points, dropping you from 10th to 12th.",
+     "2671682": "Calvert-Lewin, benched by you, scored 9 points and kept you level with Cherag.",
+     "573491": "Your Bench Boost returned 11 points, lifting you from 25th to 15th.",
+     "2985014": "Nihal's 10-point gain on you this week leaves just 3 points between you.",
+     "2557772": "Benching Szoboszlai cost you 9 points, dropping you from 11th to 17th.",
+     "3479732": "Your Bench Boost returned 19 points, lifting you from 27th to 17th.",
+     "18991": "Rudoni's 10 points led your climb from 29th to 19th.",
+     "1312692": "Climbing from 27th to 20th came despite benching Calvert-Lewin, who scored 9 points.",
      "3323262": "Tavernier's 8 points helped you climb from 23rd to 21st.",
+     "3234577": "Sid stays 2 above you after your lone Van Hecke armband scored 12 points, the league's only one.",
      "2554077": "Your Isak captaincy scored 10 points, yet you slipped from 19th to 22nd.",
-     "3234577": "Your lone Van Hecke armband scored 12 points, the only one in the league to do so.",
-     "5685525": "Benching Calvert-Lewin, who scored 9 points, dropped you from 19th to 24th.",
-     "107315": "Selling Barnes, who then scored 7 points, dropped you from 19th to 25th.",
-     "3214478": "Selling Calvert-Lewin, who then scored 9 points, sent you from 17th to 26th.",
-     "1305406": "Your 31-point week dropped you from 17th to 27th.",
+     "5685525": "Calvert-Lewin, benched by you, scored 9 points and sent you from 19th to 24th.",
+     "107315": "Selling Barnes, who then scored 7 points, dropped you from 19th to 24th.",
+     "3214478": "Calvert-Lewin scored 9 points after you sold him, sending you from 17th to 26th.",
+     "1305406": "Your 31-point week dropped you from 17th to 27th, a 10-place fall.",
      "780469": "Benching Tzolakis, who scored 10 points, dropped you from 19th to 28th.",
      "1662734": "Kinsky scored 7 points from your bench while you fell from 23rd to 29th.",
-     "1541394": "You outscored Sikander by 5 points this week, but he is still 3 points ahead.",
-     "3566356": "A 13-place climb to 32nd on 45 points means you outscored the league average and pulled clear of Aryan Apte's rise.",
-     "263779": "A 7-place climb to 34th was undone by Aryan Apte's 9-point gain, so you're still stuck one below him.",
-     "710718": "Aleston's 11-point gain pushed you a place down to 35th, despite Kinsky scoring 7 on your bench.",
+     "1541394": "You outscored Sikander by 5 points this week, but he is still 3 ahead.",
+     "6543092": "Your Silva armband was never on the table, and Aryan Apte's 9-point gain left you clinging to 31st, only **1 point** clear of him.",
+     "3566356": "Level with Aryan Apte on 694, you held your ground after a 13-place climb, though Aleston remains right behind you.",
      "42960": "Benching Calvert-Lewin, who scored 9, is the call that will stick with you as you slipped to 36th.",
-     "480904": "Your Armband Agony came when De Cuyper blanked on the armband you gave him, dropping you to 40th.",
-     "5640988": "Climbing 4 places to 41st on 40 points put you level with Ram on the week.",
-     "257074": "Benching Silva, who scored 8, backfired and dropped you 9 places to 42nd.",
-     "13951": "A 7-place climb to 46th was powered by 43 points, with Sandeepan's surge still well ahead of you.",
-     "3239284": "Your Triple Captain on N.Jackson returned only 6 points, and Sandeepan's surge left you 47th.",
+     "698784": "Your Haaland armband only returned 4 while Calvert-Lewin scored 9 on your bench, a week to forget.",
+     "1425044": "Sold Tzolakis, who then scored 10, earning you The One That Got Away and a 6-place fall.",
+     "10821": "Level with Manav on 688 after a 5-place climb, you matched their week at 40 points.",
+     "3560542": "Sandeepan's 53 points and 20-place climb is the story of the week for you, up to 43rd.",
+     "249619": "Free Fall with an 18-place drop to 48th, despite Tzolakis scoring 10 on your bench.",
      "4558790": "Benching Calvert-Lewin, who scored 9, made a 5-place drop to 48th on 35 points sting even more.",
-     "119217": "Up 6 places to 50th on 43 points, you passed Mayuresh's crash and closed the gap on the pack.",
+     "3654448": "Up 5 places to 50th on 43 points, you're level with Kunaal after a strong gameweek.",
      "248721": "Abhimanyu and Kunaal both passed you, leaving you 52nd on 37 points.",
      "675013": "A 13-place fall to 53rd, with Shrivar gaining 16 on you, is a painful week after sitting 40th earlier.",
-     "4540238": "Your 7-place climb to 54th on 46 points is one of the week's best scores, leaving Rishab behind.",
      "4134138": "Shrivar's 16-point lead over you this week has you down 11 places to 55th.",
      "4683090": "Down 7 places to 55th, you still outscored Rishab by 2 points, though Kunal closed in.",
-     "2868149": "A 14-place fall to 59th with no players left to play is a tough week, despite Barcola's 5 points.",
-     "57776": "Tavernier's 8 points and an 11-point gain on Ajay carried you up 5 places, though your Haaland armband only brought 4.",
-     "2119331": "Benching Kinsky, who then scored 7, hurt, and you slid 7 places as Adwait gained 11 on you.",
-     "119259": "Zishan outscored you by 10 this week and Kinsky's 7 sat on your bench, so you finished 63rd.",
-     "3404613": "Wirtz's 14 points helped you climb 10 places to 64th, the best move in your part of the table.",
-     "1854010": "Zishan outscored you by 15 this week, leaving you 65th on 35 points.",
-     "4632544": "Benching Kinsky, who scored 7, is the call that dogs you, while Calvert-Lewin's 9 after you sold him stings.",
+     "2932096": "Kunal closed to 39 points this week, one place above Akash after a solid 1-place climb.",
+     "1443362": "Level with Akash on 678, you held your place at 58th on 38 points.",
+     "2119331": "Benching Kinsky cost you, as Kinsky scored 7 and you slid 7 places, with Adwait gaining 11 on you.",
+     "119259": "Kinsky's 7 sat on your bench, and you still gained 6 on Hardik to draw level with him.",
+     "3086063": "Haaland's blank did not help, but your 37 kept you 75th, holding a 2-place gap over Maanas.",
+     "1854010": "Zishan's 15-point gain over you dropped you to 65th, a costly week against a rival above.",
+     "383029": "You gained 5 on Adit, but Shahan still sits 2 places above you after a flat week.",
+     "4314690": "Calvert-Lewin's 9 points on your side kept you level with Adit, with Abhishek Yerra gaining 3 on you.",
+     "2922453": "Abhishek Yerra gained 3 on you, but you still moved up a place to 69th on 38 points.",
+     "26707": "Benching Barnes, who scored 7, hurt you as you fell 9 places to 69th.",
+     "4632544": "Calvert-Lewin scored 9 after you sold him, and benching Kinsky's 7 stung.",
+     "4372346": "A 5-place climb to 73rd after 45 points, with Maanas 2 below you.",
+     "10615": "Shantanu's 9-point gain over you dropped you 3 places to 74th.",
+     "6830291": "Level with Avin on 35 points, you held your place at 76th.",
      "1737924": "Tzolakis's 10 on your bench stung, but 34 points held you 76th.",
-     "438967": "Ketan's 8-point gain on you dropped you 2 places to 78th on 35 points.",
+     "44532": "Tzolakis's 10 on your bench didn't stop you climbing 3 places to 79th on 43 points.",
+     "11673": "Barcola's 10 captained points and a 3-place gain over Ketan lifted you to 79th.",
      "907691": "Your 56 points were Manager of the Week, lifting you 16 places to 81st.",
-     "2424472": "Aditya's surge left you behind, and dropping 4 places to 83rd stings after your 31.",
+     "686561": "A 9-place climb to 82nd, with 16 points gained on Apoorvo.",
+     "2680660": "Kinsky's 7 on your bench hurt, and Pranav's 11-point gain dropped you 4 places.",
      "174952": "A 3-place drop to 86th after 37 points, with Mohit just above you.",
+     "699330": "You slipped 4 places to 87th, with Abhishek Thard 1 above and Arnav 3 below.",
+     "2723973": "Pratik is 3 above you, and you gained 1 on him to hold 88th.",
      "8603432": "A 6-place climb to 88th on 43 points, with Tzolakis's 10 on your bench a tough watch.",
-     "3389995": "M outscored you by 7 this week, and 36 points keeps you 89th after your Rogers captaincy.",
-     "2037953": "Haaland's blank gave your armband just 4 points, and you slipped from 89th to 91st, though you did reel in Avinash by 9 points.",
-     "3350036": "Selling Belloumi cost you dearly as he went on to score 7 points, and you dropped 12 places from 80th to 92nd.",
-     "5660348": "Your Groß armband hit 8 and Calvert-Lewin's 9 helped you climb 3 places to 93rd, a solid week.",
-     "3298199": "You beat Avinash by 11 points this week, though selling Thiaw still stings as he scored 7 for someone else.",
+     "2037953": "Haaland blanked on your armband, and you still reeled in Avinash by 9 points to hold 91st.",
+     "3350036": "Selling Belloumi backfired as he went on to score 7, and you dropped 12 places to 92nd.",
+     "3298199": "You beat Avinash by 11 points, though selling Thiaw still stings as he scored 7 for someone else.",
+     "5660348": "Calvert-Lewin's 9 and your Groß armband helped you climb 3 places to 93rd.",
      "5734029": "Benching Ajayi backfired as he scored 6 on your bench, and you slid 3 places to 95th.",
-     "4905114": "Your Wirtz bench blunder cost 14 points and you slipped 10 places to 97th.",
-     "4527650": "A 26-point Bench Disaster cost you, as you picked the wrong 11, and you dropped 2 places to 109th.",
-     "1474501": "Your Isak captain hit 10 points and you outscored Monty by 19 this week, but Swapnil is still 8 points above you.",
+     "3794959": "Your Bench Boost worked a treat, and you climbed 3 places to 96th, level with Anuj.",
+     "8779992": "Hill's 14 points lifted you 3 places to 96th, level with Chander.",
+     "4616626": "Hill's 14 points were your big story this week, though Tzolakis's 10 on your bench still stung.",
+     "1967440": "Dropping 5 places to 99th hurt, with Tzolakis's 10 points on your bench a painful reminder.",
+     "1474501": "Your Isak captain hit 10 points and you outscored Monty by 19, but Swapnil is still 8 points above you.",
      "1497357": "The Doghouse came calling after 21 points, the lowest of the week, and you dropped to 102nd.",
-     "6571548": "Your 47 points were the 8th best score of the week, and you outscored Krishna by 17 but remain 18 points behind them.",
-     "4439544": "Sanket Nahata outscored you by 13 this week, and you dropped 3 places to 106th.",
+     "358907": "You outscored Monty by 11 this week and climbed a place, with Tzolakis's 10 on your bench a sore spot.",
+     "1183002": "You edged Vinil by 1 point this week, with Calvert-Lewin's 9 on your bench a costly reminder.",
      "3942185": "You outscored Neil by 13 this week and climbed 1 place to 105th, a comfortable win.",
+     "4439544": "Sanket Nahata outscored you by 13 this week, and you dropped 3 places to 106th.",
      "4800825": "You outscored Neil by 14 this week and climbed to 107th, just ahead of Janak.",
-     "1967440": "Dropping 5 places to 99th hurt, with Tzolakis's 10 points on your bench a painful reminder."
+     "4527650": "A 26-point Bench Disaster cost you, as you picked the wrong 11, and you dropped 2 places to 109th.",
+     "6571548": "Your 47 points were the 8th best score of the week, and you outscored Krishna by 17 but remain 18 points behind them."
     },
-    "ts": "2026-11-24T14:22:17Z",
+    "ts": "2026-11-27T18:35:36Z",
     "gw": 11,
     "moment": "gameweek_over",
     "sig": "101:f:0-0|102:f:2-0|103:f:4-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
@@ -64015,28 +64098,28 @@
      "5949580": 1,
      "305234": 2,
      "3991082": 3,
-     "1325491": 4,
+     "1325491": 3,
      "13978": 5,
-     "136653": 6,
+     "136653": 5,
      "1273065": 7,
      "4722308": 7,
-     "1902223": 9,
+     "1902223": 7,
      "2429776": 10,
      "3949616": 11,
      "2671682": 12,
-     "393940": 13,
-     "3219276": 14,
+     "393940": 12,
+     "3219276": 12,
      "573491": 15,
      "2985014": 16,
      "3479732": 17,
-     "2557772": 18,
+     "2557772": 17,
      "18991": 19,
      "1312692": 20,
      "3323262": 21,
      "2554077": 22,
-     "3234577": 23,
+     "3234577": 22,
      "5685525": 24,
-     "107315": 25,
+     "107315": 24,
      "3214478": 26,
      "1305406": 27,
      "780469": 28,
@@ -64044,72 +64127,72 @@
      "1541394": 30,
      "6543092": 31,
      "3566356": 32,
-     "6034028": 33,
+     "6034028": 32,
      "263779": 34,
      "710718": 35,
      "42960": 36,
-     "698784": 37,
+     "698784": 36,
      "4151180": 38,
      "32831": 39,
-     "480904": 40,
-     "5640988": 41,
-     "257074": 42,
+     "480904": 39,
+     "5640988": 39,
+     "257074": 39,
      "10821": 43,
-     "1425044": 44,
-     "3560542": 45,
+     "1425044": 43,
+     "3560542": 43,
      "13951": 46,
-     "3239284": 47,
+     "3239284": 46,
      "4558790": 48,
-     "249619": 49,
+     "249619": 48,
      "119217": 50,
-     "3654448": 51,
+     "3654448": 50,
      "248721": 52,
      "675013": 53,
-     "4540238": 54,
+     "4540238": 53,
      "4134138": 55,
      "4683090": 55,
      "2932096": 57,
-     "48343": 58,
-     "2868149": 59,
-     "1443362": 60,
-     "57776": 61,
-     "2119331": 62,
-     "119259": 63,
+     "48343": 62,
+     "2868149": 58,
+     "1443362": 58,
+     "57776": 60,
+     "2119331": 61,
+     "119259": 62,
      "3404613": 64,
      "1854010": 65,
-     "4632544": 66,
-     "383029": 67,
-     "4314690": 68,
-     "2569620": 69,
-     "4592187": 70,
-     "26707": 70,
-     "2922453": 70,
+     "4632544": 69,
+     "383029": 66,
+     "4314690": 67,
+     "2569620": 67,
+     "26707": 69,
+     "2922453": 69,
+     "4592187": 69,
      "4372346": 73,
-     "3086063": 74,
-     "10615": 75,
+     "3086063": 75,
+     "10615": 74,
      "1737924": 76,
      "6830291": 76,
-     "438967": 78,
+     "438967": 76,
      "44532": 79,
-     "11673": 80,
+     "11673": 79,
      "907691": 81,
      "686561": 82,
-     "2424472": 83,
-     "4811914": 84,
+     "2424472": 82,
+     "4811914": 82,
      "2680660": 85,
      "174952": 86,
      "699330": 87,
      "8603432": 88,
-     "2723973": 89,
-     "3389995": 89,
+     "2723973": 88,
+     "3389995": 88,
      "2037953": 91,
      "3350036": 92,
      "5660348": 93,
-     "3298199": 94,
+     "3298199": 93,
      "5734029": 95,
      "3794959": 96,
-     "4905114": 97,
-     "8779992": 97,
+     "4905114": 96,
+     "8779992": 96,
      "1967440": 99,
      "4616626": 99,
      "1474501": 101,
@@ -64184,7 +64267,7 @@
      "4134138": 680,
      "4683090": 680,
      "2932096": 679,
-     "48343": 679,
+     "48343": 675,
      "2868149": 678,
      "1443362": 678,
      "57776": 677,
@@ -64192,15 +64275,15 @@
      "119259": 675,
      "3404613": 673,
      "1854010": 670,
-     "4632544": 669,
+     "4632544": 665,
      "383029": 668,
      "4314690": 666,
      "2569620": 666,
-     "4592187": 665,
      "26707": 665,
      "2922453": 665,
+     "4592187": 665,
      "4372346": 664,
-     "3086063": 664,
+     "3086063": 660,
      "10615": 662,
      "1737924": 656,
      "6830291": 656,
@@ -64222,13 +64305,13 @@
      "5660348": 636,
      "3298199": 636,
      "5734029": 633,
-     "3794959": 631,
+     "3794959": 627,
      "4905114": 627,
      "8779992": 627,
      "1967440": 626,
      "4616626": 626,
      "1474501": 618,
-     "1497357": 614,
+     "1497357": 610,
      "358907": 603,
      "1183002": 599,
      "3942185": 598,
@@ -64319,7 +64402,7 @@
       1
      ]
     },
-    "you_full_ts": "2026-11-24T14:22:17Z",
+    "you_full_ts": "2026-11-27T18:35:36Z",
     "v": 6,
     "deadline": "2026-11-27T18:30:00Z"
    },
@@ -65949,33 +66032,33 @@
    }
   ],
   "desk_day": {
-   "date": "2026-11-24",
+   "date": "2026-11-27",
    "ranks": {
     "5949580": 1,
     "305234": 2,
     "3991082": 3,
-    "1325491": 4,
+    "1325491": 3,
     "13978": 5,
-    "136653": 6,
+    "136653": 5,
     "1273065": 7,
     "4722308": 7,
-    "1902223": 9,
+    "1902223": 7,
     "2429776": 10,
     "3949616": 11,
     "2671682": 12,
-    "393940": 13,
-    "3219276": 14,
+    "393940": 12,
+    "3219276": 12,
     "573491": 15,
     "2985014": 16,
     "3479732": 17,
-    "2557772": 18,
+    "2557772": 17,
     "18991": 19,
     "1312692": 20,
     "3323262": 21,
     "2554077": 22,
-    "3234577": 23,
+    "3234577": 22,
     "5685525": 24,
-    "107315": 25,
+    "107315": 24,
     "3214478": 26,
     "1305406": 27,
     "780469": 28,
@@ -65983,72 +66066,72 @@
     "1541394": 30,
     "6543092": 31,
     "3566356": 32,
-    "6034028": 33,
+    "6034028": 32,
     "263779": 34,
     "710718": 35,
     "42960": 36,
-    "698784": 37,
+    "698784": 36,
     "4151180": 38,
     "32831": 39,
-    "480904": 40,
-    "5640988": 41,
-    "257074": 42,
+    "480904": 39,
+    "5640988": 39,
+    "257074": 39,
     "10821": 43,
-    "1425044": 44,
-    "3560542": 45,
+    "1425044": 43,
+    "3560542": 43,
     "13951": 46,
-    "3239284": 47,
+    "3239284": 46,
     "4558790": 48,
-    "249619": 49,
+    "249619": 48,
     "119217": 50,
-    "3654448": 51,
+    "3654448": 50,
     "248721": 52,
     "675013": 53,
-    "4540238": 54,
+    "4540238": 53,
     "4134138": 55,
     "4683090": 55,
     "2932096": 57,
-    "48343": 58,
-    "2868149": 59,
-    "1443362": 60,
-    "57776": 61,
-    "2119331": 62,
-    "119259": 63,
+    "48343": 62,
+    "2868149": 58,
+    "1443362": 58,
+    "57776": 60,
+    "2119331": 61,
+    "119259": 62,
     "3404613": 64,
     "1854010": 65,
-    "4632544": 66,
-    "383029": 67,
-    "4314690": 68,
-    "2569620": 69,
-    "4592187": 70,
-    "26707": 70,
-    "2922453": 70,
+    "4632544": 69,
+    "383029": 66,
+    "4314690": 67,
+    "2569620": 67,
+    "26707": 69,
+    "2922453": 69,
+    "4592187": 69,
     "4372346": 73,
-    "3086063": 74,
-    "10615": 75,
+    "3086063": 75,
+    "10615": 74,
     "1737924": 76,
     "6830291": 76,
-    "438967": 78,
+    "438967": 76,
     "44532": 79,
-    "11673": 80,
+    "11673": 79,
     "907691": 81,
     "686561": 82,
-    "2424472": 83,
-    "4811914": 84,
+    "2424472": 82,
+    "4811914": 82,
     "2680660": 85,
     "174952": 86,
     "699330": 87,
     "8603432": 88,
-    "2723973": 89,
-    "3389995": 89,
+    "2723973": 88,
+    "3389995": 88,
     "2037953": 91,
     "3350036": 92,
     "5660348": 93,
-    "3298199": 94,
+    "3298199": 93,
     "5734029": 95,
     "3794959": 96,
-    "4905114": 97,
-    "8779992": 97,
+    "4905114": 96,
+    "8779992": 96,
     "1967440": 99,
     "4616626": 99,
     "1474501": 101,
@@ -66066,66 +66149,72 @@
     "9531391": 113
    }
   },
-  "desk_last_ok": "2026-11-24T14:22:17Z",
+  "desk_last_ok": "2026-11-27T18:35:36Z",
   "plots_v_tries": {
    "6": 2,
    "7": 1,
    "8": 1
   },
   "column": {
-   "headline": "Haaland's sulk rolls on as Rajat Arora holds firm",
-   "text": "Haaland scored 2, so his armband returned 4 for each of his 92 captains, and the league's running joke has become a full-blown sulk. Rajat Arora stays top on 766, 21 clear of Neol, after a 32-point week. Karan Singh's Isak armband, worth 10, was the week's sharpest captaincy, lifting him up to 9th. Sukrut climbed from 6th to 3rd on 43 points, so the chasing pack is still very much in it.",
-   "ts": "2026-11-27T12:53:01Z",
+   "headline": "Haaland's sulk rolls on as Rajat holds firm",
+   "text": "Rajat Arora stays top on 766, 21 clear of Neol, after a 32-point week, and nobody has managed to dent that lead. The running joke continues: Haaland scored 2, so his armband returned 4 for each of the 92 managers who backed him, and the rebels who ignored him are gloating. Karan Singh's Isak armband, worth 10, was the sharpest captaincy of the week and lifted him up to 7th. Sukrut climbed from 6th to 3rd on 43 points, so the chasing pack is still very much in it.",
+   "ts": "2026-11-27T18:35:36Z",
    "gw": 11
   },
   "history": [
+   "GW11 between: Haaland's sulk rolls on as Rajat holds firm. Rajat Arora stays top on 766, 21 clear of Neol, after a 32-point week, and nobody has managed to dent that lead. The running joke continues: Haaland scored 2, so his armband returned 4 for each of the 92 managers who backed him, and the rebels who ignored him are gloating. Karan Singh's Isak armband, worth 10, was the sharpest captaincy of the week and lifted him up to 7th. Sukrut climbed from 6th to 3rd on 43 points, so the chasing pack is still very much in it.",
    "GW11 between: Haaland's sulk rolls on as Rajat Arora holds firm. Haaland scored 2, so his armband returned 4 for each of his 92 captains, and the league's running joke has become a full-blown sulk. Rajat Arora stays top on 766, 21 clear of Neol, after a 32-point week. Karan Singh's Isak armband, worth 10, was the week's sharpest captaincy, lifting him up to 9th. Sukrut climbed from 6th to 3rd on 43 points, so the chasing pack is still very much in it.",
    "GW11 between: Haaland's armband sulk rolls on as Rajat Arora holds firm. Haaland scored 2, so his armband returned 4 for each of his 92 captains, and the league's running joke has become a full-blown sulk. Rajat Arora stays top on 766, 21 clear of Neol, after a 32-point week. Karan Singh's Isak armband, worth 10, was the week's sharpest captaincy, lifting him up to 9th. Sukrut climbed from 6th to 3rd on 43 points, so the chasing pack is still very much in it.",
-   "GW11 between: Haaland's sulk rolls on as Rajat Arora holds firm. Haaland scored 2, so his armband returned 4 for each of his 92 captains, and the league's running joke has become a full-blown sulk. Rajat Arora stays top on 766, 21 clear of Neol, after a 32-point week. Karan Singh's Isak armband, worth 10, was the week's sharpest captaincy, lifting him up to 9th. Sukrut climbed from 6th to 3rd on 43 points, so the chasing pack is still very much in it.",
-   "GW11 between: Haaland's armband sulk rolls on as Rajat Arora holds firm. Haaland scored 2, so his armband returned 4 for each of his 92 captains, and the league's running joke has become a full-blown sulk. Rajat Arora stays top on 766, 21 clear of Neol, after a 32-point week. Karan Singh's Isak armband, worth 10, was the week's sharpest captaincy, lifting Karan Singh up to 9th. Sukrut climbed from 6th to 3rd on 43 points, so the chasing pack is still very much in it."
+   "GW11 between: Haaland's sulk rolls on as Rajat Arora holds firm. Haaland scored 2, so his armband returned 4 for each of his 92 captains, and the league's running joke has become a full-blown sulk. Rajat Arora stays top on 766, 21 clear of Neol, after a 32-point week. Karan Singh's Isak armband, worth 10, was the week's sharpest captaincy, lifting him up to 9th. Sukrut climbed from 6th to 3rd on 43 points, so the chasing pack is still very much in it."
   ],
   "group": {
-   "text": "*Haaland's armband sulk rolls on*\nHaaland scored 2, so 4 for each of his 92 captains. Rajat Arora still leads Neol by 21 points.\nKaran Singh's Isak armband returned 10 and sent him up to 9th. Sukrut climbed to 3rd on 43.",
-   "ts": "2026-11-27T12:53:01Z",
+   "text": "*Haaland's sulk, Rajat's lead*\nRajat Arora is still top on 766, 21 clear of Neol, after a 32-point week.\nKaran Singh's Isak armband paid 10, the sharpest call of the week.\nHaaland scored 2, so 4 for each of his 92 captains. Brutal.",
+   "ts": "2026-11-27T18:35:36Z",
    "gw": 11
   },
   "preview": {
-   "headline": "Gameweek 12: the chasers smell blood",
+   "headline": "What's at stake for gameweek 12",
    "points": [
     {
-     "label": "Title race",
-     "text": "Rajat Arora leads Neol by 21 points, with Sukrut and Akshat 24 back. One big haul from the chasing pack changes everything."
+     "label": "Armband dilemma",
+     "text": "Haaland blanked on 92 armbands this week. Do you back him again, or follow Karan Singh's Isak call for another 10-point gamble?"
     },
     {
      "label": "Injury sweat",
-     "text": "Raya at 50% and Hall at 75% are owned by 49 and 20 of you. Check the team news before the deadline in 5.6 hours."
+     "text": "Raya is a doubt at 75% to play and 49 of you own him. Keep an eye on him before the deadline."
     },
     {
      "label": "Chips loaded",
-     "text": "Nihal played Bench Boost and scored 50, while Tanish and Jackey still have multiple chips to play."
+     "text": "Several managers still hold Free Hit and Triple Captain. Watch for who plays a chip in gameweek 12."
     }
    ],
    "gw": 12,
-   "ts": "2026-11-27T12:53:01Z"
+   "ts": "2026-11-27T18:35:36Z"
   },
   "storylines": [
    {
     "title": "Haaland armband fiasco",
-    "text": "Haaland scored 2, so 4 for each of his 92 captains. Rebels who ignored him are gloating while the rest of you keep backing him.",
+    "text": "Haaland scored 2, so 4 for each of his 92 captains. Rebels who ignored him are gloating while the rest keep backing him.",
     "who": [
      5949580,
-     305234,
-     3991082
+     305234
     ]
    },
    {
     "title": "Title race at the top",
-    "text": "Rajat Arora leads Neol by 21 points, with Sukrut and Akshat 24 back. The chasing pack is tight.",
+    "text": "Rajat Arora leads Neol by 21 points, with Akshat and Sukrut 24 back. The chasing pack is tight.",
     "who": [
      5949580,
      305234,
-     3991082,
-     1325491
+     1325491,
+     3991082
+    ]
+   },
+   {
+    "title": "Isak armband payoff",
+    "text": "Karan Singh's Isak captaincy paid 10, lifting him up to 7th and setting a new benchmark for daring calls.",
+    "who": [
+     1902223
     ]
    }
   ],
@@ -66133,16 +66222,17 @@
    {
     "id": "underdog:4722308",
     "title": "Biswadeep's Climb Stalls",
-    "status": "Twist",
+    "status": "Building",
     "text": "Biswadeep has climbed 78 places from 85th in GW1 to 7th of 113 managers. After being 6th last week, a slip to 7th shows the top-5 push has hit a bump.",
     "next": "If Biswadeep wins back a place or 2, a top-5 finish stays in view.",
+    "kept": true,
     "who": [
      4722308
     ],
     "kind": "underdog",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-24T14:22:17Z",
+    "ts": "2026-11-27T18:35:36Z",
     "question": "How high can Biswadeep go?",
     "line": [
      [
@@ -66175,10 +66265,10 @@
    },
    {
     "id": "gold",
-    "title": "Karan Singh Takes The Gap",
+    "title": "Karan Singh Takes The Spot",
     "status": "Twist",
-    "text": "Karan Singh moved into the final top-prize place this week, with Kshiteesh dropping out. The gap between them is just 1 point, and Kshiteesh has spent 4 of the last 5 gameweeks in the zone.",
-    "next": "If Kshiteesh hits back next week, the last place could change hands again.",
+    "text": "Karan Singh has taken the last top-prize place from Kshiteesh, who dropped out this week. The gap between them is just 1 point, and Kshiteesh has spent 4 of the last 5 gameweeks inside the zone.",
+    "next": "Will Kshiteesh's 4 weeks of form be enough?",
     "who": [
      1902223,
      2429776
@@ -66186,7 +66276,7 @@
     "kind": "zone line",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-24T14:22:17Z",
+    "ts": "2026-11-27T18:35:36Z",
     "question": "Who holds the last big-prize place?",
     "line": [
      [
@@ -66211,17 +66301,17 @@
    },
    {
     "id": "slump:10615",
-    "title": "Maanas Still Searching",
+    "title": "Maanas Stays Stuck",
     "status": "Building",
-    "text": "Maanas has now been below the league average for 7 weeks in a row. Points dropped from 55 in GW10 to 36 in GW11, undoing some of the recent recovery.",
-    "next": "If Maanas builds on a 67 peak, the slump could finally break.",
+    "text": "Maanas has now been below the league average for 7 weeks in a row. After rising to 55 in GW10, this week's 36 wiped out that recovery and matched the GW5 total.",
+    "next": "36 points again. The slump is not over yet.",
     "who": [
      10615
     ],
     "kind": "slump",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-24T14:22:17Z",
+    "ts": "2026-11-27T18:35:36Z",
     "question": "Can Maanas snap out of it?",
     "line": [
      [
@@ -66250,10 +66340,10 @@
    },
    {
     "id": "rivalry:780469-1541394",
-    "title": "Sahil Holds Narrow Lead",
+    "title": "Sahil Holds, Nanik Strikes",
     "status": "Heating up",
-    "text": "Sahil leads Nanik by 4 points after the gap narrowed from 9 in GW10. The pair have swapped places 8 times this season, so the lead has never been safe for long.",
-    "next": "If Nanik cuts the gap again, the next swap could come soon.",
+    "text": "Sahil leads Nanik by 4 points, down from a 9-point lead last week after Nanik cut the gap. The 2 have swapped places 8 times this season, so neither has settled this rivalry.",
+    "next": "Does Nanik strike again, or does Sahil hold?",
     "who": [
      780469,
      1541394
@@ -66261,7 +66351,7 @@
     "kind": "rivalry",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-24T14:22:17Z",
+    "ts": "2026-11-27T18:35:36Z",
     "question": "Sahil v Nanik: who blinks first?",
     "line": [
      [
@@ -66286,10 +66376,10 @@
    },
    {
     "id": "title",
-    "title": "Arora's Lead Stretches",
+    "title": "Arora's Lead Keeps Growing",
     "status": "Building",
-    "text": "Rajat Arora leads Neol 766 to 745, with the gap growing to 21 after 18 last gameweek. Arora has been top for 5 weeks this season, and Sukrut sits 24 points back in third.",
-    "next": "If Neol trims the gap, the title race could tighten again.",
+    "text": "Rajat Arora's lead over Neol grew from 18 to 21 points, and he has now led for 5 weeks in this run after earlier spells at the top. Sukrut is third, 24 points off the summit.",
+    "next": "21 points. That is the cushion Neol must cut.",
     "who": [
      5949580,
      305234
@@ -66297,7 +66387,7 @@
     "kind": "title race",
     "episode": 2,
     "gw": 11,
-    "ts": "2026-11-24T14:22:17Z",
+    "ts": "2026-11-27T18:35:36Z",
     "question": "Can anyone stop Rajat Arora?",
     "line": [
      [
@@ -66321,79 +66411,65 @@
     "streak": null
    },
    {
-    "id": "hot:573491",
-    "title": "Nihal's Hot Run Cools",
+    "id": "ghosts",
+    "title": "4 Managers Gone Quiet",
     "status": "Building",
-    "text": "Nihal has now been above the league average for 6 weeks in a row. Points fell from 67 to 50 this week, though the streak is still going.",
-    "next": "If Nihal's points rebound, the streak could stretch further.",
+    "text": "Aritra, Rohan, Janak and Janit have all gone inactive, with Aritra the biggest slide. Aritra now sits 112th, a long way from a best of 62nd this season.",
+    "next": "Will any of the 4 wake up before the run-in?",
     "who": [
-     573491
+     531033,
+     6598615,
+     7613031,
+     9531391
     ],
-    "kind": "hot streak",
+    "kind": "ghosts",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-24T14:22:17Z",
-    "question": "How long can Nihal stay hot?",
-    "line": [
-     [
-      "GW7",
-      "75 pts"
-     ],
-     [
-      "GW8",
-      "47 pts"
-     ],
-     [
-      "GW9",
-      "72 pts"
-     ],
-     [
-      "GW10",
-      "67 pts"
-     ],
-     [
-      "GW11",
-      "50 pts"
-     ]
-    ],
+    "ts": "2026-11-27T18:35:36Z",
+    "question": "Will the ghosts ever wake up?",
+    "line": [],
     "since": 11,
-    "streak": 6
+    "streak": null
    }
   ],
-  "plots_ts": "2026-11-24T14:22:17Z",
+  "plots_ts": "2026-11-27T18:35:36Z",
   "plots_key": "11:between",
   "plots_v": 8,
-  "plots_sig": "346c7715accb",
+  "plots_sig": "a8473509bc99",
   "gaffer_draft": {
    "gw": 11,
    "v": 3,
-   "ts": "2026-11-24T14:22:17Z",
+   "ts": "2026-11-27T18:35:36Z",
    "model": "claude-sonnet-5-5",
    "draft": true,
    "piece": {
-    "headline": "ARORA HAS A SHOCKER, LEAD STILL GROWS",
-    "standfirst": "The league's captain blanked again. Aditya took the week, and Arora's lead still grew.",
-    "big_picture": "92 of 113 managers captained Haaland. He scored 2, so 4 each with the armband. The best of the 21 who went elsewhere: Aryan Apte with Silva, 16 with the armband. Manager of the Week: Aditya (56 pts). 19 above the league average of 37.",
-    "decision_of_the_week": "Krishna left 26 points on the bench, the biggest waste in the league. Gentle advice: the team sheet deserves another look.",
-    "one_to_watch": "Karan Singh and Kshiteesh are split by 1 point for the last Top prizes place. One good captain pick could decide it. If Haaland returns, both might lean on him.",
+    "headline": "HAALAND BLANKS AGAIN, ARORA STILL STANDS",
+    "standfirst": "",
+    "big_picture": "Rajat Arora scored the worst week of his season, 32, and Neol did worse with 29. The lead went from 18 to 21. Sukrut sits third in the table. Nobody has made the leader pay for a bad week yet.",
+    "decision_of_the_week": "Krishna left 26 points on the bench, the week's biggest pile. A decent week sat unused. Bench Disaster fits.",
+    "one_to_watch": "Prathap and Kshiteesh are 1 point apart on the Top prizes line. One decent week could decide who holds the last place, and a blank could drop either out.",
     "winners": [
      {
+      "name": "Aditya",
+      "verdict": "Manager of the Week from 97th, and the table only moved 16 places. Climbing from that deep is a long road. A fine week, but nobody should call it a revival yet."
+     },
+     {
       "name": "Sandeepan",
-      "verdict": "Tavernier in, and Sandeepan jumped from 63rd to 43rd. A bold swap that paid off."
+      "verdict": "4 straight weeks below the league average, then a proper week. Tavernier did the job. That looks like a sharp transfer, not luck."
      },
      {
       "name": "Nihal",
-      "verdict": "Bench Boost paid 11 points. Kinsky arrived and the table kept shifting his way. Nerve, and a bit of luck."
+      "verdict": "Bench Boost was worth 11 points and Kinsky chipped in. Up to 15th, a well-timed chip."
      }
     ],
     "losers": [
      {
       "name": "Monty",
-      "verdict": "Mbeumo and N.Jackson cost a 4-point hit. The week's lowest score was the return. Hits should buy points, not pain."
+      "verdict": "The Doghouse is Monty's. Mbeumo and N.Jackson cost a 4-point hit and bought nothing back. The week's lowest score."
      },
      {
-      "name": "Mayuresh",
-      "verdict": "Mayuresh has dropped every week for a month, from 8th to 48th. Free Fall is the right name. Nobody can call this a blip any more."
+      "name": "Anuj",
+      "verdict": "3 good weeks, then a collapse. The bench hoarded the points that mattered. A bad week, but the decent run before it still counts."
      }
     ]
    },
@@ -66402,8 +66478,8 @@
      "name": "Aditya",
      "rating": 9,
      "points": 56,
-     "line": "Manager of the Week after a month of wandering. Overdue.",
-     "plain": false,
+     "line": "56 points, 19 above the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -66428,7 +66504,7 @@
      "name": "Sandeepan",
      "rating": 9,
      "points": 53,
-     "line": "The slide ended here, and in style.",
+     "line": "The funk is over. A proper bounce back from 63rd.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66462,7 +66538,7 @@
      "name": "Nihal",
      "rating": 9,
      "points": 50,
-     "line": "Climbing for weeks now. A steady march, not a sprint.",
+     "line": "Kinsky was a smart pickup, and the chip added to it. 15th and still climbing.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66492,7 +66568,7 @@
      "name": "Karan Singh",
      "rating": 9,
      "points": 47,
-     "line": "7th and rising. Quietly building a case for the prizes.",
+     "line": "Took the last Top prizes spot from Kshiteesh. A tidy week's work.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66518,7 +66594,7 @@
      "name": "Sahilk",
      "rating": 9,
      "points": 47,
-     "line": "Bench Boost brought a hefty return. Van Hecke in, rewards followed.",
+     "line": "Bench Boost cashed in big. 3 good weeks running now.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66552,7 +66628,7 @@
      "name": "Aryan Apte",
      "rating": 8,
      "points": 50,
-     "line": "Only one to back Silva. Captain of the Week and Rocket: bold call, big reward.",
+     "line": "Backed Silva alone, and the armband returned 16. Lone wolf, lone genius.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66582,7 +66658,7 @@
      "name": "Zishan",
      "rating": 8,
      "points": 50,
-     "line": "3 weeks above average. Steady climbing, no fuss.",
+     "line": "Above average again, and up 10 places. Stealth mode is working.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66608,7 +66684,7 @@
      "name": "Shrivar",
      "rating": 8,
      "points": 46,
-     "line": "Van Hecke arrived and the table nudged upward.",
+     "line": "Brought in Van Hecke and watched him pay. Sensible work, and the table noticed.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66642,7 +66718,7 @@
      "name": "Kaushik",
      "rating": 8,
      "points": 38,
-     "line": "Sole owner of Van Hecke as captain. The armband paid 12 on a quiet week.",
+     "line": "Van Hecke on the armband, picked by nobody else. Brave, and it landed.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66668,7 +66744,7 @@
      "name": "Pranav",
      "rating": 7,
      "points": 47,
-     "line": "Szoboszlai was a lone pick. Differential nerve worked.",
+     "line": "Szoboszlai, started by nobody else here, returned 9. Pure differential.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66698,7 +66774,7 @@
      "name": "Tanish",
      "rating": 7,
      "points": 47,
-     "line": "A solid week, well above average. Take it and move on.",
+     "line": "Comfortably above the average with no drama. Sensible squad, sensible week.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66720,8 +66796,8 @@
      "name": "Arshad",
      "rating": 7,
      "points": 46,
-     "line": "4 straight weeks above average. This climb looks planned.",
-     "plain": false,
+     "line": "46 points, 9 above the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -66750,7 +66826,7 @@
      "name": "Yash Gawai",
      "rating": 7,
      "points": 46,
-     "line": "Up from 104th a month ago. Slow progress, real progress.",
+     "line": "17 on the bench stings. Decent week, but better was there.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66780,8 +66856,8 @@
      "name": "Jackey",
      "rating": 7,
      "points": 45,
-     "line": "13 places up. Quiet, tidy, effective.",
-     "plain": false,
+     "line": "45 points, 8 above the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -66806,7 +66882,7 @@
      "name": "Shantanu",
      "rating": 7,
      "points": 45,
-     "line": "Lowest score of the season, still above average. Fine margins.",
+     "line": "Season low, yet still better than the league average. Rare kind of bad week.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66832,7 +66908,7 @@
      "name": "Adwait",
      "rating": 7,
      "points": 44,
-     "line": "Season's worst, yet still above average. Safe ground.",
+     "line": "Their worst week yet still cleared the league average. Not many can say that.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66858,7 +66934,7 @@
      "name": "Sagar",
      "rating": 7,
      "points": 43,
-     "line": "A steady march up from 63rd. Nothing flashy, all useful.",
+     "line": "A slow climb from 63rd that finally has some pace.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66884,8 +66960,8 @@
      "name": "Sukrut",
      "rating": 7,
      "points": 43,
-     "line": "Third, and a low week still held the spot. Clever sitting tight.",
-     "plain": false,
+     "line": "43 points, 6 above the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -66910,7 +66986,7 @@
      "name": "Aleston",
      "rating": 7,
      "points": 41,
-     "line": "Added Van Hecke and climbed. A tidy tweak from a manager who has led before.",
+     "line": "Brought in Van Hecke and moved up the table. Good business, quietly done.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66940,8 +67016,8 @@
      "name": "Anurag",
      "rating": 7,
      "points": 41,
-     "line": "3 above-average weeks on the trot. Climbing without noise.",
-     "plain": false,
+     "line": "41 points, 4 above the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -66966,7 +67042,7 @@
      "name": "Adrian",
      "rating": 6,
      "points": 43,
-     "line": "Worst week of the year, yet up 7. Others slipped further.",
+     "line": "Back up to 20th. A fair week despite the bench.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -66996,7 +67072,7 @@
      "name": "Ketan",
      "rating": 6,
      "points": 43,
-     "line": "13 points benched. The climb is slow but real.",
+     "line": "Below-average run broken. 13 points benched stopped it being a party.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67026,7 +67102,7 @@
      "name": "Kunaal",
      "rating": 6,
      "points": 43,
-     "line": "3 above-average weeks in a row. Small gains add up.",
+     "line": "3 weeks above average now. A slow, steady climb.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67056,7 +67132,7 @@
      "name": "Eli",
      "rating": 6,
      "points": 41,
-     "line": "Season low, still climbing. Others wobbled more.",
+     "line": "Worst week yet still beat the average. The 11 benched points are the grumble.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67086,7 +67162,7 @@
      "name": "Akshat",
      "rating": 6,
      "points": 40,
-     "line": "Transfer Genius with Wirtz and Van Hecke. Still sat third in the table.",
+     "line": "Transfer Genius, but also the worst week yet. 15 benched points rather spoiled it.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67120,7 +67196,7 @@
      "name": "Aniket",
      "rating": 6,
      "points": 40,
-     "line": "Inching up the table by a place a week. Patience is a plan.",
+     "line": "Above average again, yet the table barely moved. 82nd needs a bolder move.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67146,7 +67222,7 @@
      "name": "Dinesh",
      "rating": 6,
      "points": 40,
-     "line": "A 7-point hit for N.Jackson. Paid off only just.",
+     "line": "Paid a hit for N.Jackson and still ended the slump. Costly, but it worked.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67176,7 +67252,7 @@
      "name": "Ram",
      "rating": 6,
      "points": 40,
-     "line": "Creeping upward every week, never falling. Quietly effective.",
+     "line": "Above average again, creeping up to 43rd. Stealth climb.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67202,7 +67278,7 @@
      "name": "Saeel",
      "rating": 6,
      "points": 40,
-     "line": "Evanilson in, 11 benched. Lowest score of the season, still ahead of average.",
+     "line": "Season-worst, yet above average. The 11 benched points are the regret.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67232,7 +67308,7 @@
      "name": "Sundar",
      "rating": 6,
      "points": 40,
-     "line": "Season's worst, still above average. Up 6 places anyway.",
+     "line": "Worst week yet still beat the average. A kind week to have a bad one.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67258,7 +67334,7 @@
      "name": "Vidur",
      "rating": 6,
      "points": 40,
-     "line": "12 points benched. Still a small step up from the bottom end.",
+     "line": "Benched 12 points. A good week left on the shelf.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67288,7 +67364,7 @@
      "name": "Kabeerr",
      "rating": 6,
      "points": 39,
-     "line": "Triple Captain added only 2 points. A bold chip, a small return.",
+     "line": "Triple Captain on Haaland. It earned just 2 extra points. Ouch.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67318,7 +67394,7 @@
      "name": "Kunal",
      "rating": 6,
      "points": 39,
-     "line": "A quiet above-average week. Mid-table without a fuss.",
+     "line": "2 above average, and a table spot that has not moved. Quietly solid, loudly unremarkable.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67344,7 +67420,7 @@
      "name": "Sid",
      "rating": 6,
      "points": 39,
-     "line": "Tavernier in, 13 on the bench. A season low with a climb.",
+     "line": "Tavernier came good. 13 benched points kept it from being a proper party.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67378,7 +67454,7 @@
      "name": "Udit",
      "rating": 6,
      "points": 39,
-     "line": "2 places up. Steady drift out of the danger zone.",
+     "line": "Small step up the table. Mostly a quiet week.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67404,7 +67480,7 @@
      "name": "Abhishek Thard",
      "rating": 6,
      "points": 37,
-     "line": "Groß in at a cost. Down 3, so the hit stung.",
+     "line": "Groß arrived and the week landed exactly on average. 3 places lost anyway.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67430,7 +67506,7 @@
      "name": "Arnav",
      "rating": 6,
      "points": 37,
-     "line": "Below average again and sliding. Time for a rethink.",
+     "line": "3 weeks below average ended with a level week. Stopped the bleeding, nothing more.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67452,7 +67528,7 @@
      "name": "Kashish",
      "rating": 6,
      "points": 36,
-     "line": "Bought Van Hecke and hit the season's lowest score. Poor timing.",
+     "line": "Another Van Hecke buyer, but this one is a season low. Close, not clever.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67482,8 +67558,8 @@
      "name": "Prathap",
      "rating": 6,
      "points": 36,
-     "line": "7th and rising, even with Haaland as armband. Resilient.",
-     "plain": false,
+     "line": "36 points, 1 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -67508,7 +67584,7 @@
      "name": "Soham",
      "rating": 6,
      "points": 36,
-     "line": "A tiny slip. The 22nd spot is still respectable.",
+     "line": "Slipped a little, and the small slide goes on. Cheeky, but no panic yet.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67534,8 +67610,8 @@
      "name": "Umang",
      "rating": 6,
      "points": 34,
-     "line": "34 points, 3 below the league average.",
-     "plain": true,
+     "line": "Bought Van Hecke, then dropped to a season low. Timing was off.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -67564,7 +67640,7 @@
      "name": "Abhimanyu",
      "rating": 5,
      "points": 43,
-     "line": "21 points stuck on the bench. That is where the week went.",
+     "line": "Season low, yet up the table. 21 benched points are the real story.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67594,7 +67670,7 @@
      "name": "M",
      "rating": 5,
      "points": 43,
-     "line": "20 points benched. The climb should have been steeper.",
+     "line": "20 points on the bench. The XI was the problem, not the transfers.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67624,7 +67700,7 @@
      "name": "Chander",
      "rating": 5,
      "points": 41,
-     "line": "Bench Boost delivered 5 points. Not exactly the chip the hit was meant for.",
+     "line": "The chip and the hit for Kudus and Vuskovic broke the 4-week slump. Small relief.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67658,7 +67734,7 @@
      "name": "Kartik",
      "rating": 5,
      "points": 41,
-     "line": "Climbing for 4 weeks straight, even through a season-low score. Quiet progress.",
+     "line": "16 on the bench stalled a climb that was going nicely. Season low, too.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67688,8 +67764,8 @@
      "name": "Rahil",
      "rating": 5,
      "points": 40,
-     "line": "40 points, 3 above the league average.",
-     "plain": true,
+     "line": "3 good weeks, then a season low. Momentum dented, not broken.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -67714,7 +67790,7 @@
      "name": "Sanket Khandekar",
      "rating": 5,
      "points": 40,
-     "line": "18 points benched. The season low came with a selection regret attached.",
+     "line": "18 benched points explain why a season low still beat the average.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67744,8 +67820,8 @@
      "name": "Yash Bhatia",
      "rating": 5,
      "points": 39,
-     "line": "39 points, 2 above the league average.",
-     "plain": true,
+     "line": "Second to 5th across a month. The slipping is steady and the title talk is fading.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -67774,7 +67850,7 @@
      "name": "Abhishek Yerra",
      "rating": 5,
      "points": 38,
-     "line": "Stuck on 70th again. A season low barely moved the needle.",
+     "line": "Seventieth again, and 14 benched points would have shifted that.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67800,8 +67876,8 @@
      "name": "Raj",
      "rating": 5,
      "points": 37,
-     "line": "Dead on the average, but a season low. Stuck in the middle.",
-     "plain": false,
+     "line": "37 points, bang on the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -67822,8 +67898,8 @@
      "name": "S.M.",
      "rating": 5,
      "points": 37,
-     "line": "Jackson and Van Hecke arrived. The slide from 36th carried on regardless.",
-     "plain": false,
+     "line": "37 points, bang on the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -67852,7 +67928,7 @@
      "name": "Maanas",
      "rating": 5,
      "points": 36,
-     "line": "7 weeks below average. This has stopped being a dip and become a pattern.",
+     "line": "7 weeks below average. This is no longer a dip, it's a lifestyle.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67878,7 +67954,7 @@
      "name": "Mohit",
      "rating": 5,
      "points": 36,
-     "line": "A season low and a slip to 85th. Nothing to dress that up.",
+     "line": "A 3-week good run ended, and the season's worst score arrived with it.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67904,7 +67980,7 @@
      "name": "Nanik",
      "rating": 5,
      "points": 36,
-     "line": "18 points benched. Van Hecke could not save that.",
+     "line": "Bought Van Hecke, then left 18 points on the bench. The rivalry with Sahil got harder.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67938,7 +68014,7 @@
      "name": "Pratik",
      "rating": 5,
      "points": 36,
-     "line": "Suzuki arrived, the season low followed. 3 weeks below average now.",
+     "line": "Suzuki arrived and the week was the season's worst. Third straight below average.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -67968,8 +68044,8 @@
      "name": "Stephen",
      "rating": 5,
      "points": 36,
-     "line": "15 points benched. The bench has become a habit.",
-     "plain": false,
+     "line": "36 points, 1 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -67998,7 +68074,7 @@
      "name": "Avin",
      "rating": 5,
      "points": 35,
-     "line": "A season low from a manager who had just climbed to 76th.",
+     "line": "Season low. Nothing to blame but the picks.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68046,8 +68122,8 @@
      "name": "Shahan",
      "rating": 5,
      "points": 35,
-     "line": "4 weeks below average. The slide is a trend now.",
-     "plain": false,
+     "line": "35 points, 2 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68072,7 +68148,7 @@
      "name": "Vishva",
      "rating": 5,
      "points": 35,
-     "line": "A season low. The recovery looks fragile.",
+     "line": "Season's worst score, and 67th is the neighbourhood. Sixties are getting comfortable.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68098,8 +68174,8 @@
      "name": "Aryan Khamankar",
      "rating": 5,
      "points": 34,
-     "line": "Has led alone before. Back in 5th, the memory lingers.",
-     "plain": false,
+     "line": "34 points, 3 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68124,7 +68200,7 @@
      "name": "Hardik",
      "rating": 5,
      "points": 34,
-     "line": "Evanilson and De Cuyper arrived. The transfers have not helped.",
+     "line": "Evanilson and De Cuyper cost nothing, yet the season's worst week followed. 57th now.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68154,7 +68230,7 @@
      "name": "Biswadeep",
      "rating": 5,
      "points": 31,
-     "line": "A season low in 7th. Van Hecke did not rescue the week.",
+     "line": "6 good weeks ended with a thud. Van Hecke did not help.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68184,8 +68260,8 @@
      "name": "Sourabh",
      "rating": 4,
      "points": 39,
-     "line": "De Cuyper cost a hit. Still stuck around 107th, so no payoff.",
-     "plain": false,
+     "line": "39 points, 2 above the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68218,8 +68294,8 @@
      "name": "Sanket Nahata",
      "rating": 4,
      "points": 38,
-     "line": "38 points, 1 above the league average.",
-     "plain": true,
+     "line": "Slump over, but 21 benched points show how much was left behind.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68248,7 +68324,7 @@
      "name": "Suraj",
      "rating": 4,
      "points": 38,
-     "line": "A season low keeps the slide going. 4 weeks of drifting down.",
+     "line": "The slump ended, but 20 benched points turned a good week into a lost chance.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68278,7 +68354,7 @@
      "name": "Sidharth",
      "rating": 4,
      "points": 37,
-     "line": "Season low, yet still a big climb over a month. Odd one.",
+     "line": "17 benched points. Imagine if the right XI had played.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68304,7 +68380,7 @@
      "name": "Utkarsh",
      "rating": 4,
      "points": 37,
-     "line": "Jackson cost a 7-point hit. The season low followed.",
+     "line": "Jackson cost a hit. The season's worst week followed, though 11th somehow held firm.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68326,8 +68402,8 @@
      "name": "Abu",
      "rating": 4,
      "points": 36,
-     "line": "7 weeks below average. The slide has no brakes.",
-     "plain": false,
+     "line": "36 points, 1 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68356,8 +68432,8 @@
      "name": "Clawin",
      "rating": 4,
      "points": 36,
-     "line": "A season low. Bench points would have fixed it.",
-     "plain": false,
+     "line": "36 points, 1 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68386,8 +68462,8 @@
      "name": "Sajeet",
      "rating": 4,
      "points": 36,
-     "line": "36 points, 1 below the league average.",
-     "plain": true,
+     "line": "Third week below average. 12 benched points did not help.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68412,8 +68488,8 @@
      "name": "Karan P Nanda",
      "rating": 4,
      "points": 35,
-     "line": "Sole owner of Belloumi, who scored 7. The one bright spot in a season low.",
-     "plain": false,
+     "line": "35 points, 2 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68438,8 +68514,8 @@
      "name": "Manu",
      "rating": 4,
      "points": 35,
-     "line": "4 weeks below average. The drop is no accident.",
-     "plain": false,
+     "line": "35 points, 2 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68498,7 +68574,7 @@
      "name": "Kshiteesh",
      "rating": 4,
      "points": 34,
-     "line": "Jackson cost a hit. A season low, and 10th is under threat.",
+     "line": "Paid a 7-point hit for Jackson and fell out of the Top prizes. Costly.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68528,8 +68604,8 @@
      "name": "Manav",
      "rating": 4,
      "points": 34,
-     "line": "Won The One That Got Away, then had a season low. Typical.",
-     "plain": false,
+     "line": "34 points, 3 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68554,7 +68630,7 @@
      "name": "Rajat Bhalla",
      "rating": 4,
      "points": 34,
-     "line": "24 benched, the week's second-worst bench. Van Hecke did not help.",
+     "line": "24 benched points. A bigger story than the week itself.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68588,7 +68664,7 @@
      "name": "Vivek",
      "rating": 4,
      "points": 33,
-     "line": "Konsa and Evanilson arrived. 5 weeks below average say the changes are not working.",
+     "line": "5th week below average. Konsa and Evanilson arrived, and the season's worst score followed.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68622,8 +68698,8 @@
      "name": "SHARAN",
      "rating": 4,
      "points": 32,
-     "line": "Down 7 places, a season low. The earlier highs look distant.",
-     "plain": false,
+     "line": "32 points, 5 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68648,8 +68724,8 @@
      "name": "Vinil",
      "rating": 4,
      "points": 32,
-     "line": "32 points, 5 below the league average.",
-     "plain": true,
+     "line": "Worst week yet. The 12 benched points are the sting.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68678,7 +68754,7 @@
      "name": "Apoorvo",
      "rating": 4,
      "points": 31,
-     "line": "Jacquet's 6 was a private joke nobody else here got. The rest was grim.",
+     "line": "Jacquet, picked by nobody else, scored 6. Season's worst week all the same.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68704,7 +68780,7 @@
      "name": "Cherag",
      "rating": 4,
      "points": 30,
-     "line": "Third in the table a month ago. 3 weeks under the average have done the damage.",
+     "line": "Third week running below par. The slide from 3rd is now a pattern.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68738,8 +68814,8 @@
      "name": "Nishit",
      "rating": 4,
      "points": 30,
-     "line": "Slow drift down the table, and this was the worst week yet.",
-     "plain": false,
+     "line": "30 points, 7 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68764,7 +68840,7 @@
      "name": "Rishab",
      "rating": 4,
      "points": 30,
-     "line": "Briefly climbed, then gave 11 places straight back. Yo-yo form, and the season's worst week.",
+     "line": "Season's worst score and 11 places gone. Month of hard work undone in one week.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68790,8 +68866,8 @@
      "name": "Mudit",
      "rating": 3,
      "points": 35,
-     "line": "35 points, 2 below the league average.",
-     "plain": true,
+     "line": "Worst week yet. 17 benched points did the damage.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68820,7 +68896,7 @@
      "name": "Ajay",
      "rating": 3,
      "points": 33,
-     "line": "12 benched. A selection problem, not bad luck.",
+     "line": "Drifting down from 54th without a single big swing. Quiet decline, loud bench.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68850,8 +68926,8 @@
      "name": "Varun",
      "rating": 3,
      "points": 33,
-     "line": "33 points, 4 below the league average.",
-     "plain": true,
+     "line": "4 weeks running below par. Worst of the run, too.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68880,7 +68956,7 @@
      "name": "Zorawar",
      "rating": 3,
      "points": 33,
-     "line": "21 points watched from the bench. The team picked itself badly.",
+     "line": "Worst week yet, with 21 points watching from the bench.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68906,7 +68982,7 @@
      "name": "Hitesh",
      "rating": 3,
      "points": 32,
-     "line": "Paid 7 for Barry and slid. Once alone at the top, now far from it.",
+     "line": "Barry arrived with a hit. Once alone at the top, now down to 26th.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -68936,8 +69012,8 @@
      "name": "Rajat Arora",
      "rating": 3,
      "points": 32,
-     "line": "5 straight weeks on top from GW7. That run ended with a thud.",
-     "plain": false,
+     "line": "32 points, 5 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -68966,7 +69042,7 @@
      "name": "Sahil",
      "rating": 3,
      "points": 31,
-     "line": "Transfer in, points out the back door: 15 stayed benched. Backwards week.",
+     "line": "Worst week yet. Benching 15 points cost dearly.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69000,8 +69076,8 @@
      "name": "Sikander",
      "rating": 3,
      "points": 31,
-     "line": "31 points, 6 below the league average.",
-     "plain": true,
+     "line": "Worst week yet. The right XI sat watching from the bench.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -69030,7 +69106,7 @@
      "name": "Tanmay",
      "rating": 3,
      "points": 31,
-     "line": "Dropped 10 places, and the bench had a hand in it.",
+     "line": "Worst week yet. A 10-place tumble undid the recent climb.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69060,7 +69136,7 @@
      "name": "Adit",
      "rating": 3,
      "points": 30,
-     "line": "Armband Agony winner. The captain pick did the damage here.",
+     "line": "Armband Agony winner. The captain pick sank the week to the season's worst.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69086,8 +69162,8 @@
      "name": "Amar",
      "rating": 3,
      "points": 30,
-     "line": "30 points, 7 below the league average.",
-     "plain": true,
+     "line": "3 weeks below par running, and the worst of them yet.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -69116,7 +69192,7 @@
      "name": "Nehal",
      "rating": 3,
      "points": 30,
-     "line": "Armband Agony is the trophy nobody wants. Captain call sank the week.",
+     "line": "Armband Agony winner. Season's worst score, and 39th is the price.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69142,8 +69218,8 @@
      "name": "Neol",
      "rating": 3,
      "points": 29,
-     "line": "29 points, 8 below the league average.",
-     "plain": true,
+     "line": "The above-average run ended with a thud. Second place suddenly looks less cosy.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -69168,7 +69244,7 @@
      "name": "Quseem",
      "rating": 3,
      "points": 28,
-     "line": "Barry and Van Hecke arrived, but 18 points stayed benched.",
+     "line": "Barry and Van Hecke came in. 18 benched points went out the window.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69228,7 +69304,7 @@
      "name": "Bhavin",
      "rating": 2,
      "points": 31,
-     "line": "16 benched, and the slow slide has a clear cause.",
+     "line": "Worst week yet. The slide keeps going, now down at 36th.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69258,8 +69334,8 @@
      "name": "Krishna",
      "rating": 2,
      "points": 30,
-     "line": "Tough one: the bench held the week's biggest haul. Brighter days ahead.",
-     "plain": false,
+     "line": "30 points, 7 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -69288,8 +69364,8 @@
      "name": "Akash",
      "rating": 2,
      "points": 29,
-     "line": "29 points, 8 below the league average.",
-     "plain": true,
+     "line": "Worst week yet. A 14-place drop makes a proper tumble.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -69318,7 +69394,7 @@
      "name": "Shahaan",
      "rating": 2,
      "points": 29,
-     "line": "17 idle points made this the season's worst week so far.",
+     "line": "Worst week yet. Leaving 17 points benched is the story.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69348,7 +69424,7 @@
      "name": "Swapnil",
      "rating": 2,
      "points": 28,
-     "line": "Season's lowest week so far, with 19 points unused.",
+     "line": "Worst week yet. Selection, not luck, left 19 on the bench.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69378,8 +69454,8 @@
      "name": "Avinash",
      "rating": 2,
      "points": 25,
-     "line": "25 points, 12 below the league average.",
-     "plain": true,
+     "line": "McGinn came with a hit and a tumble to 92nd.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -69408,7 +69484,7 @@
      "name": "Neil",
      "rating": 2,
      "points": 25,
-     "line": "Below average for 4 weeks running. No bounce yet.",
+     "line": "The slide from 88th keeps going. Worst week yet.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69438,7 +69514,7 @@
      "name": "Anuj",
      "rating": 2,
      "points": 22,
-     "line": "Had been climbing, then gave 10 places back in one go.",
+     "line": "The above-average run is over. Benching 19 points ended it.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69468,7 +69544,7 @@
      "name": "Mayuresh",
      "rating": 2,
      "points": 22,
-     "line": "Free Fall winner, and the title fits: a 4-week slide with no brakes.",
+     "line": "Won Free Fall, and earned it. 20 left on the bench.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69498,7 +69574,7 @@
      "name": "Monty",
      "rating": 1,
      "points": 21,
-     "line": "The Doghouse has a new tenant. Mbeumo and Jackson cost 4, and the season low followed.",
+     "line": "Won The Doghouse. Mbeumo and N.Jackson cost a hit, and 102nd is the reward.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -69531,441 +69607,509 @@
    ],
    "editor": [
     {
-     "item": "big_picture",
+     "item": "standfirst",
      "reason": "fresh: copies an example or an earlier line",
-     "before": "Rajat Arora had his worst week of the season and still moved 21 clear. That is the story of this title race. 6 weeks on top, and the chasers keep failing to take the chances he hands them.",
+     "before": "92 managers trusted the armband on Haaland and got 4 each. Rajat Arora had a shocker and still stretched his lead.",
      "after": null,
      "still": "fresh: copies an example or an earlier line"
     },
     {
-     "item": "winners:0",
-     "reason": "numbers: 3 numbers, at most 2",
-     "before": "From 97th to 81st in a single week. 4 weeks of drifting, then a week-winning score. Real recovery or a one-off? Ask again next Tuesday.",
-     "after": null,
-     "still": "true: numbers not in the sheet ['90']"
+     "item": "big_picture",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "92 armbands on Haaland, one more blank, and the leader still got away with a bad week. Rajat Arora is now 21 clear. That is 6 weeks on top, and the chasers keep failing to punish him.",
+     "after": "Rajat Arora scored the worst week of his season, 32, and Neol did worse with 29. The lead went from 18 to 21. Sukrut sits third in the table. Nobody has made the leader pay for a bad week yet."
+    },
+    {
+     "item": "losers:0",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "The Doghouse, and the worst week of the season. A 4-point hit for Mbeumo and N.Jackson bought nothing. Costly transfers that did not pay.",
+     "after": "The Doghouse is Monty's. Mbeumo and N.Jackson cost a 4-point hit and bought nothing back. The week's lowest score."
     },
     {
      "item": "losers:1",
-     "reason": "numbers: 3 numbers, at most 2; fresh: copies an example or an earlier line",
-     "before": "From 8th to 48th in 4 weeks. Free Fall is the right name for it. This slide has stopped being bad luck.",
-     "after": "Mayuresh has dropped every week for a month, from 8th to 48th. Free Fall is the right name. Nobody can call this a blip any more."
-    },
-    {
-     "item": "losers:2",
-     "reason": "true: \"twice\" hides a number the sheet can't confirm; use the digit; fresh: copies an example or an earlier line",
-     "before": "19 points sat on the bench while the starting XI blanked. Picking the wrong 11 hurts twice.",
+     "reason": "numbers: 4 numbers, at most 2",
+     "before": "8th just 3 weeks ago, now 48th. The slide is 4 weeks old and the bench cost a lot this time. Free Fall is the right name.",
      "after": null,
-     "still": "true: numbers not in the sheet ['26']"
+     "still": "numbers: 4 numbers, at most 2; fresh: copies an example or an earlier line"
     },
     {
-     "item": "rating:Kaushik",
+     "item": "rating:Aditya",
+     "reason": "true: numbers not in the sheet ['90']",
+     "before": "Climbed out of the 90s and took the week. Nobody saw it coming.",
+     "after": null,
+     "still": "numbers: 4 numbers, at most 1"
+    },
+    {
+     "item": "rating:Nihal",
      "reason": "fresh: copies an example or an earlier line",
-     "before": "Van Hecke as captain, alone. Worst week of the season, yet still rewarded.",
-     "after": "Sole owner of Van Hecke as captain. The armband paid 12 on a quiet week."
+     "before": "Bench Boost paid off. A steady climb up the table continues.",
+     "after": "Kinsky was a smart pickup, and the chip added to it. 15th and still climbing."
+    },
+    {
+     "item": "rating:Shrivar",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Van Hecke came in and delivered. A tidy, sensible week.",
+     "after": "Brought in Van Hecke and watched him pay. Sensible work, and the table noticed."
     },
     {
      "item": "rating:Arshad",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "4 weeks above average. A climb from 64th to 19th looks planned.",
-     "after": "4 straight weeks above average. This climb looks planned."
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "4 above-average weeks running. 19th place is the reward.",
+     "after": null,
+     "still": "numbers: 3 numbers, at most 1"
+    },
+    {
+     "item": "rating:Jackey",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Up 13 places to 32nd. A quiet riser.",
+     "after": null,
+     "still": "true: numbers not in the sheet ['30']; numbers: 2 numbers, at most 1"
+    },
+    {
+     "item": "rating:Shantanu",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Worst week of the season still beat the average. Not bad.",
+     "after": "Season low, yet still better than the league average. Rare kind of bad week."
+    },
+    {
+     "item": "rating:Adwait",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Even the worst week of the season was above average here.",
+     "after": "Their worst week yet still cleared the league average. Not many can say that."
     },
     {
      "item": "rating:Aleston",
      "reason": "fresh: \"van hecke...\" already opens 2 other lines",
-     "before": "Van Hecke in, 7 places up. A sensible tweak.",
-     "after": "Added Van Hecke and climbed. A tidy tweak from a manager who has led before."
+     "before": "Van Hecke in, 7 places up. A neat piece of business.",
+     "after": "Brought in Van Hecke and moved up the table. Good business, quietly done."
     },
     {
-     "item": "rating:Akshat",
+     "item": "rating:Anurag",
      "reason": "numbers: 2 numbers, at most 1",
-     "before": "Transfer Genius, and still 3 weeks of top-4 pressure behind it.",
-     "after": "Transfer Genius with Wirtz and Van Hecke. Still sat third in the table."
-    },
-    {
-     "item": "rating:Aniket",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Slowly rising from 86th to 82nd. Patience.",
-     "after": "Inching up the table by a place a week. Patience is a plan."
-    },
-    {
-     "item": "rating:Ram",
-     "reason": "fresh: \"weeks above...\" already opens 2 other lines",
-     "before": "3 weeks above average. Creeping upward, never falling.",
-     "after": "Creeping upward every week, never falling. Quietly effective."
-    },
-    {
-     "item": "rating:Vidur",
-     "reason": "true: numbers not in the sheet ['90']",
-     "before": "12 benched. The top 90s are a nice change though.",
-     "after": "12 points benched. Still a small step up from the bottom end."
-    },
-    {
-     "item": "rating:Arnav",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "4 weeks below average and sliding. Time for a rethink.",
-     "after": "Below average again and sliding. Time for a rethink."
+     "before": "12th and rising. 3 above-average weeks in a row.",
+     "after": null,
+     "still": "numbers: 2 numbers, at most 1"
     },
     {
      "item": "rating:Kashish",
      "reason": "fresh: \"van hecke...\" already opens 2 other lines",
-     "before": "Van Hecke arrived, the season's lowest score followed.",
-     "after": "Bought Van Hecke and hit the season's lowest score. Poor timing."
+     "before": "Van Hecke arrived, but the week was a season low. Still close.",
+     "after": "Another Van Hecke buyer, but this one is a season low. Close, not clever."
+    },
+    {
+     "item": "rating:Prathap",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "7th place, a 4-week run ended. Still level with the Top prizes line.",
+     "after": null,
+     "still": "numbers: 2 numbers, at most 1"
+    },
+    {
+     "item": "rating:Soham",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Dropped 3 places to 22nd. Just under average, nothing dramatic.",
+     "after": "Slipped a little, and the small slide goes on. Cheeky, but no panic yet."
     },
     {
      "item": "rating:Umang",
-     "reason": "fresh: copies an example or an earlier line; fresh: \"van hecke...\" already opens 2 other lines",
-     "before": "Van Hecke came in, the worst week of the season followed. Poor timing.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "fresh: \"van hecke...\" already opens 2 other lines",
+     "before": "Van Hecke arrived and the week still sank. Worst of the season.",
+     "after": "Bought Van Hecke, then dropped to a season low. Timing was off."
+    },
+    {
+     "item": "rating:Abhimanyu",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Season low, yet 6 places climbed. 21 benched points are the real story.",
+     "after": "Season low, yet up the table. 21 benched points are the real story."
     },
     {
      "item": "rating:M",
+     "reason": "numbers: 2 numbers, at most 1; fresh: copies an example or an earlier line",
+     "before": "Up to 88th, but 20 points sat on the bench. Selection let this one down.",
+     "after": "20 points on the bench. The XI was the problem, not the transfers."
+    },
+    {
+     "item": "rating:Chander",
+     "reason": "fresh: \"bench boost...\" already opens 2 other lines",
+     "before": "Bench Boost and a hit for Kudus and Vuskovic. The slump is finally over.",
+     "after": "The chip and the hit for Kudus and Vuskovic broke the 4-week slump. Small relief."
+    },
+    {
+     "item": "rating:Kartik",
      "reason": "numbers: 2 numbers, at most 1",
-     "before": "20 on the bench. The climb to 88th should have been steeper.",
-     "after": "20 points benched. The climb should have been steeper."
+     "before": "Climbing steadily towards the top 100. 16 points on the bench stalled the charge.",
+     "after": "16 on the bench stalled a climb that was going nicely. Season low, too."
     },
     {
      "item": "rating:Rahil",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"above average...\" already opens 2 other lines",
-     "before": "3 above-average weeks running. Slipped from 63rd, though, so no momentum.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "fresh: \"above average...\" already opens 2 other lines",
+     "before": "3 above-average weeks running, then a season low. Momentum dented, not broken.",
+     "after": "3 good weeks, then a season low. Momentum dented, not broken."
+    },
+    {
+     "item": "rating:Sanket Khandekar",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "Worst week of the season, and still above average. 18 benched points explain the gap.",
+     "after": "18 benched points explain why a season low still beat the average."
+    },
+    {
+     "item": "rating:Yash Bhatia",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "5th now, having started the run second. 4 weeks of slipping, and counting.",
+     "after": "Second to 5th across a month. The slipping is steady and the title talk is fading."
     },
     {
      "item": "rating:Abhishek Yerra",
-     "reason": "true: numbers not in the sheet ['2']; numbers: 2 numbers, at most 1",
-     "before": "Parked on 70th for 2 weeks. A season low barely moved the needle.",
-     "after": "Stuck on 70th again. A season low barely moved the needle."
+     "reason": "true: numbers not in the sheet ['2']; numbers: 3 numbers, at most 1",
+     "before": "Stuck on 70th for 2 weeks. 14 benched points would have shifted that.",
+     "after": "Seventieth again, and 14 benched points would have shifted that."
     },
     {
      "item": "rating:Nanik",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"van hecke...\" already opens 2 other lines",
-     "before": "Van Hecke in, 18 points on the bench. Still holding 30th.",
-     "after": "18 points benched. Van Hecke could not save that."
+     "reason": "fresh: \"season low...\" already opens 2 other lines",
+     "before": "Season low, with 18 points benched. Van Hecke did not fix it.",
+     "after": "Bought Van Hecke, then left 18 points on the bench. The rivalry with Sahil got harder."
     },
     {
-     "item": "rating:Stephen",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "15 benched. 3 weeks below average means the bench is a habit.",
-     "after": "15 points benched. The bench has become a habit."
+     "item": "rating:Avin",
+     "reason": "fresh: \"worst week...\" already opens 2 other lines",
+     "before": "Worst week yet. Nothing to blame but the picks.",
+     "after": "Season low. Nothing to blame but the picks."
     },
     {
      "item": "rating:Sahej",
      "reason": "numbers: 2 numbers, at most 1",
-     "before": "Dropped 5 places, a season low. The 19th spot looks a long way off.",
+     "before": "3 good weeks ended abruptly. Down to 24th, the climb stalls.",
      "after": null,
-     "still": "true: numbers not in the sheet ['20']"
+     "still": "numbers: 2 numbers, at most 1"
     },
     {
      "item": "rating:Shahan",
-     "reason": "numbers: 3 numbers, at most 1; fresh: \"weeks below...\" already opens 2 other lines",
-     "before": "4 weeks below average, 44th down to 65th. The slide is a trend now.",
-     "after": "4 weeks below average. The slide is a trend now."
-    },
-    {
-     "item": "rating:Vishva",
      "reason": "numbers: 2 numbers, at most 1",
-     "before": "Season low, 2 below average. The recovery from 77th looks fragile.",
-     "after": "A season low. The recovery looks fragile."
+     "before": "4th week below average. The drop from 44th is becoming a proper slide.",
+     "after": null,
+     "still": "numbers: 2 numbers, at most 1"
     },
     {
      "item": "rating:Aryan Khamankar",
-     "reason": "numbers: 2 numbers, at most 1; fresh: copies an example or an earlier line",
-     "before": "2 spells alone at the top this season. 5th now, but the memory lingers.",
-     "after": "Has led alone before. Back in 5th, the memory lingers."
-    },
-    {
-     "item": "rating:Hardik",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "Evanilson and De Cuyper arrived. 33rd down to 57th says the transfers have not helped.",
-     "after": "Evanilson and De Cuyper arrived. The transfers have not helped."
-    },
-    {
-     "item": "rating:Biswadeep",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "6th on the list of falls: 14th to 7th over a month. Van Hecke did not rescue it.",
-     "after": "A season low in 7th. Van Hecke did not rescue the week."
-    },
-    {
-     "item": "rating:Sanket Nahata",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "21 benched. A near-permanent resident of 105th, and this explains why.",
+     "reason": "true: \"Twice\" hides a number the sheet can't confirm; use the digit",
+     "before": "Twice a leader this season. 5th place says the grip is loosening.",
      "after": null,
      "still": "numbers: 2 numbers, at most 1"
     },
     {
      "item": "rating:Suraj",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "Down from 42nd to 59th in 4 weeks. A season low keeps the trend going.",
-     "after": "A season low keeps the slide going. 4 weeks of drifting down."
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "4-week slump ended, yet it's still a season low. 20 benched points sting.",
+     "after": "The slump ended, but 20 benched points turned a good week into a lost chance."
     },
     {
      "item": "rating:Sidharth",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"a season...\" already opens 2 other lines",
-     "before": "A season low, yet 81st to 39th in a month. Climb of the league.",
-     "after": "Season low, yet still a big climb over a month. Odd one."
-    },
-    {
-     "item": "rating:Utkarsh",
      "reason": "numbers: 2 numbers, at most 1",
-     "before": "Jackson cost a 7-point hit, and the season low followed. 10th and holding on.",
-     "after": "Jackson cost a 7-point hit. The season low followed."
+     "before": "Up to 39th, with 17 points benched. Imagine if the right XI had played.",
+     "after": "17 benched points. Imagine if the right XI had played."
     },
     {
      "item": "rating:Abu",
-     "reason": "numbers: 3 numbers, at most 1; fresh: \"weeks below...\" already opens 2 other lines",
-     "before": "7 weeks below average. The slide from 76th to 93rd has no brakes.",
-     "after": "7 weeks below average. The slide has no brakes."
-    },
-    {
-     "item": "rating:Clawin",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "From 10th to 12th, with a season low. Bench points would have fixed that.",
-     "after": "A season low. Bench points would have fixed it."
-    },
-    {
-     "item": "rating:Sajeet",
      "reason": "numbers: 2 numbers, at most 1; fresh: \"weeks below...\" already opens 2 other lines",
-     "before": "5 weeks below average. The 66th spot is becoming home.",
+     "before": "7 weeks below average. The slide from 76th keeps going.",
      "after": null,
      "still": "numbers: 2 numbers, at most 1"
     },
     {
-     "item": "rating:Karan P Nanda",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "Belloumi scored 7 and nobody else owns him. Sole bright spot in a season low.",
-     "after": "Sole owner of Belloumi, who scored 7. The one bright spot in a season low."
+     "item": "rating:Clawin",
+     "reason": "numbers: 2 numbers, at most 1; fresh: \"a season...\" already opens 2 other lines",
+     "before": "A season low, and 17 points benched. The top 10 is getting further away.",
+     "after": null,
+     "still": "numbers: 2 numbers, at most 1"
+    },
+    {
+     "item": "rating:Sajeet",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "3 below-average weeks running. 12 benched points did not help.",
+     "after": "Third week below average. 12 benched points did not help."
     },
     {
      "item": "rating:Manu",
-     "reason": "numbers: 3 numbers, at most 1; fresh: \"weeks below...\" already opens 2 other lines",
-     "before": "4 weeks below average. The drop from 47th to 68th is no accident.",
-     "after": "4 weeks below average. The drop is no accident."
+     "reason": "numbers: 2 numbers, at most 1; fresh: copies an example or an earlier line; fresh: \"weeks below...\" already opens 2 other lines",
+     "before": "4 weeks below average and sliding from 47th. The wrong direction, steadily.",
+     "after": null,
+     "still": "numbers: 2 numbers, at most 1"
     },
     {
      "item": "rating:Rahul",
      "reason": "numbers: 3 numbers, at most 1",
-     "before": "Dropped 5 places to 48th. 11 on the bench did not help.",
+     "before": "Down 5 places to 48th, with 11 points benched. Frustrating.",
      "after": null,
-     "still": "numbers: 2 numbers, at most 1"
+     "still": "fresh: copies an example or an earlier line"
+    },
+    {
+     "item": "rating:Kshiteesh",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Jackson came in at a cost of 7. A season low, and 10th place slips.",
+     "after": "Paid a 7-point hit for Jackson and fell out of the Top prizes. Costly."
     },
     {
      "item": "rating:Rajat Bhalla",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "24 on the bench is the biggest waste in this batch. Van Hecke did not help.",
-     "after": "24 benched, the week's second-worst bench. Van Hecke did not help."
+     "reason": "fresh: \"points benched...\" already opens 2 other lines",
+     "before": "24 points benched. That is a bigger story than the week itself.",
+     "after": "24 benched points. A bigger story than the week itself."
     },
     {
      "item": "rating:SHARAN",
-     "reason": "true: numbers not in the sheet ['2']; numbers: 3 numbers, at most 1",
-     "before": "Down 7 places, a season low. The 48th spot from 2 weeks ago looks distant.",
-     "after": "Down 7 places, a season low. The earlier highs look distant."
-    },
-    {
-     "item": "rating:Vinil",
-     "reason": "numbers: 2 numbers, at most 1; fresh: \"season low...\" already opens 2 other lines",
-     "before": "Season low, but 103rd barely moved. 12 on the bench stung.",
+     "reason": "numbers: 2 numbers, at most 1; fresh: \"good weeks...\" already opens 2 other lines",
+     "before": "4 good weeks ended with a season low. Down 7 places.",
      "after": null,
      "still": "numbers: 2 numbers, at most 1"
     },
     {
-     "item": "rating:Mudit",
+     "item": "rating:Vinil",
+     "reason": "numbers: 2 numbers, at most 1; fresh: \"a season...\" already opens 2 other lines",
+     "before": "A season low, with 12 benched points. Still camped around 103rd.",
+     "after": "Worst week yet. The 12 benched points are the sting."
+    },
+    {
+     "item": "rating:Nishit",
      "reason": "numbers: 2 numbers, at most 1; fresh: copies an example or an earlier line",
-     "before": "17 points rotting on the bench. 3 straight weeks below average, and the slide goes on.",
+     "before": "Slipped to 35th. Worst week of the season, and a slow slide since 29th.",
      "after": null,
      "still": "fresh: copies an example or an earlier line"
     },
     {
-     "item": "rating:Ajay",
-     "reason": "fresh: copies an example or an earlier line; fresh: \"on the...\" already opens 2 other lines",
-     "before": "12 on the bench is a selection problem, not bad luck.",
-     "after": "12 benched. A selection problem, not bad luck."
+     "item": "rating:Mudit",
+     "reason": "numbers: 3 numbers, at most 1; fresh: copies an example or an earlier line",
+     "before": "17 on the bench is the headline. 10 weeks ago this was top 10.",
+     "after": "Worst week yet. 17 benched points did the damage."
     },
     {
      "item": "rating:Varun",
-     "reason": "numbers: 2 numbers, at most 1; fresh: copies an example or an earlier line; fresh: \"weeks below...\" already opens 2 other lines",
-     "before": "4 weeks below average and still camped in 104th. Consistency, of the wrong sort.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "4th week running below par. 19 benched points is a cruel way to extend it.",
+     "after": "4 weeks running below par. Worst of the run, too."
+    },
+    {
+     "item": "rating:Zorawar",
+     "reason": "fresh: \"a season...\" already opens 2 other lines",
+     "before": "A season low, mostly because 21 points watched from the bench.",
+     "after": "Worst week yet, with 21 points watching from the bench."
     },
     {
      "item": "rating:Hitesh",
      "reason": "numbers: 2 numbers, at most 1",
-     "before": "Barry arrived at a cost of 7. Alone at the top once, now 26th.",
-     "after": "Paid 7 for Barry and slid. Once alone at the top, now far from it."
+     "before": "Barry arrived with a 7-point hit. Alone at the top once, now 26th.",
+     "after": "Barry arrived with a hit. Once alone at the top, now down to 26th."
     },
     {
      "item": "rating:Sahil",
      "reason": "fresh: \"van hecke...\" already opens 2 other lines",
-     "before": "Van Hecke came in, 15 points stayed on the bench. Backwards week.",
-     "after": "Transfer in, points out the back door: 15 stayed benched. Backwards week."
+     "before": "Van Hecke came in with a hit-free smile. 15 benched points wiped it off.",
+     "after": "Worst week yet. Benching 15 points cost dearly."
     },
     {
      "item": "rating:Sikander",
      "reason": "numbers: 3 numbers, at most 1",
-     "before": "13 left on the bench. Sliding from 23rd to 29th is a choice.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "before": "13 benched points. Drifted from 23rd to 29th while the right XI sat watching.",
+     "after": "Worst week yet. The right XI sat watching from the bench."
     },
     {
      "item": "rating:Tanmay",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "10 places lost in one week. The bench held 11 of the reasons.",
-     "after": "Dropped 10 places, and the bench had a hand in it."
+     "reason": "numbers: 3 numbers, at most 1",
+     "before": "Jumped to 17th, then fell 10 places. 11 benched points did the damage.",
+     "after": "Worst week yet. A 10-place tumble undid the recent climb."
     },
     {
      "item": "rating:Amar",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "A steady fall from 24th to 53rd. 3 weeks below average, and nobody is stopping it.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Down 13 places. Third below-average week running, and 24th feels a long way back.",
+     "after": "3 weeks below par running, and the worst of them yet."
     },
     {
      "item": "rating:Neol",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "Still second in the table, so the worst week of the season barely hurt.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
-    },
-    {
-     "item": "rating:Krishnaji",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "Fell from 32nd to 70th in 4 weeks. The lowest score so far.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "fresh: \"good weeks...\" already opens 2 other lines",
+     "before": "5 good weeks ended with a thud. Second place has been the comfort blanket.",
+     "after": "The above-average run ended with a thud. Second place suddenly looks less cosy."
     },
     {
      "item": "rating:Bhavin",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "16 benched. The slow slide from 27th to 36th has a clear cause.",
-     "after": "16 benched, and the slow slide has a clear cause."
+     "reason": "numbers: 2 numbers, at most 1; fresh: \"points benched...\" already opens 2 other lines",
+     "before": "16 points benched. The slide from 27th shows no sign of stopping.",
+     "after": "Worst week yet. The slide keeps going, now down at 36th."
     },
     {
      "item": "rating:Akash",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "14 places gone in a week. From 14th to 59th is a proper collapse.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "numbers: 4 numbers, at most 1; fresh: \"down places...\" already opens 2 other lines",
+     "before": "Down 14 places. From 14th to 59th in 4 weeks is some tumble.",
+     "after": "Worst week yet. A 14-place drop makes a proper tumble."
     },
     {
      "item": "rating:Shahaan",
-     "reason": "numbers: 3 numbers, at most 1; fresh: \"on the...\" already opens 2 other lines",
-     "before": "17 on the bench. Bounced between 33rd and 39th, and this week cost the most.",
-     "after": "17 idle points made this the season's worst week so far."
+     "reason": "numbers: 3 numbers, at most 1",
+     "before": "17 benched points. Had been holding 33rd, now back at 39th.",
+     "after": "Worst week yet. Leaving 17 points benched is the story."
     },
     {
      "item": "rating:Swapnil",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "19 unused points. Hovering around 99th, and the lowest week so far.",
-     "after": "Season's lowest week so far, with 19 points unused."
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "19 points on the bench and a season low. Selection, not luck, was the issue.",
+     "after": "Worst week yet. Selection, not luck, left 19 on the bench."
     },
     {
      "item": "rating:Avinash",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "McGinn cost 6 and delivered little. 12 places lost, and the slide is now 3 weeks long.",
-     "after": null,
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "McGinn cost a hit. 12 places lost, and 3 weeks below par.",
+     "after": "McGinn came with a hit and a tumble to 92nd."
     },
     {
      "item": "rating:Neil",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "4 weeks under the average. Down to 106th, with no sign of a bounce.",
-     "after": "Below average for 4 weeks running. No bounce yet."
+     "reason": "numbers: 2 numbers, at most 1; fresh: \"th week...\" already opens 2 other lines",
+     "before": "4th week below average. The slow slide from 88th just keeps going.",
+     "after": "The slide from 88th keeps going. Worst week yet."
     },
     {
      "item": "rating:Anuj",
-     "reason": "fresh: copies an example or an earlier line",
-     "before": "19 points sat on the bench. Another reason the lowest week arrived.",
-     "after": "Had been climbing, then gave 10 places back in one go."
+     "reason": "numbers: 2 numbers, at most 1; fresh: \"good weeks...\" already opens 2 other lines",
+     "before": "3 good weeks ended. 19 benched points is the story of this one.",
+     "after": "The above-average run is over. Benching 19 points ended it."
     },
     {
      "item": "rating:Mayuresh",
-     "reason": "numbers: 3 numbers, at most 1",
-     "before": "Free Fall winner, and the title fits. From 8th to 48th in 4 weeks.",
-     "after": "Free Fall winner, and the title fits: a 4-week slide with no brakes."
-    },
-    {
-     "item": "decision_of_the_week",
-     "reason": "fresh: repeats 11 from winners:2; say something new",
-     "before": "Krishna's line-up was the wrong 11, and the bench held the evidence. 26 points sat idle, the biggest waste in the league. Be gentle, but the team sheet needs a second look.",
-     "after": "Krishna left 26 points on the bench, the biggest waste in the league. Gentle advice: the team sheet deserves another look."
-    },
-    {
-     "item": "rating:Sandeepan",
-     "reason": "fresh: \"places\" is already in their verdict above; make a different point",
-     "before": "Up 20 places. Tavernier did the talking.",
-     "after": "The slide ended here, and in style."
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Won Free Fall, and earned it. 20 on the bench, down from 8th.",
+     "after": "Won Free Fall, and earned it. 20 left on the bench."
     },
     {
      "item": "rating:Monty",
-     "reason": "fresh: \"jackson\" is already in their verdict above; make a different point",
-     "before": "The Doghouse has a new tenant. Mbeumo and Jackson cost 4, and the season low followed.",
-     "after": "(kept: the rewrite was worse)",
-     "still": "fresh: copies an example or an earlier line"
+     "reason": "true: numbers not in the sheet ['2']; numbers: 2 numbers, at most 1",
+     "before": "Won The Doghouse. 2 new arrivals and a hit, and 102nd is the reward.",
+     "after": "Won The Doghouse. Mbeumo and N.Jackson cost a hit, and 102nd is the reward."
     },
     {
-     "item": "headline",
-     "reason": "true: \"nobody can catch him\" is a claim SHEET doesn't support; gap is 21 and rising, not uncatchable",
-     "before": "ARORA SLIPS, BUT NOBODY CAN CATCH HIM",
-     "after": "ARORA HAS A SHOCKER, LEAD STILL GROWS"
+     "item": "rating:Sandeepan",
+     "reason": "fresh: \"tavernier\" is already in their verdict above; make a different point",
+     "before": "The 4-week funk is over. Tavernier did his bit.",
+     "after": "The funk is over. A proper bounce back from 63rd."
     },
     {
-     "item": "standfirst",
-     "reason": "fresh: opener repeats structure of other items; minor. Also \"Aditya took the week\" is supported.",
-     "before": "Haaland blanked on 92 armbands and the leader still stretched his lead. Aditya took the week.",
-     "after": "The league's captain blanked again. Aditya took the week, and Arora's lead still grew."
+     "item": "decision_of_the_week",
+     "reason": "true: says 'Bench Disaster fits' and 'a good week was sitting there', but also 'The wrong 11 started' is supported; the 'biggest wasted pile' claim is supported",
+     "before": "Krishna left 26 points on the bench, the biggest wasted pile of the week. The wrong 11 started. Gently put, a good week was sitting there and went unused. Bench Disaster fits.",
+     "after": "Krishna left 26 points on the bench, the week's biggest pile. A decent week sat unused. Bench Disaster fits."
     },
     {
-     "item": "winners:1",
-     "reason": "true: \"12 points on the bench\" is supported but \"real nerve\" verdict fine; \"Tavernier in, 20 places up\" is wrong, Sandeepan was up 20 and Tavernier was his tran",
-     "before": "Tavernier in, 20 places up. Left 12 points on the bench and still climbed. That's a transfer with real nerve behind it.",
-     "after": "Tavernier in, and Sandeepan jumped from 63rd to 43rd. A bold swap that paid off."
+     "item": "winners:2",
+     "reason": "true: claims 'Bench Boost landed' but Nihal's SHEET shows Bench Boost worth 11 points and Kinsky came in, not 'came good' as a specific claim; 'The climb to 15t",
+     "before": "Bench Boost landed and Kinsky came good. 3 weeks above the league average now. The climb to 15th looks earned, and the chip was well timed.",
+     "after": "Bench Boost was worth 11 points and Kinsky chipped in. Up to 15th, a well-timed chip."
+    },
+    {
+     "item": "rating:Karan Singh",
+     "reason": "true: 'Top prizes spot grabbed' is supported, but '7th place looks comfortable' is an unsupported forward-looking claim about the future.",
+     "before": "Top prizes spot grabbed. 7th place looks comfortable.",
+     "after": "Took the last Top prizes spot from Kshiteesh. A tidy week's work."
     },
     {
      "item": "rating:Aryan Apte",
-     "reason": "true: rating line says \"only one to back Silva\" which matches SHEET, but Captain/Rocket awards not mentioned; important miss",
-     "before": "Only one in the league to back Silva. Brave and right.",
-     "after": "Only one to back Silva. Captain of the Week and Rocket: bold call, big reward."
+     "reason": "true: 'Backed Silva alone and was right' is supported, and '5 good weeks in a row' is supported; but the item says 'alone' in a way that matches SHEET. Failing ",
+     "before": "Backed Silva alone and was right. 5 good weeks in a row.",
+     "after": "Backed Silva alone, and the armband returned 16. Lone wolf, lone genius."
     },
     {
-     "item": "rating:Yash Bhatia",
-     "reason": "true: \"a month ago\" and \"the slide has a direction\" imply a trend SHEET only partly supports; 2nd to 5th is supported",
-     "before": "5th now, down from second a month ago. The slide has a direction.",
+     "item": "rating:Zishan",
+     "reason": "fun: reads like a stats sheet with no real verdict beyond 'the table is noticing'.",
+     "before": "Quiet climb continues. 3 weeks above average and the table is noticing.",
+     "after": "Above average again, and up 10 places. Stealth mode is working."
+    },
+    {
+     "item": "rating:Kaushik",
+     "reason": "true: 'lone-wolf call' and 'paid off nicely' are fine, but 'Van Hecke armband' claim of 12 points is supported; failing for fresh as a stock 'paid off' phrasing",
+     "before": "Van Hecke armband was a lone-wolf call. It paid off nicely.",
+     "after": "Van Hecke on the armband, picked by nobody else. Brave, and it landed."
+    },
+    {
+     "item": "rating:Pranav",
+     "reason": "true: 'secret pick nobody else made' is supported, but 'It worked' gives no verdict or sting; failing on fun.",
+     "before": "Szoboszlai was a secret pick nobody else made. It worked.",
+     "after": "Szoboszlai, started by nobody else here, returned 9. Pure differential."
+    },
+    {
+     "item": "rating:Tanish",
+     "reason": "fun: 'Good stuff' is filler with no verdict or joke.",
+     "before": "A solid week, well above average. Good stuff.",
+     "after": "Comfortably above the average with no drama. Sensible squad, sensible week."
+    },
+    {
+     "item": "rating:Sagar",
+     "reason": "fun: 'Nothing flashy, all useful' is filler, no sting or verdict.",
+     "before": "A steady step up the table. Nothing flashy, all useful.",
+     "after": "A slow climb from 63rd that finally has some pace."
+    },
+    {
+     "item": "rating:Sukrut",
+     "reason": "true: 'Third place held after a season-low week' is supported by SHEET's worst-week note and up 3 places to 3rd; but 'held' implies unchanged, and he moved up 3",
+     "before": "Third place held after a season-low week. Sturdy.",
      "after": null,
      "still": "fresh: copies an example or an earlier line"
     },
     {
-     "item": "rating:Adit",
-     "reason": "fun: reads as stock phrasing with no sting beyond the award name",
-     "before": "Armband Agony winner. The captain pick did the damage here.",
-     "after": "(kept: the rewrite was worse)",
-     "still": "fresh: copies an example or an earlier line"
+     "item": "rating:Ketan",
+     "reason": "true: '4-week slump is over' is supported, '13 benched' supported; failing on fresh as stock 'Some bench regret remains' wording.",
+     "before": "The 4-week slump is over. Some bench regret remains.",
+     "after": "Below-average run broken. 13 points benched stopped it being a party."
     },
     {
-     "item": "rating:Quseem",
-     "reason": "true: says \"Barry and Van Hecke arrived\" which matches, but \"undid the work\" claims a result SHEET doesn't show",
-     "before": "Barry and Van Hecke arrived. 18 points stayed benched, which undid the work.",
-     "after": "Barry and Van Hecke arrived, but 18 points stayed benched."
+     "item": "rating:Eli",
+     "reason": "true: 'Season low, still above average' is supported, '11 benched points' is supported; failing on fun as a stats-sheet recital with no verdict.",
+     "before": "Season low, still above average. 11 benched points hurt.",
+     "after": "Worst week yet still beat the average. The 11 benched points are the grumble."
     },
     {
-     "item": "rating:Abhimanyu",
-     "reason": "kind: savage tone toward a manager not marked go_easy is acceptable, but \"rotting\" overreaches; fresh enough",
-     "before": "21 points rotting on the bench. That is where the week went.",
-     "after": "21 points stuck on the bench. That is where the week went."
+     "item": "rating:Akshat",
+     "reason": "true: 'Transfer Genius with Wirtz and Van Hecke' is supported; 'Third place holds' is supported; failing on important: misses 15 benched points and worst-week s",
+     "before": "Transfer Genius with Wirtz and Van Hecke. Third place holds.",
+     "after": "Transfer Genius, but also the worst week yet. 15 benched points rather spoiled it."
     },
     {
-     "item": "rating:Krishna",
-     "reason": "true: sheet says 26 bench points, but \"hefty haul\" and \"winner\" framing are fine; however \"Bench Disaster winner\" matches; fails kind: Krishna is marked go_easy",
-     "before": "Bench Disaster winner, with a hefty haul left unused. Better luck next week.",
-     "after": "Tough one: the bench held the week's biggest haul. Brighter days ahead."
+     "item": "rating:Aniket",
+     "reason": "fun: 'Slow movement up the table' is filler with no verdict or sting.",
+     "before": "Above average again. Slow movement up the table.",
+     "after": "Above average again, yet the table barely moved. 82nd needs a bolder move."
+    },
+    {
+     "item": "rating:Dinesh",
+     "reason": "true: 'N.Jackson cost a hit' is supported only as -7 transfers; 'slump ended' is supported. Failing on fresh as stock 'Fair result' wording.",
+     "before": "N.Jackson cost a hit, but the slump ended. Fair result.",
+     "after": "Paid a hit for N.Jackson and still ended the slump. Costly, but it worked."
+    },
+    {
+     "item": "rating:Ram",
+     "reason": "fun: stats-sheet phrasing with no verdict.",
+     "before": "3 weeks above average, and the climb keeps going.",
+     "after": "Above average again, creeping up to 43rd. Stealth climb."
+    },
+    {
+     "item": "rating:Saeel",
+     "reason": "true: 'worst so far' is supported, 'still above average' is supported; failing on fresh with the 'came in' phrasing echoing Vivek and Hardik.",
+     "before": "Evanilson came in. The week was the worst so far, but still above average.",
+     "after": "Season-worst, yet above average. The 11 benched points are the regret."
+    },
+    {
+     "item": "rating:Sundar",
+     "reason": "fun: 'Up 6 places' is stats only, no verdict or sting.",
+     "before": "A season low that still beat the average. Up 6 places.",
+     "after": "Worst week yet still beat the average. A kind week to have a bad one."
+    },
+    {
+     "item": "rating:Vidur",
+     "reason": "fun: mostly restates benched points without a verdict.",
+     "before": "12 points benched. A decent week that could have been better.",
+     "after": "Benched 12 points. A good week left on the shelf."
     }
    ],
    "usage": {
-    "in": 113845,
-    "out": 10161,
+    "in": 120516,
+    "out": 14962,
     "calls": 7
    },
-   "sent_back": 68,
+   "sent_back": 105,
    "unknown_names": [],
    "top_3": [
     {
@@ -69979,7 +70123,7 @@
      "rank": 2
     },
     {
-     "name": "Sukrut",
+     "name": "Akshat",
      "total": 742,
      "rank": 3
     }
@@ -69991,11 +70135,11 @@
     "Janit",
     "Rohan"
    ],
-   "tries": 1,
-   "sig": "346c7715accb",
-   "resigned": false,
+   "tries": 2,
+   "sig": "a8473509bc99",
+   "resigned": true,
    "bd": "ok",
-   "published": "2026-11-24T14:22:17Z"
+   "published": "2026-11-27T18:35:36Z"
   },
   "gaffer_backfill_tries": {
    "1": 1,
@@ -70011,9 +70155,9 @@
   "plots_sig_tries": {
    "da2e1f1d1a60": 1,
    "881815bcd6c9": 1,
-   "346c7715accb": 1
+   "346c7715accb": 1,
+   "a8473509bc99": 1
   },
-  "_replaced_ts": "2026-11-23T22:09:28Z",
   "gaffer_candidate": {
    "gw": 11,
    "v": 4,
@@ -73710,28 +73854,31 @@
     "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 3)",
     "({'slope': 1.15, 'cap': 1.5, 'tr': 1.0, 'bench': (0.75, 1.5), 'chip': 0.5, 'top': (2.5, 1.0)}, 4)"
    ]
-  }
+  },
+  "_replaced_ts": "2026-11-24T14:22:17Z"
  },
  "share": {
-  "key": "a53b74c87968",
+  "key": "6537e4d3d87c",
   "gw": 11,
   "files": {
-   "week": "share/gw11-a53b74c87968-week.png",
-   "motw": "share/gw11-a53b74c87968-motw.png",
-   "captain": "share/gw11-a53b74c87968-captain.png",
-   "genius": "share/gw11-a53b74c87968-genius.png",
-   "rocket": "share/gw11-a53b74c87968-rocket.png",
-   "bench": "share/gw11-a53b74c87968-bench.png",
-   "armband": "share/gw11-a53b74c87968-armband.png",
-   "gotaway": "share/gw11-a53b74c87968-gotaway.png",
-   "fall": "share/gw11-a53b74c87968-fall.png",
-   "spoon": "share/gw11-a53b74c87968-spoon.png"
+   "week": "share/gw11-6537e4d3d87c-week.png",
+   "motw": "share/gw11-6537e4d3d87c-motw.png",
+   "captain": "share/gw11-6537e4d3d87c-captain.png",
+   "genius": "share/gw11-6537e4d3d87c-genius.png",
+   "rocket": "share/gw11-6537e4d3d87c-rocket.png",
+   "bench": "share/gw11-6537e4d3d87c-bench.png",
+   "armband": "share/gw11-6537e4d3d87c-armband.png",
+   "gotaway": "share/gw11-6537e4d3d87c-gotaway.png",
+   "fall": "share/gw11-6537e4d3d87c-fall.png",
+   "spoon": "share/gw11-6537e4d3d87c-spoon.png"
   }
  },
  "checks": {
-  "ts": "2026-11-27T13:22:41Z",
+  "ts": "2026-11-27T18:35:36Z",
   "issues": [],
-  "page": []
+  "page": [
+   "line for Adit: \"Your Armband Agony with De Cuyper scored just 2 points, and Vishva's 5-point gain pulled away.\" says De Cuyper scored 2; he scored 1"
+  ]
  },
  "phase": "between",
  "plot_log": {
@@ -73745,10 +73892,10 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-24",
-    "title": "Arora's Lead Stretches",
-    "text": "Rajat Arora leads Neol 766 to 745, with the gap growing to 21 after 18 last gameweek. Arora has been top for 5 weeks this season, and Sukrut sits 24 points back in third.",
-    "next": "If Neol trims the gap, the title race could tighten again."
+    "day": "2026-11-27",
+    "title": "Arora's Lead Keeps Growing",
+    "text": "Rajat Arora's lead over Neol grew from 18 to 21 points, and he has now led for 5 weeks in this run after earlier spells at the top. Sukrut is third, 24 points off the summit.",
+    "next": "21 points. That is the cushion Neol must cut."
    }
   ],
   "underdog:4722308": [
@@ -73761,7 +73908,7 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-24",
+    "day": "2026-11-27",
     "title": "Biswadeep's Climb Stalls",
     "text": "Biswadeep has climbed 78 places from 85th in GW1 to 7th of 113 managers. After being 6th last week, a slip to 7th shows the top-5 push has hit a bump.",
     "next": "If Biswadeep wins back a place or 2, a top-5 finish stays in view."
@@ -73785,10 +73932,10 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-24",
-    "title": "Karan Singh Takes The Gap",
-    "text": "Karan Singh moved into the final top-prize place this week, with Kshiteesh dropping out. The gap between them is just 1 point, and Kshiteesh has spent 4 of the last 5 gameweeks in the zone.",
-    "next": "If Kshiteesh hits back next week, the last place could change hands again."
+    "day": "2026-11-27",
+    "title": "Karan Singh Takes The Spot",
+    "text": "Karan Singh has taken the last top-prize place from Kshiteesh, who dropped out this week. The gap between them is just 1 point, and Kshiteesh has spent 4 of the last 5 gameweeks inside the zone.",
+    "next": "Will Kshiteesh's 4 weeks of form be enough?"
    }
   ],
   "champions": [
@@ -73826,10 +73973,10 @@
    },
    {
     "gw": 11,
-    "day": "2026-11-24",
-    "title": "Maanas Still Searching",
-    "text": "Maanas has now been below the league average for 7 weeks in a row. Points dropped from 55 in GW10 to 36 in GW11, undoing some of the recent recovery.",
-    "next": "If Maanas builds on a 67 peak, the slump could finally break."
+    "day": "2026-11-27",
+    "title": "Maanas Stays Stuck",
+    "text": "Maanas has now been below the league average for 7 weeks in a row. After rising to 55 in GW10, this week's 36 wiped out that recovery and matched the GW5 total.",
+    "next": "36 points again. The slump is not over yet."
    }
   ],
   "rivalry:107315-780469": [
@@ -73844,10 +73991,10 @@
   "rivalry:780469-1541394": [
    {
     "gw": 11,
-    "day": "2026-11-24",
-    "title": "Sahil Holds Narrow Lead",
-    "text": "Sahil leads Nanik by 4 points after the gap narrowed from 9 in GW10. The pair have swapped places 8 times this season, so the lead has never been safe for long.",
-    "next": "If Nanik cuts the gap again, the next swap could come soon."
+    "day": "2026-11-27",
+    "title": "Sahil Holds, Nanik Strikes",
+    "text": "Sahil leads Nanik by 4 points, down from a 9-point lead last week after Nanik cut the gap. The 2 have swapped places 8 times this season, so neither has settled this rivalry.",
+    "next": "Does Nanik strike again, or does Sahil hold?"
    }
   ],
   "hot:4722308": [
@@ -73876,11 +74023,20 @@
     "text": "Nihal has now been above the league average for 6 weeks in a row. Points fell from 67 to 50 this week, though the streak is still going.",
     "next": "If Nihal's points rebound, the streak could stretch further."
    }
+  ],
+  "ghosts": [
+   {
+    "gw": 11,
+    "day": "2026-11-27",
+    "title": "4 Managers Gone Quiet",
+    "text": "Aritra, Rohan, Janak and Janit have all gone inactive, with Aritra the biggest slide. Aritra now sits 112th, a long way from a best of 62nd this season.",
+    "next": "Will any of the 4 wake up before the run-in?"
+   }
   ]
  },
  "pwatch": {
   "seen": {
-   "1": "d|50|Shoulder injury - 50% chance of playing",
+   "1": "d|75|Shoulder injury - 75% chance of playing",
    "31": "a|100|",
    "112": "a|100|",
    "115": "a|None|",
@@ -73930,7 +74086,7 @@
    "469": "a|100|",
    "552": "i|0|Muscular injury - Unknown return date",
    "94": "a|100|",
-   "305": "d|75|Calf injury - 75% chance of playing",
+   "305": "a|100|",
    "82": "a|None|",
    "565": "a|None|",
    "15": "a|None|",
@@ -73986,7 +74142,7 @@
    "204": "a|None|",
    "597": "a|None|",
    "60": "a|None|",
-   "403": "d|75|Hamstring injury - 75% chance of playing",
+   "403": "i|0|Hamstring injury - Unknown return date",
    "526": "a|None|",
    "650": "a|100|",
    "110": "a|None|",
@@ -74042,13 +74198,13 @@
    "173": "2026-11-21T14:07:25Z",
    "544": "2026-11-19T14:16:19Z",
    "251": "2026-11-20T11:59:23Z",
-   "403": "2026-11-22T07:10:25Z",
+   "403": "2026-11-27T18:35:36Z",
    "391": "2026-11-20T15:36:56Z",
    "388": "2026-11-21T12:12:02Z",
    "455": "2026-11-21T20:08:23Z",
-   "305": "2026-11-22T07:10:25Z",
+   "305": "2026-11-27T18:35:36Z",
    "501": "2026-11-21T17:13:42Z",
-   "1": "2026-11-23T14:31:22Z",
+   "1": "2026-11-27T18:35:36Z",
    "449": "2026-11-21T19:33:49Z",
    "367": "2026-11-25T12:37:20Z",
    "229": "2026-11-23T21:09:15Z",
@@ -74244,21 +74400,21 @@
    "173": "10:down",
    "334": "11:up",
    "127": "10:up",
-   "286": "10:down",
+   "286": "11:up",
    "411": "11:down",
    "229": "11:down",
    "60": "11:up",
    "356": "11:up",
    "569": "11:down",
    "418": "10:down",
-   "268": "10:down",
+   "268": "11:down",
    "330": "11:up",
    "552": "11:down",
    "167": "10:up",
    "566": "11:up",
    "385": "11:up",
    "412": "10:down",
-   "544": "10:down",
+   "544": "11:down",
    "399": "11:down",
    "183": "11:up",
    "305": "11:down",
@@ -74269,7 +74425,7 @@
    "496": "11:up",
    "259": "11:down",
    "480": "11:down",
-   "565": "10:down",
+   "565": "11:down",
    "26": "10:down",
    "423": "10:down",
    "277": "11:down",
@@ -74278,7 +74434,7 @@
    "156": "11:down",
    "32": "10:down",
    "502": "10:up",
-   "398": "10:down",
+   "398": "11:down",
    "279": "10:down",
    "597": "11:up",
    "605": "10:down",
@@ -74291,7 +74447,10 @@
    "499": "11:up",
    "332": "11:up",
    "401": "11:down",
-   "362": "11:up"
+   "362": "11:up",
+   "155": "11:down",
+   "13": "11:down",
+   "57": "11:up"
   },
   "log": [
    {
@@ -75452,6 +75611,78 @@
     "status": "d",
     "chance": 75,
     "news": "Illness - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 1,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Shoulder injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 155,
+    "kind": "surge",
+    "net": -29480
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 305,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 565,
+    "kind": "surge",
+    "net": -31238
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 268,
+    "kind": "surge",
+    "net": -34307
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 286,
+    "kind": "surge",
+    "net": 29662
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 398,
+    "kind": "surge",
+    "net": -26082
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 403,
+    "kind": "flag",
+    "status": "i",
+    "chance": 0,
+    "news": "Hamstring injury - Unknown return date"
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 13,
+    "kind": "surge",
+    "net": -25658
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 544,
+    "kind": "surge",
+    "net": -28933
+   },
+   {
+    "ts": "2026-11-27T18:35:36Z",
+    "el": 57,
+    "kind": "surge",
+    "net": 28253
    }
   ]
  },
@@ -75764,7 +75995,7 @@
       "Isak": 5,
       "Cherki": 1
      },
-     "rank": 6
+     "rank": 5
     }
    },
    "1325491": {
@@ -75792,7 +76023,7 @@
      "pts": {
       "Isak": 5
      },
-     "rank": 4
+     "rank": 3
     }
    },
    "3991082": {
@@ -75968,7 +76199,7 @@
      "pts": {
       "Rayan": 3
      },
-     "rank": 14
+     "rank": 12
     }
    },
    "3949616": {
@@ -76042,7 +76273,7 @@
       "Isak": 5,
       "Silva": 8
      },
-     "rank": 9
+     "rank": 7
     }
    },
    "393940": {
@@ -76079,7 +76310,7 @@
       "Gabriel": 1,
       "Barry": 2
      },
-     "rank": 13
+     "rank": 12
     }
    },
    "3214478": {
@@ -76255,7 +76486,7 @@
      "pts": {
       "Vuskovic": 0
      },
-     "rank": 23
+     "rank": 22
     }
    },
    "573491": {
@@ -76444,7 +76675,7 @@
       "Vuskovic": 0,
       "Mbeumo": 1
      },
-     "rank": 49
+     "rank": 48
     }
    },
    "1541394": {
@@ -76567,7 +76798,7 @@
       "Kinsky": 7,
       "Robertson": 1
      },
-     "rank": 42
+     "rank": 39
     }
    },
    "480904": {
@@ -76604,7 +76835,7 @@
       "Isak": 5,
       "Kinsky": 7
      },
-     "rank": 40
+     "rank": 39
     }
    },
    "698784": {
@@ -76641,7 +76872,7 @@
       "Silva": 8,
       "Vuskovic": 0
      },
-     "rank": 37
+     "rank": 36
     }
    },
    "6543092": {
@@ -76752,7 +76983,7 @@
       "Kinsky": 7,
       "Gakpo": 0
      },
-     "rank": 44
+     "rank": 43
     }
    },
    "675013": {
@@ -76937,7 +77168,7 @@
       "Kinsky": 7,
       "Gomez": 3
      },
-     "rank": 41
+     "rank": 39
     }
    },
    "4683090": {
@@ -77011,7 +77242,7 @@
       "Gabriel": 1,
       "Isak": 5
      },
-     "rank": 47
+     "rank": 46
     }
    },
    "248721": {
@@ -77104,7 +77335,7 @@
      "pts": {
       "Silva": 8
      },
-     "rank": 33
+     "rank": 32
     }
    },
    "2119331": {
@@ -77141,7 +77372,7 @@
       "Barry": 2,
       "Gomez": 3
      },
-     "rank": 62
+     "rank": 61
     }
    },
    "119217": {
@@ -77215,7 +77446,7 @@
       "Dewsbury-Hall": 2,
       "Calvert-Lewin": 9
      },
-     "rank": 51
+     "rank": 50
     }
    },
    "48343": {
@@ -77252,7 +77483,7 @@
       "Kinsky": 7,
       "Mbeumo": 1
      },
-     "rank": 58
+     "rank": 62
     }
    },
    "2932096": {
@@ -77317,7 +77548,7 @@
       "Vuskovic": 0,
       "Kinsky": 7
      },
-     "rank": 60
+     "rank": 58
     }
    },
    "26707": {
@@ -77354,7 +77585,7 @@
       "Barry": 2,
       "Isak": 5
      },
-     "rank": 70
+     "rank": 69
     }
    },
    "4540238": {
@@ -77391,7 +77622,7 @@
       "Isak": 5,
       "Calvert-Lewin": 9
      },
-     "rank": 54
+     "rank": 53
     }
    },
    "2569620": {
@@ -77428,7 +77659,7 @@
       "Barry": 2,
       "Cherki": 1
      },
-     "rank": 69
+     "rank": 67
     }
    },
    "1854010": {
@@ -77493,7 +77724,7 @@
      "pts": {
       "Manzambi": 1
      },
-     "rank": 63
+     "rank": 62
     }
    },
    "3560542": {
@@ -77530,7 +77761,7 @@
       "Hill": 14,
       "Kinsky": 7
      },
-     "rank": 45
+     "rank": 43
     }
    },
    "383029": {
@@ -77567,7 +77798,7 @@
       "Gibbs-White": 2,
       "Solanke": 7
      },
-     "rank": 67
+     "rank": 66
     }
    },
    "57776": {
@@ -77604,7 +77835,7 @@
       "Isak": 5,
       "Vuskovic": 0
      },
-     "rank": 61
+     "rank": 60
     }
    },
    "4314690": {
@@ -77641,7 +77872,7 @@
       "Cherki": 1,
       "Gakpo": 0
      },
-     "rank": 68
+     "rank": 67
     }
    },
    "2922453": {
@@ -77678,7 +77909,7 @@
       "Kinsky": 7,
       "Gomez": 3
      },
-     "rank": 70
+     "rank": 69
     }
    },
    "4592187": {
@@ -77717,7 +77948,7 @@
       "Alysson": 3,
       "Isak": 5
      },
-     "rank": 70
+     "rank": 69
     }
    },
    "10615": {
@@ -77754,7 +77985,7 @@
       "Silva": 8,
       "Vuskovic": 0
      },
-     "rank": 75
+     "rank": 74
     }
    },
    "3404613": {
@@ -77828,7 +78059,7 @@
       "Vuskovic": 0,
       "McGinn": 1
      },
-     "rank": 74
+     "rank": 75
     }
    },
    "1737924": {
@@ -77971,7 +78202,7 @@
       "Gabriel": 1,
       "Jacquet": 6
      },
-     "rank": 83
+     "rank": 82
     }
    },
    "3350036": {
@@ -78073,7 +78304,7 @@
      "pts": {
       "Manzambi": 1
      },
-     "rank": 84
+     "rank": 82
     }
    },
    "699330": {
@@ -78147,7 +78378,7 @@
       "Barcola": 5,
       "Kinsky": 7
      },
-     "rank": 80
+     "rank": 79
     }
    },
    "4905114": {
@@ -78184,7 +78415,7 @@
       "Tarkowski": -4,
       "Mbeumo": 1
      },
-     "rank": 97
+     "rank": 96
     }
    },
    "3389995": {
@@ -78221,7 +78452,7 @@
       "Barry": 2,
       "Isak": 5
      },
-     "rank": 89
+     "rank": 88
     }
    },
    "2037953": {
@@ -78295,7 +78526,7 @@
       "Cherki": 1,
       "Calvert-Lewin": 9
      },
-     "rank": 89
+     "rank": 88
     }
    },
    "686561": {
@@ -78406,7 +78637,7 @@
       "Isak": 5,
       "Manzambi": 1
      },
-     "rank": 94
+     "rank": 93
     }
    },
    "8603432": {
@@ -78628,7 +78859,7 @@
       "Barry": 2,
       "Hill": 14
      },
-     "rank": 97
+     "rank": 96
     }
    },
    "4616626": {

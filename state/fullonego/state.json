@@ -9243,6 +9243,34 @@
  ],
  "stories": [
   {
+   "key": "news:1:Shoulder injury - 75% chance of playing",
+   "kind": "news",
+   "tag": "News",
+   "head": "Injury watch: Raya fitness doubt",
+   "body": "Raya has a shoulder injury and is rated at 75% to play. 10 of you own him, so check before the deadline.",
+   "stat": "75% to play",
+   "score": 45,
+   "who": [
+    224457,
+    748886,
+    1310155,
+    1979363,
+    2994764,
+    3188980,
+    3234443,
+    3504829,
+    5772383,
+    10320954
+   ],
+   "ts": "2026-11-27T18:40:21Z",
+   "gw": 11,
+   "plain": {
+    "head": "Injury watch: Raya",
+    "body": "Shoulder injury - 75% chance of playing. 10 of you own him."
+   },
+   "ai": true
+  },
+  {
    "key": "d11:lone-wolves",
    "kind": "deadline",
    "tag": "Captains",
@@ -9495,7 +9523,8 @@
   "w11:hit:3234443",
   "w11:zones",
   "news:1:Shoulder injury - 50% chance of playing",
-  "news:165:Thigh injury - Unknown return date"
+  "news:165:Thigh injury - Unknown return date",
+  "news:1:Shoulder injury - 75% chance of playing"
  ],
  "done": [
   "deadline:11",
@@ -10784,77 +10813,73 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-27T13:22:56Z",
+ "updated": "2026-11-27T18:40:21Z",
  "ai": {
   "column": {
-   "headline": "Shantanu storms the table as Sukrut holds firm",
-   "text": "Shantanu hauled 65 points to win GW11 and climb from 22nd to 20th, the standout week of the season so far. At the top, Sukrut still leads on 742, 24 clear of Aditya Dalal, with Prerana only 3 further back. Aryamann's 52 pushed him up to 4th, and Aary's 8-point hit for Groß, De Cuyper and N.Jackson has to pay off after returning 25. Haaland was the house captain for 15 managers and scored just 2, so lone-wolf picks made the drama.",
-   "ts": "2026-11-27T12:53:26Z",
+   "headline": "Shantanu storms up as Haaland armband backfires",
+   "text": "Shantanu was the story of the week, hauling 65 points to climb from 22nd to 20th and spark a wild week. At the top, Sukrut still leads on 742, 24 ahead of Aditya Dalal, while Prerana sits 3 further back. Aary's 8-point hit for Groß, De Cuyper and N.Jackson has to pay off after returning 25. Haaland was the house captain for 15 managers and scored just 2, so the lone-wolf armband picks made the drama.",
+   "ts": "2026-11-27T18:40:21Z",
    "gw": 11
   },
   "history": [
+   "GW11 between: Shantanu storms up as Haaland armband backfires. Shantanu was the story of the week, hauling 65 points to climb from 22nd to 20th and spark a wild week. At the top, Sukrut still leads on 742, 24 ahead of Aditya Dalal, while Prerana sits 3 further back. Aary's 8-point hit for Groß, De Cuyper and N.Jackson has to pay off after returning 25. Haaland was the house captain for 15 managers and scored just 2, so the lone-wolf armband picks made the drama.",
    "GW11 between: Shantanu storms the table as Sukrut holds firm. Shantanu hauled 65 points to win GW11 and climb from 22nd to 20th, the standout week of the season so far. At the top, Sukrut still leads on 742, 24 clear of Aditya Dalal, with Prerana only 3 further back. Aryamann's 52 pushed him up to 4th, and Aary's 8-point hit for Groß, De Cuyper and N.Jackson has to pay off after returning 25. Haaland was the house captain for 15 managers and scored just 2, so lone-wolf picks made the drama.",
    "GW11 between: Shantanu storms the table as Sukrut holds on top. Shantanu hauled 65 points to win GW11 and climb from 22nd to 20th, the standout performance of the week. At the top, Sukrut still leads on 742 with a 24-point cushion over Aditya Dalal, and Aryamann's 52 lifted him to 4th. Aary's 8-point hit for Groß, De Cuyper and N.Jackson is the first thing he now has to justify. Haaland was the house captain for most of the league, so the lone-wolf picks made the drama.",
    "GW11 between: Shantanu storms in as Sukrut keeps the top spot. Shantanu hauled 65 points to win the week and climb from 22nd to 20th, while Sukrut still sits top on 742 with a 24-point cushion over Aditya Dalal. Aryamann's 52 lifted him up to 4th, and Aary's 8-point hit for Groß, De Cuyper and N.Jackson will be the first thing he has to justify. Haaland was the house captain for almost everyone, so the lone-wolf picks decided the drama."
   ],
   "preview": {
-   "headline": "Gameweek 12: the title chase tightens at the top",
+   "headline": "What's at stake for gameweek 12",
    "points": [
     {
-     "label": "Title race",
-     "text": "Sukrut leads on 742, but Aditya Dalal is 24 behind and Prerana only 3 further back. One good week changes everything."
-    },
-    {
      "label": "Armband dilemma",
-     "text": "Haaland has been captained by 15 managers and returned 2. Expect more armband agony before the deadline in 5.6 hours."
+     "text": "Haaland was captained by 15 managers and returned just 2. Expect some managers to chase a different captain this time."
     },
     {
      "label": "Injury sweat",
-     "text": "Raya is at 50% and João Pedro has an unknown return date, both owned in the league, so check your XI before the deadline."
+     "text": "Raya is at 75% to play and 10 of you own him. Check his fitness before the deadline."
     },
     {
      "label": "Chips loaded",
-     "text": "Dharap has only the Wildcard left, while Aary has just the Bench Boost, so expect late chip decisions."
+     "text": "Aditya Dharap has only wildcard left, while Aary has only bench boost. Both could be decisive in the coming weeks."
     }
    ],
    "gw": 12,
-   "ts": "2026-11-27T12:53:26Z"
+   "ts": "2026-11-27T18:40:21Z"
   },
   "briefings": {
-   "3991082": "You sit top on 742, 24 clear of Aditya Dalal, so keep your nerve. Watch Prerana and Aditya Dalal, who are both closing in.",
-   "6543415": "You are 2nd on 718, 24 behind Sukrut and 3 ahead of Prerana. Watch Prerana and push for a lead over Sukrut next week.",
-   "8849458": "You are 3rd on 715, 3 behind Aditya Dalal and 27 behind Sukrut. Watch Aditya Dalal and Aryamann, who is 25 behind you.",
-   "3504829": "You climbed from 7th to 4th with 52 points, and Prerana is only 25 ahead. Your N.Jackson captain returned 2, so decide whether to keep backing him or switch.",
-   "2994764": "You are 5th on 684, 6 behind Aryamann and 12 ahead of Aryan. Watch Aryamann and your 18 bench points this week.",
-   "1310155": "You are 6th on 672, 12 behind Anuj and 7 ahead of Kalash. Watch Kalash, who is closing in, and make your next move count.",
-   "224457": "You are 7th on 665, 7 behind Aryan and 4 ahead of Arya. Watch Arya and Aryan, who are both within reach.",
-   "5703947": "You are 8th on 661 after a 41, 4 behind Kalash and 8 ahead of Pruthviraj. Watch Kalash and keep your captain on track.",
-   "8893621": "You are 9th on 653, 8 behind Arya and 10 ahead of Atharva Kshirsagar. Watch Arya and your 9 bench points.",
-   "2784861": "You are 10th on 643, 10 behind Pruthviraj and 1 ahead of Aditya Dharap. Watch Aditya Dharap, who is 1 behind you, and fix your 36 bench points.",
-   "3234443": "You are 11th on 642 after a 41, 1 behind Atharva Kshirsagar and 9 ahead of Atharva Singh. Watch Atharva Kshirsagar and your remaining Wildcard.",
-   "5772383": "You are 12th on 633, 9 behind Aditya Dharap and 1 ahead of Parth. Watch Parth, who is 1 behind, and your Bench Boost.",
-   "6519111": "You are 13th on 632 after a 47, 1 behind Atharva Singh and 3 ahead of Sujal. Watch Atharva Singh and Sujal as they close.",
-   "748886": "You are 15th on 626, 3 behind Sujal and 10 ahead of Sahil Phadnis. Watch Sujal and your remaining 3xc.",
-   "7244060": "You are 16th on 616, 10 behind Aarin and 14 ahead of Nihar. Watch Aarin and Nihar, and your Evanilson captaincy.",
-   "5781412": "You are 17th on 602, 14 behind Sahil Phadnis and 11 ahead of Sudev. Watch Sudev and fix your 18 bench points.",
+   "3991082": "You top the table on 742 and scored 43 this week, with Aditya Dalal 24 behind. Watch the threat from Aditya Dalal and Prerana, who are close enough to snatch the lead.",
+   "6543415": "You sit 2nd on 718, 24 behind Sukrut and 3 clear of Prerana. Your 37 keeps you in the race, so look for a push at the top.",
+   "8849458": "You are 3rd on 715 after a 39 week, just 3 behind Aditya Dalal. Prerana, the chase from Aryamann is 25 behind you, so keep your eye on the gap above.",
+   "3504829": "You climbed to 4th with a strong 52, now 25 behind Prerana. Your N.Jackson captain returned only 2, so next week needs a stronger armband call.",
+   "2994764": "You are 5th on 684 after a quiet 28. Aryamann is 6 ahead and Aryan is 12 behind, so every point matters in gameweek 12.",
+   "1310155": "You are 6th on 672 after a 24 week, 12 behind Anuj. Kalash is 7 behind you, so a good week could lift you back up the table.",
+   "224457": "You are 7th on 665 after a 24 week, 7 behind Aryan. Arya sits 4 behind you, so watch that gap closely.",
+   "5703947": "You are 8th on 661 after a strong 41 week, though your Groß captain returned 8. Kalash is 4 ahead, so a good run keeps you climbing.",
+   "8893621": "You are 9th on 653 after a 33 week, 8 behind Arya. Atharva Kshirsagar is 10 behind you, so hold your position.",
+   "3234443": "You climbed to 11th on 638 after a 41 week, despite a 4-point hit. Atharva Kshirsagar is 5 ahead, so you have a real chance to close in.",
+   "5772383": "You are 12th on 633 after a 28 week, 5 behind Aditya Dharap. Parth sits 1 behind you, so watch for a late charge from below.",
+   "6519111": "You climbed to 13th on 632 after a strong 47 week, now 1 behind Atharva Singh. Sujal is 3 behind, so keep the momentum going.",
+   "748886": "You are 15th on 626 after a 35 week, 3 behind Sujal. Sahil Phadnis is 10 behind, so keep the gap manageable.",
+   "7244060": "You are 16th on 616 after a 39 week, and your Evanilson captain returned 12. Nihar is 14 behind, so keep chasing upwards.",
+   "5781412": "You are 17th on 602 after a 31 week, 14 behind Sahil Phadnis. Sudev is 11 behind you, so hold on to your spot.",
    "4979869": "You are 18th on 591, 11 behind Nihar and 16 ahead of Pradnyesh. Watch Nihar and Pradnyesh.",
-   "4875847": "You are 19th on 575 after a 51, 16 behind Sudev and 8 ahead of Shantanu. Watch Shantanu, who is closing fast.",
-   "8824397": "You are 20th on 567 after a 65, 8 behind Pradnyesh and 21 ahead of Omkar. Keep the momentum going and watch Pradnyesh.",
-   "5733897": "You are 21st on 546, 21 behind Shantanu and 15 ahead of Sahil Gore. Watch Sahil Gore and try to climb.",
-   "9004622": "You are 22nd on 531, 15 behind Omkar and 26 ahead of Aary. Watch Omkar and recover some ground.",
-   "3188980": "You are 23rd on 505, 26 behind Sahil Gore and 12 ahead of Rushikesh. Your -8 hit must pay off, so watch Rushikesh.",
-   "10320954": "You are 24th on 493 after a 42, 12 behind Aary at the bottom. Watch Aary and build from here.",
-   "1979363": "You are 14th on 629, 3 behind Parth and 3 ahead of Aarin. Watch Aarin and your Wildcard options."
+   "4875847": "You are 19th on 575 after a 51 week, though 21 points sat on your bench. Shantanu is 8 behind you, so a strong week could carry you on.",
+   "8824397": "You are 20th on 567 after a superb 65 week, the best of the gameweek. Pradnyesh is 8 ahead, so keep up the surge.",
+   "5733897": "You are 21st on 546 after a 39 week, 21 behind Shantanu. Sahil Gore is 15 behind, so hold your position.",
+   "9004622": "You are 22nd on 531 after a 26 week, 15 behind Omkar. Aary is 34 behind you, so a quiet week keeps you in the pack.",
+   "3188980": "You are 23rd on 497 after a 25 week, with an 8-point hit to justify. Rushikesh is 4 behind you, so the pressure is on.",
+   "10320954": "You are 24th on 493 after a 42 week, 4 ahead of nobody above you but Aary sits 4 ahead. Watch for your chance to climb.",
+   "1979363": "You are 14th on 629 after a 22 week, 3 behind Parth. Aarin sits 3 behind you, so a fightback is needed."
   },
   "key": "11:between",
-  "ts": "2026-11-27T12:53:26Z",
+  "ts": "2026-11-27T18:40:21Z",
   "usage": {
    "11": {
-    "in": 165551,
-    "out": 39657,
-    "calls": 16,
-    "refreshes": 6,
-    "plots": 2
+    "in": 196244,
+    "out": 47090,
+    "calls": 20,
+    "refreshes": 7,
+    "plots": 3
    }
   },
   "plots_v_tries": {
@@ -10862,57 +10887,18 @@
   },
   "plots": [
    {
-    "id": "hot:6543415",
-    "title": "The Streak Wobbles",
-    "status": "Heating up",
-    "text": "Aditya Dalal has been above the league average for 10 weeks in a row, with 112 points in GW2 and 37 in GW11. His GW11 score is the lowest of the whole run, so the streak is now under real pressure.",
-    "next": "If the points stay low, the run could end and the streak could be settled.",
-    "who": [
-     6543415
-    ],
-    "kind": "hot streak",
-    "episode": 1,
-    "gw": 11,
-    "ts": "2026-11-25T08:05:20Z",
-    "question": "How long can Aditya Dalal stay hot?",
-    "line": [
-     [
-      "GW7",
-      "82 pts"
-     ],
-     [
-      "GW8",
-      "55 pts"
-     ],
-     [
-      "GW9",
-      "60 pts"
-     ],
-     [
-      "GW10",
-      "61 pts"
-     ],
-     [
-      "GW11",
-      "37 pts"
-     ]
-    ],
-    "since": 11,
-    "streak": 10
-   },
-   {
     "id": "bench:2784861",
-    "title": "Bench Blunders Pile Up",
+    "title": "Bench Blunders Mount",
     "status": "Building",
-    "text": "Atharva Kshirsagar has left 216 points on the bench this season, while the league average is 89. The bench keeps costing him, and the season-long question of picking the right 11 is still open.",
-    "next": "If the bench keeps costing points, the curse could become the league's talking point.",
+    "text": "Atharva Kshirsagar has left 216 points on the bench this season, more than double the league average of 89. The question is whether the team sheet will ever get it right.",
+    "next": "",
     "who": [
      2784861
     ],
     "kind": "bench curse",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-25T08:05:20Z",
+    "ts": "2026-11-27T18:40:21Z",
     "question": "Will Atharva Kshirsagar ever pick the right 11?",
     "line": [],
     "since": 11,
@@ -10920,17 +10906,17 @@
    },
    {
     "id": "underdog:3504829",
-    "title": "Aryamann Keeps Climbing",
+    "title": "Aryamann's Relentless Climb",
     "status": "Heating up",
-    "text": "Aryamann started GW2 in 20th place and now sits 4th out of 24, climbing 16 places since. The rise has been steady, with 8th in GW8, 7th in GW10 and 4th in GW11.",
-    "next": "If the climb continues, a place in the top 3 could be within reach.",
+    "text": "Aryamann has climbed from 20th in GW2 to 4th now, 16 places in total. A 3-place jump in GW11 alone shows the climb is still gaining pace.",
+    "next": "",
     "who": [
      3504829
     ],
     "kind": "underdog",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-25T08:05:20Z",
+    "ts": "2026-11-27T18:40:21Z",
     "question": "How high can Aryamann go?",
     "line": [
      [
@@ -10962,11 +10948,50 @@
     "streak": null
    },
    {
+    "id": "hot:6543415",
+    "title": "Streak Hits a Low",
+    "status": "Twist",
+    "text": "Aditya Dalal's 8-week run above the league average is still alive, but 37 points in GW11 is the lowest score of the streak.",
+    "next": "Can Aditya Dalal bounce back from 37?",
+    "who": [
+     6543415
+    ],
+    "kind": "hot streak",
+    "episode": 1,
+    "gw": 11,
+    "ts": "2026-11-27T18:40:21Z",
+    "question": "How long can Aditya Dalal stay hot?",
+    "line": [
+     [
+      "GW7",
+      "82 pts"
+     ],
+     [
+      "GW8",
+      "55 pts"
+     ],
+     [
+      "GW9",
+      "60 pts"
+     ],
+     [
+      "GW10",
+      "61 pts"
+     ],
+     [
+      "GW11",
+      "37 pts"
+     ]
+    ],
+    "since": 11,
+    "streak": 8
+   },
+   {
     "id": "chase:3234443",
-    "title": "The Gap Shrinks to One",
+    "title": "One Point Separates Them",
     "status": "Heating up",
-    "text": "Aditya Dharap has cut Atharva Kshirsagar's lead from 44 in GW8 to just 1 in GW11. Atharva is still ahead, but the gap has been shrinking every week.",
-    "next": "If Aditya Dharap gets past Atharva, the chase could flip in a single gameweek.",
+    "text": "Atharva Kshirsagar leads Aditya Dharap by just 1 point, after the gap fell from 44 in GW8 to 11 in GW10 and then to 1 in GW11.",
+    "next": "1 point. That's all.",
     "who": [
      3234443,
      2784861
@@ -10974,7 +10999,7 @@
     "kind": "chaser",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-25T08:05:20Z",
+    "ts": "2026-11-27T18:40:21Z",
     "question": "Can Aditya Dharap catch Atharva Kshirsagar?",
     "line": [
      [
@@ -10999,10 +11024,10 @@
    },
    {
     "id": "title",
-    "title": "Sukrut Pulls Clear",
+    "title": "Sukrut's Lead Widens",
     "status": "Building",
-    "text": "Sukrut leads on 742 points, 24 ahead of Aditya Dalal on 718, and that gap has grown from 18. Sukrut has now been top for 3 weeks in a row, and the lead has changed hands 5 times this season.",
-    "next": "If Aditya Dalal, who led in GW7 and GW8, can win points back, the crown could be contested again.",
+    "text": "Sukrut leads on 742, 24 points clear of Aditya Dalal on 718, after the gap grew from 18 last week. The lead has changed hands 5 times this season.",
+    "next": "Prerana is 27 back. Can anyone reel Sukrut in?",
     "who": [
      3991082,
      6543415
@@ -11010,7 +11035,7 @@
     "kind": "title race",
     "episode": 1,
     "gw": 11,
-    "ts": "2026-11-25T08:05:20Z",
+    "ts": "2026-11-27T18:40:21Z",
     "question": "Who can hold the crown?",
     "line": [
      [
@@ -11034,48 +11059,48 @@
     "streak": null
    }
   ],
-  "plots_ts": "2026-11-25T08:05:20Z",
+  "plots_ts": "2026-11-27T18:40:21Z",
   "plots_key": "11:between",
   "plots_v": 8,
-  "plots_sig": "7233dbac4912",
+  "plots_sig": "c27a006d358c",
   "gaffer_draft": {
    "gw": 11,
    "v": 3,
-   "ts": "2026-11-25T07:35:21Z",
+   "ts": "2026-11-27T18:40:21Z",
    "model": "claude-sonnet-5-5",
    "draft": true,
    "piece": {
-    "headline": "HAALAND BLANKS, Sukrut Stretches the Lead",
-    "standfirst": "",
-    "big_picture": "15 of 24 managers captained Haaland. He scored 2, so 4 each with the armband. The best of the 9 who went elsewhere: Pradnyesh with Tavernier, 16 with the armband. Rocket: Aryamann (Up 3). Now 4th.",
-    "decision_of_the_week": "Atharva Kshirsagar picked the wrong 11 and left 36 points on the bench. The biggest bench loss of the week. The squad was fine, the team sheet was not.",
-    "one_to_watch": "Shantanu and Pradnyesh are 8 points apart at the Tin Pot line. One good week from Shantanu could swap them over.",
+    "headline": "HAALAND BLANKS AGAIN, SUKRUT STRETCHES CLEAR",
+    "standfirst": "15 armbands on Haaland, a 2-point return, and the leader still pulls further ahead.",
+    "big_picture": "Haaland blanked for the second week running and the armband crowd paid. Sukrut was one of them, yet his lead over Aditya Dalal grew to 24. Dalal's long hot streak finally cooled. Pradnyesh's Tavernier call shows what going elsewhere could pay.",
+    "decision_of_the_week": "Aryamann swapped Mbeumo and Kostoulas for Wirtz and Evanilson. Best transfer of the week, and a big reason for the move into the Gold spots.",
+    "one_to_watch": "Aryamann and Anuj are split by 6 points at the Gold spots line. If Aryamann's new signings keep delivering, he could stay ahead. If Anuj fixes his bench, the gap could close fast.",
     "winners": [
      {
       "name": "Aryamann",
-      "verdict": "Wirtz and Evanilson in, Mbeumo and Kostoulas out. The swap paid 18 points. Gold spots are in reach now."
+      "verdict": "Up to 4th, with Wirtz and Evanilson doing the work. The Gold spots are in sight."
      },
      {
       "name": "Pradnyesh",
-      "verdict": "The only manager to back Tavernier with the armband. 16 points with the armband, and that was pure nerve. Bold, brave and paid for."
+      "verdict": "Tavernier with the armband, and nobody else picked him. Nerve rewarded. Still 19th for now."
      },
      {
       "name": "Arya",
-      "verdict": "Started A.Becker when nobody else did, and he returned 7 points. One lone pick, and it landed."
+      "verdict": "A.Becker was started by nobody else here, and returned 7. A quiet pick that paid off."
      }
     ],
     "losers": [
      {
       "name": "Aryan",
-      "verdict": "Brought in McGinn and Dasilva and took a hit for it. The swap cost 6 points. Bad call."
+      "verdict": "A 5-week run above average ended. The 6 points paid on McGinn and Dasilva made it worse."
      },
      {
       "name": "Aary",
-      "verdict": "A hit for 3 new faces, then Lewis-Potter scored 16 after being sold. Rotten luck, though the hit was a gamble that failed."
+      "verdict": "Sold Lewis-Potter, who then hauled. Cruel timing. 6 weeks below average now, so a gentle word: better days are possible."
      },
      {
       "name": "Anuj",
-      "verdict": "Out of the Gold spots after a selection week to forget. Third a few weeks back, now 5th."
+      "verdict": "18 points sat on the bench while the Gold spots slipped away. Third a month ago, and the slide is hard to ignore."
      }
     ]
    },
@@ -11084,7 +11109,7 @@
      "name": "Aryamann",
      "rating": 9,
      "points": 52,
-     "line": "5 weeks above average. The Rocket suits this run.",
+     "line": "5 straight weeks above average, and the Gold spots now in reach.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11114,7 +11139,7 @@
      "name": "Pradnyesh",
      "rating": 7,
      "points": 51,
-     "line": "Nobody else started Suzuki either. Still 19th, but the week lifted spirits.",
+     "line": "Backed Suzuki alone. It paid off, so expect a victory lap.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11140,7 +11165,7 @@
      "name": "Arya",
      "rating": 7,
      "points": 41,
-     "line": "Up a place to 8th, with a lone pick that landed.",
+     "line": "Worst week of the season, still above average. A good problem to have.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11162,8 +11187,8 @@
      "name": "Sukrut",
      "rating": 6,
      "points": 43,
-     "line": "Still top, and further clear. Silva, a private pick, returned 8.",
-     "plain": false,
+     "line": "43 points, 7 above the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -11184,7 +11209,7 @@
      "name": "Rushikesh",
      "rating": 6,
      "points": 42,
-     "line": "Kayode, picked by nobody else, returned 6. A pick that was theirs alone.",
+     "line": "Kayode, a private punt, landed. Expect a smug message in the group chat.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11206,8 +11231,8 @@
      "name": "Aditya Dharap",
      "rating": 6,
      "points": 41,
-     "line": "41 points, 5 above the league average.",
-     "plain": true,
+     "line": "Climbing again, with Jacquet as the secret weapon. Momentum is real.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -11240,7 +11265,7 @@
      "name": "Prerana",
      "rating": 6,
      "points": 39,
-     "line": "Third place held through a season-worst week.",
+     "line": "Third a month running, but this was the worst week of the season. A wobble.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11262,8 +11287,8 @@
      "name": "Sahil Phadnis",
      "rating": 6,
      "points": 39,
-     "line": "39 points, 3 above the league average.",
-     "plain": true,
+     "line": "Evanilson at the armband, alone. Brave call, and it came good.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -11288,8 +11313,8 @@
      "name": "Aditya Dalal",
      "rating": 5,
      "points": 37,
-     "line": "37 points, 1 above the league average.",
-     "plain": true,
+     "line": "8 weeks above average, though the lowest score of the run.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -11310,8 +11335,8 @@
      "name": "Sudev",
      "rating": 5,
      "points": 31,
-     "line": "31 points, 5 below the league average.",
-     "plain": true,
+     "line": "Below average for a 4th week running. Time to stop the slide.",
+     "plain": false,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -11332,7 +11357,7 @@
      "name": "Aarin",
      "rating": 4,
      "points": 35,
-     "line": "Slipping again, down to 15th. Benched points did not help.",
+     "line": "Slipped from 9th a month ago, and the drift has not stopped.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11362,7 +11387,7 @@
      "name": "Atharva Kshirsagar",
      "rating": 3,
      "points": 31,
-     "line": "The wrong 11 started, and 36 points sat on the bench.",
+     "line": "Wrong 11 again. Those benched points make painful reading.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11388,7 +11413,7 @@
      "name": "Nihar",
      "rating": 3,
      "points": 31,
-     "line": "Solanke was a solo pick. 5 weeks below average.",
+     "line": "Solanke paid 7 as a lone pick. The bench then gave it back.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11414,7 +11439,7 @@
      "name": "Atharva Singh",
      "rating": 3,
      "points": 28,
-     "line": "3 new faces arrived, and the hit came with them. The transfers did not pay for themselves.",
+     "line": "The Jackson transfer came with a hit attached. Pricey tinkering.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11440,7 +11465,7 @@
      "name": "Kalash",
      "rating": 3,
      "points": 24,
-     "line": "A Haaland armband sank a decent run. Down to 7th.",
+     "line": "The season's worst week, from a manager who was 6th a month ago.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11466,8 +11491,8 @@
      "name": "Sujal",
      "rating": 3,
      "points": 22,
-     "line": "Doghouse and Free Fall in one week. 3 weeks below average.",
-     "plain": false,
+     "line": "22 points, 14 below the league average.",
+     "plain": true,
      "breakdown": {
       "start": 5.5,
       "parts": [
@@ -11492,7 +11517,7 @@
      "name": "Anuj",
      "rating": 2,
      "points": 28,
-     "line": "18 points benched and the Gold spots gone. A costly selection week.",
+     "line": "Was 3rd a month ago. The bench left points behind.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11522,7 +11547,7 @@
      "name": "Aary",
      "rating": 2,
      "points": 25,
-     "line": "6 weeks below average. Selling Lewis-Potter stings most.",
+     "line": "Thiaw, started by nobody else here, scored 7. One pick to be glad of.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11552,7 +11577,7 @@
      "name": "Aryan",
      "rating": 2,
      "points": 24,
-     "line": "Dropped from a steady top 6. A season-worst week, and the transfer hit made it harder.",
+     "line": "5 weeks above average, then the season's worst week arrived.",
      "plain": false,
      "breakdown": {
       "start": 5.5,
@@ -11581,193 +11606,170 @@
    ],
    "editor": [
     {
-     "item": "losers:1",
-     "reason": "numbers: 3 numbers, at most 2",
-     "before": "A 14-point hit for 3 new faces, then Lewis-Potter went and scored 16 after being sold. Rotten luck, but the hit was a gamble that failed.",
-     "after": "A hit for 3 new faces, then Lewis-Potter scored 16 after being sold. Rotten luck, though the hit was a gamble that failed."
-    },
-    {
-     "item": "rating:Aryamann",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "5 weeks above average and a climb to 4th. The Rocket suits this run.",
-     "after": "5 weeks above average. The Rocket suits this run."
-    },
-    {
      "item": "rating:Sudev",
      "reason": "numbers: 2 numbers, at most 1",
-     "before": "4 weeks below average now. 18th is starting to feel like home.",
-     "after": null,
-     "still": "numbers: 2 numbers, at most 1"
+     "before": "4 weeks below average now. The slide to 18th needs stopping.",
+     "after": "Below average for a 4th week running. Time to stop the slide."
     },
     {
      "item": "rating:Aarin",
      "reason": "numbers: 2 numbers, at most 1",
-     "before": "Slipping again, down to 15th. 11 points sat on the bench for nothing.",
-     "after": "Slipping again, down to 15th. Benched points did not help."
-    },
-    {
-     "item": "rating:Atharva Singh",
-     "reason": "numbers: 2 numbers, at most 1",
-     "before": "3 new faces and a 13-point hit. The transfers cost far more than they gave.",
-     "after": "3 new faces arrived, and the hit came with them. The transfers did not pay for themselves."
+     "before": "Down from 9th to 15th in a month. A steady drift the wrong way.",
+     "after": "Slipped from 9th a month ago, and the drift has not stopped."
     },
     {
      "item": "rating:Kalash",
      "reason": "numbers: 2 numbers, at most 1",
-     "before": "6th to 7th and falling. A Haaland armband sank a decent run.",
-     "after": "A Haaland armband sank a decent run. Down to 7th."
+     "before": "Dropped from 6th to 7th in a month. The worst week of the season.",
+     "after": "The season's worst week, from a manager who was 6th a month ago."
     },
     {
-     "item": "rating:Aary",
-     "reason": "true: numbers not in the sheet ['16']; numbers: 2 numbers, at most 1",
-     "before": "6 weeks below average. Sold the player who scored 16, which stings.",
-     "after": "6 weeks below average. Selling Lewis-Potter stings most."
+     "item": "rating:Sujal",
+     "reason": "fresh: copies an example or an earlier line",
+     "before": "A free fall to 14th, with the lowest score of the week. Doghouse earned.",
+     "after": null,
+     "still": "fresh: copies an example or an earlier line"
     },
     {
-     "item": "losers:2",
-     "reason": "fresh: repeats 18 from winners:0; say something new",
-     "before": "Slipped out of the Gold spots after leaving 18 points on the bench. A week of selection regret for someone who was top not long ago.",
-     "after": "Out of the Gold spots after a selection week to forget. Third a few weeks back, now 5th."
+     "item": "rating:Anuj",
+     "reason": "numbers: 2 numbers, at most 1",
+     "before": "Once 3rd, now 5th. The bench ate the week.",
+     "after": "Was 3rd a month ago. The bench left points behind."
     },
     {
-     "item": "rating:Pradnyesh",
-     "reason": "fresh: \"tavernier\" is already in their verdict above; make a different point",
-     "before": "Tavernier was a lone-wolf punt that landed. 19th place may not last long.",
-     "after": "Nobody else started Suzuki either. Still 19th, but the week lifted spirits."
+     "item": "big_picture",
+     "reason": "fresh: repeats 15 from standfirst; say something new",
+     "before": "Haaland blanked for the second week running, and 15 of 24 captained him. Sukrut was among them, yet his lead grew to 24. Dalal's long hot streak finally cooled. 2 weeks of Haaland pain, and the title race is quietly slipping away.",
+     "after": "Haaland blanked for the second week running and the armband crowd paid. Sukrut was one of them, yet his lead over Aditya Dalal grew to 24. Dalal's long hot streak finally cooled. Pradnyesh's Tavernier call shows what going elsewhere could pay."
+    },
+    {
+     "item": "decision_of_the_week",
+     "reason": "fresh: repeats 18 from losers:2; say something new",
+     "before": "Aryamann swapped Mbeumo and Kostoulas for Wirtz and Evanilson. It paid 18 points on the swap and lifted the climb into the top 4. Bold, sharp and rewarded. The best transfer of the week.",
+     "after": "Aryamann swapped Mbeumo and Kostoulas for Wirtz and Evanilson. Best transfer of the week, and a big reason for the move into the Gold spots."
+    },
+    {
+     "item": "rating:Aryamann",
+     "reason": "fresh: \"climb\" is already in their verdict above; make a different point",
+     "before": "5 straight weeks above average. The climb is no fluke now.",
+     "after": "5 straight weeks above average, and the Gold spots now in reach."
     },
     {
      "item": "rating:Arya",
      "reason": "fresh: \"becker\" is already in their verdict above; make a different point",
-     "before": "A.Becker was a pick nobody else dared. Smart, and it lifted a mid-table run.",
-     "after": "Up a place to 8th, with a lone pick that landed."
-    },
-    {
-     "item": "rating:Anuj",
-     "reason": "fresh: \"selection\" is already in their verdict above; make a different point",
-     "before": "18 points benched and the Gold spots gone. A costly selection week.",
-     "after": "(kept: the rewrite was worse)",
-     "still": "numbers: 2 numbers, at most 1"
+     "before": "A.Becker came in unnoticed and scored 7. Smart, low-key business.",
+     "after": "Worst week of the season, still above average. A good problem to have."
     },
     {
      "item": "rating:Aryan",
-     "reason": "fresh: \"mcginn\" is already in their verdict above; make a different point",
-     "before": "Dropped from a steady top 6. Season-worst, and the McGinn move did not help.",
-     "after": "Dropped from a steady top 6. A season-worst week, and the transfer hit made it harder."
+     "reason": "fresh: \"brought\" is already in their verdict above; make a different point",
+     "before": "Top-6 regular, but this week brought a blank. Bounce back is due.",
+     "after": "5 weeks above average, then the season's worst week arrived."
     },
     {
      "item": "headline",
-     "reason": "true: \"Sukrut Barely Notices\" is an unsupported claim; sheet shows he stretched the lead, not an attitude.",
-     "before": "HAALAND BLANKS, Sukrut Barely Notices",
-     "after": "HAALAND BLANKS, Sukrut Stretches the Lead"
+     "reason": "true: 'SUKRUT SURVIVES' implies a threat SHEET doesn't show; 'AGAIN' fine but tone unsupported",
+     "before": "HAALAND BLANKS AGAIN, BUT SUKRUT SURVIVES",
+     "after": "HAALAND BLANKS AGAIN, SUKRUT STRETCHES CLEAR"
     },
     {
      "item": "standfirst",
-     "reason": "true: \"the rebels enjoyed themselves\" is unsupported; sheet only shows 9 managers went elsewhere, with no outcome verdict.",
-     "before": "15 captained Haaland and he scored 2. Sukrut still stretched the lead while the rebels enjoyed themselves.",
-     "after": null,
-     "still": "numbers: 3 numbers, at most 2"
-    },
-    {
-     "item": "big_picture",
-     "reason": "true: \"Sukrut has now led 3 weeks running\" is supported, but \"the leader rode it out best\" is unsupported; and \"crown changing hands 5 times\" is supported. Fail",
-     "before": "The Haaland armband flop hurt almost everyone, but the leader rode it out best. Sukrut has now led 3 weeks running, and with the crown changing hands 5 times this season, a bigger cushion at the top means the chasing pack has real work to do.",
-     "after": null,
-     "still": "numbers: 6 numbers, at most 5"
-    },
-    {
-     "item": "decision_of_the_week",
-     "reason": "true: \"the biggest swing of the week\" is unsupported; sheet shows 36 points on bench, but the -22 swing by Aary is comparable and the ranking is not shown as bi",
-     "before": "Atharva Kshirsagar picked the wrong 11 and left 36 points on the bench. That is the biggest swing of the week. A reminder that a good squad means nothing if the team sheet is wrong.",
-     "after": "Atharva Kshirsagar picked the wrong 11 and left 36 points on the bench. The biggest bench loss of the week. The squad was fine, the team sheet was not."
-    },
-    {
-     "item": "one_to_watch",
-     "reason": "true: \"Shantanu has a head start\" is unsupported; sheet shows only the 8-point gap, not who is ahead by standing claims beyond that.",
-     "before": "Shantanu and Pradnyesh are separated by 8 points at the Tin Pot line. If Pradnyesh's Tavernier gamble keeps paying, the gap could close fast. Shantanu has a head start but not much margin.",
-     "after": "Shantanu and Pradnyesh are 8 points apart at the Tin Pot line. One good week from Shantanu could swap them over."
+     "reason": "true: 'chasing pack sulks' is an unsupported claim about feelings; leader does stretch clear though",
+     "before": "15 armbands on Haaland, a 2-point return, and the leader still stretches clear while the chasing pack sulks.",
+     "after": "15 armbands on Haaland, a 2-point return, and the leader still pulls further ahead."
     },
     {
      "item": "winners:0",
-     "reason": "true: \"That is skill, not luck\" and \"Gold spots are now in sight\" are unsupported verdicts beyond the sheet.",
-     "before": "Wirtz and Evanilson in, Mbeumo and Kostoulas out, and the swap paid off by 18. That is skill, not luck. Gold spots are now in sight.",
-     "after": "Wirtz and Evanilson in, Mbeumo and Kostoulas out. The swap paid 18 points. Gold spots are in reach now."
+     "reason": "true: 'Skill, not luck' is a verdict SHEET doesn't support; also 'the climb that began back in GW2' is supported",
+     "before": "Up to 4th, the climb that began back in GW2 still going. Wirtz and Evanilson did the work. Skill, not luck, and the Gold spots are in sight.",
+     "after": "Up to 4th, with Wirtz and Evanilson doing the work. The Gold spots are in sight."
+    },
+    {
+     "item": "winners:1",
+     "reason": "true: 'that call deserved a better table position' is an opinion not backed by SHEET; 'only manager to pick him' is supported",
+     "before": "Tavernier with the armband, the only manager to pick him. Nerve rewarded. Still 19th, but that call deserved a better table position.",
+     "after": "Tavernier with the armband, and nobody else picked him. Nerve rewarded. Still 19th for now."
     },
     {
      "item": "winners:2",
-     "reason": "true: \"A quiet week above average, built on one lone pick\" is loosely supported; \"Started A.Becker when nobody else did\" is supported.",
-     "before": "Started A.Becker when nobody else did, and it paid off with 7 points. A quiet week above average, built on one lone pick.",
-     "after": "Started A.Becker when nobody else did, and he returned 7 points. One lone pick, and it landed."
+     "reason": "true: 'nobody else made' and 'unnoticed' overstate; SHEET shows only nobody else started him here",
+     "before": "A.Becker was a pick nobody else made, and he returned 7. Quiet, clever and unnoticed. Call it skill with a little luck on top.",
+     "after": "A.Becker was started by nobody else here, and returned 7. A quiet pick that paid off."
     },
     {
      "item": "losers:0",
-     "reason": "true: \"the week never recovered\" is unsupported; sheet shows only the week's total and -6 swap.",
-     "before": "Brought in McGinn and Dasilva and took a hit for it. The swap cost 6 points and the week never recovered. Bad call, bad return.",
-     "after": "Brought in McGinn and Dasilva and took a hit for it. The swap cost 6 points. Bad call."
+     "reason": "fresh: 'A gamble that did not pay' is a stock phrase",
+     "before": "A 5-week run above average snapped. The McGinn and Dasilva transfers cost 6 in hits and brought little back. A gamble that did not pay.",
+     "after": "A 5-week run above average ended. The 6 points paid on McGinn and Dasilva made it worse."
+    },
+    {
+     "item": "losers:1",
+     "reason": "true: 'Rough luck as much as judgement' is a claim about judgement SHEET doesn't show",
+     "before": "Sold Lewis-Potter, who then hauled. Rough luck as much as judgement. 6 weeks below average now, so a gentle word: the next week has to be better.",
+     "after": "Sold Lewis-Potter, who then hauled. Cruel timing. 6 weeks below average now, so a gentle word: better days are possible."
+    },
+    {
+     "item": "rating:Pradnyesh",
+     "reason": "true: 'Lone wolf' is not in SHEET",
+     "before": "Suzuki was a punt nobody else made. Lone wolf, and it worked.",
+     "after": "Backed Suzuki alone. It paid off, so expect a victory lap."
     },
     {
      "item": "rating:Sukrut",
-     "reason": "true: \"Silva was a private pick that helped keep the crown safe\" overclaims causation the sheet does not show.",
-     "before": "Leads again. Silva was a private pick that helped keep the crown safe.",
-     "after": "Still top, and further clear. Silva, a private pick, returned 8."
+     "reason": "true: 'keeps finding quiet edges' is an unsupported claim about past pattern",
+     "before": "Silva was the pick nobody else had. The leader keeps finding quiet edges.",
+     "after": null,
+     "still": "clean: banned phrase \"edge\""
     },
     {
      "item": "rating:Rushikesh",
-     "reason": "fresh: \"Quietly effective week\" is a stock phrase; also \"came good\" is filler.",
-     "before": "Kayode was a private punt that came good. Quietly effective week.",
-     "after": "Kayode, picked by nobody else, returned 6. A pick that was theirs alone."
-    },
-    {
-     "item": "rating:Aditya Dharap",
-     "reason": "true: \"the Wirtz move looks sharp\" credits a move not clearly linked to the sheet's points.",
-     "before": "Climbing steadily. 3 weeks above average and the Wirtz move looks sharp.",
-     "after": null,
-     "still": "numbers: 2 numbers, at most 1"
-    },
-    {
-     "item": "rating:Prerana",
-     "reason": "true: \"the cracks are starting\" is unsupported speculation about the future.",
-     "before": "Third place held, though a season-worst week shows the cracks are starting.",
-     "after": "Third place held through a season-worst week."
+     "reason": "fun: 'Sensible, steady, unspectacular' reads as filler with no sting",
+     "before": "Kayode was a private punt that landed. Sensible, steady, unspectacular.",
+     "after": "Kayode, a private punt, landed. Expect a smug message in the group chat."
     },
     {
      "item": "rating:Sahil Phadnis",
-     "reason": "true: \"kept a rising run going\" is unsupported; sheet shows a 3-week above-average run, not rising.",
-     "before": "Evanilson as captain, picked by nobody else, kept a rising run going.",
-     "after": null,
-     "still": "numbers: 2 numbers, at most 1"
+     "reason": "fun: no verdict beyond the captain fact, reads like a stats sheet",
+     "before": "Evanilson at the armband was a lone call, and it came good.",
+     "after": "Evanilson at the armband, alone. Brave call, and it came good."
     },
     {
      "item": "rating:Aditya Dalal",
-     "reason": "true: \"The streak survived, only just\" is loosely supported but \"only just\" overstates 37 against average 36.",
-     "before": "10 weeks above average and still alive. The streak survived, only just.",
-     "after": null,
-     "still": "true: numbers not in the sheet ['36']; numbers: 3 numbers, at most 1"
+     "reason": "true: 'The heat is fading' is a claim beyond the lowest-score fact",
+     "before": "8 weeks above average, though this was the lowest of the run. The heat is fading.",
+     "after": "8 weeks above average, though the lowest score of the run."
     },
     {
      "item": "rating:Atharva Kshirsagar",
-     "reason": "fresh: \"Bench Disaster again\" repeats the sheet award name and the headline framing; \"again\" is unsupported as he has won it once.",
-     "before": "Bench Disaster again. The right 11 sat on the bench all week.",
-     "after": "The wrong 11 started, and 36 points sat on the bench."
+     "reason": "true: 'Wrong 11 again' is supported; 'could have lifted the whole season' is an unsupported claim",
+     "before": "Wrong 11 again. Those benched points could have lifted the whole season.",
+     "after": "Wrong 11 again. Those benched points make painful reading."
     },
     {
      "item": "rating:Nihar",
-     "reason": "true: \"5 weeks below average hurts\" is supported; \"did not help\" is an unsupported verdict on Solanke's return.",
-     "before": "Solanke was a solo pick that did not help. 5 weeks below average hurts.",
-     "after": "Solanke was a solo pick. 5 weeks below average."
+     "reason": "fun: reads as stats with no verdict beyond 'the bench cost the rest'",
+     "before": "Solanke was a lone punt that returned 7. The bench cost the rest.",
+     "after": "Solanke paid 7 as a lone pick. The bench then gave it back."
     },
     {
-     "item": "rating:Sujal",
-     "reason": "kind: \"Doghouse and Free Fall in one week\" is fair, but \"sliding\" is a future-trend claim beyond the sheet.",
-     "before": "Doghouse and Free Fall in one week. 3 weeks below average and sliding.",
-     "after": "Doghouse and Free Fall in one week. 3 weeks below average."
+     "item": "rating:Atharva Singh",
+     "reason": "true: 'Costly tinkering' is a verdict; 'hit points' fine but 'nothing back' is unsupported",
+     "before": "The Jackson transfer added hit points and nothing back. Costly tinkering.",
+     "after": "The Jackson transfer came with a hit attached. Pricey tinkering."
+    },
+    {
+     "item": "rating:Aary",
+     "reason": "kind: a small crumb of comfort is a stock phrase; fresh: 'tough week' is filler",
+     "before": "Thiaw scored 7, a small crumb of comfort in a tough week.",
+     "after": "Thiaw, started by nobody else here, scored 7. One pick to be glad of."
     }
    ],
    "usage": {
-    "in": 27953,
-    "out": 3694,
+    "in": 29442,
+    "out": 5851,
     "calls": 3
    },
-   "sent_back": 29,
+   "sent_back": 26,
    "unknown_names": [],
    "top_3": [
     {
@@ -11794,11 +11796,11 @@
     "Sahil Gore",
     "Shantanu"
    ],
-   "tries": 1,
-   "sig": "7233dbac4912",
-   "resigned": false,
+   "tries": 2,
+   "sig": "c27a006d358c",
+   "resigned": true,
    "bd": "ok",
-   "published": "2026-11-25T07:35:21Z"
+   "published": "2026-11-27T18:40:21Z"
   },
   "gaffer_backfill_tries": {
    "1": 1,
@@ -11813,7 +11815,8 @@
    "10": 1
   },
   "plots_sig_tries": {
-   "11:n:7233dbac4912": 1
+   "11:n:7233dbac4912": 1,
+   "c27a006d358c": 1
   },
   "gaffer_candidate": {
    "gw": 11,
@@ -12593,8 +12596,8 @@
    }
   ],
   "group": {
-   "text": "*Shantanu's week of glory*\nShantanu hauled 65 to win GW11 and jump to 20th, while Sukrut still sits top on 742.\nAary's -8 hit has to pay off after a 25, and Aditya Dharap's -4 paid off with 41.\nHaaland scored 2 for 15 managers, so the armband crew are fuming.",
-   "ts": "2026-11-27T12:53:26Z",
+   "text": "*Shantanu storms up the table!*\nHe hauled 65 to climb from 22nd to 20th, while the house captain Haaland only managed 2 for 15 of you.\nAary's 8-point hit for Groß, De Cuyper and N.Jackson now has to pay off after a 25.",
+   "ts": "2026-11-27T18:40:21Z",
    "gw": 11
   }
  },
@@ -12602,62 +12605,62 @@
   "hot:6543415": [
    {
     "gw": 11,
-    "day": "2026-11-25",
-    "title": "The Streak Wobbles",
-    "text": "Aditya Dalal has been above the league average for 10 weeks in a row, with 112 points in GW2 and 37 in GW11. His GW11 score is the lowest of the whole run, so the streak is now under real pressure.",
-    "next": "If the points stay low, the run could end and the streak could be settled."
+    "day": "2026-11-27",
+    "title": "Streak Hits a Low",
+    "text": "Aditya Dalal's 8-week run above the league average is still alive, but 37 points in GW11 is the lowest score of the streak.",
+    "next": "Can Aditya Dalal bounce back from 37?"
    }
   ],
   "bench:2784861": [
    {
     "gw": 11,
-    "day": "2026-11-25",
-    "title": "Bench Blunders Pile Up",
-    "text": "Atharva Kshirsagar has left 216 points on the bench this season, while the league average is 89. The bench keeps costing him, and the season-long question of picking the right 11 is still open.",
-    "next": "If the bench keeps costing points, the curse could become the league's talking point."
+    "day": "2026-11-27",
+    "title": "Bench Blunders Mount",
+    "text": "Atharva Kshirsagar has left 216 points on the bench this season, more than double the league average of 89. The question is whether the team sheet will ever get it right.",
+    "next": ""
    }
   ],
   "underdog:3504829": [
    {
     "gw": 11,
-    "day": "2026-11-25",
-    "title": "Aryamann Keeps Climbing",
-    "text": "Aryamann started GW2 in 20th place and now sits 4th out of 24, climbing 16 places since. The rise has been steady, with 8th in GW8, 7th in GW10 and 4th in GW11.",
-    "next": "If the climb continues, a place in the top 3 could be within reach."
+    "day": "2026-11-27",
+    "title": "Aryamann's Relentless Climb",
+    "text": "Aryamann has climbed from 20th in GW2 to 4th now, 16 places in total. A 3-place jump in GW11 alone shows the climb is still gaining pace.",
+    "next": ""
    }
   ],
   "chase:3234443": [
    {
     "gw": 11,
-    "day": "2026-11-25",
-    "title": "The Gap Shrinks to One",
-    "text": "Aditya Dharap has cut Atharva Kshirsagar's lead from 44 in GW8 to just 1 in GW11. Atharva is still ahead, but the gap has been shrinking every week.",
-    "next": "If Aditya Dharap gets past Atharva, the chase could flip in a single gameweek."
+    "day": "2026-11-27",
+    "title": "One Point Separates Them",
+    "text": "Atharva Kshirsagar leads Aditya Dharap by just 1 point, after the gap fell from 44 in GW8 to 11 in GW10 and then to 1 in GW11.",
+    "next": "1 point. That's all."
    }
   ],
   "title": [
    {
     "gw": 11,
-    "day": "2026-11-25",
-    "title": "Sukrut Pulls Clear",
-    "text": "Sukrut leads on 742 points, 24 ahead of Aditya Dalal on 718, and that gap has grown from 18. Sukrut has now been top for 3 weeks in a row, and the lead has changed hands 5 times this season.",
-    "next": "If Aditya Dalal, who led in GW7 and GW8, can win points back, the crown could be contested again."
+    "day": "2026-11-27",
+    "title": "Sukrut's Lead Widens",
+    "text": "Sukrut leads on 742, 24 points clear of Aditya Dalal on 718, after the gap grew from 18 last week. The lead has changed hands 5 times this season.",
+    "next": "Prerana is 27 back. Can anyone reel Sukrut in?"
    }
   ]
  },
  "share": {
-  "key": "cd2f539edf66",
+  "key": "a2f8b9075205",
   "gw": 11,
   "files": {
-   "week": "share/gw11-cd2f539edf66-week.png",
-   "motw": "share/gw11-cd2f539edf66-motw.png",
-   "captain": "share/gw11-cd2f539edf66-captain.png",
-   "genius": "share/gw11-cd2f539edf66-genius.png",
-   "rocket": "share/gw11-cd2f539edf66-rocket.png",
-   "bench": "share/gw11-cd2f539edf66-bench.png",
-   "gotaway": "share/gw11-cd2f539edf66-gotaway.png",
-   "fall": "share/gw11-cd2f539edf66-fall.png",
-   "spoon": "share/gw11-cd2f539edf66-spoon.png"
+   "week": "share/gw11-a2f8b9075205-week.png",
+   "motw": "share/gw11-a2f8b9075205-motw.png",
+   "captain": "share/gw11-a2f8b9075205-captain.png",
+   "genius": "share/gw11-a2f8b9075205-genius.png",
+   "rocket": "share/gw11-a2f8b9075205-rocket.png",
+   "bench": "share/gw11-a2f8b9075205-bench.png",
+   "gotaway": "share/gw11-a2f8b9075205-gotaway.png",
+   "fall": "share/gw11-a2f8b9075205-fall.png",
+   "spoon": "share/gw11-a2f8b9075205-spoon.png"
   }
  },
  "moment_imgs": {
@@ -12693,7 +12696,7 @@
    "109": "a|None|",
    "290": "a|None|",
    "593": "a|100|",
-   "1": "d|50|Shoulder injury - 50% chance of playing",
+   "1": "d|75|Shoulder injury - 75% chance of playing",
    "366": "a|100|",
    "28": "a|100|",
    "449": "d|75|Unspecified injury - 75% chance of playing",
@@ -12769,7 +12772,7 @@
    "58": "a|None|",
    "565": "a|None|",
    "557": "a|100|",
-   "397": "i|0|Knee injury - Unknown return date",
+   "397": "i|0|Knee injury - Expected back 2 Dec",
    "556": "i|0|Ankle injury - Unknown return date",
    "445": "a|None|",
    "88": "a|None|"
@@ -12779,7 +12782,9 @@
    "423": "2026-11-25T20:10:23Z",
    "159": "2026-11-26T15:16:30Z",
    "78": "2026-11-26T21:18:03Z",
-   "426": "2026-11-27T13:22:56Z"
+   "426": "2026-11-27T13:22:56Z",
+   "1": "2026-11-27T18:40:21Z",
+   "397": "2026-11-27T18:40:21Z"
   },
   "price": {
    "496": 4.5,
@@ -12942,7 +12947,13 @@
    "362": "11:up",
    "10": "11:down",
    "259": "11:down",
-   "426": "11:up"
+   "426": "11:up",
+   "155": "11:down",
+   "13": "11:down",
+   "286": "11:up",
+   "268": "11:down",
+   "57": "11:up",
+   "565": "11:down"
   },
   "log": [
    {
@@ -13136,13 +13147,68 @@
     "status": "d",
     "chance": 75,
     "news": "Illness - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-27T18:40:21Z",
+    "el": 155,
+    "kind": "surge",
+    "net": -29480
+   },
+   {
+    "ts": "2026-11-27T18:40:21Z",
+    "el": 1,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Shoulder injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-27T18:40:21Z",
+    "el": 13,
+    "kind": "surge",
+    "net": -25658
+   },
+   {
+    "ts": "2026-11-27T18:40:21Z",
+    "el": 286,
+    "kind": "surge",
+    "net": 29662
+   },
+   {
+    "ts": "2026-11-27T18:40:21Z",
+    "el": 268,
+    "kind": "surge",
+    "net": -34307
+   },
+   {
+    "ts": "2026-11-27T18:40:21Z",
+    "el": 57,
+    "kind": "surge",
+    "net": 28253
+   },
+   {
+    "ts": "2026-11-27T18:40:21Z",
+    "el": 565,
+    "kind": "surge",
+    "net": -31238
+   },
+   {
+    "ts": "2026-11-27T18:40:21Z",
+    "el": 397,
+    "kind": "news",
+    "status": "i",
+    "chance": 0,
+    "news": "Knee injury - Expected back 2 Dec"
    }
   ]
  },
  "checks": {
-  "ts": "2026-11-27T13:22:56Z",
+  "ts": "2026-11-27T18:40:21Z",
   "issues": [],
-  "page": []
+  "page": [
+   "briefing for Atharva Kshirsagar: \"You are 10th on 643, 10 behind Pruthviraj and 1 ahead of Aditya Dharap.\" has a gap of 1; the gaps between Aditya Dharap / Atharva Kshirsagar / Pruthviraj are 5, 10, 15",
+   "briefing for Atharva Kshirsagar: \"Watch Aditya Dharap, who is 1 behind you, and fix your 36 bench points.\" has a gap of 1; the gaps between Aditya Dharap / Atharva Kshirsagar are 5"
+  ]
  },
  "phase": "between",
  "next_deadline": "2026-11-27T18:30:00Z"

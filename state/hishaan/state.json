@@ -8292,6 +8292,37 @@
  },
  "stories": [
   {
+   "key": "news:1:Shoulder injury - 75% chance of playing",
+   "kind": "news",
+   "tag": "News",
+   "head": "Injury watch: Raya fit enough to play",
+   "body": "Raya has a shoulder injury but a 75% chance of playing. 13 of you own him, so keep an eye on the team news.",
+   "stat": "75% to play",
+   "score": 48,
+   "who": [
+    735721,
+    865376,
+    1655993,
+    1921902,
+    2321301,
+    3072827,
+    3350483,
+    3506595,
+    4487775,
+    5474293,
+    6159011,
+    6279027,
+    7043406
+   ],
+   "ts": "2026-11-27T18:42:27Z",
+   "gw": 11,
+   "plain": {
+    "head": "Injury watch: Raya",
+    "body": "Shoulder injury - 75% chance of playing. 13 of you own him."
+   },
+   "ai": true
+  },
+  {
    "key": "w11",
    "kind": "wrap",
    "tag": "Wrap",
@@ -10253,7 +10284,8 @@
   "w11",
   "w11:zones",
   "news:1:Shoulder injury - 50% chance of playing",
-  "news:449:Unspecified injury - 75% chance of playing"
+  "news:449:Unspecified injury - 75% chance of playing",
+  "news:1:Shoulder injury - 75% chance of playing"
  ],
  "done": [
   "deadline:10",
@@ -11338,7 +11370,7 @@
    "5474293": 9,
    "4487775": 10,
    "3072827": 11,
-   "3350483": 12,
+   "3350483": 11,
    "75778": 13,
    "2934546": 14,
    "5682768": 15,
@@ -11348,7 +11380,7 @@
    "2465483": 19,
    "6279027": 20,
    "865376": 21,
-   "7043406": 22,
+   "7043406": 21,
    "3314780": 23,
    "6159011": 24,
    "6476662": 25,
@@ -11376,45 +11408,45 @@
    "2465483": null,
    "6279027": null,
    "865376": null,
-   "7043406": "tinpot",
+   "7043406": null,
    "3314780": "tinpot",
    "6159011": "tinpot",
    "6476662": "tinpot",
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-27T13:23:17Z",
+ "updated": "2026-11-27T18:42:27Z",
  "ai": {
   "briefings": {
-   "3029346": "You top the table on 774 after a 52-point week, 17 clear of Nikhil. The main threat is Nikhil and Ravin, so watch Haaland's armband before the deadline.",
-   "2321301": "You sit 2nd on 757, 17 behind Matt and 22 ahead of Ravin. Your best route back is a strong armband pick, so keep an eye on Haaland's blank.",
-   "1921902": "You're 3rd on 735 after 28 points, 22 behind Nikhil and 1 ahead of Sunny. Watch Sunny closely, as his Bench Boost has put him in striking range.",
-   "1655993": "Your 67-point Bench Boost lifted you to 4th, just 1 behind Ravin. You have no chips left in this set, so your next move is all about the squad.",
-   "735721": "You're 5th on 732, 2 behind Sunny and 1 ahead of Chandru. Your 24-point week was modest, so tighten your squad before the deadline.",
-   "2687116": "You're 6th on 731 after 35 points, 1 behind Deepak and 13 ahead of Rohan. Your risk-taking style could pay off, so watch the chasers.",
-   "3344797": "You're 7th on 718 after 44 points, 13 behind Chandru and 11 ahead of Amit. Watch Chandru and Amit, and make sure your captain is not another blank.",
-   "1036311": "You're 8th on 707 after a 49-point week, 11 behind Rohan and 10 ahead of Sahil. Your Bench Boost is used, so keep your squad sharp.",
-   "5474293": "You're 9th on 697 after 45 points, 10 behind Amit and 1 ahead of Prem. Lewis-Potter is your key player, so watch his goals.",
-   "4487775": "You are 10th on 696 after a 27, just 1 behind Sahil. You have not used any chips yet, so this is the moment to plan your big gamble.",
-   "3072827": "You're 11th on 687 after 33 points, 9 behind Prem and level with Aashiv. Watch your chips, as you have Bench Boost and Free Hit left.",
-   "3350483": "You're 12th on 687 after 34 points, level with Sunil and 6 ahead of Marcel. Your Free Hit is still available, so use it wisely.",
-   "75778": "You're 13th on 681 after 34 points, 6 behind Aashiv and 3 ahead of Naresh. You used all your chips, so your squad choices matter more now.",
-   "2934546": "You're 14th on 678 after a 50-point Wildcard week, 3 behind Marcel and 1 ahead of Vanessa. Your new signings are paying off, so keep building.",
-   "5682768": "You're 15th on 677 after 43 points, 1 behind Naresh and 2 ahead of Poonam. Watch Poonam and Naresh closely.",
-   "6892917": "You're 16th on 675 after 39 points, 2 behind Vanessa and 1 ahead of Ravi Mahtani. Your Free Hit is still available, so plan ahead.",
-   "4922092": "You're 17th on 674 after a 45-point Wildcard week, 1 behind Poonam and 1 ahead of Hishaan. Your bench hauled 26, so review your starting XI.",
-   "3506595": "You're 18th on 673 after 39 points, 1 behind Ravi Mahtani and 2 ahead of Inesh. Your Risk Taker style needs to pay off soon.",
-   "2465483": "You're 19th on 671 after 43 points, 2 behind Hishaan and 22 ahead of Pishu. Your Bench Boost is the last chip left, so use it well.",
-   "6279027": "You're 20th on 649 after 30 points, 22 behind Inesh and 4 ahead of Lakshay. Your chips are mostly unused, so this is your chance to climb.",
-   "865376": "You're 21st on 645 after 27 points, 4 behind Pishu and level with Rajiv. Your captain Palmer returned just 4, so reconsider your armband.",
-   "7043406": "You're 22nd on 645 after 32 points, level with Lakshay. Your N.Jackson armband returned 4, and your bench hauled 22, so tighten your squad.",
-   "3314780": "You're 23rd on 644 after a 44-point week, 1 behind Rajiv and 3 ahead of Vinesh. Your Maverick style is firing, so keep pushing.",
-   "6159011": "You're 24th on 641 after 29 points, 3 behind Ravi Bhojwani and 24 ahead of Bella. Your bench hauled 18, so check your starting XI.",
-   "6476662": "You're 25th on 617 after a 57-point Triple Captain week, 24 behind Vinesh and 4 ahead of Alia. Your Triple Captain paid off, so keep building momentum.",
-   "6051923": "You're 26th on 613 after 29 points, 4 behind Bella and 161 behind the leader. You're in Ice Cold territory, so a strong week is needed."
+   "3029346": "You sit top on 774 after 52 this week, with Nikhil 17 behind. Keep an eye on Haaland's armband and Calafiori, who you don't own but many others do.",
+   "2321301": "You are 2nd on 757, just 17 behind Matt after 34 this week. Matt's lead is the threat, so look for a big captain pick to close the gap.",
+   "1921902": "You are 3rd on 735 after 28 this week, 22 behind Nikhil and 1 ahead of Sunny. Watch Sunny's surge, as he is only 1 point behind you.",
+   "1655993": "You are 4th on 734 after a 67-point Bench Boost, just 1 behind Ravin. Keep your momentum going and watch Deepak, who is 2 behind you.",
+   "735721": "You are 5th on 732 after 24 this week, 2 behind Sunny. Sunny's surge is a real threat, so look for a bounce-back to protect your position.",
+   "2687116": "You are 6th on 731 after 35 this week, just 1 behind Deepak. Rohan is 13 behind you, so you are safe for now but keep an eye on Deepak.",
+   "3344797": "You are 7th on 718 after 44 this week, 13 behind Chandru. Amit is 11 behind you, so keep pushing to close the gap on Chandru.",
+   "1036311": "You are 8th on 707 after 49 this week, with 11 behind Rohan and 10 ahead of Sahil. Your Bench Boost worked well, so keep building on that.",
+   "5474293": "You are 9th on 697 after 45 this week, 10 behind Amit and 1 ahead of Prem. Sahil's rise is real, so look to hold this position.",
+   "4487775": "You are 10th on 696 after 27 this week, 1 behind Sahil and 9 ahead of Aashiv. Your chips are still loaded, so consider a big move before the deadline.",
+   "3072827": "You are 11th on 687 after 33 this week, level with Aashiv. Marcel is 6 behind you, so keep an eye on that gap.",
+   "3350483": "You are 11th on 687 after 34 this week, level with Sunil. Prem is 9 ahead of you, so look to climb back up.",
+   "75778": "You are 13th on 681 after 34 this week, 6 behind Sunil and 3 ahead of Naresh. Your Risk Taker style could pay off, so watch the numbers closely.",
+   "2934546": "You are 14th on 678 after a 50-point week, 3 behind Marcel. Your new signings are working, so keep building on that momentum.",
+   "5682768": "You are 15th on 677 after 43 this week, 1 behind Naresh. Poonam is 2 behind you, so keep an eye on the gap.",
+   "6892917": "You are 16th on 675 after 39 this week, 2 behind Vanessa. Ravi Mahtani is 1 behind you, so watch that closely.",
+   "4922092": "You are 17th on 674 after 45 this week, 1 behind Poonam. Hishaan is 1 behind you, so keep your lead tight.",
+   "3506595": "You are 18th on 673 after 39 this week, 1 behind Ravi Mahtani. Inesh is 2 behind you, so look to climb back.",
+   "2465483": "You are 19th on 671 after 43 this week, 2 behind Hishaan. Pishu is 22 behind you, so you're in a good spot.",
+   "6279027": "You are 20th on 649 after 30 this week, 22 behind Inesh. Lakshay is 4 behind you, so look to climb back up.",
+   "865376": "You are 21st on 645 after 27 this week, level with Rajiv. Pishu is 4 ahead of you, so look to close that gap.",
+   "7043406": "You are 21st on 645 after 32 this week, level with Lakshay. N.Jackson was your captain and he returned 4, so keep building on that.",
+   "3314780": "You are 23rd on 644 after 44 this week, 1 behind Rajiv. Vinesh is 3 behind you, so keep pushing up the table.",
+   "6159011": "You are 24th on 641 after 29 this week, 3 behind Ravi Bhojwani. Bella is 24 behind you, so you're safe for now.",
+   "6476662": "You are 25th on 617 after a 57-point week with the Triple Captain, 24 behind Vinesh. Alia is 4 behind you, so keep pushing up.",
+   "6051923": "You are 26th on 613 after 29 this week, 4 behind Bella. Ice Cold is the tag hanging over you, so look for a comeback."
   },
   "key": "11:between",
-  "ts": "2026-11-27T13:23:17Z",
+  "ts": "2026-11-27T18:42:27Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -11427,10 +11459,10 @@
     "plots": 11
    },
    "11": {
-    "in": 1899770,
-    "out": 398476,
-    "calls": 149,
-    "refreshes": 29,
+    "in": 1928772,
+    "out": 403499,
+    "calls": 151,
+    "refreshes": 30,
     "desks": 41,
     "desk_in": 937345,
     "desk_out": 301465,
@@ -12480,8 +12512,8 @@
   "plots_v": 8,
   "plots_sig": "986334780213",
   "group": {
-   "text": "*Haaland blanks again, Matt pulls clear*\nMatt's Lammo's Lads top it, 17 clear of Nikhil.\nSunny's Bench Boost hauled 67 to climb to 4th. Haaland's 22 captains got 4 each, which is painful.",
-   "ts": "2026-11-27T13:23:17Z",
+   "text": "*Haaland blanks again as Sunny goes bonkers*\nSunny's Bench Boost hauled 67 and he's up to 4th.\nHaaland blanked for 22 of you, so 4 for each captain. Matt still leads, 17 clear of Nikhil.",
+   "ts": "2026-11-27T18:42:27Z",
    "gw": 11
   },
   "storylines": [
@@ -14262,27 +14294,31 @@
    "points": [
     {
      "label": "Title race",
-     "text": "Matt leads Nikhil by 17 and Ravin is 39 back, so a Haaland-led week could change the top spot quickly."
+     "text": "Matt leads Nikhil by 17 and Ravin by 39, but Nikhil and Ravin are both within striking distance of a big week."
+    },
+    {
+     "label": "Armband dilemma",
+     "text": "Haaland blanked for 22 of you this week, so think hard about whether he deserves the armband again."
     },
     {
      "label": "Injury sweat",
-     "text": "Raya is 50 per cent and Hall 75 per cent, with Raya owned by 13 managers and Hall by 3."
+     "text": "Raya is 75% to play and 13 of you own him, so check his fitness before the deadline."
     }
    ],
    "gw": 12,
-   "ts": "2026-11-27T13:23:17Z"
+   "ts": "2026-11-27T18:42:27Z"
   },
   "column": {
-   "headline": "Matt holds top as Haaland blanks again",
-   "text": "Matt's Lammo's Lads sit top after collecting 52, with Nikhil 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb from 8th to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over. Haaland blanking again is starting to look like a running joke, and not a funny one for most of you.",
-   "ts": "2026-11-27T10:23:15Z",
+   "headline": "Haaland blanks again as Sunny's Bench Boost steals the week",
+   "text": "Matt's Lammo's Lads still sit top after collecting 52, with Nikhil 17 points back at Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, and that blank cost most of the league. Sunny's Bench Boost hauled 67 to climb from 8th to 4th, the standout week so far. Ravin, Deepak and Chandru are all still within touching distance, so the chase is far from over.",
+   "ts": "2026-11-27T18:42:27Z",
    "gw": 11
   },
   "history": [
+   "GW11 between: Haaland blanks again as Sunny's Bench Boost steals the week. Matt's Lammo's Lads still sit top after collecting 52, with Nikhil 17 points back at Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, and that blank cost most of the league. Sunny's Bench Boost hauled 67 to climb from 8th to 4th, the standout week so far. Ravin, Deepak and Chandru are all still within touching distance, so the chase is far from over.",
    "GW11 between: Matt holds top as Haaland blanks again. Matt's Lammo's Lads sit top after collecting 52, with Nikhil 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb from 8th to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over. Haaland blanking again is starting to look like a running joke, and not a funny one for most of you.",
    "GW11 between: Matt holds the summit as Haaland blanks again. Matt's Lammo's Lads sit top after collecting 52, with Nikhil now 17 points back at Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb from 8th to 4th, the standout week of the season so far. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over. Haaland blanking again is starting to look like a running joke, and not a funny one for most of you.",
-   "GW11 between: Haaland blanks again as Matt pulls clear. Lammo's Lads sit top after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over.",
-   "GW11 between: Matt's grip tightens as Haaland blanks again. Lammo's Lads hold top spot after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband blanked on 2 points for 22 managers, leaving most of the league wishing they had backed someone else. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout performance. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over."
+   "GW11 between: Haaland blanks again as Matt pulls clear. Lammo's Lads sit top after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over."
   ]
  },
  "plot_log": {
@@ -14887,7 +14923,7 @@
       "Barry": 2,
       "Vuskovic": 0
      },
-     "rank": 12
+     "rank": 11
     }
    },
    "5474293": {
@@ -15210,7 +15246,7 @@
      "pts": {
       "Dewsbury-Hall": 2
      },
-     "rank": 22
+     "rank": 21
     }
    },
    "6159011": {
@@ -15655,13 +15691,13 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-27T13:23:17Z",
+  "ts": "2026-11-27T18:42:27Z",
   "issues": [],
   "page": []
  },
  "pwatch": {
   "seen": {
-   "1": "d|50|Shoulder injury - 50% chance of playing",
+   "1": "d|75|Shoulder injury - 75% chance of playing",
    "566": "a|None|",
    "8": "a|100|",
    "31": "a|100|",
@@ -15675,7 +15711,7 @@
    "497": "a|None|",
    "124": "a|None|",
    "268": "a|100|",
-   "305": "d|75|Calf injury - 75% chance of playing",
+   "305": "a|100|",
    "496": "a|None|",
    "112": "a|100|",
    "4": "a|None|",
@@ -15764,8 +15800,8 @@
    "173": "2026-11-21T14:07:29Z",
    "391": "2026-11-20T15:37:20Z",
    "388": "2026-11-21T12:00:35Z",
-   "305": "2026-11-22T07:10:30Z",
-   "1": "2026-11-23T14:31:26Z",
+   "305": "2026-11-27T18:42:27Z",
+   "1": "2026-11-27T18:42:27Z",
    "449": "2026-11-21T19:35:20Z",
    "367": "2026-11-25T12:37:51Z",
    "229": "2026-11-23T21:10:44Z",
@@ -15902,11 +15938,11 @@
    "173": "10:down",
    "334": "11:up",
    "127": "10:up",
-   "286": "10:down",
+   "286": "11:up",
    "411": "11:down",
    "229": "11:down",
    "60": "11:up",
-   "268": "10:down",
+   "268": "11:down",
    "330": "11:up",
    "566": "11:up",
    "412": "10:down",
@@ -15918,7 +15954,7 @@
    "497": "11:down",
    "496": "11:up",
    "480": "11:down",
-   "565": "10:down",
+   "565": "11:down",
    "259": "11:down",
    "423": "10:down",
    "277": "11:down",
@@ -15937,7 +15973,9 @@
    "237": "11:down",
    "332": "11:up",
    "86": "11:up",
-   "362": "11:up"
+   "362": "11:up",
+   "13": "11:down",
+   "57": "11:up"
   },
   "log": [
    {
@@ -16782,6 +16820,52 @@
     "status": "d",
     "chance": 75,
     "news": "Illness - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-27T18:42:27Z",
+    "el": 1,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Shoulder injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-27T18:42:27Z",
+    "el": 268,
+    "kind": "surge",
+    "net": -34307
+   },
+   {
+    "ts": "2026-11-27T18:42:27Z",
+    "el": 305,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-27T18:42:27Z",
+    "el": 13,
+    "kind": "surge",
+    "net": -25658
+   },
+   {
+    "ts": "2026-11-27T18:42:27Z",
+    "el": 286,
+    "kind": "surge",
+    "net": 29662
+   },
+   {
+    "ts": "2026-11-27T18:42:27Z",
+    "el": 565,
+    "kind": "surge",
+    "net": -31238
+   },
+   {
+    "ts": "2026-11-27T18:42:27Z",
+    "el": 57,
+    "kind": "surge",
+    "net": 28253
    }
   ]
  },

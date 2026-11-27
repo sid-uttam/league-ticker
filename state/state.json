@@ -1,6 +1,40 @@
 {
  "stories": [
   {
+   "key": "news:1:Shoulder injury - 75% chance of playing",
+   "kind": "news",
+   "tag": "News",
+   "head": "Injury watch: Raya is 75% to play",
+   "body": "Raya has a shoulder injury and a 75% chance of playing. 16 of you own him, so keep an eye on his fitness before the deadline.",
+   "stat": "75% to play",
+   "score": 51,
+   "who": [
+    363548,
+    573491,
+    1092588,
+    1378937,
+    1541394,
+    3219276,
+    3323262,
+    3359227,
+    3506595,
+    3552160,
+    5028423,
+    5489583,
+    5873092,
+    6341709,
+    7273369,
+    8316989
+   ],
+   "ts": "2026-11-27T18:34:16Z",
+   "gw": 11,
+   "plain": {
+    "head": "Injury watch: Raya",
+    "body": "Shoulder injury - 75% chance of playing. 16 of you own him."
+   },
+   "ai": true
+  },
+  {
    "key": "w11",
    "kind": "wrap",
    "tag": "Wrap",
@@ -2436,28 +2470,6 @@
    ],
    "ts": "2026-11-06T16:34:19Z",
    "gw": 9
-  },
-  {
-   "key": "news:165:Thigh injury - Unknown return date",
-   "kind": "news",
-   "tag": "News",
-   "head": "Injury watch: João Pedro",
-   "body": "Thigh injury - Unknown return date. 9 of you own him.",
-   "stat": "0% to play",
-   "score": 44,
-   "who": [
-    75187,
-    383423,
-    3552160,
-    3591460,
-    5028423,
-    5489583,
-    5873092,
-    6341709,
-    6619523
-   ],
-   "ts": "2026-11-06T16:34:19Z",
-   "gw": 9
   }
  ],
  "seen": [
@@ -2611,7 +2623,8 @@
   "d11:onpitch:94",
   "w11",
   "news:1:Shoulder injury - 50% chance of playing",
-  "news:229:Suspended until 13 Dec"
+  "news:229:Suspended until 13 Dec",
+  "news:1:Shoulder injury - 75% chance of playing"
  ],
  "done": [
   "deadline:10",
@@ -3914,7 +3927,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-27T13:22:16Z",
+ "updated": "2026-11-27T18:34:16Z",
  "hist": {
   "key": "11:between",
   "data": {
@@ -6588,18 +6601,18 @@
  },
  "ai": {
   "column": {
-   "headline": "Maanav's Bench Boost blows the table open",
-   "text": "Maanav took gameweek 11 with 58 points on a Bench Boost, climbing from 19th to 14th and ending a long run of Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, but Nihal's Bench Boost pushed him to 50 and into 3rd. The Haaland armband bloc remains the league's biggest running joke: 22 managers armbanded him for just 2 points, so 4 each. Tarkowski's red card and Raya's injury doubt add jeopardy for those who own them.",
-   "ts": "2026-11-27T12:52:16Z",
+   "headline": "Maanav's bench-boosted 58 still ripples through the top half",
+   "text": "Maanav took gameweek 11 with 58 points on a Bench Boost, climbing from 19th to 14th, and the Haaland armband bloc is still bleeding: 22 managers captained him for just 2 points, so 4 each. Ayodele holds the summit on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. Tarkowski's red card and Raya's injury doubt add jeopardy for those who own them. The chase is on.",
+   "ts": "2026-11-27T18:34:16Z",
    "gw": 11
   },
   "history": [
+   "GW11 between: Maanav's bench-boosted 58 still ripples through the top half. Maanav took gameweek 11 with 58 points on a Bench Boost, climbing from 19th to 14th, and the Haaland armband bloc is still bleeding: 22 managers captained him for just 2 points, so 4 each. Ayodele holds the summit on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. Tarkowski's red card and Raya's injury doubt add jeopardy for those who own them. The chase is on.",
    "GW11 between: Maanav's Bench Boost blows the table open. Maanav took gameweek 11 with 58 points on a Bench Boost, climbing from 19th to 14th and ending a long run of Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, but Nihal's Bench Boost pushed him to 50 and into 3rd. The Haaland armband bloc remains the league's biggest running joke: 22 managers armbanded him for just 2 points, so 4 each. Tarkowski's red card and Raya's injury doubt add jeopardy for those who own them.",
    "GW11 between: Maanav's Bench Boost bombshell tops a chaotic gameweek 11. Maanav took the gameweek with 58 points on a Bench Boost, climbing from 19th to 14th and ending the long Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. Haaland was armbanded by 22 managers and scored just 2, so 4 each, and that bloc is still bleeding. Tarkowski's red card and Raya's injury doubt add more jeopardy for those who own them.",
-   "GW11 between: Maanav's bench-boosted rise stays the story as Ayodele holds the top. Maanav's 58 on a Bench Boost was the standout of gameweek 11, climbing from 19th to 14th and ending a long run of Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. The Haaland armband bloc remains the league's biggest running joke, with 22 managers armbanding him for just 2 points. Tarkowski's red card and Raya's injury doubt add jeopardy for those who own them.",
-   "GW11 between: Maanav's Bench Boost blows the table open. Maanav took the gameweek with 58 on a Bench Boost, climbing from 19th to 14th and ending a long run of Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, but Nihal's Bench Boost pushed him to 50 and into 3rd. Haaland was armbanded by 22 managers and scored just 2, so 4 each, which is the storyline that keeps rolling on. Tarkowski's red card and the Raya injury doubt add extra jeopardy for the managers who own them."
+   "GW11 between: Maanav's bench-boosted rise stays the story as Ayodele holds the top. Maanav's 58 on a Bench Boost was the standout of gameweek 11, climbing from 19th to 14th and ending a long run of Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. The Haaland armband bloc remains the league's biggest running joke, with 22 managers armbanding him for just 2 points. Tarkowski's red card and Raya's injury doubt add jeopardy for those who own them."
   ],
-  "ts": "2026-11-27T12:52:16Z",
+  "ts": "2026-11-27T18:34:16Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -6638,40 +6651,27 @@
    }
   ],
   "group": {
-   "text": "*Maanav's Bench Boost blows the table open*\nMaanav took 58 on a Bench Boost and climbed from 19th to 14th.\nAyodele still leads on 733, but Nihal's 50 has him up to 3rd.\n22 of you armbanded Haaland for just 2 points. Still a running joke.",
-   "ts": "2026-11-27T12:52:16Z",
+   "text": "*Maanav's Bench Boost bombshell*\nMaanav took the week with 58 on a Bench Boost, up from 19th to 14th.\n22 of you armbanded Haaland for 2 points, so 4 each. Brutal.\nAyodele still sits top on 733, 11 clear of Cherag.",
+   "ts": "2026-11-27T18:34:16Z",
    "gw": 11
   },
   "briefings": {
-   "3219276": "You sit 2nd on 722, 11 behind Ayodele after a 30-point week. Nihal is only 2 behind you, so keep an eye on his Bench Boost momentum.",
-   "573491": "Your Bench Boost took you to 50 and into 3rd on 720. Cherag is 2 ahead, so next week's captaincy and bench decisions will matter.",
-   "7471754": "You're 6th on 696 after 38 points. Nanik is 3 ahead and Omar is 18 behind, so you're in a safe but tight spot.",
-   "5489583": "You're 7th on 678 after 34 points. Tonna is 18 ahead and Ravi is 4 behind, so watch the Bench Boost-hungry chasers.",
+   "3219276": "You are 2nd on 722, 11 behind Ayodele and 2 ahead of Nihal. Haaland's bloc is your enemy here, and Nihal's Bench Boost is breathing down your neck.",
+   "573491": "You climbed to 3rd on 720 after a Bench Boost 50, and the pressure is now on Cherag ahead of you. Watch whether your Free Hit comes back into play.",
+   "7471754": "You are 6th on 696, 3 behind Nanik and 18 ahead of Omar. You still have every chip available, which is a real opportunity this season.",
+   "5489583": "You are 7th on 678, 18 behind Tonna and 4 ahead of Ravi, who is charging up the table. Your Bench Boost is available, so think about when to use it.",
    "4922092": "Your 45-point Wildcard week lifted you from 13th to 8th on 674. Omar is 4 ahead and Hishaan is 1 behind, so keep the momentum going.",
-   "3506595": "You're 9th on 673 after 39 points, with Ravi 1 ahead and Edd 2 behind. Your Risk Taker style could pay off or punish you next week.",
-   "1378937": "You dropped from 7th to 10th on 671 after a 21-point week. Hishaan is 2 ahead and Bhavik 2 behind, so you need a bounce back.",
-   "4125292": "You're 11th on 669 after 35 points. Edd is 2 ahead and Ahmad 1 behind, so you're in a tight scrap.",
+   "4125292": "You are 11th on 669, 2 behind Edd and 1 ahead of Ahmad. You have a Free Hit left, so a swing is possible before the deadline.",
    "363548": "You're 12th on 668 after 38 points. Bhavik is 1 ahead and Simon 2 behind, so stay sharp next gameweek.",
    "962024": "You're 13th on 666 after 35 points. Ahmad is 2 ahead and Maanav 3 behind, so watch that climber.",
-   "4841175": "Your 58-point Bench Boost took you from 19th to 14th on 663. Simon is 3 ahead and Justin 4 behind, so you're the league's form team.",
-   "5873092": "You're 15th on 659 after 47 points. Maanav is 4 ahead and Will 5 behind, so you're in a fight for mid-table.",
-   "7273369": "You're 16th on 654 after 35 points. Justin is 5 ahead and Raushan 3 behind, so keep an eye on your Hitman tag.",
+   "4841175": "Brewmore are 14th on 663 after a 58-point Bench Boost climb. Maanav's bench-boosted week is the story, and your 3xc and Free Hit are still ready.",
    "3359227": "You dropped to 17th on 651 after a 25-point week. Will is 3 ahead and Tomisin 2 behind, so your N.Jackson captaincy needs a rethink.",
-   "6341709": "You climbed to 18th on 649 after 46 points. Raushan is 2 ahead and Naishadh 5 behind, so the Calafiori and De Cuyper bench calls are yours to justify.",
-   "1457736": "You're 19th on 644 after 29 points. Tomisin is 5 ahead and Dominic 2 behind, so you're closing in on the dropzone.",
-   "75187": "You're 20th on 642 after 30 points. Naishadh is 2 ahead and Lavesh 1 behind, so a steady week is needed.",
-   "6619523": "You're 21st on 641 after 41 points. Dominic is 1 ahead and Saurabh 18 behind, so you're safely in the mid-table pack.",
-   "3552160": "You're 22nd on 623 after 42 points with Isak captain for 10. Lavesh is 18 ahead, so the gap is wide.",
-   "1474501": "You're 23rd on 618 after 40 points with Isak captain for 10. Saurabh is 5 ahead and Isaiah 5 behind.",
-   "5028423": "You're 24th on 613 after 34 points. Dinesh is 5 ahead and Tobi 1 behind, so it's a tight grind.",
+   "1474501": "Lovdenya Bhojyam are 23rd on 618 after a 40, and Isak's 10 for you is good news. Your chips are all spent, so pure squad play now.",
    "383423": "You're 25th on 612 after 38 points. Isaiah is 1 ahead and IB 19 behind, so you're holding a tight spot.",
-   "3375627": "You're 26th on 593 after 39 points with a Triple Captain on Haaland for 6. Tobi is 19 ahead and Elvin 6 behind.",
-   "8316989": "You're 27th on 587 after 26 points, with Cherki captain for 2. IB is 6 ahead and Iain 28 behind, so you're stuck in the lower mid-table.",
    "3591460": "You're 28th on 559 after 38 points. Elvin is 28 ahead and Sasha 68 behind, so you're in the bottom pack.",
-   "5706920": "You're 29th on 491 after 47 points, the league's bottom. Iain is 68 ahead, so the table gap is huge.",
-   "1092588": "You lead on 733, 11 ahead of Cherag, after a 33-point week with Haaland captain. Watch Cherag and Nihal, and whether your Bench Boost is still worth saving.",
-   "3323262": "You're 4th on 710 after 39 points, 10 behind Nihal. Nanik is 11 back, so you're boxed in; watch your Free Hit.",
-   "1541394": "You're 5th on 699 after 36 points. Sid is 11 ahead and Tonna is only 3 behind, so the midtable squeeze is real."
+   "5706920": "Vicecityfc are 29th on 491 and bottom of the table, with Pickford's 2-point captaincy a disappointment. You have every chip available, so the rest of the season is yours to shape.",
+   "1092588": "You lead on 733 and sit 11 clear of Cherag, with Haaland's bloc still dragging you down. Keep an eye on Cherag and your Bench Boost is still in the bank.",
+   "1541394": "You are 5th on 699 and 11 behind Sid, with Tonna threatening from 3 points back. Your chips are all spent, so you will rely on squad moves alone."
   },
   "storylines": [
    {
@@ -6730,10 +6730,10 @@
     "plots": 11
    },
    "11": {
-    "in": 1974667,
-    "out": 415410,
-    "calls": 152,
-    "refreshes": 29,
+    "in": 2006744,
+    "out": 421635,
+    "calls": 154,
+    "refreshes": 30,
     "desks": 41,
     "desk_in": 927076,
     "desk_out": 309546,
@@ -7797,23 +7797,23 @@
   "plots_v": 8,
   "plots_sig": "aa88f3d24981",
   "preview": {
-   "headline": "What's at stake for gameweek 12",
+   "headline": "Gameweek 12: Haaland doubts and Bench Boost fallout",
    "points": [
     {
+     "label": "Title race",
+     "text": "Ayodele leads on 733, 11 clear of Cherag. Cherag's rivals will be watching Ayodele closely."
+    },
+    {
      "label": "Armband dilemma",
-     "text": "Haaland armbanded by 22 managers and scored just 2. Do the blockers keep faith or finally switch to Isak, who captained for 10 points?"
+     "text": "Haaland was captained by 22 managers and scored 2 points, so 4 each. Tempting to switch, but the bloc is big."
     },
     {
      "label": "Injury sweat",
-     "text": "Raya is 50% to play and Davis 75%. Those owning doubtful players will want team news before the deadline."
-    },
-    {
-     "label": "Chips loaded",
-     "text": "Ayodele, Omar and Tomisin have Bench Boost to play, and Ravi still has his Triple Captain. Expect plenty of chip talk."
+     "text": "Raya is at 75% to play and 16 of you own him. Tarkowski is suspended until 13 Dec, so his owners need cover."
     }
    ],
    "gw": 12,
-   "ts": "2026-11-27T12:52:16Z"
+   "ts": "2026-11-27T18:34:16Z"
   },
   "gaffer_draft": {
    "gw": 11,
@@ -17633,13 +17633,41 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-27T13:22:16Z",
+  "ts": "2026-11-27T18:34:16Z",
   "issues": [],
-  "page": []
+  "page": [
+   "briefing for Hishaan: \"Jacquet Potato are 9th on 673, 1 behind Ravi and 2 ahead of Edd.\" has a total of 673; Edd / Ravi are on 671, 674",
+   "briefing for Hishaan: \"Jacquet Potato are 9th on 673, 1 behind Ravi and 2 ahead of Edd.\" has a gap of 1; the gaps between Edd / Ravi are 3",
+   "briefing for Hishaan: \"Jacquet Potato are 9th on 673, 1 behind Ravi and 2 ahead of Edd.\" has a gap of 2; the gaps between Edd / Ravi are 3",
+   "briefing for Edd: \"Wirtz My Jacquet are 10th on 671 after a mediocre 21, now 2 behind Hishaan.\" has a total of 671; Hishaan are on 673",
+   "briefing for Justin: \"The Bench are 15th on 659, 4 behind Maanav and 5 ahead of Will.\" has a total of 659; Maanav / Will are on 654, 663",
+   "briefing for Justin: \"The Bench are 15th on 659, 4 behind Maanav and 5 ahead of Will.\" has a gap of 4; the gaps between Maanav / Will are 9",
+   "briefing for Justin: \"The Bench are 15th on 659, 4 behind Maanav and 5 ahead of Will.\" has a gap of 5; the gaps between Maanav / Will are 9",
+   "briefing for Will: \"eyezil sit 16th on 654, 5 behind The Bench and 3 ahead of Raushan.\" has a total of 654; Raushan are on 651",
+   "briefing for Tomisin: \"Chalupa Batmen 3.0 are 18th on 649, 2 behind Raushan and 5 ahead of Naishadh.\" has a total of 649; Naishadh / Raushan are on 644, 651",
+   "briefing for Tomisin: \"Chalupa Batmen 3.0 are 18th on 649, 2 behind Raushan and 5 ahead of Naishadh.\" has a gap of 2; the gaps between Naishadh / Raushan are 7",
+   "briefing for Tomisin: \"Chalupa Batmen 3.0 are 18th on 649, 2 behind Raushan and 5 ahead of Naishadh.\" has a gap of 5; the gaps between Naishadh / Raushan are 7",
+   "briefing for Naishadh: \"Sound of da Tzolis are 19th on 644, 5 behind Tomisin and 2 ahead of Dominic.\" has a total of 644; Dominic / Tomisin are on 642, 649",
+   "briefing for Naishadh: \"Sound of da Tzolis are 19th on 644, 5 behind Tomisin and 2 ahead of Dominic.\" has a gap of 5; the gaps between Dominic / Tomisin are 7",
+   "briefing for Naishadh: \"Sound of da Tzolis are 19th on 644, 5 behind Tomisin and 2 ahead of Dominic.\" has a gap of 2; the gaps between Dominic / Tomisin are 7",
+   "briefing for Dominic: \"Enzo in the City are 20th on 642 and 1 clear of Lavesh.\" has a total of 642; Lavesh are on 641",
+   "briefing for Lavesh: \"Lav's Elite are 21st on 641 after a 41, now 18 ahead of Saurabh.\" has a total of 641; Saurabh are on 623",
+   "briefing for Saurabh: \"are 22nd on 623, 18 behind Lavesh and 5 ahead of Dinesh.\" has a total of 623; Dinesh / Lavesh are on 618, 641",
+   "briefing for Saurabh: \"are 22nd on 623, 18 behind Lavesh and 5 ahead of Dinesh.\" has a gap of 18; the gaps between Dinesh / Lavesh are 23",
+   "briefing for Saurabh: \"are 22nd on 623, 18 behind Lavesh and 5 ahead of Dinesh.\" has a gap of 5; the gaps between Dinesh / Lavesh are 23",
+   "briefing for Isaiah: \"Kolo's sidepiece are 24th on 613, 5 behind Dinesh and 1 ahead of Tobi.\" has a total of 613; Dinesh / Tobi are on 612, 618",
+   "briefing for Isaiah: \"Kolo's sidepiece are 24th on 613, 5 behind Dinesh and 1 ahead of Tobi.\" has a gap of 5; the gaps between Dinesh / Tobi are 6",
+   "briefing for Isaiah: \"Kolo's sidepiece are 24th on 613, 5 behind Dinesh and 1 ahead of Tobi.\" has a gap of 1; the gaps between Dinesh / Tobi are 6",
+   "briefing for IB: \"Maximus are 26th on 593 after a 3xc captaincy that scored 6, 19 behind Tobi.\" has a total of 593; Tobi are on 612",
+   "briefing for Elvin: \"EA FC are 27th on 587 and 6 behind IB.\" has a total of 587; IB are on 593",
+   "briefing for Sid: \"Choke City are 4th on 710, 10 behind Nihal and 23 behind the leader.\" has a total of 710; Ayodele / Nihal are on 720, 733",
+   "briefing for Sid: \"Choke City are 4th on 710, 10 behind Nihal and 23 behind the leader.\" has a gap of 10; the gaps between Ayodele / Nihal are 13",
+   "briefing for Sid: \"Choke City are 4th on 710, 10 behind Nihal and 23 behind the leader.\" has a gap of 23; the gaps between Ayodele / Nihal are 13"
+  ]
  },
  "pwatch": {
   "seen": {
-   "1": "d|50|Shoulder injury - 50% chance of playing",
+   "1": "d|75|Shoulder injury - 75% chance of playing",
    "391": "a|100|",
    "31": "a|100|",
    "115": "a|None|",
@@ -17698,7 +17726,7 @@
    "13": "a|100|",
    "464": "a|None|",
    "316": "a|100|",
-   "305": "d|75|Calf injury - 75% chance of playing",
+   "305": "a|100|",
    "400": "a|100|",
    "661": "a|None|",
    "282": "a|None|",
@@ -17732,7 +17760,7 @@
    "651": "a|None|",
    "599": "a|None|",
    "301": "a|None|",
-   "397": "i|0|Knee injury - Unknown return date",
+   "397": "i|0|Knee injury - Expected back 2 Dec",
    "226": "a|None|",
    "129": "a|100|",
    "388": "a|100|",
@@ -17759,13 +17787,14 @@
    "251": "2026-11-20T11:59:01Z",
    "391": "2026-11-20T15:36:34Z",
    "388": "2026-11-21T12:11:44Z",
-   "305": "2026-11-22T07:10:07Z",
-   "1": "2026-11-23T14:31:00Z",
+   "305": "2026-11-27T18:34:16Z",
+   "1": "2026-11-27T18:34:16Z",
    "449": "2026-11-21T19:32:50Z",
    "367": "2026-11-25T12:36:55Z",
    "229": "2026-11-23T21:08:27Z",
    "423": "2026-11-25T20:09:50Z",
-   "426": "2026-11-27T13:22:16Z"
+   "426": "2026-11-27T13:22:16Z",
+   "397": "2026-11-27T18:34:16Z"
   },
   "price": {
    "1": 6.2,
@@ -17913,7 +17942,7 @@
    "173": "10:down",
    "334": "11:up",
    "127": "10:up",
-   "286": "10:down",
+   "286": "11:up",
    "411": "11:down",
    "397": "10:down",
    "579": "11:up",
@@ -17921,7 +17950,7 @@
    "129": "10:up",
    "356": "11:up",
    "569": "11:down",
-   "268": "10:down",
+   "268": "11:down",
    "330": "11:up",
    "167": "10:up",
    "566": "11:up",
@@ -17934,7 +17963,7 @@
    "497": "11:down",
    "496": "11:up",
    "480": "11:down",
-   "565": "10:down",
+   "565": "11:down",
    "259": "11:down",
    "423": "10:down",
    "277": "11:down",
@@ -17952,7 +17981,9 @@
    "499": "11:up",
    "332": "11:up",
    "401": "11:down",
-   "362": "11:up"
+   "362": "11:up",
+   "13": "11:down",
+   "57": "11:up"
   },
   "log": [
    {
@@ -18856,6 +18887,60 @@
     "status": "d",
     "chance": 75,
     "news": "Illness - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-27T18:34:16Z",
+    "el": 1,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Shoulder injury - 75% chance of playing"
+   },
+   {
+    "ts": "2026-11-27T18:34:16Z",
+    "el": 286,
+    "kind": "surge",
+    "net": 29662
+   },
+   {
+    "ts": "2026-11-27T18:34:16Z",
+    "el": 565,
+    "kind": "surge",
+    "net": -31238
+   },
+   {
+    "ts": "2026-11-27T18:34:16Z",
+    "el": 268,
+    "kind": "surge",
+    "net": -34307
+   },
+   {
+    "ts": "2026-11-27T18:34:16Z",
+    "el": 305,
+    "kind": "back",
+    "status": "a",
+    "chance": 100,
+    "news": ""
+   },
+   {
+    "ts": "2026-11-27T18:34:16Z",
+    "el": 13,
+    "kind": "surge",
+    "net": -25658
+   },
+   {
+    "ts": "2026-11-27T18:34:16Z",
+    "el": 57,
+    "kind": "surge",
+    "net": 28253
+   },
+   {
+    "ts": "2026-11-27T18:34:16Z",
+    "el": 397,
+    "kind": "news",
+    "status": "i",
+    "chance": 0,
+    "news": "Knee injury - Expected back 2 Dec"
    }
   ]
  },
