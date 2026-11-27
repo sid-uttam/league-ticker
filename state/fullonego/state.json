@@ -10018,7 +10018,7 @@
     1,
     0,
     0,
-    34,
+    43,
     0,
     0,
     0
@@ -10095,7 +10095,7 @@
     1,
     0,
     0,
-    34,
+    43,
     0,
     0,
     0
@@ -10678,7 +10678,7 @@
     1,
     0,
     0,
-    34,
+    43,
     0,
     0,
     0
@@ -10689,7 +10689,7 @@
     1,
     0,
     0,
-    34,
+    43,
     0,
     0,
     0
@@ -10733,7 +10733,7 @@
     3,
     0,
     0,
-    34,
+    43,
     0,
     0,
     0
@@ -10953,7 +10953,7 @@
     1,
     0,
     0,
-    34,
+    43,
     0,
     0,
     0
@@ -11137,7 +11137,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-27T20:34:53Z",
+ "updated": "2026-11-27T20:45:02Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms up as Haaland armband backfires",
@@ -11206,13 +11206,13 @@
     "plots": 3
    },
    "12": {
-    "in": 110317,
-    "out": 23687,
-    "calls": 10,
+    "in": 117246,
+    "out": 25398,
+    "calls": 12,
     "refreshes": 2,
-    "desks": 3,
-    "desk_in": 44357,
-    "desk_out": 16748
+    "desks": 4,
+    "desk_in": 51286,
+    "desk_out": 18459
    }
   },
   "plots_v_tries": {
@@ -12899,6 +12899,95 @@
   },
   "desks": [
    {
+    "headline": "Sukrut leads, but Aditya Dalal's Free Hit is chasing hard",
+    "text": "**Sukrut leads the top spot**, with Kinsky, Vuskovic and Silva still to come for him alone. **Aditya Dalal is chasing him down** on a Free Hit, with Calvert-Lewin's armband still to play, so the fixtures left will decide who sits on top.",
+    "you": {
+     "3991082": "Vuskovic and Silva are yours alone and still to play, so they could keep you on top.",
+     "6543415": "Prerana is closing in on you, and your Free Hit captain Calvert-Lewin is still to play.",
+     "8849458": "Aditya Dalal is in your sights, and Manzambi is yours alone to come.",
+     "3504829": "Prerana is ahead of you, and N.Jackson, your captain, is still to play.",
+     "2994764": "Aryamann is ahead of you, and Gvardiol, Calafiori and Cherki are still to play for you.",
+     "1310155": "Dasilva and McGinn are yours alone and still to play, so you could climb.",
+     "224457": "Van Ewijk and Ndiaye are yours alone, and both are still to play.",
+     "5703947": "Your Triple Captain on N.Jackson is still to play, so he could be your big gamble to pay off.",
+     "8893621": "Ajer and Gomez are yours alone, and your Wildcard side still has them to play.",
+     "2784861": "Aditya Dharap is snapping at your heels, and 9 of your players are still to play.",
+     "3234443": "Atharva Kshirsagar is ahead of you, and Jacquet is yours alone to come.",
+     "5772383": "You were higher earlier today, and Muharemović, your captain, is still to play.",
+     "1979363": "Aarin is right behind you, but Hall and Schade are yours alone to come.",
+     "748886": "Sujal is ahead of you, and you still have 10 players to play.",
+     "7244060": "A points hit has dragged your gameweek below zero, with Evanilson still to play.",
+     "5781412": "Solanke is yours alone and still to play, so he could lift you.",
+     "4979869": "Hill, Ayari and McBurnie are yours alone and still to play.",
+     "4875847": "Only you own Tzolakis and Mendy, and both are still to come.",
+     "9004622": "Diop and M.Sangaré are yours alone to come, with Isak as your captain.",
+     "3188980": "Rogers has 2 points with your armband on him, and only you captain him.",
+     "10320954": "Kayode is yours alone and still to play, so you could be the one to watch."
+    },
+    "ts": "2026-11-27T20:45:02Z",
+    "gw": 12,
+    "moment": "matches_on",
+    "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:i:1-0|120:n:0-0",
+    "ranks": {
+     "3991082": 1,
+     "6543415": 2,
+     "8849458": 3,
+     "3504829": 4,
+     "2994764": 5,
+     "1310155": 6,
+     "224457": 7,
+     "5703947": 8,
+     "8893621": 9,
+     "2784861": 10,
+     "3234443": 11,
+     "6519111": 12,
+     "5772383": 13,
+     "1979363": 14,
+     "748886": 15,
+     "7244060": 16,
+     "5781412": 17,
+     "4979869": 18,
+     "4875847": 19,
+     "8824397": 20,
+     "5733897": 21,
+     "9004622": 22,
+     "3188980": 23,
+     "10320954": 24
+    },
+    "totals": {
+     "3991082": 744,
+     "6543415": 719,
+     "8849458": 717,
+     "3504829": 691,
+     "2994764": 686,
+     "1310155": 673,
+     "224457": 667,
+     "5703947": 662,
+     "8893621": 654,
+     "2784861": 645,
+     "3234443": 643,
+     "6519111": 635,
+     "5772383": 634,
+     "1979363": 630,
+     "748886": 627,
+     "7244060": 610,
+     "5781412": 604,
+     "4979869": 592,
+     "4875847": 576,
+     "8824397": 567,
+     "5733897": 547,
+     "9004622": 532,
+     "3188980": 507,
+     "10320954": 494
+    },
+    "ga": {},
+    "you_full_ts": "2026-11-27T20:14:58Z",
+    "next": {
+     "ko": "2026-11-28T15:00:00Z",
+     "match": "LEE v COV"
+    }
+   },
+   {
     "headline": "Sukrut leads, with Vuskovic and Silva still to come",
     "text": "Sukrut still leads the table, with Vuskovic and Silva yet to play and only he starting both of them. **Aditya Dalal is chasing him down** with a Free Hit and Calvert-Lewin on the armband, and that captain is still to play. The remaining fixtures will decide whether **Sukrut's 2 picks** hold the top spot.",
     "you": {
@@ -13072,7 +13161,7 @@
     "you_full_ts": "2026-11-27T19:07:23Z"
    }
   ],
-  "desk_last_ok": "2026-11-27T20:14:58Z",
+  "desk_last_ok": "2026-11-27T20:45:02Z",
   "desk_day": {
    "date": "2026-11-27",
    "ranks": {
@@ -13703,7 +13792,7 @@
   ]
  },
  "checks": {
-  "ts": "2026-11-27T20:34:53Z",
+  "ts": "2026-11-27T20:45:02Z",
   "issues": [],
   "page": [],
   "wording": [
