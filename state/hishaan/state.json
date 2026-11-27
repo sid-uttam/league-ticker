@@ -10736,7 +10736,7 @@
     1,
     0,
     0,
-    24,
+    34,
     0,
     0,
     0
@@ -11231,7 +11231,7 @@
     1,
     0,
     0,
-    24,
+    34,
     0,
     0,
     0
@@ -11253,7 +11253,7 @@
     1,
     0,
     0,
-    24,
+    34,
     0,
     0,
     0
@@ -11418,7 +11418,7 @@
     1,
     0,
     0,
-    24,
+    34,
     0,
     0,
     0
@@ -11429,7 +11429,7 @@
     1,
     0,
     0,
-    24,
+    34,
     0,
     0,
     0
@@ -11637,7 +11637,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-27T20:24:57Z",
+ "updated": "2026-11-27T20:35:09Z",
  "ai": {
   "briefings": {
    "3029346": "You sit top on 774 after 52 this week, with Nikhil 17 behind. Keep an eye on Haaland's armband and Calafiori, who you don't own but many others do.",
@@ -11691,16 +11691,114 @@
     "plots": 5
    },
    "12": {
-    "in": 98637,
-    "out": 18799,
-    "calls": 8,
+    "in": 105263,
+    "out": 21027,
+    "calls": 10,
     "refreshes": 2,
-    "desks": 2,
-    "desk_in": 28588,
-    "desk_out": 13561
+    "desks": 3,
+    "desk_in": 35214,
+    "desk_out": 15789
    }
   },
   "desks": [
+   {
+    "headline": "Matt leads top spot as Nikhil waits on Isak",
+    "text": "NFO v CHE is 1-0 at 34 minutes, with Palmer's **1 point** the early headline for Lakshay, whose captain could help him escape Rajiv. Matt leads the top spot, De Cuyper still to play, while Nikhil needs **Isak** to haul with Raya, Silva and Calafiori to come.",
+    "you": {
+     "3029346": "Only 2 managers have De Cuyper as captain, and he is still to play for **you**.",
+     "2321301": "Barcola is yours alone among the players still to play, so he is your one route back.",
+     "1921902": "Sunny sits right behind you, and N.Jackson's armband is still to play for you.",
+     "1655993": "Ravin is directly ahead of you, and Groß's armband is still to play for you.",
+     "2687116": "You dropped down the table earlier today and climbed back, with N.Jackson still to play.",
+     "735721": "Your Free Hit squad is level with Chandru, with Calvert-Lewin still to come.",
+     "3344797": "Deepak is directly above you, and Calvert-Lewin's armband is still to play.",
+     "1036311": "Rohan sits directly above you, and Calvert-Lewin's armband is still to play.",
+     "5474293": "Prem is directly behind you, with De Cuyper's armband still to play for you.",
+     "4487775": "Sahil is directly above you, with N.Jackson's armband still to play for you.",
+     "3350483": "Sunil is closing directly behind you, with Calvert-Lewin's armband still to come.",
+     "3072827": "You briefly moved up earlier today and have slipped back, with Isak's armband still to play.",
+     "75778": "Naresh is directly behind you, and Calvert-Lewin's armband is still to play.",
+     "2934546": "Marcel is directly above you, and Isak's armband is still to play.",
+     "5682768": "Naresh is directly above you, and Calvert-Lewin's armband is still to come.",
+     "6892917": "Vanessa is directly above you, with N.Jackson's armband still to play.",
+     "4922092": "Poonam is directly above you, with Isak's armband still to play for you.",
+     "3506595": "Ravi Mahtani is directly above you, and your Wildcard squad still has N.Jackson to come.",
+     "2465483": "Hishaan is directly above you, and Isak's armband is still to play.",
+     "6279027": "Lakshay is directly behind you, and Evanilson's armband is still to play.",
+     "865376": "Pishu is directly above you, but Palmer is already playing for your armband.",
+     "7043406": "You have dropped into the Tin Pot spots, with Evanilson's armband still to play.",
+     "3314780": "Rajiv is directly above you, and Haaland's armband is still to play.",
+     "6159011": "Ravi Bhojwani is directly above you, and N.Jackson's armband is still to play.",
+     "6476662": "Alia is directly behind you, and Wirtz's armband is still to play.",
+     "6051923": "Bella is directly above you, and Haaland's armband is still to play."
+    },
+    "ts": "2026-11-27T20:35:09Z",
+    "gw": 12,
+    "moment": "matches_on",
+    "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:i:1-0|120:n:0-0",
+    "ranks": {
+     "3029346": 1,
+     "2321301": 2,
+     "1921902": 3,
+     "1655993": 4,
+     "735721": 5,
+     "2687116": 5,
+     "3344797": 7,
+     "1036311": 8,
+     "5474293": 9,
+     "4487775": 10,
+     "3350483": 11,
+     "3072827": 12,
+     "75778": 13,
+     "2934546": 14,
+     "5682768": 15,
+     "6892917": 16,
+     "4922092": 17,
+     "3506595": 18,
+     "2465483": 19,
+     "6279027": 20,
+     "865376": 21,
+     "7043406": 22,
+     "3314780": 23,
+     "6159011": 24,
+     "6476662": 25,
+     "6051923": 26
+    },
+    "totals": {
+     "3029346": 775,
+     "2321301": 759,
+     "1921902": 737,
+     "1655993": 735,
+     "735721": 732,
+     "2687116": 732,
+     "3344797": 719,
+     "1036311": 709,
+     "5474293": 699,
+     "4487775": 697,
+     "3350483": 689,
+     "3072827": 688,
+     "75778": 682,
+     "2934546": 679,
+     "5682768": 678,
+     "6892917": 677,
+     "4922092": 675,
+     "3506595": 674,
+     "2465483": 672,
+     "6279027": 650,
+     "865376": 648,
+     "7043406": 646,
+     "3314780": 645,
+     "6159011": 642,
+     "6476662": 617,
+     "6051923": 614
+    },
+    "ga": {},
+    "you_full_ts": "2026-11-27T20:07:40Z",
+    "next": {
+     "ko": "2026-11-28T15:00:00Z",
+     "match": "LEE v COV"
+    }
+   },
    {
     "headline": "Matt leads, Nikhil chasing with Isak still to play",
     "text": "Matt still leads the top spot fight with **De Cuyper** his captain still to play, while Nikhil's hopes ride on **Isak** and Raya, Silva and Calafiori. Matt's Kinsky, Van Hecke and Gabriel could keep the lead safe if they haul.",
@@ -11926,7 +12024,7 @@
     "6051923": 26
    }
   },
-  "desk_last_ok": "2026-11-27T20:07:40Z",
+  "desk_last_ok": "2026-11-27T20:35:09Z",
   "plots": [
    {
     "id": "title",
@@ -15091,7 +15189,7 @@
   "ts": "2026-11-27T19:08:21Z"
  },
  "checks": {
-  "ts": "2026-11-27T20:24:57Z",
+  "ts": "2026-11-27T20:35:09Z",
   "issues": [],
   "page": [],
   "wording": [
