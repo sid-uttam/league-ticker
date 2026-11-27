@@ -66161,7 +66161,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-27T22:35:08Z",
+ "updated": "2026-11-27T22:44:35Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week. Neol is the main threat, so watch the Haaland armband and whether you hold your Free Hit for later.",
@@ -75837,7 +75837,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-27T22:35:08Z",
+  "ts": "2026-11-27T22:44:35Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -76409,7 +76409,7 @@
    "138": "11:down",
    "426": "11:up",
    "106": "11:down",
-   "366": "11:up",
+   "366": "12:up",
    "464": "11:down",
    "388": "11:down",
    "10": "11:down",
@@ -77695,6 +77695,12 @@
     "el": 57,
     "kind": "surge",
     "net": 28253
+   },
+   {
+    "ts": "2026-11-27T22:44:35Z",
+    "el": 366,
+    "kind": "surge",
+    "net": 25093
    }
   ]
  },
