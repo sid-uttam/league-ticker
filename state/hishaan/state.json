@@ -2633,108 +2633,108 @@
     "player_name": "Matt Lamming",
     "entry_name": "Lammo's Lads",
     "rank": 1,
-    "last_rank": 2,
+    "last_rank": 1,
     "total": 774,
-    "event_total": 52
+    "event_total": 0
    },
    {
     "entry": 2321301,
     "player_name": "Nikhil Chainani",
     "entry_name": "Umm Suqeim FC",
     "rank": 2,
-    "last_rank": 1,
+    "last_rank": 2,
     "total": 757,
-    "event_total": 34
+    "event_total": 0
    },
    {
     "entry": 1921902,
     "player_name": "Ravin Melwani",
     "entry_name": "Robby's Rebels",
     "rank": 3,
-    "last_rank": 4,
+    "last_rank": 3,
     "total": 735,
-    "event_total": 28
+    "event_total": 0
    },
    {
     "entry": 1655993,
     "player_name": "Sunny Aswani",
     "entry_name": "RedArmy",
     "rank": 4,
-    "last_rank": 8,
+    "last_rank": 4,
     "total": 734,
-    "event_total": 67
+    "event_total": 0
    },
    {
     "entry": 735721,
     "player_name": "Deepak Gidwani",
     "entry_name": "2-Hype Toffees",
     "rank": 5,
-    "last_rank": 3,
+    "last_rank": 5,
     "total": 732,
-    "event_total": 24
+    "event_total": 0
    },
    {
     "entry": 2687116,
     "player_name": "Chandru Mirchandani",
     "entry_name": "Bruno Dos Tres",
     "rank": 6,
-    "last_rank": 5,
+    "last_rank": 6,
     "total": 731,
-    "event_total": 35
+    "event_total": 0
    },
    {
     "entry": 3344797,
     "player_name": "Rohan Belani",
     "entry_name": "orangeblaze78",
     "rank": 7,
-    "last_rank": 6,
+    "last_rank": 7,
     "total": 718,
-    "event_total": 44
+    "event_total": 0
    },
    {
     "entry": 1036311,
     "player_name": "Amit Mahtani",
     "entry_name": "AMFC 11",
     "rank": 8,
-    "last_rank": 9,
+    "last_rank": 8,
     "total": 707,
-    "event_total": 49
+    "event_total": 0
    },
    {
     "entry": 5474293,
     "player_name": "Sahil Mirchandani",
     "entry_name": "Flick Ball",
     "rank": 9,
-    "last_rank": 12,
+    "last_rank": 9,
     "total": 697,
-    "event_total": 45
+    "event_total": 0
    },
    {
     "entry": 4487775,
     "player_name": "Prem Balani",
     "entry_name": "Leaf Green",
     "rank": 10,
-    "last_rank": 7,
-    "total": 696,
-    "event_total": 27
-   },
-   {
-    "entry": 3072827,
-    "player_name": "Sunil Balani",
-    "entry_name": "Red Devils United",
-    "rank": 11,
     "last_rank": 10,
-    "total": 687,
-    "event_total": 33
+    "total": 696,
+    "event_total": 0
    },
    {
     "entry": 3350483,
     "player_name": "Aashiv Adnani",
     "entry_name": "Aashiv's 11",
+    "rank": 11,
+    "last_rank": 12,
+    "total": 687,
+    "event_total": 0
+   },
+   {
+    "entry": 3072827,
+    "player_name": "Sunil Balani",
+    "entry_name": "Red Devils United",
     "rank": 12,
     "last_rank": 11,
     "total": 687,
-    "event_total": 34
+    "event_total": 0
    },
    {
     "entry": 75778,
@@ -2743,16 +2743,16 @@
     "rank": 13,
     "last_rank": 13,
     "total": 681,
-    "event_total": 34
+    "event_total": 0
    },
    {
     "entry": 2934546,
     "player_name": "Naresh Chugh",
     "entry_name": "Legends FC",
     "rank": 14,
-    "last_rank": 19,
+    "last_rank": 14,
     "total": 678,
-    "event_total": 50
+    "event_total": 0
    },
    {
     "entry": 5682768,
@@ -2761,16 +2761,16 @@
     "rank": 15,
     "last_rank": 15,
     "total": 677,
-    "event_total": 43
+    "event_total": 0
    },
    {
     "entry": 6892917,
     "player_name": "Poonam Mahtani",
     "entry_name": "Fifteen Fighters",
     "rank": 16,
-    "last_rank": 14,
+    "last_rank": 16,
     "total": 675,
-    "event_total": 39
+    "event_total": 0
    },
    {
     "entry": 4922092,
@@ -2779,25 +2779,25 @@
     "rank": 17,
     "last_rank": 17,
     "total": 674,
-    "event_total": 45
+    "event_total": 0
    },
    {
     "entry": 3506595,
     "player_name": "Hishaan Mahtani",
     "entry_name": "Jacquet Potato",
     "rank": 18,
-    "last_rank": 15,
+    "last_rank": 18,
     "total": 673,
-    "event_total": 39
+    "event_total": 0
    },
    {
     "entry": 2465483,
     "player_name": "Inesh Uttamchandani",
     "entry_name": "Inu10",
     "rank": 19,
-    "last_rank": 18,
+    "last_rank": 19,
     "total": 671,
-    "event_total": 43
+    "event_total": 0
    },
    {
     "entry": 6279027,
@@ -2806,7 +2806,7 @@
     "rank": 20,
     "last_rank": 20,
     "total": 649,
-    "event_total": 30
+    "event_total": 0
    },
    {
     "entry": 865376,
@@ -2815,7 +2815,7 @@
     "rank": 21,
     "last_rank": 21,
     "total": 645,
-    "event_total": 27
+    "event_total": 0
    },
    {
     "entry": 7043406,
@@ -2824,43 +2824,43 @@
     "rank": 22,
     "last_rank": 22,
     "total": 645,
-    "event_total": 32
+    "event_total": 0
    },
    {
     "entry": 3314780,
     "player_name": "Ravi Bhojwani",
     "entry_name": "Five Star XI",
     "rank": 23,
-    "last_rank": 24,
+    "last_rank": 23,
     "total": 644,
-    "event_total": 44
+    "event_total": 0
    },
    {
     "entry": 6159011,
     "player_name": "Vinesh Mirpuri",
     "entry_name": "Egg Fried Guimarães",
     "rank": 24,
-    "last_rank": 23,
+    "last_rank": 24,
     "total": 641,
-    "event_total": 29
+    "event_total": 0
    },
    {
     "entry": 6476662,
     "player_name": "Bella Castaneda",
     "entry_name": "Haalahfame",
     "rank": 25,
-    "last_rank": 26,
+    "last_rank": 25,
     "total": 617,
-    "event_total": 57
+    "event_total": 0
    },
    {
     "entry": 6051923,
     "player_name": "Alia Vachani",
     "entry_name": "Your Wirtz Nightmare",
     "rank": 26,
-    "last_rank": 25,
+    "last_rank": 26,
     "total": 613,
-    "event_total": 29
+    "event_total": 0
    }
   ]
  },
@@ -11592,8 +11592,8 @@
    "1036311": 8,
    "5474293": 9,
    "4487775": 10,
-   "3072827": 11,
    "3350483": 11,
+   "3072827": 11,
    "75778": 13,
    "2934546": 14,
    "5682768": 15,
@@ -11620,8 +11620,8 @@
    "1036311": "silver",
    "5474293": null,
    "4487775": null,
-   "3072827": null,
    "3350483": null,
+   "3072827": null,
    "75778": null,
    "2934546": null,
    "5682768": null,
@@ -11638,7 +11638,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-27T19:08:21Z",
+ "updated": "2026-11-27T19:17:46Z",
  "ai": {
   "briefings": {
    "3029346": "You sit top on 774 after 52 this week, with Nikhil 17 behind. Keep an eye on Haaland's armband and Calafiori, who you don't own but many others do.",
@@ -14990,7 +14990,7 @@
   "ts": "2026-11-27T19:08:21Z"
  },
  "checks": {
-  "ts": "2026-11-27T19:08:21Z",
+  "ts": "2026-11-27T19:17:46Z",
   "issues": [],
   "page": []
  },
