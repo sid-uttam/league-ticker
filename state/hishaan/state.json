@@ -1,37 +1,37 @@
 {
  "base": {
-  "gw": 11,
+  "gw": 12,
   "totals": {
-   "2321301": 723,
-   "3029346": 722,
-   "735721": 708,
-   "1921902": 707,
-   "2687116": 696,
-   "3344797": 674,
-   "4487775": 669,
-   "1655993": 667,
-   "1036311": 658,
-   "3072827": 654,
-   "3350483": 653,
-   "5474293": 652,
-   "75778": 647,
-   "6892917": 636,
-   "5682768": 634,
-   "3506595": 634,
-   "4922092": 629,
-   "2465483": 628,
-   "2934546": 628,
-   "6279027": 619,
-   "865376": 618,
-   "7043406": 613,
-   "6159011": 612,
-   "3314780": 600,
-   "6051923": 584,
-   "6476662": 560
+   "3029346": 774,
+   "2321301": 757,
+   "1921902": 735,
+   "1655993": 734,
+   "735721": 732,
+   "2687116": 731,
+   "3344797": 718,
+   "1036311": 707,
+   "5474293": 697,
+   "4487775": 696,
+   "3072827": 687,
+   "3350483": 687,
+   "75778": 681,
+   "2934546": 678,
+   "5682768": 677,
+   "6892917": 675,
+   "4922092": 674,
+   "3506595": 673,
+   "2465483": 671,
+   "6279027": 649,
+   "865376": 645,
+   "7043406": 645,
+   "3314780": 644,
+   "6159011": 641,
+   "6476662": 617,
+   "6051923": 613
   }
  },
  "hist": {
-  "key": "11:between",
+  "key": "12:live",
   "data": {
    "3029346": {
     "past": 5,
@@ -112,6 +112,13 @@
       0,
       0,
       13
+     ],
+     [
+      12,
+      0,
+      0,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -208,6 +215,13 @@
       0,
       0,
       5
+     ],
+     [
+      12,
+      0,
+      2,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -304,6 +318,13 @@
       1,
       0,
       14
+     ],
+     [
+      12,
+      0,
+      1,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -394,6 +415,13 @@
       11,
       67,
       0,
+      0,
+      0
+     ],
+     [
+      12,
+      0,
+      1,
       0,
       0
      ]
@@ -496,6 +524,13 @@
       0,
       0,
       6
+     ],
+     [
+      12,
+      0,
+      0,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -510,6 +545,10 @@
      [
       "wildcard",
       4
+     ],
+     [
+      "freehit",
+      12
      ]
     ]
    },
@@ -592,6 +631,13 @@
       0,
       0,
       12
+     ],
+     [
+      12,
+      0,
+      2,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -688,6 +734,13 @@
       2,
       0,
       11
+     ],
+     [
+      12,
+      0,
+      0,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -777,6 +830,13 @@
      [
       11,
       49,
+      1,
+      0,
+      0
+     ],
+     [
+      12,
+      0,
       1,
       0,
       0
@@ -872,6 +932,13 @@
       0,
       0,
       3
+     ],
+     [
+      12,
+      0,
+      2,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -960,6 +1027,13 @@
       0,
       0,
       0
+     ],
+     [
+      12,
+      0,
+      3,
+      0,
+      0
      ]
     ],
     "chips": []
@@ -1043,6 +1117,13 @@
       0,
       0,
       10
+     ],
+     [
+      12,
+      0,
+      2,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -1135,6 +1216,13 @@
       2,
       0,
       12
+     ],
+     [
+      12,
+      0,
+      0,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -1231,6 +1319,13 @@
       0,
       0,
       18
+     ],
+     [
+      12,
+      0,
+      1,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -1331,6 +1426,13 @@
       0,
       0,
       17
+     ],
+     [
+      12,
+      0,
+      0,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -1419,6 +1521,13 @@
       2,
       0,
       5
+     ],
+     [
+      12,
+      0,
+      1,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -1507,6 +1616,13 @@
       0,
       0,
       13
+     ],
+     [
+      12,
+      0,
+      2,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -1599,6 +1715,13 @@
       0,
       0,
       26
+     ],
+     [
+      12,
+      0,
+      1,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -1695,12 +1818,23 @@
       0,
       0,
       2
+     ],
+     [
+      12,
+      0,
+      0,
+      0,
+      0
      ]
     ],
     "chips": [
      [
       "3xc",
       2
+     ],
+     [
+      "wildcard",
+      12
      ]
     ]
    },
@@ -1783,6 +1917,13 @@
       1,
       0,
       5
+     ],
+     [
+      12,
+      0,
+      1,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -1879,6 +2020,13 @@
       1,
       0,
       10
+     ],
+     [
+      12,
+      0,
+      1,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -1971,6 +2119,13 @@
       0,
       0,
       12
+     ],
+     [
+      12,
+      0,
+      2,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -2059,6 +2214,13 @@
       1,
       0,
       22
+     ],
+     [
+      12,
+      0,
+      1,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -2155,6 +2317,13 @@
       0,
       0,
       9
+     ],
+     [
+      12,
+      0,
+      0,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -2243,6 +2412,13 @@
       1,
       0,
       18
+     ],
+     [
+      12,
+      0,
+      0,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -2335,6 +2511,13 @@
       1,
       0,
       -3
+     ],
+     [
+      12,
+      0,
+      0,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -2423,6 +2606,13 @@
       0,
       0,
       14
+     ],
+     [
+      12,
+      0,
+      3,
+      0,
+      0
      ]
     ],
     "chips": [
@@ -2435,7 +2625,7 @@
   }
  },
  "league": {
-  "gw": 11,
+  "gw": 12,
   "name": "Badmaash Premier League",
   "managers": [
    {
@@ -8292,6 +8482,89 @@
  },
  "stories": [
   {
+   "key": "d12:lone-wolves",
+   "kind": "deadline",
+   "tag": "Captains",
+   "head": "3 rebels ignore the Calvert-Lewin armband",
+   "body": "6 of 26 went with Calvert-Lewin. These 3 each picked a captain nobody else did:\nBella: Wirtz\nLakshay: Palmer\nSunny: Groß",
+   "stat": "3 solo captains",
+   "score": 78,
+   "who": [
+    865376,
+    1655993,
+    6476662
+   ],
+   "ts": "2026-11-27T19:08:21Z",
+   "gw": 12
+  },
+  {
+   "key": "d12:chip:735721",
+   "kind": "deadline",
+   "tag": "Chips",
+   "head": "Deepak plays the Free Hit",
+   "body": "A whole new team for one week only.",
+   "stat": "Free Hit",
+   "score": 73,
+   "who": [
+    735721
+   ],
+   "ts": "2026-11-27T19:08:21Z",
+   "gw": 12
+  },
+  {
+   "key": "d12:chip:3506595",
+   "kind": "deadline",
+   "tag": "Chips",
+   "head": "Hishaan tears it up with a Wildcard",
+   "body": "10 new faces this week.",
+   "stat": "Wildcard",
+   "score": 65,
+   "who": [
+    3506595
+   ],
+   "ts": "2026-11-27T19:08:21Z",
+   "gw": 12
+  },
+  {
+   "key": "d12:rivals:1921902:1655993",
+   "kind": "deadline",
+   "tag": "Rivalry",
+   "head": "Ravin vs Sunny: 1 point apart",
+   "body": "3rd and 4th going into the weekend. N.Jackson for Ravin, Groß for Sunny: the armband could settle it.",
+   "stat": "Gap: 1 pt",
+   "score": 58,
+   "who": [
+    1655993,
+    1921902
+   ],
+   "ts": "2026-11-27T19:08:21Z",
+   "gw": 12
+  },
+  {
+   "key": "d12:bandwagon:366",
+   "kind": "deadline",
+   "tag": "Transfers",
+   "head": "Everyone wants Wirtz: 7 of you bring him in",
+   "body": "Alia, Amit, Deepak and 4 others all moved for Wirtz this week.",
+   "stat": "7 buys",
+   "score": 50,
+   "who": [],
+   "ts": "2026-11-27T19:08:21Z",
+   "gw": 12
+  },
+  {
+   "key": "d12:bandwagon:379",
+   "kind": "deadline",
+   "tag": "Transfers",
+   "head": "Everyone wants Isak: 6 of you bring him in",
+   "body": "Alia, Deepak, Hishaan, Nikhil, Prem and Sunil all moved for Isak this week.",
+   "stat": "6 buys",
+   "score": 50,
+   "who": [],
+   "ts": "2026-11-27T19:08:21Z",
+   "gw": 12
+  },
+  {
    "key": "news:1:Shoulder injury - 75% chance of playing",
    "kind": "news",
    "tag": "News",
@@ -8523,8 +8796,7 @@
     4922092
    ],
    "ts": "2026-11-22T18:06:23Z",
-   "gw": 11,
-   "img": "share/live/gw11-p627-e503b70bce.png"
+   "gw": 11
   },
   {
    "key": "l11:top3:1921902:735",
@@ -8640,8 +8912,7 @@
     3072827
    ],
    "ts": "2026-11-22T16:07:42Z",
-   "gw": 11,
-   "img": "share/live/gw11-p286-20088192e0.png"
+   "gw": 11
   },
   {
    "key": "l11:cs-lost:Brighton",
@@ -8764,8 +9035,7 @@
     2687116
    ],
    "ts": "2026-11-21T19:10:53Z",
-   "gw": 11,
-   "img": "share/live/gw11-p15-b739a72229.png"
+   "gw": 11
   },
   {
    "key": "d11:sold:16:1:0",
@@ -8779,8 +9049,7 @@
     2934546
    ],
    "ts": "2026-11-21T19:10:53Z",
-   "gw": 11,
-   "img": "share/live/gw11-p16-088e432b2e.png"
+   "gw": 11
   },
   {
    "key": "d11:sold:453:1:0",
@@ -8794,8 +9063,7 @@
     2934546
    ],
    "ts": "2026-11-21T18:45:59Z",
-   "gw": 11,
-   "img": "share/live/gw11-p453-71be646d70.png"
+   "gw": 11
   },
   {
    "key": "l11:ret:453:1:0:bench",
@@ -8859,8 +9127,7 @@
     7043406
    ],
    "ts": "2026-11-21T17:01:38Z",
-   "gw": 11,
-   "img": "share/live/gw11-p166-a9fef7a013.png"
+   "gw": 11
   },
   {
    "key": "d11:capflop:154",
@@ -8874,8 +9141,7 @@
     865376
    ],
    "ts": "2026-11-21T17:01:38Z",
-   "gw": 11,
-   "img": "share/live/gw11-p154-76ca2a7d89.png"
+   "gw": 11
   },
   {
    "key": "l11:level-top:3029346:2321301:744",
@@ -8905,8 +9171,7 @@
     5682768
    ],
    "ts": "2026-11-21T16:22:38Z",
-   "gw": 11,
-   "img": "share/live/gw11-p330-a1545f3011.png"
+   "gw": 11
   },
   {
    "key": "l11:ret:346:1:1:bench",
@@ -8936,8 +9201,7 @@
     3029346
    ],
    "ts": "2026-11-21T15:58:10Z",
-   "gw": 11,
-   "img": "share/live/gw11-lead-573297515f.png"
+   "gw": 11
   },
   {
    "key": "d11:sold:68:0:1",
@@ -9133,8 +9397,7 @@
     6892917
    ],
    "ts": "2026-11-21T14:31:08Z",
-   "gw": 11,
-   "img": "share/live/gw11-p411-f5a14b508e.png"
+   "gw": 11
   },
   {
    "key": "d11:onpitch:391",
@@ -10285,24 +10548,31 @@
   "w11:zones",
   "news:1:Shoulder injury - 50% chance of playing",
   "news:449:Unspecified injury - 75% chance of playing",
-  "news:1:Shoulder injury - 75% chance of playing"
+  "news:1:Shoulder injury - 75% chance of playing",
+  "d12:lone-wolves",
+  "d12:chip:735721",
+  "d12:chip:3506595",
+  "d12:rivals:1921902:1655993",
+  "d12:bandwagon:366",
+  "d12:bandwagon:379"
  ],
  "done": [
   "deadline:10",
   "deadline:11",
+  "deadline:12",
   "wrap:10",
   "wrap:11"
  ],
  "snap": {
-  "gw": 11,
+  "gw": 12,
   "el": {
    "512": [
     0,
     0,
-    2,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10310,10 +10580,10 @@
    "1": [
     0,
     0,
-    1,
     0,
     0,
-    69,
+    0,
+    0,
     0,
     0,
     0
@@ -10324,7 +10594,7 @@
     0,
     0,
     0,
-    90,
+    0,
     0,
     0,
     0
@@ -10332,21 +10602,10 @@
    "4": [
     0,
     0,
-    1,
     0,
     0,
-    90,
     0,
     0,
-    0
-   ],
-   "261": [
-    0,
-    0,
-    1,
-    0,
-    0,
-    69,
     0,
     0,
     0
@@ -10354,10 +10613,10 @@
    "8": [
     0,
     0,
-    1,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -10376,10 +10635,10 @@
    "268": [
     0,
     0,
-    2,
     0,
     0,
-    69,
+    0,
+    0,
     0,
     0,
     0
@@ -10387,32 +10646,21 @@
    "13": [
     0,
     0,
-    3,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
    ],
    "15": [
     0,
-    1,
-    5,
     0,
     0,
-    90,
     0,
     0,
-    0
-   ],
-   "16": [
-    1,
     0,
-    8,
-    0,
-    0,
-    90,
     0,
     0,
     0
@@ -10431,21 +10679,21 @@
    "279": [
     0,
     0,
-    6,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
    ],
    "286": [
     0,
-    1,
-    7,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10453,10 +10701,10 @@
    "31": [
     0,
     0,
-    1,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -10464,10 +10712,10 @@
    "289": [
     0,
     0,
-    3,
-    1,
     0,
-    67,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10475,21 +10723,21 @@
    "290": [
     0,
     0,
-    3,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
    ],
    "40": [
     0,
-    1,
-    5,
     0,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10497,10 +10745,10 @@
    "45": [
     0,
     0,
-    1,
     0,
     0,
-    30,
+    0,
+    0,
     0,
     0,
     0
@@ -10519,10 +10767,10 @@
    "304": [
     0,
     0,
-    3,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -10530,10 +10778,10 @@
    "305": [
     0,
     0,
-    1,
     0,
     0,
-    82,
+    0,
+    0,
     0,
     0,
     0
@@ -10541,10 +10789,10 @@
    "53": [
     0,
     0,
-    1,
     0,
     0,
-    59,
+    0,
+    0,
     0,
     0,
     0
@@ -10552,10 +10800,10 @@
    "566": [
     0,
     0,
-    8,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10563,10 +10811,10 @@
    "565": [
     0,
     0,
-    1,
     0,
     0,
-    8,
+    0,
+    0,
     0,
     0,
     0
@@ -10574,10 +10822,10 @@
    "57": [
     0,
     0,
-    6,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10585,32 +10833,21 @@
    "572": [
     0,
     0,
-    10,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
    ],
    "60": [
     0,
-    1,
-    14,
-    1,
-    0,
-    90,
     0,
     0,
-    0
-   ],
-   "316": [
     0,
     0,
-    1,
     0,
-    0,
-    16,
     0,
     0,
     0
@@ -10629,21 +10866,21 @@
    "579": [
     0,
     0,
-    6,
-    1,
     0,
-    84,
+    0,
+    0,
+    0,
     0,
     0,
     0
    ],
    "68": [
     0,
-    1,
-    8,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10651,21 +10888,21 @@
    "67": [
     0,
     0,
-    3,
-    1,
     0,
-    89,
+    0,
+    0,
+    0,
     0,
     0,
     0
    ],
    "330": [
     0,
-    1,
-    4,
     0,
     0,
-    85,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10673,10 +10910,10 @@
    "332": [
     0,
     0,
-    4,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -10684,32 +10921,21 @@
    "334": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
    ],
    "79": [
-    1,
-    0,
-    6,
-    1,
-    0,
-    90,
-    0,
-    0,
-    0
-   ],
-   "592": [
     0,
     0,
     0,
     0,
     0,
-    55,
+    0,
     0,
     0,
     0
@@ -10717,32 +10943,43 @@
    "82": [
     0,
     0,
-    6,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "597": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
    ],
    "86": [
-    2,
     0,
-    16,
-    1,
     0,
-    73,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
    ],
    "346": [
-    1,
-    1,
-    9,
     0,
     0,
-    90,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10750,10 +10987,10 @@
    "94": [
     0,
     0,
-    1,
     0,
     0,
-    24,
+    0,
+    0,
     0,
     0,
     0
@@ -10761,10 +10998,10 @@
    "350": [
     0,
     0,
-    7,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10772,10 +11009,10 @@
    "362": [
     0,
     0,
-    6,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10783,21 +11020,21 @@
    "109": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
    ],
    "366": [
-    1,
-    1,
-    14,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10816,10 +11053,10 @@
    "112": [
     0,
     0,
-    6,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10835,35 +11072,46 @@
     0,
     0
    ],
+   "369": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
    "115": [
     0,
     0,
-    1,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
    ],
    "627": [
     0,
-    1,
-    5,
-    1,
     0,
-    71,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
    ],
    "379": [
     0,
-    1,
-    5,
-    1,
     0,
-    84,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10871,10 +11119,10 @@
    "124": [
     0,
     0,
-    4,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -10882,10 +11130,21 @@
    "127": [
     0,
     0,
-    3,
-    1,
     0,
-    79,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "385": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -10893,10 +11152,10 @@
    "388": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -10904,10 +11163,10 @@
    "390": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -10915,10 +11174,10 @@
    "391": [
     0,
     0,
-    1,
     0,
     0,
-    12,
+    0,
+    0,
     0,
     0,
     0
@@ -10926,10 +11185,10 @@
    "138": [
     0,
     0,
-    1,
     0,
     0,
-    23,
+    0,
+    0,
     0,
     0,
     0
@@ -10937,10 +11196,10 @@
    "650": [
     0,
     0,
-    4,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -10948,10 +11207,10 @@
    "399": [
     0,
     0,
-    1,
     0,
     0,
-    20,
+    0,
+    0,
     0,
     0,
     0
@@ -10959,10 +11218,10 @@
    "400": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -10970,10 +11229,10 @@
    "154": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -10992,10 +11251,10 @@
    "156": [
     0,
     0,
-    1,
     0,
     0,
-    26,
+    0,
+    0,
     0,
     0,
     0
@@ -11003,10 +11262,10 @@
    "411": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -11014,10 +11273,10 @@
    "412": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -11036,10 +11295,10 @@
    "166": [
     0,
     0,
-    2,
-    1,
     0,
-    72,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -11058,10 +11317,10 @@
    "426": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -11069,10 +11328,10 @@
    "427": [
     0,
     0,
-    1,
     0,
     0,
-    21,
+    0,
+    0,
     0,
     0,
     0
@@ -11080,10 +11339,10 @@
    "173": [
     0,
     0,
-    3,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -11091,10 +11350,10 @@
    "175": [
     0,
     0,
-    1,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -11110,24 +11369,13 @@
     0,
     0
    ],
-   "432": [
-    0,
-    0,
-    4,
-    0,
-    0,
-    86,
-    0,
-    0,
-    0
-   ],
    "183": [
     0,
-    2,
-    10,
     0,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -11135,32 +11383,21 @@
    "449": [
     0,
     0,
-    1,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
    ],
    "453": [
-    1,
-    0,
-    7,
     0,
     0,
-    90,
     0,
     0,
-    0
-   ],
-   "464": [
     0,
     0,
-    1,
-    0,
-    0,
-    7,
     0,
     0,
     0
@@ -11179,10 +11416,10 @@
    "469": [
     0,
     0,
-    1,
     0,
     0,
-    71,
+    0,
+    0,
     0,
     0,
     0
@@ -11190,21 +11427,21 @@
    "480": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
    ],
    "481": [
-    1,
-    0,
-    10,
     0,
     0,
-    90,
+    0,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -11212,10 +11449,10 @@
    "226": [
     0,
     0,
-    1,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -11223,10 +11460,10 @@
    "229": [
     0,
     0,
-    -4,
     0,
-    1,
-    39,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -11234,10 +11471,10 @@
    "230": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -11245,10 +11482,10 @@
    "233": [
     0,
     0,
-    1,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
@@ -11256,10 +11493,10 @@
    "236": [
     0,
     0,
-    2,
     0,
     0,
-    68,
+    0,
+    0,
     0,
     0,
     0
@@ -11267,10 +11504,10 @@
    "237": [
     0,
     0,
-    2,
     0,
     0,
-    77,
+    0,
+    0,
     0,
     0,
     0
@@ -11278,10 +11515,10 @@
    "496": [
     0,
     0,
-    7,
-    1,
     0,
-    90,
+    0,
+    0,
+    0,
     0,
     0,
     0
@@ -11293,17 +11530,6 @@
     0,
     0,
     0,
-    0,
-    0,
-    0
-   ],
-   "502": [
-    0,
-    0,
-    1,
-    0,
-    0,
-    11,
     0,
     0,
     0
@@ -11325,7 +11551,7 @@
     0,
     0,
     0,
-    90,
+    0,
     0,
     0,
     0
@@ -11333,10 +11559,10 @@
    "249": [
     0,
     0,
-    2,
     0,
     0,
-    68,
+    0,
+    0,
     0,
     0,
     0
@@ -11344,19 +11570,16 @@
    "250": [
     0,
     0,
-    2,
     0,
     0,
-    90,
+    0,
+    0,
     0,
     0,
     0
    ],
    "_hits": {},
-   "_bench": {
-    "1655993": 0,
-    "1036311": 0
-   }
+   "_bench": {}
   },
   "ranks": {
    "3029346": 1,
@@ -11415,7 +11638,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-27T18:42:27Z",
+ "updated": "2026-11-27T19:08:21Z",
  "ai": {
   "briefings": {
    "3029346": "You sit top on 774 after 52 this week, with Nikhil 17 behind. Keep an eye on Haaland's armband and Calafiori, who you don't own but many others do.",
@@ -11445,8 +11668,8 @@
    "6476662": "You are 25th on 617 after a 57-point week with the Triple Captain, 24 behind Vinesh. Alia is 4 behind you, so keep pushing up.",
    "6051923": "You are 26th on 613 after 29 this week, 4 behind Bella. Ice Cold is the tag hanging over you, so look for a comeback."
   },
-  "key": "11:between",
-  "ts": "2026-11-27T18:42:27Z",
+  "key": "12:live",
+  "ts": "2026-11-27T19:08:21Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -11467,43 +11690,54 @@
     "desk_in": 937345,
     "desk_out": 301465,
     "plots": 5
+   },
+   "12": {
+    "in": 42385,
+    "out": 7464,
+    "calls": 4,
+    "refreshes": 1,
+    "desks": 1,
+    "desk_in": 6964,
+    "desk_out": 5791
    }
   },
   "desks": [
    {
-    "headline": "Haaland blanks on 22 armbands; Sunny wins the week",
-    "text": "**Sunny** won the week with **67 points**, his Bench Boost returning 23 as he climbed from 8th to 4th. Haaland blanked on 22 armbands, and **Matt** now leads **Nikhil** by 17 at the top. We said Calafiori blanking could hand Matt top spot, and it did.",
+    "headline": "Calafiori's haul could decide who sits in the Gold spots",
+    "text": "**If N.Jackson hauls, Poonam could pass Aashiv**, with 17 managers starting him and 6 captaining him at IPS (A). Poonam **starts 12 behind Aashiv**, so one haul could flip the race.",
     "you": {
-     "3029346": "You beat Nikhil by 18 points this week, so the 17-point lead at the top is yours to defend.",
-     "2321301": "Matt outscored you by 18 points, dropping you from top to 2nd behind him.",
-     "1921902": "Sunny outscored you by 39 points, leaving you just 1 point clear of him.",
-     "1655993": "Your Bench Boost returned 23 points, lifting you from 8th to 4th.",
-     "735721": "Your 24 points earned The Doghouse, the week's lowest score, dropping you from 3rd to 5th.",
-     "3344797": "Your transfer swap added 7 points, though you slipped from 6th to 7th.",
-     "1036311": "Your Bench Boost returned 18 points, but Rohan stays 11 points ahead of you.",
-     "5474293": "Lewis-Potter's 16 points, owned only by you, lifted you from 12th to 9th.",
-     "4487775": "Free Fall: you dropped 3 places to 10th, the week's biggest faller among the top 10.",
-     "3350483": "Your new signing Vuskovic scored 0 points, earning you the Transfer Flop award.",
-     "3072827": "Benching Belloumi was a costly call, as he scored 7 points from your bench.",
-     "75778": "Naresh outscored you by 16 points, but you stayed 3 points clear of him.",
-     "2934546": "Your Wildcard sent you up 4 places to 14th, earning you the Rocket award.",
-     "5682768": "Naresh outscored you by 7 points, leaving you 1 point behind him in 15th.",
-     "6892917": "You dropped from 14th to 16th after Tzolakis's 10 points sat on your bench.",
-     "4922092": "Your Wildcard could not save you, as 26 points sat on your bench.",
-     "3506595": "Free Fall: you dropped 3 places to 18th.",
-     "2465483": "You outscored Pishu by 13 points, though Hishaan stays 2 points ahead of you.",
-     "6279027": "The One That Got Away: you sold Belloumi, who then scored 7 points.",
-     "865376": "Rajiv outscored you by 5 points, leaving you level with him on the Tin Pot line.",
-     "7043406": "Ravi Bhojwani outscored you by 12 points, leaving you level with Lakshay.",
-     "3314780": "You outscored Vinesh by 15 points, climbing into the Tin Pot spots.",
-     "6159011": "Bella outscored you by 28 points, dropping you deeper into the Tin Pot.",
-     "6476662": "Your Triple Captain returned 6 points, climbing you to 25th in the Tin Pot.",
-     "6051923": "Tarkowski's red card left one of your starters on -3 points, sending you deeper into the Tin Pot."
+     "3029346": "If Gabriel and Kinsky both haul, you could stay top.",
+     "1655993": "If Tzolakis and Jacquet both haul, you could climb from 4th to 3rd.",
+     "735721": "If Vuskovic and Muharemović both haul, you could climb from 5th to 3rd.",
+     "2687116": "If Gomez and Kinsky both haul, you could climb from 6th to 3rd.",
+     "1036311": "If Verbruggen and Gibbs-White both haul, you could climb from 8th to 7th. Only you start Gibbs-White.",
+     "4487775": "If Konsa and Muharemović both haul, you could climb from 10th to 9th.",
+     "3072827": "If Konsa and Leno both haul, you could climb from 11th to 9th.",
+     "3350483": "If Barry and Vuskovic both haul, you could climb from 11th to 9th. Only you start Barry.",
+     "75778": "If Silva and Verbruggen both haul, you could climb from 13th to 11th.",
+     "2934546": "If Verbruggen and Jacquet both haul, you could climb from 14th to 11th.",
+     "6892917": "If Tzolakis and Ngumoha both haul, you could climb from 16th to 11th.",
+     "4922092": "If Rudoni and Silva both haul, you could climb from 17th to 11th.",
+     "3506595": "If Rudoni and Vuskovic both haul, you could climb from 18th to 12th.",
+     "2465483": "If Tzolakis and Gomez both haul, you could climb from 19th to 18th.",
+     "7043406": "If Konsa and Tzolakis both haul, you could climb from 21st to 20th.",
+     "3314780": "If Hill and Ødegaard both haul, you could climb from 23rd to 22nd. Only you start Ødegaard.",
+     "6159011": "If Konsa and Manzambi both haul, you could climb from 24th to 22nd.",
+     "6051923": "If Justin and Leno both haul, you could climb from 26th to 25th."
     },
-    "ts": "2026-11-24T11:03:23Z",
-    "gw": 11,
-    "moment": "gameweek_over",
-    "sig": "101:f:0-0|102:f:2-0|103:f:4-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
+    "lines": {
+     "l1": "Matt starts 17 clear of Nikhil, and no single haul or blank could change who finishes top.",
+     "l2": "If N.Jackson hauls, Poonam could pass Aashiv. Captained by 6 managers, a haul on the armband would be worth 20.",
+     "l3": "If Isak hauls, Naresh could pass Marcel. Isak is captained by 5, and Naresh starts 3 behind Marcel.",
+     "l4": "If Calvert-Lewin blanks, Ravi Mahtani could pass Vanessa. Vanessa starts 3 ahead, and 6 managers captain Calvert-Lewin.",
+     "l5": "If Calafiori hauls, Ravin could finish in the Gold spots ahead of Deepak. A blank flips it. Started by 12.",
+     "l6": "If Palmer hauls, Lakshay could finish clear of the Tin Pot spots and Pishu could drop in. A blank reverses it."
+    },
+    "ts": "2026-11-27T19:08:21Z",
+    "gw": 12,
+    "moment": "preview",
+    "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:n:0-0|120:n:0-0",
+    "plain": false,
     "ranks": {
      "3029346": 1,
      "2321301": 2,
@@ -11560,710 +11794,8 @@
      "6476662": 617,
      "6051923": 613
     },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "16": [
-      1,
-      0
-     ],
-     "286": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "86": [
-      2,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "366": [
-      1,
-      1
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      0,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ]
-    },
-    "you_full_ts": "2026-11-24T11:03:23Z",
-    "v": 6,
-    "deadline": "2026-11-27T18:30:00Z"
-   },
-   {
-    "headline": "Sunny's Bench Boost hauls 67 as Haaland blanks",
-    "text": "**Sunny** won the week with **67 points** on a Bench Boost that returned 23, hauling up from 8th to 4th. **Matt** sits top after a 17-point cushion over Nikhil, and **Haaland** blanked on 22 armbands. We said Calafiori blanking could hand Matt top spot, and it did.",
-    "you": {
-     "3029346": "Your Wirtz-led week outscored Nikhil by 18 points, and you now lead him by 17.",
-     "2321301": "Matt outscored you by 18 points, pushing you to 2nd behind him.",
-     "1921902": "Sunny outscored you by 39 points this week. He now sits 1 point behind you.",
-     "1655993": "Manager of the Week: your Bench Boost returned 23 points, lifting you 4 places to 4th.",
-     "735721": "Your 24 points earned The Doghouse. Sunny now sits 2 points above you in 4th.",
-     "2687116": "Benching Ødegaard backfired after he set up a goal. Deepak is 1 point ahead of you in 5th.",
-     "3344797": "Transfer Genius: your swap added 7 points. Chandru stays 13 points ahead in 6th.",
-     "1036311": "Your Bench Boost returned 18 points. Rohan remains 11 points ahead of you in 7th.",
-     "5474293": "Lewis-Potter's 16 points, owned only by you, lifted you from 12th to 9th.",
-     "4487775": "Free Fall: you dropped 3 places to 10th. Sahil is 2 points ahead of you.",
-     "3350483": "You outscored Prem by 8 points this week. Sunil is level with you in 11th.",
-     "3072827": "Belloumi scored 7 on your bench. Aashiv is level with you in 11th.",
-     "2934546": "Rocket: your Wildcard lifted you from 18th to 14th. Marcel is 3 points ahead.",
-     "5682768": "Naresh outscored you by 7 points this week, leaving you 1 point behind him.",
-     "6892917": "You dropped to 16th this week. Vanessa is 2 points ahead of you.",
-     "4922092": "Bench Disaster: 26 points sat on your bench. Poonam is 1 point ahead of you.",
-     "3506595": "Free Fall: you dropped 3 places to 18th. Inesh is 2 points behind you.",
-     "2465483": "You outscored Pishu by 14 points this week. Hishaan is 2 points ahead of you.",
-     "6279027": "Selling Belloumi for McGinn cost you 6 points. Belloumi went on to score 7.",
-     "865376": "Only one manager captained Palmer, and he returned 4 points. Rajiv is level with you.",
-     "7043406": "Ravi Bhojwani outscored you by 11 points this week. Lakshay is level with you.",
-     "3314780": "You outscored Vinesh by 14 points and sit in the Tin Pot spots on 643.",
-     "6159011": "Bella outscored you by 28 points this week. Ravi Bhojwani is 2 points ahead of you.",
-     "6476662": "Your Triple Captain returned 6 points, and you climbed to 25th in the Tin Pot.",
-     "6051923": "Tarkowski's red card left a starter on -3 points. Bella is 4 points ahead of you."
-    },
-    "ts": "2026-11-23T22:13:06Z",
-    "gw": 11,
-    "moment": "gameweek_over",
-    "sig": "101:f:0-0|102:f:2-0|103:f:4-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
-    "ranks": {
-     "3029346": 1,
-     "2321301": 2,
-     "1921902": 3,
-     "1655993": 4,
-     "735721": 5,
-     "2687116": 6,
-     "3344797": 7,
-     "1036311": 8,
-     "5474293": 9,
-     "4487775": 10,
-     "3072827": 11,
-     "3350483": 11,
-     "75778": 13,
-     "2934546": 14,
-     "5682768": 15,
-     "6892917": 16,
-     "4922092": 17,
-     "3506595": 18,
-     "2465483": 19,
-     "6279027": 20,
-     "865376": 21,
-     "7043406": 21,
-     "3314780": 23,
-     "6159011": 24,
-     "6476662": 25,
-     "6051923": 26
-    },
-    "totals": {
-     "3029346": 774,
-     "2321301": 757,
-     "1921902": 735,
-     "1655993": 734,
-     "735721": 732,
-     "2687116": 731,
-     "3344797": 718,
-     "1036311": 707,
-     "5474293": 697,
-     "4487775": 695,
-     "3072827": 687,
-     "3350483": 687,
-     "75778": 681,
-     "2934546": 678,
-     "5682768": 677,
-     "6892917": 675,
-     "4922092": 674,
-     "3506595": 673,
-     "2465483": 671,
-     "6279027": 648,
-     "865376": 645,
-     "7043406": 645,
-     "3314780": 643,
-     "6159011": 641,
-     "6476662": 617,
-     "6051923": 613
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "16": [
-      1,
-      0
-     ],
-     "286": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "86": [
-      2,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "366": [
-      1,
-      1
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      0,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ]
-    },
-    "you_full_ts": "2026-11-23T22:13:06Z",
-    "v": 6,
-    "deadline": "2026-11-27T18:30:00Z"
-   },
-   {
-    "headline": "Lewis-Potter's 2 goals hand Sahil a big lift",
-    "text": "**Lewis-Potter** has bagged **2 goals** as BRE v EVE leads 3-0 after 77 minutes, and Sahil is the only manager in the league who owns him. Lakshay and Rajiv are level on 645 points in the Tin Pot fight, so any further BRE v EVE goal could decide who escapes.",
-    "you": {
-     "3029346": "3 managers benched Konsa, who is on the pitch now. You still hold **top spot**, 17 points clear of Nikhil.",
-     "2321301": "You benched Barry, who is on the pitch now with 1 point. You sit 17 points behind Matt in 2nd.",
-     "1921902": "Only 3 managers own your captain N.Jackson, who has 4 points with the armband. Nikhil is 22 points above you.",
-     "1655993": "Your **Bench Boost** has pushed you up 4 places this gameweek, to 4th. Ravin is 1 point above you in 3rd.",
-     "735721": "Benching **Barry** looks risky now he is on the pitch. Sunny is 2 points ahead of you in 4th.",
-     "2687116": "Deepak is 1 point ahead of you in 5th. Benching Ødegaard has backfired, as he has set up a goal.",
-     "3344797": "Chandru is 13 points ahead of you in 6th, with no players left to play for you.",
-     "1036311": "Your **Bench Boost** is in a showdown with Sunny's, with 48 points so far this gameweek.",
-     "4487775": "Sahil has passed you today, leaving you 2 points behind him.",
-     "5474293": "You have passed Prem, Aashiv and Sunil today, the best of it from **Lewis-Potter**, who only you own.",
-     "3350483": "Sahil has passed you today, leaving you 9 points behind him.",
-     "3072827": "Sahil has passed you today, with Marcel 5 points behind you.",
-     "75778": "You were as high as 12th today before slipping to 13th.",
-     "5682768": "Naresh sits 1 point above you in 14th, with 43 points so far this gameweek.",
-     "6892917": "Vanessa is 2 points above you, with 39 points so far this gameweek.",
-     "4922092": "Poonam is 1 point ahead of you, after Barcola set up a goal following your sale.",
-     "3506595": "You have dropped 3 places this gameweek, with Inesh 1 point behind you.",
-     "2465483": "Schade is on the pitch now that you have benched him, with Hishaan 1 point ahead of you.",
-     "6279027": "Belloumi, whom you sold this week, has set up a goal.",
-     "865376": "Only 1 manager owns **Palmer**, your captain, who has 4 points with the armband.",
-     "7043406": "Only 3 managers own your captain N.Jackson, who has 4 points with the armband.",
-     "3314780": "Rajiv is 1 point ahead of you, leaving you in the Tin Pot spots.",
-     "6159011": "Only 3 managers share your captain N.Jackson, who has 4 points with the armband.",
-     "6476662": "You dropped as low as 26th today, now back up to 25th.",
-     "6051923": "Tarkowski, one of your starters, has been sent off, leaving him on -3 points."
-    },
-    "ts": "2026-11-23T21:46:22Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:i:3-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
-    "ranks": {
-     "3029346": 1,
-     "2321301": 2,
-     "1921902": 3,
-     "1655993": 4,
-     "735721": 5,
-     "2687116": 6,
-     "3344797": 7,
-     "1036311": 8,
-     "5474293": 9,
-     "4487775": 10,
-     "3072827": 11,
-     "3350483": 11,
-     "75778": 13,
-     "2934546": 14,
-     "5682768": 15,
-     "6892917": 16,
-     "4922092": 17,
-     "3506595": 18,
-     "2465483": 19,
-     "6279027": 20,
-     "865376": 21,
-     "7043406": 21,
-     "3314780": 23,
-     "6159011": 24,
-     "6476662": 25,
-     "6051923": 26
-    },
-    "totals": {
-     "3029346": 774,
-     "2321301": 757,
-     "1921902": 735,
-     "1655993": 734,
-     "735721": 732,
-     "2687116": 731,
-     "3344797": 718,
-     "1036311": 707,
-     "5474293": 697,
-     "4487775": 695,
-     "3072827": 687,
-     "3350483": 687,
-     "75778": 681,
-     "2934546": 678,
-     "5682768": 677,
-     "6892917": 675,
-     "4922092": 674,
-     "3506595": 673,
-     "2465483": 672,
-     "6279027": 649,
-     "865376": 645,
-     "7043406": 645,
-     "3314780": 644,
-     "6159011": 641,
-     "6476662": 617,
-     "6051923": 614
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "16": [
-      1,
-      0
-     ],
-     "286": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "86": [
-      2,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "366": [
-      1,
-      1
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      0,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ]
-    },
-    "you_full_ts": "2026-11-23T21:22:06Z"
-   },
-   {
-    "headline": "Lewis-Potter's 2 goals lift Sahil as Tin Pot tightens",
-    "text": "Lewis-Potter has bagged **2 goals** for BRE v EVE, worth **14 points** to Sahil alone, lifting him to 9th. Lakshay and Rajiv are level on 644 points in the Tin Pot fight, and any further BRE v EVE goal could decide who climbs out.",
-    "you": {
-     "3029346": "3 managers benched Konsa, who is on the pitch now. You still hold **top spot**, 17 points clear of Nikhil.",
-     "2321301": "You benched Barry, who is on the pitch now with 1 point. You sit 17 points behind Matt in 2nd.",
-     "1921902": "Only 3 managers own your captain N.Jackson, who has 4 points with the armband. Nikhil is 22 points above you.",
-     "1655993": "Your **Bench Boost** has pushed you up 4 places this gameweek, to 4th. Ravin is 1 point above you in 3rd.",
-     "735721": "You benched Barry, who is on the pitch now with 1 point. Sunny is 2 points above you in 4th.",
-     "2687116": "Benching Ødegaard has backfired, as he has set up a goal. Deepak is 2 points above you in 5th.",
-     "3344797": "Chandru sits 12 points ahead of you in 6th, with no players left to play for you.",
-     "1036311": "Your **Bench Boost** is in a showdown with Sunny's, with 48 points so far this gameweek.",
-     "4487775": "Amit is 11 points above you in 8th, with no players left to play.",
-     "5474293": "**Lewis-Potter** has bagged 2 goals for you, worth 14 points, with nobody else in the league owning him.",
-     "3350483": "Sahil has passed you today, leaving you 9 points behind him.",
-     "3072827": "Sahil has passed you today, with Marcel 5 points behind you.",
-     "75778": "You climbed to 12th today, but have slipped back to 13th.",
-     "5682768": "Naresh sits 1 point above you in 14th, with 43 points so far this gameweek.",
-     "6892917": "Vanessa is 2 points above you, with 39 points so far this gameweek.",
-     "4922092": "Poonam is 1 point above you in 16th, after Barcola set up a goal following your sale.",
-     "3506595": "You have dropped 3 places this gameweek, now 18th.",
-     "2465483": "Hishaan is 3 points above you in 18th, with 41 points so far this gameweek.",
-     "6279027": "Tarkowski, who you started, has been sent off, leaving him on **-3 points**.",
-     "865376": "Only 1 manager owns your captain Palmer, who has 4 points with the armband.",
-     "7043406": "Only 3 managers own your captain N.Jackson, who has 4 points with the armband.",
-     "3314780": "Rajiv is 1 point above you, with you in the Tin Pot spots.",
-     "6159011": "Only 3 managers share your captain N.Jackson, who has 4 points with the armband.",
-     "6476662": "You dropped as low as 26th today, now back up to 25th.",
-     "6051923": "Tarkowski, one of your starters, has been sent off, leaving him on -3 points."
-    },
-    "ts": "2026-11-23T21:22:06Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:i:2-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
-    "ranks": {
-     "3029346": 1,
-     "2321301": 2,
-     "1921902": 3,
-     "1655993": 4,
-     "735721": 5,
-     "2687116": 6,
-     "3344797": 7,
-     "1036311": 8,
-     "4487775": 9,
-     "5474293": 9,
-     "3072827": 11,
-     "3350483": 11,
-     "75778": 13,
-     "2934546": 14,
-     "5682768": 15,
-     "6892917": 16,
-     "4922092": 17,
-     "3506595": 18,
-     "2465483": 19,
-     "6279027": 20,
-     "865376": 21,
-     "7043406": 21,
-     "3314780": 23,
-     "6159011": 24,
-     "6476662": 25,
-     "6051923": 26
-    },
-    "totals": {
-     "3029346": 774,
-     "2321301": 757,
-     "1921902": 735,
-     "1655993": 734,
-     "735721": 732,
-     "2687116": 730,
-     "3344797": 718,
-     "1036311": 706,
-     "4487775": 695,
-     "5474293": 695,
-     "3072827": 686,
-     "3350483": 686,
-     "75778": 681,
-     "2934546": 678,
-     "5682768": 677,
-     "6892917": 675,
-     "4922092": 674,
-     "3506595": 672,
-     "2465483": 669,
-     "6279027": 649,
-     "865376": 644,
-     "7043406": 644,
-     "3314780": 643,
-     "6159011": 640,
-     "6476662": 617,
-     "6051923": 614
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "16": [
-      1,
-      0
-     ],
-     "286": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "86": [
-      2,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "366": [
-      1,
-      1
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      0,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ]
-    },
-    "you_full_ts": "2026-11-23T21:22:06Z"
-   },
-   {
-    "headline": "Lewis-Potter bags 2, and only Sahil owns him",
-    "text": "Lewis-Potter has bagged **2 goals** for BRE v EVE, worth **14 points** to Sahil alone and lifting him from 12th to 9th. Lakshay and Rajiv are level on 644 points, with BRE v EVE 2-0 after 34 minutes, so the next goal could decide who escapes the Tin Pot.",
-    "you": {
-     "3029346": "3 managers benched Konsa, who is on the pitch now. You still hold top spot, 17 points clear of Nikhil.",
-     "2321301": "2 managers benched Barry, who is on the pitch now. You sit 17 points behind Matt in 2nd.",
-     "1921902": "Your captain N.Jackson, owned by only 3 managers, has 4 points with the armband. Nikhil is 22 points above you in 2nd.",
-     "1655993": "Your Bench Boost has pushed you 4 places up this gameweek, to 4th. Ravin is 1 point above you in 3rd.",
-     "735721": "2 managers benched Barry, who is on the pitch now. Sunny is 2 points above you in 4th.",
-     "2687116": "Benching Ødegaard has backfired, as he has set up a goal. Deepak is 2 points above you in 5th.",
-     "3344797": "Chandru is 12 points above you in 6th, with no players left to play for you.",
-     "1036311": "Your Bench Boost is up against Sunny's, with 48 points so far this gameweek.",
-     "4487775": "Amit is 11 points above you in 8th, with no players left to play.",
-     "3350483": "Calvert-Lewin scored while benched by you, Ravin and Marcel. Prem is 9 points above you.",
-     "3072827": "Sahil has passed you today, while the Belloumi you benched has set up a goal.",
-     "5474293": "Lewis-Potter has bagged 2 goals for you, worth **14 points**, with nobody else in the league owning him.",
-     "75778": "You climbed to 12th today, but have slipped back to 13th.",
-     "2934546": "Wirtz's assist in LIV v MUN lifted you 4 places this gameweek, to 14th.",
-     "5682768": "3 managers benched Calafiori, who is on the pitch now. Naresh is 1 point above you.",
-     "6892917": "3 managers benched Konsa, who is on the pitch now. Vanessa is 2 points above you.",
-     "4922092": "Barcola set up a goal after you sold him this week. Poonam is 1 point above you.",
-     "3506595": "You have dropped 3 places this gameweek, now 18th.",
-     "2465483": "Hishaan is 2 points above you in 18th, with 42 points so far this gameweek.",
-     "6279027": "Belloumi, the player you sold this week, has set up a goal.",
-     "865376": "Ravi Bhojwani has climbed out of the Tin Pot, leaving you level with Rajiv on 644 points.",
-     "7043406": "Ravi Bhojwani has climbed out of the Tin Pot, leaving you level with Lakshay on 644 points.",
-     "3314780": "Barnes scored on the benches of Lakshay, Rajiv and you. Rajiv is 1 point above you.",
-     "6159011": "Your captain N.Jackson blanked, a pick only 3 managers share.",
-     "6051923": "Vinesh is 23 points ahead of you, and you sit in the Tin Pot zone.",
-     "6476662": "Your Triple Captain on Haaland has returned **6 points** this gameweek."
-    },
-    "ts": "2026-11-23T20:35:25Z",
-    "gw": 11,
-    "moment": "matches_on",
-    "sig": "101:f:0-0|102:f:2-0|103:i:2-0|104:f:1-4|105:f:3-2|106:f:2-0|107:f:4-0|108:f:1-1|109:f:2-2|110:f:2-0",
-    "ranks": {
-     "3029346": 1,
-     "2321301": 2,
-     "1921902": 3,
-     "1655993": 4,
-     "735721": 5,
-     "2687116": 6,
-     "3344797": 7,
-     "1036311": 8,
-     "4487775": 9,
-     "5474293": 9,
-     "3072827": 11,
-     "3350483": 11,
-     "75778": 13,
-     "2934546": 14,
-     "5682768": 15,
-     "6892917": 16,
-     "4922092": 17,
-     "3506595": 18,
-     "2465483": 19,
-     "6279027": 20,
-     "865376": 21,
-     "7043406": 21,
-     "3314780": 23,
-     "6159011": 24,
-     "6051923": 25,
-     "6476662": 25
-    },
-    "totals": {
-     "3029346": 774,
-     "2321301": 757,
-     "1921902": 735,
-     "1655993": 734,
-     "735721": 732,
-     "2687116": 730,
-     "3344797": 718,
-     "1036311": 706,
-     "4487775": 695,
-     "5474293": 695,
-     "3072827": 686,
-     "3350483": 686,
-     "75778": 681,
-     "2934546": 678,
-     "5682768": 677,
-     "6892917": 675,
-     "4922092": 674,
-     "3506595": 672,
-     "2465483": 669,
-     "6279027": 652,
-     "865376": 644,
-     "7043406": 644,
-     "3314780": 642,
-     "6159011": 640,
-     "6051923": 617,
-     "6476662": 617
-    },
-    "ga": {
-     "15": [
-      0,
-      1
-     ],
-     "16": [
-      1,
-      0
-     ],
-     "286": [
-      0,
-      1
-     ],
-     "40": [
-      0,
-      1
-     ],
-     "60": [
-      0,
-      1
-     ],
-     "68": [
-      0,
-      1
-     ],
-     "330": [
-      0,
-      1
-     ],
-     "79": [
-      1,
-      0
-     ],
-     "86": [
-      2,
-      0
-     ],
-     "346": [
-      1,
-      1
-     ],
-     "366": [
-      1,
-      1
-     ],
-     "627": [
-      0,
-      1
-     ],
-     "379": [
-      0,
-      1
-     ],
-     "183": [
-      0,
-      2
-     ],
-     "453": [
-      1,
-      0
-     ],
-     "481": [
-      1,
-      0
-     ]
-    },
-    "you_full_ts": "2026-11-23T20:12:11Z"
+    "ga": {},
+    "you_full_ts": "2026-11-27T19:08:21Z"
    }
   ],
   "desk_day": {
@@ -12297,7 +11829,7 @@
     "6051923": 26
    }
   },
-  "desk_last_ok": "2026-11-24T11:03:23Z",
+  "desk_last_ok": "2026-11-27T19:08:21Z",
   "plots": [
    {
     "id": "title",
@@ -14444,185 +13976,160 @@
    "spoon": "share/gw11-387cce393821-spoon.png"
   }
  },
- "phase": "between",
+ "phase": "live",
  "preview": {
-  "gw": 11,
+  "gw": 12,
   "haul": 10,
   "blank": 2,
   "lines": [
    {
     "kind": "title",
-    "el": 8,
-    "text": "If Calafiori blanks, Matt could take top spot from Nikhil.",
-    "pred": {
-     "haul": {
-      "top": [
-       2321301
-      ]
-     },
-     "blank": {
-      "top": [
-       3029346
-      ]
-     }
-    },
+    "el": null,
+    "text": "Matt starts 17 clear of Nikhil. No single haul or blank changes who could finish top.",
     "facts": {
-     "player": "Calafiori",
-     "plays": "NEWC (A)",
-     "started_by": 19,
-     "captained_by": [],
-     "a_haul_on_the_armband_is_worth": 20,
-     "leader_now": "Nikhil",
-     "gap_now": "Matt starts 1 behind Nikhil"
+     "leader_now": "Matt",
+     "gap_now": "Nikhil starts 17 behind Matt"
     },
     "id": "l1",
     "label": "Title race",
-    "branch": "blank",
-    "status": {
-     "state": "blank",
-     "pts": 1,
-     "label": "Blanked · 1"
-    },
-    "grade": {
-     "result": "called it",
-     "pts": 1,
-     "what": "Calafiori got 1. Matt finished top."
-    }
+    "branch": null
    },
    {
     "kind": "swing",
     "el": 166,
-    "text": "If N.Jackson hauls, Rajiv could pass Vanessa.",
+    "text": "If N.Jackson hauls, Poonam could pass Aashiv.",
     "pred": {
      "haul": {
-      "ahead": 7043406,
-      "behind": 5682768
+      "ahead": 6892917,
+      "behind": 3350483
      },
      "blank": {
-      "ahead": 5682768,
-      "behind": 7043406
+      "ahead": 3350483,
+      "behind": 6892917
      }
     },
     "facts": {
      "player": "N.Jackson",
-     "plays": "SUN (H)",
+     "plays": "IPS (A)",
      "started_by": 17,
-     "captained_by": [
-      "Ravin",
-      "Rajiv",
-      "Vinesh"
-     ],
+     "captained_by": 6,
      "a_haul_on_the_armband_is_worth": 20,
-     "gap_now": "Rajiv starts 21 behind Vanessa"
+     "gap_now": "Poonam starts 12 behind Aashiv"
     },
     "id": "l2",
     "label": "Swing player",
     "branch": "haul",
     "status": {
-     "state": "blank",
-     "pts": 2,
-     "label": "Blanked · 2"
-    },
-    "grade": {
-     "result": "called it",
-     "pts": 2,
-     "what": "N.Jackson got 2. Vanessa finished ahead of Rajiv."
+     "state": "to_play",
+     "label": "Still to play"
     }
    },
    {
     "kind": "swing",
-    "el": 68,
-    "text": "If Tavernier hauls, Inesh could pass Naresh.",
+    "el": 379,
+    "text": "If Isak hauls, Naresh could pass Marcel.",
     "pred": {
      "haul": {
-      "ahead": 2465483,
-      "behind": 2934546
+      "ahead": 2934546,
+      "behind": 75778
      },
      "blank": {
-      "ahead": 2934546,
-      "behind": 2465483
+      "ahead": 75778,
+      "behind": 2934546
      }
     },
     "facts": {
-     "player": "Tavernier",
-     "plays": "NFO (H)",
-     "started_by": 13,
-     "captained_by": [],
+     "player": "Isak",
+     "plays": "EVE (A)",
+     "started_by": 14,
+     "captained_by": 5,
      "a_haul_on_the_armband_is_worth": 20,
-     "gap_now": "Inesh is level with Naresh"
+     "gap_now": "Naresh starts 3 behind Marcel"
     },
     "id": "l3",
     "label": "Swing player",
     "branch": "haul",
     "status": {
-     "state": "neither",
-     "pts": 8,
-     "label": "Returned · 8"
-    },
-    "grade": {
-     "result": "didn't happen",
-     "pts": 8,
-     "what": "Tavernier got 8."
+     "state": "to_play",
+     "label": "Still to play"
     }
    },
    {
     "kind": "swing",
-    "el": 154,
-    "text": "If Palmer hauls, Lakshay could pass Pishu.",
+    "el": 346,
+    "text": "If Calvert-Lewin blanks, Ravi Mahtani could pass Vanessa.",
     "pred": {
      "haul": {
-      "ahead": 865376,
-      "behind": 6279027
+      "ahead": 5682768,
+      "behind": 4922092
      },
      "blank": {
-      "ahead": 6279027,
-      "behind": 865376
+      "ahead": 4922092,
+      "behind": 5682768
      }
     },
     "facts": {
-     "player": "Palmer",
-     "plays": "LEE (H)",
-     "started_by": 15,
-     "captained_by": [
-      "Lakshay"
-     ],
+     "player": "Calvert-Lewin",
+     "plays": "COV (H)",
+     "started_by": 8,
+     "captained_by": 6,
      "a_haul_on_the_armband_is_worth": 20,
-     "gap_now": "Lakshay starts 1 behind Pishu"
+     "gap_now": "Vanessa starts 3 ahead of Ravi Mahtani"
     },
     "id": "l4",
     "label": "Swing player",
-    "branch": "haul",
+    "branch": "blank",
     "status": {
-     "state": "blank",
-     "pts": 2,
-     "label": "Blanked · 2"
-    },
-    "grade": {
-     "result": "called it",
-     "pts": 2,
-     "what": "Palmer got 2. Pishu finished ahead of Lakshay."
+     "state": "to_play",
+     "label": "Still to play"
     }
    },
    {
     "kind": "gold",
-    "el": null,
-    "text": "Ravin starts 11 clear of Chandru on the Gold line. No single haul or blank moves it.",
-    "facts": {
-     "zone": "Gold spots",
-     "gap_now": "Chandru starts 11 behind Ravin"
-    },
-    "id": "l5",
-    "label": "Gold line",
-    "branch": null
-   },
-   {
-    "kind": "tinpot",
-    "el": 115,
-    "text": "If De Cuyper hauls, Lakshay could finish clear of the Tin Pot spots and Vanessa could drop in. If he blanks, it's the other way round.",
+    "el": 8,
+    "text": "If Calafiori hauls, Ravin could finish in the Gold spots ahead of Deepak. If he blanks, it's the other way round.",
     "pred": {
      "haul": {
       "in": [
-       5682768
+       1921902
+      ],
+      "out": [
+       735721
+      ]
+     },
+     "blank": {
+      "in": [
+       735721
+      ],
+      "out": [
+       1921902
+      ]
+     }
+    },
+    "facts": {
+     "player": "Calafiori",
+     "plays": "MCI (H)",
+     "started_by": 12,
+     "captained_by": [],
+     "a_haul_on_the_armband_is_worth": 20,
+     "zone": "Gold spots"
+    },
+    "id": "l5",
+    "label": "Gold line",
+    "branch": "both",
+    "status": {
+     "state": "to_play",
+     "label": "Still to play"
+    }
+   },
+   {
+    "kind": "tinpot",
+    "el": 154,
+    "text": "If Palmer hauls, Lakshay could finish clear of the Tin Pot spots and Pishu could drop in. If he blanks, it's the other way round.",
+    "pred": {
+     "haul": {
+      "in": [
+       6279027
       ],
       "out": [
        865376
@@ -14633,15 +14140,17 @@
        865376
       ],
       "out": [
-       5682768
+       6279027
       ]
      }
     },
     "facts": {
-     "player": "De Cuyper",
-     "plays": "HUL (A)",
-     "started_by": 20,
-     "captained_by": [],
+     "player": "Palmer",
+     "plays": "NFO (A)",
+     "started_by": 11,
+     "captained_by": [
+      "Lakshay"
+     ],
      "a_haul_on_the_armband_is_worth": 20,
      "zone": "Tin Pot spots"
     },
@@ -14649,243 +14158,202 @@
     "label": "Tin Pot line",
     "branch": "both",
     "status": {
-     "state": "blank",
-     "pts": 1,
-     "label": "Blanked · 1"
-    },
-    "grade": {
-     "result": "half right",
-     "pts": 1,
-     "what": "De Cuyper got 1."
+     "state": "to_play",
+     "label": "Still to play"
     }
    }
   ],
   "dreams": {
-   "2321301": {
-    "els": [
-     566,
-     627
-    ],
-    "players": [
-     "Silva",
-     "Barcola"
-    ],
-    "rank_now": 1,
-    "could_reach": 1,
-    "text": "If Silva and Barcola both haul, you could stay top.",
-    "only_you_start": [
-     "Barcola"
-    ],
-    "you_captain": null,
-    "status": [
-     {
-      "state": "neither",
-      "pts": 8,
-      "label": "Returned · 8",
-      "player": "Silva"
-     },
-     {
-      "state": "neither",
-      "pts": 5,
-      "label": "Quiet · 5",
-      "player": "Barcola"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Silva": 8,
-      "Barcola": 5
-     },
-     "rank": 2
-    }
-   },
    "3029346": {
     "els": [
      4,
-     366
+     496
     ],
     "players": [
      "Gabriel",
-     "Wirtz"
+     "Kinsky"
     ],
-    "rank_now": 2,
+    "rank_now": 1,
     "could_reach": 1,
-    "text": "If Gabriel and Wirtz both haul, you could climb from 2nd to 1st.",
+    "text": "If Gabriel and Kinsky both haul, you could stay top.",
     "only_you_start": [],
     "you_captain": null,
     "status": [
      {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
+      "state": "to_play",
+      "label": "Still to play",
       "player": "Gabriel"
      },
      {
-      "state": "haul",
-      "pts": 14,
-      "label": "Hauled · 14",
-      "player": "Wirtz"
-     }
-    ],
-    "grade": {
-     "result": "half right",
-     "pts": {
-      "Gabriel": 1,
-      "Wirtz": 14
-     },
-     "rank": 1
-    }
-   },
-   "1921902": {
-    "els": [
-     362,
-     399
-    ],
-    "players": [
-     "Jacquet",
-     "Cherki"
-    ],
-    "rank_now": 4,
-    "could_reach": 2,
-    "text": "If Jacquet and Cherki both haul, you could climb from 4th to 2nd.",
-    "only_you_start": [],
-    "you_captain": null,
-    "status": [
-     {
-      "state": "neither",
-      "pts": 6,
-      "label": "Returned · 6",
-      "player": "Jacquet"
-     },
-     {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
-      "player": "Cherki"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Jacquet": 6,
-      "Cherki": 1
-     },
-     "rank": 3
-    }
-   },
-   "2687116": {
-    "els": [
-     496,
-     127
-    ],
-    "players": [
-     "Kinsky",
-     "Gomez"
-    ],
-    "rank_now": 5,
-    "could_reach": 4,
-    "text": "If Kinsky and Gomez both haul, you could climb from 5th to 4th.",
-    "only_you_start": [],
-    "you_captain": null,
-    "status": [
-     {
-      "state": "neither",
-      "pts": 7,
-      "label": "Returned · 7",
+      "state": "to_play",
+      "label": "Still to play",
       "player": "Kinsky"
-     },
-     {
-      "state": "neither",
-      "pts": 3,
-      "label": "Quiet · 3",
-      "player": "Gomez"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Kinsky": 7,
-      "Gomez": 3
-     },
-     "rank": 6
-    }
+    ]
    },
    "1655993": {
     "els": [
-     362,
-     13
+     572,
+     362
     ],
     "players": [
-     "Jacquet",
-     "Rice"
+     "Tzolakis",
+     "Jacquet"
     ],
-    "rank_now": 8,
-    "could_reach": 6,
-    "text": "If Jacquet and Rice both haul, you could climb from 8th to 6th.",
-    "only_you_start": [
-     "Rice"
-    ],
+    "rank_now": 4,
+    "could_reach": 3,
+    "text": "If Tzolakis and Jacquet both haul, you could climb from 4th to 3rd.",
+    "only_you_start": [],
     "you_captain": null,
     "status": [
      {
-      "state": "neither",
-      "pts": 6,
-      "label": "Returned · 6",
-      "player": "Jacquet"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Tzolakis"
      },
      {
-      "state": "neither",
-      "pts": 3,
-      "label": "Quiet · 3",
-      "player": "Rice"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Jacquet"
      }
+    ]
+   },
+   "735721": {
+    "els": [
+     504,
+     334
     ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Jacquet": 6,
-      "Rice": 3
+    "players": [
+     "Vuskovic",
+     "Muharemović"
+    ],
+    "rank_now": 5,
+    "could_reach": 3,
+    "text": "If Vuskovic and Muharemović both haul, you could climb from 5th to 3rd.",
+    "only_you_start": [],
+    "you_captain": null,
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Vuskovic"
      },
-     "rank": 4
-    }
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Muharemović"
+     }
+    ]
+   },
+   "2687116": {
+    "els": [
+     127,
+     496
+    ],
+    "players": [
+     "Gomez",
+     "Kinsky"
+    ],
+    "rank_now": 6,
+    "could_reach": 3,
+    "text": "If Gomez and Kinsky both haul, you could climb from 6th to 3rd.",
+    "only_you_start": [],
+    "you_captain": null,
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Gomez"
+     },
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Kinsky"
+     }
+    ]
    },
    "1036311": {
     "els": [
      109,
-     496
+     480
     ],
     "players": [
      "Verbruggen",
-     "Kinsky"
+     "Gibbs-White"
     ],
-    "rank_now": 9,
-    "could_reach": 6,
-    "text": "If Verbruggen and Kinsky both haul, you could climb from 9th to 6th.",
+    "rank_now": 8,
+    "could_reach": 7,
+    "text": "If Verbruggen and Gibbs-White both haul, you could climb from 8th to 7th.",
+    "only_you_start": [
+     "Gibbs-White"
+    ],
+    "you_captain": null,
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Verbruggen"
+     },
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Gibbs-White"
+     }
+    ]
+   },
+   "4487775": {
+    "els": [
+     31,
+     334
+    ],
+    "players": [
+     "Konsa",
+     "Muharemović"
+    ],
+    "rank_now": 10,
+    "could_reach": 9,
+    "text": "If Konsa and Muharemović both haul, you could climb from 10th to 9th.",
     "only_you_start": [],
     "you_captain": null,
     "status": [
      {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
-      "player": "Verbruggen"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Konsa"
      },
      {
-      "state": "neither",
-      "pts": 7,
-      "label": "Returned · 7",
-      "player": "Kinsky"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Muharemović"
      }
+    ]
+   },
+   "3072827": {
+    "els": [
+     31,
+     250
     ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Verbruggen": 2,
-      "Kinsky": 7
+    "players": [
+     "Konsa",
+     "Leno"
+    ],
+    "rank_now": 11,
+    "could_reach": 9,
+    "text": "If Konsa and Leno both haul, you could climb from 11th to 9th.",
+    "only_you_start": [],
+    "you_captain": null,
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Konsa"
      },
-     "rank": 8
-    }
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Leno"
+     }
+    ]
    },
    "3350483": {
     "els": [
@@ -14897,64 +14365,24 @@
      "Vuskovic"
     ],
     "rank_now": 11,
-    "could_reach": 10,
-    "text": "If Barry and Vuskovic both haul, you could climb from 11th to 10th.",
+    "could_reach": 9,
+    "text": "If Barry and Vuskovic both haul, you could climb from 11th to 9th.",
     "only_you_start": [
-     "Vuskovic"
+     "Barry"
     ],
     "you_captain": null,
     "status": [
      {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
+      "state": "to_play",
+      "label": "Still to play",
       "player": "Barry"
      },
      {
-      "state": "blank",
-      "pts": 0,
-      "label": "Blanked · 0",
+      "state": "to_play",
+      "label": "Still to play",
       "player": "Vuskovic"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Barry": 2,
-      "Vuskovic": 0
-     },
-     "rank": 11
-    }
-   },
-   "5474293": {
-    "els": [
-     86
-    ],
-    "players": [
-     "Lewis-Potter"
-    ],
-    "rank_now": 12,
-    "could_reach": 10,
-    "text": "If Lewis-Potter hauls, you could climb from 12th to 10th.",
-    "only_you_start": [
-     "Lewis-Potter"
-    ],
-    "you_captain": null,
-    "status": [
-     {
-      "state": "haul",
-      "pts": 16,
-      "label": "Hauled · 16",
-      "player": "Lewis-Potter"
-     }
-    ],
-    "grade": {
-     "result": "called it",
-     "pts": {
-      "Lewis-Potter": 16
-     },
-     "rank": 9
-    }
+    ]
    },
    "75778": {
     "els": [
@@ -14972,581 +14400,432 @@
     "you_captain": null,
     "status": [
      {
-      "state": "neither",
-      "pts": 8,
-      "label": "Returned · 8",
+      "state": "to_play",
+      "label": "Still to play",
       "player": "Silva"
      },
      {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
+      "state": "to_play",
+      "label": "Still to play",
       "player": "Verbruggen"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Silva": 8,
-      "Verbruggen": 2
-     },
-     "rank": 13
-    }
-   },
-   "3506595": {
-    "els": [
-     249,
-     362
-    ],
-    "players": [
-     "Barry",
-     "Jacquet"
-    ],
-    "rank_now": 15,
-    "could_reach": 14,
-    "text": "If Barry and Jacquet both haul, you could climb from 15th to 14th.",
-    "only_you_start": [],
-    "you_captain": null,
-    "status": [
-     {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
-      "player": "Barry"
-     },
-     {
-      "state": "neither",
-      "pts": 6,
-      "label": "Returned · 6",
-      "player": "Jacquet"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Barry": 2,
-      "Jacquet": 6
-     },
-     "rank": 18
-    }
-   },
-   "4922092": {
-    "els": [
-     579,
-     109
-    ],
-    "players": [
-     "Araujo",
-     "Verbruggen"
-    ],
-    "rank_now": 17,
-    "could_reach": 14,
-    "text": "If Araujo and Verbruggen both haul, you could climb from 17th to 14th.",
-    "only_you_start": [
-     "Araujo"
-    ],
-    "you_captain": null,
-    "status": [
-     {
-      "state": "neither",
-      "pts": 6,
-      "label": "Returned · 6",
-      "player": "Araujo"
-     },
-     {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
-      "player": "Verbruggen"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Araujo": 6,
-      "Verbruggen": 2
-     },
-     "rank": 17
-    }
-   },
-   "2465483": {
-    "els": [
-     127,
-     230
-    ],
-    "players": [
-     "Gomez",
-     "Branthwaite"
-    ],
-    "rank_now": 18,
-    "could_reach": 14,
-    "text": "If Gomez and Branthwaite both haul, you could climb from 18th to 14th.",
-    "only_you_start": [
-     "Branthwaite"
-    ],
-    "you_captain": null,
-    "status": [
-     {
-      "state": "neither",
-      "pts": 3,
-      "label": "Quiet · 3",
-      "player": "Gomez"
-     },
-     {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
-      "player": "Branthwaite"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Gomez": 3,
-      "Branthwaite": 2
-     },
-     "rank": 19
-    }
+    ]
    },
    "2934546": {
     "els": [
-     366,
-     496
+     109,
+     362
     ],
     "players": [
-     "Wirtz",
-     "Kinsky"
+     "Verbruggen",
+     "Jacquet"
+    ],
+    "rank_now": 14,
+    "could_reach": 11,
+    "text": "If Verbruggen and Jacquet both haul, you could climb from 14th to 11th.",
+    "only_you_start": [],
+    "you_captain": null,
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Verbruggen"
+     },
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Jacquet"
+     }
+    ]
+   },
+   "6892917": {
+    "els": [
+     572,
+     369
+    ],
+    "players": [
+     "Tzolakis",
+     "Ngumoha"
+    ],
+    "rank_now": 16,
+    "could_reach": 11,
+    "text": "If Tzolakis and Ngumoha both haul, you could climb from 16th to 11th.",
+    "only_you_start": [],
+    "you_captain": null,
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Tzolakis"
+     },
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Ngumoha"
+     }
+    ]
+   },
+   "4922092": {
+    "els": [
+     183,
+     566
+    ],
+    "players": [
+     "Rudoni",
+     "Silva"
+    ],
+    "rank_now": 17,
+    "could_reach": 11,
+    "text": "If Rudoni and Silva both haul, you could climb from 17th to 11th.",
+    "only_you_start": [],
+    "you_captain": null,
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Rudoni"
+     },
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Silva"
+     }
+    ]
+   },
+   "3506595": {
+    "els": [
+     183,
+     504
+    ],
+    "players": [
+     "Rudoni",
+     "Vuskovic"
     ],
     "rank_now": 18,
-    "could_reach": 14,
-    "text": "If Wirtz and Kinsky both haul, you could climb from 18th to 14th.",
+    "could_reach": 12,
+    "text": "If Rudoni and Vuskovic both haul, you could climb from 18th to 12th.",
     "only_you_start": [],
     "you_captain": null,
     "status": [
      {
-      "state": "haul",
-      "pts": 14,
-      "label": "Hauled · 14",
-      "player": "Wirtz"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Rudoni"
      },
      {
-      "state": "neither",
-      "pts": 7,
-      "label": "Returned · 7",
-      "player": "Kinsky"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Vuskovic"
      }
-    ],
-    "grade": {
-     "result": "half right",
-     "pts": {
-      "Wirtz": 14,
-      "Kinsky": 7
-     },
-     "rank": 14
-    }
+    ]
    },
-   "6279027": {
+   "2465483": {
     "els": [
-     45,
-     229
+     572,
+     127
     ],
     "players": [
-     "McGinn",
-     "Tarkowski"
+     "Tzolakis",
+     "Gomez"
     ],
-    "rank_now": 20,
-    "could_reach": 16,
-    "text": "If McGinn and Tarkowski both haul, you could climb from 20th to 16th.",
+    "rank_now": 19,
+    "could_reach": 18,
+    "text": "If Tzolakis and Gomez both haul, you could climb from 19th to 18th.",
     "only_you_start": [],
     "you_captain": null,
     "status": [
      {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
-      "player": "McGinn"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Tzolakis"
      },
      {
-      "state": "blank",
-      "pts": -4,
-      "label": "Blanked · -4",
-      "player": "Tarkowski"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Gomez"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "McGinn": 1,
-      "Tarkowski": -4
-     },
-     "rank": 20
-    }
-   },
-   "865376": {
-    "els": [
-     249,
-     67
-    ],
-    "players": [
-     "Barry",
-     "Rayan"
-    ],
-    "rank_now": 21,
-    "could_reach": 19,
-    "text": "If Barry and Rayan both haul, you could climb from 21st to 19th.",
-    "only_you_start": [
-     "Rayan"
-    ],
-    "you_captain": null,
-    "status": [
-     {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
-      "player": "Barry"
-     },
-     {
-      "state": "neither",
-      "pts": 3,
-      "label": "Quiet · 3",
-      "player": "Rayan"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Barry": 2,
-      "Rayan": 3
-     },
-     "rank": 21
-    }
+    ]
    },
    "7043406": {
     "els": [
-     236
+     31,
+     572
     ],
     "players": [
-     "Dewsbury-Hall"
+     "Konsa",
+     "Tzolakis"
     ],
-    "rank_now": 22,
-    "could_reach": 18,
-    "text": "If Dewsbury-Hall hauls, you could climb from 22nd to 18th.",
+    "rank_now": 21,
+    "could_reach": 20,
+    "text": "If Konsa and Tzolakis both haul, you could climb from 21st to 20th.",
     "only_you_start": [],
     "you_captain": null,
     "status": [
      {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
-      "player": "Dewsbury-Hall"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Dewsbury-Hall": 2
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Konsa"
      },
-     "rank": 21
-    }
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Tzolakis"
+     }
+    ]
+   },
+   "3314780": {
+    "els": [
+     60,
+     15
+    ],
+    "players": [
+     "Hill",
+     "Ødegaard"
+    ],
+    "rank_now": 23,
+    "could_reach": 22,
+    "text": "If Hill and Ødegaard both haul, you could climb from 23rd to 22nd.",
+    "only_you_start": [
+     "Ødegaard"
+    ],
+    "you_captain": null,
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Hill"
+     },
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Ødegaard"
+     }
+    ]
    },
    "6159011": {
     "els": [
-     53,
-     94
+     31,
+     53
     ],
     "players": [
-     "Manzambi",
-     "Schade"
+     "Konsa",
+     "Manzambi"
     ],
-    "rank_now": 23,
-    "could_reach": 17,
-    "text": "If Manzambi and Schade both haul, you could climb from 23rd to 17th.",
+    "rank_now": 24,
+    "could_reach": 22,
+    "text": "If Konsa and Manzambi both haul, you could climb from 24th to 22nd.",
     "only_you_start": [],
     "you_captain": null,
     "status": [
      {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
-      "player": "Manzambi"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Konsa"
      },
      {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
-      "player": "Schade"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Manzambi"
      }
+    ]
+   },
+   "6051923": {
+    "els": [
+     332,
+     250
     ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Manzambi": 1,
-      "Schade": 1
+    "players": [
+     "Justin",
+     "Leno"
+    ],
+    "rank_now": 26,
+    "could_reach": 25,
+    "text": "If Justin and Leno both haul, you could climb from 26th to 25th.",
+    "only_you_start": [],
+    "you_captain": null,
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Justin"
      },
-     "rank": 24
-    }
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Leno"
+     }
+    ]
    }
   },
   "rivals": {
-   "2321301": {
-    "rival": 3029346,
+   "1921902": {
+    "rival": 1655993,
     "els": [
-     4
+     366
     ],
     "players": [
-     "Gabriel"
+     "Wirtz"
     ],
-    "text": "Matt's dream week: if Gabriel hauls, Matt could pass you.",
+    "text": "Sunny's dream week: if Wirtz hauls, Sunny could pass you.",
     "status": [
      {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
-      "player": "Gabriel"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Wirtz"
      }
+    ]
+   },
+   "1655993": {
+    "rival": 735721,
+    "els": [
+     346
     ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Gabriel": 1
+    "players": [
+     "Calvert-Lewin"
+    ],
+    "text": "Deepak's dream week: if Calvert-Lewin hauls, Deepak could pass you.",
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Calvert-Lewin"
      }
-    }
+    ]
    },
    "735721": {
-    "rival": 1921902,
+    "rival": 2687116,
+    "els": [
+     166
+    ],
+    "players": [
+     "N.Jackson"
+    ],
+    "text": "Chandru's dream week: if N.Jackson hauls, Chandru could pass you.",
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "N.Jackson"
+     }
+    ]
+   },
+   "2687116": {
+    "rival": 3344797,
+    "els": [
+     346
+    ],
+    "players": [
+     "Calvert-Lewin"
+    ],
+    "text": "Rohan's dream week: if Calvert-Lewin hauls, Rohan could pass you.",
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Calvert-Lewin"
+     }
+    ]
+   },
+   "3344797": {
+    "rival": 1036311,
+    "els": [
+     366,
+     40
+    ],
+    "players": [
+     "Wirtz",
+     "Rogers"
+    ],
+    "text": "Amit's dream week: if Wirtz and Rogers both haul, Amit could pass you.",
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Wirtz"
+     },
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Rogers"
+     }
+    ]
+   },
+   "5474293": {
+    "rival": 4487775,
     "els": [
      166
     ],
     "players": [
      "their captain N.Jackson"
     ],
-    "text": "Ravin's dream week: if their captain N.Jackson hauls, Ravin could pass you.",
+    "text": "Prem's dream week: if their captain N.Jackson hauls, Prem could pass you.",
     "status": [
      {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
+      "state": "to_play",
+      "label": "Still to play",
       "player": "N.Jackson"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "N.Jackson": 2
-     }
-    }
-   },
-   "3344797": {
-    "rival": 4487775,
-    "els": [
-     31,
-     1
-    ],
-    "players": [
-     "Konsa",
-     "Raya"
-    ],
-    "text": "Prem's dream week: if Konsa and Raya both haul, Prem could pass you.",
-    "status": [
-     {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
-      "player": "Konsa"
-     },
-     {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
-      "player": "Raya"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Konsa": 1,
-      "Raya": 1
-     }
-    }
+    ]
    },
    "4487775": {
-    "rival": 1655993,
-    "els": [
-     112
-    ],
-    "players": [
-     "Van Hecke"
-    ],
-    "text": "Sunny's dream week: if Van Hecke hauls, Sunny could pass you.",
-    "status": [
-     {
-      "state": "neither",
-      "pts": 6,
-      "label": "Returned · 6",
-      "player": "Van Hecke"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Van Hecke": 6
-     }
-    }
-   },
-   "3072827": {
     "rival": 3350483,
     "els": [
-     504
+     249,
+     346
     ],
     "players": [
-     "Vuskovic"
+     "Barry",
+     "Calvert-Lewin"
     ],
-    "text": "Aashiv's dream week: if Vuskovic hauls, Aashiv could pass you.",
+    "text": "Aashiv's dream week: if Barry and Calvert-Lewin both haul, Aashiv could pass you.",
     "status": [
      {
-      "state": "blank",
-      "pts": 0,
-      "label": "Blanked · 0",
-      "player": "Vuskovic"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Barry"
+     },
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Calvert-Lewin"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Vuskovic": 0
-     }
-    }
+    ]
    },
    "3350483": {
-    "rival": 5474293,
-    "els": [
-     166
-    ],
-    "players": [
-     "N.Jackson"
-    ],
-    "text": "Sahil's dream week: if N.Jackson hauls, Sahil could pass you.",
-    "status": [
-     {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
-      "player": "N.Jackson"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "N.Jackson": 2
-     }
-    }
-   },
-   "5474293": {
-    "rival": 75778,
+    "rival": 3072827,
     "els": [
      379
     ],
     "players": [
      "Isak"
     ],
-    "text": "Marcel's dream week: if Isak hauls, Marcel could pass you.",
+    "text": "Sunil's dream week: if Isak hauls, Sunil could pass you.",
     "status": [
      {
-      "state": "neither",
-      "pts": 5,
-      "label": "Quiet · 5",
+      "state": "to_play",
+      "label": "Still to play",
       "player": "Isak"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Isak": 5
-     }
-    }
+    ]
    },
-   "6892917": {
-    "rival": 3506595,
+   "3072827": {
+    "rival": 75778,
     "els": [
-     166
+     366
     ],
     "players": [
-     "N.Jackson"
+     "Wirtz"
     ],
-    "text": "Hishaan's dream week: if N.Jackson hauls, Hishaan could pass you.",
+    "text": "Marcel's dream week: if Wirtz hauls, Marcel could pass you.",
     "status": [
      {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
-      "player": "N.Jackson"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Wirtz"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "N.Jackson": 2
-     }
-    }
+    ]
    },
-   "5682768": {
-    "rival": 4922092,
-    "els": [
-     166
-    ],
-    "players": [
-     "N.Jackson"
-    ],
-    "text": "Ravi Mahtani's dream week: if N.Jackson hauls, Ravi Mahtani could pass you.",
-    "status": [
-     {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
-      "player": "N.Jackson"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "N.Jackson": 2
-     }
-    }
-   },
-   "4922092": {
-    "rival": 2465483,
-    "els": [
-     31,
-     127
-    ],
-    "players": [
-     "Konsa",
-     "Gomez"
-    ],
-    "text": "Inesh's dream week: if Konsa and Gomez both haul, Inesh could pass you.",
-    "status": [
-     {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
-      "player": "Konsa"
-     },
-     {
-      "state": "neither",
-      "pts": 3,
-      "label": "Quiet · 3",
-      "player": "Gomez"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Konsa": 1,
-      "Gomez": 3
-     }
-    }
-   },
-   "2465483": {
+   "75778": {
     "rival": 2934546,
     "els": [
      112
@@ -15557,141 +14836,161 @@
     "text": "Naresh's dream week: if Van Hecke hauls, Naresh could pass you.",
     "status": [
      {
-      "state": "neither",
-      "pts": 6,
-      "label": "Returned · 6",
+      "state": "to_play",
+      "label": "Still to play",
       "player": "Van Hecke"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Van Hecke": 6
-     }
-    }
+    ]
    },
    "2934546": {
-    "rival": 6279027,
+    "rival": 5682768,
     "els": [
-     1,
-     68
+     346
     ],
     "players": [
-     "Raya",
-     "Tavernier"
+     "Calvert-Lewin"
     ],
-    "text": "Pishu's dream week: if Raya and Tavernier both haul, Pishu could pass you.",
+    "text": "Vanessa's dream week: if Calvert-Lewin hauls, Vanessa could pass you.",
     "status": [
      {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
-      "player": "Raya"
-     },
-     {
-      "state": "neither",
-      "pts": 8,
-      "label": "Returned · 8",
-      "player": "Tavernier"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Calvert-Lewin"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Raya": 1,
-      "Tavernier": 8
-     }
-    }
+    ]
    },
-   "6279027": {
-    "rival": 865376,
-    "els": [
-     31,
-     249
-    ],
-    "players": [
-     "Konsa",
-     "Barry"
-    ],
-    "text": "Lakshay's dream week: if Konsa and Barry both haul, Lakshay could pass you.",
-    "status": [
-     {
-      "state": "blank",
-      "pts": 1,
-      "label": "Blanked · 1",
-      "player": "Konsa"
-     },
-     {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
-      "player": "Barry"
-     }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Konsa": 1,
-      "Barry": 2
-     }
-    }
-   },
-   "865376": {
-    "rival": 7043406,
+   "5682768": {
+    "rival": 6892917,
     "els": [
      166
     ],
     "players": [
      "N.Jackson"
     ],
-    "text": "Rajiv's dream week: if N.Jackson hauls, Rajiv could pass you.",
+    "text": "Poonam's dream week: if N.Jackson hauls, Poonam could pass you.",
     "status": [
      {
-      "state": "blank",
-      "pts": 2,
-      "label": "Blanked · 2",
+      "state": "to_play",
+      "label": "Still to play",
       "player": "N.Jackson"
      }
-    ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "N.Jackson": 2
-     }
-    }
+    ]
    },
-   "7043406": {
-    "rival": 6159011,
+   "6892917": {
+    "rival": 4922092,
     "els": [
-     40
+     379
     ],
     "players": [
-     "Rogers"
+     "Isak"
     ],
-    "text": "Vinesh's dream week: if Rogers hauls, Vinesh could pass you.",
+    "text": "Ravi Mahtani's dream week: if Isak hauls, Ravi Mahtani could pass you.",
     "status": [
      {
-      "state": "neither",
-      "pts": 5,
-      "label": "Quiet · 5",
-      "player": "Rogers"
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Isak"
      }
+    ]
+   },
+   "4922092": {
+    "rival": 3506595,
+    "els": [
+     366
     ],
-    "grade": {
-     "result": "didn't happen",
-     "pts": {
-      "Rogers": 5
+    "players": [
+     "Wirtz"
+    ],
+    "text": "Hishaan's dream week: if Wirtz hauls, Hishaan could pass you.",
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Wirtz"
      }
-    }
+    ]
+   },
+   "6279027": {
+    "rival": 865376,
+    "els": [
+     154
+    ],
+    "players": [
+     "Palmer"
+    ],
+    "text": "Lakshay's dream week: if Palmer hauls, Lakshay could pass you.",
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Palmer"
+     }
+    ]
+   },
+   "865376": {
+    "rival": 7043406,
+    "els": [
+     112
+    ],
+    "players": [
+     "Van Hecke"
+    ],
+    "text": "Rajiv's dream week: if Van Hecke hauls, Rajiv could pass you.",
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Van Hecke"
+     }
+    ]
+   },
+   "3314780": {
+    "rival": 6159011,
+    "els": [
+     166
+    ],
+    "players": [
+     "N.Jackson"
+    ],
+    "text": "Vinesh's dream week: if N.Jackson hauls, Vinesh could pass you.",
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "N.Jackson"
+     }
+    ]
+   },
+   "6476662": {
+    "rival": 6051923,
+    "els": [
+     79,
+     124
+    ],
+    "players": [
+     "Evanilson",
+     "Groß"
+    ],
+    "text": "Alia's dream week: if Evanilson and Groß both haul, Alia could pass you.",
+    "status": [
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Evanilson"
+     },
+     {
+      "state": "to_play",
+      "label": "Still to play",
+      "player": "Groß"
+     }
+    ]
    }
   },
   "midweek": false,
-  "ts": "2026-11-21T12:00:35Z",
-  "called": 3,
-  "graded": 5
+  "ts": "2026-11-27T19:08:21Z"
  },
  "checks": {
-  "ts": "2026-11-27T18:42:27Z",
+  "ts": "2026-11-27T19:08:21Z",
   "issues": [],
   "page": []
  },
@@ -15791,7 +15090,10 @@
    "579": "a|None|",
    "183": "a|100|",
    "45": "a|None|",
-   "57": "a|None|"
+   "57": "a|None|",
+   "597": "a|None|",
+   "385": "a|None|",
+   "369": "a|None|"
   },
   "changed": {
    "286": "2026-11-20T15:05:51Z",
@@ -15903,7 +15205,10 @@
    "579": 5.5,
    "183": 5.0,
    "45": 5.5,
-   "57": 4.5
+   "57": 4.5,
+   "597": 5.1,
+   "385": 5.1,
+   "369": 5.7
   },
   "surge": {
    "1": "11:down",
@@ -16882,59 +16187,8 @@
   10
  ],
  "moment_imgs": {
-  "gw": 11,
-  "files": {
-   "p411": {
-    "key": "d11:capflop:411",
-    "sig": "f5a14b508e",
-    "file": "share/live/gw11-p411-f5a14b508e.png"
-   },
-   "lead": {
-    "key": "l11:lead:3029346:737",
-    "sig": "573297515f",
-    "file": "share/live/gw11-lead-573297515f.png"
-   },
-   "p330": {
-    "key": "d11:regret:330:0:1",
-    "sig": "a1545f3011",
-    "file": "share/live/gw11-p330-a1545f3011.png"
-   },
-   "p166": {
-    "key": "d11:capflop:166",
-    "sig": "a9fef7a013",
-    "file": "share/live/gw11-p166-a9fef7a013.png"
-   },
-   "p154": {
-    "key": "d11:capflop:154",
-    "sig": "76ca2a7d89",
-    "file": "share/live/gw11-p154-76ca2a7d89.png"
-   },
-   "p453": {
-    "key": "d11:sold:453:1:0",
-    "sig": "71be646d70",
-    "file": "share/live/gw11-p453-71be646d70.png"
-   },
-   "p15": {
-    "key": "d11:regret:15:0:1",
-    "sig": "b739a72229",
-    "file": "share/live/gw11-p15-b739a72229.png"
-   },
-   "p16": {
-    "key": "d11:sold:16:1:0",
-    "sig": "088e432b2e",
-    "file": "share/live/gw11-p16-088e432b2e.png"
-   },
-   "p286": {
-    "key": "d11:regret:286:0:1",
-    "sig": "20088192e0",
-    "file": "share/live/gw11-p286-20088192e0.png"
-   },
-   "p627": {
-    "key": "d11:sold:627:0:1",
-    "sig": "e503b70bce",
-    "file": "share/live/gw11-p627-e503b70bce.png"
-   }
-  }
+  "gw": 12,
+  "files": {}
  },
- "next_deadline": "2026-11-27T18:30:00Z"
+ "next_deadline": "2026-12-01T18:30:00Z"
 }
