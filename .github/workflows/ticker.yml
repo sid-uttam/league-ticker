@@ -44,6 +44,7 @@ jobs:
           git config user.name "micromanager-bot"
           git config user.email "micromanager-bot@users.noreply.github.com"
           start=$(date +%s)
+          fpl_fails=0
           while true; do
             round=$(date +%s)
             git pull -q --rebase origin main || echo "Couldn't pull the pages; using what's here."
@@ -54,13 +55,17 @@ jobs:
             fi
             if [ -f engine/run.py ]; then
               rm -rf micromanager leagues && cp -r engine/micromanager engine/leagues engine/run.py engine/config.json .
-              python run.py || echo "This check failed; trying again next round."
+              python run.py 2>&1 | tee /tmp/round.log || echo "This check failed; trying again next round."
+              # 28 Nov: on 27 Nov FPL refused one GitHub machine for 5 hours before the deadline while it answered
+              # others. Two refused rounds in a row now hand over to a fresh machine (see the end of the loop).
+              if grep -q "FPL is unavailable right now" /tmp/round.log; then fpl_fails=$((fpl_fails + 1)); else fpl_fails=0; fi
             fi
             git add docs state
             if ! git diff --cached --quiet; then
               git commit -q -m "Ticker update"
               (git pull -q --rebase origin main && git push -q) || echo "Couldn't save this round; will retry."
             fi
+            if [ $fpl_fails -ge 2 ]; then echo "FPL keeps refusing this machine; handing over to a fresh one."; break; fi
             phase=$(python -c "import json;print(json.load(open('state/state.json')).get('phase',''))" 2>/dev/null || true)
             if [ "$phase" = "live" ]; then wait=600; else wait=1800; fi
             # 23 Nov (GW11 audit): the wait used to start after the round, so a 12-minute round made a 22-minute gap
