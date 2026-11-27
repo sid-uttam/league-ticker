@@ -2683,22 +2683,22 @@
     "event_total": 0
    },
    {
-    "entry": 3344797,
-    "player_name": "Rohan Belani",
-    "entry_name": "orangeblaze78",
-    "rank": 7,
-    "last_rank": 7,
-    "total": 720,
-    "event_total": 2
-   },
-   {
     "entry": 1036311,
     "player_name": "Amit Mahtani",
     "entry_name": "AMFC 11",
-    "rank": 8,
+    "rank": 7,
     "last_rank": 8,
-    "total": 716,
-    "event_total": 9
+    "total": 724,
+    "event_total": 17
+   },
+   {
+    "entry": 3344797,
+    "player_name": "Rohan Belani",
+    "entry_name": "orangeblaze78",
+    "rank": 8,
+    "last_rank": 7,
+    "total": 720,
+    "event_total": 2
    },
    {
     "entry": 5474293,
@@ -8482,6 +8482,20 @@
  },
  "stories": [
   {
+   "key": "l12:ret:480:2:0",
+   "kind": "live",
+   "tag": "Live",
+   "head": "Gibbs-White scores. Only Amit owns him",
+   "body": "That's the beauty of a differential.",
+   "stat": "1 of 26 own him",
+   "score": 75,
+   "who": [
+    1036311
+   ],
+   "ts": "2026-11-27T21:36:22Z",
+   "gw": 12
+  },
+  {
    "key": "d12:regret:156:0:1",
    "kind": "live",
    "tag": "Bench",
@@ -10584,7 +10598,8 @@
   "d12:bandwagon:379",
   "z12:7043406:tin",
   "d12:regret:156:0:1",
-  "l12:ret:480:1:0"
+  "l12:ret:480:1:0",
+  "l12:ret:480:2:0"
  ],
  "done": [
   "deadline:10",
@@ -10767,7 +10782,7 @@
     2,
     0,
     0,
-    65,
+    77,
     0,
     0,
     0
@@ -11262,7 +11277,7 @@
     2,
     0,
     0,
-    65,
+    77,
     0,
     0,
     0
@@ -11281,10 +11296,10 @@
    "156": [
     0,
     1,
-    5,
+    4,
     0,
     0,
-    65,
+    77,
     0,
     0,
     0
@@ -11449,18 +11464,18 @@
     2,
     0,
     0,
-    65,
+    77,
     0,
     0,
     0
    ],
    "480": [
-    1,
+    2,
     0,
-    7,
+    15,
     0,
     0,
-    65,
+    77,
     0,
     0,
     0
@@ -11618,8 +11633,8 @@
    "1655993": 4,
    "2687116": 5,
    "735721": 6,
-   "3344797": 7,
-   "1036311": 8,
+   "1036311": 7,
+   "3344797": 8,
    "5474293": 9,
    "4487775": 10,
    "3350483": 11,
@@ -11646,8 +11661,8 @@
    "1655993": "gold",
    "2687116": "silver",
    "735721": "silver",
-   "3344797": "silver",
    "1036311": "silver",
+   "3344797": "silver",
    "5474293": null,
    "4487775": null,
    "3350483": null,
@@ -11668,7 +11683,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-27T21:25:13Z",
+ "updated": "2026-11-27T21:36:22Z",
  "ai": {
   "briefings": {
    "3029346": "You sit top on 774 after 52 this week, with Nikhil 17 behind. Keep an eye on Haaland's armband and Calafiori, who you don't own but many others do.",
@@ -11699,7 +11714,7 @@
    "6051923": "You are 26th on 613 after 29 this week, 4 behind Bella. Ice Cold is the tag hanging over you, so look for a comeback."
   },
   "key": "12:live",
-  "ts": "2026-11-27T21:17:39Z",
+  "ts": "2026-11-27T21:36:22Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -11722,16 +11737,123 @@
     "plots": 5
    },
    "12": {
-    "in": 172945,
-    "out": 32473,
-    "calls": 16,
-    "refreshes": 3,
-    "desks": 5,
-    "desk_in": 67621,
-    "desk_out": 25646
+    "in": 232077,
+    "out": 42621,
+    "calls": 20,
+    "refreshes": 4,
+    "desks": 6,
+    "desk_in": 91784,
+    "desk_out": 32909
    }
   },
   "desks": [
+   {
+    "headline": "Gibbs-White's goal is Amit's alone as Pishu's benched Neto assists",
+    "text": "**Gibbs-White** has scored, and only Amit started him, so his **15 points** flow to one team alone. Pishu benched Neto, who has set up a goal from the bench, a decision that now stings. Matt and Nikhil's captains are still to play, so the top spot can still move.",
+    "you": {
+     "3029346": "**De Cuyper** is your captain, and only 2 managers have him, with his match still to come.",
+     "2321301": "Only you have **Barcola** among your players still to play, and he could be your route back.",
+     "1921902": "Sunny is breathing down your neck, and N.Jackson's armband is still to come for you.",
+     "1655993": "Groß's armband is still to come for you while Ravin sits directly ahead.",
+     "2687116": "Earlier today you slipped down the table before climbing back, and N.Jackson's armband is still to play.",
+     "735721": "Your Free Hit squad is waiting on kick-off, with Calvert-Lewin's armband still to come.",
+     "1036311": "**Gibbs-White** scored 15 points for you alone, a differential nobody else in the league owns.",
+     "3344797": "Amit has moved past you today, so Calvert-Lewin's armband is still to play for you.",
+     "5474293": "Lewis-Potter is yours alone among your players still to play, which could help your chase.",
+     "4487775": "Your closest rival above is Sahil, and N.Jackson's armband is still to play for you.",
+     "3350483": "Barry is yours alone among your players still to play, which could help you hold off Sunil.",
+     "3072827": "Earlier today you climbed before slipping back, and Isak's armband is still to play for you.",
+     "75778": "Belloumi is yours alone among your players still to play, so he could be your route to points.",
+     "2934546": "Isak's armband is still to play for you, with Marcel directly above.",
+     "6892917": "You have 4 points on the board, with N.Jackson's armband still to play.",
+     "5682768": "Van Ewijk is yours alone among your players still to play, with Calvert-Lewin's armband also to come.",
+     "4922092": "Isak's armband is still to play for you, and Vanessa is directly above.",
+     "3506595": "Your Wildcard squad is still waiting on N.Jackson's armband, which could lift you.",
+     "2465483": "Hall is yours alone among your players still to play, and Isak's armband is also to come.",
+     "865376": "Palmer's armband is already worth 4 points for you, with Rayan and Barnes still to come.",
+     "6279027": "You benched Neto, and he has set up a goal while sitting on your bench.",
+     "7043406": "Tin Pot territory is where you are now, but Evanilson's armband could pull you out.",
+     "3314780": "Pickford, Guéhi and Ødegaard are yours alone among your players still to play.",
+     "6159011": "N.Jackson's armband is still to play for you, and you are in Tin Pot territory.",
+     "6476662": "Only you captain Wirtz, and he is still to play.",
+     "6051923": "Gvardiol is yours alone among your players still to play, which could be your route up."
+    },
+    "ts": "2026-11-27T21:36:22Z",
+    "gw": 12,
+    "moment": "matches_on",
+    "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:i:3-1|120:n:0-0",
+    "ranks": {
+     "3029346": 1,
+     "2321301": 2,
+     "1921902": 3,
+     "1655993": 4,
+     "2687116": 5,
+     "735721": 6,
+     "1036311": 7,
+     "3344797": 8,
+     "5474293": 9,
+     "4487775": 10,
+     "3350483": 11,
+     "3072827": 12,
+     "75778": 13,
+     "2934546": 14,
+     "6892917": 15,
+     "5682768": 15,
+     "4922092": 17,
+     "3506595": 18,
+     "2465483": 19,
+     "6279027": 20,
+     "865376": 20,
+     "7043406": 22,
+     "3314780": 23,
+     "6159011": 24,
+     "6476662": 25,
+     "6051923": 26
+    },
+    "totals": {
+     "3029346": 776,
+     "2321301": 761,
+     "1921902": 739,
+     "1655993": 736,
+     "2687116": 733,
+     "735721": 732,
+     "1036311": 724,
+     "3344797": 720,
+     "5474293": 701,
+     "4487775": 698,
+     "3350483": 691,
+     "3072827": 689,
+     "75778": 683,
+     "2934546": 680,
+     "6892917": 679,
+     "5682768": 679,
+     "4922092": 676,
+     "3506595": 675,
+     "2465483": 673,
+     "6279027": 651,
+     "865376": 651,
+     "7043406": 647,
+     "3314780": 646,
+     "6159011": 643,
+     "6476662": 617,
+     "6051923": 615
+    },
+    "ga": {
+     "156": [
+      0,
+      1
+     ],
+     "480": [
+      2,
+      0
+     ]
+    },
+    "you_full_ts": "2026-11-27T21:04:58Z",
+    "next": {
+     "ko": "2026-11-28T15:00:00Z",
+     "match": "LEE v COV"
+    }
+   },
    {
     "headline": "Matt leads top spot as Nikhil waits on Isak",
     "text": "**Matt leads** the top spot with **De Cuyper** still to play for him, and only 2 managers have that captain, so the fight could tilt quickly. Nikhil needs **Isak** to haul while Raya, Silva and Calafiori are still to come, and NFO v CHE is only 1-0 with plenty of minutes left.",
@@ -12055,7 +12177,7 @@
     "6051923": 26
    }
   },
-  "desk_last_ok": "2026-11-27T21:04:58Z",
+  "desk_last_ok": "2026-11-27T21:36:22Z",
   "plots": [
    {
     "id": "title",
@@ -14077,14 +14199,7 @@
    "GW11 between: Matt holds top as Haaland blanks again. Matt's Lammo's Lads sit top after collecting 52, with Nikhil 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb from 8th to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over. Haaland blanking again is starting to look like a running joke, and not a funny one for most of you.",
    "GW11 between: Matt holds the summit as Haaland blanks again. Matt's Lammo's Lads sit top after collecting 52, with Nikhil now 17 points back at Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb from 8th to 4th, the standout week of the season so far. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over. Haaland blanking again is starting to look like a running joke, and not a funny one for most of you.",
    "GW11 between: Haaland blanks again as Matt pulls clear. Lammo's Lads sit top after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over."
-  ],
-  "_replaced_ts": "2026-11-27T20:35:09Z",
-  "desk_try": {
-   "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:i:2-1|120:n:0-0",
-   "ts": "2026-11-27T21:17:39Z",
-   "draft": "Gibbs-White's goal lands for Amit alone, Pishu benched Neto | **Gibbs-White** has given NFO v CHE a 2-1 lead with a goal worth **6 points**, and only Amit started him. Pishu will be wincing, as **Neto** set up that goal from the bench, worth 4 points. **Calvert-Lewin's armband** is still to come for Amit, so his gamble could keep climbing.",
-   "why": "fact-check: ['headline']"
-  }
+  ]
  },
  "plot_log": {
   "gamble:3506595:10": [
@@ -14529,9 +14644,9 @@
       "player": "Verbruggen"
      },
      {
-      "state": "playing",
-      "label": "Playing · 7",
-      "pts": 7,
+      "state": "happening",
+      "label": "Hauling · 15",
+      "pts": 15,
       "player": "Gibbs-White"
      }
     ]
@@ -15227,10 +15342,8 @@
   "ts": "2026-11-27T19:08:21Z"
  },
  "checks": {
-  "ts": "2026-11-27T21:25:13Z",
-  "issues": [
-   "desk written from older totals (24 managers changed since)"
-  ],
+  "ts": "2026-11-27T21:36:22Z",
+  "issues": [],
   "page": []
  },
  "pwatch": {
