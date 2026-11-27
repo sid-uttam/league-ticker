@@ -66167,7 +66167,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-27T19:24:35Z",
+ "updated": "2026-11-27T19:34:53Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week. Neol is the main threat, so watch the Haaland armband and whether you hold your Free Hit for later.",
@@ -66197,7 +66197,7 @@
    "6034028": "You climbed to 32nd on 694 after a 50-point week, with Silva's armband worth 16. Watch Jackey and Eli around you."
   },
   "key": "12:live",
-  "ts": "2026-11-27T19:05:22Z",
+  "ts": "2026-11-27T19:34:53Z",
   "usage": {
    "10": {
     "in": 1227421,
@@ -66220,10 +66220,10 @@
     "plots": 5
    },
    "12": {
-    "in": 51960,
-    "out": 13282,
-    "calls": 4,
-    "refreshes": 1,
+    "in": 85240,
+    "out": 16671,
+    "calls": 6,
+    "refreshes": 2,
     "desks": 1,
     "desk_in": 19552,
     "desk_out": 9688
@@ -74385,7 +74385,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-27T19:24:35Z",
+  "ts": "2026-11-27T19:34:53Z",
   "issues": [],
   "page": []
  },

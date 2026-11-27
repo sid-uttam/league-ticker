@@ -11137,7 +11137,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-27T19:24:41Z",
+ "updated": "2026-11-27T19:35:14Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms up as Haaland armband backfires",
@@ -11196,7 +11196,7 @@
    "1979363": "You are 14th on 629 after a 22 week, 3 behind Parth. Aarin sits 3 behind you, so a fightback is needed."
   },
   "key": "12:live",
-  "ts": "2026-11-27T19:07:23Z",
+  "ts": "2026-11-27T19:35:14Z",
   "usage": {
    "11": {
     "in": 196244,
@@ -11206,10 +11206,10 @@
     "plots": 3
    },
    "12": {
-    "in": 37822,
-    "out": 7084,
-    "calls": 4,
-    "refreshes": 1,
+    "in": 71585,
+    "out": 10413,
+    "calls": 6,
+    "refreshes": 2,
     "desks": 1,
     "desk_in": 5625,
     "desk_out": 3474
@@ -13585,7 +13585,7 @@
   ]
  },
  "checks": {
-  "ts": "2026-11-27T19:24:41Z",
+  "ts": "2026-11-27T19:35:14Z",
   "issues": [],
   "page": []
  },

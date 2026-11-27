@@ -3985,7 +3985,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-27T19:24:16Z",
+ "updated": "2026-11-27T19:34:16Z",
  "hist": {
   "key": "12:live",
   "data": {
@@ -6881,7 +6881,7 @@
    "GW11 between: Maanav's Bench Boost bombshell tops a chaotic gameweek 11. Maanav took the gameweek with 58 points on a Bench Boost, climbing from 19th to 14th and ending the long Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. Haaland was armbanded by 22 managers and scored just 2, so 4 each, and that bloc is still bleeding. Tarkowski's red card and Raya's injury doubt add more jeopardy for those who own them.",
    "GW11 between: Maanav's bench-boosted rise stays the story as Ayodele holds the top. Maanav's 58 on a Bench Boost was the standout of gameweek 11, climbing from 19th to 14th and ending a long run of Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. The Haaland armband bloc remains the league's biggest running joke, with 22 managers armbanding him for just 2 points. Tarkowski's red card and Raya's injury doubt add jeopardy for those who own them."
   ],
-  "ts": "2026-11-27T19:04:16Z",
+  "ts": "2026-11-27T19:34:16Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -7009,10 +7009,10 @@
     "plots": 6
    },
    "12": {
-    "in": 43337,
-    "out": 7866,
-    "calls": 4,
-    "refreshes": 1,
+    "in": 81161,
+    "out": 12267,
+    "calls": 6,
+    "refreshes": 2,
     "desks": 1,
     "desk_in": 7258,
     "desk_out": 4957
@@ -16982,7 +16982,7 @@
   "ts": "2026-11-27T19:04:16Z"
  },
  "checks": {
-  "ts": "2026-11-27T19:24:16Z",
+  "ts": "2026-11-27T19:34:16Z",
   "issues": [],
   "page": []
  },
