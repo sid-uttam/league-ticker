@@ -11383,15 +11383,15 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-26T23:49:54Z",
+ "updated": "2026-11-27T00:20:55Z",
  "ai": {
   "briefings": {
-   "3029346": "You top the table on 774 after a 52-point week, with Nikhil 17 back. Watch the armband carefully, as your Haaland captaincy only returned 4.",
-   "2321301": "You sit 2nd, 17 behind Matt, after a 34-point week. Haaland's blank hurt, so reconsider your captain options to chase the summit.",
-   "1921902": "You are 3rd on 735 after 28 points, with Nikhil 22 ahead. Your N.Jackson armband returned 4, so keep an eye on your bench.",
+   "3029346": "You top the table on 774, 17 clear of Nikhil, and your Bench Boost is long gone so there's no reserve to lean on. Watch Nikhil and Ravin, who are the main threats. Keep an eye on your Haaland decision.",
+   "2321301": "You're second on 757, 17 behind Matt, and a strong week would close the gap quickly. Ravin sits 22 back, so you're fairly safe from behind. Look at whether Haaland is still the right armband next week.",
+   "1921902": "You're third on 735 and 22 behind Nikhil, with Sunny only 1 point behind you. Watch Sunny closely, since he's just hit 67. Your captain N.Jackson returned 4, a decent result to build on.",
    "1655993": "You climbed to 4th on 734 after a 67-point Bench Boost week, the best of the gameweek. Keep your squad fresh as Ravin is only 1 ahead.",
    "735721": "You are 5th on 732 after 24 points, 2 behind Sunny. Your Haaland armband blanked, so consider a different captain to regain ground.",
-   "2687116": "You are 6th on 731 after 35 points, with Deepak 1 ahead. Your Haaland captaincy returned 4, so watch the chasing pack closely.",
+   "2687116": "You're 6th on 731, just 1 point behind Deepak and 13 ahead of Rohan. You have a Free Hit left, and your 74 risk score suggests you like a gamble. Watch Deepak and Rohan as the main threats.",
    "3344797": "You are 7th on 718 after 44 points, 13 behind Chandru. Your Van Hecke and N.Jackson moves are worth tracking closely next week.",
    "1036311": "You are 8th on 707 after a 49-point Bench Boost, with Rohan 11 ahead. Your Van Hecke signing is one to watch as the gap narrows.",
    "5474293": "You are 9th on 697 after 45 points, with Amit 10 ahead. Lewis-Potter's goals are yours alone to celebrate, so ride that momentum.",
@@ -11414,7 +11414,7 @@
    "6051923": "You are 26th on 613 after 29 points, 4 behind Bella. The Ice Cold tag is a fair warning, so look to rebound next week."
   },
   "key": "11:between",
-  "ts": "2026-11-26T00:11:43Z",
+  "ts": "2026-11-27T00:20:55Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -11427,10 +11427,10 @@
     "plots": 11
    },
    "11": {
-    "in": 1785626,
-    "out": 379412,
-    "calls": 141,
-    "refreshes": 25,
+    "in": 1813269,
+    "out": 382245,
+    "calls": 143,
+    "refreshes": 26,
     "desks": 41,
     "desk_in": 937345,
     "desk_out": 301465,
@@ -12480,8 +12480,8 @@
   "plots_v": 8,
   "plots_sig": "986334780213",
   "group": {
-   "text": "*Haaland blanks again, Matt keeps the crown*\nMatt sits top after 52 points, 17 clear of Nikhil.\nSunny's Bench Boost hauled 67 to climb to 4th.\n22 of you lost the armband bet on Haaland.",
-   "ts": "2026-11-26T00:11:43Z",
+   "text": "*Haaland's blank costs 22 armbands*\nMatt sits top, 17 clear of Nikhil, after collecting 52.\nSunny's Bench Boost hauled 67 to climb to 4th.\nN.Jackson's 3 owners will be wondering what might have been.",
+   "ts": "2026-11-27T00:20:55Z",
    "gw": 11
   },
   "storylines": [
@@ -12495,12 +12495,11 @@
    },
    {
     "title": "Armband agony",
-    "text": "Haaland blanked for 22 managers, and N.Jackson's 3 owners also scored 4 each.",
+    "text": "Haaland blanked for 22 managers, while N.Jackson's 3 owners each scored 4 from the armband.",
     "who": [
      3029346,
      2321301,
-     1921902,
-     6159011
+     1921902
     ]
    }
   ],
@@ -14254,31 +14253,31 @@
    "points": [
     {
      "label": "Title race",
-     "text": "Matt leads Nikhil by 17 and Ravin is 39 back, so the summit is comfortable for now but a Haaland rebound would change that quickly."
-    },
-    {
-     "label": "Armband dilemma",
-     "text": "Haaland scored 2 this week, so 4 for each of his 22 captains. Picking someone else is a gamble most of the league will be weighing."
+     "text": "Matt leads Nikhil by 17 and Ravin by 39. A big week from Nikhil would trim the gap, but Matt's cushion is comfortable for now."
     },
     {
      "label": "Injury sweat",
-     "text": "Raya is 50% to play and Hall is 75%, with Tarkowski suspended until 13 Dec, so check your lineups before the deadline."
+     "text": "Raya is a 50% doubt owned by 13 managers, and Hall is a 75% doubt owned by 3. Check team news before the deadline in 18 hours."
+    },
+    {
+     "label": "Chips loaded",
+     "text": "Prem and Sahil still hold most of their chips, so expect Bench Boost and Triple Captain moves to shape the next deadline."
     }
    ],
    "gw": 12,
-   "ts": "2026-11-26T00:11:43Z"
+   "ts": "2026-11-27T00:20:55Z"
   },
   "column": {
-   "headline": "Matt's grip tightens as Haaland blanks again",
-   "text": "Lammo's Lads hold top spot after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband blanked on 2 points for 22 managers, leaving most of the league wishing they had backed someone else. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout performance. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over.",
-   "ts": "2026-11-26T00:11:43Z",
+   "headline": "Haaland blanks again as Matt pulls clear",
+   "text": "Lammo's Lads sit top after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over.",
+   "ts": "2026-11-27T00:20:55Z",
    "gw": 11
   },
   "history": [
+   "GW11 between: Haaland blanks again as Matt pulls clear. Lammo's Lads sit top after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over.",
    "GW11 between: Matt's grip tightens as Haaland blanks again. Lammo's Lads hold top spot after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband blanked on 2 points for 22 managers, leaving most of the league wishing they had backed someone else. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout performance. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over.",
    "GW11 between: Matt's grip tightens as Haaland blanks again. Lammo's Lads hold top spot after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband blanked on 2 points for 22 managers, leaving most of the league wishing they had backed someone else. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout performance. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over.",
-   "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil holds on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top.",
-   "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil hangs on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top."
+   "GW10 between: Matt's Bench Boost squeezes the summit as Nikhil holds on. Matt's 96-point Bench Boost was the week's best haul, lifting Lammo's Lads from 5th to 2nd and just 1 point behind Nikhil at the top. Nikhil held firm on 73, but Deepak sits 14 back in third, so the summit squeeze is real. Ravin's armband flopped again as Rogers managed just 2, the same blank Lakshay's Palmer returned. Meanwhile Hishaan's Barry hauled 32 for his only captain, a reminder that luck still has a say at the top."
   ]
  },
  "plot_log": {
@@ -15651,7 +15650,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-26T23:49:54Z",
+  "ts": "2026-11-27T00:20:55Z",
   "issues": [],
   "page": []
  },
@@ -15772,22 +15771,22 @@
    "566": 5.1,
    "8": 5.9,
    "31": 4.9,
-   "115": 5.5,
+   "115": 5.6,
    "627": 8.1,
    "40": 8.3,
    "154": 9.8,
-   "411": 15.8,
+   "411": 15.7,
    "249": 5.7,
    "166": 7.3,
    "497": 3.9,
    "124": 6.3,
    "268": 5.4,
    "305": 4.0,
-   "496": 4.4,
+   "496": 4.5,
    "112": 5.2,
    "4": 8.1,
    "68": 6.8,
-   "366": 7.4,
+   "366": 7.5,
    "379": 9.4,
    "109": 4.7,
    "53": 6.2,
@@ -15796,7 +15795,7 @@
    "399": 7.8,
    "233": 4.6,
    "173": 4.0,
-   "334": 5.1,
+   "334": 5.2,
    "391": 5.5,
    "362": 5.1,
    "346": 6.0,
@@ -15929,7 +15928,8 @@
    "183": "11:up",
    "350": "11:up",
    "579": "11:up",
-   "237": "11:down"
+   "237": "11:down",
+   "332": "11:up"
   },
   "log": [
    {
@@ -16671,6 +16671,47 @@
     "el": 249,
     "kind": "surge",
     "net": -25256
+   },
+   {
+    "ts": "2026-11-27T00:20:55Z",
+    "el": 115,
+    "kind": "price",
+    "change": 0.1,
+    "price": 5.6
+   },
+   {
+    "ts": "2026-11-27T00:20:55Z",
+    "el": 366,
+    "kind": "price",
+    "change": 0.1,
+    "price": 7.5
+   },
+   {
+    "ts": "2026-11-27T00:20:55Z",
+    "el": 411,
+    "kind": "price",
+    "change": -0.1,
+    "price": 15.7
+   },
+   {
+    "ts": "2026-11-27T00:20:55Z",
+    "el": 496,
+    "kind": "price",
+    "change": 0.1,
+    "price": 4.5
+   },
+   {
+    "ts": "2026-11-27T00:20:55Z",
+    "el": 332,
+    "kind": "surge",
+    "net": 25323
+   },
+   {
+    "ts": "2026-11-27T00:20:55Z",
+    "el": 334,
+    "kind": "price",
+    "change": 0.1,
+    "price": 5.2
    }
   ]
  },

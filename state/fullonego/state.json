@@ -10784,70 +10784,71 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-26T23:49:35Z",
+ "updated": "2026-11-27T00:20:14Z",
  "ai": {
   "column": {
-   "headline": "Shantanu storms in as Sukrut keeps the top spot",
-   "text": "Shantanu hauled 65 points to win the week and climb from 22nd to 20th, while Sukrut still sits top on 742 with a 24-point cushion over Aditya Dalal. Aryamann's 52 lifted him up to 4th, and Aary's 8-point hit for Groß, De Cuyper and N.Jackson will be the first thing he has to justify. Haaland was the house captain for almost everyone, so the lone-wolf picks decided the drama.",
-   "ts": "2026-11-25T07:35:21Z",
+   "headline": "Shantanu storms the table as Sukrut holds on top",
+   "text": "Shantanu hauled 65 points to win GW11 and climb from 22nd to 20th, the standout performance of the week. At the top, Sukrut still leads on 742 with a 24-point cushion over Aditya Dalal, and Aryamann's 52 lifted him to 4th. Aary's 8-point hit for Groß, De Cuyper and N.Jackson is the first thing he now has to justify. Haaland was the house captain for most of the league, so the lone-wolf picks made the drama.",
+   "ts": "2026-11-27T00:20:14Z",
    "gw": 11
   },
   "history": [
+   "GW11 between: Shantanu storms the table as Sukrut holds on top. Shantanu hauled 65 points to win GW11 and climb from 22nd to 20th, the standout performance of the week. At the top, Sukrut still leads on 742 with a 24-point cushion over Aditya Dalal, and Aryamann's 52 lifted him to 4th. Aary's 8-point hit for Groß, De Cuyper and N.Jackson is the first thing he now has to justify. Haaland was the house captain for most of the league, so the lone-wolf picks made the drama.",
    "GW11 between: Shantanu storms in as Sukrut keeps the top spot. Shantanu hauled 65 points to win the week and climb from 22nd to 20th, while Sukrut still sits top on 742 with a 24-point cushion over Aditya Dalal. Aryamann's 52 lifted him up to 4th, and Aary's 8-point hit for Groß, De Cuyper and N.Jackson will be the first thing he has to justify. Haaland was the house captain for almost everyone, so the lone-wolf picks decided the drama."
   ],
   "preview": {
-   "headline": "Gameweek 12: Who blinks first?",
+   "headline": "GW12: Who has the most to gain and lose",
    "points": [
     {
      "label": "Title race",
-     "text": "Sukrut leads by 24 points over Aditya Dalal, who is in no mood to let the gap grow any further."
+     "text": "Sukrut leads on 742, 24 points clear of Aditya Dalal. Aditya Dalal needs to close that gap before the cushion grows."
     },
     {
      "label": "Armband dilemma",
-     "text": "Haaland is the house captain for 15 of you, but he only returned 2 this week. Time for a rethink?"
+     "text": "Haaland was captained by 15 managers and returned just 2, so the house pick is worth weighing carefully again."
     },
     {
      "label": "Injury sweat",
-     "text": "Raya is a 50% doubt for Rushikesh... sorry, for the 10 managers who own him. João Pedro is out for an unknown spell."
+     "text": "Raya is at 50 percent and João Pedro has an unknown return date, both owned in the league, so check your lineups."
     }
    ],
    "gw": 12,
-   "ts": "2026-11-26T00:11:05Z"
+   "ts": "2026-11-27T00:20:14Z"
   },
   "briefings": {
    "3991082": "You're top on 742 with a 24-point lead over Aditya Dalal, but Shantanu's 65 shows how quickly things can change. Watch your Haaland captaincy and your pair of new signings, Groß and Vuskovic.",
    "6543415": "You are 2nd on 718, 24 behind Sukrut, and the Haaland armband returned just 4 for you. Keep an eye on Prerana, who is only 3 behind you.",
    "8849458": "You are 3rd on 715, but Aditya Dalal sits just 3 ahead. Your 6-point bench gap cost you, so tighten your XI before the deadline.",
    "3504829": "You've climbed to 4th on 690 after a 52-point week. Your new signings, Wirtz and Evanilson, are yours to justify, so watch the next fixtures closely.",
-   "2994764": "You are 5th on 684, with an 18-point bench shortfall that cost you dearly. Fix your bench order to avoid repeating it.",
+   "2994764": "You are 5th on 684 and a 28-point week kept you in touch. Aryan sits 12 behind, so your bench points of 18 are worth tightening up.",
    "1310155": "You are 6th on 672 after a 24-point week, and Kalash is right behind. Your McGinn and Dasilva pickups have yet to make a real impact.",
-   "224457": "You are 7th on 665 and only 7 behind Aryan. Your team is solid but static, so consider a move before the deadline.",
-   "5703947": "You are 8th on 661 after a 41-point week, your captain Groß returned 8. Pruthviraj is 8 behind, so keep the momentum.",
+   "224457": "You are 7th on 665 and only 4 points ahead of Arya, who is hot behind you. Keep an eye on Aryan, 7 points clear of you.",
+   "5703947": "You are 8th on 661 after an excellent 41-point week with Groß's armband returning 8. Kalash is 4 ahead, so chase him down.",
    "8893621": "You're 9th on 653 with 33 points this week, and you're listed as inactive. Your bench cost you 9 points, so review your team soon.",
-   "2784861": "You are 10th on 643, with 36 points left on the bench. Start the players you are carrying in the next gameweek.",
-   "3234443": "You are 11th on 642 after a 41-point week, helped by Wirtz and N.Jackson. A -4 hit cost you 4, so watch your transfer count.",
-   "5772383": "You are 12th on 633 after a 28-point week, with N.Jackson as captain. Parth is just 1 behind you, so be ready to defend.",
-   "6519111": "You are 13th on 632 after a 47-point week, climbing from 15th. Atharva Singh is just 1 ahead, so the chase is on.",
-   "748886": "You are 15th on 626 after a 35-point week, with an 11-point bench loss. Sahil Phadnis is 10 behind, so keep your bench sharp.",
-   "7244060": "You are 16th on 616 after a 39-point week, with Evanilson captain returning 12. Nihar sits 14 behind you, so stay sharp.",
-   "5781412": "You are 17th on 602 and Ice Cold on the tag list, but a 31-point week helps. Sudev is 11 behind, so there is room to climb.",
-   "4979869": "You are 18th on 591 after a 31-point week, with Palmer as captain. Pradnyesh is 16 behind, so keep your position steady.",
-   "4875847": "You're 19th on 575 after a 51-point week, with Tavernier as captain scoring 16. Your bench cost you 21 points, so a sharper lineup could help.",
-   "8824397": "You are 20th on 567 after a 65-point week, the best haul of the gameweek. Pradnyesh is 8 ahead, so chase him down.",
-   "5733897": "You are 21st on 546 after a 39-point week, and you are a ghost manager. Sahil Gore is 15 behind you, so your position is safe for now.",
-   "9004622": "You are 22nd on 531 after a 26-point week, and you are a ghost manager. Aary is 26 behind, so you have room to recover.",
-   "3188980": "You are 23rd on 505 after a 25-point week, with an 8-point hit. Rushikesh is 12 behind, so consider your transfers.",
-   "10320954": "You are 24th on 493 after a 42-point week. Aary is 12 ahead, so you have a chance to climb.",
-   "1979363": "You are 14th on 629 after a 22-point week, falling from 11th. Aarin is 3 behind, so you need a big week soon."
+   "2784861": "You are 10th on 643 after 31 points, but 36 points sat on your bench. Aditya Dharap is 1 point behind you, so guard your spot.",
+   "3234443": "You are 11th on 642 after a 41-point week, and your hit cost you 4. Atharva Kshirsagar is 1 point ahead, so the gap is razor-thin.",
+   "5772383": "You are 12th on 633 with a 28-point week and your N.Jackson armband returned 4. Aditya Dharap is 9 points ahead, so watch your Vuskovic and Kusi-Asare moves.",
+   "6519111": "You are 13th on 632 after a 47-point week, climbing from 15th. Atharva Singh is 1 point ahead, so chase him and watch Sujal behind you.",
+   "748886": "You are 15th on 626 with a 35-point week, and Sujal is 3 points ahead. Keep your Konsa move in mind as Sahil Phadnis sits 10 behind.",
+   "7244060": "You are 16th on 616 with 39 points, and your Evanilson armband returned 12. Aarin is 10 ahead, so your riskier style is worth watching.",
+   "5781412": "You are 17th on 602 after a 31-point week, and Sahil Phadnis is 14 ahead. Sudev sits 11 behind, so watch your Maverick gambles.",
+   "4979869": "You are 18th on 591 with 31 points, and Nihar is 11 ahead of you. Pradnyesh is 16 points clear, so keep an eye on your risk-taking.",
+   "4875847": "You are 19th on 575 after a 51-point week, and your Tavernier armband returned 16. Shantanu is 8 points behind, so guard your position.",
+   "8824397": "You are 20th on 567 after a superb 65-point week, your best this season. Pradnyesh is 8 ahead, so keep the momentum rolling.",
+   "5733897": "You are 21st on 546, 21 points behind Shantanu. Sahil Gore is 15 points behind, so watch your inactive status.",
+   "9004622": "You are 22nd on 531 and quiet this week with 26 points. Omkar sits 15 ahead, so consider re-engaging with your team.",
+   "3188980": "You are 23rd on 505 after taking an 8-point hit for Groß, De Cuyper and N.Jackson, and that cost you. Rushikesh is 12 behind, so watch him closely.",
+   "10320954": "You are 24th on 493 after a 42-point week, climbing to a solid finish. Aary is 12 ahead, so you have a chance to close in.",
+   "1979363": "You are 14th on 629 after 22 points, and Parth is 3 points ahead of you. Watch Aarin closely, as he is only 3 points behind."
   },
   "key": "11:between",
-  "ts": "2026-11-26T00:11:05Z",
+  "ts": "2026-11-27T00:20:14Z",
   "usage": {
    "11": {
-    "in": 60551,
-    "out": 18524,
-    "calls": 8,
-    "refreshes": 2,
+    "in": 86383,
+    "out": 24065,
+    "calls": 10,
+    "refreshes": 3,
     "plots": 2
    }
   },
@@ -12575,7 +12576,12 @@
      8824397
     ]
    }
-  ]
+  ],
+  "group": {
+   "text": "*GW11 wrap: Shantanu storms the league*\nShantanu's 65 won the week, leaping from 22nd to 20th.\nAryamann's 52 lifted him into 4th, while Aary's 8-point hit for Groß, De Cuyper and N.Jackson looks costly.\nHaaland again disappointed the 15 captains who backed him.",
+   "ts": "2026-11-27T00:20:14Z",
+   "gw": 11
+  }
  },
  "plot_log": {
   "hot:6543415": [
@@ -12760,7 +12766,7 @@
    "78": "2026-11-26T21:18:03Z"
   },
   "price": {
-   "496": 4.4,
+   "496": 4.5,
    "504": 5.3,
    "8": 5.9,
    "566": 5.1,
@@ -12770,17 +12776,17 @@
    "124": 6.3,
    "249": 5.7,
    "166": 7.3,
-   "411": 15.8,
+   "411": 15.7,
    "497": 3.9,
    "31": 4.9,
    "155": 6.9,
-   "334": 5.1,
+   "334": 5.2,
    "427": 7.8,
    "226": 5.5,
    "259": 3.9,
    "175": 3.9,
    "165": 7.6,
-   "115": 5.5,
+   "115": 5.6,
    "112": 5.2,
    "53": 6.2,
    "79": 6.6,
@@ -12788,7 +12794,7 @@
    "290": 4.5,
    "593": 4.4,
    "1": 6.2,
-   "366": 7.4,
+   "366": 7.5,
    "28": 4.9,
    "449": 5.2,
    "94": 6.1,
@@ -12834,7 +12840,7 @@
    "272": 4.3,
    "173": 4.0,
    "346": 6.0,
-   "106": 7.8,
+   "106": 7.7,
    "10": 5.3,
    "579": 5.5,
    "321": 4.4,
@@ -13015,11 +13021,53 @@
     "el": 249,
     "kind": "surge",
     "net": -25256
+   },
+   {
+    "ts": "2026-11-27T00:20:14Z",
+    "el": 496,
+    "kind": "price",
+    "change": 0.1,
+    "price": 4.5
+   },
+   {
+    "ts": "2026-11-27T00:20:14Z",
+    "el": 411,
+    "kind": "price",
+    "change": -0.1,
+    "price": 15.7
+   },
+   {
+    "ts": "2026-11-27T00:20:14Z",
+    "el": 334,
+    "kind": "price",
+    "change": 0.1,
+    "price": 5.2
+   },
+   {
+    "ts": "2026-11-27T00:20:14Z",
+    "el": 115,
+    "kind": "price",
+    "change": 0.1,
+    "price": 5.6
+   },
+   {
+    "ts": "2026-11-27T00:20:14Z",
+    "el": 366,
+    "kind": "price",
+    "change": 0.1,
+    "price": 7.5
+   },
+   {
+    "ts": "2026-11-27T00:20:14Z",
+    "el": 106,
+    "kind": "price",
+    "change": -0.1,
+    "price": 7.7
    }
   ]
  },
  "checks": {
-  "ts": "2026-11-26T23:49:35Z",
+  "ts": "2026-11-27T00:20:14Z",
   "issues": [],
   "page": []
  },

@@ -3914,7 +3914,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-26T23:49:00Z",
+ "updated": "2026-11-27T00:18:59Z",
  "hist": {
   "key": "11:between",
   "data": {
@@ -6599,7 +6599,7 @@
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got just 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, while Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them.",
    "GW10 between: Haaland blanks again as Hishaan's Barry rewrites the table. Ayodele still sits top on 700, but only 8 clear of Cherag, after 21 managers armbanded Haaland and got just 4 points each. The real story is Hishaan: Barry's 32 captain points lifted him from 14th to 9th, and nobody else owns him. Dominic won the week on 75, the best score of the gameweek, while Saurabh's Isak captain kept his Tin Pot climb going with 16 points. The Haaland bloc remains the league's biggest storyline, and it is still costing them."
   ],
-  "ts": "2026-11-26T00:09:49Z",
+  "ts": "2026-11-27T00:18:59Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -6638,39 +6638,40 @@
    }
   ],
   "group": {
-   "text": "*Maanav's Bench Boost wins the week!*\nMaanav hit 58 and jumped from 19th to 14th.\nAyodele still leads, but Haaland's armband has cost 22 managers again.",
-   "ts": "2026-11-26T00:09:49Z",
+   "text": "*Maanav's Bench Boost blows the table open*\nMaanav took 58 on a Bench Boost and climbed from 19th to 14th.\nNihal's 50 on Bench Boost sent him to 3rd, while 22 of you armbanded Haaland for just 4 points each.\nRaya at 50% could be next week's headache for 16 of you.",
+   "ts": "2026-11-27T00:18:59Z",
    "gw": 11
   },
   "briefings": {
-   "3219276": "You sit 2nd on 722, 11 behind Ayodele and 2 clear of Nihal. Your Haaland armband did not pay, so think hard about your next captain.",
-   "573491": "Your Bench Boost produced 50 and lifted you to 3rd on 720. Nihal and Sid are close behind, so keep the momentum going.",
-   "7471754": "You are 6th on 696, 3 behind Nanik and 18 ahead of Omar. Your chips are all still unused, so pick a moment to use them.",
-   "5489583": "You are 7th on 678, and your bench score of 10 was steady. Watch Ravi, who is just 4 behind you.",
-   "4922092": "You climbed from 13th to 8th with 45 points and a Wildcard. Keep an eye on Hishaan, who is just 1 point back.",
-   "3506595": "You are 9th on 673, 1 behind Ravi and 2 ahead of Edd. Barry was your differential, so keep backing your gut.",
-   "1378937": "You dropped from 7th to 10th on 671 after a weak 21 points. Watch your bench and Bhavik, who is 2 behind.",
-   "4125292": "You are 11th on 669, 2 behind Edd and 1 ahead of Ahmad. Your Haaland armband did not pay, so be careful with captaincy.",
-   "363548": "You're 12th on 668 after a 38-point week. Bhavik is 1 ahead, so a good gameweek could move you up.",
-   "962024": "You are 13th on 666 after 35 points. Maanav is just 3 behind, so watch the pack.",
-   "4841175": "Your Bench Boost produced 58 and you climbed from 19th to 14th. Ayodele is still 70 ahead, so take the win and keep pushing.",
-   "5873092": "You are 15th on 659 after 47 points. Maanav is 4 ahead, and Will is 5 behind, so stay sharp.",
-   "7273369": "You are 16th on 654 after 35 points. Justin is 5 ahead, and Raushan is 3 behind, so the middle of the table is tight.",
-   "3359227": "You are 17th on 651 after 25 points, with N.Jackson as captain. Tomisin is only 2 behind, so a strong gameweek is needed.",
-   "6341709": "You are 18th on 649 after 46 points, a useful gain. Naishadh is 5 behind, so keep the momentum.",
-   "1457736": "You are 19th on 644 after 29 points. Dominic is 2 behind, and Tomisin is 5 ahead, so push on.",
-   "75187": "You are 20th on 642 after 30 points. Lavesh is 1 behind, so your bench needs attention.",
-   "6619523": "You're 21st on 641 after 41 points. Dominic is 1 ahead, so keep your bench sharp before the deadline.",
-   "3552160": "You are 22nd on 623, and your Isak captain gave you 10. Dinesh is 5 behind, so keep the armband on Isak.",
-   "1474501": "You are 23rd on 618 after 40 points, with an Isak captain. Isaiah is 5 behind, so stay ahead.",
-   "5028423": "You are 24th on 613 after 34 points. Tobi is just 1 behind, so keep your starting line tight.",
-   "383423": "You are 25th on 612 after 38 points, a steady gameweek. IB is 19 behind, so a push could help.",
-   "3375627": "You are 26th on 593 after 39 points, with a 3xc captain on Haaland. Elvin is 6 behind, so keep chasing.",
-   "8316989": "You are 27th on 587 after 26 points, with Cherki as captain. Iain is 28 behind, so there is room to recover.",
-   "3591460": "You are 28th on 559 after 38 points, with a Haaland captain. Sasha is 68 behind, so you have a safe cushion.",
-   "5706920": "You are 29th on 491 after 47 points, with a Pickford captain. Nobody is directly behind you, so enjoy the view.",
-   "1092588": "You lead on 733 with 11 points on Cherag, and your Bench Boost is still in the bag for a big round. Watch Haaland's form, because he has been costing you too.",
-   "3323262": "You are 4th on 710, 10 behind Nihal and 11 clear of Nanik. Choke City still has no choke yet, but a Free Hit could lift you."
+   "3219276": "You sit 2nd on 722, 11 points behind Ayodele and 2 ahead of Nihal. Nihal is breathing down your neck, so watch the gap closely and your Haaland armband.",
+   "573491": "Your Bench Boost took you to 50 and into 3rd on 720. Cherag is 2 points ahead of you and Sid is 10 behind, so keep pressing.",
+   "7471754": "You are 6th on 696, 3 clear of Nanik and 18 ahead of Omar. Keep your eye on the pack above you.",
+   "5489583": "You are 7th on 678 after a 34-point gameweek. Ravi is just 4 behind you, so watch that gap.",
+   "4922092": "Ravi, you climbed from 13th to 8th with a 45-point gameweek on 674. Hishaan is 1 point behind, so keep the momentum going.",
+   "3506595": "You are 9th on 673, 1 behind Ravi and 2 ahead of Edd. Nobody else owns Barry, so your differential approach is still on the table.",
+   "1378937": "You are 10th on 671 after a 21-point gameweek. Hishaan is 2 ahead and Bhavik is 2 behind, so this is a dangerous spot.",
+   "4125292": "You are 11th on 669, 2 behind Edd and 1 ahead of Ahmad. Watch the gaps closely.",
+   "363548": "You are 12th on 668, 1 behind Bhavik and 2 ahead of Simon. Keep your head above water.",
+   "962024": "You are 13th on 666, 2 behind Ahmad and 3 ahead of Maanav. Maanav is on the rise, so keep an eye on that.",
+   "4841175": "Maanav, you climbed from 19th to 14th with a 58-point gameweek on 663. Justin is 4 behind you, so keep pushing.",
+   "5873092": "You are 15th on 659 after a 47-point gameweek. Maanav is 4 ahead and Will is 5 behind.",
+   "7273369": "You are 16th on 654, 5 behind Justin and 3 ahead of Raushan. Keep pushing.",
+   "3359227": "You are 17th on 651 after a 25-point gameweek. Will is 3 ahead and Tomisin is 2 behind, so the pressure is on.",
+   "6341709": "You are 18th on 649 after a 46-point gameweek. Raushan is 2 behind you and Naishadh is 5 ahead.",
+   "1457736": "You are 19th on 644 after a 29-point gameweek. Tomisin is 5 ahead and Dominic is 2 behind.",
+   "75187": "You are 20th on 642, 2 behind Naishadh and 1 ahead of Lavesh. Keep your eye on the pack.",
+   "6619523": "You are 21st on 641 after a 41-point gameweek. Dominic is 1 ahead and Saurabh is 18 behind.",
+   "3552160": "You are 22nd on 623. Lavesh is 18 ahead and Dinesh is 5 behind, so you have some catching up to do.",
+   "1474501": "You are 23rd on 618 after a 40-point gameweek. Saurabh is 5 ahead and Isaiah is 5 behind.",
+   "5028423": "You are 24th on 613. Dinesh is 5 ahead and Tobi is 1 behind, so this is a tight battle.",
+   "383423": "You are 25th on 612. Isaiah is 1 ahead and IB is 19 behind.",
+   "3375627": "You are 26th on 593 after a 39-point gameweek with a triple captain. Tobi is 19 ahead and Elvin is 6 behind.",
+   "8316989": "You are 27th on 587. IB is 6 ahead and Iain is 28 behind.",
+   "3591460": "You are 28th on 559. Elvin is 28 ahead and Sasha is 68 behind.",
+   "5706920": "You are 29th on 491. Iain is 68 ahead, so the table's bottom is a lonely spot.",
+   "1092588": "You lead the league on 733 with an 11-point cushion over Cherag. Cherag is your main threat, so watch whether they follow your lead on Haaland and whether Bench Boost becomes a factor.",
+   "3323262": "Sid, you are 4th on 710 after a 39-point gameweek. Nihal is 10 points ahead and Nanik is 11 behind, so there is a tight battle around you.",
+   "1541394": "You are 5th on 699. Sid is 11 points ahead and Tonna is 3 behind, so a solid gameweek 12 could move you up."
   },
   "storylines": [
    {
@@ -6729,10 +6730,10 @@
     "plots": 11
    },
    "11": {
-    "in": 1848218,
-    "out": 394251,
-    "calls": 144,
-    "refreshes": 25,
+    "in": 1879655,
+    "out": 399396,
+    "calls": 146,
+    "refreshes": 26,
     "desks": 41,
     "desk_in": 927076,
     "desk_out": 309546,
@@ -7796,27 +7797,23 @@
   "plots_v": 8,
   "plots_sig": "aa88f3d24981",
   "preview": {
-   "headline": "Gameweek 12: Who blinks first?",
+   "headline": "What's at stake for gameweek 12",
    "points": [
     {
      "label": "Title race",
-     "text": "Ayodele leads on 733, and Cherag is 11 points back. Nobody is far enough behind to panic yet."
+     "text": "Ayodele leads Cherag by 11 points, and Cherag is one of the chasing pack. Ayodele still has Bench Boost available, so any surge could be serious."
     },
     {
      "label": "Armband dilemma",
-     "text": "Haaland blanked again for most of the league. Whether managers stick or switch will shape the next tables."
+     "text": "Haaland was armbanded by 22 managers and scored just 2 this week. Whether they stick with him or switch is the big question for the league."
     },
     {
      "label": "Injury sweat",
-     "text": "Raya is 50% to play and Tarkowski is suspended until 13 Dec. Owners will be checking team news before the deadline in 42 hours."
-    },
-    {
-     "label": "Chips loaded",
-     "text": "Several managers still hold 3xc, Bench Boost and Free Hit, so a big gameweek could come from anywhere."
+     "text": "Raya is at 50% to play and is owned by 16 managers. Davis, owned by 4, is at 75%, so check team news before the deadline."
     }
    ],
    "gw": 12,
-   "ts": "2026-11-26T00:09:49Z"
+   "ts": "2026-11-27T00:18:59Z"
   },
   "gaffer_draft": {
    "gw": 11,
@@ -17636,7 +17633,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-26T23:49:00Z",
+  "ts": "2026-11-27T00:18:59Z",
   "issues": [],
   "page": []
  },
@@ -17773,12 +17770,12 @@
    "1": 6.2,
    "391": 5.5,
    "31": 4.9,
-   "115": 5.5,
+   "115": 5.6,
    "40": 8.3,
    "68": 6.8,
    "127": 5.1,
    "367": 7.1,
-   "411": 15.8,
+   "411": 15.7,
    "79": 6.6,
    "166": 7.3,
    "109": 4.7,
@@ -17791,7 +17788,7 @@
    "346": 6.0,
    "497": 3.9,
    "124": 6.3,
-   "334": 5.1,
+   "334": 5.2,
    "449": 5.2,
    "112": 5.2,
    "453": 6.0,
@@ -17801,7 +17798,7 @@
    "586": 4.1,
    "566": 5.1,
    "399": 7.8,
-   "496": 4.4,
+   "496": 4.5,
    "277": 4.0,
    "504": 5.3,
    "426": 11.6,
@@ -17872,8 +17869,8 @@
    "239": 6.0,
    "201": 5.2,
    "481": 6.2,
-   "366": 7.4,
-   "106": 7.8,
+   "366": 7.5,
+   "106": 7.7,
    "25": 7.0,
    "581": 5.3,
    "498": 5.7,
@@ -17951,7 +17948,8 @@
    "400": "11:down",
    "183": "11:up",
    "237": "11:down",
-   "499": "11:up"
+   "499": "11:up",
+   "332": "11:up"
   },
   "log": [
    {
@@ -18739,6 +18737,54 @@
     "el": 249,
     "kind": "surge",
     "net": -25256
+   },
+   {
+    "ts": "2026-11-27T00:18:59Z",
+    "el": 115,
+    "kind": "price",
+    "change": 0.1,
+    "price": 5.6
+   },
+   {
+    "ts": "2026-11-27T00:18:59Z",
+    "el": 411,
+    "kind": "price",
+    "change": -0.1,
+    "price": 15.7
+   },
+   {
+    "ts": "2026-11-27T00:18:59Z",
+    "el": 334,
+    "kind": "price",
+    "change": 0.1,
+    "price": 5.2
+   },
+   {
+    "ts": "2026-11-27T00:18:59Z",
+    "el": 496,
+    "kind": "price",
+    "change": 0.1,
+    "price": 4.5
+   },
+   {
+    "ts": "2026-11-27T00:18:59Z",
+    "el": 332,
+    "kind": "surge",
+    "net": 25215
+   },
+   {
+    "ts": "2026-11-27T00:18:59Z",
+    "el": 366,
+    "kind": "price",
+    "change": 0.1,
+    "price": 7.5
+   },
+   {
+    "ts": "2026-11-27T00:18:59Z",
+    "el": 106,
+    "kind": "price",
+    "change": -0.1,
+    "price": 7.7
    }
   ]
  },
