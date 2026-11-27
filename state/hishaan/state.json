@@ -11383,7 +11383,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-27T12:23:16Z",
+ "updated": "2026-11-27T12:54:01Z",
  "ai": {
   "briefings": {
    "3029346": "You top the table on 774 after a 52, 17 clear of Nikhil. The threat is Nikhil and Ravin closing in, so watch the Haaland armband and whether your Freehit comes into play.",
@@ -15647,7 +15647,7 @@
   "graded": 5
  },
  "checks": {
-  "ts": "2026-11-27T12:23:16Z",
+  "ts": "2026-11-27T12:54:01Z",
   "issues": [],
   "page": []
  },
@@ -15885,7 +15885,7 @@
    "236": "11:down",
    "388": "11:down",
    "449": "11:down",
-   "426": "10:down",
+   "426": "11:up",
    "464": "10:down",
    "453": "10:down",
    "10": "11:down",
@@ -16759,6 +16759,12 @@
     "el": 259,
     "kind": "surge",
     "net": -25429
+   },
+   {
+    "ts": "2026-11-27T12:54:01Z",
+    "el": 426,
+    "kind": "surge",
+    "net": 25308
    }
   ]
  },
