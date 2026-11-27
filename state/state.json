@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "key": "d12:sold:480:1:0",
+   "kind": "live",
+   "tag": "Transfers",
+   "head": "Sid and Edd sold Gibbs-White this week. Gibbs-White scores",
+   "body": "Timing is everything in this game.",
+   "stat": "Sold by 2 managers",
+   "score": 80,
+   "who": [
+    1378937,
+    3323262
+   ],
+   "ts": "2026-11-27T21:14:15Z",
+   "gw": 12,
+   "img": "share/live/gw12-p480-5f11dccafb.png"
+  },
+  {
+   "key": "l12:ret:167:0:1",
+   "kind": "live",
+   "tag": "Live",
+   "head": "Delap sets one up. Only Lavesh owns him",
+   "body": "A private payday: the rest of you get nothing from it.",
+   "stat": "1 of 29 own him",
+   "score": 75,
+   "who": [
+    6619523
+   ],
+   "ts": "2026-11-27T21:14:15Z",
+   "gw": 12
+  },
+  {
    "key": "d12:regret:201:0:1",
    "kind": "live",
    "tag": "Bench",
@@ -2569,7 +2599,9 @@
   "d12:hit:3359227",
   "d12:onpitch:154",
   "z12:383423:tin",
-  "d12:regret:201:0:1"
+  "d12:regret:201:0:1",
+  "d12:sold:480:1:0",
+  "l12:ret:167:0:1"
  ],
  "done": [
   "deadline:10",
@@ -2798,7 +2830,7 @@
     1,
     0,
     0,
-    45,
+    54,
     0,
     0,
     0
@@ -3172,7 +3204,7 @@
     1,
     0,
     0,
-    45,
+    54,
     0,
     0,
     0
@@ -3491,7 +3523,7 @@
     1,
     0,
     0,
-    45,
+    54,
     0,
     0,
     0
@@ -3524,7 +3556,7 @@
     1,
     0,
     0,
-    45,
+    54,
     0,
     0,
     0
@@ -3553,11 +3585,11 @@
    ],
    "167": [
     0,
-    0,
     1,
+    5,
     0,
     0,
-    45,
+    54,
     0,
     0,
     0
@@ -3667,7 +3699,7 @@
     4,
     0,
     0,
-    45,
+    54,
     0,
     0,
     0
@@ -3695,12 +3727,12 @@
     0
    ],
    "480": [
-    0,
-    0,
     1,
     0,
+    6,
     0,
-    45,
+    0,
+    54,
     0,
     0,
     0
@@ -3884,9 +3916,9 @@
    "7273369": 16,
    "6341709": 17,
    "3359227": 18,
-   "1457736": 19,
-   "75187": 20,
-   "6619523": 20,
+   "6619523": 19,
+   "1457736": 20,
+   "75187": 21,
    "3552160": 22,
    "1474501": 23,
    "383423": 24,
@@ -3915,9 +3947,9 @@
    "7273369": null,
    "6341709": null,
    "3359227": null,
+   "6619523": null,
    "1457736": null,
    "75187": null,
-   "6619523": null,
    "3552160": null,
    "1474501": null,
    "383423": null,
@@ -3928,7 +3960,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-27T21:04:15Z",
+ "updated": "2026-11-27T21:14:15Z",
  "hist": {
   "key": "12:live",
   "data": {
@@ -6824,7 +6856,7 @@
    "GW11 between: Maanav's Bench Boost bombshell tops a chaotic gameweek 11. Maanav took the gameweek with 58 points on a Bench Boost, climbing from 19th to 14th and ending the long Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. Haaland was armbanded by 22 managers and scored just 2, so 4 each, and that bloc is still bleeding. Tarkowski's red card and Raya's injury doubt add more jeopardy for those who own them.",
    "GW11 between: Maanav's bench-boosted rise stays the story as Ayodele holds the top. Maanav's 58 on a Bench Boost was the standout of gameweek 11, climbing from 19th to 14th and ending a long run of Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. The Haaland armband bloc remains the league's biggest running joke, with 22 managers armbanding him for just 2 points. Tarkowski's red card and Raya's injury doubt add jeopardy for those who own them."
   ],
-  "ts": "2026-11-27T20:34:15Z",
+  "ts": "2026-11-27T21:14:15Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -6952,16 +6984,133 @@
     "plots": 6
    },
    "12": {
-    "in": 192680,
-    "out": 26737,
-    "calls": 16,
-    "refreshes": 4,
-    "desks": 4,
-    "desk_in": 43935,
-    "desk_out": 15239
+    "in": 255248,
+    "out": 36501,
+    "calls": 20,
+    "refreshes": 5,
+    "desks": 5,
+    "desk_in": 68559,
+    "desk_out": 22281
    }
   },
   "desks": [
+   {
+    "headline": "Sold Gibbs-White scores; Sid and Edd wince",
+    "text": "Gibbs-White has scored for NFO v CHE, bringing **6 points** to a player Sid and Edd sold this week. Saurabh, Dinesh and Sasha started him, so the sale stings most for the managers who walked away. Ayodele still leads the top spot, with **Wirtz** still to play.",
+    "you": {
+     "1092588": "Gomez is yours alone among the players still to play, so any haul from him is all your own work.",
+     "3219276": "Rayan is yours alone among the players still to play, so he's your private hope.",
+     "573491": "Palmer is on the pitch after you benched him, so every point he scores stings.",
+     "3323262": "Gibbs-White's **6 points** came after you sold him, a painful blow for a Free Hit squad.",
+     "1541394": "Muharemović is your differential captain, still to play, with few rivals backing him.",
+     "7471754": "B.Fernandes is your captain alone, still to play, so the whole gamble waits on him.",
+     "5489583": "Evanilson is your differential captain, still to play, so his score decides your gameweek.",
+     "4922092": "Hishaan is breathing down your neck, with Isak your captain still to play.",
+     "3506595": "Your Wildcard is tearing it up, with Ravi right above you.",
+     "1378937": "Gibbs-White's **6 points** came after you sold him, a sting you can't ignore.",
+     "363548": "Your day has swung, with De Cuyper your captain still to play and the table moving around you.",
+     "4125292": "Cunha is yours alone among players still to play, so the next goal could settle the fight with Ahmad.",
+     "962024": "Hall is yours alone among players still to play, a proper differential.",
+     "4841175": "Rogers is already on the pitch, with his armband worth 2 points so far.",
+     "5873092": "Pedro Porro is yours alone among the players still to play, so you're the one to watch.",
+     "7273369": "A Silva haul would lift your gameweek, so he's the one to watch.",
+     "6341709": "Araujo, Ajayi and Rice are yours alone among players still to play, so you're carrying real risk.",
+     "3359227": "A 4-point hit has landed on your gameweek, so you need hauls to recover.",
+     "6619523": "Delap's assist is worth **5 points** and only you own him, a private payday.",
+     "1457736": "Lavesh has passed you today-style pressure aside, Okafor is the one player you alone can use to climb back.",
+     "75187": "Alysson is yours alone among your players still to play, a brave start.",
+     "1474501": "O'Nien is yours alone among players still to play, the bold pick.",
+     "5028423": "Barcola is yours alone among players still to play, so the pressure is on him.",
+     "383423": "You climbed out of the Tin Pot spots. Petrović is yours alone among players still to play.",
+     "3375627": "Schade is yours alone among players still to play, a pick that could make the difference.",
+     "3591460": "Muñoz has assisted after you benched him, a costly call."
+    },
+    "ts": "2026-11-27T21:14:15Z",
+    "gw": 12,
+    "moment": "matches_on",
+    "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:i:2-1|120:n:0-0",
+    "ranks": {
+     "1092588": 1,
+     "3219276": 2,
+     "573491": 3,
+     "3323262": 4,
+     "1541394": 5,
+     "7471754": 6,
+     "5489583": 7,
+     "4922092": 8,
+     "3506595": 9,
+     "1378937": 10,
+     "363548": 11,
+     "4125292": 11,
+     "962024": 13,
+     "4841175": 14,
+     "5873092": 15,
+     "7273369": 16,
+     "6341709": 17,
+     "3359227": 18,
+     "6619523": 19,
+     "1457736": 20,
+     "75187": 21,
+     "3552160": 22,
+     "1474501": 23,
+     "383423": 24,
+     "5028423": 24,
+     "3375627": 26,
+     "8316989": 27,
+     "3591460": 28,
+     "5706920": 29
+    },
+    "totals": {
+     "1092588": 734,
+     "3219276": 724,
+     "573491": 717,
+     "3323262": 711,
+     "1541394": 700,
+     "7471754": 696,
+     "5489583": 679,
+     "4922092": 675,
+     "3506595": 674,
+     "1378937": 672,
+     "363548": 670,
+     "4125292": 670,
+     "962024": 667,
+     "4841175": 665,
+     "5873092": 660,
+     "7273369": 655,
+     "6341709": 650,
+     "3359227": 649,
+     "6619523": 647,
+     "1457736": 646,
+     "75187": 643,
+     "3552160": 630,
+     "1474501": 625,
+     "383423": 613,
+     "5028423": 613,
+     "3375627": 594,
+     "8316989": 588,
+     "3591460": 560,
+     "5706920": 498
+    },
+    "ga": {
+     "167": [
+      0,
+      1
+     ],
+     "201": [
+      0,
+      1
+     ],
+     "480": [
+      1,
+      0
+     ]
+    },
+    "you_full_ts": "2026-11-27T21:14:15Z",
+    "next": {
+     "ko": "2026-11-28T15:00:00Z",
+     "match": "LEE v COV"
+    }
+   },
    {
     "headline": "Palmer back on the pitch as the benching managers feel the heat",
     "text": "NFO v CHE is 1-0 at 43 minutes, and **Palmer** is on the pitch after Nihal and Lavesh left him on the bench. **Ayodele** still leads the top spot with Wirtz to play, while Cherag sits right behind with Calvert-Lewin still to come. Verbruggen, Silva and Bogle could decide it for Ayodele.",
@@ -7417,7 +7566,7 @@
     "5706920": 29
    }
   },
-  "desk_last_ok": "2026-11-27T20:44:15Z",
+  "desk_last_ok": "2026-11-27T21:14:15Z",
   "plots": [
    {
     "id": "underdog:573491",
@@ -9738,10 +9887,19 @@
     "event_total": 2
    },
    {
+    "entry": 6619523,
+    "player_name": "Lavesh Sakhrani",
+    "entry_name": "Lav's Elite",
+    "rank": 19,
+    "last_rank": 21,
+    "total": 647,
+    "event_total": 6
+   },
+   {
     "entry": 1457736,
     "player_name": "Naishadh Bhonsle",
     "entry_name": "Sound of da Tzolis",
-    "rank": 19,
+    "rank": 20,
     "last_rank": 19,
     "total": 646,
     "event_total": 2
@@ -9750,19 +9908,10 @@
     "entry": 75187,
     "player_name": "Dominic Hagerty",
     "entry_name": "Enzo in the City",
-    "rank": 20,
+    "rank": 21,
     "last_rank": 20,
     "total": 643,
     "event_total": 1
-   },
-   {
-    "entry": 6619523,
-    "player_name": "Lavesh Sakhrani",
-    "entry_name": "Lav's Elite",
-    "rank": 21,
-    "last_rank": 21,
-    "total": 643,
-    "event_total": 2
    },
    {
     "entry": 3552160,
@@ -9770,8 +9919,8 @@
     "entry_name": "LET'S RUMBLE!!!",
     "rank": 22,
     "last_rank": 22,
-    "total": 625,
-    "event_total": 2
+    "total": 630,
+    "event_total": 7
    },
    {
     "entry": 1474501,
@@ -9779,8 +9928,8 @@
     "entry_name": "Lovdenya Bhojyam",
     "rank": 23,
     "last_rank": 23,
-    "total": 620,
-    "event_total": 2
+    "total": 625,
+    "event_total": 7
    },
    {
     "entry": 383423,
@@ -9833,8 +9982,8 @@
     "entry_name": "Vicecityfc",
     "rank": 29,
     "last_rank": 29,
-    "total": 493,
-    "event_total": 2
+    "total": 498,
+    "event_total": 7
    }
   ]
  },
@@ -16769,8 +16918,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 5",
+      "pts": 5,
       "player": "Delap"
      }
     ]
@@ -17248,7 +17397,7 @@
   "ts": "2026-11-27T19:04:16Z"
  },
  "checks": {
-  "ts": "2026-11-27T21:04:15Z",
+  "ts": "2026-11-27T21:14:15Z",
   "issues": [],
   "page": [],
   "wording": [
@@ -18576,6 +18725,11 @@
     "key": "d12:regret:201:0:1",
     "sig": "6661542ad6",
     "file": "share/live/gw12-p201-6661542ad6.png"
+   },
+   "p480": {
+    "key": "d12:sold:480:1:0",
+    "sig": "5f11dccafb",
+    "file": "share/live/gw12-p480-5f11dccafb.png"
    }
   }
  },

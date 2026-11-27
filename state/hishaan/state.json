@@ -2697,8 +2697,8 @@
     "entry_name": "AMFC 11",
     "rank": 8,
     "last_rank": 8,
-    "total": 709,
-    "event_total": 2
+    "total": 714,
+    "event_total": 7
    },
    {
     "entry": 5474293,
@@ -8482,6 +8482,35 @@
  },
  "stories": [
   {
+   "key": "d12:regret:156:0:1",
+   "kind": "live",
+   "tag": "Bench",
+   "head": "Pishu benched Neto. Neto sets one up",
+   "body": "Somewhere, a bench is getting very expensive.",
+   "stat": "Benched by 1 manager",
+   "score": 76,
+   "who": [
+    6279027
+   ],
+   "ts": "2026-11-27T21:17:39Z",
+   "gw": 12,
+   "img": "share/live/gw12-p156-1df42d0a56.png"
+  },
+  {
+   "key": "l12:ret:480:1:0",
+   "kind": "live",
+   "tag": "Live",
+   "head": "Gibbs-White scores. Only Amit owns him",
+   "body": "Points the rest of the league can only watch.",
+   "stat": "1 of 26 own him",
+   "score": 75,
+   "who": [
+    1036311
+   ],
+   "ts": "2026-11-27T21:17:39Z",
+   "gw": 12
+  },
+  {
    "key": "z12:7043406:tin",
    "kind": "live",
    "tag": "Table",
@@ -10553,7 +10582,9 @@
   "d12:rivals:1921902:1655993",
   "d12:bandwagon:366",
   "d12:bandwagon:379",
-  "z12:7043406:tin"
+  "z12:7043406:tin",
+  "d12:regret:156:0:1",
+  "l12:ret:480:1:0"
  ],
  "done": [
   "deadline:10",
@@ -10736,7 +10767,7 @@
     1,
     0,
     0,
-    45,
+    57,
     0,
     0,
     0
@@ -11231,7 +11262,7 @@
     1,
     0,
     0,
-    45,
+    57,
     0,
     0,
     0
@@ -11249,11 +11280,11 @@
    ],
    "156": [
     0,
-    0,
     1,
+    4,
     0,
     0,
-    45,
+    57,
     0,
     0,
     0
@@ -11418,18 +11449,18 @@
     1,
     0,
     0,
-    45,
+    57,
     0,
     0,
     0
    ],
    "480": [
-    0,
-    0,
     1,
     0,
+    6,
     0,
-    45,
+    0,
+    57,
     0,
     0,
     0
@@ -11637,7 +11668,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-27T21:04:58Z",
+ "updated": "2026-11-27T21:17:39Z",
  "ai": {
   "briefings": {
    "3029346": "You sit top on 774 after 52 this week, with Nikhil 17 behind. Keep an eye on Haaland's armband and Calafiori, who you don't own but many others do.",
@@ -11668,7 +11699,7 @@
    "6051923": "You are 26th on 613 after 29 this week, 4 behind Bella. Ice Cold is the tag hanging over you, so look for a comeback."
   },
   "key": "12:live",
-  "ts": "2026-11-27T20:07:40Z",
+  "ts": "2026-11-27T21:17:39Z",
   "usage": {
    "10": {
     "in": 1741219,
@@ -11691,13 +11722,13 @@
     "plots": 5
    },
    "12": {
-    "in": 128472,
-    "out": 27948,
-    "calls": 12,
-    "refreshes": 2,
-    "desks": 4,
-    "desk_in": 58423,
-    "desk_out": 22710
+    "in": 172945,
+    "out": 32473,
+    "calls": 16,
+    "refreshes": 3,
+    "desks": 5,
+    "desk_in": 67621,
+    "desk_out": 25646
    }
   },
   "desks": [
@@ -14047,7 +14078,13 @@
    "GW11 between: Matt holds the summit as Haaland blanks again. Matt's Lammo's Lads sit top after collecting 52, with Nikhil now 17 points back at Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb from 8th to 4th, the standout week of the season so far. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over. Haaland blanking again is starting to look like a running joke, and not a funny one for most of you.",
    "GW11 between: Haaland blanks again as Matt pulls clear. Lammo's Lads sit top after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over."
   ],
-  "_replaced_ts": "2026-11-27T20:35:09Z"
+  "_replaced_ts": "2026-11-27T20:35:09Z",
+  "desk_try": {
+   "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:i:2-1|120:n:0-0",
+   "ts": "2026-11-27T21:17:39Z",
+   "draft": "Gibbs-White's goal lands for Amit alone, Pishu benched Neto | **Gibbs-White** has given NFO v CHE a 2-1 lead with a goal worth **6 points**, and only Amit started him. Pishu will be wincing, as **Neto** set up that goal from the bench, worth 4 points. **Calvert-Lewin's armband** is still to come for Amit, so his gamble could keep climbing.",
+   "why": "fact-check: ['headline']"
+  }
  },
  "plot_log": {
   "gamble:3506595:10": [
@@ -14493,8 +14530,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 6",
+      "pts": 6,
       "player": "Gibbs-White"
      }
     ]
@@ -15190,8 +15227,10 @@
   "ts": "2026-11-27T19:08:21Z"
  },
  "checks": {
-  "ts": "2026-11-27T21:04:58Z",
-  "issues": [],
+  "ts": "2026-11-27T21:17:39Z",
+  "issues": [
+   "desk written from older totals (1 managers changed since)"
+  ],
   "page": [],
   "wording": [
    "wording (1 points): ...You vs your rivals today    MA   Matt  1 pts this week...",
@@ -15200,8 +15239,8 @@
    "wording (1 points): ...You vs your rivals today    SU   Sunny  1 pts this week...",
    "wording (1 points): ...0 to play   +1 to them    CH   Chandru  1 pts this week...",
    "wording (1 points): ...10 to play   +1 to them    RO   Rohan  1 pts this week...",
-   "wording (1 points): ...ek · 10 to play   you +1    RO   Rohan  1 pts this week...",
-   "wording (1 points): ...week · 9 to play   level    PR   Prem  1 pts this week...",
+   "wording (1 points): ...ek · 10 to play   you +6    RO   Rohan  1 pts this week...",
+   "wording (1 points): ...· 9 to play   +5 to them    PR   Prem  1 pts this week...",
    "wording (1 points): ...ek · 10 to play   you +1    SU   Sunil  1 pts this week...",
    "wording (1 points): ...9 to play   +1 to them    MA   Marcel  1 pts this week..."
   ]
@@ -16400,7 +16439,13 @@
  ],
  "moment_imgs": {
   "gw": 12,
-  "files": {}
+  "files": {
+   "p156": {
+    "key": "d12:regret:156:0:1",
+    "sig": "1df42d0a56",
+    "file": "share/live/gw12-p156-1df42d0a56.png"
+   }
+  }
  },
  "next_deadline": "2026-12-01T18:30:00Z"
 }
