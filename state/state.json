@@ -71,18 +71,6 @@
    "gw": 12
   },
   {
-   "key": "d12:bandwagon:346",
-   "kind": "deadline",
-   "tag": "Transfers",
-   "head": "Everyone wants Calvert-Lewin: 4 of you bring him in",
-   "body": "Lavesh, Naishadh, Sid and Will all moved for Calvert-Lewin this week.",
-   "stat": "4 buys",
-   "score": 50,
-   "who": [],
-   "ts": "2026-11-27T19:14:15Z",
-   "gw": 12
-  },
-  {
    "key": "d12:hit:3359227",
    "kind": "deadline",
    "tag": "Transfers",
@@ -94,26 +82,6 @@
     3359227
    ],
    "ts": "2026-11-27T19:14:15Z",
-   "gw": 12
-  },
-  {
-   "key": "d12:lone-wolves",
-   "kind": "deadline",
-   "tag": "Captains",
-   "head": "7 rebels ignore the Haaland armband",
-   "body": "5 of 29 went with Haaland. These 7 each picked a captain nobody else did:\nAhmad: De Cuyper\nAyodele: Wirtz\nBhavik: Cunha\nElvin: Cherki\nMaanav: Rogers\nSasha: Thiago\nTonna: B.Fernandes",
-   "stat": "7 solo captains",
-   "score": 78,
-   "who": [
-    363548,
-    1092588,
-    4125292,
-    4841175,
-    5706920,
-    7471754,
-    8316989
-   ],
-   "ts": "2026-11-27T19:04:16Z",
    "gw": 12
   },
   {
@@ -140,21 +108,6 @@
    "score": 65,
    "who": [
     3506595
-   ],
-   "ts": "2026-11-27T19:04:16Z",
-   "gw": 12
-  },
-  {
-   "key": "d12:rivals:3219276:573491",
-   "kind": "deadline",
-   "tag": "Rivalry",
-   "head": "Cherag vs Nihal: 2 points apart",
-   "body": "2nd and 3rd going into the weekend. Calvert-Lewin for Cherag, Muharemović for Nihal: the armband could settle it.",
-   "stat": "Gap: 2 pts",
-   "score": 58,
-   "who": [
-    573491,
-    3219276
    ],
    "ts": "2026-11-27T19:04:16Z",
    "gw": 12
@@ -2845,7 +2798,7 @@
     1,
     0,
     0,
-    13,
+    23,
     0,
     0,
     0
@@ -3219,7 +3172,7 @@
     1,
     0,
     0,
-    13,
+    23,
     0,
     0,
     0
@@ -3538,7 +3491,7 @@
     1,
     0,
     0,
-    13,
+    23,
     0,
     0,
     0
@@ -3571,7 +3524,7 @@
     1,
     0,
     0,
-    13,
+    23,
     0,
     0,
     0
@@ -3604,7 +3557,7 @@
     1,
     0,
     0,
-    13,
+    23,
     0,
     0,
     0
@@ -3711,10 +3664,10 @@
    "201": [
     0,
     1,
-    4,
+    5,
     0,
     0,
-    13,
+    23,
     0,
     0,
     0
@@ -3747,7 +3700,7 @@
     1,
     0,
     0,
-    13,
+    23,
     0,
     0,
     0
@@ -3975,7 +3928,7 @@
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-27T20:14:15Z",
+ "updated": "2026-11-27T20:24:15Z",
  "hist": {
   "key": "12:live",
   "data": {
@@ -17187,7 +17140,7 @@
   "ts": "2026-11-27T19:04:16Z"
  },
  "checks": {
-  "ts": "2026-11-27T20:14:15Z",
+  "ts": "2026-11-27T20:24:15Z",
   "issues": [],
   "page": [],
   "wording": [
