@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-27T12:53:01Z",
+ "updated": "2026-11-27T13:22:41Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766, 21 clear of Neol, after a 32-point week. Watch Sukrut and Akshat, who are only 24 behind you, and your Freehit chip still in the bank.",
@@ -73729,7 +73729,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-27T12:53:01Z",
+  "ts": "2026-11-27T13:22:41Z",
   "issues": [],
   "page": []
  },
@@ -73955,7 +73955,7 @@
    "261": "a|None|",
    "651": "a|None|",
    "251": "i|0|Achilles injury - Unknown return date",
-   "426": "a|None|",
+   "426": "d|75|Illness - 75% chance of playing",
    "398": "a|100|",
    "502": "a|100|",
    "250": "a|None|",
@@ -74053,7 +74053,8 @@
    "367": "2026-11-25T12:37:20Z",
    "229": "2026-11-23T21:09:15Z",
    "423": "2026-11-25T20:10:13Z",
-   "114": "2026-11-25T16:08:51Z"
+   "114": "2026-11-25T16:08:51Z",
+   "426": "2026-11-27T13:22:41Z"
   },
   "price": {
    "1": 6.2,
@@ -75443,6 +75444,14 @@
     "el": 384,
     "kind": "surge",
     "net": -25262
+   },
+   {
+    "ts": "2026-11-27T13:22:41Z",
+    "el": 426,
+    "kind": "flag",
+    "status": "d",
+    "chance": 75,
+    "news": "Illness - 75% chance of playing"
    }
   ]
  },
