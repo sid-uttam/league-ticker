@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-27T01:19:23Z",
+ "updated": "2026-11-27T01:49:23Z",
  "ai": {
   "briefings": {
    "5949580": "You top the table on 766 with a 21-point lead over Neol, but Sukrut and Akshat sit 24 back. Watch Free Hit and your Haaland armband before gameweek 12.",
@@ -73733,7 +73733,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-27T01:19:23Z",
+  "ts": "2026-11-27T01:49:23Z",
   "issues": [],
   "page": []
  },
@@ -74234,7 +74234,7 @@
    "453": "10:down",
    "94": "11:down",
    "504": "11:up",
-   "236": "10:up",
+   "236": "11:down",
    "138": "11:down",
    "426": "10:down",
    "106": "11:down",
@@ -75379,6 +75379,12 @@
     "kind": "price",
     "change": -0.1,
     "price": 7.7
+   },
+   {
+    "ts": "2026-11-27T01:49:23Z",
+    "el": 236,
+    "kind": "surge",
+    "net": -25026
    }
   ]
  },
