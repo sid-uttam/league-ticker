@@ -11153,7 +11153,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-27T22:25:11Z",
+ "updated": "2026-11-27T22:35:15Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms up as Haaland armband backfires",
@@ -13781,7 +13781,7 @@
    "79": "11:up",
    "109": "11:up",
    "1": "11:down",
-   "366": "11:up",
+   "366": "12:up",
    "449": "11:down",
    "94": "11:down",
    "391": "11:down",
@@ -14068,11 +14068,17 @@
     "status": "i",
     "chance": 0,
     "news": "Knee injury - Expected back 2 Dec"
+   },
+   {
+    "ts": "2026-11-27T22:35:15Z",
+    "el": 366,
+    "kind": "surge",
+    "net": 25093
    }
   ]
  },
  "checks": {
-  "ts": "2026-11-27T22:25:11Z",
+  "ts": "2026-11-27T22:35:15Z",
   "issues": [],
   "page": []
  },
