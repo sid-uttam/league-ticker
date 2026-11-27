@@ -10784,7 +10784,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-27T10:22:56Z",
+ "updated": "2026-11-27T10:52:56Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms the table as Sukrut holds on top",
@@ -12933,7 +12933,8 @@
    "277": "11:down",
    "605": "11:down",
    "31": "11:down",
-   "362": "11:up"
+   "362": "11:up",
+   "10": "11:down"
   },
   "log": [
    {
@@ -13101,11 +13102,17 @@
     "el": 362,
     "kind": "surge",
     "net": 25152
+   },
+   {
+    "ts": "2026-11-27T10:52:56Z",
+    "el": 10,
+    "kind": "surge",
+    "net": -25150
    }
   ]
  },
  "checks": {
-  "ts": "2026-11-27T10:22:56Z",
+  "ts": "2026-11-27T10:52:56Z",
   "issues": [],
   "page": []
  },
