@@ -63867,7 +63867,7 @@
    "9531391": null
   }
  },
- "updated": "2026-11-27T09:53:01Z",
+ "updated": "2026-11-27T10:22:41Z",
  "ai": {
   "briefings": {
    "5949580": "You sit top on 766, 21 clear of Neol, after a 32-point week. Sukrut and Akshat are within 24 points, so watch your lead, and remember your Free Hit is still waiting.",
@@ -73733,7 +73733,7 @@
   }
  },
  "checks": {
-  "ts": "2026-11-27T09:53:01Z",
+  "ts": "2026-11-27T10:22:41Z",
   "issues": [],
   "page": []
  },
@@ -74293,7 +74293,8 @@
    "237": "11:down",
    "499": "11:up",
    "332": "11:up",
-   "401": "11:down"
+   "401": "11:down",
+   "362": "11:up"
   },
   "log": [
    {
@@ -75404,6 +75405,12 @@
     "el": 31,
     "kind": "surge",
     "net": -25172
+   },
+   {
+    "ts": "2026-11-27T10:22:41Z",
+    "el": 362,
+    "kind": "surge",
+    "net": 25152
    }
   ]
  },
