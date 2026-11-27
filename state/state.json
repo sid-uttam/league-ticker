@@ -1,6 +1,35 @@
 {
  "stories": [
   {
+   "key": "d12:sold:156:0:1",
+   "kind": "live",
+   "tag": "Transfers",
+   "head": "Dominic sold Neto this week. Neto sets one up",
+   "body": "That one is going to sting.",
+   "stat": "Sold by 1 manager",
+   "score": 72,
+   "who": [
+    75187
+   ],
+   "ts": "2026-11-27T21:24:15Z",
+   "gw": 12,
+   "img": "share/live/gw12-p156-40df89e67e.png"
+  },
+  {
+   "key": "z12:5028423:tin",
+   "kind": "live",
+   "tag": "Table",
+   "head": "Isaiah drops into the Tin Pot",
+   "body": "Down to 25th.",
+   "stat": "25th (live)",
+   "score": 60,
+   "who": [
+    5028423
+   ],
+   "ts": "2026-11-27T21:24:15Z",
+   "gw": 12
+  },
+  {
    "key": "d12:sold:480:1:0",
    "kind": "live",
    "tag": "Transfers",
@@ -2420,18 +2449,6 @@
    "who": [],
    "ts": "2026-11-06T19:09:48Z",
    "gw": 10
-  },
-  {
-   "key": "d10:bandwagon:79",
-   "kind": "deadline",
-   "tag": "Transfers",
-   "head": "Everyone wants Evanilson: 3 of you bring him in",
-   "body": "Lavesh, Omar and Raushan all moved for Evanilson this week.",
-   "stat": "3 buys",
-   "score": 50,
-   "who": [],
-   "ts": "2026-11-06T19:09:48Z",
-   "gw": 10
   }
  ],
  "seen": [
@@ -2601,7 +2618,9 @@
   "z12:383423:tin",
   "d12:regret:201:0:1",
   "d12:sold:480:1:0",
-  "l12:ret:167:0:1"
+  "l12:ret:167:0:1",
+  "d12:sold:156:0:1",
+  "z12:5028423:tin"
  ],
  "done": [
   "deadline:10",
@@ -2827,10 +2846,10 @@
    "40": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    54,
+    64,
     0,
     0,
     0
@@ -3204,7 +3223,7 @@
     1,
     0,
     0,
-    54,
+    64,
     0,
     0,
     0
@@ -3520,10 +3539,10 @@
    "154": [
     0,
     0,
-    1,
+    2,
     0,
     0,
-    54,
+    64,
     0,
     0,
     0
@@ -3552,11 +3571,11 @@
    ],
    "156": [
     0,
-    0,
     1,
+    5,
     0,
     0,
-    54,
+    64,
     0,
     0,
     0
@@ -3586,10 +3605,10 @@
    "167": [
     0,
     1,
-    5,
+    6,
     0,
     0,
-    54,
+    64,
     0,
     0,
     0
@@ -3696,10 +3715,10 @@
    "201": [
     0,
     1,
-    4,
+    5,
     0,
     0,
-    54,
+    64,
     0,
     0,
     0
@@ -3729,10 +3748,10 @@
    "480": [
     1,
     0,
-    6,
+    7,
     0,
     0,
-    54,
+    64,
     0,
     0,
     0
@@ -3893,7 +3912,7 @@
    ],
    "_hits": {
     "573491": 0,
-    "3359227": 1
+    "3359227": 2
    },
    "_bench": {}
   },
@@ -3909,20 +3928,20 @@
    "3506595": 9,
    "1378937": 10,
    "363548": 11,
-   "4125292": 11,
+   "4125292": 12,
    "962024": 13,
    "4841175": 14,
    "5873092": 15,
    "7273369": 16,
+   "3359227": 17,
    "6341709": 17,
-   "3359227": 18,
    "6619523": 19,
    "1457736": 20,
    "75187": 21,
    "3552160": 22,
    "1474501": 23,
    "383423": 24,
-   "5028423": 24,
+   "5028423": 25,
    "3375627": 26,
    "8316989": 27,
    "3591460": 28,
@@ -3945,22 +3964,22 @@
    "4841175": null,
    "5873092": null,
    "7273369": null,
-   "6341709": null,
    "3359227": null,
+   "6341709": null,
    "6619523": null,
    "1457736": null,
    "75187": null,
    "3552160": null,
    "1474501": null,
    "383423": null,
-   "5028423": null,
+   "5028423": "tinpot",
    "3375627": "tinpot",
    "8316989": "tinpot",
    "3591460": "tinpot",
    "5706920": "tinpot"
   }
  },
- "updated": "2026-11-27T21:14:15Z",
+ "updated": "2026-11-27T21:24:15Z",
  "hist": {
   "key": "12:live",
   "data": {
@@ -6856,7 +6875,7 @@
    "GW11 between: Maanav's Bench Boost bombshell tops a chaotic gameweek 11. Maanav took the gameweek with 58 points on a Bench Boost, climbing from 19th to 14th and ending the long Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. Haaland was armbanded by 22 managers and scored just 2, so 4 each, and that bloc is still bleeding. Tarkowski's red card and Raya's injury doubt add more jeopardy for those who own them.",
    "GW11 between: Maanav's bench-boosted rise stays the story as Ayodele holds the top. Maanav's 58 on a Bench Boost was the standout of gameweek 11, climbing from 19th to 14th and ending a long run of Haaland misery at the top. Ayodele still leads on 733, 11 clear of Cherag, while Nihal's Bench Boost took him to 50 and into 3rd. The Haaland armband bloc remains the league's biggest running joke, with 22 managers armbanding him for just 2 points. Tarkowski's red card and Raya's injury doubt add jeopardy for those who own them."
   ],
-  "ts": "2026-11-27T21:14:15Z",
+  "ts": "2026-11-27T21:24:15Z",
   "takes": [
    {
     "text": "Hishaan's Barry is paying off in a big way, and Hishaan is the clear winner. Haaland's 0 is a nervous moment for 21 managers, Ayodele most of all.",
@@ -6984,10 +7003,10 @@
     "plots": 6
    },
    "12": {
-    "in": 255248,
-    "out": 36501,
-    "calls": 20,
-    "refreshes": 5,
+    "in": 293171,
+    "out": 40088,
+    "calls": 22,
+    "refreshes": 6,
     "desks": 5,
     "desk_in": 68559,
     "desk_out": 22281
@@ -9730,8 +9749,8 @@
     "entry_name": "Ay",
     "rank": 1,
     "last_rank": 1,
-    "total": 734,
-    "event_total": 1
+    "total": 735,
+    "event_total": 2
    },
    {
     "entry": 3219276,
@@ -9739,8 +9758,8 @@
     "entry_name": "Pav Bhaji+Jodi Extra",
     "rank": 2,
     "last_rank": 2,
-    "total": 724,
-    "event_total": 2
+    "total": 726,
+    "event_total": 4
    },
    {
     "entry": 573491,
@@ -9748,8 +9767,8 @@
     "entry_name": "Saka Senapati XI",
     "rank": 3,
     "last_rank": 3,
-    "total": 717,
-    "event_total": 1
+    "total": 718,
+    "event_total": 2
    },
    {
     "entry": 3323262,
@@ -9757,8 +9776,8 @@
     "entry_name": "Choke City",
     "rank": 4,
     "last_rank": 4,
-    "total": 711,
-    "event_total": 1
+    "total": 712,
+    "event_total": 2
    },
    {
     "entry": 1541394,
@@ -9766,8 +9785,8 @@
     "entry_name": "Red Devils",
     "rank": 5,
     "last_rank": 5,
-    "total": 700,
-    "event_total": 1
+    "total": 701,
+    "event_total": 2
    },
    {
     "entry": 7471754,
@@ -9784,8 +9803,8 @@
     "entry_name": "Boooooooca",
     "rank": 7,
     "last_rank": 7,
-    "total": 679,
-    "event_total": 1
+    "total": 680,
+    "event_total": 2
    },
    {
     "entry": 4922092,
@@ -9793,8 +9812,8 @@
     "entry_name": "Ravi's Team",
     "rank": 8,
     "last_rank": 8,
-    "total": 675,
-    "event_total": 1
+    "total": 676,
+    "event_total": 2
    },
    {
     "entry": 3506595,
@@ -9802,8 +9821,8 @@
     "entry_name": "Jacquet Potato",
     "rank": 9,
     "last_rank": 9,
-    "total": 674,
-    "event_total": 1
+    "total": 675,
+    "event_total": 2
    },
    {
     "entry": 1378937,
@@ -9811,8 +9830,8 @@
     "entry_name": "Wirtz My Jacquet",
     "rank": 10,
     "last_rank": 10,
-    "total": 672,
-    "event_total": 1
+    "total": 673,
+    "event_total": 2
    },
    {
     "entry": 363548,
@@ -9820,8 +9839,8 @@
     "entry_name": "Crème De La Prèm",
     "rank": 11,
     "last_rank": 12,
-    "total": 670,
-    "event_total": 2
+    "total": 672,
+    "event_total": 4
    },
    {
     "entry": 4125292,
@@ -9829,8 +9848,8 @@
     "entry_name": "Shawshank Relegation",
     "rank": 12,
     "last_rank": 11,
-    "total": 670,
-    "event_total": 1
+    "total": 671,
+    "event_total": 2
    },
    {
     "entry": 962024,
@@ -9838,8 +9857,8 @@
     "entry_name": "Kobbie Wan Kenobi",
     "rank": 13,
     "last_rank": 13,
-    "total": 667,
-    "event_total": 1
+    "total": 668,
+    "event_total": 2
    },
    {
     "entry": 4841175,
@@ -9847,8 +9866,8 @@
     "entry_name": "Brewmore",
     "rank": 14,
     "last_rank": 14,
-    "total": 665,
-    "event_total": 2
+    "total": 667,
+    "event_total": 4
    },
    {
     "entry": 5873092,
@@ -9856,8 +9875,8 @@
     "entry_name": "The Bench",
     "rank": 15,
     "last_rank": 15,
-    "total": 660,
-    "event_total": 1
+    "total": 661,
+    "event_total": 2
    },
    {
     "entry": 7273369,
@@ -9865,8 +9884,17 @@
     "entry_name": "eyezil",
     "rank": 16,
     "last_rank": 16,
-    "total": 655,
-    "event_total": 1
+    "total": 656,
+    "event_total": 2
+   },
+   {
+    "entry": 3359227,
+    "player_name": "Raushan Uttamchandani",
+    "entry_name": "Raus' XV",
+    "rank": 17,
+    "last_rank": 17,
+    "total": 651,
+    "event_total": 4
    },
    {
     "entry": 6341709,
@@ -9874,16 +9902,7 @@
     "entry_name": "Chalupa Batmen 3.0�",
     "rank": 17,
     "last_rank": 18,
-    "total": 650,
-    "event_total": 1
-   },
-   {
-    "entry": 3359227,
-    "player_name": "Raushan Uttamchandani",
-    "entry_name": "Raus' XV",
-    "rank": 18,
-    "last_rank": 17,
-    "total": 649,
+    "total": 651,
     "event_total": 2
    },
    {
@@ -9892,8 +9911,8 @@
     "entry_name": "Lav's Elite",
     "rank": 19,
     "last_rank": 21,
-    "total": 647,
-    "event_total": 6
+    "total": 649,
+    "event_total": 8
    },
    {
     "entry": 1457736,
@@ -9901,8 +9920,8 @@
     "entry_name": "Sound of da Tzolis",
     "rank": 20,
     "last_rank": 19,
-    "total": 646,
-    "event_total": 2
+    "total": 648,
+    "event_total": 4
    },
    {
     "entry": 75187,
@@ -9910,8 +9929,8 @@
     "entry_name": "Enzo in the City",
     "rank": 21,
     "last_rank": 20,
-    "total": 643,
-    "event_total": 1
+    "total": 644,
+    "event_total": 2
    },
    {
     "entry": 3552160,
@@ -9919,8 +9938,8 @@
     "entry_name": "LET'S RUMBLE!!!",
     "rank": 22,
     "last_rank": 22,
-    "total": 630,
-    "event_total": 7
+    "total": 632,
+    "event_total": 9
    },
    {
     "entry": 1474501,
@@ -9928,8 +9947,8 @@
     "entry_name": "Lovdenya Bhojyam",
     "rank": 23,
     "last_rank": 23,
-    "total": 625,
-    "event_total": 7
+    "total": 627,
+    "event_total": 9
    },
    {
     "entry": 383423,
@@ -9937,8 +9956,8 @@
     "entry_name": "Quantum of Tzolis",
     "rank": 24,
     "last_rank": 25,
-    "total": 613,
-    "event_total": 1
+    "total": 614,
+    "event_total": 2
    },
    {
     "entry": 5028423,
@@ -9955,8 +9974,8 @@
     "entry_name": "Maximus",
     "rank": 26,
     "last_rank": 26,
-    "total": 594,
-    "event_total": 1
+    "total": 595,
+    "event_total": 2
    },
    {
     "entry": 8316989,
@@ -9964,8 +9983,8 @@
     "entry_name": "EA FC",
     "rank": 27,
     "last_rank": 27,
-    "total": 588,
-    "event_total": 1
+    "total": 589,
+    "event_total": 2
    },
    {
     "entry": 3591460,
@@ -9973,8 +9992,8 @@
     "entry_name": "GoonerVision",
     "rank": 28,
     "last_rank": 28,
-    "total": 560,
-    "event_total": 1
+    "total": 561,
+    "event_total": 2
    },
    {
     "entry": 5706920,
@@ -9982,8 +10001,8 @@
     "entry_name": "Vicecityfc",
     "rank": 29,
     "last_rank": 29,
-    "total": 498,
-    "event_total": 7
+    "total": 500,
+    "event_total": 9
    }
   ]
  },
@@ -16829,8 +16848,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Palmer"
      }
     ]
@@ -16859,8 +16878,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Palmer"
      }
     ]
@@ -16918,8 +16937,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 5",
-      "pts": 5,
+      "label": "Playing · 6",
+      "pts": 6,
       "player": "Delap"
      }
     ]
@@ -16948,8 +16967,8 @@
      },
      {
       "state": "playing",
-      "label": "Playing · 1",
-      "pts": 1,
+      "label": "Playing · 2",
+      "pts": 2,
       "player": "Palmer"
      }
     ]
@@ -17397,21 +17416,11 @@
   "ts": "2026-11-27T19:04:16Z"
  },
  "checks": {
-  "ts": "2026-11-27T21:14:15Z",
-  "issues": [],
-  "page": [],
-  "wording": [
-   "wording (1 points): ...u vs your rivals today    AY   Ayodele  1 pts this week...",
-   "wording (1 points): ...k · 9 to play   +5 to them    SI   Sid  1 pts this week...",
-   "wording (1 points): ...ek · 10 to play   you +4    NA   Nanik  1 pts this week...",
-   "wording (1 points): ...You vs your rivals today    SI   Sid  1 pts this week...",
-   "wording (1 points): ...10 to play   +1 to them    NA   Nanik  1 pts this week...",
-   "wording (1 points): ...· 10 to play   +1 to them    OM   Omar  1 pts this week...",
-   "wording (1 points): ...eek · 11 to play   you +1    RA   Ravi  1 pts this week...",
-   "wording (1 points): ...week · 10 to play   level    OM   Omar  1 pts this week...",
-   "wording (1 points): ...k · 10 to play   level    HI   Hishaan  1 pts this week...",
-   "wording (1 points): ...You vs your rivals today    RA   Ravi  1 pts this week..."
-  ]
+  "ts": "2026-11-27T21:24:15Z",
+  "issues": [
+   "desk written from older totals (27 managers changed since)"
+  ],
+  "page": []
  },
  "pwatch": {
   "seen": {
@@ -18730,6 +18739,11 @@
     "key": "d12:sold:480:1:0",
     "sig": "5f11dccafb",
     "file": "share/live/gw12-p480-5f11dccafb.png"
+   },
+   "p156": {
+    "key": "d12:sold:156:0:1",
+    "sig": "40df89e67e",
+    "file": "share/live/gw12-p156-40df89e67e.png"
    }
   }
  },
