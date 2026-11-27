@@ -9425,6 +9425,21 @@
  ],
  "stories": [
   {
+   "key": "d12:capflop:40",
+   "kind": "live",
+   "tag": "Captains",
+   "head": "Aary's armband flops: Rogers gets 2",
+   "body": "The armband giveth, the armband taketh away.",
+   "stat": "1 captained him",
+   "score": 65,
+   "who": [
+    3188980
+   ],
+   "ts": "2026-11-27T22:06:50Z",
+   "gw": 12,
+   "img": "share/live/gw12-p40-c97c032be4.png"
+  },
+  {
    "key": "d12:hit:7244060",
    "kind": "deadline",
    "tag": "Transfers",
@@ -9859,7 +9874,8 @@
   "d12:hit:7244060",
   "d12:bandwagon:366",
   "d12:bandwagon:166",
-  "d12:template"
+  "d12:template",
+  "d12:capflop:40"
  ],
  "done": [
   "deadline:11",
@@ -11137,7 +11153,7 @@
    "10320954": "tinpot"
   }
  },
- "updated": "2026-11-27T21:55:34Z",
+ "updated": "2026-11-27T22:06:50Z",
  "ai": {
   "column": {
    "headline": "Shantanu storms up as Haaland armband backfires",
@@ -11196,7 +11212,7 @@
    "1979363": "You are 14th on 629 after a 22 week, 3 behind Parth. Aarin sits 3 behind you, so a fightback is needed."
   },
   "key": "12:live",
-  "ts": "2026-11-27T19:35:14Z",
+  "ts": "2026-11-27T22:06:50Z",
   "usage": {
    "11": {
     "in": 196244,
@@ -11206,13 +11222,14 @@
     "plots": 3
    },
    "12": {
-    "in": 166699,
-    "out": 38631,
-    "calls": 18,
-    "refreshes": 2,
-    "desks": 7,
-    "desk_in": 100739,
-    "desk_out": 31692
+    "in": 225893,
+    "out": 50100,
+    "calls": 24,
+    "refreshes": 3,
+    "desks": 8,
+    "desk_in": 121842,
+    "desk_out": 37024,
+    "plots": 1
    }
   },
   "plots_v_tries": {
@@ -11221,17 +11238,17 @@
   "plots": [
    {
     "id": "bench:2784861",
-    "title": "Bench Blunders Mount",
+    "title": "Bench Points Keep Piling Up",
     "status": "Building",
-    "text": "Atharva Kshirsagar has left 216 points on the bench this season, more than double the league average of 89. The question is whether the team sheet will ever get it right.",
-    "next": "",
+    "text": "Atharva Kshirsagar has left 216 points on the bench this season, more than double the league average of 84. The team sheet is still costing him more than almost anyone else in the league.",
+    "next": "Will the right 11 ever arrive?",
     "who": [
      2784861
     ],
     "kind": "bench curse",
-    "episode": 1,
-    "gw": 11,
-    "ts": "2026-11-27T18:40:21Z",
+    "episode": 2,
+    "gw": 12,
+    "ts": "2026-11-27T22:06:50Z",
     "question": "Will Atharva Kshirsagar ever pick the right 11?",
     "line": [],
     "since": 11,
@@ -11239,17 +11256,17 @@
    },
    {
     "id": "underdog:3504829",
-    "title": "Aryamann's Relentless Climb",
+    "title": "Aryamann Climbs Into the Top 4",
     "status": "Heating up",
-    "text": "Aryamann has climbed from 20th in GW2 to 4th now, 16 places in total. A 3-place jump in GW11 alone shows the climb is still gaining pace.",
-    "next": "",
+    "text": "Aryamann has risen from 20th in GW2 to 4th now, 16 places in total. He was 7th in GW10, so the climb has been picking up pace in recent weeks.",
+    "next": "Rank 4 of 24. Could the podium be next?",
     "who": [
      3504829
     ],
     "kind": "underdog",
-    "episode": 1,
-    "gw": 11,
-    "ts": "2026-11-27T18:40:21Z",
+    "episode": 2,
+    "gw": 12,
+    "ts": "2026-11-27T22:06:50Z",
     "question": "How high can Aryamann go?",
     "line": [
      [
@@ -11273,7 +11290,7 @@
       "7th"
      ],
      [
-      "GW11",
+      "GW12",
       "4th"
      ]
     ],
@@ -11282,17 +11299,17 @@
    },
    {
     "id": "hot:6543415",
-    "title": "Streak Hits a Low",
-    "status": "Twist",
-    "text": "Aditya Dalal's 8-week run above the league average is still alive, but 37 points in GW11 is the lowest score of the streak.",
-    "next": "Can Aditya Dalal bounce back from 37?",
+    "title": "8 Weeks and Counting",
+    "status": "Building",
+    "text": "Aditya Dalal's streak of 8 weeks above the league average is still alive. The 37 points in GW11 was the lowest score of the run, and the next gameweek will show whether that was a blip.",
+    "next": "",
     "who": [
      6543415
     ],
     "kind": "hot streak",
-    "episode": 1,
-    "gw": 11,
-    "ts": "2026-11-27T18:40:21Z",
+    "episode": 2,
+    "gw": 12,
+    "ts": "2026-11-27T22:06:50Z",
     "question": "How long can Aditya Dalal stay hot?",
     "line": [
      [
@@ -11320,46 +11337,82 @@
     "streak": 8
    },
    {
-    "id": "chase:3234443",
-    "title": "One Point Separates Them",
-    "status": "Heating up",
-    "text": "Atharva Kshirsagar leads Aditya Dharap by just 1 point, after the gap fell from 44 in GW8 to 11 in GW10 and then to 1 in GW11.",
-    "next": "1 point. That's all.",
+    "id": "title",
+    "title": "Sukrut's Lead Keeps Growing",
+    "status": "Building",
+    "text": "Sukrut leads Aditya Dalal by 26 points, up from 24 in GW11. The lead has changed hands 5 times this season, and Prerana sits 27 points behind the leader.",
+    "next": "Prerana is 27 behind. Anyone got an answer?",
     "who": [
-     3234443,
-     2784861
+     3991082,
+     6543415
     ],
-    "kind": "chaser",
+    "kind": "title race",
     "episode": 1,
-    "gw": 11,
-    "ts": "2026-11-27T18:40:21Z",
-    "question": "Can Aditya Dharap catch Atharva Kshirsagar?",
+    "gw": 12,
+    "ts": "2026-11-27T22:06:50Z",
+    "question": "Can anyone stop Sukrut?",
     "line": [
      [
-      "GW8",
-      "Atharva +44"
-     ],
-     [
       "GW9",
-      "Atharva +43"
+      "Sukrut"
      ],
      [
       "GW10",
-      "Atharva +11"
+      "Sukrut"
      ],
      [
       "GW11",
-      "Atharva +1"
+      "Sukrut"
+     ],
+     [
+      "GW12",
+      "Sukrut"
      ]
     ],
-    "since": 11,
+    "since": 12,
+    "streak": null
+   },
+   {
+    "id": "gold",
+    "title": "Fighting for the Last Gold",
+    "status": "Heating up",
+    "text": "Aryamann holds the last Gold spot, with Anuj first out and a gap of 4. Anuj has spent 3 of the last 5 weeks in the zone to Aryamann's 2, so the spot is up for grabs.",
+    "next": "If Anuj wins one more week, the spot could change hands.",
+    "who": [
+     3504829,
+     2994764
+    ],
+    "kind": "zone line",
+    "episode": 1,
+    "gw": 12,
+    "ts": "2026-11-27T22:06:50Z",
+    "question": "Who holds the last Gold spot?",
+    "line": [
+     [
+      "GW9",
+      "Anuj +13"
+     ],
+     [
+      "GW10",
+      "Anuj +18"
+     ],
+     [
+      "GW11",
+      "Aryamann +6"
+     ],
+     [
+      "GW12",
+      "Aryamann +4"
+     ]
+    ],
+    "since": 12,
     "streak": null
    }
   ],
-  "plots_ts": "",
-  "plots_key": "11:between",
+  "plots_ts": "2026-11-27T22:06:50Z",
+  "plots_key": "12:live",
   "plots_v": 8,
-  "plots_sig": "c27a006d358c",
+  "plots_sig": "f78cbdbfc977",
   "gaffer_draft": {
    "gw": 11,
    "v": 3,
@@ -12899,6 +12952,95 @@
   },
   "desks": [
    {
+    "headline": "Sukrut holds top spot as Aditya Dalal's Free Hit chases",
+    "text": "**Sukrut** still leads on 746 points, **26 points ahead** of Aditya Dalal, who has played a Free Hit to chase him. Sukrut's captain N.Jackson is still to play, and Vuskovic and Silva are his alone to come, while Calvert-Lewin's armband carries Aditya Dalal's hopes.",
+    "you": {
+     "3991082": "Vuskovic and Silva are yours alone to come, and they could keep you on top.",
+     "6543415": "Prerana is only 1 behind you, so every point from here matters.",
+     "8849458": "Aditya Dalal is 1 above you, and he is the one you are chasing.",
+     "3504829": "Prerana is 27 above you in the table, a big gap to close.",
+     "2994764": "Aryamann is just 4 above you, keeping the last Gold spot within reach.",
+     "1310155": "Dasilva and McGinn are yours alone to come, so they could lift you.",
+     "224457": "van Ewijk and Ndiaye are yours alone, and both are still to play.",
+     "5703947": "Your Triple Captain on N.Jackson is still to play, so the big gamble could pay off.",
+     "8893621": "Your Wildcard is the day's big decision, and Ajer and Gomez are yours alone to come.",
+     "2784861": "Aditya Dharap is just 3 behind you in the table.",
+     "3234443": "Atharva Kshirsagar is 3 above you, a gap Jacquet alone could help you close.",
+     "5772383": "You were as high as 12th earlier today, and now sit 13th.",
+     "1979363": "Hall and Schade are yours alone to come, so they could help you hold off Aarin.",
+     "748886": "Sujal is 3 above you, a gap your 10 players still to play could close.",
+     "7244060": "Your 8-point hit has cost you, leaving your gameweek on -4 points.",
+     "5781412": "Solanke is yours alone and still to play, so he could lift you.",
+     "4979869": "Hill, Ayari and McBurnie are yours alone and still to play.",
+     "4875847": "Tzolakis and Mendy are yours alone, and both are still to come.",
+     "9004622": "Diop and M.Sangaré are yours alone to come, with Isak as your captain.",
+     "3188980": "Your armband on Rogers turned his 2 points into 4 for you.",
+     "10320954": "Kayode is yours alone and still to play, so you could be one to watch."
+    },
+    "ts": "2026-11-27T22:06:50Z",
+    "gw": 12,
+    "moment": "day_over",
+    "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:f:3-2|120:n:0-0",
+    "ranks": {
+     "3991082": 1,
+     "6543415": 2,
+     "8849458": 3,
+     "3504829": 4,
+     "2994764": 5,
+     "1310155": 6,
+     "224457": 7,
+     "5703947": 8,
+     "8893621": 9,
+     "2784861": 10,
+     "3234443": 11,
+     "6519111": 12,
+     "5772383": 13,
+     "1979363": 14,
+     "748886": 15,
+     "7244060": 16,
+     "5781412": 17,
+     "4979869": 18,
+     "4875847": 19,
+     "8824397": 20,
+     "5733897": 21,
+     "9004622": 22,
+     "3188980": 23,
+     "10320954": 24
+    },
+    "totals": {
+     "3991082": 746,
+     "6543415": 720,
+     "8849458": 719,
+     "3504829": 692,
+     "2994764": 688,
+     "1310155": 674,
+     "224457": 669,
+     "5703947": 663,
+     "8893621": 655,
+     "2784861": 647,
+     "3234443": 644,
+     "6519111": 638,
+     "5772383": 635,
+     "1979363": 631,
+     "748886": 628,
+     "7244060": 612,
+     "5781412": 605,
+     "4979869": 593,
+     "4875847": 577,
+     "8824397": 567,
+     "5733897": 548,
+     "9004622": 533,
+     "3188980": 509,
+     "10320954": 495
+    },
+    "ga": {},
+    "you_full_ts": "2026-11-27T22:06:50Z",
+    "next": {
+     "ko": "2026-11-28T15:00:00Z",
+     "match": "LEE v COV"
+    }
+   },
+   {
     "headline": "Aditya Dalal's Free Hit chases Sukrut at the top",
     "text": "**Sukrut still leads the top spot**, with Vuskovic and Silva to come for him alone, and nobody else in the league owns them. **Aditya Dalal is the one chasing**, using a Free Hit with Calvert-Lewin's armband still to play. Every fixture left will decide whether Sukrut's picks hold on.",
     "you": {
@@ -13253,93 +13395,9 @@
      "ko": "2026-11-28T15:00:00Z",
      "match": "LEE v COV"
     }
-   },
-   {
-    "headline": "Haaland's blank could hand Pruthviraj a shot at Kalash",
-    "text": "**If Haaland blanks, Pruthviraj could pass Kalash**, who starts 12 ahead of him. **Haaland is started by 16 managers and captained by 10**, so a blank would sting plenty of rivals.",
-    "you": {
-     "3991082": "If Silva and Vuskovic both haul, you could stay top. Only you start both of them.",
-     "5703947": "If Ødegaard and Muharemović both haul, you could climb from 8th to 5th.",
-     "8893621": "If Szoboszlai and Ajer both haul, you could climb from 9th to 8th. Ajer is yours alone.",
-     "3234443": "If Trafford and Bogle both haul, you could climb from 11th to 7th.",
-     "5772383": "If Muharemović and Gabriel both haul, you could climb from 12th to 11th. You captain Muharemović.",
-     "748886": "If Isak and Bogle both haul, you could climb from 15th to 11th.",
-     "7244060": "If Verbruggen hauls, you could climb from 16th to 13th.",
-     "4979869": "If McBurnie and Hill both haul, you could climb from 18th to 17th. Only you start both.",
-     "4875847": "If Tzolakis and Isak both haul, you could climb from 19th to 18th. Tzolakis is yours alone.",
-     "9004622": "If Isak and M.Sangaré both haul, you could climb from 22nd to 21st. You captain Isak, and M.Sangaré is yours alone.",
-     "10320954": "If Verbruggen and Ødegaard both haul, you could climb from 24th to 23rd."
-    },
-    "lines": {
-     "l1": "Sukrut starts 24 clear of Aditya Dalal, and no single haul or blank changes who could finish top.",
-     "l2": "If Haaland blanks, Pruthviraj could pass Kalash, who starts 12 ahead, and Haaland is captained by 10.",
-     "l3": "If Palmer blanks, Aarin could pass Parth, who starts 6 ahead and captains Palmer.",
-     "l4": "If Evanilson hauls, Sahil Phadnis could pass Sujal, who starts 21 ahead, and Sahil captains Evanilson.",
-     "l5": "Aryamann starts 6 clear of Anuj on the Gold line, and no single haul or blank moves it.",
-     "l6": "Pradnyesh starts 8 clear of Shantanu on the Tin Pot line, and no single haul or blank moves it."
-    },
-    "ts": "2026-11-27T19:07:23Z",
-    "gw": 12,
-    "moment": "preview",
-    "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:n:0-0|120:n:0-0",
-    "plain": false,
-    "ranks": {
-     "3991082": 1,
-     "6543415": 2,
-     "8849458": 3,
-     "3504829": 4,
-     "2994764": 5,
-     "1310155": 6,
-     "224457": 7,
-     "5703947": 8,
-     "8893621": 9,
-     "2784861": 10,
-     "3234443": 11,
-     "5772383": 12,
-     "6519111": 13,
-     "1979363": 14,
-     "748886": 15,
-     "7244060": 16,
-     "5781412": 17,
-     "4979869": 18,
-     "4875847": 19,
-     "8824397": 20,
-     "5733897": 21,
-     "9004622": 22,
-     "3188980": 23,
-     "10320954": 24
-    },
-    "totals": {
-     "3991082": 742,
-     "6543415": 718,
-     "8849458": 715,
-     "3504829": 690,
-     "2994764": 684,
-     "1310155": 672,
-     "224457": 665,
-     "5703947": 661,
-     "8893621": 653,
-     "2784861": 643,
-     "3234443": 642,
-     "5772383": 633,
-     "6519111": 632,
-     "1979363": 629,
-     "748886": 626,
-     "7244060": 608,
-     "5781412": 602,
-     "4979869": 591,
-     "4875847": 575,
-     "8824397": 567,
-     "5733897": 546,
-     "9004622": 531,
-     "3188980": 505,
-     "10320954": 493
-    },
-    "ga": {},
-    "you_full_ts": "2026-11-27T19:07:23Z"
    }
   ],
-  "desk_last_ok": "2026-11-27T21:55:34Z",
+  "desk_last_ok": "2026-11-27T22:06:50Z",
   "desk_day": {
    "date": "2026-11-27",
    "ranks": {
@@ -13378,6 +13436,13 @@
     "title": "Streak Hits a Low",
     "text": "Aditya Dalal's 8-week run above the league average is still alive, but 37 points in GW11 is the lowest score of the streak.",
     "next": "Can Aditya Dalal bounce back from 37?"
+   },
+   {
+    "gw": 12,
+    "day": "2026-11-27",
+    "title": "8 Weeks and Counting",
+    "text": "Aditya Dalal's streak of 8 weeks above the league average is still alive. The 37 points in GW11 was the lowest score of the run, and the next gameweek will show whether that was a blip.",
+    "next": ""
    }
   ],
   "bench:2784861": [
@@ -13387,6 +13452,13 @@
     "title": "Bench Blunders Mount",
     "text": "Atharva Kshirsagar has left 216 points on the bench this season, more than double the league average of 89. The question is whether the team sheet will ever get it right.",
     "next": ""
+   },
+   {
+    "gw": 12,
+    "day": "2026-11-27",
+    "title": "Bench Points Keep Piling Up",
+    "text": "Atharva Kshirsagar has left 216 points on the bench this season, more than double the league average of 84. The team sheet is still costing him more than almost anyone else in the league.",
+    "next": "Will the right 11 ever arrive?"
    }
   ],
   "underdog:3504829": [
@@ -13396,6 +13468,13 @@
     "title": "Aryamann's Relentless Climb",
     "text": "Aryamann has climbed from 20th in GW2 to 4th now, 16 places in total. A 3-place jump in GW11 alone shows the climb is still gaining pace.",
     "next": ""
+   },
+   {
+    "gw": 12,
+    "day": "2026-11-27",
+    "title": "Aryamann Climbs Into the Top 4",
+    "text": "Aryamann has risen from 20th in GW2 to 4th now, 16 places in total. He was 7th in GW10, so the climb has been picking up pace in recent weeks.",
+    "next": "Rank 4 of 24. Could the podium be next?"
    }
   ],
   "chase:3234443": [
@@ -13407,7 +13486,24 @@
     "next": "1 point. That's all."
    }
   ],
-  "title": []
+  "title": [
+   {
+    "gw": 12,
+    "day": "2026-11-27",
+    "title": "Sukrut's Lead Keeps Growing",
+    "text": "Sukrut leads Aditya Dalal by 26 points, up from 24 in GW11. The lead has changed hands 5 times this season, and Prerana sits 27 points behind the leader.",
+    "next": "Prerana is 27 behind. Anyone got an answer?"
+   }
+  ],
+  "gold": [
+   {
+    "gw": 12,
+    "day": "2026-11-27",
+    "title": "Fighting for the Last Gold",
+    "text": "Aryamann holds the last Gold spot, with Anuj first out and a gap of 4. Anuj has spent 3 of the last 5 weeks in the zone to Aryamann's 2, so the spot is up for grabs.",
+    "next": "If Anuj wins one more week, the spot could change hands."
+   }
+  ]
  },
  "share": {
   "key": "a2f8b9075205",
@@ -13426,7 +13522,13 @@
  },
  "moment_imgs": {
   "gw": 12,
-  "files": {}
+  "files": {
+   "p40": {
+    "key": "d12:capflop:40",
+    "sig": "c97c032be4",
+    "file": "share/live/gw12-p40-c97c032be4.png"
+   }
+  }
  },
  "pwatch": {
   "seen": {
@@ -13970,7 +14072,7 @@
   ]
  },
  "checks": {
-  "ts": "2026-11-27T21:55:34Z",
+  "ts": "2026-11-27T22:06:50Z",
   "issues": [],
   "page": []
  },
@@ -14080,9 +14182,9 @@
     "label": "Swing player",
     "branch": "blank",
     "status": {
-     "state": "playing",
-     "label": "Playing · 2",
-     "pts": 2
+     "state": "blank",
+     "pts": 2,
+     "label": "Blanked · 2"
     }
    },
    {
