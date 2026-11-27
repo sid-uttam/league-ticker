@@ -11637,7 +11637,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-27T20:54:57Z",
+ "updated": "2026-11-27T21:04:58Z",
  "ai": {
   "briefings": {
    "3029346": "You sit top on 774 after 52 this week, with Nikhil 17 behind. Keep an eye on Haaland's armband and Calafiori, who you don't own but many others do.",
@@ -11691,48 +11691,48 @@
     "plots": 5
    },
    "12": {
-    "in": 105263,
-    "out": 21027,
-    "calls": 10,
+    "in": 128472,
+    "out": 27948,
+    "calls": 12,
     "refreshes": 2,
-    "desks": 3,
-    "desk_in": 35214,
-    "desk_out": 15789
+    "desks": 4,
+    "desk_in": 58423,
+    "desk_out": 22710
    }
   },
   "desks": [
    {
     "headline": "Matt leads top spot as Nikhil waits on Isak",
-    "text": "NFO v CHE is 1-0 at 34 minutes, with Palmer's **1 point** the early headline for Lakshay, whose captain could help him escape Rajiv. Matt leads the top spot, De Cuyper still to play, while Nikhil needs **Isak** to haul with Raya, Silva and Calafiori to come.",
+    "text": "**Matt leads** the top spot with **De Cuyper** still to play for him, and only 2 managers have that captain, so the fight could tilt quickly. Nikhil needs **Isak** to haul while Raya, Silva and Calafiori are still to come, and NFO v CHE is only 1-0 with plenty of minutes left.",
     "you": {
      "3029346": "Only 2 managers have De Cuyper as captain, and he is still to play for **you**.",
-     "2321301": "Barcola is yours alone among the players still to play, so he is your one route back.",
-     "1921902": "Sunny sits right behind you, and N.Jackson's armband is still to play for you.",
-     "1655993": "Ravin is directly ahead of you, and Groß's armband is still to play for you.",
-     "2687116": "You dropped down the table earlier today and climbed back, with N.Jackson still to play.",
-     "735721": "Your Free Hit squad is level with Chandru, with Calvert-Lewin still to come.",
-     "3344797": "Deepak is directly above you, and Calvert-Lewin's armband is still to play.",
-     "1036311": "Rohan sits directly above you, and Calvert-Lewin's armband is still to play.",
+     "2321301": "**Barcola** is yours alone among your players still to play, so he could be your route back.",
+     "1921902": "Sunny sits right behind you, with N.Jackson's armband still to play for you.",
+     "1655993": "Ravin sits directly ahead of you, with Groß's armband still to come.",
+     "2687116": "You dipped down the table earlier today before climbing back, with N.Jackson's armband still to play.",
+     "735721": "Your Free Hit squad is level with Chandru, with Calvert-Lewin's armband still to come.",
+     "3344797": "Deepak is directly above you, with Calvert-Lewin's armband still to play.",
+     "1036311": "Rohan sits directly above you, with Calvert-Lewin's armband still to play.",
      "5474293": "Prem is directly behind you, with De Cuyper's armband still to play for you.",
      "4487775": "Sahil is directly above you, with N.Jackson's armband still to play for you.",
      "3350483": "Sunil is closing directly behind you, with Calvert-Lewin's armband still to come.",
-     "3072827": "You briefly moved up earlier today and have slipped back, with Isak's armband still to play.",
-     "75778": "Naresh is directly behind you, and Calvert-Lewin's armband is still to play.",
-     "2934546": "Marcel is directly above you, and Isak's armband is still to play.",
-     "5682768": "Naresh is directly above you, and Calvert-Lewin's armband is still to come.",
+     "3072827": "You moved up earlier today before slipping back, with Isak's armband still to play.",
+     "75778": "Naresh is directly behind you, with Calvert-Lewin's armband still to play.",
+     "2934546": "Marcel is directly above you, with Isak's armband still to play for you.",
+     "5682768": "Naresh is directly above you, with Calvert-Lewin's armband still to come.",
      "6892917": "Vanessa is directly above you, with N.Jackson's armband still to play.",
      "4922092": "Poonam is directly above you, with Isak's armband still to play for you.",
-     "3506595": "Ravi Mahtani is directly above you, and your Wildcard squad still has N.Jackson to come.",
-     "2465483": "Hishaan is directly above you, and Isak's armband is still to play.",
-     "6279027": "Lakshay is directly behind you, and Evanilson's armband is still to play.",
-     "865376": "Pishu is directly above you, but Palmer is already playing for your armband.",
-     "7043406": "You have dropped into the Tin Pot spots, with Evanilson's armband still to play.",
-     "3314780": "Rajiv is directly above you, and Haaland's armband is still to play.",
-     "6159011": "Ravi Bhojwani is directly above you, and N.Jackson's armband is still to play.",
-     "6476662": "Alia is directly behind you, and Wirtz's armband is still to play.",
-     "6051923": "Bella is directly above you, and Haaland's armband is still to play."
+     "3506595": "Your Wildcard squad still has N.Jackson's armband to come, with Ravi Mahtani directly above you.",
+     "2465483": "Hishaan is directly above you, with Isak's armband still to play.",
+     "6279027": "Lakshay is directly behind you, with Evanilson's armband still to play.",
+     "865376": "Palmer's armband is already worth 2 points for you, and Pishu sits directly above.",
+     "7043406": "You have dropped into the Tin Pot spots, with Evanilson's armband still to come.",
+     "3314780": "Rajiv is directly above you, with Haaland's armband still to play.",
+     "6159011": "Ravi Bhojwani is directly above you, with N.Jackson's armband still to play.",
+     "6476662": "Wirtz is your solo captain and still to play, with Alia directly behind you.",
+     "6051923": "Bella is directly above you, with Haaland's armband still to play."
     },
-    "ts": "2026-11-27T20:35:09Z",
+    "ts": "2026-11-27T21:04:58Z",
     "gw": 12,
     "moment": "matches_on",
     "sig": "111:n:0-0|112:n:0-0|113:n:0-0|114:n:0-0|115:n:0-0|116:n:0-0|117:n:0-0|118:n:0-0|119:i:1-0|120:n:0-0",
@@ -11793,7 +11793,7 @@
      "6051923": 614
     },
     "ga": {},
-    "you_full_ts": "2026-11-27T20:07:40Z",
+    "you_full_ts": "2026-11-27T21:04:58Z",
     "next": {
      "ko": "2026-11-28T15:00:00Z",
      "match": "LEE v COV"
@@ -12024,7 +12024,7 @@
     "6051923": 26
    }
   },
-  "desk_last_ok": "2026-11-27T20:35:09Z",
+  "desk_last_ok": "2026-11-27T21:04:58Z",
   "plots": [
    {
     "id": "title",
@@ -14046,7 +14046,8 @@
    "GW11 between: Matt holds top as Haaland blanks again. Matt's Lammo's Lads sit top after collecting 52, with Nikhil 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb from 8th to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over. Haaland blanking again is starting to look like a running joke, and not a funny one for most of you.",
    "GW11 between: Matt holds the summit as Haaland blanks again. Matt's Lammo's Lads sit top after collecting 52, with Nikhil now 17 points back at Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb from 8th to 4th, the standout week of the season so far. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over. Haaland blanking again is starting to look like a running joke, and not a funny one for most of you.",
    "GW11 between: Haaland blanks again as Matt pulls clear. Lammo's Lads sit top after Matt collected 52, with Nikhil now 17 points back in Umm Suqeim FC. Haaland's armband returned just 2 points, which means 4 for each of his 22 captains, a blank that cost most of the league. Sunny's Bench Boost hauled 67 to climb to 4th, the week's standout. Ravin, Deepak and Chandru are still within touching distance, so the chase is far from over."
-  ]
+  ],
+  "_replaced_ts": "2026-11-27T20:35:09Z"
  },
  "plot_log": {
   "gamble:3506595:10": [
@@ -15189,7 +15190,7 @@
   "ts": "2026-11-27T19:08:21Z"
  },
  "checks": {
-  "ts": "2026-11-27T20:54:57Z",
+  "ts": "2026-11-27T21:04:58Z",
   "issues": [],
   "page": [],
   "wording": [
