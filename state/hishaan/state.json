@@ -11714,7 +11714,7 @@
    "6051923": "tinpot"
   }
  },
- "updated": "2026-11-28T00:26:13Z",
+ "updated": "2026-11-28T00:36:14Z",
  "ai": {
   "briefings": {
    "3029346": "You sit top on 774 after 52 this week, with Nikhil 17 behind. Keep an eye on Haaland's armband and Calafiori, who you don't own but many others do.",
@@ -15423,7 +15423,7 @@
   "ts": "2026-11-27T19:08:21Z"
  },
  "checks": {
-  "ts": "2026-11-28T00:26:13Z",
+  "ts": "2026-11-28T00:36:14Z",
   "issues": [],
   "page": []
  },
@@ -15716,13 +15716,6 @@
    "57": "11:up"
   },
   "log": [
-   {
-    "ts": "2026-11-18T00:30:06Z",
-    "el": 453,
-    "kind": "price",
-    "change": -0.1,
-    "price": 6.0
-   },
    {
     "ts": "2026-11-18T07:45:46Z",
     "el": 268,
